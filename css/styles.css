@@ -35,3 +35,28 @@
 .link:hover {
     stroke-opacity: .5;
 }
+
+
+/* scatter */
+
+#catter_chart {
+    position: relative;
+}
+
+#catter_chart .tooltip {
+    position: absolute;
+}
+
+
+/* hierarchy */
+
+.node {
+    font: 10px sans-serif;
+}
+
+.link {
+    stroke: steelblue;
+    stroke-opacity: 0.5;
+    fill: none;
+    pointer-events: none;
+}

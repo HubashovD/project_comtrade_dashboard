@@ -37,6 +37,9 @@ function categorySelector(country, year, flow) {
 
             bar_chart()
             map_chart()
+            line_chart()
+            scatterChart()
+            hierarchy()
         })
 
     }
