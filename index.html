@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/custom-select.css">
+
+    <!-- <script src="https://d3js.org/d3.v4.min.js"></script> -->
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+    <script src="js/sankey.js"></script>
+    <script src="js/custom-select.js"></script>
+
+</head>
+
+<body>
+    <div id='main-div'>
+        <div id="selectorsBlock"> </div>
+        <p>Select Reporting country:</p>
+        <div id='countrySelector'> </div>
+        <div id='yearSelectorBlock'>
+            <div id='yearSelector'></div>
+        </div>
+        <div id='flowsSelectorBlock'>
+            <div id='flowsSelector'></div>
+        </div>
+
+        <div id='categorySelectorBlock'>
+            <div id='categorySelector'> </div>
+        </div>
+
+        <!-- <div id='sankey_chart' width="700" height="700"></div> -->
+        <div id='barchartBlock'>
+            <div id="bar_chart"></div>
+        </div>
+        <div id="mapchartBlock">
+            <div id='map_chart' width="700" height="700"> </div>
+        </div>
+        <div id="line_chart" width="700" height="700"></div>
+
+
+
+    </div>
+    <!-- <script src="js/sankey_chart.js"></script> -->
+    <script src="js/bar_chart.js"></script>
+    <script src="js/map_chart.js"></script>
+    <script src="js/selector.js"></script>
+    <script src="js/line_chart.js"></script>
+    <script type="text/javascript">
+        function menaSelect() {
+            var selec = document.getElementsByName('ck');
+            for (var i = 0; i < selec.length; i++) {
+                if (selec[i].type == 'checkbox') {
+                    if (selec[i].classList.contains("menaCountry")) {
+                        selec[i].checked = true;
+                    } else {
+                        selec[i].checked = false;
+                    }
+                }
+
+            }
+        }
+    </script>
+
+    <script type="text/javascript">
+        function selects() {
+            var selec = document.getElementsByName('ck');
+            for (var i = 0; i < selec.length; i++) {
+                if (selec[i].type == 'checkbox')
+                    selec[i].checked = true;
+            }
+        }
+
+        function deSelect() {
+            var selec = document.getElementsByName('ck');
+            for (var i = 0; i < selec.length; i++) {
+                if (selec[i].type == 'checkbox')
+                    selec[i].checked = false;
+
+            }
+        }
+    </script>
+    <script>
+        /* When the user clicks on the button, 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            toggle between hiding and showing the dropdown content */
+        function myFunction() {
+            document.getElementById("myDropdown").classList.toggle("show");
+        }
+
+        // Close the dropdown if the user clicks outside of it
+        window.onclick = function(event) {
+            if (!event.target.matches('.dropbtn')) {
+                var dropdowns = document.getElementsByClassName("dropdown-content");
+                var i;
+                for (i = 0; i < dropdowns.length; i++) {
+                    var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains('show')) {
+                        openDropdown.classList.remove('show');
+                    }
+                }
+            }
+        }
+    </script>
+</body>
+
+</html>
