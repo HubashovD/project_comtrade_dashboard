@@ -58,7 +58,9 @@ function map_chart() {
         })
 
         // Draw the map
-        mapsvg.append("g")
+        map_g = mapsvg.append("g")
+
+        map_g
             .selectAll("path")
             .data(dataGeo.features)
             .enter().append("path")
@@ -70,7 +72,7 @@ function map_chart() {
             .style("stroke-width", 0)
 
         // Add the path
-        mapsvg.selectAll("myPath")
+        map_g.selectAll("myPath")
             .data(link)
             .enter()
             .append("path")
@@ -78,6 +80,15 @@ function map_chart() {
             .style("fill", "none")
             .style("stroke", "#69b3a2")
             .style("stroke-width", 2)
+
+        var zoom = d3.zoom()
+            .scaleExtent([1, 8])
+            .on('zoom', function() {
+                map_g.selectAll('path')
+                    .attr('transform', d3.event.transform);
+            });
+
+        mapsvg.call(zoom);
 
     }
 
