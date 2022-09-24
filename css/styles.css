@@ -7,6 +7,15 @@
 
 #selectorsBlock {
     width: 700px;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 999;
+}
+
+#info_grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 
@@ -39,11 +48,11 @@
 
 /* scatter */
 
-#catter_chart {
+#scatter_chart {
     position: relative;
 }
 
-#catter_chart .tooltip {
+#scatter_chart .tooltip {
     position: absolute;
 }
 

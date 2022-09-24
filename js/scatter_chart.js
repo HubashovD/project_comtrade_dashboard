@@ -1,5 +1,7 @@
 function scatterChart() {
 
+    var f = d3.format(".2s")
+
     // set the dimensions and margins of the graph
     var margin = { top: 10, right: 30, bottom: 30, left: 60 },
         width = 700 - margin.left - margin.right,
@@ -43,16 +45,34 @@ function scatterChart() {
             var x = d3.scaleLinear()
                 .domain([0, d3.max(data, function(d) { return +d.TradeValue_export })])
                 .range([0, width]);
-            svg.append("g")
+
+            xAxis = svg.append("g")
                 .attr("transform", "translate(0," + height + ")")
                 .call(d3.axisBottom(x));
+
+            xAxis
+                .selectAll("text")
+                .text(function(d) {
+                    // console.log
+                    // console.log(f(d))
+                    return f(d)
+                })
 
             // Add Y axis
             var y = d3.scaleLinear()
                 .domain([0, d3.max(data, function(d) { return +d.TradeValue_import })])
                 .range([height, 0]);
-            svg.append("g")
+
+            yAxis = svg.append("g")
                 .call(d3.axisLeft(y));
+
+            yAxis
+                .selectAll("text")
+                .text(function(d) {
+                    // console.log
+                    // console.log(f(d))
+                    return f(d)
+                })
 
             // Add a tooltip div. Here I define the general feature of the tooltip: stuff that do not depend on the data point.
             // Its opacity is set to 0: we don't see it by default.
@@ -77,7 +97,7 @@ function scatterChart() {
 
             var mousemove = function(d) {
                 tooltip
-                    .html("Catrgory: " + d.cmdDescE + "Export value: " + d.TradeValue_export + "Import value: " + d.TradeValue_import)
+                    .html("Catrgory: " + d.cmdDescE + "<br>Export value: " + f(d.TradeValue_export) + "<br>Import value: " + f(d.TradeValue_import))
                     .style("left", (d3.mouse(this)[0] + 90) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
                     .style("top", (d3.mouse(this)[1]) + "px")
             }
@@ -93,7 +113,7 @@ function scatterChart() {
             // Add dots
             svg.append('g')
                 .selectAll("dot")
-                .data(data.filter(function(d, i) { return i < 50 })) // the .filter part is just to keep a few dots on the chart, not all of them
+                .data(data) // the .filter part is just to keep a few dots on the chart, not all of them
                 .enter()
                 .append("circle")
                 .attr("cx", function(d) { return x(d.TradeValue_export); })

@@ -12,8 +12,10 @@
 
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/d3.v4.js"></script>
+    <!-- <script src="//d3js.org/d3.v3.min.js"></script> -->
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
     <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-format@3"></script>
     <script src="https://cdn.jsdelivr.net/npm/d3-array@3"></script>
     <script src="https://cdn.jsdelivr.net/npm/d3-geo@3"></script>
     <script src="https://cdn.jsdelivr.net/npm/d3-geo-projection@4"></script>
@@ -24,42 +26,60 @@
 
 <body>
     <div id='main-div'>
-        <div id="selectorsBlock"> </div>
-        <p>Select Reporting country:</p>
-        <div id='countrySelector'> </div>
-        <div id='yearSelectorBlock'>
-            <div id='yearSelector'></div>
-        </div>
-        <div id='flowsSelectorBlock'>
-            <div id='flowsSelector'></div>
+        <div id="selectorsBlock">
+            <p>Select Reporting country:</p>
+            <div id='countrySelector'> </div>
+            <div id='yearSelectorBlock'>
+                <div id='yearSelector'></div>
+            </div>
+            <div id='flowsSelectorBlock'>
+                <div id='flowsSelector'></div>
+            </div>
+
+            <div id='categorySelectorBlock'>
+                <div id='categorySelector'> </div>
+            </div>
         </div>
 
-        <div id='categorySelectorBlock'>
-            <div id='categorySelector'> </div>
+        <p> Describe correlation between total imports and export of country in selected year</p>
+        <div id='pieChartBlock'>
+            <div id='pie_chart'></div>
         </div>
 
-        <!-- <div id='sankey_chart' width="700" height="700"></div> -->
+        <div id='sankeyChartBlock'>
+            <div id='sankey_chart'></div>
+        </div>
+        <p> One country, one category, one year, all patners</p>
         <div id='barchartBlock'>
             <div id="bar_chart"></div>
         </div>
+        <p> One country, one category, one year, all patners</p>
         <div id="mapchartBlock">
             <div id='map_chart' width="700" height="700"> </div>
         </div>
+        <p>Mena countries, one category, all years, total</p>
         <div id='linechartBlock'>
             <div id="line_chart" width="700" height="700"></div>
         </div>
+        <div id='legend_block'></div>
+        <p> One country, all categories, one year, total</p>
         <div id='scatterchartBlock'>
             <div id="scatter_chart" width="700" height="700"></div>
         </div>
+        <p> One country, total, one year, total</p>
         <div id='hierarchyBlock'>
             <div id='hierarchy'></div>
         </div>
+        <!-- <div id='dendrogram' width="700" height="700"></div> -->
+
 
 
 
     </div>
-    <!-- <script src="js/sankey_chart.js"></script> -->
+    <script src="js/sankey_chart.js"></script>
     <script src="js/bar_chart.js"></script>
+    <script src="js/pie_chart.js"></script>
+    <!-- <script src="js/dendrogram.js"></script> -->
     <script src="js/map_chart.js"></script>
     <script src="js/selector.js"></script>
     <script src="js/line_chart.js"></script>
@@ -101,7 +121,7 @@
     </script>
     <script>
         /* When the user clicks on the button, 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    toggle between hiding and showing the dropdown content */
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            toggle between hiding and showing the dropdown content */
         function myFunction() {
             document.getElementById("myDropdown").classList.toggle("show");
         }

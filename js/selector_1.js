@@ -129,8 +129,8 @@ function yearSelector(data, country) {
         yearsList = []
         uniqueYears.forEach(elem => {
             y = []
-            y.push(elem)
-            y.push(elem)
+            y.push(String(elem))
+            y.push(String(elem))
             yearsList.push(y)
         })
 

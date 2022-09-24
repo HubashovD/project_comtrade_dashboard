@@ -1,5 +1,7 @@
 function bar_chart() {
-    // set the dimensions and margins of the graph
+
+    var f = d3.format(".2s")
+        // set the dimensions and margins of the graph
     var margin = { top: 20, right: 50, bottom: 40, left: 90 },
         width = 700 - margin.left - margin.right,
         height = 700 - margin.top - margin.bottom;
@@ -50,25 +52,32 @@ function bar_chart() {
 
         // Parse the Data
         d3.csv('/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv',
+            // d3.csv('/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv',
             function(data) {
 
-                // console.log('barchart', country, year, flow, category)
                 console.log('/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv', data.length, country, year, flow, category)
 
-                // data = data.filter(d => d.rtTitle == country)
-                // data = data.filter(d => d.yr == year)
-                // data = data.filter(d => d.rgDesc == flow)
-                // data = data.filter(d => d.cmdDescE == category)
+
+
+                data = data.filter(d => d.ptTitle != 'World')
 
                 TradeValue = []
 
                 data.forEach(element => {
-                    TradeValue.push(element.TradeValue)
+                    TradeValue.push(+element.TradeValue)
                 });
 
                 data = data.sort(function(b, a) {
                     return a.TradeValue - b.TradeValue;
                 });
+
+
+
+                TradeValue = TradeValue.sort(function(b, a) {
+                    return a - b;
+                });
+
+                console.log(TradeValue)
 
 
                 // Update the X axis
@@ -81,6 +90,7 @@ function bar_chart() {
 
                 // Update the Y axis
                 x.domain([0, d3.max(TradeValue)])
+                console.log(d3.max(TradeValue))
 
                 xAxis
                     .transition()
@@ -88,28 +98,12 @@ function bar_chart() {
                     .call(d3.axisBottom(x))
                     .selectAll("text")
                     .attr("transform", "translate(-10,0)rotate(-45)")
-                    .style("text-anchor", "end");
-
-                // Add X axis
-                // var x = d3.scaleLinear()
-                //     .domain([0, d3.max(TradeValue)])
-                //     .range([0, width]);
-                // svg.append("g")
-                //     .attr("transform", "translate(0," + height + ")")
-                //     .call(d3.axisBottom(x))
-                //     .selectAll("text")
-                //     .attr("transform", "translate(-10,0)rotate(-45)")
-                //     .style("text-anchor", "end");
-
-
-
-                // // Y axis
-                // var y = d3.scaleBand()
-                //     .range([0, height])
-                //     .domain(data.map(function(d) { return d.ptTitle; }))
-                //     .padding(.1);
-                // svg.append("g")
-                //     .call(d3.axisLeft(y))
+                    .style("text-anchor", "end")
+                    .text(function(d) {
+                        // console.log
+                        // console.log(f(d))
+                        return f(d)
+                    })
 
                 var u = svg.selectAll("rect")
                     .data(data)
@@ -132,32 +126,27 @@ function bar_chart() {
                     .remove()
 
 
-                //Bars
-                // svg.selectAll("myRect")
-                //     .data(data)
-                //     .enter()
-                //     .append("rect")
-                //     .attr("x", x(0))
-                //     .attr("y", function(d) { return y(d.ptTitle); })
-                //     .attr("width", function(d) { return x(d.TradeValue); })
-                //     .attr("height", y.bandwidth())
-                //     .attr("fill", "#69b3a2")
+                // gridlines in x axis function
+                function make_x_gridlines() {
+                    return d3.axisBottom(x)
+                        .ticks(5)
+                }
 
-
-                // .attr("x", function(d) { return x(d.Country); })
-                // .attr("y", function(d) { return y(d.Value); })
-                // .attr("width", x.bandwidth())
-                // .attr("height", function(d) { return height - y(d.Value); })
-                // .attr("fill", "#69b3a2")
-
-
+                // add the X gridlines
+                svg.append("g")
+                    .attr("class", "grid")
+                    .attr("transform", "translate(0," + height + ")")
+                    .call(make_x_gridlines()
+                        .tickSize(-height)
+                        .tickFormat("")
+                    )
             })
 
     }
 
     update_bar_chart()
 
-    document.querySelector('#categorySelector').addEventListener('select.change', (e) => {
+    document.querySelector('#yearSelector').addEventListener('select.change', (e) => {
         const btn = e.target.querySelector('.select__toggle');
         update_bar_chart()
     });

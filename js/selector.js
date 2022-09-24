@@ -40,6 +40,8 @@ function categorySelector(country, year, flow) {
             line_chart()
             scatterChart()
             hierarchy()
+            sankey_chart()
+            PieChart()
         })
 
     }
@@ -173,6 +175,10 @@ function countrySelector() {
         });
 
         console.log('countrySelector')
+
+        countryList = countryList.sort(function(b, a) {
+            return b - a
+        });
 
         countryselector = new CustomSelect('#countrySelector', {
             name: countryList[0][1],
