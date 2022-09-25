@@ -151,4 +151,9 @@ function bar_chart() {
         update_bar_chart()
     });
 
+    document.querySelector('#categorySelector').addEventListener('select.change', (e) => {
+        const btn = e.target.querySelector('.select__toggle');
+        update_bar_chart()
+    });
+
 }
