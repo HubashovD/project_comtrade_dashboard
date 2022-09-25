@@ -39,14 +39,14 @@ function categorySelector(country, year, flow) {
 
             console.log('categorySelector > update')
 
-            bar_chart()
-            map_chart()
-            line_chart()
-            scatterChart()
-            hierarchy()
-            sankey_chart()
-            PieChart()
 
+            try { PieChart() } catch {}
+            try { map_chart() } catch {}
+            try { line_chart() } catch {}
+            try { scatterChart() } catch {}
+            try { hierarchy() } catch {}
+            try { sankey_chart() } catch {}
+            try { bar_chart() } catch {}
         })
 
 

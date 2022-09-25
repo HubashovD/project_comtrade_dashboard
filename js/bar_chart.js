@@ -21,20 +21,7 @@ function bar_chart() {
     list.appendChild(il)
 
 
-    // gridlines in x axis function
-    function make_x_gridlines() {
-        return d3.axisBottom(x)
-            .ticks(5)
-    }
 
-    // add the X gridlines
-    svg.append("g")
-        .attr("class", "grid")
-        .attr("transform", "translate(0," + height + ")")
-        .call(make_x_gridlines()
-            .tickSize(-height)
-            .tickFormat("")
-        )
 
     var svg = d3.select("#bar_chart")
         .append("svg")
@@ -43,6 +30,8 @@ function bar_chart() {
         .append("g")
         .attr("transform",
             "translate(" + margin.left + "," + margin.top + ")");
+
+
 
     // Initialize the X axis
     var x = d3.scaleLinear()
@@ -58,7 +47,20 @@ function bar_chart() {
     var yAxis = svg.append("g")
         .attr("class", "myYaxis")
 
+    // gridlines in x axis function
+    function make_x_gridlines() {
+        return d3.axisBottom(x)
+            .ticks(5)
+    }
 
+    // add the X gridlines
+    svg.append("g")
+        .attr("class", "grid")
+        .attr("transform", "translate(0," + height + ")")
+        .call(make_x_gridlines()
+            .tickSize(-height)
+            .tickFormat("")
+        )
 
     function update_bar_chart() {
         console.log('call update_bar_chart()')

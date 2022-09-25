@@ -1,9 +1,9 @@
 function PieChart() {
-
     console.log('PieChart()')
-    var f = d3.format(".2s")
 
-    // Create dummy data
+    var f = d3.format(".2s")
+    console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/piechart.json')
+        // Create dummy data
     d3.json('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/piechart.json', function(data) {
 
         function update() {

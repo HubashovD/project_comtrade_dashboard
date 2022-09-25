@@ -39,8 +39,8 @@ function map_chart() {
         flow = document.querySelector('#flowsSelector').querySelector('.select__toggle').value
         category = document.querySelector('#categorySelector').querySelector('.select__toggle').value
 
-
-        // Load world shape AND list of connection
+        console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv')
+            // Load world shape AND list of connection
         d3.queue()
             .defer(d3.json, "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson") // World shape
             // .defer(d3.csv, "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/data_connectionmap.csv") // Position of circles

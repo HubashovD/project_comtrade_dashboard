@@ -1,4 +1,5 @@
 function dendrogram() {
+    console.log('dendrogram()')
 
     var margin = { top: 350, right: 480, bottom: 350, left: 480 },
         radius = Math.min(margin.top, margin.right, margin.bottom, margin.left) - 10;

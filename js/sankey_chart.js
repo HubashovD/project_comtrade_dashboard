@@ -48,11 +48,12 @@ function sankey_chart() {
 
         country = document.querySelector('#countrySelector').querySelector('.select__toggle').value
         year = document.querySelector('#yearSelector').querySelector('.select__toggle').value
+        console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/mena' + country + ';' + year + '.0.csv')
 
         // load the data
         d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/mena' + country + ';' + year + '.0.csv', function(error, data) {
             // d3.csv("/data/total_data.csv", function(error, data) {
-            console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/mena' + country + ';' + year + '.0.csv')
+
 
             //set up graph in same style as original example but empty
             graph = { "nodes": [], "links": [] };
