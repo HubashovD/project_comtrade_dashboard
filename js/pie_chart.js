@@ -2,7 +2,7 @@ function PieChart() {
     var f = d3.format(".2s")
 
     // Create dummy data
-    d3.json('/data/piechart.json', function(data) {
+    d3.json('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/piechart.json', function(data) {
 
         function update() {
 
