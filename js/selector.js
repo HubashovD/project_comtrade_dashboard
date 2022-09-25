@@ -13,7 +13,7 @@ function categorySelector(country, year, flow) {
         il.id = 'categorySelector'
         list.appendChild(il)
 
-        d3.csv('/data/countries_years.csv', function(data) {
+        d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/countries_years.csv', function(data) {
             data = data.filter(d => d.rtTitle == country)
             data = data.filter(d => d.yr == year)
             data = data.filter(d => d.rgDesc == flow)
@@ -72,7 +72,7 @@ function flowsSelector(country, year) {
 
         // rgDesc
 
-        d3.csv('/data/countries_years.csv', function(data) {
+        d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/countries_years.csv', function(data) {
             data = data.filter(d => d.rtTitle == country)
             data = data.filter(d => d.yr == year)
             console.log('flowsSelector', data.length, country, year)
@@ -124,7 +124,7 @@ function yearSelector(country) {
         il.id = 'yearSelector'
         list.appendChild(il)
 
-        d3.csv('/data/countries_years.csv', function(data) {
+        d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/countries_years.csv', function(data) {
             data = data.filter(d => d.rtTitle == country)
             console.log('yearSelector', data.length, country)
 
@@ -164,7 +164,7 @@ function yearSelector(country) {
 
 function countrySelector() {
 
-    d3.csv('/data/rtList.csv', function(data) {
+    d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/rtList.csv', function(data) {
 
         var countryList = []
         data.forEach(elem => {
