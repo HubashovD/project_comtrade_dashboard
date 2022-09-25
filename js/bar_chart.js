@@ -51,11 +51,11 @@ function bar_chart() {
         category = document.querySelector('#categorySelector').querySelector('.select__toggle').value
 
         // Parse the Data
-        d3.csv('/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv',
+        d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv',
             // d3.csv('/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv',
             function(data) {
 
-                console.log('/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv', data.length, country, year, flow, category)
+                console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv', data.length, country, year, flow, category)
 
 
 

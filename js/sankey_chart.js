@@ -50,7 +50,7 @@ function sankey_chart() {
         year = document.querySelector('#yearSelector').querySelector('.select__toggle').value
 
         // load the data
-        d3.csv('/data/mena' + country + ';' + year + '.0.csv', function(error, data) {
+        d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/mena' + country + ';' + year + '.0.csv', function(error, data) {
             // d3.csv("/data/total_data.csv", function(error, data) {
 
             //set up graph in same style as original example but empty

@@ -33,9 +33,9 @@ function line_chart() {
         flow = document.querySelector('#flowsSelector').querySelector('.select__toggle').value
         category = document.querySelector('#categorySelector').querySelector('.select__toggle').value
             //Read the data
-        d3.csv('/data/line;' + flow + ';' + category + '.csv', function(data) {
+        d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/line;' + flow + ';' + category + '.csv', function(data) {
 
-            console.log('line_chart', '/data/line;' + flow + ';' + category + '.csv')
+            console.log('line_chart', 'https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/line;' + flow + ';' + category + '.csv')
 
 
             // data = data.forEach(function(d) {
