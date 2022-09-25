@@ -36,7 +36,7 @@ function sankey_chart() {
             .attr("transform",
                 "translate(" + margin.left + "," + margin.top + ")");
 
-        console.log(svg)
+        // console.log(svg)
 
         // Set the sankey diagram properties
         var sankey = d3.sankey()
@@ -52,6 +52,7 @@ function sankey_chart() {
         // load the data
         d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/mena' + country + ';' + year + '.0.csv', function(error, data) {
             // d3.csv("/data/total_data.csv", function(error, data) {
+            console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/mena' + country + ';' + year + '.0.csv')
 
             //set up graph in same style as original example but empty
             graph = { "nodes": [], "links": [] };
@@ -144,7 +145,7 @@ function sankey_chart() {
                 .attr("text-anchor", "end")
                 .attr("transform", null)
                 .text(function(d) {
-                    console.log(d)
+                    // console.log(d)
                     return d.name + " " + f(d.value)
                 })
                 .filter(function(d) { return d.x < width / 2; })

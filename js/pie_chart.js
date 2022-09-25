@@ -5,6 +5,7 @@ function PieChart() {
     d3.json('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/piechart.json', function(data) {
 
         function update() {
+            console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/piechart.json')
 
             var list = document.getElementById('pieChartBlock')
             try {
@@ -37,18 +38,18 @@ function PieChart() {
             country = document.querySelector('#countrySelector').querySelector('.select__toggle').value
             year = document.querySelector('#yearSelector').querySelector('.select__toggle').value
                 // console.log(data)
-            console.log(country)
-            console.log(year)
+                // console.log(country)
+                // console.log(year)
                 // var data = { a: 9, b: 20, c: 30, d: 8, e: 12 }
 
             filtered_data = []
 
             for (const [key, value] of Object.entries(data)) {
                 if (key == country) {
-                    console.log(key, value)
+                    // console.log(key, value)
                     for (const [k, v] of Object.entries(value)) {
                         // console.log(String(k).slice(0, 4))
-                        console.log(String(k).slice(0, 4) == String(year))
+                        // console.log(String(k).slice(0, 4) == String(year))
                         if (String(k).slice(0, 4) == String(year)) {
                             filtered_data.push(v)
                         } else {}
@@ -56,7 +57,7 @@ function PieChart() {
                 } else {}
             }
 
-            console.log(filtered_data[0].Export)
+            // console.log(filtered_data[0].Export)
 
             // set the color scale
             var color = d3.scaleOrdinal()

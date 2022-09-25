@@ -42,14 +42,14 @@ function line_chart() {
             //     return d.yr = Date.parse(String(d.yr).slice(0, 4) + "-01-01")
             // })
 
-            console.log(data)
+            // console.log(data)
 
             // group the data: I want to draw one line per group
             var sumstat = d3.nest() // nest function allows to group the calculation per level of a factor
                 .key(function(d) { return d.rtTitle; })
                 .entries(data);
 
-            console.log(sumstat)
+            // console.log(sumstat)
 
             // Add X axis --> it is a date format
             // .domain(d3.extent(data, function(d) { return d.yr; }))
@@ -194,7 +194,7 @@ function line_chart() {
             var mouseG = glines.append("g") // black vertical line
                 .attr("class", "mouse-over-effects");
 
-            console.log(mouseG)
+            // console.log(mouseG)
 
             mouseG.append("path")
                 .attr("class", "mouse-line")
@@ -206,7 +206,7 @@ function line_chart() {
                 .append("g")
                 .attr("class", "mouse-per-line");
 
-            console.log(mousePerLine)
+            // console.log(mousePerLine)
 
             mousePerLine.append("circle")
                 .attr("r", 7)
@@ -224,7 +224,7 @@ function line_chart() {
 
             var lines = document.getElementsByClassName("line-interactive");
 
-            console.log(lines)
+            // console.log(lines)
 
             mouseG.append("rect")
                 .attr("width", width)
@@ -237,7 +237,7 @@ function line_chart() {
                     d3.selectAll(".mouse-per-line text").style("opacity", "1")
                 })
                 .on("mouseover", function() {
-                    console.log('Hello')
+                    // console.log('Hello')
                     d3.select(".mouse-line").style("opacity", "1");
                     d3.selectAll(".mouse-per-line circle").style("opacity", "1");
                     d3.selectAll(".mouse-per-line text").style("opacity", "1")

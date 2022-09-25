@@ -37,7 +37,7 @@ function scatterChart() {
         //Read the data
         d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + "scatter;" + year + '.0;' + country + '.csv', function(data) {
 
-            console.log('scatterChart', data.lenght)
+            console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + "scatter;" + year + '.0;' + country + '.csv')
 
 
 

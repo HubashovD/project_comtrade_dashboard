@@ -48,7 +48,7 @@ function map_chart() {
             .await(ready);
 
         function ready(error, dataGeo, data) {
-            // console.log('/data/' + country + '.csv')
+            console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv')
 
             // Reformat the list of link. Note that columns in csv file are called long1, long2, lat1, lat2
             var link = []

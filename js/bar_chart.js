@@ -77,7 +77,7 @@ function bar_chart() {
                     return a - b;
                 });
 
-                console.log(TradeValue)
+                // console.log(TradeValue)
 
 
                 // Update the X axis
@@ -90,7 +90,7 @@ function bar_chart() {
 
                 // Update the Y axis
                 x.domain([0, d3.max(TradeValue)])
-                console.log(d3.max(TradeValue))
+                    // console.log(d3.max(TradeValue))
 
                 xAxis
                     .transition()
