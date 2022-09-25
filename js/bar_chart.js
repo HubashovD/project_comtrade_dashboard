@@ -1,4 +1,5 @@
 function bar_chart() {
+    console.log('call barchart')
 
     var f = d3.format(".2s")
         // set the dimensions and margins of the graph
@@ -60,18 +61,21 @@ function bar_chart() {
 
 
     function update_bar_chart() {
+        console.log('call update_bar_chart()')
 
         country = document.querySelector('#countrySelector').querySelector('.select__toggle').value
         year = document.querySelector('#yearSelector').querySelector('.select__toggle').value
         flow = document.querySelector('#flowsSelector').querySelector('.select__toggle').value
         category = document.querySelector('#categorySelector').querySelector('.select__toggle').value
 
+        console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv')
+
         // Parse the Data
         d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv',
             // d3.csv('/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv',
             function(data) {
 
-                console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv', data.length, country, year, flow, category)
+
 
 
 

@@ -1,5 +1,7 @@
 function categorySelector(country, year, flow) {
 
+
+
     function update(country, year, flow) {
 
 
@@ -35,6 +37,8 @@ function categorySelector(country, year, flow) {
                 options: categoriesList,
             })
 
+            console.log('categorySelector > update')
+
             bar_chart()
             map_chart()
             line_chart()
@@ -42,7 +46,9 @@ function categorySelector(country, year, flow) {
             hierarchy()
             sankey_chart()
             PieChart()
+
         })
+
 
     }
     update(country, year, flow)
@@ -165,6 +171,8 @@ function yearSelector(country) {
 function countrySelector() {
 
     d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/rtList.csv', function(data) {
+
+        console.log(data)
 
         var countryList = []
         data.forEach(elem => {

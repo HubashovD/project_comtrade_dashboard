@@ -1,4 +1,6 @@
 function PieChart() {
+
+    console.log('PieChart()')
     var f = d3.format(".2s")
 
     // Create dummy data

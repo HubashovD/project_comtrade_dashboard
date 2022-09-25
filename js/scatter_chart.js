@@ -34,6 +34,8 @@ function scatterChart() {
         country = document.querySelector('#countrySelector').querySelector('.select__toggle').value
         year = document.querySelector('#yearSelector').querySelector('.select__toggle').value
 
+        console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + "scatter;" + year + '.0;' + country + '.csv')
+
         //Read the data
         d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + "scatter;" + year + '.0;' + country + '.csv', function(data) {
 
