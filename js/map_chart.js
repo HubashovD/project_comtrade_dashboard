@@ -44,7 +44,7 @@ function map_chart() {
         d3.queue()
             .defer(d3.json, "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson") // World shape
             // .defer(d3.csv, "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/data_connectionmap.csv") // Position of circles
-            .defer(d3.csv, '/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv') // Position of circles
+            .defer(d3.csv, 'https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv') // Position of circles
             .await(ready);
 
         function ready(error, dataGeo, data) {
