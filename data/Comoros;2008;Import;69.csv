@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Comoros,69,Ceramic products,Eastern Asia,Asia,425255
-2008,2008,Import,Comoros,69,Ceramic products,Eastern Europe,Europe,19
-2008,2008,Import,Comoros,69,Ceramic products,Northern Africa,Africa,11
-2008,2008,Import,Comoros,69,Ceramic products,South-eastern Asia,Asia,5410
-2008,2008,Import,Comoros,69,Ceramic products,Sub-Saharan Africa,Africa,29342
-2008,2008,Import,Comoros,69,Ceramic products,Western Asia,Asia,22848
-2008,2008,Import,Comoros,69,Ceramic products,Western Europe,Europe,230033
-2008,2008,Import,Comoros,69,Ceramic products,World,World,1827738
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Comoros,69,Ceramic products,Eastern Asia,Asia,425255,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2008,2008,Import,Comoros,69,Ceramic products,Eastern Europe,Europe,19,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2008,2008,Import,Comoros,69,Ceramic products,Northern Africa,Africa,11,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2008,2008,Import,Comoros,69,Ceramic products,South-eastern Asia,Asia,5410,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2008,2008,Import,Comoros,69,Ceramic products,Sub-Saharan Africa,Africa,29342,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2008,2008,Import,Comoros,69,Ceramic products,Western Asia,Asia,22848,-12.2045176,44.2832964,26.42921218083572,52.86847103284948
+2008,2008,Import,Comoros,69,Ceramic products,Western Europe,Europe,230033,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2008,2008,Import,Comoros,69,Ceramic products,World,World,1827738,-12.2045176,44.2832964,,

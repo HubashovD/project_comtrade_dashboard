@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Comoros,96,Miscellaneous manufactured articles,Eastern Asia,Asia,60505
-2011,2011,Import,Comoros,96,Miscellaneous manufactured articles,Northern Africa,Africa,15
-2011,2011,Import,Comoros,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,338
-2011,2011,Import,Comoros,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,27543
-2011,2011,Import,Comoros,96,Miscellaneous manufactured articles,Western Europe,Europe,37755
-2011,2011,Import,Comoros,96,Miscellaneous manufactured articles,World,World,381489
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Comoros,96,Miscellaneous manufactured articles,Eastern Asia,Asia,60505,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2011,2011,Import,Comoros,96,Miscellaneous manufactured articles,Northern Africa,Africa,15,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2011,2011,Import,Comoros,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,338,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2011,2011,Import,Comoros,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,27543,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2011,2011,Import,Comoros,96,Miscellaneous manufactured articles,Western Europe,Europe,37755,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2011,2011,Import,Comoros,96,Miscellaneous manufactured articles,World,World,381489,-12.2045176,44.2832964,,

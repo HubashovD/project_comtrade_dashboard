@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Comoros,73,Articles of iron or steel,Eastern Asia,Asia,65404
-1995,1995,Import,Comoros,73,Articles of iron or steel,Eastern Europe,Europe,25259
-1995,1995,Import,Comoros,73,Articles of iron or steel,South-eastern Asia,Asia,33203
-1995,1995,Import,Comoros,73,Articles of iron or steel,Southern Europe,Europe,833
-1995,1995,Import,Comoros,73,Articles of iron or steel,Sub-Saharan Africa,Africa,4478
-1995,1995,Import,Comoros,73,Articles of iron or steel,Western Europe,Europe,361035
-1995,1995,Import,Comoros,73,Articles of iron or steel,World,World,610073
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Comoros,73,Articles of iron or steel,Eastern Asia,Asia,65404,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+1995,1995,Import,Comoros,73,Articles of iron or steel,Eastern Europe,Europe,25259,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+1995,1995,Import,Comoros,73,Articles of iron or steel,South-eastern Asia,Asia,33203,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+1995,1995,Import,Comoros,73,Articles of iron or steel,Southern Europe,Europe,833,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+1995,1995,Import,Comoros,73,Articles of iron or steel,Sub-Saharan Africa,Africa,4478,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+1995,1995,Import,Comoros,73,Articles of iron or steel,Western Europe,Europe,361035,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1995,1995,Import,Comoros,73,Articles of iron or steel,World,World,610073,-12.2045176,44.2832964,,

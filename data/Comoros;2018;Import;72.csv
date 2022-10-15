@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Comoros,72,Iron and steel,Eastern Asia,Asia,1154784
-2018,2018,Import,Comoros,72,Iron and steel,Latin America and the Caribbean,Americas,4810
-2018,2018,Import,Comoros,72,Iron and steel,Northern America,Americas,167
-2018,2018,Import,Comoros,72,Iron and steel,South-eastern Asia,Asia,14860
-2018,2018,Import,Comoros,72,Iron and steel,Sub-Saharan Africa,Africa,558074
-2018,2018,Import,Comoros,72,Iron and steel,Western Asia,Asia,3235083
-2018,2018,Import,Comoros,72,Iron and steel,Western Europe,Europe,1087810
-2018,2018,Import,Comoros,72,Iron and steel,World,World,9338611
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Comoros,72,Iron and steel,Eastern Asia,Asia,1154784,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2018,2018,Import,Comoros,72,Iron and steel,Latin America and the Caribbean,Americas,4810,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2018,2018,Import,Comoros,72,Iron and steel,Northern America,Americas,167,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2018,2018,Import,Comoros,72,Iron and steel,South-eastern Asia,Asia,14860,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2018,2018,Import,Comoros,72,Iron and steel,Sub-Saharan Africa,Africa,558074,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2018,2018,Import,Comoros,72,Iron and steel,Western Asia,Asia,3235083,-12.2045176,44.2832964,26.42921218083572,52.86847103284948
+2018,2018,Import,Comoros,72,Iron and steel,Western Europe,Europe,1087810,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2018,2018,Import,Comoros,72,Iron and steel,World,World,9338611,-12.2045176,44.2832964,,

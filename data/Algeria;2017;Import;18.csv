@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Eastern Asia,Asia,447826
-2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Eastern Europe,Europe,3947584
-2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,3977434
-2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Northern Africa,Africa,2496336
-2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Northern America,Americas,187420
-2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Northern Europe,Europe,97847
-2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,1522215
-2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Southern Europe,Europe,26135088
-2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,10116734
-2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Western Asia,Asia,5806744
-2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Western Europe,Europe,24024543
-2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,World,World,82478666
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Eastern Asia,Asia,447826,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Eastern Europe,Europe,3947584,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,3977434,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Northern Africa,Africa,2496336,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Northern America,Americas,187420,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Northern Europe,Europe,97847,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,1522215,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Southern Europe,Europe,26135088,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,10116734,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Western Asia,Asia,5806744,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,Western Europe,Europe,24024543,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2017,2017,Import,Algeria,18,Cocoa and cocoa preparations,World,World,82478666,28.0000272,2.9999825,,

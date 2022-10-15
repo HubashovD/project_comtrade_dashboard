@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Export,Algeria,29,Organic chemicals,Latin America and the Caribbean,Americas,18171321
-2014,2014,Export,Algeria,29,Organic chemicals,Northern Africa,Africa,6092417
-2014,2014,Export,Algeria,29,Organic chemicals,Northern America,Americas,29712987
-2014,2014,Export,Algeria,29,Organic chemicals,Northern Europe,Europe,5401778
-2014,2014,Export,Algeria,29,Organic chemicals,Southern Europe,Europe,76508741
-2014,2014,Export,Algeria,29,Organic chemicals,Sub-Saharan Africa,Africa,90574
-2014,2014,Export,Algeria,29,Organic chemicals,Western Europe,Europe,32811490
-2014,2014,Export,Algeria,29,Organic chemicals,World,World,170899645
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Export,Algeria,29,Organic chemicals,Latin America and the Caribbean,Americas,18171321,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2014,2014,Export,Algeria,29,Organic chemicals,Northern Africa,Africa,6092417,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2014,2014,Export,Algeria,29,Organic chemicals,Northern America,Americas,29712987,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2014,2014,Export,Algeria,29,Organic chemicals,Northern Europe,Europe,5401778,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2014,2014,Export,Algeria,29,Organic chemicals,Southern Europe,Europe,76508741,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2014,2014,Export,Algeria,29,Organic chemicals,Sub-Saharan Africa,Africa,90574,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2014,2014,Export,Algeria,29,Organic chemicals,Western Europe,Europe,32811490,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2014,2014,Export,Algeria,29,Organic chemicals,World,World,170899645,28.0000272,2.9999825,,

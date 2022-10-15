@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Comoros,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,9830
-2002,2002,Import,Comoros,87,"Vehicles other than railway, tramway",Northern Europe,Europe,33847
-2002,2002,Import,Comoros,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,10951
-2002,2002,Import,Comoros,87,"Vehicles other than railway, tramway",Southern Europe,Europe,30196
-2002,2002,Import,Comoros,87,"Vehicles other than railway, tramway",Sub-Saharan Africa,Africa,589013
-2002,2002,Import,Comoros,87,"Vehicles other than railway, tramway",Western Europe,Europe,3605712
-2002,2002,Import,Comoros,87,"Vehicles other than railway, tramway",World,World,4839543
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Comoros,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,9830,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2002,2002,Import,Comoros,87,"Vehicles other than railway, tramway",Northern Europe,Europe,33847,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2002,2002,Import,Comoros,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,10951,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2002,2002,Import,Comoros,87,"Vehicles other than railway, tramway",Southern Europe,Europe,30196,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2002,2002,Import,Comoros,87,"Vehicles other than railway, tramway",Sub-Saharan Africa,Africa,589013,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2002,2002,Import,Comoros,87,"Vehicles other than railway, tramway",Western Europe,Europe,3605712,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2002,2002,Import,Comoros,87,"Vehicles other than railway, tramway",World,World,4839543,-12.2045176,44.2832964,,

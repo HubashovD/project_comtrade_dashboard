@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,31062
-2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Latin America and the Caribbean,Americas,4037
-2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,9721
-2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Polynesia,Oceania,3580
-2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,6019
-2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,83656
-2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,729801
-2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",World,World,986149
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,31062,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Latin America and the Caribbean,Americas,4037,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,9721,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Polynesia,Oceania,3580,-12.2045176,44.2832964,-5.109184731250752,167.40343615892436
+2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,6019,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,83656,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,729801,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2000,2000,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",World,World,986149,-12.2045176,44.2832964,,

@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Comoros,64,"Footwear, gaiters and the like, parts thereof",South-eastern Asia,Asia,19218
-2001,2001,Import,Comoros,64,"Footwear, gaiters and the like, parts thereof",Southern Europe,Europe,3296
-2001,2001,Import,Comoros,64,"Footwear, gaiters and the like, parts thereof",Sub-Saharan Africa,Africa,17936
-2001,2001,Import,Comoros,64,"Footwear, gaiters and the like, parts thereof",Western Europe,Europe,7680
-2001,2001,Import,Comoros,64,"Footwear, gaiters and the like, parts thereof",World,World,183316
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Comoros,64,"Footwear, gaiters and the like, parts thereof",South-eastern Asia,Asia,19218,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2001,2001,Import,Comoros,64,"Footwear, gaiters and the like, parts thereof",Southern Europe,Europe,3296,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2001,2001,Import,Comoros,64,"Footwear, gaiters and the like, parts thereof",Sub-Saharan Africa,Africa,17936,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2001,2001,Import,Comoros,64,"Footwear, gaiters and the like, parts thereof",Western Europe,Europe,7680,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2001,2001,Import,Comoros,64,"Footwear, gaiters and the like, parts thereof",World,World,183316,-12.2045176,44.2832964,,

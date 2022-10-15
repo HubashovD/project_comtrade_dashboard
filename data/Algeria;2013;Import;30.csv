@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Algeria,30,Pharmaceutical products,Australia and New Zealand,Oceania,3091566
-2013,2013,Import,Algeria,30,Pharmaceutical products,Central Asia,Asia,20274
-2013,2013,Import,Algeria,30,Pharmaceutical products,Eastern Asia,Asia,49689687
-2013,2013,Import,Algeria,30,Pharmaceutical products,Eastern Europe,Europe,14966354
-2013,2013,Import,Algeria,30,Pharmaceutical products,Latin America and the Caribbean,Americas,22330999
-2013,2013,Import,Algeria,30,Pharmaceutical products,Northern Africa,Africa,11428159
-2013,2013,Import,Algeria,30,Pharmaceutical products,Northern America,Americas,68779935
-2013,2013,Import,Algeria,30,Pharmaceutical products,Northern Europe,Europe,287056145
-2013,2013,Import,Algeria,30,Pharmaceutical products,South-eastern Asia,Asia,5003939
-2013,2013,Import,Algeria,30,Pharmaceutical products,Southern Europe,Europe,253393850
-2013,2013,Import,Algeria,30,Pharmaceutical products,Sub-Saharan Africa,Africa,300500
-2013,2013,Import,Algeria,30,Pharmaceutical products,Western Asia,Asia,18419209
-2013,2013,Import,Algeria,30,Pharmaceutical products,Western Europe,Europe,1306841166
-2013,2013,Import,Algeria,30,Pharmaceutical products,World,World,2287564882
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Algeria,30,Pharmaceutical products,Australia and New Zealand,Oceania,3091566,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2013,2013,Import,Algeria,30,Pharmaceutical products,Central Asia,Asia,20274,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2013,2013,Import,Algeria,30,Pharmaceutical products,Eastern Asia,Asia,49689687,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2013,2013,Import,Algeria,30,Pharmaceutical products,Eastern Europe,Europe,14966354,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2013,2013,Import,Algeria,30,Pharmaceutical products,Latin America and the Caribbean,Americas,22330999,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2013,2013,Import,Algeria,30,Pharmaceutical products,Northern Africa,Africa,11428159,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2013,2013,Import,Algeria,30,Pharmaceutical products,Northern America,Americas,68779935,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2013,2013,Import,Algeria,30,Pharmaceutical products,Northern Europe,Europe,287056145,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2013,2013,Import,Algeria,30,Pharmaceutical products,South-eastern Asia,Asia,5003939,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2013,2013,Import,Algeria,30,Pharmaceutical products,Southern Europe,Europe,253393850,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2013,2013,Import,Algeria,30,Pharmaceutical products,Sub-Saharan Africa,Africa,300500,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2013,2013,Import,Algeria,30,Pharmaceutical products,Western Asia,Asia,18419209,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2013,2013,Import,Algeria,30,Pharmaceutical products,Western Europe,Europe,1306841166,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2013,2013,Import,Algeria,30,Pharmaceutical products,World,World,2287564882,28.0000272,2.9999825,,

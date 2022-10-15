@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Comoros,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,194
-2003,2003,Import,Comoros,40,Rubber and articles thereof,Northern America,Americas,1777
-2003,2003,Import,Comoros,40,Rubber and articles thereof,Polynesia,Oceania,383
-2003,2003,Import,Comoros,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,29742
-2003,2003,Import,Comoros,40,Rubber and articles thereof,Western Europe,Europe,149746
-2003,2003,Import,Comoros,40,Rubber and articles thereof,World,World,252049
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Comoros,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,194,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2003,2003,Import,Comoros,40,Rubber and articles thereof,Northern America,Americas,1777,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2003,2003,Import,Comoros,40,Rubber and articles thereof,Polynesia,Oceania,383,-12.2045176,44.2832964,-5.109184731250752,167.40343615892436
+2003,2003,Import,Comoros,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,29742,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2003,2003,Import,Comoros,40,Rubber and articles thereof,Western Europe,Europe,149746,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2003,2003,Import,Comoros,40,Rubber and articles thereof,World,World,252049,-12.2045176,44.2832964,,

@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Comoros,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,13609
-2001,2001,Import,Comoros,9,"Coffee, tea, mate and spices",Western Europe,Europe,11246
-2001,2001,Import,Comoros,9,"Coffee, tea, mate and spices",World,World,29569
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Comoros,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,13609,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2001,2001,Import,Comoros,9,"Coffee, tea, mate and spices",Western Europe,Europe,11246,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2001,2001,Import,Comoros,9,"Coffee, tea, mate and spices",World,World,29569,-12.2045176,44.2832964,,

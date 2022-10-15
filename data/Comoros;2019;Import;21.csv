@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Comoros,21,Miscellaneous edible preparations,Eastern Asia,Asia,5378
-2019,2019,Import,Comoros,21,Miscellaneous edible preparations,Northern Africa,Africa,100377
-2019,2019,Import,Comoros,21,Miscellaneous edible preparations,Northern America,Americas,34
-2019,2019,Import,Comoros,21,Miscellaneous edible preparations,South-eastern Asia,Asia,8902
-2019,2019,Import,Comoros,21,Miscellaneous edible preparations,Sub-Saharan Africa,Africa,60665
-2019,2019,Import,Comoros,21,Miscellaneous edible preparations,Western Europe,Europe,475644
-2019,2019,Import,Comoros,21,Miscellaneous edible preparations,World,World,716922
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Comoros,21,Miscellaneous edible preparations,Eastern Asia,Asia,5378,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2019,2019,Import,Comoros,21,Miscellaneous edible preparations,Northern Africa,Africa,100377,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2019,2019,Import,Comoros,21,Miscellaneous edible preparations,Northern America,Americas,34,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2019,2019,Import,Comoros,21,Miscellaneous edible preparations,South-eastern Asia,Asia,8902,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2019,2019,Import,Comoros,21,Miscellaneous edible preparations,Sub-Saharan Africa,Africa,60665,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2019,2019,Import,Comoros,21,Miscellaneous edible preparations,Western Europe,Europe,475644,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2019,2019,Import,Comoros,21,Miscellaneous edible preparations,World,World,716922,-12.2045176,44.2832964,,

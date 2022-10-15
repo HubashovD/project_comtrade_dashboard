@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,735
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Central Asia,Asia,44655
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Eastern Asia,Asia,47082975
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Eastern Europe,Europe,2398378
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,452507
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Northern Africa,Africa,15774818
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Northern America,Americas,347522
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Northern Europe,Europe,834770
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,1411507
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Southern Asia,Asia,3162
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Southern Europe,Europe,10506748
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,13150
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Western Asia,Asia,5698104
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Western Europe,Europe,17722311
-2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,World,World,108037915
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,735,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Central Asia,Asia,44655,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Eastern Asia,Asia,47082975,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Eastern Europe,Europe,2398378,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,452507,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Northern Africa,Africa,15774818,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Northern America,Americas,347522,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Northern Europe,Europe,834770,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,1411507,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Southern Asia,Asia,3162,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Southern Europe,Europe,10506748,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,13150,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Western Asia,Asia,5698104,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,Western Europe,Europe,17722311,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2016,2016,Import,Algeria,96,Miscellaneous manufactured articles,World,World,108037915,28.0000272,2.9999825,,

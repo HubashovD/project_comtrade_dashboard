@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Comoros,76,Aluminium and articles thereof,Eastern Asia,Asia,4786
-2003,2003,Import,Comoros,76,Aluminium and articles thereof,Eastern Europe,Europe,91
-2003,2003,Import,Comoros,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,11700
-2003,2003,Import,Comoros,76,Aluminium and articles thereof,Northern Europe,Europe,192
-2003,2003,Import,Comoros,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,157862
-2003,2003,Import,Comoros,76,Aluminium and articles thereof,Western Europe,Europe,69098
-2003,2003,Import,Comoros,76,Aluminium and articles thereof,World,World,395532
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Comoros,76,Aluminium and articles thereof,Eastern Asia,Asia,4786,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2003,2003,Import,Comoros,76,Aluminium and articles thereof,Eastern Europe,Europe,91,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2003,2003,Import,Comoros,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,11700,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2003,2003,Import,Comoros,76,Aluminium and articles thereof,Northern Europe,Europe,192,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2003,2003,Import,Comoros,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,157862,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2003,2003,Import,Comoros,76,Aluminium and articles thereof,Western Europe,Europe,69098,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2003,2003,Import,Comoros,76,Aluminium and articles thereof,World,World,395532,-12.2045176,44.2832964,,

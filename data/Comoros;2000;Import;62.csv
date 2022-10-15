@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Comoros,62,"Articles of apparel, accessories, not knit or crochet",South-eastern Asia,Asia,2907
-2000,2000,Import,Comoros,62,"Articles of apparel, accessories, not knit or crochet",Southern Europe,Europe,161
-2000,2000,Import,Comoros,62,"Articles of apparel, accessories, not knit or crochet",Sub-Saharan Africa,Africa,9775
-2000,2000,Import,Comoros,62,"Articles of apparel, accessories, not knit or crochet",Western Europe,Europe,3070
-2000,2000,Import,Comoros,62,"Articles of apparel, accessories, not knit or crochet",World,World,24362
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Comoros,62,"Articles of apparel, accessories, not knit or crochet",South-eastern Asia,Asia,2907,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2000,2000,Import,Comoros,62,"Articles of apparel, accessories, not knit or crochet",Southern Europe,Europe,161,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2000,2000,Import,Comoros,62,"Articles of apparel, accessories, not knit or crochet",Sub-Saharan Africa,Africa,9775,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2000,2000,Import,Comoros,62,"Articles of apparel, accessories, not knit or crochet",Western Europe,Europe,3070,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2000,2000,Import,Comoros,62,"Articles of apparel, accessories, not knit or crochet",World,World,24362,-12.2045176,44.2832964,,

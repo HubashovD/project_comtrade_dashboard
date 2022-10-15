@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Algeria,1,Animals; live,Eastern Europe,Europe,74804
-2015,2015,Import,Algeria,1,Animals; live,Northern Africa,Africa,71260
-2015,2015,Import,Algeria,1,Animals; live,Northern America,Americas,1895479
-2015,2015,Import,Algeria,1,Animals; live,Northern Europe,Europe,903177
-2015,2015,Import,Algeria,1,Animals; live,South-eastern Asia,Asia,1146
-2015,2015,Import,Algeria,1,Animals; live,Southern Asia,Asia,25578
-2015,2015,Import,Algeria,1,Animals; live,Southern Europe,Europe,11597307
-2015,2015,Import,Algeria,1,Animals; live,Sub-Saharan Africa,Africa,178079
-2015,2015,Import,Algeria,1,Animals; live,Western Europe,Europe,90575282
-2015,2015,Import,Algeria,1,Animals; live,World,World,105322113
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Algeria,1,Animals; live,Eastern Europe,Europe,74804,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2015,2015,Import,Algeria,1,Animals; live,Northern Africa,Africa,71260,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2015,2015,Import,Algeria,1,Animals; live,Northern America,Americas,1895479,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2015,2015,Import,Algeria,1,Animals; live,Northern Europe,Europe,903177,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2015,2015,Import,Algeria,1,Animals; live,South-eastern Asia,Asia,1146,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2015,2015,Import,Algeria,1,Animals; live,Southern Asia,Asia,25578,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2015,2015,Import,Algeria,1,Animals; live,Southern Europe,Europe,11597307,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2015,2015,Import,Algeria,1,Animals; live,Sub-Saharan Africa,Africa,178079,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2015,2015,Import,Algeria,1,Animals; live,Western Europe,Europe,90575282,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2015,2015,Import,Algeria,1,Animals; live,World,World,105322113,28.0000272,2.9999825,,

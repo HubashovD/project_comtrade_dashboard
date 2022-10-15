@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Comoros,72,Iron and steel,Eastern Europe,Europe,34821
-1997,1997,Import,Comoros,72,Iron and steel,Western Europe,Europe,1319584
-1997,1997,Import,Comoros,72,Iron and steel,World,World,1506801
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Comoros,72,Iron and steel,Eastern Europe,Europe,34821,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+1997,1997,Import,Comoros,72,Iron and steel,Western Europe,Europe,1319584,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1997,1997,Import,Comoros,72,Iron and steel,World,World,1506801,-12.2045176,44.2832964,,

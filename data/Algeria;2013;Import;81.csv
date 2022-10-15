@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,1021229
-2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,34662
-2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,215765
-2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",Northern Europe,Europe,823802
-2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,193322
-2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",Western Asia,Asia,73701
-2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,96716
-2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",World,World,2468606
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,1021229,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,34662,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,215765,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",Northern Europe,Europe,823802,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,193322,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",Western Asia,Asia,73701,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,96716,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2013,2013,Import,Algeria,81,"Metals; n.e.c., cermets and articles thereof",World,World,2468606,28.0000272,2.9999825,,

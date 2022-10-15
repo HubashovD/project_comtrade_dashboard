@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Comoros,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,598
-2018,2018,Import,Comoros,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,43328
-2018,2018,Import,Comoros,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,545
-2018,2018,Import,Comoros,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,7526
-2018,2018,Import,Comoros,9,"Coffee, tea, mate and spices",Western Europe,Europe,43507
-2018,2018,Import,Comoros,9,"Coffee, tea, mate and spices",World,World,198121
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Comoros,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,598,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2018,2018,Import,Comoros,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,43328,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2018,2018,Import,Comoros,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,545,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2018,2018,Import,Comoros,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,7526,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2018,2018,Import,Comoros,9,"Coffee, tea, mate and spices",Western Europe,Europe,43507,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2018,2018,Import,Comoros,9,"Coffee, tea, mate and spices",World,World,198121,-12.2045176,44.2832964,,

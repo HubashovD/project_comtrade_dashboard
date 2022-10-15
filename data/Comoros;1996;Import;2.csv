@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Comoros,2,Meat and edible meat offal,Australia and New Zealand,Oceania,44489
-1996,1996,Import,Comoros,2,Meat and edible meat offal,Eastern Europe,Europe,67314
-1996,1996,Import,Comoros,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,70307
-1996,1996,Import,Comoros,2,Meat and edible meat offal,Northern America,Americas,32808
-1996,1996,Import,Comoros,2,Meat and edible meat offal,Northern Europe,Europe,262734
-1996,1996,Import,Comoros,2,Meat and edible meat offal,South-eastern Asia,Asia,17284
-1996,1996,Import,Comoros,2,Meat and edible meat offal,Southern Europe,Europe,14173
-1996,1996,Import,Comoros,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,46626
-1996,1996,Import,Comoros,2,Meat and edible meat offal,Western Europe,Europe,2563082
-1996,1996,Import,Comoros,2,Meat and edible meat offal,World,World,3800554
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Comoros,2,Meat and edible meat offal,Australia and New Zealand,Oceania,44489,-12.2045176,44.2832964,-16.85099460447687,133.4130365630627
+1996,1996,Import,Comoros,2,Meat and edible meat offal,Eastern Europe,Europe,67314,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+1996,1996,Import,Comoros,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,70307,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+1996,1996,Import,Comoros,2,Meat and edible meat offal,Northern America,Americas,32808,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+1996,1996,Import,Comoros,2,Meat and edible meat offal,Northern Europe,Europe,262734,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+1996,1996,Import,Comoros,2,Meat and edible meat offal,South-eastern Asia,Asia,17284,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+1996,1996,Import,Comoros,2,Meat and edible meat offal,Southern Europe,Europe,14173,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+1996,1996,Import,Comoros,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,46626,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+1996,1996,Import,Comoros,2,Meat and edible meat offal,Western Europe,Europe,2563082,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1996,1996,Import,Comoros,2,Meat and edible meat offal,World,World,3800554,-12.2045176,44.2832964,,

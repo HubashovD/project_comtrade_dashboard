@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Comoros,85,"Electrical, electronic equipment",Northern America,Americas,4788
-2001,2001,Export,Comoros,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,18201
-2001,2001,Export,Comoros,85,"Electrical, electronic equipment",World,World,22989
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Comoros,85,"Electrical, electronic equipment",Northern America,Americas,4788,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2001,2001,Export,Comoros,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,18201,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2001,2001,Export,Comoros,85,"Electrical, electronic equipment",World,World,22989,-12.2045176,44.2832964,,

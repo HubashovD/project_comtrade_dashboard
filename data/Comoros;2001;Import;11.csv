@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Comoros,11,"Milling products, malt, starches, inulin, wheat glute",Sub-Saharan Africa,Africa,373686
-2001,2001,Import,Comoros,11,"Milling products, malt, starches, inulin, wheat glute",Western Europe,Europe,562646
-2001,2001,Import,Comoros,11,"Milling products, malt, starches, inulin, wheat glute",World,World,955564
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Comoros,11,"Milling products, malt, starches, inulin, wheat glute",Sub-Saharan Africa,Africa,373686,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2001,2001,Import,Comoros,11,"Milling products, malt, starches, inulin, wheat glute",Western Europe,Europe,562646,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2001,2001,Import,Comoros,11,"Milling products, malt, starches, inulin, wheat glute",World,World,955564,-12.2045176,44.2832964,,

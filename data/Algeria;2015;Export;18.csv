@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,Northern Africa,Africa,29879
-2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,Northern America,Americas,1952
-2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,Northern Europe,Europe,1758695
-2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,Southern Europe,Europe,109989
-2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,810
-2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,Western Asia,Asia,2650
-2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,Western Europe,Europe,5554468
-2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,World,World,7529077
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,Northern Africa,Africa,29879,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,Northern America,Americas,1952,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,Northern Europe,Europe,1758695,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,Southern Europe,Europe,109989,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,810,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,Western Asia,Asia,2650,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,Western Europe,Europe,5554468,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2015,2015,Export,Algeria,18,Cocoa and cocoa preparations,World,World,7529077,28.0000272,2.9999825,,

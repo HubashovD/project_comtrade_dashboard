@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Comoros,85,"Electrical, electronic equipment",Eastern Asia,Asia,6865
-1995,1995,Import,Comoros,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,3748
-1995,1995,Import,Comoros,85,"Electrical, electronic equipment",Northern Europe,Europe,55251
-1995,1995,Import,Comoros,85,"Electrical, electronic equipment",South-eastern Asia,Asia,9350
-1995,1995,Import,Comoros,85,"Electrical, electronic equipment",Southern Europe,Europe,12767
-1995,1995,Import,Comoros,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,4396
-1995,1995,Import,Comoros,85,"Electrical, electronic equipment",Western Europe,Europe,2594608
-1995,1995,Import,Comoros,85,"Electrical, electronic equipment",World,World,2825429
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Comoros,85,"Electrical, electronic equipment",Eastern Asia,Asia,6865,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+1995,1995,Import,Comoros,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,3748,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+1995,1995,Import,Comoros,85,"Electrical, electronic equipment",Northern Europe,Europe,55251,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+1995,1995,Import,Comoros,85,"Electrical, electronic equipment",South-eastern Asia,Asia,9350,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+1995,1995,Import,Comoros,85,"Electrical, electronic equipment",Southern Europe,Europe,12767,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+1995,1995,Import,Comoros,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,4396,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+1995,1995,Import,Comoros,85,"Electrical, electronic equipment",Western Europe,Europe,2594608,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1995,1995,Import,Comoros,85,"Electrical, electronic equipment",World,World,2825429,-12.2045176,44.2832964,,

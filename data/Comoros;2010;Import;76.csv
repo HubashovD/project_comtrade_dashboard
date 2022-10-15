@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Comoros,76,Aluminum and articles thereof,Eastern Asia,Asia,78190
-2010,2010,Import,Comoros,76,Aluminum and articles thereof,Latin America and the Caribbean,Americas,71
-2010,2010,Import,Comoros,76,Aluminum and articles thereof,Northern Africa,Africa,106
-2010,2010,Import,Comoros,76,Aluminum and articles thereof,Southern Europe,Europe,1656
-2010,2010,Import,Comoros,76,Aluminum and articles thereof,Sub-Saharan Africa,Africa,41387
-2010,2010,Import,Comoros,76,Aluminum and articles thereof,Western Asia,Asia,673
-2010,2010,Import,Comoros,76,Aluminum and articles thereof,Western Europe,Europe,254613
-2010,2010,Import,Comoros,76,Aluminum and articles thereof,World,World,786161
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Comoros,76,Aluminum and articles thereof,Eastern Asia,Asia,78190,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2010,2010,Import,Comoros,76,Aluminum and articles thereof,Latin America and the Caribbean,Americas,71,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2010,2010,Import,Comoros,76,Aluminum and articles thereof,Northern Africa,Africa,106,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2010,2010,Import,Comoros,76,Aluminum and articles thereof,Southern Europe,Europe,1656,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2010,2010,Import,Comoros,76,Aluminum and articles thereof,Sub-Saharan Africa,Africa,41387,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2010,2010,Import,Comoros,76,Aluminum and articles thereof,Western Asia,Asia,673,-12.2045176,44.2832964,26.42921218083572,52.86847103284948
+2010,2010,Import,Comoros,76,Aluminum and articles thereof,Western Europe,Europe,254613,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2010,2010,Import,Comoros,76,Aluminum and articles thereof,World,World,786161,-12.2045176,44.2832964,,

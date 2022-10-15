@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Comoros,15,"Animal,vegetable fats and oils, cleavage products, et",Latin America and the Caribbean,Americas,110
-2001,2001,Import,Comoros,15,"Animal,vegetable fats and oils, cleavage products, et",Polynesia,Oceania,145
-2001,2001,Import,Comoros,15,"Animal,vegetable fats and oils, cleavage products, et",South-eastern Asia,Asia,96320
-2001,2001,Import,Comoros,15,"Animal,vegetable fats and oils, cleavage products, et",Sub-Saharan Africa,Africa,25060
-2001,2001,Import,Comoros,15,"Animal,vegetable fats and oils, cleavage products, et",Western Europe,Europe,576103
-2001,2001,Import,Comoros,15,"Animal,vegetable fats and oils, cleavage products, et",World,World,717272
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Comoros,15,"Animal,vegetable fats and oils, cleavage products, et",Latin America and the Caribbean,Americas,110,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2001,2001,Import,Comoros,15,"Animal,vegetable fats and oils, cleavage products, et",Polynesia,Oceania,145,-12.2045176,44.2832964,-5.109184731250752,167.40343615892436
+2001,2001,Import,Comoros,15,"Animal,vegetable fats and oils, cleavage products, et",South-eastern Asia,Asia,96320,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2001,2001,Import,Comoros,15,"Animal,vegetable fats and oils, cleavage products, et",Sub-Saharan Africa,Africa,25060,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2001,2001,Import,Comoros,15,"Animal,vegetable fats and oils, cleavage products, et",Western Europe,Europe,576103,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2001,2001,Import,Comoros,15,"Animal,vegetable fats and oils, cleavage products, et",World,World,717272,-12.2045176,44.2832964,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Comoros,20,"Vegetable, fruit, nut, etc food preparations",Northern Europe,Europe,1275
-2001,2001,Import,Comoros,20,"Vegetable, fruit, nut, etc food preparations",South-eastern Asia,Asia,3120
-2001,2001,Import,Comoros,20,"Vegetable, fruit, nut, etc food preparations",Southern Europe,Europe,18489
-2001,2001,Import,Comoros,20,"Vegetable, fruit, nut, etc food preparations",Sub-Saharan Africa,Africa,48996
-2001,2001,Import,Comoros,20,"Vegetable, fruit, nut, etc food preparations",Western Europe,Europe,360999
-2001,2001,Import,Comoros,20,"Vegetable, fruit, nut, etc food preparations",World,World,486316
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Comoros,20,"Vegetable, fruit, nut, etc food preparations",Northern Europe,Europe,1275,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2001,2001,Import,Comoros,20,"Vegetable, fruit, nut, etc food preparations",South-eastern Asia,Asia,3120,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2001,2001,Import,Comoros,20,"Vegetable, fruit, nut, etc food preparations",Southern Europe,Europe,18489,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2001,2001,Import,Comoros,20,"Vegetable, fruit, nut, etc food preparations",Sub-Saharan Africa,Africa,48996,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2001,2001,Import,Comoros,20,"Vegetable, fruit, nut, etc food preparations",Western Europe,Europe,360999,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2001,2001,Import,Comoros,20,"Vegetable, fruit, nut, etc food preparations",World,World,486316,-12.2045176,44.2832964,,

@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Comoros,2,Meat and edible meat offal,Australia and New Zealand,Oceania,34731
-2018,2018,Import,Comoros,2,Meat and edible meat offal,Eastern Europe,Europe,409074
-2018,2018,Import,Comoros,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,2319328
-2018,2018,Import,Comoros,2,Meat and edible meat offal,Northern Africa,Africa,25356
-2018,2018,Import,Comoros,2,Meat and edible meat offal,Northern America,Americas,106516
-2018,2018,Import,Comoros,2,Meat and edible meat offal,Northern Europe,Europe,1304397
-2018,2018,Import,Comoros,2,Meat and edible meat offal,Southern Europe,Europe,5803508
-2018,2018,Import,Comoros,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,378376
-2018,2018,Import,Comoros,2,Meat and edible meat offal,Western Europe,Europe,4611772
-2018,2018,Import,Comoros,2,Meat and edible meat offal,World,World,17648974
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Comoros,2,Meat and edible meat offal,Australia and New Zealand,Oceania,34731,-12.2045176,44.2832964,-16.85099460447687,133.4130365630627
+2018,2018,Import,Comoros,2,Meat and edible meat offal,Eastern Europe,Europe,409074,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2018,2018,Import,Comoros,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,2319328,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2018,2018,Import,Comoros,2,Meat and edible meat offal,Northern Africa,Africa,25356,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2018,2018,Import,Comoros,2,Meat and edible meat offal,Northern America,Americas,106516,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2018,2018,Import,Comoros,2,Meat and edible meat offal,Northern Europe,Europe,1304397,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2018,2018,Import,Comoros,2,Meat and edible meat offal,Southern Europe,Europe,5803508,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2018,2018,Import,Comoros,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,378376,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2018,2018,Import,Comoros,2,Meat and edible meat offal,Western Europe,Europe,4611772,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2018,2018,Import,Comoros,2,Meat and edible meat offal,World,World,17648974,-12.2045176,44.2832964,,

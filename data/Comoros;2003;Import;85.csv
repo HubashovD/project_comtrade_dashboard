@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Comoros,85,"Electrical, electronic equipment",Eastern Asia,Asia,20032
-2003,2003,Import,Comoros,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,61
-2003,2003,Import,Comoros,85,"Electrical, electronic equipment",Northern Europe,Europe,4783
-2003,2003,Import,Comoros,85,"Electrical, electronic equipment",South-eastern Asia,Asia,5098
-2003,2003,Import,Comoros,85,"Electrical, electronic equipment",Southern Europe,Europe,114705
-2003,2003,Import,Comoros,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,1108611
-2003,2003,Import,Comoros,85,"Electrical, electronic equipment",Western Europe,Europe,2251263
-2003,2003,Import,Comoros,85,"Electrical, electronic equipment",World,World,4154926
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Comoros,85,"Electrical, electronic equipment",Eastern Asia,Asia,20032,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2003,2003,Import,Comoros,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,61,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2003,2003,Import,Comoros,85,"Electrical, electronic equipment",Northern Europe,Europe,4783,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2003,2003,Import,Comoros,85,"Electrical, electronic equipment",South-eastern Asia,Asia,5098,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2003,2003,Import,Comoros,85,"Electrical, electronic equipment",Southern Europe,Europe,114705,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2003,2003,Import,Comoros,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,1108611,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2003,2003,Import,Comoros,85,"Electrical, electronic equipment",Western Europe,Europe,2251263,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2003,2003,Import,Comoros,85,"Electrical, electronic equipment",World,World,4154926,-12.2045176,44.2832964,,

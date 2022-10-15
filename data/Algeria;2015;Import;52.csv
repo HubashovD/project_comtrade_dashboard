@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Algeria,52,Cotton,Eastern Asia,Asia,3378715
-2015,2015,Import,Algeria,52,Cotton,Eastern Europe,Europe,969
-2015,2015,Import,Algeria,52,Cotton,Northern Africa,Africa,144314
-2015,2015,Import,Algeria,52,Cotton,Northern America,Americas,10900
-2015,2015,Import,Algeria,52,Cotton,South-eastern Asia,Asia,132760
-2015,2015,Import,Algeria,52,Cotton,Southern Asia,Asia,186903
-2015,2015,Import,Algeria,52,Cotton,Southern Europe,Europe,7516952
-2015,2015,Import,Algeria,52,Cotton,Sub-Saharan Africa,Africa,5250649
-2015,2015,Import,Algeria,52,Cotton,Western Asia,Asia,4314065
-2015,2015,Import,Algeria,52,Cotton,Western Europe,Europe,1415167
-2015,2015,Import,Algeria,52,Cotton,World,World,28580288
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Algeria,52,Cotton,Eastern Asia,Asia,3378715,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2015,2015,Import,Algeria,52,Cotton,Eastern Europe,Europe,969,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2015,2015,Import,Algeria,52,Cotton,Northern Africa,Africa,144314,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2015,2015,Import,Algeria,52,Cotton,Northern America,Americas,10900,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2015,2015,Import,Algeria,52,Cotton,South-eastern Asia,Asia,132760,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2015,2015,Import,Algeria,52,Cotton,Southern Asia,Asia,186903,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2015,2015,Import,Algeria,52,Cotton,Southern Europe,Europe,7516952,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2015,2015,Import,Algeria,52,Cotton,Sub-Saharan Africa,Africa,5250649,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2015,2015,Import,Algeria,52,Cotton,Western Asia,Asia,4314065,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2015,2015,Import,Algeria,52,Cotton,Western Europe,Europe,1415167,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2015,2015,Import,Algeria,52,Cotton,World,World,28580288,28.0000272,2.9999825,,

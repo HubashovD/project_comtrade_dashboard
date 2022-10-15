@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Comoros,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,6
-2000,2000,Import,Comoros,2,Meat and edible meat offal,Southern Europe,Europe,65527
-2000,2000,Import,Comoros,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,161538
-2000,2000,Import,Comoros,2,Meat and edible meat offal,Western Europe,Europe,2715064
-2000,2000,Import,Comoros,2,Meat and edible meat offal,World,World,3133519
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Comoros,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,6,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2000,2000,Import,Comoros,2,Meat and edible meat offal,Southern Europe,Europe,65527,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2000,2000,Import,Comoros,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,161538,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2000,2000,Import,Comoros,2,Meat and edible meat offal,Western Europe,Europe,2715064,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2000,2000,Import,Comoros,2,Meat and edible meat offal,World,World,3133519,-12.2045176,44.2832964,,

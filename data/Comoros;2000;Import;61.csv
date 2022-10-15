@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Comoros,61,"Articles of apparel, accessories, knit or crochet",Eastern Europe,Europe,30323
-2000,2000,Import,Comoros,61,"Articles of apparel, accessories, knit or crochet",Latin America and the Caribbean,Americas,17
-2000,2000,Import,Comoros,61,"Articles of apparel, accessories, knit or crochet",South-eastern Asia,Asia,1024
-2000,2000,Import,Comoros,61,"Articles of apparel, accessories, knit or crochet",Southern Europe,Europe,81
-2000,2000,Import,Comoros,61,"Articles of apparel, accessories, knit or crochet",Sub-Saharan Africa,Africa,18131
-2000,2000,Import,Comoros,61,"Articles of apparel, accessories, knit or crochet",Western Europe,Europe,8328
-2000,2000,Import,Comoros,61,"Articles of apparel, accessories, knit or crochet",World,World,117026
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Comoros,61,"Articles of apparel, accessories, knit or crochet",Eastern Europe,Europe,30323,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2000,2000,Import,Comoros,61,"Articles of apparel, accessories, knit or crochet",Latin America and the Caribbean,Americas,17,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2000,2000,Import,Comoros,61,"Articles of apparel, accessories, knit or crochet",South-eastern Asia,Asia,1024,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2000,2000,Import,Comoros,61,"Articles of apparel, accessories, knit or crochet",Southern Europe,Europe,81,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2000,2000,Import,Comoros,61,"Articles of apparel, accessories, knit or crochet",Sub-Saharan Africa,Africa,18131,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2000,2000,Import,Comoros,61,"Articles of apparel, accessories, knit or crochet",Western Europe,Europe,8328,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2000,2000,Import,Comoros,61,"Articles of apparel, accessories, knit or crochet",World,World,117026,-12.2045176,44.2832964,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Algeria,55,Man-made staple fibres,Central Asia,Asia,107670
-2013,2013,Import,Algeria,55,Man-made staple fibres,Eastern Asia,Asia,17467810
-2013,2013,Import,Algeria,55,Man-made staple fibres,Eastern Europe,Europe,91888
-2013,2013,Import,Algeria,55,Man-made staple fibres,Latin America and the Caribbean,Americas,76707
-2013,2013,Import,Algeria,55,Man-made staple fibres,Northern Africa,Africa,2708447
-2013,2013,Import,Algeria,55,Man-made staple fibres,Northern America,Americas,35
-2013,2013,Import,Algeria,55,Man-made staple fibres,Northern Europe,Europe,1408349
-2013,2013,Import,Algeria,55,Man-made staple fibres,South-eastern Asia,Asia,4936830
-2013,2013,Import,Algeria,55,Man-made staple fibres,Southern Europe,Europe,11121645
-2013,2013,Import,Algeria,55,Man-made staple fibres,Western Asia,Asia,2818247
-2013,2013,Import,Algeria,55,Man-made staple fibres,Western Europe,Europe,9284154
-2013,2013,Import,Algeria,55,Man-made staple fibres,World,World,61006933
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Algeria,55,Man-made staple fibres,Central Asia,Asia,107670,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2013,2013,Import,Algeria,55,Man-made staple fibres,Eastern Asia,Asia,17467810,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2013,2013,Import,Algeria,55,Man-made staple fibres,Eastern Europe,Europe,91888,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2013,2013,Import,Algeria,55,Man-made staple fibres,Latin America and the Caribbean,Americas,76707,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2013,2013,Import,Algeria,55,Man-made staple fibres,Northern Africa,Africa,2708447,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2013,2013,Import,Algeria,55,Man-made staple fibres,Northern America,Americas,35,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2013,2013,Import,Algeria,55,Man-made staple fibres,Northern Europe,Europe,1408349,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2013,2013,Import,Algeria,55,Man-made staple fibres,South-eastern Asia,Asia,4936830,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2013,2013,Import,Algeria,55,Man-made staple fibres,Southern Europe,Europe,11121645,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2013,2013,Import,Algeria,55,Man-made staple fibres,Western Asia,Asia,2818247,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2013,2013,Import,Algeria,55,Man-made staple fibres,Western Europe,Europe,9284154,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2013,2013,Import,Algeria,55,Man-made staple fibres,World,World,61006933,28.0000272,2.9999825,,

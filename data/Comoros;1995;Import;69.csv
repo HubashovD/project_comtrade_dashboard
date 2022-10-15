@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Comoros,69,Ceramic products,South-eastern Asia,Asia,17800
-1995,1995,Import,Comoros,69,Ceramic products,Southern Europe,Europe,1336
-1995,1995,Import,Comoros,69,Ceramic products,Sub-Saharan Africa,Africa,3306
-1995,1995,Import,Comoros,69,Ceramic products,Western Europe,Europe,119093
-1995,1995,Import,Comoros,69,Ceramic products,World,World,260469
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Comoros,69,Ceramic products,South-eastern Asia,Asia,17800,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+1995,1995,Import,Comoros,69,Ceramic products,Southern Europe,Europe,1336,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+1995,1995,Import,Comoros,69,Ceramic products,Sub-Saharan Africa,Africa,3306,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+1995,1995,Import,Comoros,69,Ceramic products,Western Europe,Europe,119093,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1995,1995,Import,Comoros,69,Ceramic products,World,World,260469,-12.2045176,44.2832964,,

@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Comoros,1,Live animals,Eastern Europe,Europe,1065
-2006,2006,Import,Comoros,1,Live animals,Sub-Saharan Africa,Africa,433289
-2006,2006,Import,Comoros,1,Live animals,World,World,441948
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Comoros,1,Live animals,Eastern Europe,Europe,1065,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2006,2006,Import,Comoros,1,Live animals,Sub-Saharan Africa,Africa,433289,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2006,2006,Import,Comoros,1,Live animals,World,World,441948,-12.2045176,44.2832964,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Algeria,52,Cotton,Eastern Asia,Asia,2579566
-2014,2014,Import,Algeria,52,Cotton,Latin America and the Caribbean,Americas,4
-2014,2014,Import,Algeria,52,Cotton,Northern Africa,Africa,243006
-2014,2014,Import,Algeria,52,Cotton,Northern America,Americas,6863
-2014,2014,Import,Algeria,52,Cotton,South-eastern Asia,Asia,1002263
-2014,2014,Import,Algeria,52,Cotton,Southern Asia,Asia,168755
-2014,2014,Import,Algeria,52,Cotton,Southern Europe,Europe,21829195
-2014,2014,Import,Algeria,52,Cotton,Sub-Saharan Africa,Africa,4
-2014,2014,Import,Algeria,52,Cotton,Western Asia,Asia,4341270
-2014,2014,Import,Algeria,52,Cotton,Western Europe,Europe,2386640
-2014,2014,Import,Algeria,52,Cotton,World,World,43409322
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Algeria,52,Cotton,Eastern Asia,Asia,2579566,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2014,2014,Import,Algeria,52,Cotton,Latin America and the Caribbean,Americas,4,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2014,2014,Import,Algeria,52,Cotton,Northern Africa,Africa,243006,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2014,2014,Import,Algeria,52,Cotton,Northern America,Americas,6863,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2014,2014,Import,Algeria,52,Cotton,South-eastern Asia,Asia,1002263,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2014,2014,Import,Algeria,52,Cotton,Southern Asia,Asia,168755,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2014,2014,Import,Algeria,52,Cotton,Southern Europe,Europe,21829195,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2014,2014,Import,Algeria,52,Cotton,Sub-Saharan Africa,Africa,4,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2014,2014,Import,Algeria,52,Cotton,Western Asia,Asia,4341270,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2014,2014,Import,Algeria,52,Cotton,Western Europe,Europe,2386640,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2014,2014,Import,Algeria,52,Cotton,World,World,43409322,28.0000272,2.9999825,,

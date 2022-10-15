@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Comoros,10,Cereals,Latin America and the Caribbean,Americas,122
-2000,2000,Import,Comoros,10,Cereals,South-eastern Asia,Asia,44640
-2000,2000,Import,Comoros,10,Cereals,Sub-Saharan Africa,Africa,155211
-2000,2000,Import,Comoros,10,Cereals,Western Europe,Europe,10666
-2000,2000,Import,Comoros,10,Cereals,World,World,5279905
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Comoros,10,Cereals,Latin America and the Caribbean,Americas,122,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2000,2000,Import,Comoros,10,Cereals,South-eastern Asia,Asia,44640,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2000,2000,Import,Comoros,10,Cereals,Sub-Saharan Africa,Africa,155211,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2000,2000,Import,Comoros,10,Cereals,Western Europe,Europe,10666,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2000,2000,Import,Comoros,10,Cereals,World,World,5279905,-12.2045176,44.2832964,,

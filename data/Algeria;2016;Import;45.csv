@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Algeria,45,Cork and articles of cork,Eastern Asia,Asia,4164
-2016,2016,Import,Algeria,45,Cork and articles of cork,Northern America,Americas,20
-2016,2016,Import,Algeria,45,Cork and articles of cork,Northern Europe,Europe,815
-2016,2016,Import,Algeria,45,Cork and articles of cork,Southern Europe,Europe,386736
-2016,2016,Import,Algeria,45,Cork and articles of cork,Sub-Saharan Africa,Africa,56
-2016,2016,Import,Algeria,45,Cork and articles of cork,Western Asia,Asia,870
-2016,2016,Import,Algeria,45,Cork and articles of cork,Western Europe,Europe,6388
-2016,2016,Import,Algeria,45,Cork and articles of cork,World,World,399953
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Algeria,45,Cork and articles of cork,Eastern Asia,Asia,4164,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2016,2016,Import,Algeria,45,Cork and articles of cork,Northern America,Americas,20,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2016,2016,Import,Algeria,45,Cork and articles of cork,Northern Europe,Europe,815,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2016,2016,Import,Algeria,45,Cork and articles of cork,Southern Europe,Europe,386736,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2016,2016,Import,Algeria,45,Cork and articles of cork,Sub-Saharan Africa,Africa,56,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2016,2016,Import,Algeria,45,Cork and articles of cork,Western Asia,Asia,870,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2016,2016,Import,Algeria,45,Cork and articles of cork,Western Europe,Europe,6388,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2016,2016,Import,Algeria,45,Cork and articles of cork,World,World,399953,28.0000272,2.9999825,,

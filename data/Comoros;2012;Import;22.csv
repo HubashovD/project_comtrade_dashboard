@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,7527
-2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,1653
-2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",Northern Africa,Africa,522
-2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,68
-2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",Southern Europe,Europe,75940
-2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,1577518
-2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",Western Asia,Asia,11653
-2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",Western Europe,Europe,580717
-2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",World,World,5319899
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,7527,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,1653,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",Northern Africa,Africa,522,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,68,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",Southern Europe,Europe,75940,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,1577518,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",Western Asia,Asia,11653,-12.2045176,44.2832964,26.42921218083572,52.86847103284948
+2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",Western Europe,Europe,580717,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2012,2012,Import,Comoros,22,"Beverages, spirits and vinegar",World,World,5319899,-12.2045176,44.2832964,,

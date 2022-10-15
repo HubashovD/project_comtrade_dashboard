@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Algeria,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern America,Americas,49350
-2017,2017,Export,Algeria,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern Europe,Europe,2794
-2017,2017,Export,Algeria,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",South-eastern Asia,Asia,32893
-2017,2017,Export,Algeria,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Southern Europe,Europe,10910
-2017,2017,Export,Algeria,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Sub-Saharan Africa,Africa,50285
-2017,2017,Export,Algeria,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Western Europe,Europe,28965
-2017,2017,Export,Algeria,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",World,World,183220
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Algeria,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern America,Americas,49350,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2017,2017,Export,Algeria,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern Europe,Europe,2794,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2017,2017,Export,Algeria,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",South-eastern Asia,Asia,32893,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2017,2017,Export,Algeria,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Southern Europe,Europe,10910,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2017,2017,Export,Algeria,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Sub-Saharan Africa,Africa,50285,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2017,2017,Export,Algeria,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Western Europe,Europe,28965,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2017,2017,Export,Algeria,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",World,World,183220,28.0000272,2.9999825,,

@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Comoros,1,Animals; live,Eastern Europe,Europe,373
-2018,2018,Import,Comoros,1,Animals; live,Sub-Saharan Africa,Africa,508624
-2018,2018,Import,Comoros,1,Animals; live,Western Europe,Europe,62
-2018,2018,Import,Comoros,1,Animals; live,World,World,509060
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Comoros,1,Animals; live,Eastern Europe,Europe,373,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2018,2018,Import,Comoros,1,Animals; live,Sub-Saharan Africa,Africa,508624,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2018,2018,Import,Comoros,1,Animals; live,Western Europe,Europe,62,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2018,2018,Import,Comoros,1,Animals; live,World,World,509060,-12.2045176,44.2832964,,

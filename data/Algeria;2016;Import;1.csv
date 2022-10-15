@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Algeria,1,Animals; live,Eastern Europe,Europe,528496
-2016,2016,Import,Algeria,1,Animals; live,Northern America,Americas,2084344
-2016,2016,Import,Algeria,1,Animals; live,Northern Europe,Europe,6445950
-2016,2016,Import,Algeria,1,Animals; live,Southern Europe,Europe,15213330
-2016,2016,Import,Algeria,1,Animals; live,Western Europe,Europe,89435086
-2016,2016,Import,Algeria,1,Animals; live,World,World,113707207
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Algeria,1,Animals; live,Eastern Europe,Europe,528496,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2016,2016,Import,Algeria,1,Animals; live,Northern America,Americas,2084344,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2016,2016,Import,Algeria,1,Animals; live,Northern Europe,Europe,6445950,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2016,2016,Import,Algeria,1,Animals; live,Southern Europe,Europe,15213330,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2016,2016,Import,Algeria,1,Animals; live,Western Europe,Europe,89435086,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2016,2016,Import,Algeria,1,Animals; live,World,World,113707207,28.0000272,2.9999825,,

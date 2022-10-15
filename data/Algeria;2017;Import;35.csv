@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Central Asia,Asia,438659
-2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Asia,Asia,4122501
-2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Europe,Europe,76052
-2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Latin America and the Caribbean,Americas,57446
-2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Africa,Africa,709420
-2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Northern America,Americas,1989888
-2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Europe,Europe,9646543
-2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,South-eastern Asia,Asia,1839166
-2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Europe,Europe,8454015
-2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Western Asia,Asia,3739787
-2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Western Europe,Europe,33982872
-2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,World,World,66895788
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Central Asia,Asia,438659,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Asia,Asia,4122501,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Europe,Europe,76052,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Latin America and the Caribbean,Americas,57446,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Africa,Africa,709420,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Northern America,Americas,1989888,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Europe,Europe,9646543,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,South-eastern Asia,Asia,1839166,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Europe,Europe,8454015,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Western Asia,Asia,3739787,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,Western Europe,Europe,33982872,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2017,2017,Import,Algeria,35,Albuminoidal substances; modified starches; glues; enzymes,World,World,66895788,28.0000272,2.9999825,,

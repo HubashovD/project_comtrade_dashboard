@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Algeria,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,507449
-2017,2017,Export,Algeria,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,14134
-2017,2017,Export,Algeria,88,"Aircraft, spacecraft and parts thereof",Northern Europe,Europe,29213
-2017,2017,Export,Algeria,88,"Aircraft, spacecraft and parts thereof",Southern Europe,Europe,1008792
-2017,2017,Export,Algeria,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,1134
-2017,2017,Export,Algeria,88,"Aircraft, spacecraft and parts thereof",World,World,1560725
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Algeria,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,507449,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2017,2017,Export,Algeria,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,14134,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2017,2017,Export,Algeria,88,"Aircraft, spacecraft and parts thereof",Northern Europe,Europe,29213,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2017,2017,Export,Algeria,88,"Aircraft, spacecraft and parts thereof",Southern Europe,Europe,1008792,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2017,2017,Export,Algeria,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,1134,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2017,2017,Export,Algeria,88,"Aircraft, spacecraft and parts thereof",World,World,1560725,28.0000272,2.9999825,,

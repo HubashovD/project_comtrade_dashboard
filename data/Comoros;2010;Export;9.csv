@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Central Asia,Asia,22231
-2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Eastern Europe,Europe,244543
-2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Northern Africa,Africa,101692
-2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Northern America,Americas,628536
-2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Northern Europe,Europe,44462
-2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,3943237
-2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,218975
-2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,246142
-2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Western Europe,Europe,2204753
-2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",World,World,9444369
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Central Asia,Asia,22231,-12.2045176,44.2832964,39.89317229901691,61.060280637304274
+2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Eastern Europe,Europe,244543,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Northern Africa,Africa,101692,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Northern America,Americas,628536,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Northern Europe,Europe,44462,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,3943237,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,218975,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,246142,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",Western Europe,Europe,2204753,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2010,2010,Export,Comoros,9,"Coffee, tea, matΦ and spices",World,World,9444369,-12.2045176,44.2832964,,

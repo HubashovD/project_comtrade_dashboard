@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Export,Algeria,69,Ceramic products,Eastern Europe,Europe,95
-2014,2014,Export,Algeria,69,Ceramic products,Northern Africa,Africa,524660
-2014,2014,Export,Algeria,69,Ceramic products,Northern America,Americas,12252
-2014,2014,Export,Algeria,69,Ceramic products,Southern Europe,Europe,368
-2014,2014,Export,Algeria,69,Ceramic products,Sub-Saharan Africa,Africa,160
-2014,2014,Export,Algeria,69,Ceramic products,Western Europe,Europe,1672
-2014,2014,Export,Algeria,69,Ceramic products,World,World,539226
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Export,Algeria,69,Ceramic products,Eastern Europe,Europe,95,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2014,2014,Export,Algeria,69,Ceramic products,Northern Africa,Africa,524660,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2014,2014,Export,Algeria,69,Ceramic products,Northern America,Americas,12252,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2014,2014,Export,Algeria,69,Ceramic products,Southern Europe,Europe,368,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2014,2014,Export,Algeria,69,Ceramic products,Sub-Saharan Africa,Africa,160,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2014,2014,Export,Algeria,69,Ceramic products,Western Europe,Europe,1672,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2014,2014,Export,Algeria,69,Ceramic products,World,World,539226,28.0000272,2.9999825,,

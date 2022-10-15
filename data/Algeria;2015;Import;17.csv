@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Eastern Asia,Asia,2151653
-2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Eastern Europe,Europe,10939049
-2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,590730759
-2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Northern Africa,Africa,4236873
-2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Northern America,Americas,183256
-2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Northern Europe,Europe,3330208
-2015,2015,Import,Algeria,17,Sugars and sugar confectionery,South-eastern Asia,Asia,1100485
-2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Southern Asia,Asia,568
-2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Southern Europe,Europe,4967219
-2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Western Asia,Asia,13316639
-2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Western Europe,Europe,117985469
-2015,2015,Import,Algeria,17,Sugars and sugar confectionery,World,World,752801738
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Eastern Asia,Asia,2151653,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Eastern Europe,Europe,10939049,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,590730759,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Northern Africa,Africa,4236873,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Northern America,Americas,183256,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Northern Europe,Europe,3330208,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2015,2015,Import,Algeria,17,Sugars and sugar confectionery,South-eastern Asia,Asia,1100485,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Southern Asia,Asia,568,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Southern Europe,Europe,4967219,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Western Asia,Asia,13316639,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2015,2015,Import,Algeria,17,Sugars and sugar confectionery,Western Europe,Europe,117985469,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2015,2015,Import,Algeria,17,Sugars and sugar confectionery,World,World,752801738,28.0000272,2.9999825,,

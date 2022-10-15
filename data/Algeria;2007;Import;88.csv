@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Australia and New Zealand,Oceania,4490
-2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,550036
-2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,10817733
-2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Latin America and the Caribbean,Americas,1613
-2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,98631077
-2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,2748054
-2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,929234
-2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Sub-Saharan Africa,Africa,5508792
-2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,3282618
-2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",World,World,122796529
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Australia and New Zealand,Oceania,4490,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,550036,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,10817733,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Latin America and the Caribbean,Americas,1613,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,98631077,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,2748054,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,929234,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Sub-Saharan Africa,Africa,5508792,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,3282618,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2007,2007,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",World,World,122796529,28.0000272,2.9999825,,

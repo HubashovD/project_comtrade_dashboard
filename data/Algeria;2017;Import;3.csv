@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,465
-2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Central Asia,Asia,25969397
-2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,17181822
-2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,1309
-2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,6446110
-2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Africa,Africa,324857
-2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,52012
-2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,213712
-2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,10356093
-2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,4544
-2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,16018300
-2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,8460343
-2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,2302279
-2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,98104154
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,465,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Central Asia,Asia,25969397,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,17181822,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,1309,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,6446110,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Africa,Africa,324857,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,52012,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,213712,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,10356093,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,4544,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,16018300,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,8460343,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,2302279,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2017,2017,Import,Algeria,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,98104154,28.0000272,2.9999825,,

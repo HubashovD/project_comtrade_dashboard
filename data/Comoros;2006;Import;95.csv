@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Comoros,95,"Toys, games, sports requisites",Eastern Asia,Asia,8851
-2006,2006,Import,Comoros,95,"Toys, games, sports requisites",Northern Africa,Africa,383
-2006,2006,Import,Comoros,95,"Toys, games, sports requisites",South-eastern Asia,Asia,266
-2006,2006,Import,Comoros,95,"Toys, games, sports requisites",Sub-Saharan Africa,Africa,3000
-2006,2006,Import,Comoros,95,"Toys, games, sports requisites",Western Europe,Europe,23993
-2006,2006,Import,Comoros,95,"Toys, games, sports requisites",World,World,92184
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Comoros,95,"Toys, games, sports requisites",Eastern Asia,Asia,8851,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2006,2006,Import,Comoros,95,"Toys, games, sports requisites",Northern Africa,Africa,383,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2006,2006,Import,Comoros,95,"Toys, games, sports requisites",South-eastern Asia,Asia,266,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2006,2006,Import,Comoros,95,"Toys, games, sports requisites",Sub-Saharan Africa,Africa,3000,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2006,2006,Import,Comoros,95,"Toys, games, sports requisites",Western Europe,Europe,23993,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2006,2006,Import,Comoros,95,"Toys, games, sports requisites",World,World,92184,-12.2045176,44.2832964,,

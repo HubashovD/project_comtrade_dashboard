@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Comoros,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,25
-2001,2001,Import,Comoros,17,Sugars and sugar confectionery,Northern Europe,Europe,56445
-2001,2001,Import,Comoros,17,Sugars and sugar confectionery,South-eastern Asia,Asia,12540
-2001,2001,Import,Comoros,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,1030874
-2001,2001,Import,Comoros,17,Sugars and sugar confectionery,Western Europe,Europe,338870
-2001,2001,Import,Comoros,17,Sugars and sugar confectionery,World,World,1487542
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Comoros,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,25,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2001,2001,Import,Comoros,17,Sugars and sugar confectionery,Northern Europe,Europe,56445,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2001,2001,Import,Comoros,17,Sugars and sugar confectionery,South-eastern Asia,Asia,12540,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2001,2001,Import,Comoros,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,1030874,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2001,2001,Import,Comoros,17,Sugars and sugar confectionery,Western Europe,Europe,338870,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2001,2001,Import,Comoros,17,Sugars and sugar confectionery,World,World,1487542,-12.2045176,44.2832964,,

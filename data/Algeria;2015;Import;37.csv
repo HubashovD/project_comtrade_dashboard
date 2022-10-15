@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Eastern Asia,Asia,7865165
-2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Eastern Europe,Europe,515210
-2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Latin America and the Caribbean,Americas,22080
-2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Northern Africa,Africa,645
-2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Northern America,Americas,5697449
-2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Northern Europe,Europe,867598
-2015,2015,Import,Algeria,37,Photographic or cinematographic goods,South-eastern Asia,Asia,34569
-2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Southern Europe,Europe,2142896
-2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Sub-Saharan Africa,Africa,3774
-2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Western Asia,Asia,145292
-2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Western Europe,Europe,22636212
-2015,2015,Import,Algeria,37,Photographic or cinematographic goods,World,World,40310377
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Eastern Asia,Asia,7865165,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Eastern Europe,Europe,515210,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Latin America and the Caribbean,Americas,22080,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Northern Africa,Africa,645,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Northern America,Americas,5697449,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Northern Europe,Europe,867598,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2015,2015,Import,Algeria,37,Photographic or cinematographic goods,South-eastern Asia,Asia,34569,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Southern Europe,Europe,2142896,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Sub-Saharan Africa,Africa,3774,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Western Asia,Asia,145292,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2015,2015,Import,Algeria,37,Photographic or cinematographic goods,Western Europe,Europe,22636212,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2015,2015,Import,Algeria,37,Photographic or cinematographic goods,World,World,40310377,28.0000272,2.9999825,,

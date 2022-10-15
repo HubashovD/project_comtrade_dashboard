@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Comoros,9,"Coffee, tea, mate and spices",Micronesia,Oceania,398
-2006,2006,Import,Comoros,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,1236
-2006,2006,Import,Comoros,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,59290
-2006,2006,Import,Comoros,9,"Coffee, tea, mate and spices",Western Europe,Europe,111917
-2006,2006,Import,Comoros,9,"Coffee, tea, mate and spices",World,World,217137
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Comoros,9,"Coffee, tea, mate and spices",Micronesia,Oceania,398,-12.2045176,44.2832964,6.418559504495792,157.6364476938912
+2006,2006,Import,Comoros,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,1236,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2006,2006,Import,Comoros,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,59290,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2006,2006,Import,Comoros,9,"Coffee, tea, mate and spices",Western Europe,Europe,111917,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2006,2006,Import,Comoros,9,"Coffee, tea, mate and spices",World,World,217137,-12.2045176,44.2832964,,

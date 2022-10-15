@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Comoros,50,Silk,Eastern Asia,Asia,4901
-2019,2019,Import,Comoros,50,Silk,Sub-Saharan Africa,Africa,3979
-2019,2019,Import,Comoros,50,Silk,Western Europe,Europe,155
-2019,2019,Import,Comoros,50,Silk,World,World,28874
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Comoros,50,Silk,Eastern Asia,Asia,4901,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2019,2019,Import,Comoros,50,Silk,Sub-Saharan Africa,Africa,3979,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2019,2019,Import,Comoros,50,Silk,Western Europe,Europe,155,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2019,2019,Import,Comoros,50,Silk,World,World,28874,-12.2045176,44.2832964,,

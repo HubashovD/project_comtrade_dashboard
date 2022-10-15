@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Comoros,69,Ceramic products,Australia and New Zealand,Oceania,1383
-2018,2018,Import,Comoros,69,Ceramic products,Eastern Asia,Asia,3123059
-2018,2018,Import,Comoros,69,Ceramic products,Latin America and the Caribbean,Americas,574
-2018,2018,Import,Comoros,69,Ceramic products,Northern Africa,Africa,120826
-2018,2018,Import,Comoros,69,Ceramic products,Northern Europe,Europe,25
-2018,2018,Import,Comoros,69,Ceramic products,Polynesia,Oceania,1147
-2018,2018,Import,Comoros,69,Ceramic products,South-eastern Asia,Asia,32322
-2018,2018,Import,Comoros,69,Ceramic products,Southern Europe,Europe,35443
-2018,2018,Import,Comoros,69,Ceramic products,Sub-Saharan Africa,Africa,14802
-2018,2018,Import,Comoros,69,Ceramic products,Western Asia,Asia,9399
-2018,2018,Import,Comoros,69,Ceramic products,Western Europe,Europe,381824
-2018,2018,Import,Comoros,69,Ceramic products,World,World,6502203
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Comoros,69,Ceramic products,Australia and New Zealand,Oceania,1383,-12.2045176,44.2832964,-16.85099460447687,133.4130365630627
+2018,2018,Import,Comoros,69,Ceramic products,Eastern Asia,Asia,3123059,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2018,2018,Import,Comoros,69,Ceramic products,Latin America and the Caribbean,Americas,574,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2018,2018,Import,Comoros,69,Ceramic products,Northern Africa,Africa,120826,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2018,2018,Import,Comoros,69,Ceramic products,Northern Europe,Europe,25,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2018,2018,Import,Comoros,69,Ceramic products,Polynesia,Oceania,1147,-12.2045176,44.2832964,-5.109184731250752,167.40343615892436
+2018,2018,Import,Comoros,69,Ceramic products,South-eastern Asia,Asia,32322,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2018,2018,Import,Comoros,69,Ceramic products,Southern Europe,Europe,35443,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2018,2018,Import,Comoros,69,Ceramic products,Sub-Saharan Africa,Africa,14802,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2018,2018,Import,Comoros,69,Ceramic products,Western Asia,Asia,9399,-12.2045176,44.2832964,26.42921218083572,52.86847103284948
+2018,2018,Import,Comoros,69,Ceramic products,Western Europe,Europe,381824,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2018,2018,Import,Comoros,69,Ceramic products,World,World,6502203,-12.2045176,44.2832964,,

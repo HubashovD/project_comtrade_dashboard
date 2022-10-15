@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Comoros,15,Animal or vegetable fats and oils,Eastern Asia,Asia,38369
-2012,2012,Import,Comoros,15,Animal or vegetable fats and oils,Northern Africa,Africa,129
-2012,2012,Import,Comoros,15,Animal or vegetable fats and oils,South-eastern Asia,Asia,2486139
-2012,2012,Import,Comoros,15,Animal or vegetable fats and oils,Southern Europe,Europe,313
-2012,2012,Import,Comoros,15,Animal or vegetable fats and oils,Sub-Saharan Africa,Africa,166106
-2012,2012,Import,Comoros,15,Animal or vegetable fats and oils,Western Europe,Europe,154848
-2012,2012,Import,Comoros,15,Animal or vegetable fats and oils,World,World,4509649
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Comoros,15,Animal or vegetable fats and oils,Eastern Asia,Asia,38369,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2012,2012,Import,Comoros,15,Animal or vegetable fats and oils,Northern Africa,Africa,129,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2012,2012,Import,Comoros,15,Animal or vegetable fats and oils,South-eastern Asia,Asia,2486139,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2012,2012,Import,Comoros,15,Animal or vegetable fats and oils,Southern Europe,Europe,313,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2012,2012,Import,Comoros,15,Animal or vegetable fats and oils,Sub-Saharan Africa,Africa,166106,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2012,2012,Import,Comoros,15,Animal or vegetable fats and oils,Western Europe,Europe,154848,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2012,2012,Import,Comoros,15,Animal or vegetable fats and oils,World,World,4509649,-12.2045176,44.2832964,,

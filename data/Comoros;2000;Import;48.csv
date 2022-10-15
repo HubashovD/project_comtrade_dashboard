@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Comoros,48,"Paper & paperboard, articles of pulp, paper and board",Eastern Asia,Asia,22314
-2000,2000,Import,Comoros,48,"Paper & paperboard, articles of pulp, paper and board",Polynesia,Oceania,1169
-2000,2000,Import,Comoros,48,"Paper & paperboard, articles of pulp, paper and board",South-eastern Asia,Asia,130
-2000,2000,Import,Comoros,48,"Paper & paperboard, articles of pulp, paper and board",Sub-Saharan Africa,Africa,44474
-2000,2000,Import,Comoros,48,"Paper & paperboard, articles of pulp, paper and board",Western Europe,Europe,313180
-2000,2000,Import,Comoros,48,"Paper & paperboard, articles of pulp, paper and board",World,World,412470
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Comoros,48,"Paper & paperboard, articles of pulp, paper and board",Eastern Asia,Asia,22314,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2000,2000,Import,Comoros,48,"Paper & paperboard, articles of pulp, paper and board",Polynesia,Oceania,1169,-12.2045176,44.2832964,-5.109184731250752,167.40343615892436
+2000,2000,Import,Comoros,48,"Paper & paperboard, articles of pulp, paper and board",South-eastern Asia,Asia,130,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2000,2000,Import,Comoros,48,"Paper & paperboard, articles of pulp, paper and board",Sub-Saharan Africa,Africa,44474,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2000,2000,Import,Comoros,48,"Paper & paperboard, articles of pulp, paper and board",Western Europe,Europe,313180,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2000,2000,Import,Comoros,48,"Paper & paperboard, articles of pulp, paper and board",World,World,412470,-12.2045176,44.2832964,,

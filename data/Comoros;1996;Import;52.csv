@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Comoros,52,Cotton,South-eastern Asia,Asia,19129
-1996,1996,Import,Comoros,52,Cotton,Sub-Saharan Africa,Africa,68162
-1996,1996,Import,Comoros,52,Cotton,Western Europe,Europe,26572
-1996,1996,Import,Comoros,52,Cotton,World,World,462041
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Comoros,52,Cotton,South-eastern Asia,Asia,19129,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+1996,1996,Import,Comoros,52,Cotton,Sub-Saharan Africa,Africa,68162,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+1996,1996,Import,Comoros,52,Cotton,Western Europe,Europe,26572,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1996,1996,Import,Comoros,52,Cotton,World,World,462041,-12.2045176,44.2832964,,

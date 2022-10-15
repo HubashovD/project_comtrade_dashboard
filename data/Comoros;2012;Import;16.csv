@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Comoros,16,"Preparations of meat, of fish or of crustaceans",South-eastern Asia,Asia,103288
-2012,2012,Import,Comoros,16,"Preparations of meat, of fish or of crustaceans",Southern Europe,Europe,588
-2012,2012,Import,Comoros,16,"Preparations of meat, of fish or of crustaceans",Sub-Saharan Africa,Africa,393827
-2012,2012,Import,Comoros,16,"Preparations of meat, of fish or of crustaceans",Western Europe,Europe,77700
-2012,2012,Import,Comoros,16,"Preparations of meat, of fish or of crustaceans",World,World,1743617
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Comoros,16,"Preparations of meat, of fish or of crustaceans",South-eastern Asia,Asia,103288,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2012,2012,Import,Comoros,16,"Preparations of meat, of fish or of crustaceans",Southern Europe,Europe,588,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2012,2012,Import,Comoros,16,"Preparations of meat, of fish or of crustaceans",Sub-Saharan Africa,Africa,393827,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2012,2012,Import,Comoros,16,"Preparations of meat, of fish or of crustaceans",Western Europe,Europe,77700,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2012,2012,Import,Comoros,16,"Preparations of meat, of fish or of crustaceans",World,World,1743617,-12.2045176,44.2832964,,

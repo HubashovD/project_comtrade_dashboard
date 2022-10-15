@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Comoros,73,Articles of iron or steel,Eastern Asia,Asia,65034
-2003,2003,Import,Comoros,73,Articles of iron or steel,Latin America and the Caribbean,Americas,357
-2003,2003,Import,Comoros,73,Articles of iron or steel,Polynesia,Oceania,609
-2003,2003,Import,Comoros,73,Articles of iron or steel,South-eastern Asia,Asia,4933
-2003,2003,Import,Comoros,73,Articles of iron or steel,Sub-Saharan Africa,Africa,76502
-2003,2003,Import,Comoros,73,Articles of iron or steel,Western Europe,Europe,70643
-2003,2003,Import,Comoros,73,Articles of iron or steel,World,World,346096
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Comoros,73,Articles of iron or steel,Eastern Asia,Asia,65034,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2003,2003,Import,Comoros,73,Articles of iron or steel,Latin America and the Caribbean,Americas,357,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2003,2003,Import,Comoros,73,Articles of iron or steel,Polynesia,Oceania,609,-12.2045176,44.2832964,-5.109184731250752,167.40343615892436
+2003,2003,Import,Comoros,73,Articles of iron or steel,South-eastern Asia,Asia,4933,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2003,2003,Import,Comoros,73,Articles of iron or steel,Sub-Saharan Africa,Africa,76502,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2003,2003,Import,Comoros,73,Articles of iron or steel,Western Europe,Europe,70643,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2003,2003,Import,Comoros,73,Articles of iron or steel,World,World,346096,-12.2045176,44.2832964,,

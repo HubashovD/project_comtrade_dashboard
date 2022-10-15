@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Algeria,75,Nickel and articles thereof,Eastern Asia,Asia,105336
-2016,2016,Import,Algeria,75,Nickel and articles thereof,Latin America and the Caribbean,Americas,393
-2016,2016,Import,Algeria,75,Nickel and articles thereof,Northern America,Americas,275792
-2016,2016,Import,Algeria,75,Nickel and articles thereof,Northern Europe,Europe,1231949
-2016,2016,Import,Algeria,75,Nickel and articles thereof,Southern Europe,Europe,180430
-2016,2016,Import,Algeria,75,Nickel and articles thereof,Sub-Saharan Africa,Africa,874
-2016,2016,Import,Algeria,75,Nickel and articles thereof,Western Asia,Asia,9719
-2016,2016,Import,Algeria,75,Nickel and articles thereof,Western Europe,Europe,221689
-2016,2016,Import,Algeria,75,Nickel and articles thereof,World,World,2082792
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Algeria,75,Nickel and articles thereof,Eastern Asia,Asia,105336,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2016,2016,Import,Algeria,75,Nickel and articles thereof,Latin America and the Caribbean,Americas,393,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2016,2016,Import,Algeria,75,Nickel and articles thereof,Northern America,Americas,275792,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2016,2016,Import,Algeria,75,Nickel and articles thereof,Northern Europe,Europe,1231949,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2016,2016,Import,Algeria,75,Nickel and articles thereof,Southern Europe,Europe,180430,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2016,2016,Import,Algeria,75,Nickel and articles thereof,Sub-Saharan Africa,Africa,874,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2016,2016,Import,Algeria,75,Nickel and articles thereof,Western Asia,Asia,9719,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2016,2016,Import,Algeria,75,Nickel and articles thereof,Western Europe,Europe,221689,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2016,2016,Import,Algeria,75,Nickel and articles thereof,World,World,2082792,28.0000272,2.9999825,,

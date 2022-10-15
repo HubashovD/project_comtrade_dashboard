@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Comoros,95,"Toys, games, sports requisites",Northern Europe,Europe,16880
-1999,1999,Import,Comoros,95,"Toys, games, sports requisites",South-eastern Asia,Asia,2824
-1999,1999,Import,Comoros,95,"Toys, games, sports requisites",Western Europe,Europe,25270
-1999,1999,Import,Comoros,95,"Toys, games, sports requisites",World,World,74444
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Comoros,95,"Toys, games, sports requisites",Northern Europe,Europe,16880,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+1999,1999,Import,Comoros,95,"Toys, games, sports requisites",South-eastern Asia,Asia,2824,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+1999,1999,Import,Comoros,95,"Toys, games, sports requisites",Western Europe,Europe,25270,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1999,1999,Import,Comoros,95,"Toys, games, sports requisites",World,World,74444,-12.2045176,44.2832964,,

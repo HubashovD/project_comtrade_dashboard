@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,53311
-2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,5350
-2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",Northern Europe,Europe,23390
-2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,599
-2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",Southern Europe,Europe,16921
-2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",Sub-Saharan Africa,Africa,268772
-2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",Western Europe,Europe,4166585
-2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",World,World,7188136
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,53311,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,5350,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",Northern Europe,Europe,23390,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,599,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",Southern Europe,Europe,16921,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",Sub-Saharan Africa,Africa,268772,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",Western Europe,Europe,4166585,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2001,2001,Import,Comoros,87,"Vehicles other than railway, tramway",World,World,7188136,-12.2045176,44.2832964,,

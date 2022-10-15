@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Australia and New Zealand,Oceania,8337
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Central Asia,Asia,55849
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Eastern Asia,Asia,40964159
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Eastern Europe,Europe,8517229
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Latin America and the Caribbean,Americas,4115371
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Melanesia,Oceania,77
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Northern Africa,Africa,2473555
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Northern America,Americas,36477441
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Northern Europe,Europe,11825360
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",South-eastern Asia,Asia,1021379
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Southern Asia,Asia,1452
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Southern Europe,Europe,29519692
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Sub-Saharan Africa,Africa,95160
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Western Asia,Asia,2378012
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Western Europe,Europe,42951640
-2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",World,World,188657527
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Australia and New Zealand,Oceania,8337,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Central Asia,Asia,55849,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Eastern Asia,Asia,40964159,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Eastern Europe,Europe,8517229,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Latin America and the Caribbean,Americas,4115371,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Melanesia,Oceania,77,28.0000272,2.9999825,1.0108650891006263,147.3257485906919
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Northern Africa,Africa,2473555,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Northern America,Americas,36477441,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Northern Europe,Europe,11825360,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",South-eastern Asia,Asia,1021379,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Southern Asia,Asia,1452,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Southern Europe,Europe,29519692,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Sub-Saharan Africa,Africa,95160,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Western Asia,Asia,2378012,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Western Europe,Europe,42951640,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2014,2014,Import,Algeria,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",World,World,188657527,28.0000272,2.9999825,,

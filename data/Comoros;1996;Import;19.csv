@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Comoros,19,"Cereal, flour, starch, milk preparations and products",Latin America and the Caribbean,Americas,2322
-1996,1996,Import,Comoros,19,"Cereal, flour, starch, milk preparations and products",Sub-Saharan Africa,Africa,15951
-1996,1996,Import,Comoros,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,33845
-1996,1996,Import,Comoros,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,136664
-1996,1996,Import,Comoros,19,"Cereal, flour, starch, milk preparations and products",World,World,444697
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Comoros,19,"Cereal, flour, starch, milk preparations and products",Latin America and the Caribbean,Americas,2322,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+1996,1996,Import,Comoros,19,"Cereal, flour, starch, milk preparations and products",Sub-Saharan Africa,Africa,15951,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+1996,1996,Import,Comoros,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,33845,-12.2045176,44.2832964,26.42921218083572,52.86847103284948
+1996,1996,Import,Comoros,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,136664,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1996,1996,Import,Comoros,19,"Cereal, flour, starch, milk preparations and products",World,World,444697,-12.2045176,44.2832964,,

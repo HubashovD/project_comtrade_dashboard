@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Algeria,2,Meat and edible meat offal,Australia and New Zealand,Oceania,4879546
-2016,2016,Import,Algeria,2,Meat and edible meat offal,Eastern Asia,Asia,11035
-2016,2016,Import,Algeria,2,Meat and edible meat offal,Eastern Europe,Europe,277641
-2016,2016,Import,Algeria,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,68507847
-2016,2016,Import,Algeria,2,Meat and edible meat offal,Northern Europe,Europe,719423
-2016,2016,Import,Algeria,2,Meat and edible meat offal,Southern Europe,Europe,52671951
-2016,2016,Import,Algeria,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,495
-2016,2016,Import,Algeria,2,Meat and edible meat offal,Western Europe,Europe,832749
-2016,2016,Import,Algeria,2,Meat and edible meat offal,World,World,233384369
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Algeria,2,Meat and edible meat offal,Australia and New Zealand,Oceania,4879546,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2016,2016,Import,Algeria,2,Meat and edible meat offal,Eastern Asia,Asia,11035,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2016,2016,Import,Algeria,2,Meat and edible meat offal,Eastern Europe,Europe,277641,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2016,2016,Import,Algeria,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,68507847,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2016,2016,Import,Algeria,2,Meat and edible meat offal,Northern Europe,Europe,719423,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2016,2016,Import,Algeria,2,Meat and edible meat offal,Southern Europe,Europe,52671951,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2016,2016,Import,Algeria,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,495,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2016,2016,Import,Algeria,2,Meat and edible meat offal,Western Europe,Europe,832749,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2016,2016,Import,Algeria,2,Meat and edible meat offal,World,World,233384369,28.0000272,2.9999825,,

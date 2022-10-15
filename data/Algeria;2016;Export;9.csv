@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Algeria,9,"Coffee, tea, mate and spices",Northern Africa,Africa,7563
-2016,2016,Export,Algeria,9,"Coffee, tea, mate and spices",Northern America,Americas,1809
-2016,2016,Export,Algeria,9,"Coffee, tea, mate and spices",Southern Europe,Europe,1002
-2016,2016,Export,Algeria,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,759
-2016,2016,Export,Algeria,9,"Coffee, tea, mate and spices",Western Europe,Europe,15487
-2016,2016,Export,Algeria,9,"Coffee, tea, mate and spices",World,World,29422
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Algeria,9,"Coffee, tea, mate and spices",Northern Africa,Africa,7563,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2016,2016,Export,Algeria,9,"Coffee, tea, mate and spices",Northern America,Americas,1809,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2016,2016,Export,Algeria,9,"Coffee, tea, mate and spices",Southern Europe,Europe,1002,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2016,2016,Export,Algeria,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,759,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2016,2016,Export,Algeria,9,"Coffee, tea, mate and spices",Western Europe,Europe,15487,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2016,2016,Export,Algeria,9,"Coffee, tea, mate and spices",World,World,29422,28.0000272,2.9999825,,

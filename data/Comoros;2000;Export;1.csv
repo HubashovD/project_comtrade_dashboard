@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Comoros,1,Live animals,Northern America,Americas,2324
-2000,2000,Export,Comoros,1,Live animals,Sub-Saharan Africa,Africa,6914
-2000,2000,Export,Comoros,1,Live animals,Western Europe,Europe,1692
-2000,2000,Export,Comoros,1,Live animals,World,World,10930
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Comoros,1,Live animals,Northern America,Americas,2324,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2000,2000,Export,Comoros,1,Live animals,Sub-Saharan Africa,Africa,6914,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2000,2000,Export,Comoros,1,Live animals,Western Europe,Europe,1692,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2000,2000,Export,Comoros,1,Live animals,World,World,10930,-12.2045176,44.2832964,,

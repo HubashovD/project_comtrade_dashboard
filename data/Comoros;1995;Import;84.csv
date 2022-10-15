@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Australia and New Zealand,Oceania,1203
-1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,21391
-1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Latin America and the Caribbean,Americas,732
-1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,44853
-1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,14023
-1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,48257
-1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,2196
-1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,22525
-1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,1350457
-1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",World,World,1691272
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Australia and New Zealand,Oceania,1203,-12.2045176,44.2832964,-16.85099460447687,133.4130365630627
+1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,21391,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Latin America and the Caribbean,Americas,732,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,44853,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,14023,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,48257,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,2196,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,22525,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,1350457,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1995,1995,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",World,World,1691272,-12.2045176,44.2832964,,

@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Comoros,44,"Wood and articles of wood, wood charcoal",Eastern Europe,Europe,10852
-1995,1995,Import,Comoros,44,"Wood and articles of wood, wood charcoal",South-eastern Asia,Asia,133545
-1995,1995,Import,Comoros,44,"Wood and articles of wood, wood charcoal",Sub-Saharan Africa,Africa,63648
-1995,1995,Import,Comoros,44,"Wood and articles of wood, wood charcoal",Western Europe,Europe,415257
-1995,1995,Import,Comoros,44,"Wood and articles of wood, wood charcoal",World,World,750294
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Comoros,44,"Wood and articles of wood, wood charcoal",Eastern Europe,Europe,10852,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+1995,1995,Import,Comoros,44,"Wood and articles of wood, wood charcoal",South-eastern Asia,Asia,133545,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+1995,1995,Import,Comoros,44,"Wood and articles of wood, wood charcoal",Sub-Saharan Africa,Africa,63648,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+1995,1995,Import,Comoros,44,"Wood and articles of wood, wood charcoal",Western Europe,Europe,415257,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1995,1995,Import,Comoros,44,"Wood and articles of wood, wood charcoal",World,World,750294,-12.2045176,44.2832964,,

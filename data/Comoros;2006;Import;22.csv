@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Comoros,22,"Beverages, spirits and vinegar",Micronesia,Oceania,1359
-2006,2006,Import,Comoros,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,2298
-2006,2006,Import,Comoros,22,"Beverages, spirits and vinegar",Southern Europe,Europe,10300
-2006,2006,Import,Comoros,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,883432
-2006,2006,Import,Comoros,22,"Beverages, spirits and vinegar",Western Europe,Europe,125419
-2006,2006,Import,Comoros,22,"Beverages, spirits and vinegar",World,World,1330701
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Comoros,22,"Beverages, spirits and vinegar",Micronesia,Oceania,1359,-12.2045176,44.2832964,6.418559504495792,157.6364476938912
+2006,2006,Import,Comoros,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,2298,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2006,2006,Import,Comoros,22,"Beverages, spirits and vinegar",Southern Europe,Europe,10300,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2006,2006,Import,Comoros,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,883432,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2006,2006,Import,Comoros,22,"Beverages, spirits and vinegar",Western Europe,Europe,125419,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2006,2006,Import,Comoros,22,"Beverages, spirits and vinegar",World,World,1330701,-12.2045176,44.2832964,,

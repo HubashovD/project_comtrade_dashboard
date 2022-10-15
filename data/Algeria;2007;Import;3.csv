@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Central Asia,Asia,7037497
-2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Eastern Asia,Asia,1096579
-2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Latin America and the Caribbean,Americas,2487124
-2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern Africa,Africa,881
-2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern America,Americas,59717
-2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern Europe,Europe,25721
-2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",South-eastern Asia,Asia,2318842
-2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Southern Europe,Europe,5695352
-2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Sub-Saharan Africa,Africa,391803
-2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Western Europe,Europe,89397
-2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",World,World,20785527
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Central Asia,Asia,7037497,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Eastern Asia,Asia,1096579,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Latin America and the Caribbean,Americas,2487124,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern Africa,Africa,881,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern America,Americas,59717,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern Europe,Europe,25721,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",South-eastern Asia,Asia,2318842,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Southern Europe,Europe,5695352,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Sub-Saharan Africa,Africa,391803,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Western Europe,Europe,89397,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2007,2007,Import,Algeria,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",World,World,20785527,28.0000272,2.9999825,,

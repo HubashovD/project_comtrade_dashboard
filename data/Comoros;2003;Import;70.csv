@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Comoros,70,Glass and glassware,Eastern Asia,Asia,24092
-2003,2003,Import,Comoros,70,Glass and glassware,South-eastern Asia,Asia,6744
-2003,2003,Import,Comoros,70,Glass and glassware,Southern Europe,Europe,2196
-2003,2003,Import,Comoros,70,Glass and glassware,Sub-Saharan Africa,Africa,44962
-2003,2003,Import,Comoros,70,Glass and glassware,Western Europe,Europe,85226
-2003,2003,Import,Comoros,70,Glass and glassware,World,World,223488
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Comoros,70,Glass and glassware,Eastern Asia,Asia,24092,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2003,2003,Import,Comoros,70,Glass and glassware,South-eastern Asia,Asia,6744,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2003,2003,Import,Comoros,70,Glass and glassware,Southern Europe,Europe,2196,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2003,2003,Import,Comoros,70,Glass and glassware,Sub-Saharan Africa,Africa,44962,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2003,2003,Import,Comoros,70,Glass and glassware,Western Europe,Europe,85226,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2003,2003,Import,Comoros,70,Glass and glassware,World,World,223488,-12.2045176,44.2832964,,

@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Algeria,73,Iron or steel articles,Australia and New Zealand,Oceania,122487
-2015,2015,Import,Algeria,73,Iron or steel articles,Central Asia,Asia,102718
-2015,2015,Import,Algeria,73,Iron or steel articles,Eastern Asia,Asia,991121901
-2015,2015,Import,Algeria,73,Iron or steel articles,Eastern Europe,Europe,55843451
-2015,2015,Import,Algeria,73,Iron or steel articles,Latin America and the Caribbean,Americas,95755794
-2015,2015,Import,Algeria,73,Iron or steel articles,Northern Africa,Africa,141063654
-2015,2015,Import,Algeria,73,Iron or steel articles,Northern America,Americas,108333909
-2015,2015,Import,Algeria,73,Iron or steel articles,Northern Europe,Europe,48877885
-2015,2015,Import,Algeria,73,Iron or steel articles,Polynesia,Oceania,41392
-2015,2015,Import,Algeria,73,Iron or steel articles,South-eastern Asia,Asia,8519237
-2015,2015,Import,Algeria,73,Iron or steel articles,Southern Asia,Asia,1197
-2015,2015,Import,Algeria,73,Iron or steel articles,Southern Europe,Europe,493981904
-2015,2015,Import,Algeria,73,Iron or steel articles,Sub-Saharan Africa,Africa,484894
-2015,2015,Import,Algeria,73,Iron or steel articles,Western Asia,Asia,271009142
-2015,2015,Import,Algeria,73,Iron or steel articles,Western Europe,Europe,350052855
-2015,2015,Import,Algeria,73,Iron or steel articles,World,World,2688959971
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Algeria,73,Iron or steel articles,Australia and New Zealand,Oceania,122487,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2015,2015,Import,Algeria,73,Iron or steel articles,Central Asia,Asia,102718,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2015,2015,Import,Algeria,73,Iron or steel articles,Eastern Asia,Asia,991121901,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2015,2015,Import,Algeria,73,Iron or steel articles,Eastern Europe,Europe,55843451,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2015,2015,Import,Algeria,73,Iron or steel articles,Latin America and the Caribbean,Americas,95755794,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2015,2015,Import,Algeria,73,Iron or steel articles,Northern Africa,Africa,141063654,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2015,2015,Import,Algeria,73,Iron or steel articles,Northern America,Americas,108333909,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2015,2015,Import,Algeria,73,Iron or steel articles,Northern Europe,Europe,48877885,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2015,2015,Import,Algeria,73,Iron or steel articles,Polynesia,Oceania,41392,28.0000272,2.9999825,-5.109184731250752,167.40343615892436
+2015,2015,Import,Algeria,73,Iron or steel articles,South-eastern Asia,Asia,8519237,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2015,2015,Import,Algeria,73,Iron or steel articles,Southern Asia,Asia,1197,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2015,2015,Import,Algeria,73,Iron or steel articles,Southern Europe,Europe,493981904,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2015,2015,Import,Algeria,73,Iron or steel articles,Sub-Saharan Africa,Africa,484894,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2015,2015,Import,Algeria,73,Iron or steel articles,Western Asia,Asia,271009142,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2015,2015,Import,Algeria,73,Iron or steel articles,Western Europe,Europe,350052855,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2015,2015,Import,Algeria,73,Iron or steel articles,World,World,2688959971,28.0000272,2.9999825,,

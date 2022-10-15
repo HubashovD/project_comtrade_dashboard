@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Comoros,97,"Works of art, collectors' pieces and antiques",Eastern Asia,Asia,6234
-2009,2009,Import,Comoros,97,"Works of art, collectors' pieces and antiques",Northern America,Americas,85
-2009,2009,Import,Comoros,97,"Works of art, collectors' pieces and antiques",Sub-Saharan Africa,Africa,125
-2009,2009,Import,Comoros,97,"Works of art, collectors' pieces and antiques",Western Asia,Asia,283
-2009,2009,Import,Comoros,97,"Works of art, collectors' pieces and antiques",Western Europe,Europe,4325
-2009,2009,Import,Comoros,97,"Works of art, collectors' pieces and antiques",World,World,12292
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Comoros,97,"Works of art, collectors' pieces and antiques",Eastern Asia,Asia,6234,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2009,2009,Import,Comoros,97,"Works of art, collectors' pieces and antiques",Northern America,Americas,85,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2009,2009,Import,Comoros,97,"Works of art, collectors' pieces and antiques",Sub-Saharan Africa,Africa,125,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2009,2009,Import,Comoros,97,"Works of art, collectors' pieces and antiques",Western Asia,Asia,283,-12.2045176,44.2832964,26.42921218083572,52.86847103284948
+2009,2009,Import,Comoros,97,"Works of art, collectors' pieces and antiques",Western Europe,Europe,4325,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2009,2009,Import,Comoros,97,"Works of art, collectors' pieces and antiques",World,World,12292,-12.2045176,44.2832964,,

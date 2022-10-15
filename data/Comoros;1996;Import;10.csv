@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Comoros,10,Cereals,South-eastern Asia,Asia,3458199
-1996,1996,Import,Comoros,10,Cereals,Sub-Saharan Africa,Africa,1146
-1996,1996,Import,Comoros,10,Cereals,Western Europe,Europe,265129
-1996,1996,Import,Comoros,10,Cereals,World,World,8658281
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Comoros,10,Cereals,South-eastern Asia,Asia,3458199,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+1996,1996,Import,Comoros,10,Cereals,Sub-Saharan Africa,Africa,1146,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+1996,1996,Import,Comoros,10,Cereals,Western Europe,Europe,265129,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1996,1996,Import,Comoros,10,Cereals,World,World,8658281,-12.2045176,44.2832964,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Comoros,90,"Optical, photo, technical, medical, etc apparatus",Eastern Asia,Asia,1724
-1996,1996,Import,Comoros,90,"Optical, photo, technical, medical, etc apparatus",Northern America,Americas,937
-1996,1996,Import,Comoros,90,"Optical, photo, technical, medical, etc apparatus",Northern Europe,Europe,7332
-1996,1996,Import,Comoros,90,"Optical, photo, technical, medical, etc apparatus",Sub-Saharan Africa,Africa,3860
-1996,1996,Import,Comoros,90,"Optical, photo, technical, medical, etc apparatus",Western Europe,Europe,805692
-1996,1996,Import,Comoros,90,"Optical, photo, technical, medical, etc apparatus",World,World,852029
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Comoros,90,"Optical, photo, technical, medical, etc apparatus",Eastern Asia,Asia,1724,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+1996,1996,Import,Comoros,90,"Optical, photo, technical, medical, etc apparatus",Northern America,Americas,937,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+1996,1996,Import,Comoros,90,"Optical, photo, technical, medical, etc apparatus",Northern Europe,Europe,7332,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+1996,1996,Import,Comoros,90,"Optical, photo, technical, medical, etc apparatus",Sub-Saharan Africa,Africa,3860,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+1996,1996,Import,Comoros,90,"Optical, photo, technical, medical, etc apparatus",Western Europe,Europe,805692,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1996,1996,Import,Comoros,90,"Optical, photo, technical, medical, etc apparatus",World,World,852029,-12.2045176,44.2832964,,

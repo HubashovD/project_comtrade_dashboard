@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Australia and New Zealand,Oceania,775881
-2014,2014,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,66872
-2014,2014,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,522
-2014,2014,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,9518
-2014,2014,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,215145
-2014,2014,Import,Algeria,5,Animal originated products; not elsewhere specified or included,World,World,1067939
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Australia and New Zealand,Oceania,775881,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2014,2014,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,66872,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2014,2014,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,522,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2014,2014,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,9518,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2014,2014,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,215145,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2014,2014,Import,Algeria,5,Animal originated products; not elsewhere specified or included,World,World,1067939,28.0000272,2.9999825,,

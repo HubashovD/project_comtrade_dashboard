@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Algeria,79,Zinc and articles thereof,Eastern Asia,Asia,606705
-2016,2016,Import,Algeria,79,Zinc and articles thereof,Eastern Europe,Europe,8769
-2016,2016,Import,Algeria,79,Zinc and articles thereof,Northern America,Americas,27024
-2016,2016,Import,Algeria,79,Zinc and articles thereof,Northern Europe,Europe,2605369
-2016,2016,Import,Algeria,79,Zinc and articles thereof,South-eastern Asia,Asia,259
-2016,2016,Import,Algeria,79,Zinc and articles thereof,Southern Asia,Asia,64039
-2016,2016,Import,Algeria,79,Zinc and articles thereof,Southern Europe,Europe,6965753
-2016,2016,Import,Algeria,79,Zinc and articles thereof,Sub-Saharan Africa,Africa,35029
-2016,2016,Import,Algeria,79,Zinc and articles thereof,Western Europe,Europe,11046857
-2016,2016,Import,Algeria,79,Zinc and articles thereof,World,World,21366285
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Algeria,79,Zinc and articles thereof,Eastern Asia,Asia,606705,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2016,2016,Import,Algeria,79,Zinc and articles thereof,Eastern Europe,Europe,8769,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2016,2016,Import,Algeria,79,Zinc and articles thereof,Northern America,Americas,27024,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2016,2016,Import,Algeria,79,Zinc and articles thereof,Northern Europe,Europe,2605369,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2016,2016,Import,Algeria,79,Zinc and articles thereof,South-eastern Asia,Asia,259,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2016,2016,Import,Algeria,79,Zinc and articles thereof,Southern Asia,Asia,64039,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2016,2016,Import,Algeria,79,Zinc and articles thereof,Southern Europe,Europe,6965753,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2016,2016,Import,Algeria,79,Zinc and articles thereof,Sub-Saharan Africa,Africa,35029,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2016,2016,Import,Algeria,79,Zinc and articles thereof,Western Europe,Europe,11046857,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2016,2016,Import,Algeria,79,Zinc and articles thereof,World,World,21366285,28.0000272,2.9999825,,

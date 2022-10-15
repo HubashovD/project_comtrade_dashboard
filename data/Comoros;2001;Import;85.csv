@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Comoros,85,"Electrical, electronic equipment",Eastern Asia,Asia,215184
-2001,2001,Import,Comoros,85,"Electrical, electronic equipment",Northern Africa,Africa,9
-2001,2001,Import,Comoros,85,"Electrical, electronic equipment",Northern Europe,Europe,91240
-2001,2001,Import,Comoros,85,"Electrical, electronic equipment",Polynesia,Oceania,46
-2001,2001,Import,Comoros,85,"Electrical, electronic equipment",South-eastern Asia,Asia,3368
-2001,2001,Import,Comoros,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,178381
-2001,2001,Import,Comoros,85,"Electrical, electronic equipment",Western Europe,Europe,3127419
-2001,2001,Import,Comoros,85,"Electrical, electronic equipment",World,World,3813370
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Comoros,85,"Electrical, electronic equipment",Eastern Asia,Asia,215184,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2001,2001,Import,Comoros,85,"Electrical, electronic equipment",Northern Africa,Africa,9,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2001,2001,Import,Comoros,85,"Electrical, electronic equipment",Northern Europe,Europe,91240,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2001,2001,Import,Comoros,85,"Electrical, electronic equipment",Polynesia,Oceania,46,-12.2045176,44.2832964,-5.109184731250752,167.40343615892436
+2001,2001,Import,Comoros,85,"Electrical, electronic equipment",South-eastern Asia,Asia,3368,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2001,2001,Import,Comoros,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,178381,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2001,2001,Import,Comoros,85,"Electrical, electronic equipment",Western Europe,Europe,3127419,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2001,2001,Import,Comoros,85,"Electrical, electronic equipment",World,World,3813370,-12.2045176,44.2832964,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Export,Algeria,70,Glass and glassware,Eastern Europe,Europe,82
-2007,2007,Export,Algeria,70,Glass and glassware,Northern Africa,Africa,150196
-2007,2007,Export,Algeria,70,Glass and glassware,Northern Europe,Europe,383
-2007,2007,Export,Algeria,70,Glass and glassware,Southern Europe,Europe,89286
-2007,2007,Export,Algeria,70,Glass and glassware,Sub-Saharan Africa,Africa,125821
-2007,2007,Export,Algeria,70,Glass and glassware,Western Europe,Europe,43557
-2007,2007,Export,Algeria,70,Glass and glassware,World,World,754036
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Export,Algeria,70,Glass and glassware,Eastern Europe,Europe,82,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2007,2007,Export,Algeria,70,Glass and glassware,Northern Africa,Africa,150196,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2007,2007,Export,Algeria,70,Glass and glassware,Northern Europe,Europe,383,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2007,2007,Export,Algeria,70,Glass and glassware,Southern Europe,Europe,89286,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2007,2007,Export,Algeria,70,Glass and glassware,Sub-Saharan Africa,Africa,125821,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2007,2007,Export,Algeria,70,Glass and glassware,Western Europe,Europe,43557,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2007,2007,Export,Algeria,70,Glass and glassware,World,World,754036,28.0000272,2.9999825,,

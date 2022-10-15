@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Algeria,29,Organic chemicals,Australia and New Zealand,Oceania,21057
-2007,2007,Import,Algeria,29,Organic chemicals,Eastern Asia,Asia,23965207
-2007,2007,Import,Algeria,29,Organic chemicals,Eastern Europe,Europe,2877659
-2007,2007,Import,Algeria,29,Organic chemicals,Latin America and the Caribbean,Americas,912862
-2007,2007,Import,Algeria,29,Organic chemicals,Northern Africa,Africa,4854608
-2007,2007,Import,Algeria,29,Organic chemicals,Northern America,Americas,30344934
-2007,2007,Import,Algeria,29,Organic chemicals,Northern Europe,Europe,12585737
-2007,2007,Import,Algeria,29,Organic chemicals,South-eastern Asia,Asia,1124756
-2007,2007,Import,Algeria,29,Organic chemicals,Southern Asia,Asia,414998
-2007,2007,Import,Algeria,29,Organic chemicals,Southern Europe,Europe,24303494
-2007,2007,Import,Algeria,29,Organic chemicals,Sub-Saharan Africa,Africa,210376
-2007,2007,Import,Algeria,29,Organic chemicals,Western Asia,Asia,1337139
-2007,2007,Import,Algeria,29,Organic chemicals,Western Europe,Europe,90174986
-2007,2007,Import,Algeria,29,Organic chemicals,World,World,204826132
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Algeria,29,Organic chemicals,Australia and New Zealand,Oceania,21057,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2007,2007,Import,Algeria,29,Organic chemicals,Eastern Asia,Asia,23965207,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2007,2007,Import,Algeria,29,Organic chemicals,Eastern Europe,Europe,2877659,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2007,2007,Import,Algeria,29,Organic chemicals,Latin America and the Caribbean,Americas,912862,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2007,2007,Import,Algeria,29,Organic chemicals,Northern Africa,Africa,4854608,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2007,2007,Import,Algeria,29,Organic chemicals,Northern America,Americas,30344934,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2007,2007,Import,Algeria,29,Organic chemicals,Northern Europe,Europe,12585737,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2007,2007,Import,Algeria,29,Organic chemicals,South-eastern Asia,Asia,1124756,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2007,2007,Import,Algeria,29,Organic chemicals,Southern Asia,Asia,414998,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2007,2007,Import,Algeria,29,Organic chemicals,Southern Europe,Europe,24303494,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2007,2007,Import,Algeria,29,Organic chemicals,Sub-Saharan Africa,Africa,210376,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2007,2007,Import,Algeria,29,Organic chemicals,Western Asia,Asia,1337139,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2007,2007,Import,Algeria,29,Organic chemicals,Western Europe,Europe,90174986,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2007,2007,Import,Algeria,29,Organic chemicals,World,World,204826132,28.0000272,2.9999825,,

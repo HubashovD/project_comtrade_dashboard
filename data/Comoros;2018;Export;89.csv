@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Comoros,89,"Ships, boats and floating structures",Northern Europe,Europe,13383
-2018,2018,Export,Comoros,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,5641
-2018,2018,Export,Comoros,89,"Ships, boats and floating structures",World,World,19025
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Comoros,89,"Ships, boats and floating structures",Northern Europe,Europe,13383,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2018,2018,Export,Comoros,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,5641,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2018,2018,Export,Comoros,89,"Ships, boats and floating structures",World,World,19025,-12.2045176,44.2832964,,

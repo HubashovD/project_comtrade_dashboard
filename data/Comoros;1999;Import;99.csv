@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Comoros,99,Commodities not specified according to kind,Eastern Asia,Asia,1124
-1999,1999,Import,Comoros,99,Commodities not specified according to kind,Northern Europe,Europe,3361
-1999,1999,Import,Comoros,99,Commodities not specified according to kind,Southern Europe,Europe,594
-1999,1999,Import,Comoros,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,48082
-1999,1999,Import,Comoros,99,Commodities not specified according to kind,Western Europe,Europe,680616
-1999,1999,Import,Comoros,99,Commodities not specified according to kind,World,World,766907
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Comoros,99,Commodities not specified according to kind,Eastern Asia,Asia,1124,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+1999,1999,Import,Comoros,99,Commodities not specified according to kind,Northern Europe,Europe,3361,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+1999,1999,Import,Comoros,99,Commodities not specified according to kind,Southern Europe,Europe,594,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+1999,1999,Import,Comoros,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,48082,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+1999,1999,Import,Comoros,99,Commodities not specified according to kind,Western Europe,Europe,680616,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1999,1999,Import,Comoros,99,Commodities not specified according to kind,World,World,766907,-12.2045176,44.2832964,,

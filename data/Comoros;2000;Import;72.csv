@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Comoros,72,Iron and steel,Eastern Asia,Asia,129959
-2000,2000,Import,Comoros,72,Iron and steel,Eastern Europe,Europe,10029
-2000,2000,Import,Comoros,72,Iron and steel,Sub-Saharan Africa,Africa,220137
-2000,2000,Import,Comoros,72,Iron and steel,Western Europe,Europe,503977
-2000,2000,Import,Comoros,72,Iron and steel,World,World,893065
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Comoros,72,Iron and steel,Eastern Asia,Asia,129959,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2000,2000,Import,Comoros,72,Iron and steel,Eastern Europe,Europe,10029,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2000,2000,Import,Comoros,72,Iron and steel,Sub-Saharan Africa,Africa,220137,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2000,2000,Import,Comoros,72,Iron and steel,Western Europe,Europe,503977,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2000,2000,Import,Comoros,72,Iron and steel,World,World,893065,-12.2045176,44.2832964,,

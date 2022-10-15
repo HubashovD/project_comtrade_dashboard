@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Comoros,30,Pharmaceutical products,Sub-Saharan Africa,Africa,115796
-2002,2002,Import,Comoros,30,Pharmaceutical products,Western Europe,Europe,932404
-2002,2002,Import,Comoros,30,Pharmaceutical products,World,World,1065341
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Comoros,30,Pharmaceutical products,Sub-Saharan Africa,Africa,115796,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2002,2002,Import,Comoros,30,Pharmaceutical products,Western Europe,Europe,932404,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2002,2002,Import,Comoros,30,Pharmaceutical products,World,World,1065341,-12.2045176,44.2832964,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,1111
-2001,2001,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,5419
-2001,2001,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,304
-2001,2001,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,2533
-2001,2001,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,131263
-2001,2001,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,936092
-2001,2001,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",World,World,1121182
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,1111,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2001,2001,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,5419,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2001,2001,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,304,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2001,2001,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,2533,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2001,2001,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,131263,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2001,2001,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,936092,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2001,2001,Import,Comoros,84,"Nuclear reactors, boilers, machinery, etc",World,World,1121182,-12.2045176,44.2832964,,

@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Comoros,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Eastern Europe,Europe,262
-2002,2002,Import,Comoros,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",South-eastern Asia,Asia,172
-2002,2002,Import,Comoros,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Sub-Saharan Africa,Africa,10732
-2002,2002,Import,Comoros,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Europe,Europe,372
-2002,2002,Import,Comoros,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",World,World,12217
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Comoros,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Eastern Europe,Europe,262,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2002,2002,Import,Comoros,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",South-eastern Asia,Asia,172,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2002,2002,Import,Comoros,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Sub-Saharan Africa,Africa,10732,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2002,2002,Import,Comoros,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Europe,Europe,372,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2002,2002,Import,Comoros,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",World,World,12217,-12.2045176,44.2832964,,

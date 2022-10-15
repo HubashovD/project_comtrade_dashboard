@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Eastern Asia,Asia,2863669
-2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,1708
-2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Northern Africa,Africa,2543
-2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Northern America,Americas,77
-2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Northern Europe,Europe,8291
-2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Polynesia,Oceania,204
-2006,2006,Import,Comoros,85,"Electrical, electronic equipment",South-eastern Asia,Asia,11695
-2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Southern Europe,Europe,29219
-2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,786258
-2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Western Europe,Europe,7104267
-2006,2006,Import,Comoros,85,"Electrical, electronic equipment",World,World,11714207
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Eastern Asia,Asia,2863669,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,1708,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Northern Africa,Africa,2543,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Northern America,Americas,77,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Northern Europe,Europe,8291,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Polynesia,Oceania,204,-12.2045176,44.2832964,-5.109184731250752,167.40343615892436
+2006,2006,Import,Comoros,85,"Electrical, electronic equipment",South-eastern Asia,Asia,11695,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Southern Europe,Europe,29219,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,786258,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2006,2006,Import,Comoros,85,"Electrical, electronic equipment",Western Europe,Europe,7104267,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2006,2006,Import,Comoros,85,"Electrical, electronic equipment",World,World,11714207,-12.2045176,44.2832964,,

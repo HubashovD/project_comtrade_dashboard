@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,35295
-2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,497932
-2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,67882
-2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,34977
-2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,31795
-2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,101030
-2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,33725
-2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,912322
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,35295,-12.2045176,44.2832964,-16.85099460447687,133.4130365630627
+2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,497932,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,67882,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,34977,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,31795,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,101030,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,33725,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2018,2018,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,912322,-12.2045176,44.2832964,,

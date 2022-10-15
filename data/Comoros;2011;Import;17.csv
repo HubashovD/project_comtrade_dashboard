@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Comoros,17,Sugars and sugar confectionery,Eastern Asia,Asia,9821
-2011,2011,Import,Comoros,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,174
-2011,2011,Import,Comoros,17,Sugars and sugar confectionery,Northern Africa,Africa,10938
-2011,2011,Import,Comoros,17,Sugars and sugar confectionery,Northern Europe,Europe,45
-2011,2011,Import,Comoros,17,Sugars and sugar confectionery,South-eastern Asia,Asia,208739
-2011,2011,Import,Comoros,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,5163080
-2011,2011,Import,Comoros,17,Sugars and sugar confectionery,Western Europe,Europe,180042
-2011,2011,Import,Comoros,17,Sugars and sugar confectionery,World,World,7521051
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Comoros,17,Sugars and sugar confectionery,Eastern Asia,Asia,9821,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2011,2011,Import,Comoros,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,174,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2011,2011,Import,Comoros,17,Sugars and sugar confectionery,Northern Africa,Africa,10938,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2011,2011,Import,Comoros,17,Sugars and sugar confectionery,Northern Europe,Europe,45,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2011,2011,Import,Comoros,17,Sugars and sugar confectionery,South-eastern Asia,Asia,208739,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2011,2011,Import,Comoros,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,5163080,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2011,2011,Import,Comoros,17,Sugars and sugar confectionery,Western Europe,Europe,180042,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2011,2011,Import,Comoros,17,Sugars and sugar confectionery,World,World,7521051,-12.2045176,44.2832964,,

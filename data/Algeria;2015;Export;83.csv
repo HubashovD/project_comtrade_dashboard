@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,327
-2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,1209
-2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,Northern Africa,Africa,10
-2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,Northern America,Americas,17560
-2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,300
-2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,407
-2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,Sub-Saharan Africa,Africa,305
-2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,Western Europe,Europe,665
-2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,World,World,20909
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,327,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,1209,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,Northern Africa,Africa,10,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,Northern America,Americas,17560,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,300,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,407,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,Sub-Saharan Africa,Africa,305,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,Western Europe,Europe,665,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2015,2015,Export,Algeria,83,Metal; miscellaneous products of base metal,World,World,20909,28.0000272,2.9999825,,

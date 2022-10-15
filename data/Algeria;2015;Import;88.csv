@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Australia and New Zealand,Oceania,695
-2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Eastern Asia,Asia,33391
-2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,37732062
-2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Latin America and the Caribbean,Americas,1464
-2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,67711144
-2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Northern Europe,Europe,19998464
-2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",South-eastern Asia,Asia,1661
-2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Southern Europe,Europe,33876152
-2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Sub-Saharan Africa,Africa,569936
-2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,100784466
-2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",World,World,261182567
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Australia and New Zealand,Oceania,695,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Eastern Asia,Asia,33391,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,37732062,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Latin America and the Caribbean,Americas,1464,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,67711144,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Northern Europe,Europe,19998464,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",South-eastern Asia,Asia,1661,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Southern Europe,Europe,33876152,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Sub-Saharan Africa,Africa,569936,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,100784466,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2015,2015,Import,Algeria,88,"Aircraft, spacecraft and parts thereof",World,World,261182567,28.0000272,2.9999825,,

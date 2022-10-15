@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Comoros,28,"Inorganic chemicals, precious metal compound, isotope",Southern Europe,Europe,736
-1999,1999,Import,Comoros,28,"Inorganic chemicals, precious metal compound, isotope",Western Europe,Europe,24925
-1999,1999,Import,Comoros,28,"Inorganic chemicals, precious metal compound, isotope",World,World,129653
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Comoros,28,"Inorganic chemicals, precious metal compound, isotope",Southern Europe,Europe,736,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+1999,1999,Import,Comoros,28,"Inorganic chemicals, precious metal compound, isotope",Western Europe,Europe,24925,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1999,1999,Import,Comoros,28,"Inorganic chemicals, precious metal compound, isotope",World,World,129653,-12.2045176,44.2832964,,

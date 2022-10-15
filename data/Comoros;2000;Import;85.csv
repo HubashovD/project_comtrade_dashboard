@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Comoros,85,"Electrical, electronic equipment",Eastern Asia,Asia,164516
-2000,2000,Import,Comoros,85,"Electrical, electronic equipment",South-eastern Asia,Asia,2374
-2000,2000,Import,Comoros,85,"Electrical, electronic equipment",Southern Europe,Europe,8333
-2000,2000,Import,Comoros,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,265806
-2000,2000,Import,Comoros,85,"Electrical, electronic equipment",Western Europe,Europe,1311716
-2000,2000,Import,Comoros,85,"Electrical, electronic equipment",World,World,1830130
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Comoros,85,"Electrical, electronic equipment",Eastern Asia,Asia,164516,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2000,2000,Import,Comoros,85,"Electrical, electronic equipment",South-eastern Asia,Asia,2374,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2000,2000,Import,Comoros,85,"Electrical, electronic equipment",Southern Europe,Europe,8333,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2000,2000,Import,Comoros,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,265806,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2000,2000,Import,Comoros,85,"Electrical, electronic equipment",Western Europe,Europe,1311716,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2000,2000,Import,Comoros,85,"Electrical, electronic equipment",World,World,1830130,-12.2045176,44.2832964,,

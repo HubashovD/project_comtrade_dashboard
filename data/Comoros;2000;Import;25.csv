@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Comoros,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,106246
-2000,2000,Import,Comoros,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,83938
-2000,2000,Import,Comoros,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,1398923
-2000,2000,Import,Comoros,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Sub-Saharan Africa,Africa,915111
-2000,2000,Import,Comoros,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,185481
-2000,2000,Import,Comoros,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,2856937
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Comoros,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,106246,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2000,2000,Import,Comoros,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,83938,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2000,2000,Import,Comoros,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,1398923,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2000,2000,Import,Comoros,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Sub-Saharan Africa,Africa,915111,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2000,2000,Import,Comoros,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,185481,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2000,2000,Import,Comoros,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,2856937,-12.2045176,44.2832964,,
