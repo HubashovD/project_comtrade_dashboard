@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Algeria,78,Lead and articles thereof,Eastern Asia,Asia,415
-2000,2000,Import,Algeria,78,Lead and articles thereof,Eastern Europe,Europe,1388060
-2000,2000,Import,Algeria,78,Lead and articles thereof,Northern America,Americas,293
-2000,2000,Import,Algeria,78,Lead and articles thereof,Southern Europe,Europe,45114
-2000,2000,Import,Algeria,78,Lead and articles thereof,Western Asia,Asia,60
-2000,2000,Import,Algeria,78,Lead and articles thereof,Western Europe,Europe,1195250
-2000,2000,Import,Algeria,78,Lead and articles thereof,World,World,2629192
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Algeria,78,Lead and articles thereof,Eastern Asia,Asia,415,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2000,2000,Import,Algeria,78,Lead and articles thereof,Eastern Europe,Europe,1388060,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2000,2000,Import,Algeria,78,Lead and articles thereof,Northern America,Americas,293,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2000,2000,Import,Algeria,78,Lead and articles thereof,Southern Europe,Europe,45114,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2000,2000,Import,Algeria,78,Lead and articles thereof,Western Asia,Asia,60,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2000,2000,Import,Algeria,78,Lead and articles thereof,Western Europe,Europe,1195250,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2000,2000,Import,Algeria,78,Lead and articles thereof,World,World,2629192,28.0000272,2.9999825,,

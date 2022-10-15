@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Algeria,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,711
-2001,2001,Export,Algeria,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,16792
-2001,2001,Export,Algeria,19,"Cereal, flour, starch, milk preparations and products",World,World,65354
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Algeria,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,711,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2001,2001,Export,Algeria,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,16792,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2001,2001,Export,Algeria,19,"Cereal, flour, starch, milk preparations and products",World,World,65354,28.0000272,2.9999825,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Algeria,79,Zinc and articles thereof,Eastern Asia,Asia,1446
-1995,1995,Import,Algeria,79,Zinc and articles thereof,Eastern Europe,Europe,36691
-1995,1995,Import,Algeria,79,Zinc and articles thereof,Northern Europe,Europe,74545
-1995,1995,Import,Algeria,79,Zinc and articles thereof,Southern Europe,Europe,298337
-1995,1995,Import,Algeria,79,Zinc and articles thereof,Western Europe,Europe,1217663
-1995,1995,Import,Algeria,79,Zinc and articles thereof,World,World,2711051
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Algeria,79,Zinc and articles thereof,Eastern Asia,Asia,1446,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1995,1995,Import,Algeria,79,Zinc and articles thereof,Eastern Europe,Europe,36691,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1995,1995,Import,Algeria,79,Zinc and articles thereof,Northern Europe,Europe,74545,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1995,1995,Import,Algeria,79,Zinc and articles thereof,Southern Europe,Europe,298337,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1995,1995,Import,Algeria,79,Zinc and articles thereof,Western Europe,Europe,1217663,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1995,1995,Import,Algeria,79,Zinc and articles thereof,World,World,2711051,28.0000272,2.9999825,,

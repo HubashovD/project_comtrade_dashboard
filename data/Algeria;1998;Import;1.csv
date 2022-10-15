@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Algeria,1,Live animals,Eastern Europe,Europe,2733023
-1998,1998,Import,Algeria,1,Live animals,Northern Europe,Europe,26421
-1998,1998,Import,Algeria,1,Live animals,Southern Europe,Europe,2622900
-1998,1998,Import,Algeria,1,Live animals,Western Asia,Asia,5570
-1998,1998,Import,Algeria,1,Live animals,Western Europe,Europe,24337801
-1998,1998,Import,Algeria,1,Live animals,World,World,31260184
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Algeria,1,Live animals,Eastern Europe,Europe,2733023,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1998,1998,Import,Algeria,1,Live animals,Northern Europe,Europe,26421,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1998,1998,Import,Algeria,1,Live animals,Southern Europe,Europe,2622900,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1998,1998,Import,Algeria,1,Live animals,Western Asia,Asia,5570,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1998,1998,Import,Algeria,1,Live animals,Western Europe,Europe,24337801,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1998,1998,Import,Algeria,1,Live animals,World,World,31260184,28.0000272,2.9999825,,

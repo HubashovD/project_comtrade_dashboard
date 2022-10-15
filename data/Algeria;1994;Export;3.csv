@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Export,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern Africa,Africa,193687
-1994,1994,Export,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern Europe,Europe,12042
-1994,1994,Export,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Southern Europe,Europe,2069925
-1994,1994,Export,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Europe,Europe,74453
-1994,1994,Export,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",World,World,2365402
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Export,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern Africa,Africa,193687,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1994,1994,Export,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern Europe,Europe,12042,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1994,1994,Export,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Southern Europe,Europe,2069925,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1994,1994,Export,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Europe,Europe,74453,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1994,1994,Export,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",World,World,2365402,28.0000272,2.9999825,,

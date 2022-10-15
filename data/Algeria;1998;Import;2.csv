@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Algeria,2,Meat and edible meat offal,Australia and New Zealand,Oceania,2179011
-1998,1998,Import,Algeria,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,6636184
-1998,1998,Import,Algeria,2,Meat and edible meat offal,Melanesia,Oceania,33921
-1998,1998,Import,Algeria,2,Meat and edible meat offal,Northern America,Americas,159471
-1998,1998,Import,Algeria,2,Meat and edible meat offal,Northern Europe,Europe,34754382
-1998,1998,Import,Algeria,2,Meat and edible meat offal,Southern Europe,Europe,199386
-1998,1998,Import,Algeria,2,Meat and edible meat offal,Western Europe,Europe,4532621
-1998,1998,Import,Algeria,2,Meat and edible meat offal,World,World,56028616
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Algeria,2,Meat and edible meat offal,Australia and New Zealand,Oceania,2179011,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+1998,1998,Import,Algeria,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,6636184,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1998,1998,Import,Algeria,2,Meat and edible meat offal,Melanesia,Oceania,33921,28.0000272,2.9999825,1.0108650891006263,147.3257485906919
+1998,1998,Import,Algeria,2,Meat and edible meat offal,Northern America,Americas,159471,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1998,1998,Import,Algeria,2,Meat and edible meat offal,Northern Europe,Europe,34754382,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1998,1998,Import,Algeria,2,Meat and edible meat offal,Southern Europe,Europe,199386,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1998,1998,Import,Algeria,2,Meat and edible meat offal,Western Europe,Europe,4532621,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1998,1998,Import,Algeria,2,Meat and edible meat offal,World,World,56028616,28.0000272,2.9999825,,

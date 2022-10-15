@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Export,Algeria,9,"Coffee, tea, maté and spices",Northern America,Americas,903
-2009,2009,Export,Algeria,9,"Coffee, tea, maté and spices",Sub-Saharan Africa,Africa,426
-2009,2009,Export,Algeria,9,"Coffee, tea, maté and spices",World,World,1329
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Export,Algeria,9,"Coffee, tea, maté and spices",Northern America,Americas,903,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2009,2009,Export,Algeria,9,"Coffee, tea, maté and spices",Sub-Saharan Africa,Africa,426,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2009,2009,Export,Algeria,9,"Coffee, tea, maté and spices",World,World,1329,28.0000272,2.9999825,,

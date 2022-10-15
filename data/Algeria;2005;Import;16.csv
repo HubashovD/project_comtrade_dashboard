@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Central Asia,Asia,35074
-2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Eastern Asia,Asia,21204
-2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Latin America and the Caribbean,Americas,190203
-2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Northern Africa,Africa,107152
-2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Northern America,Americas,1288
-2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Northern Europe,Europe,278708
-2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",South-eastern Asia,Asia,381474
-2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Southern Europe,Europe,1151966
-2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Sub-Saharan Africa,Africa,5845
-2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Western Asia,Asia,80108
-2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Western Europe,Europe,257875
-2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",World,World,2602600
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Central Asia,Asia,35074,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Eastern Asia,Asia,21204,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Latin America and the Caribbean,Americas,190203,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Northern Africa,Africa,107152,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Northern America,Americas,1288,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Northern Europe,Europe,278708,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",South-eastern Asia,Asia,381474,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Southern Europe,Europe,1151966,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Sub-Saharan Africa,Africa,5845,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Western Asia,Asia,80108,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",Western Europe,Europe,257875,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2005,2005,Import,Algeria,16,"Preparations of meat, of fish or of crustaceans",World,World,2602600,28.0000272,2.9999825,,

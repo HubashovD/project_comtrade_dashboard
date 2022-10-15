@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Algeria,69,Ceramic products,Central Asia,Asia,53405
-1998,1998,Import,Algeria,69,Ceramic products,Eastern Asia,Asia,3833768
-1998,1998,Import,Algeria,69,Ceramic products,Eastern Europe,Europe,1976770
-1998,1998,Import,Algeria,69,Ceramic products,Latin America and the Caribbean,Americas,372119
-1998,1998,Import,Algeria,69,Ceramic products,Northern America,Americas,1543032
-1998,1998,Import,Algeria,69,Ceramic products,Northern Europe,Europe,1395984
-1998,1998,Import,Algeria,69,Ceramic products,Southern Europe,Europe,26488433
-1998,1998,Import,Algeria,69,Ceramic products,Western Asia,Asia,337119
-1998,1998,Import,Algeria,69,Ceramic products,Western Europe,Europe,7101630
-1998,1998,Import,Algeria,69,Ceramic products,World,World,43554952
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Algeria,69,Ceramic products,Central Asia,Asia,53405,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+1998,1998,Import,Algeria,69,Ceramic products,Eastern Asia,Asia,3833768,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1998,1998,Import,Algeria,69,Ceramic products,Eastern Europe,Europe,1976770,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1998,1998,Import,Algeria,69,Ceramic products,Latin America and the Caribbean,Americas,372119,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1998,1998,Import,Algeria,69,Ceramic products,Northern America,Americas,1543032,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1998,1998,Import,Algeria,69,Ceramic products,Northern Europe,Europe,1395984,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1998,1998,Import,Algeria,69,Ceramic products,Southern Europe,Europe,26488433,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1998,1998,Import,Algeria,69,Ceramic products,Western Asia,Asia,337119,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1998,1998,Import,Algeria,69,Ceramic products,Western Europe,Europe,7101630,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1998,1998,Import,Algeria,69,Ceramic products,World,World,43554952,28.0000272,2.9999825,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Import,Algeria,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,6187
-1992,1992,Import,Algeria,76,Aluminium and articles thereof,Eastern Asia,Asia,245113
-1992,1992,Import,Algeria,76,Aluminium and articles thereof,Eastern Europe,Europe,140839
-1992,1992,Import,Algeria,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,81180
-1992,1992,Import,Algeria,76,Aluminium and articles thereof,Northern Africa,Africa,9106602
-1992,1992,Import,Algeria,76,Aluminium and articles thereof,Northern America,Americas,301907
-1992,1992,Import,Algeria,76,Aluminium and articles thereof,Northern Europe,Europe,367233
-1992,1992,Import,Algeria,76,Aluminium and articles thereof,South-eastern Asia,Asia,23657
-1992,1992,Import,Algeria,76,Aluminium and articles thereof,Southern Europe,Europe,31379685
-1992,1992,Import,Algeria,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,24408
-1992,1992,Import,Algeria,76,Aluminium and articles thereof,Western Asia,Asia,1452
-1992,1992,Import,Algeria,76,Aluminium and articles thereof,Western Europe,Europe,19666071
-1992,1992,Import,Algeria,76,Aluminium and articles thereof,World,World,68248328
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Import,Algeria,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,6187,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+1992,1992,Import,Algeria,76,Aluminium and articles thereof,Eastern Asia,Asia,245113,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1992,1992,Import,Algeria,76,Aluminium and articles thereof,Eastern Europe,Europe,140839,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1992,1992,Import,Algeria,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,81180,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1992,1992,Import,Algeria,76,Aluminium and articles thereof,Northern Africa,Africa,9106602,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1992,1992,Import,Algeria,76,Aluminium and articles thereof,Northern America,Americas,301907,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1992,1992,Import,Algeria,76,Aluminium and articles thereof,Northern Europe,Europe,367233,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1992,1992,Import,Algeria,76,Aluminium and articles thereof,South-eastern Asia,Asia,23657,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1992,1992,Import,Algeria,76,Aluminium and articles thereof,Southern Europe,Europe,31379685,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1992,1992,Import,Algeria,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,24408,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1992,1992,Import,Algeria,76,Aluminium and articles thereof,Western Asia,Asia,1452,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1992,1992,Import,Algeria,76,Aluminium and articles thereof,Western Europe,Europe,19666071,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1992,1992,Import,Algeria,76,Aluminium and articles thereof,World,World,68248328,28.0000272,2.9999825,,

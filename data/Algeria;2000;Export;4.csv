@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Northern Africa,Africa,15
-2000,2000,Export,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,1499
-2000,2000,Export,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",World,World,1514
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Northern Africa,Africa,15,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2000,2000,Export,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,1499,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2000,2000,Export,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",World,World,1514,28.0000272,2.9999825,,

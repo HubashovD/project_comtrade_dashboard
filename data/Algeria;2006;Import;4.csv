@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Australia and New Zealand,Oceania,158046858
-2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Eastern Asia,Asia,80180
-2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Eastern Europe,Europe,69373993
-2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Latin America and the Caribbean,Americas,143137251
-2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Northern Africa,Africa,101377
-2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Northern America,Americas,25749786
-2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Northern Europe,Europe,57044139
-2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,South-eastern Asia,Asia,974085
-2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Southern Asia,Asia,10548
-2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Southern Europe,Europe,5283688
-2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Sub-Saharan Africa,Africa,49343
-2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Western Asia,Asia,23270
-2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Western Europe,Europe,228178902
-2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,World,World,709129576
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Australia and New Zealand,Oceania,158046858,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Eastern Asia,Asia,80180,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Eastern Europe,Europe,69373993,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Latin America and the Caribbean,Americas,143137251,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Northern Africa,Africa,101377,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Northern America,Americas,25749786,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Northern Europe,Europe,57044139,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,South-eastern Asia,Asia,974085,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Southern Asia,Asia,10548,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Southern Europe,Europe,5283688,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Sub-Saharan Africa,Africa,49343,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Western Asia,Asia,23270,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,Western Europe,Europe,228178902,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2006,2006,Import,Algeria,4,Dairy produce; birds eggs; natural honey;,World,World,709129576,28.0000272,2.9999825,,

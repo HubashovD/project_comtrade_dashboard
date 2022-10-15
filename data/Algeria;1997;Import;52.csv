@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Algeria,52,Cotton,Central Asia,Asia,11326
-1997,1997,Import,Algeria,52,Cotton,Eastern Asia,Asia,601879
-1997,1997,Import,Algeria,52,Cotton,Eastern Europe,Europe,10463
-1997,1997,Import,Algeria,52,Cotton,Latin America and the Caribbean,Americas,24106
-1997,1997,Import,Algeria,52,Cotton,Northern America,Americas,1204708
-1997,1997,Import,Algeria,52,Cotton,Northern Europe,Europe,2622
-1997,1997,Import,Algeria,52,Cotton,South-eastern Asia,Asia,258755
-1997,1997,Import,Algeria,52,Cotton,Southern Europe,Europe,35130727
-1997,1997,Import,Algeria,52,Cotton,Sub-Saharan Africa,Africa,4709
-1997,1997,Import,Algeria,52,Cotton,Western Asia,Asia,11814804
-1997,1997,Import,Algeria,52,Cotton,Western Europe,Europe,638288
-1997,1997,Import,Algeria,52,Cotton,World,World,52026720
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Algeria,52,Cotton,Central Asia,Asia,11326,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+1997,1997,Import,Algeria,52,Cotton,Eastern Asia,Asia,601879,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1997,1997,Import,Algeria,52,Cotton,Eastern Europe,Europe,10463,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1997,1997,Import,Algeria,52,Cotton,Latin America and the Caribbean,Americas,24106,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1997,1997,Import,Algeria,52,Cotton,Northern America,Americas,1204708,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1997,1997,Import,Algeria,52,Cotton,Northern Europe,Europe,2622,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1997,1997,Import,Algeria,52,Cotton,South-eastern Asia,Asia,258755,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1997,1997,Import,Algeria,52,Cotton,Southern Europe,Europe,35130727,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1997,1997,Import,Algeria,52,Cotton,Sub-Saharan Africa,Africa,4709,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1997,1997,Import,Algeria,52,Cotton,Western Asia,Asia,11814804,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1997,1997,Import,Algeria,52,Cotton,Western Europe,Europe,638288,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1997,1997,Import,Algeria,52,Cotton,World,World,52026720,28.0000272,2.9999825,,

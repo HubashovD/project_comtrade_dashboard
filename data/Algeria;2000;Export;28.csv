@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Algeria,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Asia,Asia,19311
-2000,2000,Export,Algeria,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Africa,Africa,698606
-2000,2000,Export,Algeria,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,396
-2000,2000,Export,Algeria,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Europe,Europe,46265874
-2000,2000,Export,Algeria,28,"Inorganic chemicals, precious metal compound, isotopes",Western Europe,Europe,25176584
-2000,2000,Export,Algeria,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,77989446
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Algeria,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Asia,Asia,19311,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2000,2000,Export,Algeria,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Africa,Africa,698606,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2000,2000,Export,Algeria,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,396,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2000,2000,Export,Algeria,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Europe,Europe,46265874,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2000,2000,Export,Algeria,28,"Inorganic chemicals, precious metal compound, isotopes",Western Europe,Europe,25176584,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2000,2000,Export,Algeria,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,77989446,28.0000272,2.9999825,,

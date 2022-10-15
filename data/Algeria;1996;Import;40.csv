@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Algeria,40,Rubber and articles thereof,Central Asia,Asia,314578
-1996,1996,Import,Algeria,40,Rubber and articles thereof,Eastern Asia,Asia,28741851
-1996,1996,Import,Algeria,40,Rubber and articles thereof,Eastern Europe,Europe,4471846
-1996,1996,Import,Algeria,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,245623
-1996,1996,Import,Algeria,40,Rubber and articles thereof,Northern Africa,Africa,6711906
-1996,1996,Import,Algeria,40,Rubber and articles thereof,Northern America,Americas,5868037
-1996,1996,Import,Algeria,40,Rubber and articles thereof,Northern Europe,Europe,2383116
-1996,1996,Import,Algeria,40,Rubber and articles thereof,South-eastern Asia,Asia,1217724
-1996,1996,Import,Algeria,40,Rubber and articles thereof,Southern Asia,Asia,25940
-1996,1996,Import,Algeria,40,Rubber and articles thereof,Southern Europe,Europe,11633561
-1996,1996,Import,Algeria,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,11998
-1996,1996,Import,Algeria,40,Rubber and articles thereof,Western Asia,Asia,5903486
-1996,1996,Import,Algeria,40,Rubber and articles thereof,Western Europe,Europe,57794421
-1996,1996,Import,Algeria,40,Rubber and articles thereof,World,World,130180712
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Algeria,40,Rubber and articles thereof,Central Asia,Asia,314578,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+1996,1996,Import,Algeria,40,Rubber and articles thereof,Eastern Asia,Asia,28741851,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1996,1996,Import,Algeria,40,Rubber and articles thereof,Eastern Europe,Europe,4471846,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1996,1996,Import,Algeria,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,245623,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1996,1996,Import,Algeria,40,Rubber and articles thereof,Northern Africa,Africa,6711906,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1996,1996,Import,Algeria,40,Rubber and articles thereof,Northern America,Americas,5868037,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1996,1996,Import,Algeria,40,Rubber and articles thereof,Northern Europe,Europe,2383116,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1996,1996,Import,Algeria,40,Rubber and articles thereof,South-eastern Asia,Asia,1217724,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1996,1996,Import,Algeria,40,Rubber and articles thereof,Southern Asia,Asia,25940,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+1996,1996,Import,Algeria,40,Rubber and articles thereof,Southern Europe,Europe,11633561,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1996,1996,Import,Algeria,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,11998,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1996,1996,Import,Algeria,40,Rubber and articles thereof,Western Asia,Asia,5903486,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1996,1996,Import,Algeria,40,Rubber and articles thereof,Western Europe,Europe,57794421,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1996,1996,Import,Algeria,40,Rubber and articles thereof,World,World,130180712,28.0000272,2.9999825,,

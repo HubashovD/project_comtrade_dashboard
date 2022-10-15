@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Import,Algeria,78,Lead and articles thereof,Northern America,Americas,313987
-1992,1992,Import,Algeria,78,Lead and articles thereof,Northern Europe,Europe,653
-1992,1992,Import,Algeria,78,Lead and articles thereof,Southern Europe,Europe,58986
-1992,1992,Import,Algeria,78,Lead and articles thereof,Western Europe,Europe,2468965
-1992,1992,Import,Algeria,78,Lead and articles thereof,World,World,8424263
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Import,Algeria,78,Lead and articles thereof,Northern America,Americas,313987,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1992,1992,Import,Algeria,78,Lead and articles thereof,Northern Europe,Europe,653,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1992,1992,Import,Algeria,78,Lead and articles thereof,Southern Europe,Europe,58986,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1992,1992,Import,Algeria,78,Lead and articles thereof,Western Europe,Europe,2468965,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1992,1992,Import,Algeria,78,Lead and articles thereof,World,World,8424263,28.0000272,2.9999825,,

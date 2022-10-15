@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Import,Algeria,10,Cereals,Australia and New Zealand,Oceania,2010
-1992,1992,Import,Algeria,10,Cereals,Eastern Asia,Asia,22339
-1992,1992,Import,Algeria,10,Cereals,Latin America and the Caribbean,Americas,6410303
-1992,1992,Import,Algeria,10,Cereals,Northern America,Americas,351050828
-1992,1992,Import,Algeria,10,Cereals,South-eastern Asia,Asia,977702
-1992,1992,Import,Algeria,10,Cereals,Southern Europe,Europe,15713936
-1992,1992,Import,Algeria,10,Cereals,Sub-Saharan Africa,Africa,895
-1992,1992,Import,Algeria,10,Cereals,Western Europe,Europe,120026824
-1992,1992,Import,Algeria,10,Cereals,World,World,494212768
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Import,Algeria,10,Cereals,Australia and New Zealand,Oceania,2010,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+1992,1992,Import,Algeria,10,Cereals,Eastern Asia,Asia,22339,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1992,1992,Import,Algeria,10,Cereals,Latin America and the Caribbean,Americas,6410303,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1992,1992,Import,Algeria,10,Cereals,Northern America,Americas,351050828,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1992,1992,Import,Algeria,10,Cereals,South-eastern Asia,Asia,977702,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1992,1992,Import,Algeria,10,Cereals,Southern Europe,Europe,15713936,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1992,1992,Import,Algeria,10,Cereals,Sub-Saharan Africa,Africa,895,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1992,1992,Import,Algeria,10,Cereals,Western Europe,Europe,120026824,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1992,1992,Import,Algeria,10,Cereals,World,World,494212768,28.0000272,2.9999825,,

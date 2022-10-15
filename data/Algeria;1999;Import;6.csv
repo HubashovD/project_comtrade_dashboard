@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Algeria,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Asia,Asia,9698
-1999,1999,Import,Algeria,6,"Live trees, plants, bulbs, roots, cut flowers etc",Northern America,Americas,39156
-1999,1999,Import,Algeria,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Europe,Europe,360348
-1999,1999,Import,Algeria,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Asia,Asia,1645
-1999,1999,Import,Algeria,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Europe,Europe,602886
-1999,1999,Import,Algeria,6,"Live trees, plants, bulbs, roots, cut flowers etc",World,World,1015615
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Algeria,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Asia,Asia,9698,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1999,1999,Import,Algeria,6,"Live trees, plants, bulbs, roots, cut flowers etc",Northern America,Americas,39156,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1999,1999,Import,Algeria,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Europe,Europe,360348,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1999,1999,Import,Algeria,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Asia,Asia,1645,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1999,1999,Import,Algeria,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Europe,Europe,602886,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1999,1999,Import,Algeria,6,"Live trees, plants, bulbs, roots, cut flowers etc",World,World,1015615,28.0000272,2.9999825,,

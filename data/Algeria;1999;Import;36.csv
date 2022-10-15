@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,185539
-1999,1999,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,408814
-1999,1999,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,294014
-1999,1999,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,529
-1999,1999,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Asia,Asia,154070
-1999,1999,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,147080
-1999,1999,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,1288969
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,185539,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1999,1999,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,408814,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1999,1999,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,294014,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1999,1999,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,529,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1999,1999,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Asia,Asia,154070,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1999,1999,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,147080,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1999,1999,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,1288969,28.0000272,2.9999825,,

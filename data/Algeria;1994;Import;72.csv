@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Algeria,72,Iron and steel,Eastern Asia,Asia,1517371
-1994,1994,Import,Algeria,72,Iron and steel,Eastern Europe,Europe,78172229
-1994,1994,Import,Algeria,72,Iron and steel,Latin America and the Caribbean,Americas,3473205
-1994,1994,Import,Algeria,72,Iron and steel,Northern Africa,Africa,24541887
-1994,1994,Import,Algeria,72,Iron and steel,Northern America,Americas,538846
-1994,1994,Import,Algeria,72,Iron and steel,Northern Europe,Europe,5994069
-1994,1994,Import,Algeria,72,Iron and steel,Southern Europe,Europe,271665918
-1994,1994,Import,Algeria,72,Iron and steel,Western Asia,Asia,105936200
-1994,1994,Import,Algeria,72,Iron and steel,Western Europe,Europe,64768417
-1994,1994,Import,Algeria,72,Iron and steel,World,World,574301696
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Algeria,72,Iron and steel,Eastern Asia,Asia,1517371,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1994,1994,Import,Algeria,72,Iron and steel,Eastern Europe,Europe,78172229,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1994,1994,Import,Algeria,72,Iron and steel,Latin America and the Caribbean,Americas,3473205,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1994,1994,Import,Algeria,72,Iron and steel,Northern Africa,Africa,24541887,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1994,1994,Import,Algeria,72,Iron and steel,Northern America,Americas,538846,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1994,1994,Import,Algeria,72,Iron and steel,Northern Europe,Europe,5994069,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1994,1994,Import,Algeria,72,Iron and steel,Southern Europe,Europe,271665918,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1994,1994,Import,Algeria,72,Iron and steel,Western Asia,Asia,105936200,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1994,1994,Import,Algeria,72,Iron and steel,Western Europe,Europe,64768417,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1994,1994,Import,Algeria,72,Iron and steel,World,World,574301696,28.0000272,2.9999825,,

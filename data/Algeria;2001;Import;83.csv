@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Australia and New Zealand,Oceania,8260
-2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Central Asia,Asia,5466
-2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Eastern Asia,Asia,3021109
-2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Eastern Europe,Europe,552818
-2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Latin America and the Caribbean,Americas,365
-2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Northern Africa,Africa,474541
-2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Northern America,Americas,2435583
-2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Northern Europe,Europe,1157392
-2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,South-eastern Asia,Asia,16822
-2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Southern Europe,Europe,80863948
-2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Sub-Saharan Africa,Africa,34730
-2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Western Asia,Asia,486592
-2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Western Europe,Europe,10701905
-2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,World,World,100214308
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Australia and New Zealand,Oceania,8260,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Central Asia,Asia,5466,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Eastern Asia,Asia,3021109,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Eastern Europe,Europe,552818,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Latin America and the Caribbean,Americas,365,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Northern Africa,Africa,474541,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Northern America,Americas,2435583,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Northern Europe,Europe,1157392,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,South-eastern Asia,Asia,16822,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Southern Europe,Europe,80863948,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Sub-Saharan Africa,Africa,34730,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Western Asia,Asia,486592,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,Western Europe,Europe,10701905,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2001,2001,Import,Algeria,83,Miscellaneous articles of base metal,World,World,100214308,28.0000272,2.9999825,,

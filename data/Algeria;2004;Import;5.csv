@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Import,Algeria,5,"Products of animal origin, not elsewhere specified",Australia and New Zealand,Oceania,18744
-2004,2004,Import,Algeria,5,"Products of animal origin, not elsewhere specified",Eastern Asia,Asia,385619
-2004,2004,Import,Algeria,5,"Products of animal origin, not elsewhere specified",Northern Europe,Europe,14944
-2004,2004,Import,Algeria,5,"Products of animal origin, not elsewhere specified",Southern Europe,Europe,22829
-2004,2004,Import,Algeria,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,292
-2004,2004,Import,Algeria,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,106599
-2004,2004,Import,Algeria,5,"Products of animal origin, not elsewhere specified",World,World,579001
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Import,Algeria,5,"Products of animal origin, not elsewhere specified",Australia and New Zealand,Oceania,18744,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2004,2004,Import,Algeria,5,"Products of animal origin, not elsewhere specified",Eastern Asia,Asia,385619,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2004,2004,Import,Algeria,5,"Products of animal origin, not elsewhere specified",Northern Europe,Europe,14944,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2004,2004,Import,Algeria,5,"Products of animal origin, not elsewhere specified",Southern Europe,Europe,22829,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2004,2004,Import,Algeria,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,292,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2004,2004,Import,Algeria,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,106599,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2004,2004,Import,Algeria,5,"Products of animal origin, not elsewhere specified",World,World,579001,28.0000272,2.9999825,,

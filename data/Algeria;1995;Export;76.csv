@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Algeria,76,Aluminium and articles thereof,Northern Africa,Africa,542773
-1995,1995,Export,Algeria,76,Aluminium and articles thereof,Northern America,Americas,20643
-1995,1995,Export,Algeria,76,Aluminium and articles thereof,Southern Europe,Europe,1013602
-1995,1995,Export,Algeria,76,Aluminium and articles thereof,Western Europe,Europe,2161775
-1995,1995,Export,Algeria,76,Aluminium and articles thereof,World,World,3739631
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Algeria,76,Aluminium and articles thereof,Northern Africa,Africa,542773,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1995,1995,Export,Algeria,76,Aluminium and articles thereof,Northern America,Americas,20643,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1995,1995,Export,Algeria,76,Aluminium and articles thereof,Southern Europe,Europe,1013602,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1995,1995,Export,Algeria,76,Aluminium and articles thereof,Western Europe,Europe,2161775,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1995,1995,Export,Algeria,76,Aluminium and articles thereof,World,World,3739631,28.0000272,2.9999825,,

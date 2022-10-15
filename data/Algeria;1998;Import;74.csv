@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Algeria,74,Copper and articles thereof,Central Asia,Asia,1261
-1998,1998,Import,Algeria,74,Copper and articles thereof,Eastern Asia,Asia,445293
-1998,1998,Import,Algeria,74,Copper and articles thereof,Eastern Europe,Europe,30756
-1998,1998,Import,Algeria,74,Copper and articles thereof,Northern Africa,Africa,1780
-1998,1998,Import,Algeria,74,Copper and articles thereof,Northern America,Americas,1377856
-1998,1998,Import,Algeria,74,Copper and articles thereof,Northern Europe,Europe,71119
-1998,1998,Import,Algeria,74,Copper and articles thereof,South-eastern Asia,Asia,5530
-1998,1998,Import,Algeria,74,Copper and articles thereof,Southern Europe,Europe,15610476
-1998,1998,Import,Algeria,74,Copper and articles thereof,Western Asia,Asia,13326808
-1998,1998,Import,Algeria,74,Copper and articles thereof,Western Europe,Europe,11117988
-1998,1998,Import,Algeria,74,Copper and articles thereof,World,World,42470208
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Algeria,74,Copper and articles thereof,Central Asia,Asia,1261,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+1998,1998,Import,Algeria,74,Copper and articles thereof,Eastern Asia,Asia,445293,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1998,1998,Import,Algeria,74,Copper and articles thereof,Eastern Europe,Europe,30756,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1998,1998,Import,Algeria,74,Copper and articles thereof,Northern Africa,Africa,1780,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1998,1998,Import,Algeria,74,Copper and articles thereof,Northern America,Americas,1377856,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1998,1998,Import,Algeria,74,Copper and articles thereof,Northern Europe,Europe,71119,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1998,1998,Import,Algeria,74,Copper and articles thereof,South-eastern Asia,Asia,5530,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1998,1998,Import,Algeria,74,Copper and articles thereof,Southern Europe,Europe,15610476,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1998,1998,Import,Algeria,74,Copper and articles thereof,Western Asia,Asia,13326808,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1998,1998,Import,Algeria,74,Copper and articles thereof,Western Europe,Europe,11117988,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1998,1998,Import,Algeria,74,Copper and articles thereof,World,World,42470208,28.0000272,2.9999825,,

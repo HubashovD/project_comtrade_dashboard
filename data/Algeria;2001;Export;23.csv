@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Algeria,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,57942
-2001,2001,Export,Algeria,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,42413
-2001,2001,Export,Algeria,23,"Residues, wastes of food industry, animal fodder",World,World,100354
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Algeria,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,57942,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2001,2001,Export,Algeria,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,42413,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2001,2001,Export,Algeria,23,"Residues, wastes of food industry, animal fodder",World,World,100354,28.0000272,2.9999825,,

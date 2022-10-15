@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,1984718
-1995,1995,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,11721620
-1995,1995,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,328107
-1995,1995,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,3603
-1995,1995,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Western Asia,Asia,9073
-1995,1995,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,1721358
-1995,1995,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",World,World,15859753
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,1984718,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1995,1995,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,11721620,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1995,1995,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,328107,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1995,1995,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,3603,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1995,1995,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Western Asia,Asia,9073,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1995,1995,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,1721358,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1995,1995,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",World,World,15859753,28.0000272,2.9999825,,

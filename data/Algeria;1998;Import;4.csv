@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Australia and New Zealand,Oceania,49275460
-1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,55938825
-1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Latin America and the Caribbean,Americas,3574336
-1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,21856525
-1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,14639785
-1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,4899712
-1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,727149
-1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,300244840
-1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",World,World,482254272
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Australia and New Zealand,Oceania,49275460,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,55938825,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Latin America and the Caribbean,Americas,3574336,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,21856525,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,14639785,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,4899712,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,727149,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,300244840,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1998,1998,Import,Algeria,4,"Dairy products, eggs, honey, edible animal product nes",World,World,482254272,28.0000272,2.9999825,,

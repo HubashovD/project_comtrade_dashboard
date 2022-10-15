@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Algeria,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,73328
-2005,2005,Export,Algeria,26,"Ores, slag and ash",Northern Europe,Europe,2974
-2005,2005,Export,Algeria,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,1694
-2005,2005,Export,Algeria,26,"Ores, slag and ash",Western Europe,Europe,50475
-2005,2005,Export,Algeria,26,"Ores, slag and ash",World,World,211372
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Algeria,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,73328,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2005,2005,Export,Algeria,26,"Ores, slag and ash",Northern Europe,Europe,2974,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2005,2005,Export,Algeria,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,1694,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2005,2005,Export,Algeria,26,"Ores, slag and ash",Western Europe,Europe,50475,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2005,2005,Export,Algeria,26,"Ores, slag and ash",World,World,211372,28.0000272,2.9999825,,

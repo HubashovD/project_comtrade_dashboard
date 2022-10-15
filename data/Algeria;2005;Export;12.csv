@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Algeria,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,741
-2005,2005,Export,Algeria,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,4988429
-2005,2005,Export,Algeria,12,Oil seeds and oleaginous fruits,Sub-Saharan Africa,Africa,55
-2005,2005,Export,Algeria,12,Oil seeds and oleaginous fruits,Western Europe,Europe,5712
-2005,2005,Export,Algeria,12,Oil seeds and oleaginous fruits,World,World,5303366
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Algeria,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,741,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2005,2005,Export,Algeria,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,4988429,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2005,2005,Export,Algeria,12,Oil seeds and oleaginous fruits,Sub-Saharan Africa,Africa,55,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2005,2005,Export,Algeria,12,Oil seeds and oleaginous fruits,Western Europe,Europe,5712,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2005,2005,Export,Algeria,12,Oil seeds and oleaginous fruits,World,World,5303366,28.0000272,2.9999825,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,73780
-2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,8605
-2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Africa,Africa,994
-2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,1027664
-2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,4164
-2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,4788
-2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Asia,Asia,34035
-2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,727129
-2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,1921689
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,73780,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,8605,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Africa,Africa,994,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,1027664,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,4164,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,4788,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Asia,Asia,34035,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,727129,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2001,2001,Import,Algeria,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,1921689,28.0000272,2.9999825,,

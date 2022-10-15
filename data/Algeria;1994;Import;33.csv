@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,59740
-1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,50191
-1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Melanesia,Oceania,50976
-1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Africa,Africa,126977
-1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,14728
-1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,141643
-1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,4573898
-1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,12788
-1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,7929433
-1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,13553179
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,59740,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,50191,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Melanesia,Oceania,50976,28.0000272,2.9999825,1.0108650891006263,147.3257485906919
+1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Africa,Africa,126977,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,14728,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,141643,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,4573898,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,12788,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,7929433,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1994,1994,Import,Algeria,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,13553179,28.0000272,2.9999825,,

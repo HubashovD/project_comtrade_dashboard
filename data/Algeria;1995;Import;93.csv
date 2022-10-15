@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Algeria,93,"Arms and ammunition, parts and accessories thereof",Northern Africa,Africa,5644
-1995,1995,Import,Algeria,93,"Arms and ammunition, parts and accessories thereof",Northern America,Americas,2739
-1995,1995,Import,Algeria,93,"Arms and ammunition, parts and accessories thereof",Northern Europe,Europe,4591
-1995,1995,Import,Algeria,93,"Arms and ammunition, parts and accessories thereof",Southern Europe,Europe,2540693
-1995,1995,Import,Algeria,93,"Arms and ammunition, parts and accessories thereof",Western Europe,Europe,116974
-1995,1995,Import,Algeria,93,"Arms and ammunition, parts and accessories thereof",World,World,2674856
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Algeria,93,"Arms and ammunition, parts and accessories thereof",Northern Africa,Africa,5644,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1995,1995,Import,Algeria,93,"Arms and ammunition, parts and accessories thereof",Northern America,Americas,2739,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1995,1995,Import,Algeria,93,"Arms and ammunition, parts and accessories thereof",Northern Europe,Europe,4591,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1995,1995,Import,Algeria,93,"Arms and ammunition, parts and accessories thereof",Southern Europe,Europe,2540693,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1995,1995,Import,Algeria,93,"Arms and ammunition, parts and accessories thereof",Western Europe,Europe,116974,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1995,1995,Import,Algeria,93,"Arms and ammunition, parts and accessories thereof",World,World,2674856,28.0000272,2.9999825,,

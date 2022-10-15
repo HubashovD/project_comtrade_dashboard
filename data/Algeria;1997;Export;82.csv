@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Algeria,82,"Tools, implements, cutlery, etc of base metal",Latin America and the Caribbean,Americas,246399
-1997,1997,Export,Algeria,82,"Tools, implements, cutlery, etc of base metal",Northern Africa,Africa,135014
-1997,1997,Export,Algeria,82,"Tools, implements, cutlery, etc of base metal",Northern America,Americas,46798
-1997,1997,Export,Algeria,82,"Tools, implements, cutlery, etc of base metal",Northern Europe,Europe,170543
-1997,1997,Export,Algeria,82,"Tools, implements, cutlery, etc of base metal",Sub-Saharan Africa,Africa,28820
-1997,1997,Export,Algeria,82,"Tools, implements, cutlery, etc of base metal",Western Europe,Europe,117349
-1997,1997,Export,Algeria,82,"Tools, implements, cutlery, etc of base metal",World,World,750668
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Algeria,82,"Tools, implements, cutlery, etc of base metal",Latin America and the Caribbean,Americas,246399,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1997,1997,Export,Algeria,82,"Tools, implements, cutlery, etc of base metal",Northern Africa,Africa,135014,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1997,1997,Export,Algeria,82,"Tools, implements, cutlery, etc of base metal",Northern America,Americas,46798,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1997,1997,Export,Algeria,82,"Tools, implements, cutlery, etc of base metal",Northern Europe,Europe,170543,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1997,1997,Export,Algeria,82,"Tools, implements, cutlery, etc of base metal",Sub-Saharan Africa,Africa,28820,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1997,1997,Export,Algeria,82,"Tools, implements, cutlery, etc of base metal",Western Europe,Europe,117349,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1997,1997,Export,Algeria,82,"Tools, implements, cutlery, etc of base metal",World,World,750668,28.0000272,2.9999825,,

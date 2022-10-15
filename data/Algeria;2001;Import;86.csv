@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Central Asia,Asia,13438
-2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Asia,Asia,23247
-2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Europe,Europe,134682
-2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,28117348
-2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,324796
-2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",South-eastern Asia,Asia,32317
-2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Southern Europe,Europe,2683869
-2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Sub-Saharan Africa,Africa,4498
-2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Western Asia,Asia,19902
-2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,5084107
-2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,36531359
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Central Asia,Asia,13438,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Asia,Asia,23247,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Europe,Europe,134682,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,28117348,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,324796,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",South-eastern Asia,Asia,32317,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Southern Europe,Europe,2683869,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Sub-Saharan Africa,Africa,4498,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Western Asia,Asia,19902,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,5084107,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2001,2001,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,36531359,28.0000272,2.9999825,,

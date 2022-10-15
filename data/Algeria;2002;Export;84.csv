@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Australia and New Zealand,Oceania,25384
-2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Eastern Asia,Asia,36580
-2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Eastern Europe,Europe,61237
-2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Northern Africa,Africa,402516
-2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Northern America,Americas,1400063
-2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Northern Europe,Europe,151529
-2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,South-eastern Asia,Asia,53266
-2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Southern Asia,Asia,1222938
-2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Southern Europe,Europe,183604
-2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Sub-Saharan Africa,Africa,215454
-2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Western Asia,Asia,51924
-2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Western Europe,Europe,4966166
-2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,World,World,17950763
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Australia and New Zealand,Oceania,25384,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Eastern Asia,Asia,36580,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Eastern Europe,Europe,61237,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Northern Africa,Africa,402516,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Northern America,Americas,1400063,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Northern Europe,Europe,151529,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,South-eastern Asia,Asia,53266,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Southern Asia,Asia,1222938,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Southern Europe,Europe,183604,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Sub-Saharan Africa,Africa,215454,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Western Asia,Asia,51924,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,Western Europe,Europe,4966166,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2002,2002,Export,Algeria,84,Machinery and mechanical appliances; parts thereof,World,World,17950763,28.0000272,2.9999825,,

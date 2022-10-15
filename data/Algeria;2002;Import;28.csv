@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Algeria,28,Inorganic chemicals,Central Asia,Asia,1523
-2002,2002,Import,Algeria,28,Inorganic chemicals,Eastern Asia,Asia,3217699
-2002,2002,Import,Algeria,28,Inorganic chemicals,Eastern Europe,Europe,4432004
-2002,2002,Import,Algeria,28,Inorganic chemicals,Latin America and the Caribbean,Americas,38586
-2002,2002,Import,Algeria,28,Inorganic chemicals,Northern Africa,Africa,13989550
-2002,2002,Import,Algeria,28,Inorganic chemicals,Northern America,Americas,5313438
-2002,2002,Import,Algeria,28,Inorganic chemicals,Northern Europe,Europe,4786183
-2002,2002,Import,Algeria,28,Inorganic chemicals,South-eastern Asia,Asia,23486
-2002,2002,Import,Algeria,28,Inorganic chemicals,Southern Europe,Europe,18793305
-2002,2002,Import,Algeria,28,Inorganic chemicals,Sub-Saharan Africa,Africa,204315
-2002,2002,Import,Algeria,28,Inorganic chemicals,Western Asia,Asia,5997073
-2002,2002,Import,Algeria,28,Inorganic chemicals,Western Europe,Europe,19408132
-2002,2002,Import,Algeria,28,Inorganic chemicals,World,World,82199738
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Algeria,28,Inorganic chemicals,Central Asia,Asia,1523,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2002,2002,Import,Algeria,28,Inorganic chemicals,Eastern Asia,Asia,3217699,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2002,2002,Import,Algeria,28,Inorganic chemicals,Eastern Europe,Europe,4432004,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2002,2002,Import,Algeria,28,Inorganic chemicals,Latin America and the Caribbean,Americas,38586,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2002,2002,Import,Algeria,28,Inorganic chemicals,Northern Africa,Africa,13989550,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2002,2002,Import,Algeria,28,Inorganic chemicals,Northern America,Americas,5313438,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2002,2002,Import,Algeria,28,Inorganic chemicals,Northern Europe,Europe,4786183,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2002,2002,Import,Algeria,28,Inorganic chemicals,South-eastern Asia,Asia,23486,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2002,2002,Import,Algeria,28,Inorganic chemicals,Southern Europe,Europe,18793305,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2002,2002,Import,Algeria,28,Inorganic chemicals,Sub-Saharan Africa,Africa,204315,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2002,2002,Import,Algeria,28,Inorganic chemicals,Western Asia,Asia,5997073,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2002,2002,Import,Algeria,28,Inorganic chemicals,Western Europe,Europe,19408132,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2002,2002,Import,Algeria,28,Inorganic chemicals,World,World,82199738,28.0000272,2.9999825,,

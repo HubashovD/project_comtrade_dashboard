@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Asia,Asia,76462
-2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Latin America and the Caribbean,Americas,136376
-2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Africa,Africa,83982
-2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Northern America,Americas,233273
-2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Europe,Europe,585177
-2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",South-eastern Asia,Asia,94441
-2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Southern Asia,Asia,199627
-2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Southern Europe,Europe,1406074
-2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Sub-Saharan Africa,Africa,147019
-2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Western Asia,Asia,3396
-2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Western Europe,Europe,5162380
-2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",World,World,8457856
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Asia,Asia,76462,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Latin America and the Caribbean,Americas,136376,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Africa,Africa,83982,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Northern America,Americas,233273,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Europe,Europe,585177,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",South-eastern Asia,Asia,94441,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Southern Asia,Asia,199627,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Southern Europe,Europe,1406074,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Sub-Saharan Africa,Africa,147019,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Western Asia,Asia,3396,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",Western Europe,Europe,5162380,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2005,2005,Import,Algeria,13,"Lac; gums, resins and other vegetable saps and extracts",World,World,8457856,28.0000272,2.9999825,,

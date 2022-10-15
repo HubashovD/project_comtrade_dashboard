@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Eastern Asia,Asia,841
-1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Eastern Europe,Europe,531
-1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern America,Americas,17070
-1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",South-eastern Asia,Asia,1405
-1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Southern Asia,Asia,27304
-1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Southern Europe,Europe,7092
-1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Sub-Saharan Africa,Africa,2619185
-1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Asia,Asia,247618
-1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Europe,Europe,370065
-1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",World,World,3294075
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Eastern Asia,Asia,841,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Eastern Europe,Europe,531,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern America,Americas,17070,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",South-eastern Asia,Asia,1405,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Southern Asia,Asia,27304,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Southern Europe,Europe,7092,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Sub-Saharan Africa,Africa,2619185,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Asia,Asia,247618,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Europe,Europe,370065,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1998,1998,Import,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",World,World,3294075,28.0000272,2.9999825,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Central Asia,Asia,61655
-2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,13297305
-2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,38168
-2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,2095721
-2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Northern Africa,Africa,139667
-2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Northern America,Americas,68872
-2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Northern Europe,Europe,142660
-2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,13464725
-2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Southern Asia,Asia,600131
-2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Southern Europe,Europe,1870417
-2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,100652917
-2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Western Asia,Asia,1015813
-2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Western Europe,Europe,3514392
-2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",World,World,142911013
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Central Asia,Asia,61655,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,13297305,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,38168,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,2095721,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Northern Africa,Africa,139667,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Northern America,Americas,68872,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Northern Europe,Europe,142660,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,13464725,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Southern Asia,Asia,600131,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Southern Europe,Europe,1870417,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,100652917,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Western Asia,Asia,1015813,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",Western Europe,Europe,3514392,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2000,2000,Import,Algeria,9,"Coffee, tea, mate and spices",World,World,142911013,28.0000272,2.9999825,,

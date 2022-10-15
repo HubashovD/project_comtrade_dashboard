@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Export,Algeria,52,Cotton,Eastern Europe,Europe,10053102
-1996,1996,Export,Algeria,52,Cotton,Northern Africa,Africa,16632
-1996,1996,Export,Algeria,52,Cotton,Western Europe,Europe,4025
-1996,1996,Export,Algeria,52,Cotton,World,World,10073826
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Export,Algeria,52,Cotton,Eastern Europe,Europe,10053102,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1996,1996,Export,Algeria,52,Cotton,Northern Africa,Africa,16632,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1996,1996,Export,Algeria,52,Cotton,Western Europe,Europe,4025,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1996,1996,Export,Algeria,52,Cotton,World,World,10073826,28.0000272,2.9999825,,

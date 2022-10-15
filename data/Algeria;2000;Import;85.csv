@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,371603
-2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Central Asia,Asia,139931
-2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Eastern Asia,Asia,100509904
-2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Eastern Europe,Europe,93162349
-2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,747389
-2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Northern Africa,Africa,917486
-2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Northern America,Americas,94226888
-2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Northern Europe,Europe,32790022
-2000,2000,Import,Algeria,85,"Electrical, electronic equipment",South-eastern Asia,Asia,5690316
-2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Southern Europe,Europe,173970923
-2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,293216
-2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Western Asia,Asia,13826926
-2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Western Europe,Europe,225066246
-2000,2000,Import,Algeria,85,"Electrical, electronic equipment",World,World,751354167
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,371603,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Central Asia,Asia,139931,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Eastern Asia,Asia,100509904,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Eastern Europe,Europe,93162349,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,747389,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Northern Africa,Africa,917486,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Northern America,Americas,94226888,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Northern Europe,Europe,32790022,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2000,2000,Import,Algeria,85,"Electrical, electronic equipment",South-eastern Asia,Asia,5690316,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Southern Europe,Europe,173970923,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,293216,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Western Asia,Asia,13826926,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2000,2000,Import,Algeria,85,"Electrical, electronic equipment",Western Europe,Europe,225066246,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2000,2000,Import,Algeria,85,"Electrical, electronic equipment",World,World,751354167,28.0000272,2.9999825,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,16479
-1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Central Asia,Asia,217453
-1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,173606609
-1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,2346977
-1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Latin America and the Caribbean,Americas,213132
-1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Northern Africa,Africa,172120
-1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Northern America,Americas,21660862
-1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Northern Europe,Europe,14662519
-1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,567708
-1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Southern Europe,Europe,40316018
-1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Western Asia,Asia,55704049
-1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Western Europe,Europe,329749776
-1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",World,World,649897984
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,16479,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Central Asia,Asia,217453,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,173606609,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,2346977,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Latin America and the Caribbean,Americas,213132,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Northern Africa,Africa,172120,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Northern America,Americas,21660862,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Northern Europe,Europe,14662519,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,567708,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Southern Europe,Europe,40316018,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Western Asia,Asia,55704049,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",Western Europe,Europe,329749776,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1998,1998,Import,Algeria,87,"Vehicles other than railway, tramway",World,World,649897984,28.0000272,2.9999825,,

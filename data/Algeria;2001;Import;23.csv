@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Eastern Europe,Europe,330530
-2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Latin America and the Caribbean,Americas,32452559
-2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Northern Africa,Africa,44114
-2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Northern America,Americas,64449996
-2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,30051
-2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,3778995
-2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,6959384
-2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",World,World,108045629
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Eastern Europe,Europe,330530,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Latin America and the Caribbean,Americas,32452559,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Northern Africa,Africa,44114,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Northern America,Americas,64449996,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,30051,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,3778995,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,6959384,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2001,2001,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",World,World,108045629,28.0000272,2.9999825,,

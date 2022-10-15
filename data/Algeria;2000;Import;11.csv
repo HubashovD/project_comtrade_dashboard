@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Australia and New Zealand,Oceania,67112
-2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Eastern Asia,Asia,1119
-2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Eastern Europe,Europe,43955
-2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Northern Africa,Africa,39
-2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Northern America,Americas,17779
-2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Northern Europe,Europe,2719528
-2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Southern Europe,Europe,35105061
-2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Western Asia,Asia,850279
-2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Western Europe,Europe,9180335
-2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",World,World,47985207
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Australia and New Zealand,Oceania,67112,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Eastern Asia,Asia,1119,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Eastern Europe,Europe,43955,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Northern Africa,Africa,39,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Northern America,Americas,17779,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Northern Europe,Europe,2719528,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Southern Europe,Europe,35105061,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Western Asia,Asia,850279,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",Western Europe,Europe,9180335,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2000,2000,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat gluten",World,World,47985207,28.0000272,2.9999825,,

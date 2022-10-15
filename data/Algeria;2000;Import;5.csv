@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Algeria,5,"Products of animal origin, nes",Eastern Asia,Asia,316826
-2000,2000,Import,Algeria,5,"Products of animal origin, nes",Southern Europe,Europe,3184
-2000,2000,Import,Algeria,5,"Products of animal origin, nes",Western Asia,Asia,379
-2000,2000,Import,Algeria,5,"Products of animal origin, nes",Western Europe,Europe,66702
-2000,2000,Import,Algeria,5,"Products of animal origin, nes",World,World,387091
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Algeria,5,"Products of animal origin, nes",Eastern Asia,Asia,316826,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2000,2000,Import,Algeria,5,"Products of animal origin, nes",Southern Europe,Europe,3184,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2000,2000,Import,Algeria,5,"Products of animal origin, nes",Western Asia,Asia,379,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2000,2000,Import,Algeria,5,"Products of animal origin, nes",Western Europe,Europe,66702,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2000,2000,Import,Algeria,5,"Products of animal origin, nes",World,World,387091,28.0000272,2.9999825,,

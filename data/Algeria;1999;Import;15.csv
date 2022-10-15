@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Eastern Asia,Asia,17259
-1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Eastern Europe,Europe,32672760
-1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Latin America and the Caribbean,Americas,72748529
-1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern Africa,Africa,5388
-1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern America,Americas,39633325
-1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern Europe,Europe,7510767
-1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",South-eastern Asia,Asia,22151793
-1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Southern Asia,Asia,71055
-1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Southern Europe,Europe,19520959
-1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Asia,Asia,12932766
-1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Europe,Europe,63212502
-1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",World,World,278323418
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Eastern Asia,Asia,17259,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Eastern Europe,Europe,32672760,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Latin America and the Caribbean,Americas,72748529,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern Africa,Africa,5388,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern America,Americas,39633325,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern Europe,Europe,7510767,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",South-eastern Asia,Asia,22151793,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Southern Asia,Asia,71055,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Southern Europe,Europe,19520959,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Asia,Asia,12932766,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Europe,Europe,63212502,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1999,1999,Import,Algeria,15,"Animal,vegetable fats and oils, cleavage products, etc",World,World,278323418,28.0000272,2.9999825,,

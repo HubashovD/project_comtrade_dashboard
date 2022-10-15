@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Algeria,74,Copper and articles thereof,Southern Europe,Europe,636391
-1995,1995,Export,Algeria,74,Copper and articles thereof,Western Europe,Europe,7394908
-1995,1995,Export,Algeria,74,Copper and articles thereof,World,World,8088429
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Algeria,74,Copper and articles thereof,Southern Europe,Europe,636391,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1995,1995,Export,Algeria,74,Copper and articles thereof,Western Europe,Europe,7394908,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1995,1995,Export,Algeria,74,Copper and articles thereof,World,World,8088429,28.0000272,2.9999825,,

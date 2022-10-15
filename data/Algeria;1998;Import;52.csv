@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Algeria,52,Cotton,Central Asia,Asia,3715
-1998,1998,Import,Algeria,52,Cotton,Eastern Asia,Asia,927896
-1998,1998,Import,Algeria,52,Cotton,Eastern Europe,Europe,106523
-1998,1998,Import,Algeria,52,Cotton,Northern America,Americas,855852
-1998,1998,Import,Algeria,52,Cotton,Northern Europe,Europe,71826
-1998,1998,Import,Algeria,52,Cotton,South-eastern Asia,Asia,245795
-1998,1998,Import,Algeria,52,Cotton,Southern Europe,Europe,6923150
-1998,1998,Import,Algeria,52,Cotton,Western Asia,Asia,23954434
-1998,1998,Import,Algeria,52,Cotton,Western Europe,Europe,1454217
-1998,1998,Import,Algeria,52,Cotton,World,World,37837200
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Algeria,52,Cotton,Central Asia,Asia,3715,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+1998,1998,Import,Algeria,52,Cotton,Eastern Asia,Asia,927896,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1998,1998,Import,Algeria,52,Cotton,Eastern Europe,Europe,106523,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1998,1998,Import,Algeria,52,Cotton,Northern America,Americas,855852,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1998,1998,Import,Algeria,52,Cotton,Northern Europe,Europe,71826,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1998,1998,Import,Algeria,52,Cotton,South-eastern Asia,Asia,245795,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1998,1998,Import,Algeria,52,Cotton,Southern Europe,Europe,6923150,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1998,1998,Import,Algeria,52,Cotton,Western Asia,Asia,23954434,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1998,1998,Import,Algeria,52,Cotton,Western Europe,Europe,1454217,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1998,1998,Import,Algeria,52,Cotton,World,World,37837200,28.0000272,2.9999825,,

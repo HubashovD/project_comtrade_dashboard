@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Australia and New Zealand,Oceania,3433
-1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Eastern Asia,Asia,432851
-1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Eastern Europe,Europe,1826281
-1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Latin America and the Caribbean,Americas,149370
-1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Northern Africa,Africa,4038265
-1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Northern America,Americas,1070787
-1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Northern Europe,Europe,395324
-1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Southern Europe,Europe,53297894
-1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Sub-Saharan Africa,Africa,82471
-1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Western Asia,Asia,2322768
-1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Western Europe,Europe,13207742
-1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",World,World,92139232
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Australia and New Zealand,Oceania,3433,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Eastern Asia,Asia,432851,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Eastern Europe,Europe,1826281,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Latin America and the Caribbean,Americas,149370,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Northern Africa,Africa,4038265,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Northern America,Americas,1070787,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Northern Europe,Europe,395324,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Southern Europe,Europe,53297894,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Sub-Saharan Africa,Africa,82471,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Western Asia,Asia,2322768,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",Western Europe,Europe,13207742,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1993,1993,Import,Algeria,28,"Inorganic chemicals, precious metal compound, isotope",World,World,92139232,28.0000272,2.9999825,,

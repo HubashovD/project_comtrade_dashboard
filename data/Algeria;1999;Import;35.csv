@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Australia and New Zealand,Oceania,3447
-1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Eastern Asia,Asia,698971
-1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Eastern Europe,Europe,155442
-1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Northern Africa,Africa,149317
-1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Northern America,Americas,444354
-1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Northern Europe,Europe,488995
-1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",South-eastern Asia,Asia,103432
-1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Southern Europe,Europe,1469899
-1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Western Asia,Asia,192189
-1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Western Europe,Europe,8360738
-1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",World,World,12193034
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Australia and New Zealand,Oceania,3447,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Eastern Asia,Asia,698971,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Eastern Europe,Europe,155442,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Northern Africa,Africa,149317,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Northern America,Americas,444354,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Northern Europe,Europe,488995,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",South-eastern Asia,Asia,103432,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Southern Europe,Europe,1469899,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Western Asia,Asia,192189,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",Western Europe,Europe,8360738,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1999,1999,Import,Algeria,35,"Albuminoids, modified starches, glues, enzymes",World,World,12193034,28.0000272,2.9999825,,

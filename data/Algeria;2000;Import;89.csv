@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",Eastern Asia,Asia,73378
-2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",Latin America and the Caribbean,Americas,334
-2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",Northern Africa,Africa,13887
-2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",Northern America,Americas,172553
-2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",Northern Europe,Europe,20796
-2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",Southern Europe,Europe,1437052
-2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",Western Europe,Europe,6438417
-2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",World,World,8163522
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",Eastern Asia,Asia,73378,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",Latin America and the Caribbean,Americas,334,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",Northern Africa,Africa,13887,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",Northern America,Americas,172553,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",Northern Europe,Europe,20796,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",Southern Europe,Europe,1437052,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",Western Europe,Europe,6438417,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2000,2000,Import,Algeria,89,"Ships, boats and other floating structures",World,World,8163522,28.0000272,2.9999825,,

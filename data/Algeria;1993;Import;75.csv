@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1993,1993,Import,Algeria,75,Nickel and articles thereof,Northern Africa,Africa,789
-1993,1993,Import,Algeria,75,Nickel and articles thereof,Northern America,Americas,40118
-1993,1993,Import,Algeria,75,Nickel and articles thereof,Northern Europe,Europe,39686
-1993,1993,Import,Algeria,75,Nickel and articles thereof,Southern Europe,Europe,516566
-1993,1993,Import,Algeria,75,Nickel and articles thereof,Western Europe,Europe,438720
-1993,1993,Import,Algeria,75,Nickel and articles thereof,World,World,1060011
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1993,1993,Import,Algeria,75,Nickel and articles thereof,Northern Africa,Africa,789,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1993,1993,Import,Algeria,75,Nickel and articles thereof,Northern America,Americas,40118,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1993,1993,Import,Algeria,75,Nickel and articles thereof,Northern Europe,Europe,39686,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1993,1993,Import,Algeria,75,Nickel and articles thereof,Southern Europe,Europe,516566,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1993,1993,Import,Algeria,75,Nickel and articles thereof,Western Europe,Europe,438720,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1993,1993,Import,Algeria,75,Nickel and articles thereof,World,World,1060011,28.0000272,2.9999825,,

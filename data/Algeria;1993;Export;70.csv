@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1993,1993,Export,Algeria,70,Glass and glassware,Northern Africa,Africa,2992
-1993,1993,Export,Algeria,70,Glass and glassware,Western Europe,Europe,1623
-1993,1993,Export,Algeria,70,Glass and glassware,World,World,10365
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1993,1993,Export,Algeria,70,Glass and glassware,Northern Africa,Africa,2992,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1993,1993,Export,Algeria,70,Glass and glassware,Western Europe,Europe,1623,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1993,1993,Export,Algeria,70,Glass and glassware,World,World,10365,28.0000272,2.9999825,,

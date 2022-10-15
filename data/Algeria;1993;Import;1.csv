@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1993,1993,Import,Algeria,1,Live animals,Eastern Europe,Europe,3125322
-1993,1993,Import,Algeria,1,Live animals,Northern Africa,Africa,2823948
-1993,1993,Import,Algeria,1,Live animals,Northern America,Americas,84354
-1993,1993,Import,Algeria,1,Live animals,Northern Europe,Europe,100610
-1993,1993,Import,Algeria,1,Live animals,Southern Europe,Europe,2066128
-1993,1993,Import,Algeria,1,Live animals,Western Europe,Europe,12586635
-1993,1993,Import,Algeria,1,Live animals,World,World,22179594
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1993,1993,Import,Algeria,1,Live animals,Eastern Europe,Europe,3125322,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1993,1993,Import,Algeria,1,Live animals,Northern Africa,Africa,2823948,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1993,1993,Import,Algeria,1,Live animals,Northern America,Americas,84354,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1993,1993,Import,Algeria,1,Live animals,Northern Europe,Europe,100610,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1993,1993,Import,Algeria,1,Live animals,Southern Europe,Europe,2066128,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1993,1993,Import,Algeria,1,Live animals,Western Europe,Europe,12586635,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1993,1993,Import,Algeria,1,Live animals,World,World,22179594,28.0000272,2.9999825,,

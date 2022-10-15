@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Australia and New Zealand,Oceania,21172602
-1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Eastern Asia,Asia,237565
-1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,303319
-1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern Africa,Africa,74143
-1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,19930215
-1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,1957876
-1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",South-eastern Asia,Asia,210417
-1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Southern Asia,Asia,103774
-1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,10904499
-1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,39464964
-1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,20618218
-1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",World,World,123848320
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Australia and New Zealand,Oceania,21172602,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Eastern Asia,Asia,237565,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,303319,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern Africa,Africa,74143,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,19930215,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,1957876,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",South-eastern Asia,Asia,210417,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Southern Asia,Asia,103774,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,10904499,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,39464964,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,20618218,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1998,1998,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",World,World,123848320,28.0000272,2.9999825,,

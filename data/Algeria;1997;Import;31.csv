@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Algeria,31,Fertilizers,Eastern Europe,Europe,20239300
-1997,1997,Import,Algeria,31,Fertilizers,Latin America and the Caribbean,Americas,3410977
-1997,1997,Import,Algeria,31,Fertilizers,Northern Africa,Africa,947620
-1997,1997,Import,Algeria,31,Fertilizers,Northern Europe,Europe,1305273
-1997,1997,Import,Algeria,31,Fertilizers,Southern Europe,Europe,9378246
-1997,1997,Import,Algeria,31,Fertilizers,Western Asia,Asia,1868034
-1997,1997,Import,Algeria,31,Fertilizers,Western Europe,Europe,1435009
-1997,1997,Import,Algeria,31,Fertilizers,World,World,38828156
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Algeria,31,Fertilizers,Eastern Europe,Europe,20239300,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1997,1997,Import,Algeria,31,Fertilizers,Latin America and the Caribbean,Americas,3410977,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1997,1997,Import,Algeria,31,Fertilizers,Northern Africa,Africa,947620,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1997,1997,Import,Algeria,31,Fertilizers,Northern Europe,Europe,1305273,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1997,1997,Import,Algeria,31,Fertilizers,Southern Europe,Europe,9378246,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1997,1997,Import,Algeria,31,Fertilizers,Western Asia,Asia,1868034,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1997,1997,Import,Algeria,31,Fertilizers,Western Europe,Europe,1435009,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1997,1997,Import,Algeria,31,Fertilizers,World,World,38828156,28.0000272,2.9999825,,

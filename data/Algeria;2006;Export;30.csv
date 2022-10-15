@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Algeria,30,Pharmaceutical products,Latin America and the Caribbean,Americas,2605
-2006,2006,Export,Algeria,30,Pharmaceutical products,Northern Africa,Africa,23886
-2006,2006,Export,Algeria,30,Pharmaceutical products,South-eastern Asia,Asia,2444
-2006,2006,Export,Algeria,30,Pharmaceutical products,Southern Europe,Europe,3728736
-2006,2006,Export,Algeria,30,Pharmaceutical products,Sub-Saharan Africa,Africa,328764
-2006,2006,Export,Algeria,30,Pharmaceutical products,Western Europe,Europe,190153
-2006,2006,Export,Algeria,30,Pharmaceutical products,World,World,4745123
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Algeria,30,Pharmaceutical products,Latin America and the Caribbean,Americas,2605,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2006,2006,Export,Algeria,30,Pharmaceutical products,Northern Africa,Africa,23886,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2006,2006,Export,Algeria,30,Pharmaceutical products,South-eastern Asia,Asia,2444,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2006,2006,Export,Algeria,30,Pharmaceutical products,Southern Europe,Europe,3728736,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2006,2006,Export,Algeria,30,Pharmaceutical products,Sub-Saharan Africa,Africa,328764,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2006,2006,Export,Algeria,30,Pharmaceutical products,Western Europe,Europe,190153,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2006,2006,Export,Algeria,30,Pharmaceutical products,World,World,4745123,28.0000272,2.9999825,,

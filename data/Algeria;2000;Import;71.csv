@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Central Asia,Asia,1643
-2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,80307
-2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Northern Africa,Africa,1161
-2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,13245
-2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,170205
-2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,5057
-2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,175511
-2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Sub-Saharan Africa,Africa,50993
-2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,9745
-2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,2050458
-2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",World,World,2571725
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Central Asia,Asia,1643,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,80307,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Northern Africa,Africa,1161,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,13245,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,170205,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,5057,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,175511,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Sub-Saharan Africa,Africa,50993,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,9745,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,2050458,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2000,2000,Import,Algeria,71,"Pearls, precious stones, metals, coins, etc",World,World,2571725,28.0000272,2.9999825,,

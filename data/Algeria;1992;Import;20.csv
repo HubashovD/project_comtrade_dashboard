@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Eastern Asia,Asia,31243
-1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Eastern Europe,Europe,2416
-1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Latin America and the Caribbean,Americas,651
-1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Northern Africa,Africa,6441863
-1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Northern America,Americas,2792347
-1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Northern Europe,Europe,11729
-1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",South-eastern Asia,Asia,356184
-1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Southern Europe,Europe,11455209
-1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Sub-Saharan Africa,Africa,41172
-1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Western Asia,Asia,11568666
-1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Western Europe,Europe,1380047
-1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",World,World,34173672
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Eastern Asia,Asia,31243,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Eastern Europe,Europe,2416,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Latin America and the Caribbean,Americas,651,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Northern Africa,Africa,6441863,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Northern America,Americas,2792347,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Northern Europe,Europe,11729,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",South-eastern Asia,Asia,356184,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Southern Europe,Europe,11455209,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Sub-Saharan Africa,Africa,41172,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Western Asia,Asia,11568666,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",Western Europe,Europe,1380047,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1992,1992,Import,Algeria,20,"Vegetable, fruit, nut, etc food preparations",World,World,34173672,28.0000272,2.9999825,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Algeria,6,Live trees and other plants;,Eastern Asia,Asia,8549
-2006,2006,Import,Algeria,6,Live trees and other plants;,Eastern Europe,Europe,273255
-2006,2006,Import,Algeria,6,Live trees and other plants;,Northern Africa,Africa,110381
-2006,2006,Import,Algeria,6,Live trees and other plants;,South-eastern Asia,Asia,126
-2006,2006,Import,Algeria,6,Live trees and other plants;,Southern Europe,Europe,3147796
-2006,2006,Import,Algeria,6,Live trees and other plants;,Western Europe,Europe,1433003
-2006,2006,Import,Algeria,6,Live trees and other plants;,World,World,5016669
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Algeria,6,Live trees and other plants;,Eastern Asia,Asia,8549,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2006,2006,Import,Algeria,6,Live trees and other plants;,Eastern Europe,Europe,273255,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2006,2006,Import,Algeria,6,Live trees and other plants;,Northern Africa,Africa,110381,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2006,2006,Import,Algeria,6,Live trees and other plants;,South-eastern Asia,Asia,126,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2006,2006,Import,Algeria,6,Live trees and other plants;,Southern Europe,Europe,3147796,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2006,2006,Import,Algeria,6,Live trees and other plants;,Western Europe,Europe,1433003,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2006,2006,Import,Algeria,6,Live trees and other plants;,World,World,5016669,28.0000272,2.9999825,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat glute",Eastern Europe,Europe,40605
-1992,1992,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat glute",Latin America and the Caribbean,Americas,238663
-1992,1992,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat glute",Northern Africa,Africa,16858
-1992,1992,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat glute",Northern America,Americas,3194878
-1992,1992,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat glute",Southern Europe,Europe,258650164
-1992,1992,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat glute",Western Europe,Europe,3406658
-1992,1992,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat glute",World,World,274182624
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat glute",Eastern Europe,Europe,40605,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1992,1992,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat glute",Latin America and the Caribbean,Americas,238663,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1992,1992,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat glute",Northern Africa,Africa,16858,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1992,1992,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat glute",Northern America,Americas,3194878,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1992,1992,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat glute",Southern Europe,Europe,258650164,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1992,1992,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat glute",Western Europe,Europe,3406658,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1992,1992,Import,Algeria,11,"Milling products, malt, starches, inulin, wheat glute",World,World,274182624,28.0000272,2.9999825,,

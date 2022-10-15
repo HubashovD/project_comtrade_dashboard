@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Eastern Asia,Asia,581046
-2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Eastern Europe,Europe,20555
-2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Northern America,Americas,17017
-2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Northern Europe,Europe,73853
-2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",South-eastern Asia,Asia,3
-2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Southern Europe,Europe,94456
-2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Sub-Saharan Africa,Africa,9609
-2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Western Asia,Asia,26202
-2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Western Europe,Europe,215662
-2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",World,World,1051538
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Eastern Asia,Asia,581046,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Eastern Europe,Europe,20555,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Northern America,Americas,17017,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Northern Europe,Europe,73853,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",South-eastern Asia,Asia,3,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Southern Europe,Europe,94456,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Sub-Saharan Africa,Africa,9609,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Western Asia,Asia,26202,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Western Europe,Europe,215662,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2002,2002,Import,Algeria,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",World,World,1051538,28.0000272,2.9999825,,

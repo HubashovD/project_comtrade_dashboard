@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Algeria,50,Silk,Eastern Asia,Asia,147836
-2002,2002,Import,Algeria,50,Silk,Southern Europe,Europe,4
-2002,2002,Import,Algeria,50,Silk,Western Asia,Asia,41398
-2002,2002,Import,Algeria,50,Silk,Western Europe,Europe,54273
-2002,2002,Import,Algeria,50,Silk,World,World,251644
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Algeria,50,Silk,Eastern Asia,Asia,147836,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2002,2002,Import,Algeria,50,Silk,Southern Europe,Europe,4,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2002,2002,Import,Algeria,50,Silk,Western Asia,Asia,41398,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2002,2002,Import,Algeria,50,Silk,Western Europe,Europe,54273,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2002,2002,Import,Algeria,50,Silk,World,World,251644,28.0000272,2.9999825,,

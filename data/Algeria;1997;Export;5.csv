@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Algeria,5,"Products of animal origin, nes",Southern Europe,Europe,75439
-1997,1997,Export,Algeria,5,"Products of animal origin, nes",Western Europe,Europe,18158
-1997,1997,Export,Algeria,5,"Products of animal origin, nes",World,World,130264
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Algeria,5,"Products of animal origin, nes",Southern Europe,Europe,75439,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1997,1997,Export,Algeria,5,"Products of animal origin, nes",Western Europe,Europe,18158,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1997,1997,Export,Algeria,5,"Products of animal origin, nes",World,World,130264,28.0000272,2.9999825,,

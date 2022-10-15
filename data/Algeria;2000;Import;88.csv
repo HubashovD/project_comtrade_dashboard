@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,462011
-2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Latin America and the Caribbean,Americas,693
-2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,253758557
-2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,980152
-2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,46654
-2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Sub-Saharan Africa,Africa,10313
-2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,7167370
-2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",World,World,262425750
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,462011,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Latin America and the Caribbean,Americas,693,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,253758557,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,980152,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,46654,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Sub-Saharan Africa,Africa,10313,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,7167370,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2000,2000,Import,Algeria,88,"Aircraft, spacecraft, and parts thereof",World,World,262425750,28.0000272,2.9999825,,

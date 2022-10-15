@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Asia,Asia,57880
-1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Europe,Europe,7688
-1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Latin America and the Caribbean,Americas,1077
-1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Africa,Africa,177565
-1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,1133803
-1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,50255
-1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Southern Europe,Europe,66974717
-1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,14361837
-1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,82924384
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Asia,Asia,57880,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Europe,Europe,7688,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Latin America and the Caribbean,Americas,1077,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Africa,Africa,177565,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,1133803,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,50255,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Southern Europe,Europe,66974717,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,14361837,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1996,1996,Import,Algeria,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,82924384,28.0000272,2.9999825,,

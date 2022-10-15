@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,1588
-2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,27928
-2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,9500
-2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Northern America,Americas,112409
-2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Northern Europe,Europe,245262
-2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Southern Europe,Europe,92645
-2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,6743
-2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Western Europe,Europe,5021507
-2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",World,World,5641951
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,1588,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,27928,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,9500,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Northern America,Americas,112409,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Northern Europe,Europe,245262,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Southern Europe,Europe,92645,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,6743,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",Western Europe,Europe,5021507,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2005,2005,Export,Algeria,22,"Beverages, spirits and vinegar",World,World,5641951,28.0000272,2.9999825,,

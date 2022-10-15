@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Australia and New Zealand,Oceania,143200
-2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Central Asia,Asia,17770
-2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Eastern Asia,Asia,18279816
-2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Eastern Europe,Europe,1065002
-2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Latin America and the Caribbean,Americas,186774
-2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Northern Africa,Africa,133042
-2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Northern America,Americas,38914813
-2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Northern Europe,Europe,11426232
-2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",South-eastern Asia,Asia,3045661
-2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Southern Europe,Europe,25467456
-2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Sub-Saharan Africa,Africa,51459
-2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Western Asia,Asia,718726
-2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Western Europe,Europe,97779902
-2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",World,World,199840364
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Australia and New Zealand,Oceania,143200,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Central Asia,Asia,17770,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Eastern Asia,Asia,18279816,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Eastern Europe,Europe,1065002,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Latin America and the Caribbean,Americas,186774,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Northern Africa,Africa,133042,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Northern America,Americas,38914813,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Northern Europe,Europe,11426232,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",South-eastern Asia,Asia,3045661,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Southern Europe,Europe,25467456,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Sub-Saharan Africa,Africa,51459,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Western Asia,Asia,718726,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",Western Europe,Europe,97779902,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2001,2001,Import,Algeria,90,"Optical, photo, technical, medical, etc apparatus",World,World,199840364,28.0000272,2.9999825,,

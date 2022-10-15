@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Australia and New Zealand,Oceania,23660578
-1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Eastern Asia,Asia,24026
-1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern Africa,Africa,57021
-1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,28165604
-1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,599069
-1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,48620319
-1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,20000018
-1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",World,World,121721536
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Australia and New Zealand,Oceania,23660578,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Eastern Asia,Asia,24026,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern Africa,Africa,57021,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,28165604,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,599069,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,48620319,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,20000018,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1992,1992,Import,Algeria,27,"Mineral fuels, oils, distillation products, etc",World,World,121721536,28.0000272,2.9999825,,

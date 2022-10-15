@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Algeria,74,Copper and articles thereof,Australia and New Zealand,Oceania,109683
-2005,2005,Export,Algeria,74,Copper and articles thereof,Eastern Asia,Asia,635741
-2005,2005,Export,Algeria,74,Copper and articles thereof,Eastern Europe,Europe,42
-2005,2005,Export,Algeria,74,Copper and articles thereof,Northern Africa,Africa,1087100
-2005,2005,Export,Algeria,74,Copper and articles thereof,Northern America,Americas,1
-2005,2005,Export,Algeria,74,Copper and articles thereof,Northern Europe,Europe,374163
-2005,2005,Export,Algeria,74,Copper and articles thereof,Southern Asia,Asia,288415
-2005,2005,Export,Algeria,74,Copper and articles thereof,Southern Europe,Europe,4559589
-2005,2005,Export,Algeria,74,Copper and articles thereof,Western Asia,Asia,233271
-2005,2005,Export,Algeria,74,Copper and articles thereof,Western Europe,Europe,42089894
-2005,2005,Export,Algeria,74,Copper and articles thereof,World,World,50561966
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Algeria,74,Copper and articles thereof,Australia and New Zealand,Oceania,109683,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2005,2005,Export,Algeria,74,Copper and articles thereof,Eastern Asia,Asia,635741,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2005,2005,Export,Algeria,74,Copper and articles thereof,Eastern Europe,Europe,42,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2005,2005,Export,Algeria,74,Copper and articles thereof,Northern Africa,Africa,1087100,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2005,2005,Export,Algeria,74,Copper and articles thereof,Northern America,Americas,1,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2005,2005,Export,Algeria,74,Copper and articles thereof,Northern Europe,Europe,374163,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2005,2005,Export,Algeria,74,Copper and articles thereof,Southern Asia,Asia,288415,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2005,2005,Export,Algeria,74,Copper and articles thereof,Southern Europe,Europe,4559589,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2005,2005,Export,Algeria,74,Copper and articles thereof,Western Asia,Asia,233271,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2005,2005,Export,Algeria,74,Copper and articles thereof,Western Europe,Europe,42089894,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2005,2005,Export,Algeria,74,Copper and articles thereof,World,World,50561966,28.0000272,2.9999825,,

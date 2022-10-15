@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Central Asia,Asia,26930
-2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,18224050
-2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Eastern Europe,Europe,30910
-2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Latin America and the Caribbean,Americas,518848
-2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Northern Africa,Africa,272347
-2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Northern America,Americas,4106251
-2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,27701
-2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,South-eastern Asia,Asia,215643
-2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Southern Asia,Asia,53330
-2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,1151132
-2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Sub-Saharan Africa,Africa,109725
-2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Western Asia,Asia,454235
-2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Western Europe,Europe,5463926
-2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,World,World,32755291
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Central Asia,Asia,26930,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,18224050,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Eastern Europe,Europe,30910,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Latin America and the Caribbean,Americas,518848,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Northern Africa,Africa,272347,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Northern America,Americas,4106251,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,27701,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,South-eastern Asia,Asia,215643,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Southern Asia,Asia,53330,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,1151132,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Sub-Saharan Africa,Africa,109725,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Western Asia,Asia,454235,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,Western Europe,Europe,5463926,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2002,2002,Import,Algeria,12,Oil seeds and oleaginous fruits,World,World,32755291,28.0000272,2.9999825,,

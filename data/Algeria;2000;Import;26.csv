@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Algeria,26,"Ores, slag and ash",Eastern Asia,Asia,74064
-2000,2000,Import,Algeria,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,2041740
-2000,2000,Import,Algeria,26,"Ores, slag and ash",Northern America,Americas,122502
-2000,2000,Import,Algeria,26,"Ores, slag and ash",Southern Europe,Europe,1467016
-2000,2000,Import,Algeria,26,"Ores, slag and ash",Western Europe,Europe,276955
-2000,2000,Import,Algeria,26,"Ores, slag and ash",World,World,3982277
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Algeria,26,"Ores, slag and ash",Eastern Asia,Asia,74064,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2000,2000,Import,Algeria,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,2041740,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2000,2000,Import,Algeria,26,"Ores, slag and ash",Northern America,Americas,122502,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2000,2000,Import,Algeria,26,"Ores, slag and ash",Southern Europe,Europe,1467016,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2000,2000,Import,Algeria,26,"Ores, slag and ash",Western Europe,Europe,276955,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2000,2000,Import,Algeria,26,"Ores, slag and ash",World,World,3982277,28.0000272,2.9999825,,

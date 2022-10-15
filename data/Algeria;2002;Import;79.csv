@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Algeria,79,Zinc and articles thereof,Eastern Asia,Asia,34799
-2002,2002,Import,Algeria,79,Zinc and articles thereof,Eastern Europe,Europe,864135
-2002,2002,Import,Algeria,79,Zinc and articles thereof,Northern Africa,Africa,9357
-2002,2002,Import,Algeria,79,Zinc and articles thereof,Northern America,Americas,4836
-2002,2002,Import,Algeria,79,Zinc and articles thereof,Northern Europe,Europe,42141
-2002,2002,Import,Algeria,79,Zinc and articles thereof,South-eastern Asia,Asia,27086
-2002,2002,Import,Algeria,79,Zinc and articles thereof,Southern Europe,Europe,231641
-2002,2002,Import,Algeria,79,Zinc and articles thereof,Western Europe,Europe,376897
-2002,2002,Import,Algeria,79,Zinc and articles thereof,World,World,1651089
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Algeria,79,Zinc and articles thereof,Eastern Asia,Asia,34799,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2002,2002,Import,Algeria,79,Zinc and articles thereof,Eastern Europe,Europe,864135,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2002,2002,Import,Algeria,79,Zinc and articles thereof,Northern Africa,Africa,9357,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2002,2002,Import,Algeria,79,Zinc and articles thereof,Northern America,Americas,4836,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2002,2002,Import,Algeria,79,Zinc and articles thereof,Northern Europe,Europe,42141,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2002,2002,Import,Algeria,79,Zinc and articles thereof,South-eastern Asia,Asia,27086,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2002,2002,Import,Algeria,79,Zinc and articles thereof,Southern Europe,Europe,231641,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2002,2002,Import,Algeria,79,Zinc and articles thereof,Western Europe,Europe,376897,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2002,2002,Import,Algeria,79,Zinc and articles thereof,World,World,1651089,28.0000272,2.9999825,,

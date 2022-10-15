@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,Eastern Asia,Asia,691437
-1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,Northern America,Americas,4224
-1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,Northern Europe,Europe,9933
-1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,89958
-1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,Southern Europe,Europe,2343721
-1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,2696289
-1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,Western Asia,Asia,6156
-1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,Western Europe,Europe,274009
-1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,World,World,6117080
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,Eastern Asia,Asia,691437,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,Northern America,Americas,4224,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,Northern Europe,Europe,9933,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,89958,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,Southern Europe,Europe,2343721,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,2696289,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,Western Asia,Asia,6156,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,Western Europe,Europe,274009,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1999,1999,Import,Algeria,18,Cocoa and cocoa preparations,World,World,6117080,28.0000272,2.9999825,,

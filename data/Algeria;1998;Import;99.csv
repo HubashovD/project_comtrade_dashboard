@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Eastern Asia,Asia,2449
-1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Eastern Europe,Europe,54468
-1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Northern Africa,Africa,120979
-1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Northern America,Americas,83313
-1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Northern Europe,Europe,2718
-1998,1998,Import,Algeria,99,Commodities not elsewhere specified,South-eastern Asia,Asia,10001
-1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Southern Europe,Europe,116435
-1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Sub-Saharan Africa,Africa,128093
-1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Western Asia,Asia,83559
-1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Western Europe,Europe,1316869
-1998,1998,Import,Algeria,99,Commodities not elsewhere specified,World,World,2640622
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Eastern Asia,Asia,2449,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Eastern Europe,Europe,54468,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Northern Africa,Africa,120979,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Northern America,Americas,83313,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Northern Europe,Europe,2718,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1998,1998,Import,Algeria,99,Commodities not elsewhere specified,South-eastern Asia,Asia,10001,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Southern Europe,Europe,116435,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Sub-Saharan Africa,Africa,128093,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Western Asia,Asia,83559,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1998,1998,Import,Algeria,99,Commodities not elsewhere specified,Western Europe,Europe,1316869,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1998,1998,Import,Algeria,99,Commodities not elsewhere specified,World,World,2640622,28.0000272,2.9999825,,

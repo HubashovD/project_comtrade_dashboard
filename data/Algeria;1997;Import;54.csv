@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Algeria,54,Manmade filaments,Australia and New Zealand,Oceania,144543
-1997,1997,Import,Algeria,54,Manmade filaments,Central Asia,Asia,36664
-1997,1997,Import,Algeria,54,Manmade filaments,Eastern Asia,Asia,19549996
-1997,1997,Import,Algeria,54,Manmade filaments,Eastern Europe,Europe,200262
-1997,1997,Import,Algeria,54,Manmade filaments,Northern Africa,Africa,65237
-1997,1997,Import,Algeria,54,Manmade filaments,Northern America,Americas,48989
-1997,1997,Import,Algeria,54,Manmade filaments,Northern Europe,Europe,1404177
-1997,1997,Import,Algeria,54,Manmade filaments,South-eastern Asia,Asia,2659006
-1997,1997,Import,Algeria,54,Manmade filaments,Southern Europe,Europe,7985204
-1997,1997,Import,Algeria,54,Manmade filaments,Sub-Saharan Africa,Africa,15541
-1997,1997,Import,Algeria,54,Manmade filaments,Western Asia,Asia,1495558
-1997,1997,Import,Algeria,54,Manmade filaments,Western Europe,Europe,5361351
-1997,1997,Import,Algeria,54,Manmade filaments,World,World,46165128
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Algeria,54,Manmade filaments,Australia and New Zealand,Oceania,144543,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+1997,1997,Import,Algeria,54,Manmade filaments,Central Asia,Asia,36664,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+1997,1997,Import,Algeria,54,Manmade filaments,Eastern Asia,Asia,19549996,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1997,1997,Import,Algeria,54,Manmade filaments,Eastern Europe,Europe,200262,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1997,1997,Import,Algeria,54,Manmade filaments,Northern Africa,Africa,65237,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1997,1997,Import,Algeria,54,Manmade filaments,Northern America,Americas,48989,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1997,1997,Import,Algeria,54,Manmade filaments,Northern Europe,Europe,1404177,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1997,1997,Import,Algeria,54,Manmade filaments,South-eastern Asia,Asia,2659006,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1997,1997,Import,Algeria,54,Manmade filaments,Southern Europe,Europe,7985204,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1997,1997,Import,Algeria,54,Manmade filaments,Sub-Saharan Africa,Africa,15541,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1997,1997,Import,Algeria,54,Manmade filaments,Western Asia,Asia,1495558,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1997,1997,Import,Algeria,54,Manmade filaments,Western Europe,Europe,5361351,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1997,1997,Import,Algeria,54,Manmade filaments,World,World,46165128,28.0000272,2.9999825,,

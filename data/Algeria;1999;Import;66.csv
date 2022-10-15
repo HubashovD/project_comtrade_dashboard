@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Algeria,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Asia,Asia,151621
-1999,1999,Import,Algeria,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern America,Americas,1816
-1999,1999,Import,Algeria,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",South-eastern Asia,Asia,594
-1999,1999,Import,Algeria,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Europe,Europe,213265
-1999,1999,Import,Algeria,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Asia,Asia,8156
-1999,1999,Import,Algeria,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Europe,Europe,159968
-1999,1999,Import,Algeria,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",World,World,628367
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Algeria,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Asia,Asia,151621,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1999,1999,Import,Algeria,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern America,Americas,1816,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1999,1999,Import,Algeria,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",South-eastern Asia,Asia,594,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1999,1999,Import,Algeria,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Europe,Europe,213265,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1999,1999,Import,Algeria,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Asia,Asia,8156,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1999,1999,Import,Algeria,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Europe,Europe,159968,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1999,1999,Import,Algeria,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",World,World,628367,28.0000272,2.9999825,,

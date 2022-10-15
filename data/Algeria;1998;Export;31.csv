@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Algeria,31,Fertilizers,Eastern Europe,Europe,1001625
-1998,1998,Export,Algeria,31,Fertilizers,Southern Europe,Europe,2261640
-1998,1998,Export,Algeria,31,Fertilizers,Western Europe,Europe,7304783
-1998,1998,Export,Algeria,31,Fertilizers,World,World,11960486
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Algeria,31,Fertilizers,Eastern Europe,Europe,1001625,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1998,1998,Export,Algeria,31,Fertilizers,Southern Europe,Europe,2261640,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1998,1998,Export,Algeria,31,Fertilizers,Western Europe,Europe,7304783,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1998,1998,Export,Algeria,31,Fertilizers,World,World,11960486,28.0000272,2.9999825,,

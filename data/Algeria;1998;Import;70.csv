@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Algeria,70,Glass and glassware,Central Asia,Asia,7201
-1998,1998,Import,Algeria,70,Glass and glassware,Eastern Asia,Asia,1668166
-1998,1998,Import,Algeria,70,Glass and glassware,Eastern Europe,Europe,4147564
-1998,1998,Import,Algeria,70,Glass and glassware,Latin America and the Caribbean,Americas,28968
-1998,1998,Import,Algeria,70,Glass and glassware,Northern Africa,Africa,114948
-1998,1998,Import,Algeria,70,Glass and glassware,Northern America,Americas,537043
-1998,1998,Import,Algeria,70,Glass and glassware,Northern Europe,Europe,1876306
-1998,1998,Import,Algeria,70,Glass and glassware,South-eastern Asia,Asia,3067862
-1998,1998,Import,Algeria,70,Glass and glassware,Southern Europe,Europe,9706746
-1998,1998,Import,Algeria,70,Glass and glassware,Western Asia,Asia,7332217
-1998,1998,Import,Algeria,70,Glass and glassware,Western Europe,Europe,12369483
-1998,1998,Import,Algeria,70,Glass and glassware,World,World,50497816
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Algeria,70,Glass and glassware,Central Asia,Asia,7201,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+1998,1998,Import,Algeria,70,Glass and glassware,Eastern Asia,Asia,1668166,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1998,1998,Import,Algeria,70,Glass and glassware,Eastern Europe,Europe,4147564,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1998,1998,Import,Algeria,70,Glass and glassware,Latin America and the Caribbean,Americas,28968,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1998,1998,Import,Algeria,70,Glass and glassware,Northern Africa,Africa,114948,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1998,1998,Import,Algeria,70,Glass and glassware,Northern America,Americas,537043,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1998,1998,Import,Algeria,70,Glass and glassware,Northern Europe,Europe,1876306,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1998,1998,Import,Algeria,70,Glass and glassware,South-eastern Asia,Asia,3067862,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1998,1998,Import,Algeria,70,Glass and glassware,Southern Europe,Europe,9706746,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1998,1998,Import,Algeria,70,Glass and glassware,Western Asia,Asia,7332217,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1998,1998,Import,Algeria,70,Glass and glassware,Western Europe,Europe,12369483,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1998,1998,Import,Algeria,70,Glass and glassware,World,World,50497816,28.0000272,2.9999825,,

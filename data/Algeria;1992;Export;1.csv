@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Export,Algeria,1,Live animals,Northern Africa,Africa,218326
-1992,1992,Export,Algeria,1,Live animals,Western Europe,Europe,3419
-1992,1992,Export,Algeria,1,Live animals,World,World,398255
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Export,Algeria,1,Live animals,Northern Africa,Africa,218326,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1992,1992,Export,Algeria,1,Live animals,Western Europe,Europe,3419,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1992,1992,Export,Algeria,1,Live animals,World,World,398255,28.0000272,2.9999825,,

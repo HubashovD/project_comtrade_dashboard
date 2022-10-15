@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Algeria,72,Iron and steel,Central Asia,Asia,888479
-1997,1997,Export,Algeria,72,Iron and steel,Latin America and the Caribbean,Americas,409558
-1997,1997,Export,Algeria,72,Iron and steel,Northern Africa,Africa,8894890
-1997,1997,Export,Algeria,72,Iron and steel,South-eastern Asia,Asia,1434280
-1997,1997,Export,Algeria,72,Iron and steel,Southern Europe,Europe,47528927
-1997,1997,Export,Algeria,72,Iron and steel,Sub-Saharan Africa,Africa,18973
-1997,1997,Export,Algeria,72,Iron and steel,Western Asia,Asia,303919
-1997,1997,Export,Algeria,72,Iron and steel,Western Europe,Europe,3206932
-1997,1997,Export,Algeria,72,Iron and steel,World,World,70944880
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Algeria,72,Iron and steel,Central Asia,Asia,888479,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+1997,1997,Export,Algeria,72,Iron and steel,Latin America and the Caribbean,Americas,409558,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1997,1997,Export,Algeria,72,Iron and steel,Northern Africa,Africa,8894890,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1997,1997,Export,Algeria,72,Iron and steel,South-eastern Asia,Asia,1434280,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1997,1997,Export,Algeria,72,Iron and steel,Southern Europe,Europe,47528927,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1997,1997,Export,Algeria,72,Iron and steel,Sub-Saharan Africa,Africa,18973,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1997,1997,Export,Algeria,72,Iron and steel,Western Asia,Asia,303919,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1997,1997,Export,Algeria,72,Iron and steel,Western Europe,Europe,3206932,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1997,1997,Export,Algeria,72,Iron and steel,World,World,70944880,28.0000272,2.9999825,,

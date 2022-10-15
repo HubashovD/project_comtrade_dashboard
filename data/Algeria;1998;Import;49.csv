@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Australia and New Zealand,Oceania,831
-1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,209339
-1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,121310
-1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,862991
-1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Northern America,Americas,461598
-1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,869535
-1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",South-eastern Asia,Asia,6591
-1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,798158
-1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,1000905
-1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,10513472
-1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",World,World,20616760
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Australia and New Zealand,Oceania,831,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,209339,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,121310,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,862991,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Northern America,Americas,461598,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,869535,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",South-eastern Asia,Asia,6591,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,798158,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,1000905,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,10513472,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1998,1998,Import,Algeria,49,"Printed books, newspapers, pictures etc",World,World,20616760,28.0000272,2.9999825,,

@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Export,Algeria,29,Organic chemicals,Eastern Europe,Europe,289876
-1992,1992,Export,Algeria,29,Organic chemicals,Northern Africa,Africa,282074
-1992,1992,Export,Algeria,29,Organic chemicals,Southern Europe,Europe,14679288
-1992,1992,Export,Algeria,29,Organic chemicals,Western Europe,Europe,7673157
-1992,1992,Export,Algeria,29,Organic chemicals,World,World,26025228
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Export,Algeria,29,Organic chemicals,Eastern Europe,Europe,289876,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1992,1992,Export,Algeria,29,Organic chemicals,Northern Africa,Africa,282074,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1992,1992,Export,Algeria,29,Organic chemicals,Southern Europe,Europe,14679288,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1992,1992,Export,Algeria,29,Organic chemicals,Western Europe,Europe,7673157,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1992,1992,Export,Algeria,29,Organic chemicals,World,World,26025228,28.0000272,2.9999825,,

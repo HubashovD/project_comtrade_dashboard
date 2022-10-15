@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,4130
-2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,2065314
-2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,41354
-2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Northern Africa,Africa,257821
-2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Northern America,Americas,118288
-2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Northern Europe,Europe,999205
-2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,228
-2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Southern Europe,Europe,3353383
-2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,103944
-2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Western Europe,Europe,5440643
-2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",World,World,12385057
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,4130,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,2065314,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,41354,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Northern Africa,Africa,257821,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Northern America,Americas,118288,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Northern Europe,Europe,999205,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,228,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Southern Europe,Europe,3353383,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,103944,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",Western Europe,Europe,5440643,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2002,2002,Import,Algeria,22,"Beverages, spirits and vinegar",World,World,12385057,28.0000272,2.9999825,,

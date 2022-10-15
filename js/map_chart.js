@@ -53,6 +53,7 @@ function map_chart() {
             // Reformat the list of link. Note that columns in csv file are called long1, long2, lat1, lat2
             var link = []
             data.forEach(function(row) {
+                console.log(row)
                 source = [+row.rtLon, +row.rtLat]
                 target = [+row.ptLon, +row.ptLat]
                 topush = { type: "LineString", coordinates: [source, target] }

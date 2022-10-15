@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Algeria,81,"Other base metals, cermets, articles thereof",Eastern Asia,Asia,481192
-1994,1994,Import,Algeria,81,"Other base metals, cermets, articles thereof",Northern America,Americas,3384
-1994,1994,Import,Algeria,81,"Other base metals, cermets, articles thereof",South-eastern Asia,Asia,79097
-1994,1994,Import,Algeria,81,"Other base metals, cermets, articles thereof",Southern Europe,Europe,292194
-1994,1994,Import,Algeria,81,"Other base metals, cermets, articles thereof",Western Europe,Europe,239949
-1994,1994,Import,Algeria,81,"Other base metals, cermets, articles thereof",World,World,1509746
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Algeria,81,"Other base metals, cermets, articles thereof",Eastern Asia,Asia,481192,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1994,1994,Import,Algeria,81,"Other base metals, cermets, articles thereof",Northern America,Americas,3384,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1994,1994,Import,Algeria,81,"Other base metals, cermets, articles thereof",South-eastern Asia,Asia,79097,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1994,1994,Import,Algeria,81,"Other base metals, cermets, articles thereof",Southern Europe,Europe,292194,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1994,1994,Import,Algeria,81,"Other base metals, cermets, articles thereof",Western Europe,Europe,239949,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1994,1994,Import,Algeria,81,"Other base metals, cermets, articles thereof",World,World,1509746,28.0000272,2.9999825,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Eastern Asia,Asia,1740790
-1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Eastern Europe,Europe,8502
-1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Latin America and the Caribbean,Americas,557
-1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern Africa,Africa,460833
-1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern America,Americas,2010535
-1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern Europe,Europe,220036
-1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",South-eastern Asia,Asia,26447
-1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Southern Europe,Europe,7035338
-1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Western Asia,Asia,8351
-1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Western Europe,Europe,10605471
-1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",World,World,24369500
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Eastern Asia,Asia,1740790,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Eastern Europe,Europe,8502,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Latin America and the Caribbean,Americas,557,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern Africa,Africa,460833,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern America,Americas,2010535,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern Europe,Europe,220036,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",South-eastern Asia,Asia,26447,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Southern Europe,Europe,7035338,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Western Asia,Asia,8351,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",Western Europe,Europe,10605471,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1994,1994,Import,Algeria,68,"Stone, plaster, cement, asbestos, mica, etc articles",World,World,24369500,28.0000272,2.9999825,,

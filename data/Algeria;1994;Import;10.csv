@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Algeria,10,Cereals,Australia and New Zealand,Oceania,3443
-1994,1994,Import,Algeria,10,Cereals,Eastern Asia,Asia,1327
-1994,1994,Import,Algeria,10,Cereals,Eastern Europe,Europe,844157
-1994,1994,Import,Algeria,10,Cereals,Latin America and the Caribbean,Americas,13041216
-1994,1994,Import,Algeria,10,Cereals,Northern America,Americas,571462880
-1994,1994,Import,Algeria,10,Cereals,Northern Europe,Europe,4808181
-1994,1994,Import,Algeria,10,Cereals,South-eastern Asia,Asia,20096543
-1994,1994,Import,Algeria,10,Cereals,Southern Europe,Europe,101235676
-1994,1994,Import,Algeria,10,Cereals,Western Asia,Asia,9682692
-1994,1994,Import,Algeria,10,Cereals,Western Europe,Europe,221314942
-1994,1994,Import,Algeria,10,Cereals,World,World,953645184
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Algeria,10,Cereals,Australia and New Zealand,Oceania,3443,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+1994,1994,Import,Algeria,10,Cereals,Eastern Asia,Asia,1327,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1994,1994,Import,Algeria,10,Cereals,Eastern Europe,Europe,844157,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1994,1994,Import,Algeria,10,Cereals,Latin America and the Caribbean,Americas,13041216,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1994,1994,Import,Algeria,10,Cereals,Northern America,Americas,571462880,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1994,1994,Import,Algeria,10,Cereals,Northern Europe,Europe,4808181,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1994,1994,Import,Algeria,10,Cereals,South-eastern Asia,Asia,20096543,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1994,1994,Import,Algeria,10,Cereals,Southern Europe,Europe,101235676,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1994,1994,Import,Algeria,10,Cereals,Western Asia,Asia,9682692,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1994,1994,Import,Algeria,10,Cereals,Western Europe,Europe,221314942,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1994,1994,Import,Algeria,10,Cereals,World,World,953645184,28.0000272,2.9999825,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Eastern Asia,Asia,476110
-2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Latin America and the Caribbean,Americas,7139
-2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Northern Africa,Africa,3647
-2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Northern America,Americas,216
-2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Northern Europe,Europe,47790
-2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",South-eastern Asia,Asia,7530
-2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Southern Asia,Asia,595
-2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Southern Europe,Europe,151004
-2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Western Asia,Asia,237952
-2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Western Europe,Europe,3810096
-2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",World,World,4804835
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Eastern Asia,Asia,476110,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Latin America and the Caribbean,Americas,7139,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Northern Africa,Africa,3647,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Northern America,Americas,216,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Northern Europe,Europe,47790,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",South-eastern Asia,Asia,7530,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Southern Asia,Asia,595,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Southern Europe,Europe,151004,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Western Asia,Asia,237952,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",Western Europe,Europe,3810096,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2006,2006,Import,Algeria,71,"Natural or cultured pearls, precious or semi-precious stones",World,World,4804835,28.0000272,2.9999825,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Export,Algeria,31,Fertilizers,Latin America and the Caribbean,Americas,3362704
-2004,2004,Export,Algeria,31,Fertilizers,Northern Africa,Africa,2970150
-2004,2004,Export,Algeria,31,Fertilizers,Northern America,Americas,4206119
-2004,2004,Export,Algeria,31,Fertilizers,Southern Europe,Europe,14278109
-2004,2004,Export,Algeria,31,Fertilizers,Western Asia,Asia,691203
-2004,2004,Export,Algeria,31,Fertilizers,Western Europe,Europe,14497605
-2004,2004,Export,Algeria,31,Fertilizers,World,World,44617131
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Export,Algeria,31,Fertilizers,Latin America and the Caribbean,Americas,3362704,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2004,2004,Export,Algeria,31,Fertilizers,Northern Africa,Africa,2970150,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2004,2004,Export,Algeria,31,Fertilizers,Northern America,Americas,4206119,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2004,2004,Export,Algeria,31,Fertilizers,Southern Europe,Europe,14278109,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2004,2004,Export,Algeria,31,Fertilizers,Western Asia,Asia,691203,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2004,2004,Export,Algeria,31,Fertilizers,Western Europe,Europe,14497605,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2004,2004,Export,Algeria,31,Fertilizers,World,World,44617131,28.0000272,2.9999825,,

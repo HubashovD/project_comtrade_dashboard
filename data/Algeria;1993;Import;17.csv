@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Eastern Asia,Asia,44167
-1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,64811898
-1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Northern Africa,Africa,862246
-1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Northern America,Americas,1281
-1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Northern Europe,Europe,129623
-1993,1993,Import,Algeria,17,Sugars and sugar confectionery,South-eastern Asia,Asia,3708131
-1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Southern Europe,Europe,28927446
-1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Western Asia,Asia,364822
-1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Western Europe,Europe,154474453
-1993,1993,Import,Algeria,17,Sugars and sugar confectionery,World,World,253335680
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Eastern Asia,Asia,44167,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,64811898,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Northern Africa,Africa,862246,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Northern America,Americas,1281,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Northern Europe,Europe,129623,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1993,1993,Import,Algeria,17,Sugars and sugar confectionery,South-eastern Asia,Asia,3708131,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Southern Europe,Europe,28927446,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Western Asia,Asia,364822,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1993,1993,Import,Algeria,17,Sugars and sugar confectionery,Western Europe,Europe,154474453,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1993,1993,Import,Algeria,17,Sugars and sugar confectionery,World,World,253335680,28.0000272,2.9999825,,

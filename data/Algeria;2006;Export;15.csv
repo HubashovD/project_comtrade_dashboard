@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Eastern Europe,Europe,4704
-2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Latin America and the Caribbean,Americas,114
-2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Northern Africa,Africa,320457
-2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Northern America,Americas,66368
-2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Northern Europe,Europe,845531
-2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,South-eastern Asia,Asia,44386
-2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Southern Europe,Europe,8988106
-2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Sub-Saharan Africa,Africa,16125
-2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Western Asia,Asia,29299
-2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Western Europe,Europe,3394088
-2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,World,World,18075371
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Eastern Europe,Europe,4704,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Latin America and the Caribbean,Americas,114,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Northern Africa,Africa,320457,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Northern America,Americas,66368,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Northern Europe,Europe,845531,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,South-eastern Asia,Asia,44386,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Southern Europe,Europe,8988106,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Sub-Saharan Africa,Africa,16125,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Western Asia,Asia,29299,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,Western Europe,Europe,3394088,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2006,2006,Export,Algeria,15,Animal or vegetable fats and oils,World,World,18075371,28.0000272,2.9999825,,

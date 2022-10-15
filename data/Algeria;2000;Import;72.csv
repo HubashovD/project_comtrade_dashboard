@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Algeria,72,Iron and steel,Australia and New Zealand,Oceania,1067029
-2000,2000,Import,Algeria,72,Iron and steel,Eastern Asia,Asia,7780236
-2000,2000,Import,Algeria,72,Iron and steel,Eastern Europe,Europe,209701362
-2000,2000,Import,Algeria,72,Iron and steel,Latin America and the Caribbean,Americas,3108790
-2000,2000,Import,Algeria,72,Iron and steel,Melanesia,Oceania,43398
-2000,2000,Import,Algeria,72,Iron and steel,Northern Africa,Africa,219105
-2000,2000,Import,Algeria,72,Iron and steel,Northern America,Americas,1051648
-2000,2000,Import,Algeria,72,Iron and steel,Northern Europe,Europe,7348427
-2000,2000,Import,Algeria,72,Iron and steel,South-eastern Asia,Asia,25
-2000,2000,Import,Algeria,72,Iron and steel,Southern Europe,Europe,24779082
-2000,2000,Import,Algeria,72,Iron and steel,Sub-Saharan Africa,Africa,1333763
-2000,2000,Import,Algeria,72,Iron and steel,Western Asia,Asia,55126143
-2000,2000,Import,Algeria,72,Iron and steel,Western Europe,Europe,66223731
-2000,2000,Import,Algeria,72,Iron and steel,World,World,377889974
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Algeria,72,Iron and steel,Australia and New Zealand,Oceania,1067029,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2000,2000,Import,Algeria,72,Iron and steel,Eastern Asia,Asia,7780236,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2000,2000,Import,Algeria,72,Iron and steel,Eastern Europe,Europe,209701362,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2000,2000,Import,Algeria,72,Iron and steel,Latin America and the Caribbean,Americas,3108790,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2000,2000,Import,Algeria,72,Iron and steel,Melanesia,Oceania,43398,28.0000272,2.9999825,1.0108650891006263,147.3257485906919
+2000,2000,Import,Algeria,72,Iron and steel,Northern Africa,Africa,219105,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2000,2000,Import,Algeria,72,Iron and steel,Northern America,Americas,1051648,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2000,2000,Import,Algeria,72,Iron and steel,Northern Europe,Europe,7348427,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2000,2000,Import,Algeria,72,Iron and steel,South-eastern Asia,Asia,25,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2000,2000,Import,Algeria,72,Iron and steel,Southern Europe,Europe,24779082,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2000,2000,Import,Algeria,72,Iron and steel,Sub-Saharan Africa,Africa,1333763,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2000,2000,Import,Algeria,72,Iron and steel,Western Asia,Asia,55126143,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2000,2000,Import,Algeria,72,Iron and steel,Western Europe,Europe,66223731,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2000,2000,Import,Algeria,72,Iron and steel,World,World,377889974,28.0000272,2.9999825,,

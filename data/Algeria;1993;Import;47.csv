@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1993,1993,Import,Algeria,47,"Pulp of wood, fibrous cellulosic material, waste etc",Northern America,Americas,17107860
-1993,1993,Import,Algeria,47,"Pulp of wood, fibrous cellulosic material, waste etc",Northern Europe,Europe,246498
-1993,1993,Import,Algeria,47,"Pulp of wood, fibrous cellulosic material, waste etc",Southern Europe,Europe,8926317
-1993,1993,Import,Algeria,47,"Pulp of wood, fibrous cellulosic material, waste etc",Western Europe,Europe,288442
-1993,1993,Import,Algeria,47,"Pulp of wood, fibrous cellulosic material, waste etc",World,World,30183158
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1993,1993,Import,Algeria,47,"Pulp of wood, fibrous cellulosic material, waste etc",Northern America,Americas,17107860,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1993,1993,Import,Algeria,47,"Pulp of wood, fibrous cellulosic material, waste etc",Northern Europe,Europe,246498,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1993,1993,Import,Algeria,47,"Pulp of wood, fibrous cellulosic material, waste etc",Southern Europe,Europe,8926317,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1993,1993,Import,Algeria,47,"Pulp of wood, fibrous cellulosic material, waste etc",Western Europe,Europe,288442,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1993,1993,Import,Algeria,47,"Pulp of wood, fibrous cellulosic material, waste etc",World,World,30183158,28.0000272,2.9999825,,

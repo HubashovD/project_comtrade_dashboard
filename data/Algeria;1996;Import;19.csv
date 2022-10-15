@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",Eastern Asia,Asia,19739
-1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",Northern Africa,Africa,899439
-1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,46793
-1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",Northern Europe,Europe,28693
-1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",Southern Europe,Europe,2610710
-1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,143080
-1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,14651507
-1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",World,World,21930448
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",Eastern Asia,Asia,19739,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",Northern Africa,Africa,899439,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,46793,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",Northern Europe,Europe,28693,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",Southern Europe,Europe,2610710,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,143080,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,14651507,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1996,1996,Import,Algeria,19,"Cereal, flour, starch, milk preparations and products",World,World,21930448,28.0000272,2.9999825,,

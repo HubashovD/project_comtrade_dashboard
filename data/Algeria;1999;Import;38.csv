@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Algeria,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,95496
-1999,1999,Import,Algeria,38,Miscellaneous chemical products,Eastern Asia,Asia,1012400
-1999,1999,Import,Algeria,38,Miscellaneous chemical products,Eastern Europe,Europe,218954
-1999,1999,Import,Algeria,38,Miscellaneous chemical products,Northern Africa,Africa,736737
-1999,1999,Import,Algeria,38,Miscellaneous chemical products,Northern America,Americas,10200049
-1999,1999,Import,Algeria,38,Miscellaneous chemical products,Northern Europe,Europe,19569020
-1999,1999,Import,Algeria,38,Miscellaneous chemical products,South-eastern Asia,Asia,4226
-1999,1999,Import,Algeria,38,Miscellaneous chemical products,Southern Europe,Europe,38206414
-1999,1999,Import,Algeria,38,Miscellaneous chemical products,Western Asia,Asia,890884
-1999,1999,Import,Algeria,38,Miscellaneous chemical products,Western Europe,Europe,53302281
-1999,1999,Import,Algeria,38,Miscellaneous chemical products,World,World,125728424
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Algeria,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,95496,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+1999,1999,Import,Algeria,38,Miscellaneous chemical products,Eastern Asia,Asia,1012400,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1999,1999,Import,Algeria,38,Miscellaneous chemical products,Eastern Europe,Europe,218954,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1999,1999,Import,Algeria,38,Miscellaneous chemical products,Northern Africa,Africa,736737,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1999,1999,Import,Algeria,38,Miscellaneous chemical products,Northern America,Americas,10200049,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1999,1999,Import,Algeria,38,Miscellaneous chemical products,Northern Europe,Europe,19569020,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1999,1999,Import,Algeria,38,Miscellaneous chemical products,South-eastern Asia,Asia,4226,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1999,1999,Import,Algeria,38,Miscellaneous chemical products,Southern Europe,Europe,38206414,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1999,1999,Import,Algeria,38,Miscellaneous chemical products,Western Asia,Asia,890884,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1999,1999,Import,Algeria,38,Miscellaneous chemical products,Western Europe,Europe,53302281,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1999,1999,Import,Algeria,38,Miscellaneous chemical products,World,World,125728424,28.0000272,2.9999825,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Central Asia,Asia,647
-1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Europe,Europe,2714
-1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Latin America and the Caribbean,Americas,839
-1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern America,Americas,2031
-1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern Europe,Europe,798
-1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",South-eastern Asia,Asia,2039
-1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Southern Europe,Europe,105787450
-1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Sub-Saharan Africa,Africa,559
-1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Asia,Asia,3663
-1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Europe,Europe,20392
-1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",World,World,107813728
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Central Asia,Asia,647,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Europe,Europe,2714,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Latin America and the Caribbean,Americas,839,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern America,Americas,2031,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern Europe,Europe,798,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",South-eastern Asia,Asia,2039,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Southern Europe,Europe,105787450,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Sub-Saharan Africa,Africa,559,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Asia,Asia,3663,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Europe,Europe,20392,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1996,1996,Import,Algeria,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",World,World,107813728,28.0000272,2.9999825,,

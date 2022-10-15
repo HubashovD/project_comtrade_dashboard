@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1993,1993,Import,Algeria,31,Fertilizers,Eastern Europe,Europe,498224
-1993,1993,Import,Algeria,31,Fertilizers,Northern Africa,Africa,2158439
-1993,1993,Import,Algeria,31,Fertilizers,Northern America,Americas,1186965
-1993,1993,Import,Algeria,31,Fertilizers,Northern Europe,Europe,1499
-1993,1993,Import,Algeria,31,Fertilizers,Southern Europe,Europe,10134375
-1993,1993,Import,Algeria,31,Fertilizers,Western Europe,Europe,304969
-1993,1993,Import,Algeria,31,Fertilizers,World,World,14437635
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1993,1993,Import,Algeria,31,Fertilizers,Eastern Europe,Europe,498224,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1993,1993,Import,Algeria,31,Fertilizers,Northern Africa,Africa,2158439,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1993,1993,Import,Algeria,31,Fertilizers,Northern America,Americas,1186965,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1993,1993,Import,Algeria,31,Fertilizers,Northern Europe,Europe,1499,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1993,1993,Import,Algeria,31,Fertilizers,Southern Europe,Europe,10134375,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1993,1993,Import,Algeria,31,Fertilizers,Western Europe,Europe,304969,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1993,1993,Import,Algeria,31,Fertilizers,World,World,14437635,28.0000272,2.9999825,,

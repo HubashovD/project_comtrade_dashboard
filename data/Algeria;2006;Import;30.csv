@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Algeria,30,Pharmaceutical products,Australia and New Zealand,Oceania,30629
-2006,2006,Import,Algeria,30,Pharmaceutical products,Central Asia,Asia,33928
-2006,2006,Import,Algeria,30,Pharmaceutical products,Eastern Asia,Asia,7709379
-2006,2006,Import,Algeria,30,Pharmaceutical products,Eastern Europe,Europe,418644
-2006,2006,Import,Algeria,30,Pharmaceutical products,Latin America and the Caribbean,Americas,7618935
-2006,2006,Import,Algeria,30,Pharmaceutical products,Northern Africa,Africa,6269262
-2006,2006,Import,Algeria,30,Pharmaceutical products,Northern America,Americas,9312095
-2006,2006,Import,Algeria,30,Pharmaceutical products,Northern Europe,Europe,184005563
-2006,2006,Import,Algeria,30,Pharmaceutical products,South-eastern Asia,Asia,1103250
-2006,2006,Import,Algeria,30,Pharmaceutical products,Southern Europe,Europe,115973189
-2006,2006,Import,Algeria,30,Pharmaceutical products,Sub-Saharan Africa,Africa,364010
-2006,2006,Import,Algeria,30,Pharmaceutical products,Western Asia,Asia,17542693
-2006,2006,Import,Algeria,30,Pharmaceutical products,Western Europe,Europe,722176415
-2006,2006,Import,Algeria,30,Pharmaceutical products,World,World,1188945278
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Algeria,30,Pharmaceutical products,Australia and New Zealand,Oceania,30629,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2006,2006,Import,Algeria,30,Pharmaceutical products,Central Asia,Asia,33928,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2006,2006,Import,Algeria,30,Pharmaceutical products,Eastern Asia,Asia,7709379,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2006,2006,Import,Algeria,30,Pharmaceutical products,Eastern Europe,Europe,418644,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2006,2006,Import,Algeria,30,Pharmaceutical products,Latin America and the Caribbean,Americas,7618935,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2006,2006,Import,Algeria,30,Pharmaceutical products,Northern Africa,Africa,6269262,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2006,2006,Import,Algeria,30,Pharmaceutical products,Northern America,Americas,9312095,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2006,2006,Import,Algeria,30,Pharmaceutical products,Northern Europe,Europe,184005563,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2006,2006,Import,Algeria,30,Pharmaceutical products,South-eastern Asia,Asia,1103250,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2006,2006,Import,Algeria,30,Pharmaceutical products,Southern Europe,Europe,115973189,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2006,2006,Import,Algeria,30,Pharmaceutical products,Sub-Saharan Africa,Africa,364010,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2006,2006,Import,Algeria,30,Pharmaceutical products,Western Asia,Asia,17542693,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2006,2006,Import,Algeria,30,Pharmaceutical products,Western Europe,Europe,722176415,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2006,2006,Import,Algeria,30,Pharmaceutical products,World,World,1188945278,28.0000272,2.9999825,,

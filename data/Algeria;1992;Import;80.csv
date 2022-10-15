@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Import,Algeria,80,Tin and articles thereof,Eastern Asia,Asia,584
-1992,1992,Import,Algeria,80,Tin and articles thereof,Northern Africa,Africa,6471
-1992,1992,Import,Algeria,80,Tin and articles thereof,Northern America,Americas,700
-1992,1992,Import,Algeria,80,Tin and articles thereof,Northern Europe,Europe,10912
-1992,1992,Import,Algeria,80,Tin and articles thereof,South-eastern Asia,Asia,512760
-1992,1992,Import,Algeria,80,Tin and articles thereof,Southern Europe,Europe,293900
-1992,1992,Import,Algeria,80,Tin and articles thereof,Western Europe,Europe,101995
-1992,1992,Import,Algeria,80,Tin and articles thereof,World,World,944564
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Import,Algeria,80,Tin and articles thereof,Eastern Asia,Asia,584,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1992,1992,Import,Algeria,80,Tin and articles thereof,Northern Africa,Africa,6471,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1992,1992,Import,Algeria,80,Tin and articles thereof,Northern America,Americas,700,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1992,1992,Import,Algeria,80,Tin and articles thereof,Northern Europe,Europe,10912,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1992,1992,Import,Algeria,80,Tin and articles thereof,South-eastern Asia,Asia,512760,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1992,1992,Import,Algeria,80,Tin and articles thereof,Southern Europe,Europe,293900,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1992,1992,Import,Algeria,80,Tin and articles thereof,Western Europe,Europe,101995,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1992,1992,Import,Algeria,80,Tin and articles thereof,World,World,944564,28.0000272,2.9999825,,

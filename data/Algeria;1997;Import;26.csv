@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Algeria,26,"Ores, slag and ash",Northern Europe,Europe,165917
-1997,1997,Import,Algeria,26,"Ores, slag and ash",Southern Europe,Europe,162216
-1997,1997,Import,Algeria,26,"Ores, slag and ash",Western Europe,Europe,26644
-1997,1997,Import,Algeria,26,"Ores, slag and ash",World,World,426069
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Algeria,26,"Ores, slag and ash",Northern Europe,Europe,165917,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1997,1997,Import,Algeria,26,"Ores, slag and ash",Southern Europe,Europe,162216,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1997,1997,Import,Algeria,26,"Ores, slag and ash",Western Europe,Europe,26644,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1997,1997,Import,Algeria,26,"Ores, slag and ash",World,World,426069,28.0000272,2.9999825,,

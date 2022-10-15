@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Algeria,85,"Electrical, electronic equipment",Eastern Europe,Europe,18044
-1999,1999,Export,Algeria,85,"Electrical, electronic equipment",Northern Africa,Africa,20350
-1999,1999,Export,Algeria,85,"Electrical, electronic equipment",Northern America,Americas,27454
-1999,1999,Export,Algeria,85,"Electrical, electronic equipment",Northern Europe,Europe,648157
-1999,1999,Export,Algeria,85,"Electrical, electronic equipment",Southern Europe,Europe,327141
-1999,1999,Export,Algeria,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,72020
-1999,1999,Export,Algeria,85,"Electrical, electronic equipment",Western Europe,Europe,1877378
-1999,1999,Export,Algeria,85,"Electrical, electronic equipment",World,World,3204805
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Algeria,85,"Electrical, electronic equipment",Eastern Europe,Europe,18044,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1999,1999,Export,Algeria,85,"Electrical, electronic equipment",Northern Africa,Africa,20350,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1999,1999,Export,Algeria,85,"Electrical, electronic equipment",Northern America,Americas,27454,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1999,1999,Export,Algeria,85,"Electrical, electronic equipment",Northern Europe,Europe,648157,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1999,1999,Export,Algeria,85,"Electrical, electronic equipment",Southern Europe,Europe,327141,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1999,1999,Export,Algeria,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,72020,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1999,1999,Export,Algeria,85,"Electrical, electronic equipment",Western Europe,Europe,1877378,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1999,1999,Export,Algeria,85,"Electrical, electronic equipment",World,World,3204805,28.0000272,2.9999825,,

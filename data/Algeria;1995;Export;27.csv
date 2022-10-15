@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Eastern Asia,Asia,195862105
-1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,89142623
-1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Latin America and the Caribbean,Americas,265411601
-1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern Africa,Africa,90322912
-1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,1781772576
-1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,216931389
-1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",South-eastern Asia,Asia,46008300
-1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Southern Asia,Asia,2649726
-1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,2789497697
-1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Sub-Saharan Africa,Africa,16484472
-1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,311695616
-1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,2587802296
-1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",World,World,8909009920
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Eastern Asia,Asia,195862105,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,89142623,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Latin America and the Caribbean,Americas,265411601,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern Africa,Africa,90322912,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,1781772576,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,216931389,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",South-eastern Asia,Asia,46008300,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Southern Asia,Asia,2649726,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,2789497697,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Sub-Saharan Africa,Africa,16484472,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,311695616,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,2587802296,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1995,1995,Export,Algeria,27,"Mineral fuels, oils, distillation products, etc",World,World,8909009920,28.0000272,2.9999825,,

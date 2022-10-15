@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern America,Americas,368061
-1999,1999,Export,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern Europe,Europe,60402
-1999,1999,Export,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Southern Europe,Europe,391582
-1999,1999,Export,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Sub-Saharan Africa,Africa,16871
-1999,1999,Export,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Europe,Europe,14527594
-1999,1999,Export,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",World,World,15455427
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern America,Americas,368061,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1999,1999,Export,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern Europe,Europe,60402,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1999,1999,Export,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Southern Europe,Europe,391582,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1999,1999,Export,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Sub-Saharan Africa,Africa,16871,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1999,1999,Export,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Europe,Europe,14527594,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1999,1999,Export,Algeria,8,"Edible fruit, nuts, peel of citrus fruit, melons",World,World,15455427,28.0000272,2.9999825,,

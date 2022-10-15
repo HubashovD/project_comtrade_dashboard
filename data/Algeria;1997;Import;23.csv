@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Latin America and the Caribbean,Americas,803345
-1997,1997,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Northern America,Americas,85131107
-1997,1997,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,65513
-1997,1997,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,33510
-1997,1997,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Western Asia,Asia,820
-1997,1997,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,3030622
-1997,1997,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",World,World,89842768
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Latin America and the Caribbean,Americas,803345,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+1997,1997,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Northern America,Americas,85131107,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1997,1997,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,65513,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1997,1997,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,33510,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1997,1997,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Western Asia,Asia,820,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+1997,1997,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,3030622,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1997,1997,Import,Algeria,23,"Residues, wastes of food industry, animal fodder",World,World,89842768,28.0000272,2.9999825,,

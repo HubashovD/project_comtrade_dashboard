@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Central Asia,Asia,10969
-2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Eastern Asia,Asia,13325178
-2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Eastern Europe,Europe,8486
-2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Latin America and the Caribbean,Americas,295044
-2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Northern Africa,Africa,76494
-2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Northern America,Americas,84851
-2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Northern Europe,Europe,130535
-2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",South-eastern Asia,Asia,92676
-2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Southern Europe,Europe,2542193
-2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Western Asia,Asia,226135
-2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Western Europe,Europe,1661348
-2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",World,World,18665769
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Central Asia,Asia,10969,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Eastern Asia,Asia,13325178,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Eastern Europe,Europe,8486,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Latin America and the Caribbean,Americas,295044,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Northern Africa,Africa,76494,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Northern America,Americas,84851,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Northern Europe,Europe,130535,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",South-eastern Asia,Asia,92676,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Southern Europe,Europe,2542193,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Western Asia,Asia,226135,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",Western Europe,Europe,1661348,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2000,2000,Import,Algeria,64,"Footwear, gaiters and the like, parts thereof",World,World,18665769,28.0000272,2.9999825,,

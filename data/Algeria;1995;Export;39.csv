@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Algeria,39,Plastics and articles thereof,Eastern Europe,Europe,539
-1995,1995,Export,Algeria,39,Plastics and articles thereof,Northern Africa,Africa,80561
-1995,1995,Export,Algeria,39,Plastics and articles thereof,Northern America,Americas,7981
-1995,1995,Export,Algeria,39,Plastics and articles thereof,Southern Europe,Europe,50360
-1995,1995,Export,Algeria,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,583
-1995,1995,Export,Algeria,39,Plastics and articles thereof,Western Europe,Europe,42925
-1995,1995,Export,Algeria,39,Plastics and articles thereof,World,World,183659
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Algeria,39,Plastics and articles thereof,Eastern Europe,Europe,539,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1995,1995,Export,Algeria,39,Plastics and articles thereof,Northern Africa,Africa,80561,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1995,1995,Export,Algeria,39,Plastics and articles thereof,Northern America,Americas,7981,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1995,1995,Export,Algeria,39,Plastics and articles thereof,Southern Europe,Europe,50360,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1995,1995,Export,Algeria,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,583,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1995,1995,Export,Algeria,39,Plastics and articles thereof,Western Europe,Europe,42925,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1995,1995,Export,Algeria,39,Plastics and articles thereof,World,World,183659,28.0000272,2.9999825,,

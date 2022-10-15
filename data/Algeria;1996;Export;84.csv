@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",Eastern Europe,Europe,19200891
-1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",Northern Africa,Africa,421200
-1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,201475
-1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,851
-1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,9666
-1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,42669
-1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,10745
-1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,1791406
-1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",World,World,25363752
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",Eastern Europe,Europe,19200891,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",Northern Africa,Africa,421200,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,201475,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,851,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,9666,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,42669,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,10745,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,1791406,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+1996,1996,Export,Algeria,84,"Nuclear reactors, boilers, machinery, etc",World,World,25363752,28.0000272,2.9999825,,

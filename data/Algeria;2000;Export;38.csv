@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Algeria,38,Miscellaneous chemical products,Northern Europe,Europe,67
-2000,2000,Export,Algeria,38,Miscellaneous chemical products,Southern Europe,Europe,1463
-2000,2000,Export,Algeria,38,Miscellaneous chemical products,Western Europe,Europe,1975
-2000,2000,Export,Algeria,38,Miscellaneous chemical products,World,World,3505
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Algeria,38,Miscellaneous chemical products,Northern Europe,Europe,67,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2000,2000,Export,Algeria,38,Miscellaneous chemical products,Southern Europe,Europe,1463,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2000,2000,Export,Algeria,38,Miscellaneous chemical products,Western Europe,Europe,1975,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2000,2000,Export,Algeria,38,Miscellaneous chemical products,World,World,3505,28.0000272,2.9999825,,
