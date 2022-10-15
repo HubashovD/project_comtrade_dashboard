@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Australia and New Zealand,Oceania,2833
-1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,1151866
-1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,2221729
-1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Latin America and the Caribbean,Americas,46372
-1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,224435
-1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,10904571
-1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,754528
-1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,2372366
-1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Sub-Saharan Africa,Africa,163147
-1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,835
-1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,14005879
-1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",World,World,44148940
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Australia and New Zealand,Oceania,2833,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,1151866,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,2221729,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Latin America and the Caribbean,Americas,46372,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,224435,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,10904571,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,754528,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,2372366,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Sub-Saharan Africa,Africa,163147,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,835,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,14005879,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1995,1995,Import,Cyprus,71,"Pearls, precious stones, metals, coins, etc",World,World,44148940,34.9823018,33.1451285,,

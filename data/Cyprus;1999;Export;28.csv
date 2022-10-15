@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,2759
-1999,1999,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Asia,Asia,558
-1999,1999,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Europe,Europe,12903
-1999,1999,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Sub-Saharan Africa,Africa,32692
-1999,1999,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,72102
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,2759,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Asia,Asia,558,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1999,1999,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Europe,Europe,12903,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Sub-Saharan Africa,Africa,32692,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1999,1999,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,72102,34.9823018,33.1451285,,

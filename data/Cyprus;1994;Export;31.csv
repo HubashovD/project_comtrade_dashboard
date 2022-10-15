@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Export,Cyprus,31,Fertilizers,Northern Africa,Africa,18769
-1994,1994,Export,Cyprus,31,Fertilizers,Southern Europe,Europe,24133
-1994,1994,Export,Cyprus,31,Fertilizers,Western Asia,Asia,43543
-1994,1994,Export,Cyprus,31,Fertilizers,World,World,154132
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Export,Cyprus,31,Fertilizers,Northern Africa,Africa,18769,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1994,1994,Export,Cyprus,31,Fertilizers,Southern Europe,Europe,24133,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1994,1994,Export,Cyprus,31,Fertilizers,Western Asia,Asia,43543,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1994,1994,Export,Cyprus,31,Fertilizers,World,World,154132,34.9823018,33.1451285,,

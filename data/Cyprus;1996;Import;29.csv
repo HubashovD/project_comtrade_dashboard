@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Cyprus,29,Organic chemicals,Eastern Asia,Asia,2962123
-1996,1996,Import,Cyprus,29,Organic chemicals,Eastern Europe,Europe,1061212
-1996,1996,Import,Cyprus,29,Organic chemicals,Latin America and the Caribbean,Americas,1033199
-1996,1996,Import,Cyprus,29,Organic chemicals,Northern America,Americas,1380906
-1996,1996,Import,Cyprus,29,Organic chemicals,Northern Europe,Europe,2399309
-1996,1996,Import,Cyprus,29,Organic chemicals,South-eastern Asia,Asia,689607
-1996,1996,Import,Cyprus,29,Organic chemicals,Southern Europe,Europe,7834275
-1996,1996,Import,Cyprus,29,Organic chemicals,Western Europe,Europe,9160265
-1996,1996,Import,Cyprus,29,Organic chemicals,World,World,36536740
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Cyprus,29,Organic chemicals,Eastern Asia,Asia,2962123,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1996,1996,Import,Cyprus,29,Organic chemicals,Eastern Europe,Europe,1061212,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1996,1996,Import,Cyprus,29,Organic chemicals,Latin America and the Caribbean,Americas,1033199,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1996,1996,Import,Cyprus,29,Organic chemicals,Northern America,Americas,1380906,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1996,1996,Import,Cyprus,29,Organic chemicals,Northern Europe,Europe,2399309,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1996,1996,Import,Cyprus,29,Organic chemicals,South-eastern Asia,Asia,689607,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1996,1996,Import,Cyprus,29,Organic chemicals,Southern Europe,Europe,7834275,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1996,1996,Import,Cyprus,29,Organic chemicals,Western Europe,Europe,9160265,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1996,1996,Import,Cyprus,29,Organic chemicals,World,World,36536740,34.9823018,33.1451285,,

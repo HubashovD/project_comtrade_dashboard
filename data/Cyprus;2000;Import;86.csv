@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Cyprus,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Asia,Asia,609
-2000,2000,Import,Cyprus,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,5310
-2000,2000,Import,Cyprus,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,6428
-2000,2000,Import,Cyprus,86,"Railway, tramway locomotives, rolling stock, equipment",Southern Europe,Europe,47241
-2000,2000,Import,Cyprus,86,"Railway, tramway locomotives, rolling stock, equipment",Sub-Saharan Africa,Africa,1601
-2000,2000,Import,Cyprus,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,7582
-2000,2000,Import,Cyprus,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,72782
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Cyprus,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Asia,Asia,609,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Import,Cyprus,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,5310,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Import,Cyprus,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,6428,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Import,Cyprus,86,"Railway, tramway locomotives, rolling stock, equipment",Southern Europe,Europe,47241,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Import,Cyprus,86,"Railway, tramway locomotives, rolling stock, equipment",Sub-Saharan Africa,Africa,1601,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Import,Cyprus,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,7582,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Import,Cyprus,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,72782,34.9823018,33.1451285,,

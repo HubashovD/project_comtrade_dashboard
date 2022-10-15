@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Australia and New Zealand,Oceania,205124
-1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Asia,Asia,3331665
-1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Europe,Europe,1096384
-1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Latin America and the Caribbean,Americas,91513
-1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Northern Africa,Africa,275248
-1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Northern America,Americas,2026317
-1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Northern Europe,Europe,9150112
-1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",South-eastern Asia,Asia,3029499
-1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Southern Asia,Asia,58627
-1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Southern Europe,Europe,40424430
-1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Sub-Saharan Africa,Africa,8171
-1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Western Asia,Asia,144631
-1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Western Europe,Europe,9182883
-1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",World,World,74047136
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Australia and New Zealand,Oceania,205124,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Asia,Asia,3331665,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Europe,Europe,1096384,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Latin America and the Caribbean,Americas,91513,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Northern Africa,Africa,275248,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Northern America,Americas,2026317,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Northern Europe,Europe,9150112,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",South-eastern Asia,Asia,3029499,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Southern Asia,Asia,58627,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Southern Europe,Europe,40424430,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Sub-Saharan Africa,Africa,8171,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Western Asia,Asia,144631,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",Western Europe,Europe,9182883,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Import,Cyprus,94,"Furniture, lighting, signs, prefabricated buildings",World,World,74047136,34.9823018,33.1451285,,

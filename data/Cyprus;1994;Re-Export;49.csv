@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,19425
-1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,10924
-1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,46870
-1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Southern Asia,Asia,7490
-1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,1718548
-1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,21754
-1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,3644
-1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",World,World,1870601
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,19425,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,10924,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,46870,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Southern Asia,Asia,7490,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,1718548,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,21754,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,3644,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1994,1994,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",World,World,1870601,34.9823018,33.1451285,,

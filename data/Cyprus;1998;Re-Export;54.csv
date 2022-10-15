@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Re-Export,Cyprus,54,Manmade filaments,Eastern Europe,Europe,570
-1998,1998,Re-Export,Cyprus,54,Manmade filaments,Northern Africa,Africa,17845
-1998,1998,Re-Export,Cyprus,54,Manmade filaments,Northern Europe,Europe,2505
-1998,1998,Re-Export,Cyprus,54,Manmade filaments,Southern Europe,Europe,102298
-1998,1998,Re-Export,Cyprus,54,Manmade filaments,Sub-Saharan Africa,Africa,1616049
-1998,1998,Re-Export,Cyprus,54,Manmade filaments,Western Asia,Asia,719008
-1998,1998,Re-Export,Cyprus,54,Manmade filaments,Western Europe,Europe,31417
-1998,1998,Re-Export,Cyprus,54,Manmade filaments,World,World,2518545
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Re-Export,Cyprus,54,Manmade filaments,Eastern Europe,Europe,570,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1998,1998,Re-Export,Cyprus,54,Manmade filaments,Northern Africa,Africa,17845,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1998,1998,Re-Export,Cyprus,54,Manmade filaments,Northern Europe,Europe,2505,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1998,1998,Re-Export,Cyprus,54,Manmade filaments,Southern Europe,Europe,102298,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1998,1998,Re-Export,Cyprus,54,Manmade filaments,Sub-Saharan Africa,Africa,1616049,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1998,1998,Re-Export,Cyprus,54,Manmade filaments,Western Asia,Asia,719008,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1998,1998,Re-Export,Cyprus,54,Manmade filaments,Western Europe,Europe,31417,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1998,1998,Re-Export,Cyprus,54,Manmade filaments,World,World,2518545,34.9823018,33.1451285,,

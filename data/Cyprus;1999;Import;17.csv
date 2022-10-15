@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Australia and New Zealand,Oceania,5220
-1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Eastern Asia,Asia,28744
-1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Eastern Europe,Europe,99256
-1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,91492
-1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Northern Africa,Africa,7327
-1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Northern America,Americas,167450
-1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Northern Europe,Europe,4609218
-1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,South-eastern Asia,Asia,113333
-1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Southern Europe,Europe,1702015
-1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,12253
-1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Western Europe,Europe,4855669
-1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,World,World,11808163
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Australia and New Zealand,Oceania,5220,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Eastern Asia,Asia,28744,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Eastern Europe,Europe,99256,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,91492,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Northern Africa,Africa,7327,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Northern America,Americas,167450,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Northern Europe,Europe,4609218,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,South-eastern Asia,Asia,113333,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Southern Europe,Europe,1702015,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,12253,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,Western Europe,Europe,4855669,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Import,Cyprus,17,Sugars and sugar confectionery,World,World,11808163,34.9823018,33.1451285,,

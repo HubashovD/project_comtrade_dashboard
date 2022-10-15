@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Australia and New Zealand,Oceania,7744
-1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Eastern Asia,Asia,77219
-1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Eastern Europe,Europe,13001
-1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Northern America,Americas,341031
-1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Northern Europe,Europe,708281
-1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",South-eastern Asia,Asia,2270
-1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Southern Europe,Europe,1206689
-1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Western Asia,Asia,3596
-1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Western Europe,Europe,1213109
-1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",World,World,3697220
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Australia and New Zealand,Oceania,7744,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Eastern Asia,Asia,77219,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Eastern Europe,Europe,13001,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Northern America,Americas,341031,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Northern Europe,Europe,708281,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",South-eastern Asia,Asia,2270,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Southern Europe,Europe,1206689,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Western Asia,Asia,3596,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",Western Europe,Europe,1213109,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Import,Cyprus,59,"Impregnated, coated or laminated textile fabric",World,World,3697220,34.9823018,33.1451285,,

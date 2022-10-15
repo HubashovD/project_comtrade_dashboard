@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Australia and New Zealand,Oceania,3499
-2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Eastern Europe,Europe,16741
-2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern Africa,Africa,300111
-2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern America,Americas,239781
-2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern Europe,Europe,541868
-2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Southern Europe,Europe,567662
-2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Sub-Saharan Africa,Africa,147
-2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Asia,Asia,21
-2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Europe,Europe,88982
-2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",World,World,1790427
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Australia and New Zealand,Oceania,3499,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Eastern Europe,Europe,16741,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern Africa,Africa,300111,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern America,Americas,239781,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern Europe,Europe,541868,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Southern Europe,Europe,567662,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Sub-Saharan Africa,Africa,147,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Asia,Asia,21,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Europe,Europe,88982,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",World,World,1790427,34.9823018,33.1451285,,

@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Re-Export,Cyprus,29,Organic chemicals,Northern Africa,Africa,65378
-1995,1995,Re-Export,Cyprus,29,Organic chemicals,Northern Europe,Europe,14397
-1995,1995,Re-Export,Cyprus,29,Organic chemicals,Southern Europe,Europe,111059
-1995,1995,Re-Export,Cyprus,29,Organic chemicals,Western Europe,Europe,8728
-1995,1995,Re-Export,Cyprus,29,Organic chemicals,World,World,249043
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Re-Export,Cyprus,29,Organic chemicals,Northern Africa,Africa,65378,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1995,1995,Re-Export,Cyprus,29,Organic chemicals,Northern Europe,Europe,14397,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1995,1995,Re-Export,Cyprus,29,Organic chemicals,Southern Europe,Europe,111059,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1995,1995,Re-Export,Cyprus,29,Organic chemicals,Western Europe,Europe,8728,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1995,1995,Re-Export,Cyprus,29,Organic chemicals,World,World,249043,34.9823018,33.1451285,,

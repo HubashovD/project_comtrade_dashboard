@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Cyprus,40,Rubber and articles thereof,Eastern Europe,Europe,19963
-1995,1995,Export,Cyprus,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,116173
-1995,1995,Export,Cyprus,40,Rubber and articles thereof,Northern Europe,Europe,45716
-1995,1995,Export,Cyprus,40,Rubber and articles thereof,Southern Asia,Asia,152302
-1995,1995,Export,Cyprus,40,Rubber and articles thereof,Southern Europe,Europe,1723262
-1995,1995,Export,Cyprus,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,5606
-1995,1995,Export,Cyprus,40,Rubber and articles thereof,Western Europe,Europe,33391
-1995,1995,Export,Cyprus,40,Rubber and articles thereof,World,World,3086957
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Cyprus,40,Rubber and articles thereof,Eastern Europe,Europe,19963,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1995,1995,Export,Cyprus,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,116173,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1995,1995,Export,Cyprus,40,Rubber and articles thereof,Northern Europe,Europe,45716,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1995,1995,Export,Cyprus,40,Rubber and articles thereof,Southern Asia,Asia,152302,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1995,1995,Export,Cyprus,40,Rubber and articles thereof,Southern Europe,Europe,1723262,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1995,1995,Export,Cyprus,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,5606,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1995,1995,Export,Cyprus,40,Rubber and articles thereof,Western Europe,Europe,33391,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1995,1995,Export,Cyprus,40,Rubber and articles thereof,World,World,3086957,34.9823018,33.1451285,,

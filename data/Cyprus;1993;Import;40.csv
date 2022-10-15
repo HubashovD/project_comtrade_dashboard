@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1993,1993,Import,Cyprus,40,Rubber and articles thereof,Australia and New Zealand,Oceania,154659
-1993,1993,Import,Cyprus,40,Rubber and articles thereof,Eastern Asia,Asia,4280629
-1993,1993,Import,Cyprus,40,Rubber and articles thereof,Eastern Europe,Europe,936347
-1993,1993,Import,Cyprus,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,156301
-1993,1993,Import,Cyprus,40,Rubber and articles thereof,Northern America,Americas,1715496
-1993,1993,Import,Cyprus,40,Rubber and articles thereof,Northern Europe,Europe,5892133
-1993,1993,Import,Cyprus,40,Rubber and articles thereof,South-eastern Asia,Asia,564776
-1993,1993,Import,Cyprus,40,Rubber and articles thereof,Southern Asia,Asia,8097
-1993,1993,Import,Cyprus,40,Rubber and articles thereof,Southern Europe,Europe,5750357
-1993,1993,Import,Cyprus,40,Rubber and articles thereof,Western Europe,Europe,5910825
-1993,1993,Import,Cyprus,40,Rubber and articles thereof,World,World,28585164
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1993,1993,Import,Cyprus,40,Rubber and articles thereof,Australia and New Zealand,Oceania,154659,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1993,1993,Import,Cyprus,40,Rubber and articles thereof,Eastern Asia,Asia,4280629,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1993,1993,Import,Cyprus,40,Rubber and articles thereof,Eastern Europe,Europe,936347,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1993,1993,Import,Cyprus,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,156301,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1993,1993,Import,Cyprus,40,Rubber and articles thereof,Northern America,Americas,1715496,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1993,1993,Import,Cyprus,40,Rubber and articles thereof,Northern Europe,Europe,5892133,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1993,1993,Import,Cyprus,40,Rubber and articles thereof,South-eastern Asia,Asia,564776,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1993,1993,Import,Cyprus,40,Rubber and articles thereof,Southern Asia,Asia,8097,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1993,1993,Import,Cyprus,40,Rubber and articles thereof,Southern Europe,Europe,5750357,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1993,1993,Import,Cyprus,40,Rubber and articles thereof,Western Europe,Europe,5910825,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1993,1993,Import,Cyprus,40,Rubber and articles thereof,World,World,28585164,34.9823018,33.1451285,,

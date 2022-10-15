@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Eastern Europe,Europe,261327
-1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Northern Africa,Africa,601
-1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Northern Europe,Europe,8733
-1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Asia,Asia,50535
-1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Europe,Europe,202539
-1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Sub-Saharan Africa,Africa,95050
-1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Western Asia,Asia,4914832
-1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Western Europe,Europe,7068
-1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",World,World,12098346
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Eastern Europe,Europe,261327,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Northern Africa,Africa,601,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Northern Europe,Europe,8733,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Asia,Asia,50535,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Europe,Europe,202539,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Sub-Saharan Africa,Africa,95050,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Western Asia,Asia,4914832,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Western Europe,Europe,7068,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1994,1994,Export,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",World,World,12098346,34.9823018,33.1451285,,

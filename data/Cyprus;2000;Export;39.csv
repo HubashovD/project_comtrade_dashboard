@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Cyprus,39,Plastics and articles thereof,Australia and New Zealand,Oceania,21679
-2000,2000,Export,Cyprus,39,Plastics and articles thereof,Eastern Asia,Asia,20753
-2000,2000,Export,Cyprus,39,Plastics and articles thereof,Eastern Europe,Europe,389880
-2000,2000,Export,Cyprus,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,9901
-2000,2000,Export,Cyprus,39,Plastics and articles thereof,Northern Africa,Africa,160785
-2000,2000,Export,Cyprus,39,Plastics and articles thereof,Northern America,Americas,55966
-2000,2000,Export,Cyprus,39,Plastics and articles thereof,Northern Europe,Europe,472540
-2000,2000,Export,Cyprus,39,Plastics and articles thereof,South-eastern Asia,Asia,313
-2000,2000,Export,Cyprus,39,Plastics and articles thereof,Southern Asia,Asia,12641
-2000,2000,Export,Cyprus,39,Plastics and articles thereof,Southern Europe,Europe,2786290
-2000,2000,Export,Cyprus,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,103832
-2000,2000,Export,Cyprus,39,Plastics and articles thereof,Western Asia,Asia,226589
-2000,2000,Export,Cyprus,39,Plastics and articles thereof,Western Europe,Europe,776090
-2000,2000,Export,Cyprus,39,Plastics and articles thereof,World,World,7745623
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Cyprus,39,Plastics and articles thereof,Australia and New Zealand,Oceania,21679,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2000,2000,Export,Cyprus,39,Plastics and articles thereof,Eastern Asia,Asia,20753,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Export,Cyprus,39,Plastics and articles thereof,Eastern Europe,Europe,389880,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Export,Cyprus,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,9901,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2000,2000,Export,Cyprus,39,Plastics and articles thereof,Northern Africa,Africa,160785,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Export,Cyprus,39,Plastics and articles thereof,Northern America,Americas,55966,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Export,Cyprus,39,Plastics and articles thereof,Northern Europe,Europe,472540,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Export,Cyprus,39,Plastics and articles thereof,South-eastern Asia,Asia,313,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2000,2000,Export,Cyprus,39,Plastics and articles thereof,Southern Asia,Asia,12641,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2000,2000,Export,Cyprus,39,Plastics and articles thereof,Southern Europe,Europe,2786290,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Export,Cyprus,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,103832,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Export,Cyprus,39,Plastics and articles thereof,Western Asia,Asia,226589,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Export,Cyprus,39,Plastics and articles thereof,Western Europe,Europe,776090,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Export,Cyprus,39,Plastics and articles thereof,World,World,7745623,34.9823018,33.1451285,,

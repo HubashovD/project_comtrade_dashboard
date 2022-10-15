@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Australia and New Zealand,Oceania,71663
-1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Eastern Asia,Asia,32076
-1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Eastern Europe,Europe,197659
-1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Latin America and the Caribbean,Americas,655638
-1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Northern Africa,Africa,311015
-1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Northern America,Americas,717551
-1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Northern Europe,Europe,1462971
-1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,South-eastern Asia,Asia,48287
-1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Southern Asia,Asia,10101
-1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Southern Europe,Europe,1994453
-1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Sub-Saharan Africa,Africa,522
-1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Western Asia,Asia,164727
-1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Western Europe,Europe,7484105
-1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,World,World,14249256
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Australia and New Zealand,Oceania,71663,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Eastern Asia,Asia,32076,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Eastern Europe,Europe,197659,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Latin America and the Caribbean,Americas,655638,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Northern Africa,Africa,311015,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Northern America,Americas,717551,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Northern Europe,Europe,1462971,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,South-eastern Asia,Asia,48287,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Southern Asia,Asia,10101,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Southern Europe,Europe,1994453,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Sub-Saharan Africa,Africa,522,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Western Asia,Asia,164727,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,Western Europe,Europe,7484105,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1994,1994,Import,Cyprus,7,Edible vegetables and certain roots and tubers,World,World,14249256,34.9823018,33.1451285,,

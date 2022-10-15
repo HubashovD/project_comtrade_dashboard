@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Australia and New Zealand,Oceania,578
-1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,17701
-1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,1661
-1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Northern America,Americas,3564
-1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,35804
-1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",South-eastern Asia,Asia,4349
-1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Southern Asia,Asia,2700
-1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,4946003
-1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,3179
-1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,9123
-1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",World,World,5101586
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Australia and New Zealand,Oceania,578,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,17701,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,1661,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Northern America,Americas,3564,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,35804,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",South-eastern Asia,Asia,4349,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Southern Asia,Asia,2700,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,4946003,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,3179,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,9123,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1998,1998,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",World,World,5101586,34.9823018,33.1451285,,

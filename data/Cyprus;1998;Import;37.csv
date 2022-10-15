@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,Eastern Asia,Asia,1997124
-1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,Eastern Europe,Europe,954
-1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,Latin America and the Caribbean,Americas,28657
-1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,Northern America,Americas,429341
-1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,Northern Europe,Europe,3766818
-1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,South-eastern Asia,Asia,46852
-1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,Southern Europe,Europe,1393934
-1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,Western Europe,Europe,2521718
-1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,World,World,10562207
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,Eastern Asia,Asia,1997124,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,Eastern Europe,Europe,954,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,Latin America and the Caribbean,Americas,28657,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,Northern America,Americas,429341,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,Northern Europe,Europe,3766818,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,South-eastern Asia,Asia,46852,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,Southern Europe,Europe,1393934,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,Western Europe,Europe,2521718,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1998,1998,Import,Cyprus,37,Photographic or cinematographic goods,World,World,10562207,34.9823018,33.1451285,,

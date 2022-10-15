@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Australia and New Zealand,Oceania,30183
-1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Eastern Asia,Asia,113601
-1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Eastern Europe,Europe,141687
-1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Latin America and the Caribbean,Americas,3721876
-1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern Africa,Africa,16379
-1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern America,Americas,3094155
-1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern Europe,Europe,137848
-1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",South-eastern Asia,Asia,234769
-1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Southern Europe,Europe,1404524
-1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Sub-Saharan Africa,Africa,630622
-1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Western Asia,Asia,4209
-1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Western Europe,Europe,980286
-1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",World,World,11698152
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Australia and New Zealand,Oceania,30183,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Eastern Asia,Asia,113601,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Eastern Europe,Europe,141687,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Latin America and the Caribbean,Americas,3721876,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern Africa,Africa,16379,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern America,Americas,3094155,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern Europe,Europe,137848,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",South-eastern Asia,Asia,234769,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Southern Europe,Europe,1404524,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Sub-Saharan Africa,Africa,630622,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Western Asia,Asia,4209,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Western Europe,Europe,980286,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1994,1994,Import,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",World,World,11698152,34.9823018,33.1451285,,

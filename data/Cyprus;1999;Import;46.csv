@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Eastern Asia,Asia,419906
-1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Northern Africa,Africa,49573
-1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Northern America,Americas,5968
-1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Northern Europe,Europe,10304
-1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",South-eastern Asia,Asia,113086
-1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Southern Asia,Asia,8912
-1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Southern Europe,Europe,77014
-1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Western Asia,Asia,3842
-1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Western Europe,Europe,12718
-1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",World,World,915582
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Eastern Asia,Asia,419906,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Northern Africa,Africa,49573,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Northern America,Americas,5968,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Northern Europe,Europe,10304,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",South-eastern Asia,Asia,113086,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Southern Asia,Asia,8912,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Southern Europe,Europe,77014,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Western Asia,Asia,3842,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",Western Europe,Europe,12718,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Import,Cyprus,46,"Manufactures of plaiting material, basketwork, etc.",World,World,915582,34.9823018,33.1451285,,

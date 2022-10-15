@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Australia and New Zealand,Oceania,37
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Eastern Asia,Asia,13338883
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Eastern Europe,Europe,731835
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Latin America and the Caribbean,Americas,155896
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Micronesia,Oceania,1193
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Northern Africa,Africa,823407
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Northern America,Americas,376943
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Northern Europe,Europe,8546926
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",South-eastern Asia,Asia,2785458
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Southern Asia,Asia,1778118
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Southern Europe,Europe,27204337
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Sub-Saharan Africa,Africa,215873
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Western Asia,Asia,745954
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Western Europe,Europe,2872787
-2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",World,World,62981962
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Australia and New Zealand,Oceania,37,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Eastern Asia,Asia,13338883,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Eastern Europe,Europe,731835,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Latin America and the Caribbean,Americas,155896,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Micronesia,Oceania,1193,34.9823018,33.1451285,6.418559504495792,157.6364476938912
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Northern Africa,Africa,823407,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Northern America,Americas,376943,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Northern Europe,Europe,8546926,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",South-eastern Asia,Asia,2785458,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Southern Asia,Asia,1778118,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Southern Europe,Europe,27204337,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Sub-Saharan Africa,Africa,215873,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Western Asia,Asia,745954,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Western Europe,Europe,2872787,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Import,Cyprus,61,"Articles of apparel, accessories, knit or crochet",World,World,62981962,34.9823018,33.1451285,,

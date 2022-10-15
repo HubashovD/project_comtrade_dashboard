@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Cyprus,54,Manmade filaments,Eastern Asia,Asia,2363956
-2000,2000,Import,Cyprus,54,Manmade filaments,Eastern Europe,Europe,39210
-2000,2000,Import,Cyprus,54,Manmade filaments,Northern Africa,Africa,9640
-2000,2000,Import,Cyprus,54,Manmade filaments,Northern America,Americas,194362
-2000,2000,Import,Cyprus,54,Manmade filaments,Northern Europe,Europe,754918
-2000,2000,Import,Cyprus,54,Manmade filaments,South-eastern Asia,Asia,623759
-2000,2000,Import,Cyprus,54,Manmade filaments,Southern Europe,Europe,2534648
-2000,2000,Import,Cyprus,54,Manmade filaments,Western Asia,Asia,547520
-2000,2000,Import,Cyprus,54,Manmade filaments,Western Europe,Europe,925130
-2000,2000,Import,Cyprus,54,Manmade filaments,World,World,9124281
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Cyprus,54,Manmade filaments,Eastern Asia,Asia,2363956,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Import,Cyprus,54,Manmade filaments,Eastern Europe,Europe,39210,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Import,Cyprus,54,Manmade filaments,Northern Africa,Africa,9640,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Import,Cyprus,54,Manmade filaments,Northern America,Americas,194362,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Import,Cyprus,54,Manmade filaments,Northern Europe,Europe,754918,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Import,Cyprus,54,Manmade filaments,South-eastern Asia,Asia,623759,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2000,2000,Import,Cyprus,54,Manmade filaments,Southern Europe,Europe,2534648,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Import,Cyprus,54,Manmade filaments,Western Asia,Asia,547520,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Import,Cyprus,54,Manmade filaments,Western Europe,Europe,925130,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Import,Cyprus,54,Manmade filaments,World,World,9124281,34.9823018,33.1451285,,

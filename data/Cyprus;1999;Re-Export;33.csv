@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,11552
-1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,24497
-1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,6492
-1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,153271
-1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,565007
-1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,105752
-1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,72559
-1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,1918277
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,11552,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,24497,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,6492,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,153271,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,565007,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,105752,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,72559,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Re-Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,1918277,34.9823018,33.1451285,,

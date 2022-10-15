@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Cyprus,30,Pharmaceutical products,Australia and New Zealand,Oceania,949942
-1999,1999,Import,Cyprus,30,Pharmaceutical products,Eastern Asia,Asia,521528
-1999,1999,Import,Cyprus,30,Pharmaceutical products,Eastern Europe,Europe,126973
-1999,1999,Import,Cyprus,30,Pharmaceutical products,Latin America and the Caribbean,Americas,22230
-1999,1999,Import,Cyprus,30,Pharmaceutical products,Northern Africa,Africa,17337
-1999,1999,Import,Cyprus,30,Pharmaceutical products,Northern America,Americas,10703374
-1999,1999,Import,Cyprus,30,Pharmaceutical products,Northern Europe,Europe,23957223
-1999,1999,Import,Cyprus,30,Pharmaceutical products,South-eastern Asia,Asia,13953
-1999,1999,Import,Cyprus,30,Pharmaceutical products,Southern Europe,Europe,7904237
-1999,1999,Import,Cyprus,30,Pharmaceutical products,Western Europe,Europe,37657716
-1999,1999,Import,Cyprus,30,Pharmaceutical products,World,World,82668080
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Cyprus,30,Pharmaceutical products,Australia and New Zealand,Oceania,949942,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1999,1999,Import,Cyprus,30,Pharmaceutical products,Eastern Asia,Asia,521528,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Import,Cyprus,30,Pharmaceutical products,Eastern Europe,Europe,126973,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Import,Cyprus,30,Pharmaceutical products,Latin America and the Caribbean,Americas,22230,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1999,1999,Import,Cyprus,30,Pharmaceutical products,Northern Africa,Africa,17337,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1999,1999,Import,Cyprus,30,Pharmaceutical products,Northern America,Americas,10703374,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Import,Cyprus,30,Pharmaceutical products,Northern Europe,Europe,23957223,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Import,Cyprus,30,Pharmaceutical products,South-eastern Asia,Asia,13953,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1999,1999,Import,Cyprus,30,Pharmaceutical products,Southern Europe,Europe,7904237,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Import,Cyprus,30,Pharmaceutical products,Western Europe,Europe,37657716,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Import,Cyprus,30,Pharmaceutical products,World,World,82668080,34.9823018,33.1451285,,

@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Re-Export,Cyprus,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,6669
-1992,1992,Re-Export,Cyprus,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,207154
-1992,1992,Re-Export,Cyprus,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,31480
-1992,1992,Re-Export,Cyprus,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,40680
-1992,1992,Re-Export,Cyprus,4,"Dairy products, eggs, honey, edible animal product nes",World,World,474231
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Re-Export,Cyprus,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,6669,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1992,1992,Re-Export,Cyprus,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,207154,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1992,1992,Re-Export,Cyprus,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,31480,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1992,1992,Re-Export,Cyprus,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,40680,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1992,1992,Re-Export,Cyprus,4,"Dairy products, eggs, honey, edible animal product nes",World,World,474231,34.9823018,33.1451285,,

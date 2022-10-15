@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",Eastern Asia,Asia,1405
-1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",Eastern Europe,Europe,14050
-1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",Northern Africa,Africa,848
-1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",Northern America,Americas,5286
-1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",Northern Europe,Europe,3489
-1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",South-eastern Asia,Asia,1687
-1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",Southern Europe,Europe,130195
-1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",Western Europe,Europe,82332
-1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",World,World,531951
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",Eastern Asia,Asia,1405,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",Eastern Europe,Europe,14050,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",Northern Africa,Africa,848,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",Northern America,Americas,5286,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",Northern Europe,Europe,3489,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",South-eastern Asia,Asia,1687,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",Southern Europe,Europe,130195,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",Western Europe,Europe,82332,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Export,Cyprus,89,"Ships, boats and other floating structures",World,World,531951,34.9823018,33.1451285,,

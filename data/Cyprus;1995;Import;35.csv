@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Australia and New Zealand,Oceania,67696
-1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Eastern Asia,Asia,160555
-1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Eastern Europe,Europe,6258
-1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Latin America and the Caribbean,Americas,128911
-1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Northern America,Americas,157042
-1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Northern Europe,Europe,1141707
-1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",South-eastern Asia,Asia,22868
-1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Southern Europe,Europe,641623
-1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Western Europe,Europe,1907540
-1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",World,World,4626682
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Australia and New Zealand,Oceania,67696,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Eastern Asia,Asia,160555,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Eastern Europe,Europe,6258,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Latin America and the Caribbean,Americas,128911,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Northern America,Americas,157042,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Northern Europe,Europe,1141707,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",South-eastern Asia,Asia,22868,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Southern Europe,Europe,641623,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Western Europe,Europe,1907540,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1995,1995,Import,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",World,World,4626682,34.9823018,33.1451285,,

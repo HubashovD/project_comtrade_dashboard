@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Cyprus,18,Cocoa and cocoa preparations,Northern America,Americas,12049
-2000,2000,Export,Cyprus,18,Cocoa and cocoa preparations,Northern Europe,Europe,1229
-2000,2000,Export,Cyprus,18,Cocoa and cocoa preparations,Southern Europe,Europe,12873
-2000,2000,Export,Cyprus,18,Cocoa and cocoa preparations,Western Europe,Europe,121
-2000,2000,Export,Cyprus,18,Cocoa and cocoa preparations,World,World,339890
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Cyprus,18,Cocoa and cocoa preparations,Northern America,Americas,12049,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Export,Cyprus,18,Cocoa and cocoa preparations,Northern Europe,Europe,1229,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Export,Cyprus,18,Cocoa and cocoa preparations,Southern Europe,Europe,12873,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Export,Cyprus,18,Cocoa and cocoa preparations,Western Europe,Europe,121,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Export,Cyprus,18,Cocoa and cocoa preparations,World,World,339890,34.9823018,33.1451285,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Australia and New Zealand,Oceania,25707
-1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,13788
-1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Eastern Europe,Europe,1930666
-1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Latin America and the Caribbean,Americas,147567
-1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Northern Africa,Africa,991376
-1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,231859
-1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,1157042
-1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,208387
-1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Southern Asia,Asia,2672727
-1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,4850523
-1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,773969
-1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Western Asia,Asia,131167
-1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,2008848
-1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",World,World,22926196
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Australia and New Zealand,Oceania,25707,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,13788,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Eastern Europe,Europe,1930666,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Latin America and the Caribbean,Americas,147567,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Northern Africa,Africa,991376,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,231859,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,1157042,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,208387,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Southern Asia,Asia,2672727,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,4850523,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,773969,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Western Asia,Asia,131167,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,2008848,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1992,1992,Re-Export,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",World,World,22926196,34.9823018,33.1451285,,

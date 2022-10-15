@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Cyprus,54,manmade filaments,Central Asia,Asia,115466
-1995,1995,Import,Cyprus,54,manmade filaments,Eastern Asia,Asia,3709987
-1995,1995,Import,Cyprus,54,manmade filaments,Eastern Europe,Europe,967442
-1995,1995,Import,Cyprus,54,manmade filaments,Latin America and the Caribbean,Americas,4425
-1995,1995,Import,Cyprus,54,manmade filaments,Northern Africa,Africa,83603
-1995,1995,Import,Cyprus,54,manmade filaments,Northern America,Americas,514564
-1995,1995,Import,Cyprus,54,manmade filaments,Northern Europe,Europe,1742422
-1995,1995,Import,Cyprus,54,manmade filaments,South-eastern Asia,Asia,298043
-1995,1995,Import,Cyprus,54,manmade filaments,Southern Europe,Europe,5659198
-1995,1995,Import,Cyprus,54,manmade filaments,Western Asia,Asia,38237
-1995,1995,Import,Cyprus,54,manmade filaments,Western Europe,Europe,3747921
-1995,1995,Import,Cyprus,54,manmade filaments,World,World,19854018
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Cyprus,54,manmade filaments,Central Asia,Asia,115466,34.9823018,33.1451285,39.89317229901691,61.060280637304274
+1995,1995,Import,Cyprus,54,manmade filaments,Eastern Asia,Asia,3709987,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1995,1995,Import,Cyprus,54,manmade filaments,Eastern Europe,Europe,967442,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1995,1995,Import,Cyprus,54,manmade filaments,Latin America and the Caribbean,Americas,4425,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1995,1995,Import,Cyprus,54,manmade filaments,Northern Africa,Africa,83603,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1995,1995,Import,Cyprus,54,manmade filaments,Northern America,Americas,514564,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1995,1995,Import,Cyprus,54,manmade filaments,Northern Europe,Europe,1742422,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1995,1995,Import,Cyprus,54,manmade filaments,South-eastern Asia,Asia,298043,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1995,1995,Import,Cyprus,54,manmade filaments,Southern Europe,Europe,5659198,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1995,1995,Import,Cyprus,54,manmade filaments,Western Asia,Asia,38237,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1995,1995,Import,Cyprus,54,manmade filaments,Western Europe,Europe,3747921,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1995,1995,Import,Cyprus,54,manmade filaments,World,World,19854018,34.9823018,33.1451285,,

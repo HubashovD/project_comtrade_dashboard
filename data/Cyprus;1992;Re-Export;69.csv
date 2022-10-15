@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Re-Export,Cyprus,69,Ceramic products,Eastern Asia,Asia,56305
-1992,1992,Re-Export,Cyprus,69,Ceramic products,Eastern Europe,Europe,43380
-1992,1992,Re-Export,Cyprus,69,Ceramic products,Northern Europe,Europe,28857
-1992,1992,Re-Export,Cyprus,69,Ceramic products,Southern Europe,Europe,13063
-1992,1992,Re-Export,Cyprus,69,Ceramic products,Sub-Saharan Africa,Africa,824
-1992,1992,Re-Export,Cyprus,69,Ceramic products,World,World,192107
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Re-Export,Cyprus,69,Ceramic products,Eastern Asia,Asia,56305,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1992,1992,Re-Export,Cyprus,69,Ceramic products,Eastern Europe,Europe,43380,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1992,1992,Re-Export,Cyprus,69,Ceramic products,Northern Europe,Europe,28857,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1992,1992,Re-Export,Cyprus,69,Ceramic products,Southern Europe,Europe,13063,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1992,1992,Re-Export,Cyprus,69,Ceramic products,Sub-Saharan Africa,Africa,824,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1992,1992,Re-Export,Cyprus,69,Ceramic products,World,World,192107,34.9823018,33.1451285,,

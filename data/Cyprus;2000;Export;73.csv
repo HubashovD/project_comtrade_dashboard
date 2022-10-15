@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Cyprus,73,Articles of iron or steel,Australia and New Zealand,Oceania,7625
-2000,2000,Export,Cyprus,73,Articles of iron or steel,Eastern Asia,Asia,51250
-2000,2000,Export,Cyprus,73,Articles of iron or steel,Eastern Europe,Europe,114472
-2000,2000,Export,Cyprus,73,Articles of iron or steel,Latin America and the Caribbean,Americas,12669
-2000,2000,Export,Cyprus,73,Articles of iron or steel,Northern Africa,Africa,81930
-2000,2000,Export,Cyprus,73,Articles of iron or steel,Northern America,Americas,29776
-2000,2000,Export,Cyprus,73,Articles of iron or steel,Northern Europe,Europe,708070
-2000,2000,Export,Cyprus,73,Articles of iron or steel,Southern Asia,Asia,3409
-2000,2000,Export,Cyprus,73,Articles of iron or steel,Southern Europe,Europe,1634034
-2000,2000,Export,Cyprus,73,Articles of iron or steel,Sub-Saharan Africa,Africa,63840
-2000,2000,Export,Cyprus,73,Articles of iron or steel,Western Asia,Asia,3278
-2000,2000,Export,Cyprus,73,Articles of iron or steel,Western Europe,Europe,197237
-2000,2000,Export,Cyprus,73,Articles of iron or steel,World,World,4681724
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Cyprus,73,Articles of iron or steel,Australia and New Zealand,Oceania,7625,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2000,2000,Export,Cyprus,73,Articles of iron or steel,Eastern Asia,Asia,51250,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Export,Cyprus,73,Articles of iron or steel,Eastern Europe,Europe,114472,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Export,Cyprus,73,Articles of iron or steel,Latin America and the Caribbean,Americas,12669,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2000,2000,Export,Cyprus,73,Articles of iron or steel,Northern Africa,Africa,81930,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Export,Cyprus,73,Articles of iron or steel,Northern America,Americas,29776,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Export,Cyprus,73,Articles of iron or steel,Northern Europe,Europe,708070,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Export,Cyprus,73,Articles of iron or steel,Southern Asia,Asia,3409,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2000,2000,Export,Cyprus,73,Articles of iron or steel,Southern Europe,Europe,1634034,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Export,Cyprus,73,Articles of iron or steel,Sub-Saharan Africa,Africa,63840,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Export,Cyprus,73,Articles of iron or steel,Western Asia,Asia,3278,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Export,Cyprus,73,Articles of iron or steel,Western Europe,Europe,197237,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Export,Cyprus,73,Articles of iron or steel,World,World,4681724,34.9823018,33.1451285,,

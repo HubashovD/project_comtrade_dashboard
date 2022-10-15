@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Eastern Asia,Asia,5925221
-1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Eastern Europe,Europe,132585
-1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Latin America and the Caribbean,Americas,147098
-1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Northern Africa,Africa,250921
-1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Northern America,Americas,493232
-1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Northern Europe,Europe,1127205
-1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",South-eastern Asia,Asia,6593405
-1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Southern Asia,Asia,31824
-1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Southern Europe,Europe,11392193
-1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Sub-Saharan Africa,Africa,5035
-1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Western Asia,Asia,134709
-1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Western Europe,Europe,1205783
-1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",World,World,28781150
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Eastern Asia,Asia,5925221,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Eastern Europe,Europe,132585,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Latin America and the Caribbean,Americas,147098,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Northern Africa,Africa,250921,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Northern America,Americas,493232,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Northern Europe,Europe,1127205,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",South-eastern Asia,Asia,6593405,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Southern Asia,Asia,31824,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Southern Europe,Europe,11392193,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Sub-Saharan Africa,Africa,5035,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Western Asia,Asia,134709,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Western Europe,Europe,1205783,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1995,1995,Import,Cyprus,64,"Footwear, gaiters and the like, parts thereof",World,World,28781150,34.9823018,33.1451285,,

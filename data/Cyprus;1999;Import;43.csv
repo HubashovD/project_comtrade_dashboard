@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Cyprus,43,"Furskins and artificial fur, manufactures thereof",Eastern Asia,Asia,5257
-1999,1999,Import,Cyprus,43,"Furskins and artificial fur, manufactures thereof",Northern America,Americas,5377
-1999,1999,Import,Cyprus,43,"Furskins and artificial fur, manufactures thereof",Northern Europe,Europe,4315
-1999,1999,Import,Cyprus,43,"Furskins and artificial fur, manufactures thereof",Southern Europe,Europe,1844329
-1999,1999,Import,Cyprus,43,"Furskins and artificial fur, manufactures thereof",Western Europe,Europe,42204
-1999,1999,Import,Cyprus,43,"Furskins and artificial fur, manufactures thereof",World,World,1920439
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Cyprus,43,"Furskins and artificial fur, manufactures thereof",Eastern Asia,Asia,5257,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Import,Cyprus,43,"Furskins and artificial fur, manufactures thereof",Northern America,Americas,5377,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Import,Cyprus,43,"Furskins and artificial fur, manufactures thereof",Northern Europe,Europe,4315,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Import,Cyprus,43,"Furskins and artificial fur, manufactures thereof",Southern Europe,Europe,1844329,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Import,Cyprus,43,"Furskins and artificial fur, manufactures thereof",Western Europe,Europe,42204,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Import,Cyprus,43,"Furskins and artificial fur, manufactures thereof",World,World,1920439,34.9823018,33.1451285,,

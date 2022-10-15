@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Re-Export,Cyprus,70,Glass and glassware,Eastern Asia,Asia,550
-1999,1999,Re-Export,Cyprus,70,Glass and glassware,Eastern Europe,Europe,1741
-1999,1999,Re-Export,Cyprus,70,Glass and glassware,Northern America,Americas,734
-1999,1999,Re-Export,Cyprus,70,Glass and glassware,Northern Europe,Europe,536
-1999,1999,Re-Export,Cyprus,70,Glass and glassware,Southern Europe,Europe,155144
-1999,1999,Re-Export,Cyprus,70,Glass and glassware,Western Europe,Europe,2751
-1999,1999,Re-Export,Cyprus,70,Glass and glassware,World,World,186057
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Re-Export,Cyprus,70,Glass and glassware,Eastern Asia,Asia,550,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Re-Export,Cyprus,70,Glass and glassware,Eastern Europe,Europe,1741,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Re-Export,Cyprus,70,Glass and glassware,Northern America,Americas,734,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Re-Export,Cyprus,70,Glass and glassware,Northern Europe,Europe,536,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Re-Export,Cyprus,70,Glass and glassware,Southern Europe,Europe,155144,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Re-Export,Cyprus,70,Glass and glassware,Western Europe,Europe,2751,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Re-Export,Cyprus,70,Glass and glassware,World,World,186057,34.9823018,33.1451285,,

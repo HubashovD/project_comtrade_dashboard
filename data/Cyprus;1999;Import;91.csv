@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Australia and New Zealand,Oceania,783
-1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Eastern Asia,Asia,5121797
-1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Eastern Europe,Europe,27204
-1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Latin America and the Caribbean,Americas,67926
-1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Northern Africa,Africa,719
-1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Northern America,Americas,544641
-1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Northern Europe,Europe,240087
-1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,South-eastern Asia,Asia,117007
-1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Southern Asia,Asia,1846
-1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Southern Europe,Europe,430636
-1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Western Europe,Europe,8467878
-1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,World,World,15307572
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Australia and New Zealand,Oceania,783,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Eastern Asia,Asia,5121797,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Eastern Europe,Europe,27204,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Latin America and the Caribbean,Americas,67926,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Northern Africa,Africa,719,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Northern America,Americas,544641,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Northern Europe,Europe,240087,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,South-eastern Asia,Asia,117007,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Southern Asia,Asia,1846,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Southern Europe,Europe,430636,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,Western Europe,Europe,8467878,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Import,Cyprus,91,Clocks and watches and parts thereof,World,World,15307572,34.9823018,33.1451285,,

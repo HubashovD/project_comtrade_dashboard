@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Cyprus,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Europe,Europe,1593
-2000,2000,Export,Cyprus,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Asia,Asia,23111
-2000,2000,Export,Cyprus,6,"Live trees, plants, bulbs, roots, cut flowers etc",World,World,50247
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Cyprus,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Europe,Europe,1593,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Export,Cyprus,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Asia,Asia,23111,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Export,Cyprus,6,"Live trees, plants, bulbs, roots, cut flowers etc",World,World,50247,34.9823018,33.1451285,,

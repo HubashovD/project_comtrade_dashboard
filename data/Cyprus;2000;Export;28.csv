@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Europe,Europe,1567
-2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern America,Americas,3159
-2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,522
-2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Asia,Asia,3768
-2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Europe,Europe,7871
-2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Sub-Saharan Africa,Africa,44744
-2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Western Europe,Europe,4258
-2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,148114
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Europe,Europe,1567,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern America,Americas,3159,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,522,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Asia,Asia,3768,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Europe,Europe,7871,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Sub-Saharan Africa,Africa,44744,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Western Europe,Europe,4258,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Export,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,148114,34.9823018,33.1451285,,

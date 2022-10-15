@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Australia and New Zealand,Oceania,16857
-1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Asia,Asia,5676
-1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,509772
-1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,161778
-1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,384186
-1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Asia,Asia,11181
-1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Europe,Europe,2675926
-1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,348407
-1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,4530872
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Australia and New Zealand,Oceania,16857,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Asia,Asia,5676,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,509772,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,161778,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,384186,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Asia,Asia,11181,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Europe,Europe,2675926,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,348407,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,4530872,34.9823018,33.1451285,,

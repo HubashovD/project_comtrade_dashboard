@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Cyprus,81,"Other base metals, cermets, articles thereof",Eastern Europe,Europe,4018
-2000,2000,Export,Cyprus,81,"Other base metals, cermets, articles thereof",Southern Europe,Europe,7665
-2000,2000,Export,Cyprus,81,"Other base metals, cermets, articles thereof",Western Europe,Europe,8482
-2000,2000,Export,Cyprus,81,"Other base metals, cermets, articles thereof",World,World,30813
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Cyprus,81,"Other base metals, cermets, articles thereof",Eastern Europe,Europe,4018,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Export,Cyprus,81,"Other base metals, cermets, articles thereof",Southern Europe,Europe,7665,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Export,Cyprus,81,"Other base metals, cermets, articles thereof",Western Europe,Europe,8482,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Export,Cyprus,81,"Other base metals, cermets, articles thereof",World,World,30813,34.9823018,33.1451285,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",Eastern Asia,Asia,1345
-1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",Eastern Europe,Europe,205681
-1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",Latin America and the Caribbean,Americas,20097
-1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",Northern America,Americas,2507
-1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",Northern Europe,Europe,254320
-1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",Southern Europe,Europe,481314
-1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",Western Europe,Europe,554823
-1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",World,World,1728663
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",Eastern Asia,Asia,1345,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",Eastern Europe,Europe,205681,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",Latin America and the Caribbean,Americas,20097,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",Northern America,Americas,2507,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",Northern Europe,Europe,254320,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",Southern Europe,Europe,481314,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",Western Europe,Europe,554823,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Export,Cyprus,95,"Toys, games, sports requisites",World,World,1728663,34.9823018,33.1451285,,

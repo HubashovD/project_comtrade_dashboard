@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Re-Export,Cyprus,1,Live animals,Northern America,Americas,1757
-1994,1994,Re-Export,Cyprus,1,Live animals,Northern Europe,Europe,4220
-1994,1994,Re-Export,Cyprus,1,Live animals,Southern Europe,Europe,605
-1994,1994,Re-Export,Cyprus,1,Live animals,World,World,8072
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Re-Export,Cyprus,1,Live animals,Northern America,Americas,1757,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1994,1994,Re-Export,Cyprus,1,Live animals,Northern Europe,Europe,4220,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1994,1994,Re-Export,Cyprus,1,Live animals,Southern Europe,Europe,605,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1994,1994,Re-Export,Cyprus,1,Live animals,World,World,8072,34.9823018,33.1451285,,

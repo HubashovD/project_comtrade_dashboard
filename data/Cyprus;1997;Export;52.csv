@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Cyprus,52,Cotton,Eastern Europe,Europe,49906
-1997,1997,Export,Cyprus,52,Cotton,Latin America and the Caribbean,Americas,685
-1997,1997,Export,Cyprus,52,Cotton,Northern Africa,Africa,207763
-1997,1997,Export,Cyprus,52,Cotton,Northern Europe,Europe,60715
-1997,1997,Export,Cyprus,52,Cotton,Southern Asia,Asia,20872
-1997,1997,Export,Cyprus,52,Cotton,Southern Europe,Europe,427668
-1997,1997,Export,Cyprus,52,Cotton,Sub-Saharan Africa,Africa,1049878
-1997,1997,Export,Cyprus,52,Cotton,Western Asia,Asia,199389
-1997,1997,Export,Cyprus,52,Cotton,Western Europe,Europe,64282
-1997,1997,Export,Cyprus,52,Cotton,World,World,2877828
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Cyprus,52,Cotton,Eastern Europe,Europe,49906,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1997,1997,Export,Cyprus,52,Cotton,Latin America and the Caribbean,Americas,685,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1997,1997,Export,Cyprus,52,Cotton,Northern Africa,Africa,207763,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1997,1997,Export,Cyprus,52,Cotton,Northern Europe,Europe,60715,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1997,1997,Export,Cyprus,52,Cotton,Southern Asia,Asia,20872,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1997,1997,Export,Cyprus,52,Cotton,Southern Europe,Europe,427668,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1997,1997,Export,Cyprus,52,Cotton,Sub-Saharan Africa,Africa,1049878,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1997,1997,Export,Cyprus,52,Cotton,Western Asia,Asia,199389,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1997,1997,Export,Cyprus,52,Cotton,Western Europe,Europe,64282,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1997,1997,Export,Cyprus,52,Cotton,World,World,2877828,34.9823018,33.1451285,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Cyprus,55,Manmade staple fibres,Australia and New Zealand,Oceania,43882
-1998,1998,Import,Cyprus,55,Manmade staple fibres,Eastern Asia,Asia,15371338
-1998,1998,Import,Cyprus,55,Manmade staple fibres,Eastern Europe,Europe,2048120
-1998,1998,Import,Cyprus,55,Manmade staple fibres,Latin America and the Caribbean,Americas,1043
-1998,1998,Import,Cyprus,55,Manmade staple fibres,Northern Africa,Africa,48015
-1998,1998,Import,Cyprus,55,Manmade staple fibres,Northern America,Americas,1948773
-1998,1998,Import,Cyprus,55,Manmade staple fibres,Northern Europe,Europe,4745313
-1998,1998,Import,Cyprus,55,Manmade staple fibres,South-eastern Asia,Asia,10600365
-1998,1998,Import,Cyprus,55,Manmade staple fibres,Southern Asia,Asia,10218
-1998,1998,Import,Cyprus,55,Manmade staple fibres,Southern Europe,Europe,8759646
-1998,1998,Import,Cyprus,55,Manmade staple fibres,Sub-Saharan Africa,Africa,73311
-1998,1998,Import,Cyprus,55,Manmade staple fibres,Western Asia,Asia,95565
-1998,1998,Import,Cyprus,55,Manmade staple fibres,Western Europe,Europe,4142090
-1998,1998,Import,Cyprus,55,Manmade staple fibres,World,World,53998100
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Cyprus,55,Manmade staple fibres,Australia and New Zealand,Oceania,43882,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1998,1998,Import,Cyprus,55,Manmade staple fibres,Eastern Asia,Asia,15371338,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1998,1998,Import,Cyprus,55,Manmade staple fibres,Eastern Europe,Europe,2048120,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1998,1998,Import,Cyprus,55,Manmade staple fibres,Latin America and the Caribbean,Americas,1043,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1998,1998,Import,Cyprus,55,Manmade staple fibres,Northern Africa,Africa,48015,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1998,1998,Import,Cyprus,55,Manmade staple fibres,Northern America,Americas,1948773,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1998,1998,Import,Cyprus,55,Manmade staple fibres,Northern Europe,Europe,4745313,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1998,1998,Import,Cyprus,55,Manmade staple fibres,South-eastern Asia,Asia,10600365,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1998,1998,Import,Cyprus,55,Manmade staple fibres,Southern Asia,Asia,10218,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1998,1998,Import,Cyprus,55,Manmade staple fibres,Southern Europe,Europe,8759646,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1998,1998,Import,Cyprus,55,Manmade staple fibres,Sub-Saharan Africa,Africa,73311,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1998,1998,Import,Cyprus,55,Manmade staple fibres,Western Asia,Asia,95565,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1998,1998,Import,Cyprus,55,Manmade staple fibres,Western Europe,Europe,4142090,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1998,1998,Import,Cyprus,55,Manmade staple fibres,World,World,53998100,34.9823018,33.1451285,,

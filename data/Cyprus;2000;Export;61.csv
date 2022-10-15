@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Australia and New Zealand,Oceania,145
-2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Eastern Asia,Asia,201844
-2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Eastern Europe,Europe,12902
-2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Northern Africa,Africa,70487
-2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Northern America,Americas,9281
-2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Northern Europe,Europe,3958500
-2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Southern Asia,Asia,693
-2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Southern Europe,Europe,1391468
-2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Sub-Saharan Africa,Africa,90
-2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Western Asia,Asia,26075
-2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Western Europe,Europe,5224572
-2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",World,World,11794003
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Australia and New Zealand,Oceania,145,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Eastern Asia,Asia,201844,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Eastern Europe,Europe,12902,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Northern Africa,Africa,70487,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Northern America,Americas,9281,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Northern Europe,Europe,3958500,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Southern Asia,Asia,693,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Southern Europe,Europe,1391468,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Sub-Saharan Africa,Africa,90,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Western Asia,Asia,26075,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",Western Europe,Europe,5224572,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Export,Cyprus,61,"Articles of apparel, accessories, knit or crochet",World,World,11794003,34.9823018,33.1451285,,

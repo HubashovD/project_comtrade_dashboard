@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Australia and New Zealand,Oceania,517
-1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Eastern Asia,Asia,2408538
-1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Eastern Europe,Europe,67054
-1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Latin America and the Caribbean,Americas,601
-1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Northern Africa,Africa,59475
-1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Northern America,Americas,168502
-1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Northern Europe,Europe,532042
-1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",South-eastern Asia,Asia,128186
-1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Southern Asia,Asia,2730
-1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Southern Europe,Europe,2155122
-1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Sub-Saharan Africa,Africa,926
-1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Western Asia,Asia,8184
-1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Western Europe,Europe,544385
-1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",World,World,7113467
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Australia and New Zealand,Oceania,517,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Eastern Asia,Asia,2408538,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Eastern Europe,Europe,67054,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Latin America and the Caribbean,Americas,601,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Northern Africa,Africa,59475,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Northern America,Americas,168502,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Northern Europe,Europe,532042,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",South-eastern Asia,Asia,128186,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Southern Asia,Asia,2730,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Southern Europe,Europe,2155122,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Sub-Saharan Africa,Africa,926,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Western Asia,Asia,8184,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",Western Europe,Europe,544385,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1995,1995,Import,Cyprus,42,"Articles of leather, animal gut, harness, travel good",World,World,7113467,34.9823018,33.1451285,,

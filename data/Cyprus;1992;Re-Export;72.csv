@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Re-Export,Cyprus,72,Iron and steel,Northern Europe,Europe,257445
-1992,1992,Re-Export,Cyprus,72,Iron and steel,Southern Asia,Asia,46785
-1992,1992,Re-Export,Cyprus,72,Iron and steel,Southern Europe,Europe,1920327
-1992,1992,Re-Export,Cyprus,72,Iron and steel,Western Europe,Europe,114925
-1992,1992,Re-Export,Cyprus,72,Iron and steel,World,World,2486190
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Re-Export,Cyprus,72,Iron and steel,Northern Europe,Europe,257445,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1992,1992,Re-Export,Cyprus,72,Iron and steel,Southern Asia,Asia,46785,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1992,1992,Re-Export,Cyprus,72,Iron and steel,Southern Europe,Europe,1920327,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1992,1992,Re-Export,Cyprus,72,Iron and steel,Western Europe,Europe,114925,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1992,1992,Re-Export,Cyprus,72,Iron and steel,World,World,2486190,34.9823018,33.1451285,,

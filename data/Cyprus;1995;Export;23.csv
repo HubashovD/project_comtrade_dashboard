@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Cyprus,23,"Residues, wastes of food industry, animal fodder",Eastern Asia,Asia,28053
-1995,1995,Export,Cyprus,23,"Residues, wastes of food industry, animal fodder",Northern Africa,Africa,58437
-1995,1995,Export,Cyprus,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,97221
-1995,1995,Export,Cyprus,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,1097707
-1995,1995,Export,Cyprus,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,123272
-1995,1995,Export,Cyprus,23,"Residues, wastes of food industry, animal fodder",World,World,1833456
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Cyprus,23,"Residues, wastes of food industry, animal fodder",Eastern Asia,Asia,28053,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1995,1995,Export,Cyprus,23,"Residues, wastes of food industry, animal fodder",Northern Africa,Africa,58437,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1995,1995,Export,Cyprus,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,97221,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1995,1995,Export,Cyprus,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,1097707,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1995,1995,Export,Cyprus,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,123272,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1995,1995,Export,Cyprus,23,"Residues, wastes of food industry, animal fodder",World,World,1833456,34.9823018,33.1451285,,

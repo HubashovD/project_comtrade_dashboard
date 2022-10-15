@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Export,Cyprus,55,manmade staple fibres,Eastern Asia,Asia,322912
-1994,1994,Export,Cyprus,55,manmade staple fibres,Eastern Europe,Europe,6855481
-1994,1994,Export,Cyprus,55,manmade staple fibres,Latin America and the Caribbean,Americas,1506333
-1994,1994,Export,Cyprus,55,manmade staple fibres,Northern Africa,Africa,304008
-1994,1994,Export,Cyprus,55,manmade staple fibres,Northern America,Americas,5482007
-1994,1994,Export,Cyprus,55,manmade staple fibres,Northern Europe,Europe,928818
-1994,1994,Export,Cyprus,55,manmade staple fibres,Southern Asia,Asia,278882
-1994,1994,Export,Cyprus,55,manmade staple fibres,Southern Europe,Europe,2319716
-1994,1994,Export,Cyprus,55,manmade staple fibres,Sub-Saharan Africa,Africa,2117782
-1994,1994,Export,Cyprus,55,manmade staple fibres,Western Asia,Asia,8316650
-1994,1994,Export,Cyprus,55,manmade staple fibres,Western Europe,Europe,2005138
-1994,1994,Export,Cyprus,55,manmade staple fibres,World,World,40190964
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Export,Cyprus,55,manmade staple fibres,Eastern Asia,Asia,322912,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1994,1994,Export,Cyprus,55,manmade staple fibres,Eastern Europe,Europe,6855481,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1994,1994,Export,Cyprus,55,manmade staple fibres,Latin America and the Caribbean,Americas,1506333,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1994,1994,Export,Cyprus,55,manmade staple fibres,Northern Africa,Africa,304008,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1994,1994,Export,Cyprus,55,manmade staple fibres,Northern America,Americas,5482007,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1994,1994,Export,Cyprus,55,manmade staple fibres,Northern Europe,Europe,928818,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1994,1994,Export,Cyprus,55,manmade staple fibres,Southern Asia,Asia,278882,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1994,1994,Export,Cyprus,55,manmade staple fibres,Southern Europe,Europe,2319716,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1994,1994,Export,Cyprus,55,manmade staple fibres,Sub-Saharan Africa,Africa,2117782,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1994,1994,Export,Cyprus,55,manmade staple fibres,Western Asia,Asia,8316650,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1994,1994,Export,Cyprus,55,manmade staple fibres,Western Europe,Europe,2005138,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1994,1994,Export,Cyprus,55,manmade staple fibres,World,World,40190964,34.9823018,33.1451285,,

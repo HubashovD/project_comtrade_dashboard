@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Australia and New Zealand,Oceania,27639
-1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Central Asia,Asia,3875
-1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Eastern Asia,Asia,9724
-1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Eastern Europe,Europe,48057
-1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern Africa,Africa,42806
-1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,24207
-1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern Europe,Europe,109893
-1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Southern Europe,Europe,94979
-1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Sub-Saharan Africa,Africa,6136
-1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,1771
-1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,35929
-1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",World,World,1853668
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Australia and New Zealand,Oceania,27639,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Central Asia,Asia,3875,34.9823018,33.1451285,39.89317229901691,61.060280637304274
+1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Eastern Asia,Asia,9724,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Eastern Europe,Europe,48057,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern Africa,Africa,42806,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,24207,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern Europe,Europe,109893,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Southern Europe,Europe,94979,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Sub-Saharan Africa,Africa,6136,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,1771,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,35929,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1997,1997,Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",World,World,1853668,34.9823018,33.1451285,,

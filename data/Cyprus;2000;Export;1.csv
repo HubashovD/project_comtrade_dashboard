@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Cyprus,1,Live animals,Australia and New Zealand,Oceania,805
-2000,2000,Export,Cyprus,1,Live animals,Eastern Asia,Asia,322
-2000,2000,Export,Cyprus,1,Live animals,Eastern Europe,Europe,378
-2000,2000,Export,Cyprus,1,Live animals,Northern America,Americas,1023
-2000,2000,Export,Cyprus,1,Live animals,Northern Europe,Europe,7670
-2000,2000,Export,Cyprus,1,Live animals,South-eastern Asia,Asia,113
-2000,2000,Export,Cyprus,1,Live animals,Southern Asia,Asia,161
-2000,2000,Export,Cyprus,1,Live animals,Southern Europe,Europe,406663
-2000,2000,Export,Cyprus,1,Live animals,Western Europe,Europe,6815
-2000,2000,Export,Cyprus,1,Live animals,World,World,469695
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Cyprus,1,Live animals,Australia and New Zealand,Oceania,805,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2000,2000,Export,Cyprus,1,Live animals,Eastern Asia,Asia,322,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Export,Cyprus,1,Live animals,Eastern Europe,Europe,378,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Export,Cyprus,1,Live animals,Northern America,Americas,1023,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Export,Cyprus,1,Live animals,Northern Europe,Europe,7670,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Export,Cyprus,1,Live animals,South-eastern Asia,Asia,113,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2000,2000,Export,Cyprus,1,Live animals,Southern Asia,Asia,161,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2000,2000,Export,Cyprus,1,Live animals,Southern Europe,Europe,406663,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Export,Cyprus,1,Live animals,Western Europe,Europe,6815,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Export,Cyprus,1,Live animals,World,World,469695,34.9823018,33.1451285,,

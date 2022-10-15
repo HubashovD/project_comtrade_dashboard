@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Cyprus,74,Copper and articles thereof,Australia and New Zealand,Oceania,22837
-2000,2000,Export,Cyprus,74,Copper and articles thereof,Eastern Asia,Asia,847854
-2000,2000,Export,Cyprus,74,Copper and articles thereof,Eastern Europe,Europe,6560
-2000,2000,Export,Cyprus,74,Copper and articles thereof,Northern Europe,Europe,94203
-2000,2000,Export,Cyprus,74,Copper and articles thereof,South-eastern Asia,Asia,271
-2000,2000,Export,Cyprus,74,Copper and articles thereof,Southern Europe,Europe,9366359
-2000,2000,Export,Cyprus,74,Copper and articles thereof,Sub-Saharan Africa,Africa,5015
-2000,2000,Export,Cyprus,74,Copper and articles thereof,Western Europe,Europe,849733
-2000,2000,Export,Cyprus,74,Copper and articles thereof,World,World,11748386
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Cyprus,74,Copper and articles thereof,Australia and New Zealand,Oceania,22837,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2000,2000,Export,Cyprus,74,Copper and articles thereof,Eastern Asia,Asia,847854,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Export,Cyprus,74,Copper and articles thereof,Eastern Europe,Europe,6560,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Export,Cyprus,74,Copper and articles thereof,Northern Europe,Europe,94203,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Export,Cyprus,74,Copper and articles thereof,South-eastern Asia,Asia,271,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2000,2000,Export,Cyprus,74,Copper and articles thereof,Southern Europe,Europe,9366359,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Export,Cyprus,74,Copper and articles thereof,Sub-Saharan Africa,Africa,5015,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Export,Cyprus,74,Copper and articles thereof,Western Europe,Europe,849733,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Export,Cyprus,74,Copper and articles thereof,World,World,11748386,34.9823018,33.1451285,,

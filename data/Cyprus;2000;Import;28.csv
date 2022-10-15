@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Australia and New Zealand,Oceania,1279
-2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Asia,Asia,548376
-2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Europe,Europe,433152
-2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Latin America and the Caribbean,Americas,8636
-2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Africa,Africa,72
-2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern America,Americas,358132
-2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,1418973
-2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",South-eastern Asia,Asia,14364
-2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Asia,Asia,5331
-2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Europe,Europe,2259371
-2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Sub-Saharan Africa,Africa,80896
-2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Western Asia,Asia,62875
-2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Western Europe,Europe,3231979
-2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,9118401
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Australia and New Zealand,Oceania,1279,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Asia,Asia,548376,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Europe,Europe,433152,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Latin America and the Caribbean,Americas,8636,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Africa,Africa,72,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern America,Americas,358132,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,1418973,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",South-eastern Asia,Asia,14364,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Asia,Asia,5331,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Europe,Europe,2259371,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Sub-Saharan Africa,Africa,80896,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Western Asia,Asia,62875,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Western Europe,Europe,3231979,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,9118401,34.9823018,33.1451285,,

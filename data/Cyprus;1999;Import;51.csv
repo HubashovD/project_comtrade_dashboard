@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",Eastern Asia,Asia,432251
-1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",Eastern Europe,Europe,95247
-1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",Northern America,Americas,37596
-1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",Northern Europe,Europe,893631
-1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",Southern Asia,Asia,2536
-1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",Southern Europe,Europe,759681
-1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",Western Europe,Europe,453541
-1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",World,World,2726183
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",Eastern Asia,Asia,432251,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",Eastern Europe,Europe,95247,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",Northern America,Americas,37596,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",Northern Europe,Europe,893631,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",Southern Asia,Asia,2536,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",Southern Europe,Europe,759681,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",Western Europe,Europe,453541,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Import,Cyprus,51,"Wool, animal hair, horsehair yarn and fabric thereof",World,World,2726183,34.9823018,33.1451285,,

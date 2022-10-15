@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Cyprus,70,Glass and glassware,Australia and New Zealand,Oceania,5891
-2000,2000,Import,Cyprus,70,Glass and glassware,Eastern Asia,Asia,922989
-2000,2000,Import,Cyprus,70,Glass and glassware,Eastern Europe,Europe,1161534
-2000,2000,Import,Cyprus,70,Glass and glassware,Latin America and the Caribbean,Americas,93667
-2000,2000,Import,Cyprus,70,Glass and glassware,Northern Africa,Africa,369672
-2000,2000,Import,Cyprus,70,Glass and glassware,Northern America,Americas,381183
-2000,2000,Import,Cyprus,70,Glass and glassware,Northern Europe,Europe,3332983
-2000,2000,Import,Cyprus,70,Glass and glassware,South-eastern Asia,Asia,357368
-2000,2000,Import,Cyprus,70,Glass and glassware,Southern Asia,Asia,11968
-2000,2000,Import,Cyprus,70,Glass and glassware,Southern Europe,Europe,7001580
-2000,2000,Import,Cyprus,70,Glass and glassware,Sub-Saharan Africa,Africa,21714
-2000,2000,Import,Cyprus,70,Glass and glassware,Western Asia,Asia,26380
-2000,2000,Import,Cyprus,70,Glass and glassware,Western Europe,Europe,6993512
-2000,2000,Import,Cyprus,70,Glass and glassware,World,World,23164520
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Cyprus,70,Glass and glassware,Australia and New Zealand,Oceania,5891,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2000,2000,Import,Cyprus,70,Glass and glassware,Eastern Asia,Asia,922989,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Import,Cyprus,70,Glass and glassware,Eastern Europe,Europe,1161534,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Import,Cyprus,70,Glass and glassware,Latin America and the Caribbean,Americas,93667,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2000,2000,Import,Cyprus,70,Glass and glassware,Northern Africa,Africa,369672,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Import,Cyprus,70,Glass and glassware,Northern America,Americas,381183,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Import,Cyprus,70,Glass and glassware,Northern Europe,Europe,3332983,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Import,Cyprus,70,Glass and glassware,South-eastern Asia,Asia,357368,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2000,2000,Import,Cyprus,70,Glass and glassware,Southern Asia,Asia,11968,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2000,2000,Import,Cyprus,70,Glass and glassware,Southern Europe,Europe,7001580,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Import,Cyprus,70,Glass and glassware,Sub-Saharan Africa,Africa,21714,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Import,Cyprus,70,Glass and glassware,Western Asia,Asia,26380,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Import,Cyprus,70,Glass and glassware,Western Europe,Europe,6993512,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Import,Cyprus,70,Glass and glassware,World,World,23164520,34.9823018,33.1451285,,

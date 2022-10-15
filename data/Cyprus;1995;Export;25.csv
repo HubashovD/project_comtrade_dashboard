@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Australia and New Zealand,Oceania,5156
-1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,8037
-1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,40820
-1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,964523
-1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,763557
-1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,9302
-1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Europe,Europe,477765
-1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,17520
-1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,59462
-1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,20457792
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Australia and New Zealand,Oceania,5156,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,8037,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,40820,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,964523,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,763557,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,9302,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Europe,Europe,477765,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,17520,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,59462,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1995,1995,Export,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,20457792,34.9823018,33.1451285,,

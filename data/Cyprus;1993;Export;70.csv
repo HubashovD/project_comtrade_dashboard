@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1993,1993,Export,Cyprus,70,Glass and glassware,Australia and New Zealand,Oceania,796
-1993,1993,Export,Cyprus,70,Glass and glassware,Eastern Asia,Asia,1883
-1993,1993,Export,Cyprus,70,Glass and glassware,Eastern Europe,Europe,13518
-1993,1993,Export,Cyprus,70,Glass and glassware,Northern Europe,Europe,3207
-1993,1993,Export,Cyprus,70,Glass and glassware,Southern Europe,Europe,64543
-1993,1993,Export,Cyprus,70,Glass and glassware,Western Europe,Europe,10524
-1993,1993,Export,Cyprus,70,Glass and glassware,World,World,280471
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1993,1993,Export,Cyprus,70,Glass and glassware,Australia and New Zealand,Oceania,796,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1993,1993,Export,Cyprus,70,Glass and glassware,Eastern Asia,Asia,1883,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1993,1993,Export,Cyprus,70,Glass and glassware,Eastern Europe,Europe,13518,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1993,1993,Export,Cyprus,70,Glass and glassware,Northern Europe,Europe,3207,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1993,1993,Export,Cyprus,70,Glass and glassware,Southern Europe,Europe,64543,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1993,1993,Export,Cyprus,70,Glass and glassware,Western Europe,Europe,10524,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1993,1993,Export,Cyprus,70,Glass and glassware,World,World,280471,34.9823018,33.1451285,,

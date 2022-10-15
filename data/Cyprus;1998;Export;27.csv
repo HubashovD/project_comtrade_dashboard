@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,7036
-1998,1998,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Northern Africa,Africa,577279
-1998,1998,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,12586
-1998,1998,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,137972
-1998,1998,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,133920
-1998,1998,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,60426
-1998,1998,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",World,World,48167816
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,7036,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1998,1998,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Northern Africa,Africa,577279,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1998,1998,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,12586,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1998,1998,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,137972,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1998,1998,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,133920,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1998,1998,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,60426,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1998,1998,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",World,World,48167816,34.9823018,33.1451285,,

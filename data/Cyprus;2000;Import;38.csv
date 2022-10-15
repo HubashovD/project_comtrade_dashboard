@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,16738
-2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Eastern Asia,Asia,939595
-2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Eastern Europe,Europe,369582
-2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,223164
-2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Northern Africa,Africa,386345
-2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Northern America,Americas,2311675
-2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Northern Europe,Europe,8232792
-2000,2000,Import,Cyprus,38,Miscellaneous chemical products,South-eastern Asia,Asia,77926
-2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Southern Europe,Europe,5740186
-2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,177716
-2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Western Europe,Europe,8122219
-2000,2000,Import,Cyprus,38,Miscellaneous chemical products,World,World,27782213
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,16738,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Eastern Asia,Asia,939595,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Eastern Europe,Europe,369582,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,223164,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Northern Africa,Africa,386345,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Northern America,Americas,2311675,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Northern Europe,Europe,8232792,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Import,Cyprus,38,Miscellaneous chemical products,South-eastern Asia,Asia,77926,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Southern Europe,Europe,5740186,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,177716,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Import,Cyprus,38,Miscellaneous chemical products,Western Europe,Europe,8122219,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Import,Cyprus,38,Miscellaneous chemical products,World,World,27782213,34.9823018,33.1451285,,

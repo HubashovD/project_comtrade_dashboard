@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Australia and New Zealand,Oceania,1343
-1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Eastern Asia,Asia,23542
-1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Eastern Europe,Europe,2472337
-1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Latin America and the Caribbean,Americas,2710785
-1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern America,Americas,2189402
-1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern Europe,Europe,4586665
-1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",South-eastern Asia,Asia,1359551
-1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Southern Asia,Asia,923815
-1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Southern Europe,Europe,7708847
-1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Europe,Europe,4323039
-1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",World,World,27511338
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Australia and New Zealand,Oceania,1343,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Eastern Asia,Asia,23542,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Eastern Europe,Europe,2472337,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Latin America and the Caribbean,Americas,2710785,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern America,Americas,2189402,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern Europe,Europe,4586665,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",South-eastern Asia,Asia,1359551,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Southern Asia,Asia,923815,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Southern Europe,Europe,7708847,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Europe,Europe,4323039,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1998,1998,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, etc",World,World,27511338,34.9823018,33.1451285,,

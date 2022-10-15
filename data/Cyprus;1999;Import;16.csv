@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Australia and New Zealand,Oceania,34297
-1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Central Asia,Asia,1420
-1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Eastern Asia,Asia,1245294
-1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Eastern Europe,Europe,21094
-1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Latin America and the Caribbean,Americas,97109
-1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Northern America,Americas,123904
-1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Northern Europe,Europe,3196888
-1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",South-eastern Asia,Asia,4094923
-1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Southern Asia,Asia,2804
-1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Southern Europe,Europe,1780725
-1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Sub-Saharan Africa,Africa,39971
-1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Western Europe,Europe,2341707
-1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",World,World,14109083
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Australia and New Zealand,Oceania,34297,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Central Asia,Asia,1420,34.9823018,33.1451285,39.89317229901691,61.060280637304274
+1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Eastern Asia,Asia,1245294,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Eastern Europe,Europe,21094,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Latin America and the Caribbean,Americas,97109,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Northern America,Americas,123904,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Northern Europe,Europe,3196888,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",South-eastern Asia,Asia,4094923,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Southern Asia,Asia,2804,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Southern Europe,Europe,1780725,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Sub-Saharan Africa,Africa,39971,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",Western Europe,Europe,2341707,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Import,Cyprus,16,"Meat, fish and seafood food preparations nes",World,World,14109083,34.9823018,33.1451285,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,58285
-1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,1292
-1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,5214865
-1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Northern America,Americas,406561
-1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Northern Europe,Europe,1400636
-1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,174328
-1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Southern Asia,Asia,94786
-1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Southern Europe,Europe,213798
-1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,6998
-1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Western Asia,Asia,77416
-1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Western Europe,Europe,915784
-1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",World,World,8832366
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,58285,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,1292,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,5214865,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Northern America,Americas,406561,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Northern Europe,Europe,1400636,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,174328,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Southern Asia,Asia,94786,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Southern Europe,Europe,213798,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,6998,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Western Asia,Asia,77416,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",Western Europe,Europe,915784,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1996,1996,Import,Cyprus,9,"Coffee, tea, mate and spices",World,World,8832366,34.9823018,33.1451285,,

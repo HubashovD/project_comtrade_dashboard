@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Cyprus,47,"Pulp of wood, fibrous cellulosic material, waste etc",Eastern Asia,Asia,271
-2000,2000,Import,Cyprus,47,"Pulp of wood, fibrous cellulosic material, waste etc",Northern America,Americas,1495747
-2000,2000,Import,Cyprus,47,"Pulp of wood, fibrous cellulosic material, waste etc",Northern Europe,Europe,1515
-2000,2000,Import,Cyprus,47,"Pulp of wood, fibrous cellulosic material, waste etc",Southern Europe,Europe,6148
-2000,2000,Import,Cyprus,47,"Pulp of wood, fibrous cellulosic material, waste etc",Western Europe,Europe,85212
-2000,2000,Import,Cyprus,47,"Pulp of wood, fibrous cellulosic material, waste etc",World,World,1588892
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Cyprus,47,"Pulp of wood, fibrous cellulosic material, waste etc",Eastern Asia,Asia,271,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Import,Cyprus,47,"Pulp of wood, fibrous cellulosic material, waste etc",Northern America,Americas,1495747,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Import,Cyprus,47,"Pulp of wood, fibrous cellulosic material, waste etc",Northern Europe,Europe,1515,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Import,Cyprus,47,"Pulp of wood, fibrous cellulosic material, waste etc",Southern Europe,Europe,6148,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Import,Cyprus,47,"Pulp of wood, fibrous cellulosic material, waste etc",Western Europe,Europe,85212,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Import,Cyprus,47,"Pulp of wood, fibrous cellulosic material, waste etc",World,World,1588892,34.9823018,33.1451285,,

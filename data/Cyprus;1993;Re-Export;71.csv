@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,1186
-1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,128414
-1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,340097
-1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,150561
-1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,205704
-1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,145697
-1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,3678633
-1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",World,World,7802939
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,1186,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,128414,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,340097,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,150561,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,205704,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,145697,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,3678633,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1993,1993,Re-Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",World,World,7802939,34.9823018,33.1451285,,

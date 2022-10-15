@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Eastern Asia,Asia,11013
-1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Eastern Europe,Europe,1057
-1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Latin America and the Caribbean,Americas,40592
-1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern Africa,Africa,21320
-1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,155751
-1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern Europe,Europe,5856956
-1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",South-eastern Asia,Asia,134628
-1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Southern Europe,Europe,3596756
-1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Sub-Saharan Africa,Africa,136156
-1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,9725689
-1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",World,World,21423260
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Eastern Asia,Asia,11013,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Eastern Europe,Europe,1057,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Latin America and the Caribbean,Americas,40592,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern Africa,Africa,21320,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,155751,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern Europe,Europe,5856956,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",South-eastern Asia,Asia,134628,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Southern Europe,Europe,3596756,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Sub-Saharan Africa,Africa,136156,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,9725689,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1994,1994,Import,Cyprus,19,"Cereal, flour, starch, milk preparations and products",World,World,21423260,34.9823018,33.1451285,,

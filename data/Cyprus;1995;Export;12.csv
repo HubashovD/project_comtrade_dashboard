@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Eastern Europe,Europe,26483
-1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern Africa,Africa,264755
-1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern America,Americas,240468
-1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern Europe,Europe,366903
-1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Southern Europe,Europe,1506909
-1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Sub-Saharan Africa,Africa,93172
-1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Western Europe,Europe,600009
-1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",World,World,3902942
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Eastern Europe,Europe,26483,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern Africa,Africa,264755,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern America,Americas,240468,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern Europe,Europe,366903,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Southern Europe,Europe,1506909,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Sub-Saharan Africa,Africa,93172,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Western Europe,Europe,600009,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1995,1995,Export,Cyprus,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",World,World,3902942,34.9823018,33.1451285,,

@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Australia and New Zealand,Oceania,814
-1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Asia,Asia,139463
-1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Europe,Europe,3189
-1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Latin America and the Caribbean,Americas,1172
-1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern America,Americas,6074
-1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern Europe,Europe,19358
-1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Europe,Europe,633677
-1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Sub-Saharan Africa,Africa,10034
-1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Europe,Europe,217365
-1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",World,World,1248457
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Australia and New Zealand,Oceania,814,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Asia,Asia,139463,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Europe,Europe,3189,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Latin America and the Caribbean,Americas,1172,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern America,Americas,6074,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern Europe,Europe,19358,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Europe,Europe,633677,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Sub-Saharan Africa,Africa,10034,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Europe,Europe,217365,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1996,1996,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",World,World,1248457,34.9823018,33.1451285,,

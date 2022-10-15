@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Re-Export,Cyprus,76,Aluminium and articles thereof,Eastern Asia,Asia,192957
-1992,1992,Re-Export,Cyprus,76,Aluminium and articles thereof,Eastern Europe,Europe,28599
-1992,1992,Re-Export,Cyprus,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,8868
-1992,1992,Re-Export,Cyprus,76,Aluminium and articles thereof,Northern Europe,Europe,332666
-1992,1992,Re-Export,Cyprus,76,Aluminium and articles thereof,Southern Europe,Europe,1338579
-1992,1992,Re-Export,Cyprus,76,Aluminium and articles thereof,Western Europe,Europe,400557
-1992,1992,Re-Export,Cyprus,76,Aluminium and articles thereof,World,World,2940182
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Re-Export,Cyprus,76,Aluminium and articles thereof,Eastern Asia,Asia,192957,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1992,1992,Re-Export,Cyprus,76,Aluminium and articles thereof,Eastern Europe,Europe,28599,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1992,1992,Re-Export,Cyprus,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,8868,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1992,1992,Re-Export,Cyprus,76,Aluminium and articles thereof,Northern Europe,Europe,332666,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1992,1992,Re-Export,Cyprus,76,Aluminium and articles thereof,Southern Europe,Europe,1338579,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1992,1992,Re-Export,Cyprus,76,Aluminium and articles thereof,Western Europe,Europe,400557,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1992,1992,Re-Export,Cyprus,76,Aluminium and articles thereof,World,World,2940182,34.9823018,33.1451285,,

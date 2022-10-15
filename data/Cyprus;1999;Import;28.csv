@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Asia,Asia,817394
-1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Europe,Europe,134143
-1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern America,Americas,809159
-1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,1979414
-1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",South-eastern Asia,Asia,28172
-1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Europe,Europe,2048259
-1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Western Asia,Asia,42885
-1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Western Europe,Europe,3200377
-1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,11266072
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Asia,Asia,817394,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Europe,Europe,134143,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern America,Americas,809159,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,1979414,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",South-eastern Asia,Asia,28172,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Europe,Europe,2048259,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Western Asia,Asia,42885,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",Western Europe,Europe,3200377,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,11266072,34.9823018,33.1451285,,

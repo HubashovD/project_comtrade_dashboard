@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,Eastern Asia,Asia,67410
-1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,Eastern Europe,Europe,11113
-1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,Latin America and the Caribbean,Americas,214490
-1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,Northern Europe,Europe,39284
-1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,South-eastern Asia,Asia,4984
-1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,Southern Asia,Asia,12743
-1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,Western Asia,Asia,26890
-1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,Western Europe,Europe,20788
-1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,World,World,1261892
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,Eastern Asia,Asia,67410,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,Eastern Europe,Europe,11113,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,Latin America and the Caribbean,Americas,214490,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,Northern Europe,Europe,39284,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,South-eastern Asia,Asia,4984,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,Southern Asia,Asia,12743,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,Western Asia,Asia,26890,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,Western Europe,Europe,20788,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1996,1996,Re-Export,Cyprus,30,Pharmaceutical products,World,World,1261892,34.9823018,33.1451285,,

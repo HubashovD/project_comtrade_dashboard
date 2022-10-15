@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Australia and New Zealand,Oceania,345601
-1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,332088
-1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,48879
-1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Latin America and the Caribbean,Americas,35663
-1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,3243715
-1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,16842658
-1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,117584
-1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Asia,Asia,5128
-1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,13934876
-1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,9793
-1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,28993377
-1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,65010280
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Australia and New Zealand,Oceania,345601,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,332088,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,48879,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Latin America and the Caribbean,Americas,35663,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,3243715,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,16842658,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,117584,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Asia,Asia,5128,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,13934876,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,9793,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,28993377,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Import,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,65010280,34.9823018,33.1451285,,

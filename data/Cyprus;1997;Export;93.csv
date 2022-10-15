@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",Australia and New Zealand,Oceania,147979
-1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",Eastern Europe,Europe,465649
-1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",Northern America,Americas,684749
-1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",Northern Europe,Europe,768068
-1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",South-eastern Asia,Asia,14641
-1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",Southern Europe,Europe,1037925
-1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",Sub-Saharan Africa,Africa,84645
-1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",Western Europe,Europe,1726384
-1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",World,World,6277673
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",Australia and New Zealand,Oceania,147979,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",Eastern Europe,Europe,465649,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",Northern America,Americas,684749,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",Northern Europe,Europe,768068,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",South-eastern Asia,Asia,14641,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",Southern Europe,Europe,1037925,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",Sub-Saharan Africa,Africa,84645,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",Western Europe,Europe,1726384,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1997,1997,Export,Cyprus,93,"Arms and ammunition, parts and accessories thereof",World,World,6277673,34.9823018,33.1451285,,

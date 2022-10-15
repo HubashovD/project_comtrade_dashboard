@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Australia and New Zealand,Oceania,38438
-1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Eastern Asia,Asia,100740
-1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Eastern Europe,Europe,1218
-1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Latin America and the Caribbean,Americas,48911
-1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Northern Africa,Africa,301163
-1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Northern America,Americas,659065
-1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Northern Europe,Europe,7564212
-1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,South-eastern Asia,Asia,55929
-1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Southern Europe,Europe,1475609
-1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Sub-Saharan Africa,Africa,1993533
-1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Western Europe,Europe,5221170
-1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,World,World,18340472
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Australia and New Zealand,Oceania,38438,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Eastern Asia,Asia,100740,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Eastern Europe,Europe,1218,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Latin America and the Caribbean,Americas,48911,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Northern Africa,Africa,301163,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Northern America,Americas,659065,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Northern Europe,Europe,7564212,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,South-eastern Asia,Asia,55929,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Southern Europe,Europe,1475609,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Sub-Saharan Africa,Africa,1993533,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,Western Europe,Europe,5221170,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1993,1993,Import,Cyprus,21,Miscellaneous edible preparations,World,World,18340472,34.9823018,33.1451285,,

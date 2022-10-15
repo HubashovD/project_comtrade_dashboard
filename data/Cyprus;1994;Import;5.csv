@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Cyprus,5,"Products of animal origin, nes",Eastern Asia,Asia,210698
-1994,1994,Import,Cyprus,5,"Products of animal origin, nes",Northern America,Americas,337628
-1994,1994,Import,Cyprus,5,"Products of animal origin, nes",Northern Europe,Europe,15325
-1994,1994,Import,Cyprus,5,"Products of animal origin, nes",South-eastern Asia,Asia,43370
-1994,1994,Import,Cyprus,5,"Products of animal origin, nes",Southern Europe,Europe,77759
-1994,1994,Import,Cyprus,5,"Products of animal origin, nes",Western Asia,Asia,81333
-1994,1994,Import,Cyprus,5,"Products of animal origin, nes",Western Europe,Europe,44744
-1994,1994,Import,Cyprus,5,"Products of animal origin, nes",World,World,861760
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Cyprus,5,"Products of animal origin, nes",Eastern Asia,Asia,210698,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1994,1994,Import,Cyprus,5,"Products of animal origin, nes",Northern America,Americas,337628,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1994,1994,Import,Cyprus,5,"Products of animal origin, nes",Northern Europe,Europe,15325,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1994,1994,Import,Cyprus,5,"Products of animal origin, nes",South-eastern Asia,Asia,43370,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1994,1994,Import,Cyprus,5,"Products of animal origin, nes",Southern Europe,Europe,77759,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1994,1994,Import,Cyprus,5,"Products of animal origin, nes",Western Asia,Asia,81333,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1994,1994,Import,Cyprus,5,"Products of animal origin, nes",Western Europe,Europe,44744,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1994,1994,Import,Cyprus,5,"Products of animal origin, nes",World,World,861760,34.9823018,33.1451285,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Cyprus,1,Live animals,Eastern Europe,Europe,16095
-1995,1995,Import,Cyprus,1,Live animals,Latin America and the Caribbean,Americas,1276
-1995,1995,Import,Cyprus,1,Live animals,Northern America,Americas,222440
-1995,1995,Import,Cyprus,1,Live animals,Northern Europe,Europe,929242
-1995,1995,Import,Cyprus,1,Live animals,South-eastern Asia,Asia,1012
-1995,1995,Import,Cyprus,1,Live animals,Southern Europe,Europe,102715
-1995,1995,Import,Cyprus,1,Live animals,Western Europe,Europe,133231
-1995,1995,Import,Cyprus,1,Live animals,World,World,1656827
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Cyprus,1,Live animals,Eastern Europe,Europe,16095,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1995,1995,Import,Cyprus,1,Live animals,Latin America and the Caribbean,Americas,1276,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1995,1995,Import,Cyprus,1,Live animals,Northern America,Americas,222440,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1995,1995,Import,Cyprus,1,Live animals,Northern Europe,Europe,929242,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1995,1995,Import,Cyprus,1,Live animals,South-eastern Asia,Asia,1012,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1995,1995,Import,Cyprus,1,Live animals,Southern Europe,Europe,102715,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1995,1995,Import,Cyprus,1,Live animals,Western Europe,Europe,133231,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1995,1995,Import,Cyprus,1,Live animals,World,World,1656827,34.9823018,33.1451285,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Cyprus,13,"Lac, gums, resins, vegetable saps and extracts nes",Northern America,Americas,17187
-1995,1995,Import,Cyprus,13,"Lac, gums, resins, vegetable saps and extracts nes",Northern Europe,Europe,334299
-1995,1995,Import,Cyprus,13,"Lac, gums, resins, vegetable saps and extracts nes",Southern Asia,Asia,10471
-1995,1995,Import,Cyprus,13,"Lac, gums, resins, vegetable saps and extracts nes",Southern Europe,Europe,160714
-1995,1995,Import,Cyprus,13,"Lac, gums, resins, vegetable saps and extracts nes",Western Europe,Europe,36141
-1995,1995,Import,Cyprus,13,"Lac, gums, resins, vegetable saps and extracts nes",World,World,587466
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Cyprus,13,"Lac, gums, resins, vegetable saps and extracts nes",Northern America,Americas,17187,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1995,1995,Import,Cyprus,13,"Lac, gums, resins, vegetable saps and extracts nes",Northern Europe,Europe,334299,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1995,1995,Import,Cyprus,13,"Lac, gums, resins, vegetable saps and extracts nes",Southern Asia,Asia,10471,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1995,1995,Import,Cyprus,13,"Lac, gums, resins, vegetable saps and extracts nes",Southern Europe,Europe,160714,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1995,1995,Import,Cyprus,13,"Lac, gums, resins, vegetable saps and extracts nes",Western Europe,Europe,36141,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1995,1995,Import,Cyprus,13,"Lac, gums, resins, vegetable saps and extracts nes",World,World,587466,34.9823018,33.1451285,,

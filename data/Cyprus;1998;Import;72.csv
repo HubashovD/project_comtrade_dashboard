@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Cyprus,72,Iron and steel,Eastern Asia,Asia,1537878
-1998,1998,Import,Cyprus,72,Iron and steel,Eastern Europe,Europe,36697799
-1998,1998,Import,Cyprus,72,Iron and steel,Latin America and the Caribbean,Americas,14430
-1998,1998,Import,Cyprus,72,Iron and steel,Northern America,Americas,62181
-1998,1998,Import,Cyprus,72,Iron and steel,Northern Europe,Europe,5468009
-1998,1998,Import,Cyprus,72,Iron and steel,Southern Europe,Europe,30401999
-1998,1998,Import,Cyprus,72,Iron and steel,Western Europe,Europe,4552196
-1998,1998,Import,Cyprus,72,Iron and steel,World,World,83053496
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Cyprus,72,Iron and steel,Eastern Asia,Asia,1537878,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1998,1998,Import,Cyprus,72,Iron and steel,Eastern Europe,Europe,36697799,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1998,1998,Import,Cyprus,72,Iron and steel,Latin America and the Caribbean,Americas,14430,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1998,1998,Import,Cyprus,72,Iron and steel,Northern America,Americas,62181,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1998,1998,Import,Cyprus,72,Iron and steel,Northern Europe,Europe,5468009,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1998,1998,Import,Cyprus,72,Iron and steel,Southern Europe,Europe,30401999,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1998,1998,Import,Cyprus,72,Iron and steel,Western Europe,Europe,4552196,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1998,1998,Import,Cyprus,72,Iron and steel,World,World,83053496,34.9823018,33.1451285,,

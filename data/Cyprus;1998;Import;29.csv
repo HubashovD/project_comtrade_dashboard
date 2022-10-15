@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Cyprus,29,Organic chemicals,Eastern Asia,Asia,3501924
-1998,1998,Import,Cyprus,29,Organic chemicals,Eastern Europe,Europe,1295428
-1998,1998,Import,Cyprus,29,Organic chemicals,Latin America and the Caribbean,Americas,969026
-1998,1998,Import,Cyprus,29,Organic chemicals,Northern Africa,Africa,13176
-1998,1998,Import,Cyprus,29,Organic chemicals,Northern America,Americas,2116631
-1998,1998,Import,Cyprus,29,Organic chemicals,Northern Europe,Europe,3730925
-1998,1998,Import,Cyprus,29,Organic chemicals,South-eastern Asia,Asia,526870
-1998,1998,Import,Cyprus,29,Organic chemicals,Southern Europe,Europe,6463584
-1998,1998,Import,Cyprus,29,Organic chemicals,Western Europe,Europe,5972155
-1998,1998,Import,Cyprus,29,Organic chemicals,World,World,31795548
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Cyprus,29,Organic chemicals,Eastern Asia,Asia,3501924,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1998,1998,Import,Cyprus,29,Organic chemicals,Eastern Europe,Europe,1295428,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1998,1998,Import,Cyprus,29,Organic chemicals,Latin America and the Caribbean,Americas,969026,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1998,1998,Import,Cyprus,29,Organic chemicals,Northern Africa,Africa,13176,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1998,1998,Import,Cyprus,29,Organic chemicals,Northern America,Americas,2116631,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1998,1998,Import,Cyprus,29,Organic chemicals,Northern Europe,Europe,3730925,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1998,1998,Import,Cyprus,29,Organic chemicals,South-eastern Asia,Asia,526870,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1998,1998,Import,Cyprus,29,Organic chemicals,Southern Europe,Europe,6463584,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1998,1998,Import,Cyprus,29,Organic chemicals,Western Europe,Europe,5972155,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1998,1998,Import,Cyprus,29,Organic chemicals,World,World,31795548,34.9823018,33.1451285,,

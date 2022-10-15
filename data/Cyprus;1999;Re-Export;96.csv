@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,663
-1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Eastern Europe,Europe,13045
-1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,2892
-1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Northern Africa,Africa,13801
-1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Northern America,Americas,18666
-1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Northern Europe,Europe,22469
-1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Southern Asia,Asia,11982
-1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Southern Europe,Europe,449838
-1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Western Asia,Asia,144872
-1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Western Europe,Europe,7780
-1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,World,World,831045
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,663,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Eastern Europe,Europe,13045,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,2892,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Northern Africa,Africa,13801,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Northern America,Americas,18666,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Northern Europe,Europe,22469,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Southern Asia,Asia,11982,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Southern Europe,Europe,449838,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Western Asia,Asia,144872,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Western Europe,Europe,7780,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Re-Export,Cyprus,96,Miscellaneous manufactured articles,World,World,831045,34.9823018,33.1451285,,

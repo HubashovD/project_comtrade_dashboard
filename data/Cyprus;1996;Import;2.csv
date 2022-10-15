@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Cyprus,2,Meat and edible meat offal,Australia and New Zealand,Oceania,1706778
-1996,1996,Import,Cyprus,2,Meat and edible meat offal,Eastern Asia,Asia,1995
-1996,1996,Import,Cyprus,2,Meat and edible meat offal,Eastern Europe,Europe,24543
-1996,1996,Import,Cyprus,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,18825
-1996,1996,Import,Cyprus,2,Meat and edible meat offal,Northern America,Americas,53044
-1996,1996,Import,Cyprus,2,Meat and edible meat offal,Northern Europe,Europe,5853602
-1996,1996,Import,Cyprus,2,Meat and edible meat offal,Polynesia,Oceania,57417
-1996,1996,Import,Cyprus,2,Meat and edible meat offal,Southern Europe,Europe,48280
-1996,1996,Import,Cyprus,2,Meat and edible meat offal,Western Europe,Europe,286528
-1996,1996,Import,Cyprus,2,Meat and edible meat offal,World,World,8074646
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Cyprus,2,Meat and edible meat offal,Australia and New Zealand,Oceania,1706778,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1996,1996,Import,Cyprus,2,Meat and edible meat offal,Eastern Asia,Asia,1995,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1996,1996,Import,Cyprus,2,Meat and edible meat offal,Eastern Europe,Europe,24543,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1996,1996,Import,Cyprus,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,18825,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1996,1996,Import,Cyprus,2,Meat and edible meat offal,Northern America,Americas,53044,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1996,1996,Import,Cyprus,2,Meat and edible meat offal,Northern Europe,Europe,5853602,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1996,1996,Import,Cyprus,2,Meat and edible meat offal,Polynesia,Oceania,57417,34.9823018,33.1451285,-5.109184731250752,167.40343615892436
+1996,1996,Import,Cyprus,2,Meat and edible meat offal,Southern Europe,Europe,48280,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1996,1996,Import,Cyprus,2,Meat and edible meat offal,Western Europe,Europe,286528,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1996,1996,Import,Cyprus,2,Meat and edible meat offal,World,World,8074646,34.9823018,33.1451285,,

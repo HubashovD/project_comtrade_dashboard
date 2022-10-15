@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1993,1993,Export,Cyprus,54,manmade filaments,Eastern Europe,Europe,1093427
-1993,1993,Export,Cyprus,54,manmade filaments,Latin America and the Caribbean,Americas,579999
-1993,1993,Export,Cyprus,54,manmade filaments,Northern Africa,Africa,510732
-1993,1993,Export,Cyprus,54,manmade filaments,Northern America,Americas,637249
-1993,1993,Export,Cyprus,54,manmade filaments,Northern Europe,Europe,1036432
-1993,1993,Export,Cyprus,54,manmade filaments,Southern Asia,Asia,179304
-1993,1993,Export,Cyprus,54,manmade filaments,Southern Europe,Europe,607573
-1993,1993,Export,Cyprus,54,manmade filaments,Western Asia,Asia,1646256
-1993,1993,Export,Cyprus,54,manmade filaments,Western Europe,Europe,156320
-1993,1993,Export,Cyprus,54,manmade filaments,World,World,8352455
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1993,1993,Export,Cyprus,54,manmade filaments,Eastern Europe,Europe,1093427,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1993,1993,Export,Cyprus,54,manmade filaments,Latin America and the Caribbean,Americas,579999,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1993,1993,Export,Cyprus,54,manmade filaments,Northern Africa,Africa,510732,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1993,1993,Export,Cyprus,54,manmade filaments,Northern America,Americas,637249,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1993,1993,Export,Cyprus,54,manmade filaments,Northern Europe,Europe,1036432,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1993,1993,Export,Cyprus,54,manmade filaments,Southern Asia,Asia,179304,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1993,1993,Export,Cyprus,54,manmade filaments,Southern Europe,Europe,607573,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1993,1993,Export,Cyprus,54,manmade filaments,Western Asia,Asia,1646256,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1993,1993,Export,Cyprus,54,manmade filaments,Western Europe,Europe,156320,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1993,1993,Export,Cyprus,54,manmade filaments,World,World,8352455,34.9823018,33.1451285,,

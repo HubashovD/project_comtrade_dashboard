@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Australia and New Zealand,Oceania,271
-2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Eastern Asia,Asia,1036399
-2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Eastern Europe,Europe,275
-2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Northern Africa,Africa,681
-2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Northern America,Americas,6269
-2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Northern Europe,Europe,49251
-2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",South-eastern Asia,Asia,32578
-2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Southern Europe,Europe,124283
-2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Sub-Saharan Africa,Africa,114
-2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Western Asia,Asia,277
-2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Western Europe,Europe,51885
-2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",World,World,1332277
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Australia and New Zealand,Oceania,271,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Eastern Asia,Asia,1036399,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Eastern Europe,Europe,275,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Northern Africa,Africa,681,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Northern America,Americas,6269,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Northern Europe,Europe,49251,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",South-eastern Asia,Asia,32578,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Southern Europe,Europe,124283,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Sub-Saharan Africa,Africa,114,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Western Asia,Asia,277,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",Western Europe,Europe,51885,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Import,Cyprus,67,"Bird skin, feathers, artificial flowers, human hair",World,World,1332277,34.9823018,33.1451285,,

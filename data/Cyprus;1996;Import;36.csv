@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,23849
-1996,1996,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,45385
-1996,1996,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,244952
-1996,1996,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,302501
-1996,1996,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,612545
-1996,1996,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,1202299
-1996,1996,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,2449269
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,23849,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1996,1996,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,45385,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1996,1996,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,244952,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1996,1996,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,302501,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1996,1996,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,612545,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1996,1996,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,1202299,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1996,1996,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,2449269,34.9823018,33.1451285,,

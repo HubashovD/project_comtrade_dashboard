@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1993,1993,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,4990
-1993,1993,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,697517
-1993,1993,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,762132
-1993,1993,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,1285
-1993,1993,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,37339123
-1993,1993,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",World,World,38820140
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1993,1993,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,4990,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1993,1993,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,697517,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1993,1993,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,762132,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1993,1993,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,1285,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1993,1993,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,37339123,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1993,1993,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",World,World,38820140,34.9823018,33.1451285,,

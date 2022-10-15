@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Eastern Asia,Asia,442785
-1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Eastern Europe,Europe,220200
-1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Latin America and the Caribbean,Americas,9664
-1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern Africa,Africa,108885
-1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern America,Americas,282964
-1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern Europe,Europe,1424303
-1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",South-eastern Asia,Asia,48499
-1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Southern Europe,Europe,17138986
-1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Sub-Saharan Africa,Africa,1577
-1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Western Asia,Asia,71885
-1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Western Europe,Europe,1421543
-1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",World,World,22509492
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Eastern Asia,Asia,442785,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Eastern Europe,Europe,220200,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Latin America and the Caribbean,Americas,9664,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern Africa,Africa,108885,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern America,Americas,282964,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern Europe,Europe,1424303,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",South-eastern Asia,Asia,48499,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Southern Europe,Europe,17138986,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Sub-Saharan Africa,Africa,1577,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Western Asia,Asia,71885,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",Western Europe,Europe,1421543,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1998,1998,Import,Cyprus,68,"Stone, plaster, cement, asbestos, mica, etc articles",World,World,22509492,34.9823018,33.1451285,,

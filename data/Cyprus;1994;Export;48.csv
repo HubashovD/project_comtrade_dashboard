@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Central Asia,Asia,1171
-1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Eastern Europe,Europe,2170540
-1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Latin America and the Caribbean,Americas,72866
-1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Northern Africa,Africa,565690
-1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Northern America,Americas,4586
-1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Northern Europe,Europe,1447963
-1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",South-eastern Asia,Asia,11866
-1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Southern Europe,Europe,1117384
-1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Sub-Saharan Africa,Africa,26700
-1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Western Asia,Asia,190967
-1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Western Europe,Europe,114248
-1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",World,World,11203459
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Central Asia,Asia,1171,34.9823018,33.1451285,39.89317229901691,61.060280637304274
+1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Eastern Europe,Europe,2170540,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Latin America and the Caribbean,Americas,72866,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Northern Africa,Africa,565690,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Northern America,Americas,4586,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Northern Europe,Europe,1447963,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",South-eastern Asia,Asia,11866,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Southern Europe,Europe,1117384,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Sub-Saharan Africa,Africa,26700,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Western Asia,Asia,190967,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",Western Europe,Europe,114248,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1994,1994,Export,Cyprus,48,"Paper & paperboard, articles of pulp, paper and board",World,World,11203459,34.9823018,33.1451285,,

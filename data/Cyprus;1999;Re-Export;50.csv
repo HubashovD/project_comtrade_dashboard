@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Re-Export,Cyprus,50,Silk,Northern Europe,Europe,15682
-1999,1999,Re-Export,Cyprus,50,Silk,Western Asia,Asia,6240
-1999,1999,Re-Export,Cyprus,50,Silk,World,World,22237
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Re-Export,Cyprus,50,Silk,Northern Europe,Europe,15682,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Re-Export,Cyprus,50,Silk,Western Asia,Asia,6240,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1999,1999,Re-Export,Cyprus,50,Silk,World,World,22237,34.9823018,33.1451285,,

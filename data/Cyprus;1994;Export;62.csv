@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Central Asia,Asia,40847
-1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Eastern Asia,Asia,46967
-1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Eastern Europe,Europe,2496490
-1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Latin America and the Caribbean,Americas,58741
-1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Northern Africa,Africa,325239
-1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Northern America,Americas,4504805
-1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Northern Europe,Europe,46830156
-1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",South-eastern Asia,Asia,605
-1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Southern Europe,Europe,3564368
-1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Sub-Saharan Africa,Africa,18922
-1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Western Asia,Asia,79118
-1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Western Europe,Europe,7860397
-1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",World,World,71066928
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Central Asia,Asia,40847,34.9823018,33.1451285,39.89317229901691,61.060280637304274
+1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Eastern Asia,Asia,46967,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Eastern Europe,Europe,2496490,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Latin America and the Caribbean,Americas,58741,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Northern Africa,Africa,325239,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Northern America,Americas,4504805,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Northern Europe,Europe,46830156,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",South-eastern Asia,Asia,605,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Southern Europe,Europe,3564368,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Sub-Saharan Africa,Africa,18922,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Western Asia,Asia,79118,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",Western Europe,Europe,7860397,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1994,1994,Export,Cyprus,62,"Articles of apparel, accessories, not knit or crochet",World,World,71066928,34.9823018,33.1451285,,

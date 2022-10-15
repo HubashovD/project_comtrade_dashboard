@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,13584
-2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,129404
-2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Latin America and the Caribbean,Americas,4071
-2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,164043
-2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,216962
-2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,385712
-2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Sub-Saharan Africa,Africa,3603
-2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,602077
-2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,1584419
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,13584,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,129404,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Latin America and the Caribbean,Americas,4071,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,164043,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,216962,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,385712,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Sub-Saharan Africa,Africa,3603,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,602077,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,1584419,34.9823018,33.1451285,,

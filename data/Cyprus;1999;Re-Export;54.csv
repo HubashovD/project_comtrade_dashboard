@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Re-Export,Cyprus,54,Manmade filaments,Central Asia,Asia,3487
-1999,1999,Re-Export,Cyprus,54,Manmade filaments,Eastern Europe,Europe,8408
-1999,1999,Re-Export,Cyprus,54,Manmade filaments,Northern Africa,Africa,13699
-1999,1999,Re-Export,Cyprus,54,Manmade filaments,Northern Europe,Europe,16608
-1999,1999,Re-Export,Cyprus,54,Manmade filaments,Southern Europe,Europe,150144
-1999,1999,Re-Export,Cyprus,54,Manmade filaments,Sub-Saharan Africa,Africa,1571184
-1999,1999,Re-Export,Cyprus,54,Manmade filaments,Western Asia,Asia,503356
-1999,1999,Re-Export,Cyprus,54,Manmade filaments,Western Europe,Europe,22941
-1999,1999,Re-Export,Cyprus,54,Manmade filaments,World,World,2534078
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Re-Export,Cyprus,54,Manmade filaments,Central Asia,Asia,3487,34.9823018,33.1451285,39.89317229901691,61.060280637304274
+1999,1999,Re-Export,Cyprus,54,Manmade filaments,Eastern Europe,Europe,8408,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Re-Export,Cyprus,54,Manmade filaments,Northern Africa,Africa,13699,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1999,1999,Re-Export,Cyprus,54,Manmade filaments,Northern Europe,Europe,16608,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Re-Export,Cyprus,54,Manmade filaments,Southern Europe,Europe,150144,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Re-Export,Cyprus,54,Manmade filaments,Sub-Saharan Africa,Africa,1571184,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1999,1999,Re-Export,Cyprus,54,Manmade filaments,Western Asia,Asia,503356,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1999,1999,Re-Export,Cyprus,54,Manmade filaments,Western Europe,Europe,22941,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Re-Export,Cyprus,54,Manmade filaments,World,World,2534078,34.9823018,33.1451285,,

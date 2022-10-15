@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Cyprus,54,Manmade filaments,Eastern Europe,Europe,102127
-2000,2000,Export,Cyprus,54,Manmade filaments,Northern Africa,Africa,21273
-2000,2000,Export,Cyprus,54,Manmade filaments,Northern America,Americas,10608
-2000,2000,Export,Cyprus,54,Manmade filaments,Northern Europe,Europe,12396
-2000,2000,Export,Cyprus,54,Manmade filaments,Southern Europe,Europe,118864
-2000,2000,Export,Cyprus,54,Manmade filaments,Sub-Saharan Africa,Africa,1435014
-2000,2000,Export,Cyprus,54,Manmade filaments,Western Asia,Asia,426332
-2000,2000,Export,Cyprus,54,Manmade filaments,Western Europe,Europe,1916
-2000,2000,Export,Cyprus,54,Manmade filaments,World,World,2316563
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Cyprus,54,Manmade filaments,Eastern Europe,Europe,102127,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Export,Cyprus,54,Manmade filaments,Northern Africa,Africa,21273,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Export,Cyprus,54,Manmade filaments,Northern America,Americas,10608,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Export,Cyprus,54,Manmade filaments,Northern Europe,Europe,12396,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Export,Cyprus,54,Manmade filaments,Southern Europe,Europe,118864,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Export,Cyprus,54,Manmade filaments,Sub-Saharan Africa,Africa,1435014,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Export,Cyprus,54,Manmade filaments,Western Asia,Asia,426332,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Export,Cyprus,54,Manmade filaments,Western Europe,Europe,1916,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Export,Cyprus,54,Manmade filaments,World,World,2316563,34.9823018,33.1451285,,

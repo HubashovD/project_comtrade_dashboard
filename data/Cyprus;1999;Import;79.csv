@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Cyprus,79,Zinc and articles thereof,Eastern Asia,Asia,6582
-1999,1999,Import,Cyprus,79,Zinc and articles thereof,Eastern Europe,Europe,64599
-1999,1999,Import,Cyprus,79,Zinc and articles thereof,Northern Africa,Africa,513
-1999,1999,Import,Cyprus,79,Zinc and articles thereof,Northern America,Americas,73879
-1999,1999,Import,Cyprus,79,Zinc and articles thereof,Northern Europe,Europe,75305
-1999,1999,Import,Cyprus,79,Zinc and articles thereof,Southern Europe,Europe,120583
-1999,1999,Import,Cyprus,79,Zinc and articles thereof,Western Europe,Europe,78309
-1999,1999,Import,Cyprus,79,Zinc and articles thereof,World,World,421889
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Cyprus,79,Zinc and articles thereof,Eastern Asia,Asia,6582,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Import,Cyprus,79,Zinc and articles thereof,Eastern Europe,Europe,64599,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1999,1999,Import,Cyprus,79,Zinc and articles thereof,Northern Africa,Africa,513,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1999,1999,Import,Cyprus,79,Zinc and articles thereof,Northern America,Americas,73879,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Import,Cyprus,79,Zinc and articles thereof,Northern Europe,Europe,75305,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Import,Cyprus,79,Zinc and articles thereof,Southern Europe,Europe,120583,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Import,Cyprus,79,Zinc and articles thereof,Western Europe,Europe,78309,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Import,Cyprus,79,Zinc and articles thereof,World,World,421889,34.9823018,33.1451285,,

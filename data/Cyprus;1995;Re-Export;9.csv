@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Re-Export,Cyprus,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,76054
-1995,1995,Re-Export,Cyprus,9,"Coffee, tea, mate and spices",Northern Africa,Africa,2239
-1995,1995,Re-Export,Cyprus,9,"Coffee, tea, mate and spices",World,World,143392
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Re-Export,Cyprus,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,76054,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1995,1995,Re-Export,Cyprus,9,"Coffee, tea, mate and spices",Northern Africa,Africa,2239,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1995,1995,Re-Export,Cyprus,9,"Coffee, tea, mate and spices",World,World,143392,34.9823018,33.1451285,,

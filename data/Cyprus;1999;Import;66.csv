@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Asia,Asia,456510
-1999,1999,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern America,Americas,3408
-1999,1999,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern Europe,Europe,30791
-1999,1999,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",South-eastern Asia,Asia,54675
-1999,1999,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Europe,Europe,478372
-1999,1999,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Europe,Europe,204561
-1999,1999,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",World,World,1381948
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Asia,Asia,456510,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1999,1999,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern America,Americas,3408,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1999,1999,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern Europe,Europe,30791,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1999,1999,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",South-eastern Asia,Asia,54675,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1999,1999,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Europe,Europe,478372,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1999,1999,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Europe,Europe,204561,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1999,1999,Import,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",World,World,1381948,34.9823018,33.1451285,,

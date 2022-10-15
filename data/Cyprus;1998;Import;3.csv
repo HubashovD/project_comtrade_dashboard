@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Australia and New Zealand,Oceania,2214069
-1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Asia,Asia,239183
-1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Europe,Europe,7001
-1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Latin America and the Caribbean,Americas,255160
-1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern Africa,Africa,1017401
-1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern America,Americas,206503
-1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern Europe,Europe,2331565
-1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",South-eastern Asia,Asia,4616031
-1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Southern Europe,Europe,1543551
-1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Sub-Saharan Africa,Africa,646915
-1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Asia,Asia,15207
-1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Europe,Europe,1107743
-1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",World,World,20090950
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Australia and New Zealand,Oceania,2214069,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Asia,Asia,239183,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Europe,Europe,7001,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Latin America and the Caribbean,Americas,255160,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern Africa,Africa,1017401,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern America,Americas,206503,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern Europe,Europe,2331565,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",South-eastern Asia,Asia,4616031,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Southern Europe,Europe,1543551,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Sub-Saharan Africa,Africa,646915,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Asia,Asia,15207,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Europe,Europe,1107743,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1998,1998,Import,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",World,World,20090950,34.9823018,33.1451285,,

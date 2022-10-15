@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Cyprus,1,Live animals,Eastern Europe,Europe,1952
-1997,1997,Export,Cyprus,1,Live animals,Northern America,Americas,781
-1997,1997,Export,Cyprus,1,Live animals,Northern Europe,Europe,28036
-1997,1997,Export,Cyprus,1,Live animals,Southern Europe,Europe,1332362
-1997,1997,Export,Cyprus,1,Live animals,Sub-Saharan Africa,Africa,3711
-1997,1997,Export,Cyprus,1,Live animals,Western Europe,Europe,6387
-1997,1997,Export,Cyprus,1,Live animals,World,World,7946956
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Cyprus,1,Live animals,Eastern Europe,Europe,1952,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1997,1997,Export,Cyprus,1,Live animals,Northern America,Americas,781,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1997,1997,Export,Cyprus,1,Live animals,Northern Europe,Europe,28036,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1997,1997,Export,Cyprus,1,Live animals,Southern Europe,Europe,1332362,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1997,1997,Export,Cyprus,1,Live animals,Sub-Saharan Africa,Africa,3711,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1997,1997,Export,Cyprus,1,Live animals,Western Europe,Europe,6387,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1997,1997,Export,Cyprus,1,Live animals,World,World,7946956,34.9823018,33.1451285,,
