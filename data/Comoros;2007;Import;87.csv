@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,25014
-2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",Latin America and the Caribbean,Americas,414
-2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",Melanesia,Oceania,11918
-2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",Northern Africa,Africa,8659
-2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",Northern Europe,Europe,36364
-2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,4800
-2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",Sub-Saharan Africa,Africa,110636
-2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",Western Europe,Europe,2380665
-2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",World,World,5464364
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,25014,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",Latin America and the Caribbean,Americas,414,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",Melanesia,Oceania,11918,-12.2045176,44.2832964,1.0108650891006263,147.3257485906919
+2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",Northern Africa,Africa,8659,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",Northern Europe,Europe,36364,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,4800,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",Sub-Saharan Africa,Africa,110636,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",Western Europe,Europe,2380665,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2007,2007,Import,Comoros,87,"Vehicles other than railway, tramway",World,World,5464364,-12.2045176,44.2832964,,

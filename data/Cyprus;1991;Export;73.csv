@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1991,1991,Export,Cyprus,73,Articles of iron or steel,Australia and New Zealand,Oceania,25572
-1991,1991,Export,Cyprus,73,Articles of iron or steel,Eastern Asia,Asia,3442
-1991,1991,Export,Cyprus,73,Articles of iron or steel,Eastern Europe,Europe,69009
-1991,1991,Export,Cyprus,73,Articles of iron or steel,Northern Africa,Africa,465504
-1991,1991,Export,Cyprus,73,Articles of iron or steel,Northern America,Americas,23675
-1991,1991,Export,Cyprus,73,Articles of iron or steel,Northern Europe,Europe,644991
-1991,1991,Export,Cyprus,73,Articles of iron or steel,Southern Asia,Asia,52969
-1991,1991,Export,Cyprus,73,Articles of iron or steel,Southern Europe,Europe,2169385
-1991,1991,Export,Cyprus,73,Articles of iron or steel,Sub-Saharan Africa,Africa,16050
-1991,1991,Export,Cyprus,73,Articles of iron or steel,Western Asia,Asia,244845
-1991,1991,Export,Cyprus,73,Articles of iron or steel,Western Europe,Europe,83073
-1991,1991,Export,Cyprus,73,Articles of iron or steel,World,World,5131596
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1991,1991,Export,Cyprus,73,Articles of iron or steel,Australia and New Zealand,Oceania,25572,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1991,1991,Export,Cyprus,73,Articles of iron or steel,Eastern Asia,Asia,3442,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1991,1991,Export,Cyprus,73,Articles of iron or steel,Eastern Europe,Europe,69009,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1991,1991,Export,Cyprus,73,Articles of iron or steel,Northern Africa,Africa,465504,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1991,1991,Export,Cyprus,73,Articles of iron or steel,Northern America,Americas,23675,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1991,1991,Export,Cyprus,73,Articles of iron or steel,Northern Europe,Europe,644991,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1991,1991,Export,Cyprus,73,Articles of iron or steel,Southern Asia,Asia,52969,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1991,1991,Export,Cyprus,73,Articles of iron or steel,Southern Europe,Europe,2169385,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1991,1991,Export,Cyprus,73,Articles of iron or steel,Sub-Saharan Africa,Africa,16050,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1991,1991,Export,Cyprus,73,Articles of iron or steel,Western Asia,Asia,244845,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1991,1991,Export,Cyprus,73,Articles of iron or steel,Western Europe,Europe,83073,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1991,1991,Export,Cyprus,73,Articles of iron or steel,World,World,5131596,34.9823018,33.1451285,,

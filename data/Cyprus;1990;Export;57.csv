@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,Australia and New Zealand,Oceania,710
-1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,Northern Africa,Africa,980
-1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,Northern America,Americas,19585
-1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,Northern Europe,Europe,16207
-1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,South-eastern Asia,Asia,1475
-1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,Southern Europe,Europe,89090
-1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,Western Asia,Asia,2105
-1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,Western Europe,Europe,89776
-1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,World,World,527609
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,Australia and New Zealand,Oceania,710,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,Northern Africa,Africa,980,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,Northern America,Americas,19585,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,Northern Europe,Europe,16207,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,South-eastern Asia,Asia,1475,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,Southern Europe,Europe,89090,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,Western Asia,Asia,2105,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,Western Europe,Europe,89776,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1990,1990,Export,Cyprus,57,Carpets and other textile floor coverings,World,World,527609,34.9823018,33.1451285,,

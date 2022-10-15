@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,2211
-1990,1990,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,490213
-1990,1990,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,45269
-1990,1990,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,305780
-1990,1990,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,422704
-1990,1990,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,1321444
-1990,1990,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,2931692
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,2211,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1990,1990,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,490213,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1990,1990,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,45269,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1990,1990,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,305780,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1990,1990,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,422704,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,1321444,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1990,1990,Import,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,2931692,34.9823018,33.1451285,,

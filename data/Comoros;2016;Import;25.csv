@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Comoros,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Eastern Asia,Asia,527075
-2016,2016,Import,Comoros,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Latin America and the Caribbean,Americas,37153
-2016,2016,Import,Comoros,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",South-eastern Asia,Asia,3978203
-2016,2016,Import,Comoros,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Southern Europe,Europe,327
-2016,2016,Import,Comoros,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Sub-Saharan Africa,Africa,510030
-2016,2016,Import,Comoros,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Western Europe,Europe,506782
-2016,2016,Import,Comoros,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",World,World,12114501
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Comoros,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Eastern Asia,Asia,527075,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2016,2016,Import,Comoros,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Latin America and the Caribbean,Americas,37153,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2016,2016,Import,Comoros,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",South-eastern Asia,Asia,3978203,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2016,2016,Import,Comoros,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Southern Europe,Europe,327,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2016,2016,Import,Comoros,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Sub-Saharan Africa,Africa,510030,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2016,2016,Import,Comoros,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Western Europe,Europe,506782,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2016,2016,Import,Comoros,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",World,World,12114501,-12.2045176,44.2832964,,

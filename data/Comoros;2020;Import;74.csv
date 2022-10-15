@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Comoros,74,Copper and articles thereof,Eastern Asia,Asia,12510
-2020,2020,Import,Comoros,74,Copper and articles thereof,Sub-Saharan Africa,Africa,73
-2020,2020,Import,Comoros,74,Copper and articles thereof,Western Asia,Asia,4703
-2020,2020,Import,Comoros,74,Copper and articles thereof,Western Europe,Europe,2856
-2020,2020,Import,Comoros,74,Copper and articles thereof,World,World,26279
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Comoros,74,Copper and articles thereof,Eastern Asia,Asia,12510,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2020,2020,Import,Comoros,74,Copper and articles thereof,Sub-Saharan Africa,Africa,73,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2020,2020,Import,Comoros,74,Copper and articles thereof,Western Asia,Asia,4703,-12.2045176,44.2832964,26.42921218083572,52.86847103284948
+2020,2020,Import,Comoros,74,Copper and articles thereof,Western Europe,Europe,2856,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2020,2020,Import,Comoros,74,Copper and articles thereof,World,World,26279,-12.2045176,44.2832964,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,Eastern Europe,Europe,1961
-1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,Northern Africa,Africa,15428
-1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,Northern America,Americas,7781
-1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,Northern Europe,Europe,16598
-1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,Southern Europe,Europe,30242
-1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,34694
-1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,Western Asia,Asia,289071
-1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,World,World,1111672
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,Eastern Europe,Europe,1961,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,Northern Africa,Africa,15428,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,Northern America,Americas,7781,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,Northern Europe,Europe,16598,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,Southern Europe,Europe,30242,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,34694,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,Western Asia,Asia,289071,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1990,1990,Export,Cyprus,17,Sugars and sugar confectionery,World,World,1111672,34.9823018,33.1451285,,

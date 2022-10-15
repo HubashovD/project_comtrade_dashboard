@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Australia and New Zealand,Oceania,433372
-1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,33432897
-1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Eastern Europe,Europe,244651
-1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Latin America and the Caribbean,Americas,654746
-1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Northern Africa,Africa,74129
-1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,21933446
-1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,44460758
-1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,2802700
-1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Southern Asia,Asia,1922
-1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,63129498
-1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,1187
-1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Western Asia,Asia,5978
-1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,28892334
-1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",World,World,252245776
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Australia and New Zealand,Oceania,433372,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,33432897,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Eastern Europe,Europe,244651,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Latin America and the Caribbean,Americas,654746,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Northern Africa,Africa,74129,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,21933446,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,44460758,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,2802700,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Southern Asia,Asia,1922,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,63129498,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,1187,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Western Asia,Asia,5978,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,28892334,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1990,1990,Import,Cyprus,84,"Nuclear reactors, boilers, machinery, etc",World,World,252245776,34.9823018,33.1451285,,

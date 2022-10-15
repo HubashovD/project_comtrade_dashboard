@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Import,Cyprus,76,Aluminium and articles thereof,Eastern Asia,Asia,130872
-1990,1990,Import,Cyprus,76,Aluminium and articles thereof,Eastern Europe,Europe,241259
-1990,1990,Import,Cyprus,76,Aluminium and articles thereof,Northern Africa,Africa,527546
-1990,1990,Import,Cyprus,76,Aluminium and articles thereof,Northern America,Americas,3591438
-1990,1990,Import,Cyprus,76,Aluminium and articles thereof,Northern Europe,Europe,2416302
-1990,1990,Import,Cyprus,76,Aluminium and articles thereof,South-eastern Asia,Asia,14247
-1990,1990,Import,Cyprus,76,Aluminium and articles thereof,Southern Europe,Europe,16758951
-1990,1990,Import,Cyprus,76,Aluminium and articles thereof,Western Europe,Europe,2711394
-1990,1990,Import,Cyprus,76,Aluminium and articles thereof,World,World,31733556
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Import,Cyprus,76,Aluminium and articles thereof,Eastern Asia,Asia,130872,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1990,1990,Import,Cyprus,76,Aluminium and articles thereof,Eastern Europe,Europe,241259,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1990,1990,Import,Cyprus,76,Aluminium and articles thereof,Northern Africa,Africa,527546,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1990,1990,Import,Cyprus,76,Aluminium and articles thereof,Northern America,Americas,3591438,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1990,1990,Import,Cyprus,76,Aluminium and articles thereof,Northern Europe,Europe,2416302,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1990,1990,Import,Cyprus,76,Aluminium and articles thereof,South-eastern Asia,Asia,14247,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1990,1990,Import,Cyprus,76,Aluminium and articles thereof,Southern Europe,Europe,16758951,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Import,Cyprus,76,Aluminium and articles thereof,Western Europe,Europe,2711394,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1990,1990,Import,Cyprus,76,Aluminium and articles thereof,World,World,31733556,34.9823018,33.1451285,,

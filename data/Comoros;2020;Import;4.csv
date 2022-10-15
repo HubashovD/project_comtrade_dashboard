@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Australia and New Zealand,Oceania,617589
-2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,11
-2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,260225
-2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Latin America and the Caribbean,Americas,51867
-2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Africa,Africa,30910
-2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Europe,Europe,1425
-2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,2009647
-2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Asia,Asia,194900
-2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Europe,Europe,325986
-2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Sub-Saharan Africa,Africa,858473
-2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Europe,Europe,2892584
-2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,9102884
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Australia and New Zealand,Oceania,617589,-12.2045176,44.2832964,-16.85099460447687,133.4130365630627
+2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,11,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,260225,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Latin America and the Caribbean,Americas,51867,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Africa,Africa,30910,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Europe,Europe,1425,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,2009647,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Asia,Asia,194900,-12.2045176,44.2832964,25.499703063807168,75.5024015339642
+2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Europe,Europe,325986,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Sub-Saharan Africa,Africa,858473,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Europe,Europe,2892584,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2020,2020,Import,Comoros,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,9102884,-12.2045176,44.2832964,,

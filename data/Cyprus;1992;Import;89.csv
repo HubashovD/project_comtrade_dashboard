@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",Eastern Asia,Asia,804090
-1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",Eastern Europe,Europe,6486
-1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",Northern America,Americas,855653
-1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",Northern Europe,Europe,1339725
-1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",Southern Europe,Europe,573112
-1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",Western Asia,Asia,23293
-1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",Western Europe,Europe,417794
-1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",World,World,4103472
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",Eastern Asia,Asia,804090,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",Eastern Europe,Europe,6486,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",Northern America,Americas,855653,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",Northern Europe,Europe,1339725,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",Southern Europe,Europe,573112,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",Western Asia,Asia,23293,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",Western Europe,Europe,417794,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1992,1992,Import,Cyprus,89,"Ships, boats and other floating structures",World,World,4103472,34.9823018,33.1451285,,

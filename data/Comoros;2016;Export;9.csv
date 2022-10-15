@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,723600
-2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,112398
-2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Northern Africa,Africa,134058
-2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Northern America,Americas,410867
-2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Northern Europe,Europe,169906
-2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,3564601
-2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Southern Asia,Asia,49455
-2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Southern Europe,Europe,367514
-2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,2839342
-2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Western Asia,Asia,121948
-2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Western Europe,Europe,3691350
-2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",World,World,25142843
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,723600,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,112398,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Northern Africa,Africa,134058,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Northern America,Americas,410867,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Northern Europe,Europe,169906,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,3564601,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Southern Asia,Asia,49455,-12.2045176,44.2832964,25.499703063807168,75.5024015339642
+2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Southern Europe,Europe,367514,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,2839342,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Western Asia,Asia,121948,-12.2045176,44.2832964,26.42921218083572,52.86847103284948
+2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",Western Europe,Europe,3691350,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2016,2016,Export,Comoros,9,"Coffee, tea, mate and spices",World,World,25142843,-12.2045176,44.2832964,,

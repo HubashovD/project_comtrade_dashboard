@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Australia and New Zealand,Oceania,727
-1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Eastern Asia,Asia,268934
-1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Eastern Europe,Europe,2325756
-1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Latin America and the Caribbean,Americas,812651
-1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Northern America,Americas,4671600
-1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Northern Europe,Europe,6532600
-1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",South-eastern Asia,Asia,3307506
-1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Southern Europe,Europe,10076602
-1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Sub-Saharan Africa,Africa,1221775
-1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Western Europe,Europe,1200928
-1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",World,World,43079424
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Australia and New Zealand,Oceania,727,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Eastern Asia,Asia,268934,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Eastern Europe,Europe,2325756,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Latin America and the Caribbean,Americas,812651,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Northern America,Americas,4671600,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Northern Europe,Europe,6532600,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",South-eastern Asia,Asia,3307506,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Southern Europe,Europe,10076602,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Sub-Saharan Africa,Africa,1221775,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",Western Europe,Europe,1200928,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1990,1990,Import,Cyprus,44,"Wood and articles of wood, wood charcoal",World,World,43079424,34.9823018,33.1451285,,

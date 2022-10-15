@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Export,Cyprus,29,Organic chemicals,Northern Africa,Africa,5382
-1990,1990,Export,Cyprus,29,Organic chemicals,Sub-Saharan Africa,Africa,21343
-1990,1990,Export,Cyprus,29,Organic chemicals,World,World,221445
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Export,Cyprus,29,Organic chemicals,Northern Africa,Africa,5382,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1990,1990,Export,Cyprus,29,Organic chemicals,Sub-Saharan Africa,Africa,21343,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1990,1990,Export,Cyprus,29,Organic chemicals,World,World,221445,34.9823018,33.1451285,,

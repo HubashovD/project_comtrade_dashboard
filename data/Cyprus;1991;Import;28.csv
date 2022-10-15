@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Australia and New Zealand,Oceania,2799
-1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Eastern Asia,Asia,125605
-1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Eastern Europe,Europe,172089
-1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Latin America and the Caribbean,Americas,33060
-1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Northern America,Americas,245022
-1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Northern Europe,Europe,2722326
-1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Southern Europe,Europe,2065679
-1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Western Europe,Europe,3483857
-1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",World,World,9841833
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Australia and New Zealand,Oceania,2799,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Eastern Asia,Asia,125605,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Eastern Europe,Europe,172089,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Latin America and the Caribbean,Americas,33060,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Northern America,Americas,245022,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Northern Europe,Europe,2722326,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Southern Europe,Europe,2065679,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",Western Europe,Europe,3483857,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1991,1991,Import,Cyprus,28,"Inorganic chemicals, precious metal compound, isotope",World,World,9841833,34.9823018,33.1451285,,

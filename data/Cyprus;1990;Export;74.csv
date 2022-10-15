@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Export,Cyprus,74,Copper and articles thereof,Northern Africa,Africa,581
-1990,1990,Export,Cyprus,74,Copper and articles thereof,Northern Europe,Europe,155489
-1990,1990,Export,Cyprus,74,Copper and articles thereof,Southern Europe,Europe,392822
-1990,1990,Export,Cyprus,74,Copper and articles thereof,Western Europe,Europe,124998
-1990,1990,Export,Cyprus,74,Copper and articles thereof,World,World,1546581
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Export,Cyprus,74,Copper and articles thereof,Northern Africa,Africa,581,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1990,1990,Export,Cyprus,74,Copper and articles thereof,Northern Europe,Europe,155489,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1990,1990,Export,Cyprus,74,Copper and articles thereof,Southern Europe,Europe,392822,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Export,Cyprus,74,Copper and articles thereof,Western Europe,Europe,124998,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1990,1990,Export,Cyprus,74,Copper and articles thereof,World,World,1546581,34.9823018,33.1451285,,

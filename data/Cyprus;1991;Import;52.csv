@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1991,1991,Import,Cyprus,52,Cotton,Australia and New Zealand,Oceania,2495
-1991,1991,Import,Cyprus,52,Cotton,Eastern Asia,Asia,3889027
-1991,1991,Import,Cyprus,52,Cotton,Eastern Europe,Europe,759856
-1991,1991,Import,Cyprus,52,Cotton,Latin America and the Caribbean,Americas,13467
-1991,1991,Import,Cyprus,52,Cotton,Northern Africa,Africa,5915603
-1991,1991,Import,Cyprus,52,Cotton,Northern America,Americas,696932
-1991,1991,Import,Cyprus,52,Cotton,Northern Europe,Europe,1573505
-1991,1991,Import,Cyprus,52,Cotton,South-eastern Asia,Asia,357489
-1991,1991,Import,Cyprus,52,Cotton,Southern Asia,Asia,33144
-1991,1991,Import,Cyprus,52,Cotton,Southern Europe,Europe,6989826
-1991,1991,Import,Cyprus,52,Cotton,Western Asia,Asia,111100
-1991,1991,Import,Cyprus,52,Cotton,Western Europe,Europe,8343770
-1991,1991,Import,Cyprus,52,Cotton,World,World,42059516
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1991,1991,Import,Cyprus,52,Cotton,Australia and New Zealand,Oceania,2495,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1991,1991,Import,Cyprus,52,Cotton,Eastern Asia,Asia,3889027,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1991,1991,Import,Cyprus,52,Cotton,Eastern Europe,Europe,759856,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1991,1991,Import,Cyprus,52,Cotton,Latin America and the Caribbean,Americas,13467,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1991,1991,Import,Cyprus,52,Cotton,Northern Africa,Africa,5915603,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1991,1991,Import,Cyprus,52,Cotton,Northern America,Americas,696932,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1991,1991,Import,Cyprus,52,Cotton,Northern Europe,Europe,1573505,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1991,1991,Import,Cyprus,52,Cotton,South-eastern Asia,Asia,357489,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1991,1991,Import,Cyprus,52,Cotton,Southern Asia,Asia,33144,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1991,1991,Import,Cyprus,52,Cotton,Southern Europe,Europe,6989826,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1991,1991,Import,Cyprus,52,Cotton,Western Asia,Asia,111100,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1991,1991,Import,Cyprus,52,Cotton,Western Europe,Europe,8343770,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1991,1991,Import,Cyprus,52,Cotton,World,World,42059516,34.9823018,33.1451285,,

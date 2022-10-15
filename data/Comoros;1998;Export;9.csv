@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Comoros,9,"Coffee, tea, mate and spices",Northern America,Americas,206316
-1998,1998,Export,Comoros,9,"Coffee, tea, mate and spices",Northern Europe,Europe,284492
-1998,1998,Export,Comoros,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,49183
-1998,1998,Export,Comoros,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,679
-1998,1998,Export,Comoros,9,"Coffee, tea, mate and spices",Western Europe,Europe,1893243
-1998,1998,Export,Comoros,9,"Coffee, tea, mate and spices",World,World,2449137
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Comoros,9,"Coffee, tea, mate and spices",Northern America,Americas,206316,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+1998,1998,Export,Comoros,9,"Coffee, tea, mate and spices",Northern Europe,Europe,284492,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+1998,1998,Export,Comoros,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,49183,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+1998,1998,Export,Comoros,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,679,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+1998,1998,Export,Comoros,9,"Coffee, tea, mate and spices",Western Europe,Europe,1893243,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+1998,1998,Export,Comoros,9,"Coffee, tea, mate and spices",World,World,2449137,-12.2045176,44.2832964,,

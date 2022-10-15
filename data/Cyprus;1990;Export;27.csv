@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,50655
-1990,1990,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,16760
-1990,1990,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Sub-Saharan Africa,Africa,36429
-1990,1990,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,1126
-1990,1990,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,3020
-1990,1990,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",World,World,61358564
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,50655,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1990,1990,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,16760,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Sub-Saharan Africa,Africa,36429,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1990,1990,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,1126,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1990,1990,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,3020,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1990,1990,Export,Cyprus,27,"Mineral fuels, oils, distillation products, etc",World,World,61358564,34.9823018,33.1451285,,

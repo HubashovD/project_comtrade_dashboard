@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1991,1991,Import,Cyprus,5,"Products of animal origin, nes",Australia and New Zealand,Oceania,34664
-1991,1991,Import,Cyprus,5,"Products of animal origin, nes",Eastern Asia,Asia,294459
-1991,1991,Import,Cyprus,5,"Products of animal origin, nes",Latin America and the Caribbean,Americas,15404
-1991,1991,Import,Cyprus,5,"Products of animal origin, nes",Northern America,Americas,29870
-1991,1991,Import,Cyprus,5,"Products of animal origin, nes",Northern Europe,Europe,24436
-1991,1991,Import,Cyprus,5,"Products of animal origin, nes",South-eastern Asia,Asia,22282
-1991,1991,Import,Cyprus,5,"Products of animal origin, nes",Southern Europe,Europe,51037
-1991,1991,Import,Cyprus,5,"Products of animal origin, nes",Western Europe,Europe,57801
-1991,1991,Import,Cyprus,5,"Products of animal origin, nes",World,World,603572
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1991,1991,Import,Cyprus,5,"Products of animal origin, nes",Australia and New Zealand,Oceania,34664,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1991,1991,Import,Cyprus,5,"Products of animal origin, nes",Eastern Asia,Asia,294459,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1991,1991,Import,Cyprus,5,"Products of animal origin, nes",Latin America and the Caribbean,Americas,15404,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1991,1991,Import,Cyprus,5,"Products of animal origin, nes",Northern America,Americas,29870,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1991,1991,Import,Cyprus,5,"Products of animal origin, nes",Northern Europe,Europe,24436,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1991,1991,Import,Cyprus,5,"Products of animal origin, nes",South-eastern Asia,Asia,22282,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1991,1991,Import,Cyprus,5,"Products of animal origin, nes",Southern Europe,Europe,51037,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1991,1991,Import,Cyprus,5,"Products of animal origin, nes",Western Europe,Europe,57801,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1991,1991,Import,Cyprus,5,"Products of animal origin, nes",World,World,603572,34.9823018,33.1451285,,

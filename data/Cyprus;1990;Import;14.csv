@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Import,Cyprus,14,"Vegetable plaiting materials, vegetable products nes",Eastern Asia,Asia,32527
-1990,1990,Import,Cyprus,14,"Vegetable plaiting materials, vegetable products nes",Eastern Europe,Europe,12803
-1990,1990,Import,Cyprus,14,"Vegetable plaiting materials, vegetable products nes",Northern Africa,Africa,13293
-1990,1990,Import,Cyprus,14,"Vegetable plaiting materials, vegetable products nes",South-eastern Asia,Asia,271440
-1990,1990,Import,Cyprus,14,"Vegetable plaiting materials, vegetable products nes",Southern Europe,Europe,18950
-1990,1990,Import,Cyprus,14,"Vegetable plaiting materials, vegetable products nes",Sub-Saharan Africa,Africa,4808
-1990,1990,Import,Cyprus,14,"Vegetable plaiting materials, vegetable products nes",World,World,375126
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Import,Cyprus,14,"Vegetable plaiting materials, vegetable products nes",Eastern Asia,Asia,32527,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1990,1990,Import,Cyprus,14,"Vegetable plaiting materials, vegetable products nes",Eastern Europe,Europe,12803,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1990,1990,Import,Cyprus,14,"Vegetable plaiting materials, vegetable products nes",Northern Africa,Africa,13293,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1990,1990,Import,Cyprus,14,"Vegetable plaiting materials, vegetable products nes",South-eastern Asia,Asia,271440,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1990,1990,Import,Cyprus,14,"Vegetable plaiting materials, vegetable products nes",Southern Europe,Europe,18950,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Import,Cyprus,14,"Vegetable plaiting materials, vegetable products nes",Sub-Saharan Africa,Africa,4808,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1990,1990,Import,Cyprus,14,"Vegetable plaiting materials, vegetable products nes",World,World,375126,34.9823018,33.1451285,,

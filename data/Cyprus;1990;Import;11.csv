@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Import,Cyprus,11,"Milling products, malt, starches, inulin, wheat glute",Eastern Europe,Europe,15783
-1990,1990,Import,Cyprus,11,"Milling products, malt, starches, inulin, wheat glute",Northern Africa,Africa,12010
-1990,1990,Import,Cyprus,11,"Milling products, malt, starches, inulin, wheat glute",Northern America,Americas,2325
-1990,1990,Import,Cyprus,11,"Milling products, malt, starches, inulin, wheat glute",Northern Europe,Europe,359342
-1990,1990,Import,Cyprus,11,"Milling products, malt, starches, inulin, wheat glute",Southern Europe,Europe,482853
-1990,1990,Import,Cyprus,11,"Milling products, malt, starches, inulin, wheat glute",Western Europe,Europe,1487799
-1990,1990,Import,Cyprus,11,"Milling products, malt, starches, inulin, wheat glute",World,World,2818158
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Import,Cyprus,11,"Milling products, malt, starches, inulin, wheat glute",Eastern Europe,Europe,15783,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1990,1990,Import,Cyprus,11,"Milling products, malt, starches, inulin, wheat glute",Northern Africa,Africa,12010,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1990,1990,Import,Cyprus,11,"Milling products, malt, starches, inulin, wheat glute",Northern America,Americas,2325,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1990,1990,Import,Cyprus,11,"Milling products, malt, starches, inulin, wheat glute",Northern Europe,Europe,359342,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1990,1990,Import,Cyprus,11,"Milling products, malt, starches, inulin, wheat glute",Southern Europe,Europe,482853,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Import,Cyprus,11,"Milling products, malt, starches, inulin, wheat glute",Western Europe,Europe,1487799,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1990,1990,Import,Cyprus,11,"Milling products, malt, starches, inulin, wheat glute",World,World,2818158,34.9823018,33.1451285,,

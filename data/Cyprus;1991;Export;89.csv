@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1991,1991,Export,Cyprus,89,"Ships, boats and other floating structures",Northern Africa,Africa,1941
-1991,1991,Export,Cyprus,89,"Ships, boats and other floating structures",Northern Europe,Europe,150868
-1991,1991,Export,Cyprus,89,"Ships, boats and other floating structures",South-eastern Asia,Asia,48475
-1991,1991,Export,Cyprus,89,"Ships, boats and other floating structures",Southern Europe,Europe,91971
-1991,1991,Export,Cyprus,89,"Ships, boats and other floating structures",World,World,454654
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1991,1991,Export,Cyprus,89,"Ships, boats and other floating structures",Northern Africa,Africa,1941,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1991,1991,Export,Cyprus,89,"Ships, boats and other floating structures",Northern Europe,Europe,150868,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1991,1991,Export,Cyprus,89,"Ships, boats and other floating structures",South-eastern Asia,Asia,48475,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1991,1991,Export,Cyprus,89,"Ships, boats and other floating structures",Southern Europe,Europe,91971,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1991,1991,Export,Cyprus,89,"Ships, boats and other floating structures",World,World,454654,34.9823018,33.1451285,,

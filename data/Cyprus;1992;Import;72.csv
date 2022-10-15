@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Import,Cyprus,72,Iron and steel,Eastern Asia,Asia,326346
-1992,1992,Import,Cyprus,72,Iron and steel,Eastern Europe,Europe,21393143
-1992,1992,Import,Cyprus,72,Iron and steel,Northern Africa,Africa,50162
-1992,1992,Import,Cyprus,72,Iron and steel,Northern America,Americas,7490
-1992,1992,Import,Cyprus,72,Iron and steel,Northern Europe,Europe,5851675
-1992,1992,Import,Cyprus,72,Iron and steel,South-eastern Asia,Asia,786
-1992,1992,Import,Cyprus,72,Iron and steel,Southern Europe,Europe,36486141
-1992,1992,Import,Cyprus,72,Iron and steel,Western Europe,Europe,6772917
-1992,1992,Import,Cyprus,72,Iron and steel,World,World,77003888
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Import,Cyprus,72,Iron and steel,Eastern Asia,Asia,326346,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1992,1992,Import,Cyprus,72,Iron and steel,Eastern Europe,Europe,21393143,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1992,1992,Import,Cyprus,72,Iron and steel,Northern Africa,Africa,50162,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1992,1992,Import,Cyprus,72,Iron and steel,Northern America,Americas,7490,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1992,1992,Import,Cyprus,72,Iron and steel,Northern Europe,Europe,5851675,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1992,1992,Import,Cyprus,72,Iron and steel,South-eastern Asia,Asia,786,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1992,1992,Import,Cyprus,72,Iron and steel,Southern Europe,Europe,36486141,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1992,1992,Import,Cyprus,72,Iron and steel,Western Europe,Europe,6772917,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1992,1992,Import,Cyprus,72,Iron and steel,World,World,77003888,34.9823018,33.1451285,,

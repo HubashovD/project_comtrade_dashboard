@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,182680
-2015,2015,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,30364
-2015,2015,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,65530
-2015,2015,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,242468
-2015,2015,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,549011
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,182680,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2015,2015,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,30364,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2015,2015,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,65530,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2015,2015,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,242468,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2015,2015,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,549011,-12.2045176,44.2832964,,

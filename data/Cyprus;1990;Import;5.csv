@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Import,Cyprus,5,"Products of animal origin, nes",Australia and New Zealand,Oceania,1425
-1990,1990,Import,Cyprus,5,"Products of animal origin, nes",Eastern Asia,Asia,186213
-1990,1990,Import,Cyprus,5,"Products of animal origin, nes",Northern America,Americas,14325
-1990,1990,Import,Cyprus,5,"Products of animal origin, nes",Northern Europe,Europe,57251
-1990,1990,Import,Cyprus,5,"Products of animal origin, nes",South-eastern Asia,Asia,16155
-1990,1990,Import,Cyprus,5,"Products of animal origin, nes",Southern Europe,Europe,44017
-1990,1990,Import,Cyprus,5,"Products of animal origin, nes",Western Europe,Europe,23391
-1990,1990,Import,Cyprus,5,"Products of animal origin, nes",World,World,436147
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Import,Cyprus,5,"Products of animal origin, nes",Australia and New Zealand,Oceania,1425,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1990,1990,Import,Cyprus,5,"Products of animal origin, nes",Eastern Asia,Asia,186213,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1990,1990,Import,Cyprus,5,"Products of animal origin, nes",Northern America,Americas,14325,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1990,1990,Import,Cyprus,5,"Products of animal origin, nes",Northern Europe,Europe,57251,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1990,1990,Import,Cyprus,5,"Products of animal origin, nes",South-eastern Asia,Asia,16155,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1990,1990,Import,Cyprus,5,"Products of animal origin, nes",Southern Europe,Europe,44017,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Import,Cyprus,5,"Products of animal origin, nes",Western Europe,Europe,23391,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1990,1990,Import,Cyprus,5,"Products of animal origin, nes",World,World,436147,34.9823018,33.1451285,,

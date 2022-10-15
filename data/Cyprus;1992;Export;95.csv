@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Eastern Europe,Europe,215570
-1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Northern Africa,Africa,17520
-1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Northern America,Americas,753
-1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Northern Europe,Europe,875
-1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Southern Asia,Asia,598
-1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Southern Europe,Europe,531610
-1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Sub-Saharan Africa,Africa,10203
-1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Western Europe,Europe,2334
-1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",World,World,1435160
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Eastern Europe,Europe,215570,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Northern Africa,Africa,17520,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Northern America,Americas,753,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Northern Europe,Europe,875,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Southern Asia,Asia,598,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Southern Europe,Europe,531610,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Sub-Saharan Africa,Africa,10203,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",Western Europe,Europe,2334,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1992,1992,Export,Cyprus,95,"Toys, games, sports requisites",World,World,1435160,34.9823018,33.1451285,,

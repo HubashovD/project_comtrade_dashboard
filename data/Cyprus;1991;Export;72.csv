@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1991,1991,Export,Cyprus,72,Iron and steel,Northern Europe,Europe,22410
-1991,1991,Export,Cyprus,72,Iron and steel,Southern Europe,Europe,1534014
-1991,1991,Export,Cyprus,72,Iron and steel,Western Asia,Asia,1831
-1991,1991,Export,Cyprus,72,Iron and steel,Western Europe,Europe,379913
-1991,1991,Export,Cyprus,72,Iron and steel,World,World,1984074
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1991,1991,Export,Cyprus,72,Iron and steel,Northern Europe,Europe,22410,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1991,1991,Export,Cyprus,72,Iron and steel,Southern Europe,Europe,1534014,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1991,1991,Export,Cyprus,72,Iron and steel,Western Asia,Asia,1831,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1991,1991,Export,Cyprus,72,Iron and steel,Western Europe,Europe,379913,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1991,1991,Export,Cyprus,72,Iron and steel,World,World,1984074,34.9823018,33.1451285,,

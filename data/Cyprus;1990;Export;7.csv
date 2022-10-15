@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Australia and New Zealand,Oceania,32965
-1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Eastern Europe,Europe,10895
-1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Northern America,Americas,3325
-1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Northern Europe,Europe,39120869
-1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,South-eastern Asia,Asia,4358
-1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Southern Europe,Europe,184938
-1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Sub-Saharan Africa,Africa,54959
-1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Western Asia,Asia,22445
-1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Western Europe,Europe,5619045
-1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,World,World,71551104
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Australia and New Zealand,Oceania,32965,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Eastern Europe,Europe,10895,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Northern America,Americas,3325,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Northern Europe,Europe,39120869,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,South-eastern Asia,Asia,4358,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Southern Europe,Europe,184938,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Sub-Saharan Africa,Africa,54959,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Western Asia,Asia,22445,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,Western Europe,Europe,5619045,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1990,1990,Export,Cyprus,7,Edible vegetables and certain roots and tubers,World,World,71551104,34.9823018,33.1451285,,

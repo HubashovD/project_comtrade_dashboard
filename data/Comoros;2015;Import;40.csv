@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Comoros,40,Rubber and articles thereof,Eastern Asia,Asia,37950
-2015,2015,Import,Comoros,40,Rubber and articles thereof,Northern America,Americas,1043
-2015,2015,Import,Comoros,40,Rubber and articles thereof,Northern Europe,Europe,78251
-2015,2015,Import,Comoros,40,Rubber and articles thereof,South-eastern Asia,Asia,1781
-2015,2015,Import,Comoros,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,54279
-2015,2015,Import,Comoros,40,Rubber and articles thereof,Western Europe,Europe,252538
-2015,2015,Import,Comoros,40,Rubber and articles thereof,World,World,800365
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Comoros,40,Rubber and articles thereof,Eastern Asia,Asia,37950,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2015,2015,Import,Comoros,40,Rubber and articles thereof,Northern America,Americas,1043,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2015,2015,Import,Comoros,40,Rubber and articles thereof,Northern Europe,Europe,78251,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2015,2015,Import,Comoros,40,Rubber and articles thereof,South-eastern Asia,Asia,1781,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2015,2015,Import,Comoros,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,54279,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2015,2015,Import,Comoros,40,Rubber and articles thereof,Western Europe,Europe,252538,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2015,2015,Import,Comoros,40,Rubber and articles thereof,World,World,800365,-12.2045176,44.2832964,,

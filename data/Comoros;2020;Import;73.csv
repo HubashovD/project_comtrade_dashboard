@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Comoros,73,Iron or steel articles,Eastern Asia,Asia,685220
-2020,2020,Import,Comoros,73,Iron or steel articles,Eastern Europe,Europe,68916
-2020,2020,Import,Comoros,73,Iron or steel articles,Latin America and the Caribbean,Americas,34
-2020,2020,Import,Comoros,73,Iron or steel articles,Northern Africa,Africa,1261
-2020,2020,Import,Comoros,73,Iron or steel articles,South-eastern Asia,Asia,1255
-2020,2020,Import,Comoros,73,Iron or steel articles,Southern Europe,Europe,2972
-2020,2020,Import,Comoros,73,Iron or steel articles,Sub-Saharan Africa,Africa,38574
-2020,2020,Import,Comoros,73,Iron or steel articles,Western Asia,Asia,146733
-2020,2020,Import,Comoros,73,Iron or steel articles,Western Europe,Europe,524977
-2020,2020,Import,Comoros,73,Iron or steel articles,World,World,2303542
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Comoros,73,Iron or steel articles,Eastern Asia,Asia,685220,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2020,2020,Import,Comoros,73,Iron or steel articles,Eastern Europe,Europe,68916,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2020,2020,Import,Comoros,73,Iron or steel articles,Latin America and the Caribbean,Americas,34,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2020,2020,Import,Comoros,73,Iron or steel articles,Northern Africa,Africa,1261,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2020,2020,Import,Comoros,73,Iron or steel articles,South-eastern Asia,Asia,1255,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2020,2020,Import,Comoros,73,Iron or steel articles,Southern Europe,Europe,2972,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2020,2020,Import,Comoros,73,Iron or steel articles,Sub-Saharan Africa,Africa,38574,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2020,2020,Import,Comoros,73,Iron or steel articles,Western Asia,Asia,146733,-12.2045176,44.2832964,26.42921218083572,52.86847103284948
+2020,2020,Import,Comoros,73,Iron or steel articles,Western Europe,Europe,524977,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2020,2020,Import,Comoros,73,Iron or steel articles,World,World,2303542,-12.2045176,44.2832964,,

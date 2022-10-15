@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Comoros,29,Organic chemicals,Eastern Asia,Asia,5950
-2016,2016,Import,Comoros,29,Organic chemicals,Sub-Saharan Africa,Africa,1745
-2016,2016,Import,Comoros,29,Organic chemicals,Western Europe,Europe,11463
-2016,2016,Import,Comoros,29,Organic chemicals,World,World,25463
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Comoros,29,Organic chemicals,Eastern Asia,Asia,5950,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2016,2016,Import,Comoros,29,Organic chemicals,Sub-Saharan Africa,Africa,1745,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2016,2016,Import,Comoros,29,Organic chemicals,Western Europe,Europe,11463,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2016,2016,Import,Comoros,29,Organic chemicals,World,World,25463,-12.2045176,44.2832964,,

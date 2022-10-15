@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Import,Cyprus,69,Ceramic products,Eastern Asia,Asia,1512629
-1992,1992,Import,Cyprus,69,Ceramic products,Eastern Europe,Europe,719277
-1992,1992,Import,Cyprus,69,Ceramic products,Latin America and the Caribbean,Americas,115664
-1992,1992,Import,Cyprus,69,Ceramic products,Northern Africa,Africa,13306
-1992,1992,Import,Cyprus,69,Ceramic products,Northern America,Americas,25873
-1992,1992,Import,Cyprus,69,Ceramic products,Northern Europe,Europe,5104540
-1992,1992,Import,Cyprus,69,Ceramic products,South-eastern Asia,Asia,67082
-1992,1992,Import,Cyprus,69,Ceramic products,Southern Asia,Asia,11466
-1992,1992,Import,Cyprus,69,Ceramic products,Southern Europe,Europe,21518023
-1992,1992,Import,Cyprus,69,Ceramic products,Western Europe,Europe,6460003
-1992,1992,Import,Cyprus,69,Ceramic products,World,World,36668424
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Import,Cyprus,69,Ceramic products,Eastern Asia,Asia,1512629,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1992,1992,Import,Cyprus,69,Ceramic products,Eastern Europe,Europe,719277,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1992,1992,Import,Cyprus,69,Ceramic products,Latin America and the Caribbean,Americas,115664,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1992,1992,Import,Cyprus,69,Ceramic products,Northern Africa,Africa,13306,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1992,1992,Import,Cyprus,69,Ceramic products,Northern America,Americas,25873,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1992,1992,Import,Cyprus,69,Ceramic products,Northern Europe,Europe,5104540,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1992,1992,Import,Cyprus,69,Ceramic products,South-eastern Asia,Asia,67082,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1992,1992,Import,Cyprus,69,Ceramic products,Southern Asia,Asia,11466,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1992,1992,Import,Cyprus,69,Ceramic products,Southern Europe,Europe,21518023,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1992,1992,Import,Cyprus,69,Ceramic products,Western Europe,Europe,6460003,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1992,1992,Import,Cyprus,69,Ceramic products,World,World,36668424,34.9823018,33.1451285,,

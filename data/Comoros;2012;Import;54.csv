@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Comoros,54,Man-made filaments,Eastern Asia,Asia,457
-2012,2012,Import,Comoros,54,Man-made filaments,Southern Asia,Asia,261
-2012,2012,Import,Comoros,54,Man-made filaments,Sub-Saharan Africa,Africa,236
-2012,2012,Import,Comoros,54,Man-made filaments,Western Europe,Europe,26
-2012,2012,Import,Comoros,54,Man-made filaments,World,World,4426
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Comoros,54,Man-made filaments,Eastern Asia,Asia,457,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2012,2012,Import,Comoros,54,Man-made filaments,Southern Asia,Asia,261,-12.2045176,44.2832964,25.499703063807168,75.5024015339642
+2012,2012,Import,Comoros,54,Man-made filaments,Sub-Saharan Africa,Africa,236,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2012,2012,Import,Comoros,54,Man-made filaments,Western Europe,Europe,26,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2012,2012,Import,Comoros,54,Man-made filaments,World,World,4426,-12.2045176,44.2832964,,

@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1991,1991,Export,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Northern America,Americas,16406
-1991,1991,Export,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Southern Europe,Europe,16284
-1991,1991,Export,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Sub-Saharan Africa,Africa,614
-1991,1991,Export,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Western Asia,Asia,3338
-1991,1991,Export,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",World,World,248861
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1991,1991,Export,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Northern America,Americas,16406,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1991,1991,Export,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Southern Europe,Europe,16284,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1991,1991,Export,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Sub-Saharan Africa,Africa,614,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1991,1991,Export,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",Western Asia,Asia,3338,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1991,1991,Export,Cyprus,35,"Albuminoids, modified starches, glues, enzymes",World,World,248861,34.9823018,33.1451285,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Comoros,72,Iron and steel,Eastern Asia,Asia,797637
-2015,2015,Import,Comoros,72,Iron and steel,Latin America and the Caribbean,Americas,116408
-2015,2015,Import,Comoros,72,Iron and steel,Sub-Saharan Africa,Africa,230975
-2015,2015,Import,Comoros,72,Iron and steel,Western Asia,Asia,1821797
-2015,2015,Import,Comoros,72,Iron and steel,Western Europe,Europe,710952
-2015,2015,Import,Comoros,72,Iron and steel,World,World,9122770
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Comoros,72,Iron and steel,Eastern Asia,Asia,797637,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2015,2015,Import,Comoros,72,Iron and steel,Latin America and the Caribbean,Americas,116408,-12.2045176,44.2832964,17.925141963241547,-78.01492950057497
+2015,2015,Import,Comoros,72,Iron and steel,Sub-Saharan Africa,Africa,230975,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2015,2015,Import,Comoros,72,Iron and steel,Western Asia,Asia,1821797,-12.2045176,44.2832964,26.42921218083572,52.86847103284948
+2015,2015,Import,Comoros,72,Iron and steel,Western Europe,Europe,710952,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2015,2015,Import,Comoros,72,Iron and steel,World,World,9122770,-12.2045176,44.2832964,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Comoros,38,Chemical products n.e.c.,Eastern Asia,Asia,30931
-2016,2016,Import,Comoros,38,Chemical products n.e.c.,Northern Africa,Africa,915
-2016,2016,Import,Comoros,38,Chemical products n.e.c.,Northern Europe,Europe,1953
-2016,2016,Import,Comoros,38,Chemical products n.e.c.,South-eastern Asia,Asia,4296
-2016,2016,Import,Comoros,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,15022
-2016,2016,Import,Comoros,38,Chemical products n.e.c.,Western Europe,Europe,27860
-2016,2016,Import,Comoros,38,Chemical products n.e.c.,World,World,162005
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Comoros,38,Chemical products n.e.c.,Eastern Asia,Asia,30931,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2016,2016,Import,Comoros,38,Chemical products n.e.c.,Northern Africa,Africa,915,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2016,2016,Import,Comoros,38,Chemical products n.e.c.,Northern Europe,Europe,1953,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2016,2016,Import,Comoros,38,Chemical products n.e.c.,South-eastern Asia,Asia,4296,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2016,2016,Import,Comoros,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,15022,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2016,2016,Import,Comoros,38,Chemical products n.e.c.,Western Europe,Europe,27860,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2016,2016,Import,Comoros,38,Chemical products n.e.c.,World,World,162005,-12.2045176,44.2832964,,

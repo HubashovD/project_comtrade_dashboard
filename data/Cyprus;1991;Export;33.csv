@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Australia and New Zealand,Oceania,5870
-1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,6090
-1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,318979
-1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,231250
-1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,927243
-1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,9130
-1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,565833
-1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Sub-Saharan Africa,Africa,775
-1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,176800
-1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,182414
-1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,15343460
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Australia and New Zealand,Oceania,5870,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,6090,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,318979,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,231250,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,927243,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,9130,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,565833,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Sub-Saharan Africa,Africa,775,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,176800,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,182414,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1991,1991,Export,Cyprus,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,15343460,34.9823018,33.1451285,,

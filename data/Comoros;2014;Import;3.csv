@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,194389
-2014,2014,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Africa,Africa,821
-2014,2014,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,94758
-2014,2014,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,349805
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,194389,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2014,2014,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Africa,Africa,821,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2014,2014,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,94758,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2014,2014,Import,Comoros,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,349805,-12.2045176,44.2832964,,

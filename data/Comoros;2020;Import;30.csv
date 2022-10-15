@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Comoros,30,Pharmaceutical products,Eastern Asia,Asia,173802
-2020,2020,Import,Comoros,30,Pharmaceutical products,Northern America,Americas,4529
-2020,2020,Import,Comoros,30,Pharmaceutical products,Northern Europe,Europe,4645
-2020,2020,Import,Comoros,30,Pharmaceutical products,South-eastern Asia,Asia,50222
-2020,2020,Import,Comoros,30,Pharmaceutical products,Sub-Saharan Africa,Africa,522269
-2020,2020,Import,Comoros,30,Pharmaceutical products,Western Europe,Europe,2872419
-2020,2020,Import,Comoros,30,Pharmaceutical products,World,World,4528237
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Comoros,30,Pharmaceutical products,Eastern Asia,Asia,173802,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2020,2020,Import,Comoros,30,Pharmaceutical products,Northern America,Americas,4529,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2020,2020,Import,Comoros,30,Pharmaceutical products,Northern Europe,Europe,4645,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2020,2020,Import,Comoros,30,Pharmaceutical products,South-eastern Asia,Asia,50222,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2020,2020,Import,Comoros,30,Pharmaceutical products,Sub-Saharan Africa,Africa,522269,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2020,2020,Import,Comoros,30,Pharmaceutical products,Western Europe,Europe,2872419,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2020,2020,Import,Comoros,30,Pharmaceutical products,World,World,4528237,-12.2045176,44.2832964,,

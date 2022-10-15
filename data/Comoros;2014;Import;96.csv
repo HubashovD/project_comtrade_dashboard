@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Eastern Asia,Asia,290194
-2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Eastern Europe,Europe,141
-2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Northern Africa,Africa,20277
-2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Northern America,Americas,3929
-2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Northern Europe,Europe,27950
-2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,1013456
-2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Southern Europe,Europe,1261
-2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,34177
-2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Western Europe,Europe,120821
-2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,World,World,2388102
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Eastern Asia,Asia,290194,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Eastern Europe,Europe,141,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Northern Africa,Africa,20277,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Northern America,Americas,3929,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Northern Europe,Europe,27950,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,1013456,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Southern Europe,Europe,1261,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,34177,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,Western Europe,Europe,120821,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2014,2014,Import,Comoros,96,Miscellaneous manufactured articles,World,World,2388102,-12.2045176,44.2832964,,

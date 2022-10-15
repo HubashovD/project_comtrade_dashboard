@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",Northern Africa,Africa,207391
-2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",Northern America,Americas,423817
-2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",Northern Europe,Europe,181015
-2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,790349
-2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",Southern Europe,Europe,334755
-2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,2836798
-2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",Western Europe,Europe,3188832
-2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",World,World,10957370
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",Northern Africa,Africa,207391,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",Northern America,Americas,423817,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",Northern Europe,Europe,181015,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,790349,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",Southern Europe,Europe,334755,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,2836798,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",Western Europe,Europe,3188832,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2015,2015,Export,Comoros,9,"Coffee, tea, mate and spices",World,World,10957370,-12.2045176,44.2832964,,

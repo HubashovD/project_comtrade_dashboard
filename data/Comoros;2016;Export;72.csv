@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Comoros,72,Iron and steel,Eastern Asia,Asia,29105
-2016,2016,Export,Comoros,72,Iron and steel,Sub-Saharan Africa,Africa,66792
-2016,2016,Export,Comoros,72,Iron and steel,World,World,95901
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Comoros,72,Iron and steel,Eastern Asia,Asia,29105,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2016,2016,Export,Comoros,72,Iron and steel,Sub-Saharan Africa,Africa,66792,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2016,2016,Export,Comoros,72,Iron and steel,World,World,95901,-12.2045176,44.2832964,,

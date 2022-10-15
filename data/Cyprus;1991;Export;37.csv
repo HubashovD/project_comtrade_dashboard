@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1991,1991,Export,Cyprus,37,Photographic or cinematographic goods,Eastern Europe,Europe,1444
-1991,1991,Export,Cyprus,37,Photographic or cinematographic goods,Northern Europe,Europe,313411
-1991,1991,Export,Cyprus,37,Photographic or cinematographic goods,Southern Europe,Europe,80414
-1991,1991,Export,Cyprus,37,Photographic or cinematographic goods,Western Asia,Asia,2800
-1991,1991,Export,Cyprus,37,Photographic or cinematographic goods,Western Europe,Europe,1053692
-1991,1991,Export,Cyprus,37,Photographic or cinematographic goods,World,World,2224536
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1991,1991,Export,Cyprus,37,Photographic or cinematographic goods,Eastern Europe,Europe,1444,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1991,1991,Export,Cyprus,37,Photographic or cinematographic goods,Northern Europe,Europe,313411,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1991,1991,Export,Cyprus,37,Photographic or cinematographic goods,Southern Europe,Europe,80414,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1991,1991,Export,Cyprus,37,Photographic or cinematographic goods,Western Asia,Asia,2800,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1991,1991,Export,Cyprus,37,Photographic or cinematographic goods,Western Europe,Europe,1053692,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1991,1991,Export,Cyprus,37,Photographic or cinematographic goods,World,World,2224536,34.9823018,33.1451285,,

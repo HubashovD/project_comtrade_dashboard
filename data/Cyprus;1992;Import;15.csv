@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Australia and New Zealand,Oceania,6083
-1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Eastern Asia,Asia,10545
-1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Latin America and the Caribbean,Americas,2596351
-1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Northern America,Americas,1631559
-1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Northern Europe,Europe,2235253
-1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",South-eastern Asia,Asia,432817
-1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Europe,Europe,8469573
-1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Western Europe,Europe,4867359
-1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",World,World,21216430
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Australia and New Zealand,Oceania,6083,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Eastern Asia,Asia,10545,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Latin America and the Caribbean,Americas,2596351,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Northern America,Americas,1631559,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Northern Europe,Europe,2235253,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",South-eastern Asia,Asia,432817,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Europe,Europe,8469573,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",Western Europe,Europe,4867359,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1992,1992,Import,Cyprus,15,"Animal,vegetable fats and oils, cleavage products, et",World,World,21216430,34.9823018,33.1451285,,

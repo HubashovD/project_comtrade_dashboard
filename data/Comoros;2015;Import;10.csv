@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Comoros,10,Cereals,Australia and New Zealand,Oceania,13
-2015,2015,Import,Comoros,10,Cereals,Eastern Asia,Asia,1664569
-2015,2015,Import,Comoros,10,Cereals,South-eastern Asia,Asia,161916
-2015,2015,Import,Comoros,10,Cereals,Sub-Saharan Africa,Africa,125
-2015,2015,Import,Comoros,10,Cereals,Western Europe,Europe,517689
-2015,2015,Import,Comoros,10,Cereals,World,World,27349184
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Comoros,10,Cereals,Australia and New Zealand,Oceania,13,-12.2045176,44.2832964,-16.85099460447687,133.4130365630627
+2015,2015,Import,Comoros,10,Cereals,Eastern Asia,Asia,1664569,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2015,2015,Import,Comoros,10,Cereals,South-eastern Asia,Asia,161916,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2015,2015,Import,Comoros,10,Cereals,Sub-Saharan Africa,Africa,125,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2015,2015,Import,Comoros,10,Cereals,Western Europe,Europe,517689,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2015,2015,Import,Comoros,10,Cereals,World,World,27349184,-12.2045176,44.2832964,,

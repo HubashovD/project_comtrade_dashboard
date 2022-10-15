@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Import,Cyprus,73,Articles of iron or steel,Australia and New Zealand,Oceania,55527
-1992,1992,Import,Cyprus,73,Articles of iron or steel,Eastern Asia,Asia,4148506
-1992,1992,Import,Cyprus,73,Articles of iron or steel,Eastern Europe,Europe,1192415
-1992,1992,Import,Cyprus,73,Articles of iron or steel,Latin America and the Caribbean,Americas,219960
-1992,1992,Import,Cyprus,73,Articles of iron or steel,Northern Africa,Africa,2431551
-1992,1992,Import,Cyprus,73,Articles of iron or steel,Northern America,Americas,1759605
-1992,1992,Import,Cyprus,73,Articles of iron or steel,Northern Europe,Europe,12526819
-1992,1992,Import,Cyprus,73,Articles of iron or steel,South-eastern Asia,Asia,107410
-1992,1992,Import,Cyprus,73,Articles of iron or steel,Southern Europe,Europe,25913550
-1992,1992,Import,Cyprus,73,Articles of iron or steel,Sub-Saharan Africa,Africa,18312
-1992,1992,Import,Cyprus,73,Articles of iron or steel,Western Europe,Europe,40364787
-1992,1992,Import,Cyprus,73,Articles of iron or steel,World,World,97067760
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Import,Cyprus,73,Articles of iron or steel,Australia and New Zealand,Oceania,55527,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1992,1992,Import,Cyprus,73,Articles of iron or steel,Eastern Asia,Asia,4148506,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1992,1992,Import,Cyprus,73,Articles of iron or steel,Eastern Europe,Europe,1192415,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1992,1992,Import,Cyprus,73,Articles of iron or steel,Latin America and the Caribbean,Americas,219960,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1992,1992,Import,Cyprus,73,Articles of iron or steel,Northern Africa,Africa,2431551,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1992,1992,Import,Cyprus,73,Articles of iron or steel,Northern America,Americas,1759605,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1992,1992,Import,Cyprus,73,Articles of iron or steel,Northern Europe,Europe,12526819,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1992,1992,Import,Cyprus,73,Articles of iron or steel,South-eastern Asia,Asia,107410,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1992,1992,Import,Cyprus,73,Articles of iron or steel,Southern Europe,Europe,25913550,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1992,1992,Import,Cyprus,73,Articles of iron or steel,Sub-Saharan Africa,Africa,18312,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1992,1992,Import,Cyprus,73,Articles of iron or steel,Western Europe,Europe,40364787,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1992,1992,Import,Cyprus,73,Articles of iron or steel,World,World,97067760,34.9823018,33.1451285,,

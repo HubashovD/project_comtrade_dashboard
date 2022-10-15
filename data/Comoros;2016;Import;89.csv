@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Comoros,89,"Ships, boats and floating structures",Australia and New Zealand,Oceania,1685
-2016,2016,Import,Comoros,89,"Ships, boats and floating structures",Southern Asia,Asia,27229
-2016,2016,Import,Comoros,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,201
-2016,2016,Import,Comoros,89,"Ships, boats and floating structures",Western Europe,Europe,6500
-2016,2016,Import,Comoros,89,"Ships, boats and floating structures",World,World,56693
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Comoros,89,"Ships, boats and floating structures",Australia and New Zealand,Oceania,1685,-12.2045176,44.2832964,-16.85099460447687,133.4130365630627
+2016,2016,Import,Comoros,89,"Ships, boats and floating structures",Southern Asia,Asia,27229,-12.2045176,44.2832964,25.499703063807168,75.5024015339642
+2016,2016,Import,Comoros,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,201,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2016,2016,Import,Comoros,89,"Ships, boats and floating structures",Western Europe,Europe,6500,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2016,2016,Import,Comoros,89,"Ships, boats and floating structures",World,World,56693,-12.2045176,44.2832964,,

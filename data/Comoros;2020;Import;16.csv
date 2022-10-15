@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Comoros,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Eastern Asia,Asia,37692
-2020,2020,Import,Comoros,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Eastern Europe,Europe,28992
-2020,2020,Import,Comoros,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",South-eastern Asia,Asia,260741
-2020,2020,Import,Comoros,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Southern Europe,Europe,4093
-2020,2020,Import,Comoros,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Sub-Saharan Africa,Africa,368479
-2020,2020,Import,Comoros,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Western Europe,Europe,131036
-2020,2020,Import,Comoros,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",World,World,2741475
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Comoros,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Eastern Asia,Asia,37692,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2020,2020,Import,Comoros,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Eastern Europe,Europe,28992,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2020,2020,Import,Comoros,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",South-eastern Asia,Asia,260741,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2020,2020,Import,Comoros,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Southern Europe,Europe,4093,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2020,2020,Import,Comoros,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Sub-Saharan Africa,Africa,368479,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2020,2020,Import,Comoros,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Western Europe,Europe,131036,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2020,2020,Import,Comoros,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",World,World,2741475,-12.2045176,44.2832964,,

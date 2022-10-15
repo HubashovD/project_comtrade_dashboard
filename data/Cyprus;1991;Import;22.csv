@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,5110
-1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,8204
-1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,128202
-1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Northern America,Americas,609272
-1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Northern Europe,Europe,11591779
-1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Southern Europe,Europe,1674116
-1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Western Asia,Asia,211976
-1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Western Europe,Europe,3856172
-1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",World,World,19360872
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,5110,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,8204,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,128202,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Northern America,Americas,609272,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Northern Europe,Europe,11591779,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Southern Europe,Europe,1674116,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Western Asia,Asia,211976,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",Western Europe,Europe,3856172,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1991,1991,Import,Cyprus,22,"Beverages, spirits and vinegar",World,World,19360872,34.9823018,33.1451285,,

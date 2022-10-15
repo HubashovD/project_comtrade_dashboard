@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1991,1991,Export,Cyprus,5,"Products of animal origin, nes",Northern Europe,Europe,30299
-1991,1991,Export,Cyprus,5,"Products of animal origin, nes",Southern Europe,Europe,88643
-1991,1991,Export,Cyprus,5,"Products of animal origin, nes",Western Europe,Europe,108381
-1991,1991,Export,Cyprus,5,"Products of animal origin, nes",World,World,324678
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1991,1991,Export,Cyprus,5,"Products of animal origin, nes",Northern Europe,Europe,30299,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1991,1991,Export,Cyprus,5,"Products of animal origin, nes",Southern Europe,Europe,88643,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1991,1991,Export,Cyprus,5,"Products of animal origin, nes",Western Europe,Europe,108381,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1991,1991,Export,Cyprus,5,"Products of animal origin, nes",World,World,324678,34.9823018,33.1451285,,

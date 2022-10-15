@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,6596
-1990,1990,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,45206
-1990,1990,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,1522970
-1990,1990,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,834
-1990,1990,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,22553
-1990,1990,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",World,World,1679422
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,6596,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1990,1990,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,45206,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1990,1990,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,1522970,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,834,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1990,1990,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,22553,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1990,1990,Re-Export,Cyprus,49,"Printed books, newspapers, pictures etc",World,World,1679422,34.9823018,33.1451285,,

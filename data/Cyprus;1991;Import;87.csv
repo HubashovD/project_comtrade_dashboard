@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,8778
-1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,187103093
-1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,35589
-1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Latin America and the Caribbean,Americas,198678
-1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Northern Africa,Africa,2105
-1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Northern America,Americas,3633310
-1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Northern Europe,Europe,22986595
-1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,257939
-1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Southern Europe,Europe,10385652
-1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Western Europe,Europe,48183593
-1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",World,World,277024416
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,8778,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,187103093,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,35589,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Latin America and the Caribbean,Americas,198678,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Northern Africa,Africa,2105,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Northern America,Americas,3633310,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Northern Europe,Europe,22986595,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,257939,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Southern Europe,Europe,10385652,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",Western Europe,Europe,48183593,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1991,1991,Import,Cyprus,87,"Vehicles other than railway, tramway",World,World,277024416,34.9823018,33.1451285,,

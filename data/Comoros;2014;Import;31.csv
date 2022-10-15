@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Comoros,31,Fertilizers,Southern Europe,Europe,17085
-2014,2014,Import,Comoros,31,Fertilizers,Sub-Saharan Africa,Africa,138021
-2014,2014,Import,Comoros,31,Fertilizers,Western Europe,Europe,97755
-2014,2014,Import,Comoros,31,Fertilizers,World,World,275318
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Comoros,31,Fertilizers,Southern Europe,Europe,17085,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2014,2014,Import,Comoros,31,Fertilizers,Sub-Saharan Africa,Africa,138021,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2014,2014,Import,Comoros,31,Fertilizers,Western Europe,Europe,97755,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2014,2014,Import,Comoros,31,Fertilizers,World,World,275318,-12.2045176,44.2832964,,

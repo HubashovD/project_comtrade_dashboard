@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,17950
-2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,225140
-2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",Northern America,Americas,1505668
-2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",Northern Europe,Europe,92661
-2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,111194
-2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",Southern Europe,Europe,368330
-2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",Western Asia,Asia,57439
-2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",Western Europe,Europe,5358167
-2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",World,World,12769018
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,17950,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,225140,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",Northern America,Americas,1505668,-12.2045176,44.2832964,43.897683433510366,-100.08947125585888
+2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",Northern Europe,Europe,92661,-12.2045176,44.2832964,59.36075159783851,25.01346951967388
+2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,111194,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",Southern Europe,Europe,368330,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",Western Asia,Asia,57439,-12.2045176,44.2832964,26.42921218083572,52.86847103284948
+2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",Western Europe,Europe,5358167,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2020,2020,Export,Comoros,9,"Coffee, tea, mate and spices",World,World,12769018,-12.2045176,44.2832964,,

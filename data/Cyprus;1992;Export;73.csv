@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1992,1992,Export,Cyprus,73,Articles of iron or steel,Australia and New Zealand,Oceania,10228
-1992,1992,Export,Cyprus,73,Articles of iron or steel,Eastern Europe,Europe,77454
-1992,1992,Export,Cyprus,73,Articles of iron or steel,Northern Africa,Africa,413850
-1992,1992,Export,Cyprus,73,Articles of iron or steel,Northern America,Americas,3478
-1992,1992,Export,Cyprus,73,Articles of iron or steel,Northern Europe,Europe,755231
-1992,1992,Export,Cyprus,73,Articles of iron or steel,Southern Europe,Europe,757212
-1992,1992,Export,Cyprus,73,Articles of iron or steel,Western Asia,Asia,154520
-1992,1992,Export,Cyprus,73,Articles of iron or steel,Western Europe,Europe,60265
-1992,1992,Export,Cyprus,73,Articles of iron or steel,World,World,3991790
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1992,1992,Export,Cyprus,73,Articles of iron or steel,Australia and New Zealand,Oceania,10228,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+1992,1992,Export,Cyprus,73,Articles of iron or steel,Eastern Europe,Europe,77454,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1992,1992,Export,Cyprus,73,Articles of iron or steel,Northern Africa,Africa,413850,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1992,1992,Export,Cyprus,73,Articles of iron or steel,Northern America,Americas,3478,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1992,1992,Export,Cyprus,73,Articles of iron or steel,Northern Europe,Europe,755231,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1992,1992,Export,Cyprus,73,Articles of iron or steel,Southern Europe,Europe,757212,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1992,1992,Export,Cyprus,73,Articles of iron or steel,Western Asia,Asia,154520,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1992,1992,Export,Cyprus,73,Articles of iron or steel,Western Europe,Europe,60265,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1992,1992,Export,Cyprus,73,Articles of iron or steel,World,World,3991790,34.9823018,33.1451285,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Import,Cyprus,80,Tin and articles thereof,Eastern Asia,Asia,14600
-1990,1990,Import,Cyprus,80,Tin and articles thereof,Eastern Europe,Europe,2493
-1990,1990,Import,Cyprus,80,Tin and articles thereof,Northern America,Americas,1407
-1990,1990,Import,Cyprus,80,Tin and articles thereof,Northern Europe,Europe,44607
-1990,1990,Import,Cyprus,80,Tin and articles thereof,Southern Europe,Europe,1869
-1990,1990,Import,Cyprus,80,Tin and articles thereof,World,World,118884
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Import,Cyprus,80,Tin and articles thereof,Eastern Asia,Asia,14600,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1990,1990,Import,Cyprus,80,Tin and articles thereof,Eastern Europe,Europe,2493,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1990,1990,Import,Cyprus,80,Tin and articles thereof,Northern America,Americas,1407,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1990,1990,Import,Cyprus,80,Tin and articles thereof,Northern Europe,Europe,44607,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1990,1990,Import,Cyprus,80,Tin and articles thereof,Southern Europe,Europe,1869,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Import,Cyprus,80,Tin and articles thereof,World,World,118884,34.9823018,33.1451285,,

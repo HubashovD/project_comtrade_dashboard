@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Asia,Asia,48716
-2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Europe,Europe,22384
-2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Africa,Africa,104279
-2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",South-eastern Asia,Asia,109685
-2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Asia,Asia,47868
-2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Europe,Europe,11456
-2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Sub-Saharan Africa,Africa,175998
-2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Europe,Europe,278277
-2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,2310105
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Asia,Asia,48716,-12.2045176,44.2832964,37.977378106878206,73.97804075806764
+2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Europe,Europe,22384,-12.2045176,44.2832964,51.67568633314729,27.673469819741847
+2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Africa,Africa,104279,-12.2045176,44.2832964,19.569604022535763,12.47761721199581
+2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",South-eastern Asia,Asia,109685,-12.2045176,44.2832964,10.528384761701911,103.08333472012376
+2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Asia,Asia,47868,-12.2045176,44.2832964,25.499703063807168,75.5024015339642
+2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Europe,Europe,11456,-12.2045176,44.2832964,40.12399607988535,20.742583178432696
+2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Sub-Saharan Africa,Africa,175998,-12.2045176,44.2832964,6.06272746187266,22.727528470146083
+2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Europe,Europe,278277,-12.2045176,44.2832964,47.92172048214207,7.866753258497997
+2015,2015,Import,Comoros,20,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,2310105,-12.2045176,44.2832964,,

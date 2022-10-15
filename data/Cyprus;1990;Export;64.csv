@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Eastern Asia,Asia,1315395
-1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Eastern Europe,Europe,504957
-1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Latin America and the Caribbean,Americas,224892
-1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Northern Africa,Africa,498755
-1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Northern America,Americas,881098
-1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Northern Europe,Europe,3759821
-1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Southern Asia,Asia,6755
-1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Southern Europe,Europe,3039551
-1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Sub-Saharan Africa,Africa,51395
-1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Western Asia,Asia,18108
-1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Western Europe,Europe,969477
-1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",World,World,34129204
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Eastern Asia,Asia,1315395,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Eastern Europe,Europe,504957,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Latin America and the Caribbean,Americas,224892,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Northern Africa,Africa,498755,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Northern America,Americas,881098,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Northern Europe,Europe,3759821,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Southern Asia,Asia,6755,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Southern Europe,Europe,3039551,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Sub-Saharan Africa,Africa,51395,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Western Asia,Asia,18108,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",Western Europe,Europe,969477,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+1990,1990,Export,Cyprus,64,"Footwear, gaiters and the like, parts thereof",World,World,34129204,34.9823018,33.1451285,,
