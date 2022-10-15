@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,Algeria,31,Fertilisers,Northern America,Americas,4177493
-2011,2011,Export,Algeria,31,Fertilisers,Sub-Saharan Africa,Africa,2109445
-2011,2011,Export,Algeria,31,Fertilisers,Western Asia,Asia,3377876
-2011,2011,Export,Algeria,31,Fertilisers,World,World,9664813
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,Algeria,31,Fertilisers,Northern America,Americas,4177493,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2011,2011,Export,Algeria,31,Fertilisers,Sub-Saharan Africa,Africa,2109445,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2011,2011,Export,Algeria,31,Fertilisers,Western Asia,Asia,3377876,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2011,2011,Export,Algeria,31,Fertilisers,World,World,9664813,28.0000272,2.9999825,,

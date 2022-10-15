@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Export,Algeria,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,8
-2013,2013,Export,Algeria,83,Metal; miscellaneous products of base metal,Northern America,Americas,69952
-2013,2013,Export,Algeria,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,8927
-2013,2013,Export,Algeria,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,149470
-2013,2013,Export,Algeria,83,Metal; miscellaneous products of base metal,Western Europe,Europe,88738
-2013,2013,Export,Algeria,83,Metal; miscellaneous products of base metal,World,World,317094
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Export,Algeria,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,8,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2013,2013,Export,Algeria,83,Metal; miscellaneous products of base metal,Northern America,Americas,69952,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2013,2013,Export,Algeria,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,8927,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2013,2013,Export,Algeria,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,149470,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2013,2013,Export,Algeria,83,Metal; miscellaneous products of base metal,Western Europe,Europe,88738,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2013,2013,Export,Algeria,83,Metal; miscellaneous products of base metal,World,World,317094,28.0000272,2.9999825,,

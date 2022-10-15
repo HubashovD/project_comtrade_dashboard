@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Australia and New Zealand,Oceania,41587
-2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Eastern Asia,Asia,87194608
-2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Eastern Europe,Europe,12556468
-2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Latin America and the Caribbean,Americas,984736
-2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Northern Africa,Africa,619134
-2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Northern America,Americas,2140737
-2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Northern Europe,Europe,327772540
-2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,South-eastern Asia,Asia,27224543
-2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Southern Asia,Asia,4
-2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Southern Europe,Europe,114012624
-2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Sub-Saharan Africa,Africa,2146391
-2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Western Asia,Asia,5644223
-2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Western Europe,Europe,198502615
-2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,World,World,779983249
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Australia and New Zealand,Oceania,41587,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Eastern Asia,Asia,87194608,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Eastern Europe,Europe,12556468,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Latin America and the Caribbean,Americas,984736,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Northern Africa,Africa,619134,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Northern America,Americas,2140737,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Northern Europe,Europe,327772540,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,South-eastern Asia,Asia,27224543,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Southern Asia,Asia,4,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Southern Europe,Europe,114012624,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Sub-Saharan Africa,Africa,2146391,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Western Asia,Asia,5644223,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,Western Europe,Europe,198502615,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2012,2012,Import,Algeria,44,Wood and articles of wood; wood charcoal,World,World,779983249,28.0000272,2.9999825,,

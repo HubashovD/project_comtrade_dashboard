@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Export,Algeria,2,Meat and edible meat offal,Eastern Asia,Asia,7605
-2012,2012,Export,Algeria,2,Meat and edible meat offal,South-eastern Asia,Asia,25829
-2012,2012,Export,Algeria,2,Meat and edible meat offal,World,World,33434
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Export,Algeria,2,Meat and edible meat offal,Eastern Asia,Asia,7605,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2012,2012,Export,Algeria,2,Meat and edible meat offal,South-eastern Asia,Asia,25829,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2012,2012,Export,Algeria,2,Meat and edible meat offal,World,World,33434,28.0000272,2.9999825,,

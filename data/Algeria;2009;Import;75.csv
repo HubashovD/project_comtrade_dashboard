@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Algeria,75,Nickel and articles thereof,Australia and New Zealand,Oceania,84
-2009,2009,Import,Algeria,75,Nickel and articles thereof,Eastern Asia,Asia,30353
-2009,2009,Import,Algeria,75,Nickel and articles thereof,Eastern Europe,Europe,3023
-2009,2009,Import,Algeria,75,Nickel and articles thereof,Northern America,Americas,48311
-2009,2009,Import,Algeria,75,Nickel and articles thereof,Northern Europe,Europe,233703
-2009,2009,Import,Algeria,75,Nickel and articles thereof,Southern Europe,Europe,84962
-2009,2009,Import,Algeria,75,Nickel and articles thereof,Western Asia,Asia,3485
-2009,2009,Import,Algeria,75,Nickel and articles thereof,Western Europe,Europe,353263
-2009,2009,Import,Algeria,75,Nickel and articles thereof,World,World,764320
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Algeria,75,Nickel and articles thereof,Australia and New Zealand,Oceania,84,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2009,2009,Import,Algeria,75,Nickel and articles thereof,Eastern Asia,Asia,30353,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2009,2009,Import,Algeria,75,Nickel and articles thereof,Eastern Europe,Europe,3023,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2009,2009,Import,Algeria,75,Nickel and articles thereof,Northern America,Americas,48311,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2009,2009,Import,Algeria,75,Nickel and articles thereof,Northern Europe,Europe,233703,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2009,2009,Import,Algeria,75,Nickel and articles thereof,Southern Europe,Europe,84962,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2009,2009,Import,Algeria,75,Nickel and articles thereof,Western Asia,Asia,3485,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2009,2009,Import,Algeria,75,Nickel and articles thereof,Western Europe,Europe,353263,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2009,2009,Import,Algeria,75,Nickel and articles thereof,World,World,764320,28.0000272,2.9999825,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Export,Algeria,38,Chemical products n.e.c.,Eastern Asia,Asia,53881
-2012,2012,Export,Algeria,38,Chemical products n.e.c.,Eastern Europe,Europe,7849
-2012,2012,Export,Algeria,38,Chemical products n.e.c.,Northern Africa,Africa,516536
-2012,2012,Export,Algeria,38,Chemical products n.e.c.,Northern America,Americas,125660
-2012,2012,Export,Algeria,38,Chemical products n.e.c.,Southern Europe,Europe,1312
-2012,2012,Export,Algeria,38,Chemical products n.e.c.,Western Asia,Asia,124217
-2012,2012,Export,Algeria,38,Chemical products n.e.c.,Western Europe,Europe,59426
-2012,2012,Export,Algeria,38,Chemical products n.e.c.,World,World,910704
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Export,Algeria,38,Chemical products n.e.c.,Eastern Asia,Asia,53881,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2012,2012,Export,Algeria,38,Chemical products n.e.c.,Eastern Europe,Europe,7849,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2012,2012,Export,Algeria,38,Chemical products n.e.c.,Northern Africa,Africa,516536,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2012,2012,Export,Algeria,38,Chemical products n.e.c.,Northern America,Americas,125660,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2012,2012,Export,Algeria,38,Chemical products n.e.c.,Southern Europe,Europe,1312,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2012,2012,Export,Algeria,38,Chemical products n.e.c.,Western Asia,Asia,124217,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2012,2012,Export,Algeria,38,Chemical products n.e.c.,Western Europe,Europe,59426,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2012,2012,Export,Algeria,38,Chemical products n.e.c.,World,World,910704,28.0000272,2.9999825,,

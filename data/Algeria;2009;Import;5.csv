@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Algeria,5,"Products of animal origin, not elsewhere specified or included",Australia and New Zealand,Oceania,48667
-2009,2009,Import,Algeria,5,"Products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,382997
-2009,2009,Import,Algeria,5,"Products of animal origin, not elsewhere specified or included",Northern America,Americas,72808
-2009,2009,Import,Algeria,5,"Products of animal origin, not elsewhere specified or included",Western Europe,Europe,109986
-2009,2009,Import,Algeria,5,"Products of animal origin, not elsewhere specified or included",World,World,614458
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Algeria,5,"Products of animal origin, not elsewhere specified or included",Australia and New Zealand,Oceania,48667,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2009,2009,Import,Algeria,5,"Products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,382997,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2009,2009,Import,Algeria,5,"Products of animal origin, not elsewhere specified or included",Northern America,Americas,72808,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2009,2009,Import,Algeria,5,"Products of animal origin, not elsewhere specified or included",Western Europe,Europe,109986,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2009,2009,Import,Algeria,5,"Products of animal origin, not elsewhere specified or included",World,World,614458,28.0000272,2.9999825,,

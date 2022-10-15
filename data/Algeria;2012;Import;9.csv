@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,27324461
-2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,1137456
-2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,9634795
-2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Northern Africa,Africa,4904184
-2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Northern America,Americas,15358
-2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Northern Europe,Europe,467450
-2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,164817010
-2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Southern Asia,Asia,385260
-2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Southern Europe,Europe,2325283
-2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,157012149
-2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Western Asia,Asia,7302706
-2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Western Europe,Europe,2596336
-2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",World,World,392080315
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,27324461,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,1137456,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,9634795,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Northern Africa,Africa,4904184,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Northern America,Americas,15358,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Northern Europe,Europe,467450,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,164817010,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Southern Asia,Asia,385260,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Southern Europe,Europe,2325283,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,157012149,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Western Asia,Asia,7302706,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",Western Europe,Europe,2596336,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2012,2012,Import,Algeria,9,"Coffee, tea, mate and spices",World,World,392080315,28.0000272,2.9999825,,

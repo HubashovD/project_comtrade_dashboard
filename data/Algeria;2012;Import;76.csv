@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Algeria,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,928
-2012,2012,Import,Algeria,76,Aluminium and articles thereof,Eastern Asia,Asia,79785300
-2012,2012,Import,Algeria,76,Aluminium and articles thereof,Eastern Europe,Europe,19166735
-2012,2012,Import,Algeria,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,15815
-2012,2012,Import,Algeria,76,Aluminium and articles thereof,Northern Africa,Africa,12254021
-2012,2012,Import,Algeria,76,Aluminium and articles thereof,Northern America,Americas,1566513
-2012,2012,Import,Algeria,76,Aluminium and articles thereof,Northern Europe,Europe,14154757
-2012,2012,Import,Algeria,76,Aluminium and articles thereof,South-eastern Asia,Asia,45733
-2012,2012,Import,Algeria,76,Aluminium and articles thereof,Southern Europe,Europe,110077571
-2012,2012,Import,Algeria,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,8393
-2012,2012,Import,Algeria,76,Aluminium and articles thereof,Western Asia,Asia,21660136
-2012,2012,Import,Algeria,76,Aluminium and articles thereof,Western Europe,Europe,62662361
-2012,2012,Import,Algeria,76,Aluminium and articles thereof,World,World,407918555
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Algeria,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,928,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2012,2012,Import,Algeria,76,Aluminium and articles thereof,Eastern Asia,Asia,79785300,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2012,2012,Import,Algeria,76,Aluminium and articles thereof,Eastern Europe,Europe,19166735,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2012,2012,Import,Algeria,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,15815,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2012,2012,Import,Algeria,76,Aluminium and articles thereof,Northern Africa,Africa,12254021,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2012,2012,Import,Algeria,76,Aluminium and articles thereof,Northern America,Americas,1566513,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2012,2012,Import,Algeria,76,Aluminium and articles thereof,Northern Europe,Europe,14154757,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2012,2012,Import,Algeria,76,Aluminium and articles thereof,South-eastern Asia,Asia,45733,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2012,2012,Import,Algeria,76,Aluminium and articles thereof,Southern Europe,Europe,110077571,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2012,2012,Import,Algeria,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,8393,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2012,2012,Import,Algeria,76,Aluminium and articles thereof,Western Asia,Asia,21660136,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2012,2012,Import,Algeria,76,Aluminium and articles thereof,Western Europe,Europe,62662361,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2012,2012,Import,Algeria,76,Aluminium and articles thereof,World,World,407918555,28.0000272,2.9999825,,

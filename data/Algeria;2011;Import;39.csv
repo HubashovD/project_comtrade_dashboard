@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Algeria,39,Plastics and articles thereof,Australia and New Zealand,Oceania,33680
-2011,2011,Import,Algeria,39,Plastics and articles thereof,Central Asia,Asia,8183368
-2011,2011,Import,Algeria,39,Plastics and articles thereof,Eastern Asia,Asia,247285377
-2011,2011,Import,Algeria,39,Plastics and articles thereof,Eastern Europe,Europe,10624045
-2011,2011,Import,Algeria,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,11962767
-2011,2011,Import,Algeria,39,Plastics and articles thereof,Melanesia,Oceania,27
-2011,2011,Import,Algeria,39,Plastics and articles thereof,Northern Africa,Africa,46846999
-2011,2011,Import,Algeria,39,Plastics and articles thereof,Northern America,Americas,127800980
-2011,2011,Import,Algeria,39,Plastics and articles thereof,Northern Europe,Europe,53912545
-2011,2011,Import,Algeria,39,Plastics and articles thereof,South-eastern Asia,Asia,18315066
-2011,2011,Import,Algeria,39,Plastics and articles thereof,Southern Asia,Asia,60833
-2011,2011,Import,Algeria,39,Plastics and articles thereof,Southern Europe,Europe,284617111
-2011,2011,Import,Algeria,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,1967313
-2011,2011,Import,Algeria,39,Plastics and articles thereof,Western Asia,Asia,47461728
-2011,2011,Import,Algeria,39,Plastics and articles thereof,Western Europe,Europe,368556631
-2011,2011,Import,Algeria,39,Plastics and articles thereof,World,World,1676710379
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Algeria,39,Plastics and articles thereof,Australia and New Zealand,Oceania,33680,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2011,2011,Import,Algeria,39,Plastics and articles thereof,Central Asia,Asia,8183368,28.0000272,2.9999825,39.89317229901691,61.060280637304274
+2011,2011,Import,Algeria,39,Plastics and articles thereof,Eastern Asia,Asia,247285377,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2011,2011,Import,Algeria,39,Plastics and articles thereof,Eastern Europe,Europe,10624045,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2011,2011,Import,Algeria,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,11962767,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2011,2011,Import,Algeria,39,Plastics and articles thereof,Melanesia,Oceania,27,28.0000272,2.9999825,1.0108650891006263,147.3257485906919
+2011,2011,Import,Algeria,39,Plastics and articles thereof,Northern Africa,Africa,46846999,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2011,2011,Import,Algeria,39,Plastics and articles thereof,Northern America,Americas,127800980,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2011,2011,Import,Algeria,39,Plastics and articles thereof,Northern Europe,Europe,53912545,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2011,2011,Import,Algeria,39,Plastics and articles thereof,South-eastern Asia,Asia,18315066,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2011,2011,Import,Algeria,39,Plastics and articles thereof,Southern Asia,Asia,60833,28.0000272,2.9999825,25.499703063807168,75.5024015339642
+2011,2011,Import,Algeria,39,Plastics and articles thereof,Southern Europe,Europe,284617111,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2011,2011,Import,Algeria,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,1967313,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2011,2011,Import,Algeria,39,Plastics and articles thereof,Western Asia,Asia,47461728,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2011,2011,Import,Algeria,39,Plastics and articles thereof,Western Europe,Europe,368556631,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2011,2011,Import,Algeria,39,Plastics and articles thereof,World,World,1676710379,28.0000272,2.9999825,,

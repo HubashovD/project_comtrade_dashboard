@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,Algeria,73,Articles of iron or steel,Eastern Asia,Asia,6236
-2011,2011,Export,Algeria,73,Articles of iron or steel,Eastern Europe,Europe,533
-2011,2011,Export,Algeria,73,Articles of iron or steel,Latin America and the Caribbean,Americas,1013
-2011,2011,Export,Algeria,73,Articles of iron or steel,Northern Africa,Africa,169680
-2011,2011,Export,Algeria,73,Articles of iron or steel,Northern America,Americas,809789
-2011,2011,Export,Algeria,73,Articles of iron or steel,Northern Europe,Europe,69779
-2011,2011,Export,Algeria,73,Articles of iron or steel,South-eastern Asia,Asia,6590
-2011,2011,Export,Algeria,73,Articles of iron or steel,Southern Europe,Europe,20900
-2011,2011,Export,Algeria,73,Articles of iron or steel,Sub-Saharan Africa,Africa,354329
-2011,2011,Export,Algeria,73,Articles of iron or steel,Western Europe,Europe,697492
-2011,2011,Export,Algeria,73,Articles of iron or steel,World,World,2150887
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,Algeria,73,Articles of iron or steel,Eastern Asia,Asia,6236,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2011,2011,Export,Algeria,73,Articles of iron or steel,Eastern Europe,Europe,533,28.0000272,2.9999825,51.67568633314729,27.673469819741847
+2011,2011,Export,Algeria,73,Articles of iron or steel,Latin America and the Caribbean,Americas,1013,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2011,2011,Export,Algeria,73,Articles of iron or steel,Northern Africa,Africa,169680,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2011,2011,Export,Algeria,73,Articles of iron or steel,Northern America,Americas,809789,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2011,2011,Export,Algeria,73,Articles of iron or steel,Northern Europe,Europe,69779,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2011,2011,Export,Algeria,73,Articles of iron or steel,South-eastern Asia,Asia,6590,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2011,2011,Export,Algeria,73,Articles of iron or steel,Southern Europe,Europe,20900,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2011,2011,Export,Algeria,73,Articles of iron or steel,Sub-Saharan Africa,Africa,354329,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2011,2011,Export,Algeria,73,Articles of iron or steel,Western Europe,Europe,697492,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2011,2011,Export,Algeria,73,Articles of iron or steel,World,World,2150887,28.0000272,2.9999825,,

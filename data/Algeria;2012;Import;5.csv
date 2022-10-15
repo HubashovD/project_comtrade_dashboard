@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Australia and New Zealand,Oceania,107067
-2012,2012,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,127560
-2012,2012,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,6236
-2012,2012,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,57660
-2012,2012,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,1058
-2012,2012,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,94624
-2012,2012,Import,Algeria,5,Animal originated products; not elsewhere specified or included,World,World,394205
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Australia and New Zealand,Oceania,107067,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2012,2012,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,127560,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2012,2012,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,6236,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2012,2012,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,57660,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2012,2012,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,1058,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2012,2012,Import,Algeria,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,94624,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2012,2012,Import,Algeria,5,Animal originated products; not elsewhere specified or included,World,World,394205,28.0000272,2.9999825,,

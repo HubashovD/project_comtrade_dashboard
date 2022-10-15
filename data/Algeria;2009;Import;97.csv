@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Algeria,97,"Works of art, collectors' pieces and antiques",Eastern Asia,Asia,70727
-2009,2009,Import,Algeria,97,"Works of art, collectors' pieces and antiques",Northern Africa,Africa,2336
-2009,2009,Import,Algeria,97,"Works of art, collectors' pieces and antiques",Northern America,Americas,854
-2009,2009,Import,Algeria,97,"Works of art, collectors' pieces and antiques",South-eastern Asia,Asia,173
-2009,2009,Import,Algeria,97,"Works of art, collectors' pieces and antiques",Western Europe,Europe,23618
-2009,2009,Import,Algeria,97,"Works of art, collectors' pieces and antiques",World,World,97708
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Algeria,97,"Works of art, collectors' pieces and antiques",Eastern Asia,Asia,70727,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2009,2009,Import,Algeria,97,"Works of art, collectors' pieces and antiques",Northern Africa,Africa,2336,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2009,2009,Import,Algeria,97,"Works of art, collectors' pieces and antiques",Northern America,Americas,854,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2009,2009,Import,Algeria,97,"Works of art, collectors' pieces and antiques",South-eastern Asia,Asia,173,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2009,2009,Import,Algeria,97,"Works of art, collectors' pieces and antiques",Western Europe,Europe,23618,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2009,2009,Import,Algeria,97,"Works of art, collectors' pieces and antiques",World,World,97708,28.0000272,2.9999825,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Algeria,38,Miscellaneous chemical products,Eastern Asia,Asia,54598
-2010,2010,Export,Algeria,38,Miscellaneous chemical products,Northern Africa,Africa,148914
-2010,2010,Export,Algeria,38,Miscellaneous chemical products,Northern America,Americas,114221
-2010,2010,Export,Algeria,38,Miscellaneous chemical products,Northern Europe,Europe,3519
-2010,2010,Export,Algeria,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,490
-2010,2010,Export,Algeria,38,Miscellaneous chemical products,Western Europe,Europe,468766
-2010,2010,Export,Algeria,38,Miscellaneous chemical products,World,World,860601
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Algeria,38,Miscellaneous chemical products,Eastern Asia,Asia,54598,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2010,2010,Export,Algeria,38,Miscellaneous chemical products,Northern Africa,Africa,148914,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2010,2010,Export,Algeria,38,Miscellaneous chemical products,Northern America,Americas,114221,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2010,2010,Export,Algeria,38,Miscellaneous chemical products,Northern Europe,Europe,3519,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2010,2010,Export,Algeria,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,490,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2010,2010,Export,Algeria,38,Miscellaneous chemical products,Western Europe,Europe,468766,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2010,2010,Export,Algeria,38,Miscellaneous chemical products,World,World,860601,28.0000272,2.9999825,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Algeria,72,Iron and steel,Northern Africa,Africa,19276030
-2010,2010,Export,Algeria,72,Iron and steel,Northern Europe,Europe,524715
-2010,2010,Export,Algeria,72,Iron and steel,Southern Europe,Europe,13336927
-2010,2010,Export,Algeria,72,Iron and steel,Sub-Saharan Africa,Africa,48432
-2010,2010,Export,Algeria,72,Iron and steel,Western Asia,Asia,41238078
-2010,2010,Export,Algeria,72,Iron and steel,Western Europe,Europe,549856
-2010,2010,Export,Algeria,72,Iron and steel,World,World,77452847
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Algeria,72,Iron and steel,Northern Africa,Africa,19276030,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2010,2010,Export,Algeria,72,Iron and steel,Northern Europe,Europe,524715,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2010,2010,Export,Algeria,72,Iron and steel,Southern Europe,Europe,13336927,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2010,2010,Export,Algeria,72,Iron and steel,Sub-Saharan Africa,Africa,48432,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2010,2010,Export,Algeria,72,Iron and steel,Western Asia,Asia,41238078,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2010,2010,Export,Algeria,72,Iron and steel,Western Europe,Europe,549856,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2010,2010,Export,Algeria,72,Iron and steel,World,World,77452847,28.0000272,2.9999825,,

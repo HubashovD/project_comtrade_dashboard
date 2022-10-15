@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Algeria,26,"Ores, slag and ash",Australia and New Zealand,Oceania,14702
-2012,2012,Import,Algeria,26,"Ores, slag and ash",Eastern Asia,Asia,46844
-2012,2012,Import,Algeria,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,10886854
-2012,2012,Import,Algeria,26,"Ores, slag and ash",Northern Europe,Europe,362
-2012,2012,Import,Algeria,26,"Ores, slag and ash",Southern Europe,Europe,6736637
-2012,2012,Import,Algeria,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,18313
-2012,2012,Import,Algeria,26,"Ores, slag and ash",Western Asia,Asia,3178774
-2012,2012,Import,Algeria,26,"Ores, slag and ash",Western Europe,Europe,1960730
-2012,2012,Import,Algeria,26,"Ores, slag and ash",World,World,22843216
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Algeria,26,"Ores, slag and ash",Australia and New Zealand,Oceania,14702,28.0000272,2.9999825,-16.85099460447687,133.4130365630627
+2012,2012,Import,Algeria,26,"Ores, slag and ash",Eastern Asia,Asia,46844,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2012,2012,Import,Algeria,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,10886854,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2012,2012,Import,Algeria,26,"Ores, slag and ash",Northern Europe,Europe,362,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2012,2012,Import,Algeria,26,"Ores, slag and ash",Southern Europe,Europe,6736637,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2012,2012,Import,Algeria,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,18313,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2012,2012,Import,Algeria,26,"Ores, slag and ash",Western Asia,Asia,3178774,28.0000272,2.9999825,26.42921218083572,52.86847103284948
+2012,2012,Import,Algeria,26,"Ores, slag and ash",Western Europe,Europe,1960730,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2012,2012,Import,Algeria,26,"Ores, slag and ash",World,World,22843216,28.0000272,2.9999825,,

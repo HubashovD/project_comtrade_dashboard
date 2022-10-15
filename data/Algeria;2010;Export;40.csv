@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Algeria,40,Rubber and articles thereof,Northern Africa,Africa,510123
-2010,2010,Export,Algeria,40,Rubber and articles thereof,Northern America,Americas,14828
-2010,2010,Export,Algeria,40,Rubber and articles thereof,Northern Europe,Europe,348
-2010,2010,Export,Algeria,40,Rubber and articles thereof,South-eastern Asia,Asia,1124
-2010,2010,Export,Algeria,40,Rubber and articles thereof,Southern Europe,Europe,8872
-2010,2010,Export,Algeria,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,2601231
-2010,2010,Export,Algeria,40,Rubber and articles thereof,Western Europe,Europe,2925764
-2010,2010,Export,Algeria,40,Rubber and articles thereof,World,World,11777653
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Algeria,40,Rubber and articles thereof,Northern Africa,Africa,510123,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2010,2010,Export,Algeria,40,Rubber and articles thereof,Northern America,Americas,14828,28.0000272,2.9999825,43.897683433510366,-100.08947125585888
+2010,2010,Export,Algeria,40,Rubber and articles thereof,Northern Europe,Europe,348,28.0000272,2.9999825,59.36075159783851,25.01346951967388
+2010,2010,Export,Algeria,40,Rubber and articles thereof,South-eastern Asia,Asia,1124,28.0000272,2.9999825,10.528384761701911,103.08333472012376
+2010,2010,Export,Algeria,40,Rubber and articles thereof,Southern Europe,Europe,8872,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2010,2010,Export,Algeria,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,2601231,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2010,2010,Export,Algeria,40,Rubber and articles thereof,Western Europe,Europe,2925764,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2010,2010,Export,Algeria,40,Rubber and articles thereof,World,World,11777653,28.0000272,2.9999825,,

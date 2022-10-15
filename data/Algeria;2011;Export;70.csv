@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,Algeria,70,Glass and glassware,Eastern Asia,Asia,27
-2011,2011,Export,Algeria,70,Glass and glassware,Latin America and the Caribbean,Americas,77543
-2011,2011,Export,Algeria,70,Glass and glassware,Northern Africa,Africa,4940711
-2011,2011,Export,Algeria,70,Glass and glassware,Southern Europe,Europe,22056164
-2011,2011,Export,Algeria,70,Glass and glassware,Sub-Saharan Africa,Africa,34862
-2011,2011,Export,Algeria,70,Glass and glassware,Western Europe,Europe,21047
-2011,2011,Export,Algeria,70,Glass and glassware,World,World,27142537
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,Algeria,70,Glass and glassware,Eastern Asia,Asia,27,28.0000272,2.9999825,37.977378106878206,73.97804075806764
+2011,2011,Export,Algeria,70,Glass and glassware,Latin America and the Caribbean,Americas,77543,28.0000272,2.9999825,17.925141963241547,-78.01492950057497
+2011,2011,Export,Algeria,70,Glass and glassware,Northern Africa,Africa,4940711,28.0000272,2.9999825,19.569604022535763,12.47761721199581
+2011,2011,Export,Algeria,70,Glass and glassware,Southern Europe,Europe,22056164,28.0000272,2.9999825,40.12399607988535,20.742583178432696
+2011,2011,Export,Algeria,70,Glass and glassware,Sub-Saharan Africa,Africa,34862,28.0000272,2.9999825,6.06272746187266,22.727528470146083
+2011,2011,Export,Algeria,70,Glass and glassware,Western Europe,Europe,21047,28.0000272,2.9999825,47.92172048214207,7.866753258497997
+2011,2011,Export,Algeria,70,Glass and glassware,World,World,27142537,28.0000272,2.9999825,,
