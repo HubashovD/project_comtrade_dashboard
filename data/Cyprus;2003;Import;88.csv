@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,38824
-2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,907
-2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Latin America and the Caribbean,Americas,276016
-2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,1069114
-2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,3592737
-2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,390
-2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Southern Asia,Asia,62
-2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,75180
-2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Sub-Saharan Africa,Africa,6506
-2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,3996601
-2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",World,World,9070230
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,38824,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,907,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Latin America and the Caribbean,Americas,276016,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,1069114,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,3592737,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,390,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Southern Asia,Asia,62,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,75180,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Sub-Saharan Africa,Africa,6506,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,3996601,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2003,2003,Import,Cyprus,88,"Aircraft, spacecraft, and parts thereof",World,World,9070230,34.9823018,33.1451285,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Export,Cyprus,52,Cotton,Eastern Europe,Europe,538546
-2004,2004,Export,Cyprus,52,Cotton,Northern Africa,Africa,326819
-2004,2004,Export,Cyprus,52,Cotton,Northern Europe,Europe,8284
-2004,2004,Export,Cyprus,52,Cotton,South-eastern Asia,Asia,2016
-2004,2004,Export,Cyprus,52,Cotton,Southern Europe,Europe,342202
-2004,2004,Export,Cyprus,52,Cotton,Sub-Saharan Africa,Africa,502551
-2004,2004,Export,Cyprus,52,Cotton,Western Asia,Asia,426684
-2004,2004,Export,Cyprus,52,Cotton,Western Europe,Europe,29836
-2004,2004,Export,Cyprus,52,Cotton,World,World,3174093
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Export,Cyprus,52,Cotton,Eastern Europe,Europe,538546,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2004,2004,Export,Cyprus,52,Cotton,Northern Africa,Africa,326819,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2004,2004,Export,Cyprus,52,Cotton,Northern Europe,Europe,8284,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2004,2004,Export,Cyprus,52,Cotton,South-eastern Asia,Asia,2016,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2004,2004,Export,Cyprus,52,Cotton,Southern Europe,Europe,342202,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2004,2004,Export,Cyprus,52,Cotton,Sub-Saharan Africa,Africa,502551,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2004,2004,Export,Cyprus,52,Cotton,Western Asia,Asia,426684,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2004,2004,Export,Cyprus,52,Cotton,Western Europe,Europe,29836,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2004,2004,Export,Cyprus,52,Cotton,World,World,3174093,34.9823018,33.1451285,,

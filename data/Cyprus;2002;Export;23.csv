@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Cyprus,23,Residues and waste from the food industries,Eastern Europe,Europe,534
-2002,2002,Export,Cyprus,23,Residues and waste from the food industries,Northern Africa,Africa,1363633
-2002,2002,Export,Cyprus,23,Residues and waste from the food industries,Northern Europe,Europe,1253
-2002,2002,Export,Cyprus,23,Residues and waste from the food industries,Southern Europe,Europe,811415
-2002,2002,Export,Cyprus,23,Residues and waste from the food industries,Western Europe,Europe,15030
-2002,2002,Export,Cyprus,23,Residues and waste from the food industries,World,World,3453951
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Cyprus,23,Residues and waste from the food industries,Eastern Europe,Europe,534,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2002,2002,Export,Cyprus,23,Residues and waste from the food industries,Northern Africa,Africa,1363633,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2002,2002,Export,Cyprus,23,Residues and waste from the food industries,Northern Europe,Europe,1253,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2002,2002,Export,Cyprus,23,Residues and waste from the food industries,Southern Europe,Europe,811415,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2002,2002,Export,Cyprus,23,Residues and waste from the food industries,Western Europe,Europe,15030,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2002,2002,Export,Cyprus,23,Residues and waste from the food industries,World,World,3453951,34.9823018,33.1451285,,

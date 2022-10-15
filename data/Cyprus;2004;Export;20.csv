@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Eastern Asia,Asia,280176
-2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Eastern Europe,Europe,56076
-2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Northern Africa,Africa,150634
-2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Northern America,Americas,35266
-2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Northern Europe,Europe,1953341
-2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",South-eastern Asia,Asia,1102206
-2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Southern Asia,Asia,436779
-2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Southern Europe,Europe,5284380
-2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Sub-Saharan Africa,Africa,209137
-2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Western Asia,Asia,149834
-2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Western Europe,Europe,458059
-2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",World,World,12239981
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Eastern Asia,Asia,280176,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Eastern Europe,Europe,56076,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Northern Africa,Africa,150634,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Northern America,Americas,35266,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Northern Europe,Europe,1953341,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",South-eastern Asia,Asia,1102206,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Southern Asia,Asia,436779,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Southern Europe,Europe,5284380,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Sub-Saharan Africa,Africa,209137,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Western Asia,Asia,149834,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",Western Europe,Europe,458059,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2004,2004,Export,Cyprus,20,"Preparations of vegetables, fruit or nuts",World,World,12239981,34.9823018,33.1451285,,

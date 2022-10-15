@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Cyprus,30,Pharmaceutical products,Australia and New Zealand,Oceania,27172
-2002,2002,Export,Cyprus,30,Pharmaceutical products,Central Asia,Asia,235793
-2002,2002,Export,Cyprus,30,Pharmaceutical products,Eastern Asia,Asia,1588422
-2002,2002,Export,Cyprus,30,Pharmaceutical products,Eastern Europe,Europe,14148651
-2002,2002,Export,Cyprus,30,Pharmaceutical products,Latin America and the Caribbean,Americas,1088903
-2002,2002,Export,Cyprus,30,Pharmaceutical products,Melanesia,Oceania,9175
-2002,2002,Export,Cyprus,30,Pharmaceutical products,Northern Africa,Africa,1083745
-2002,2002,Export,Cyprus,30,Pharmaceutical products,Northern America,Americas,30534
-2002,2002,Export,Cyprus,30,Pharmaceutical products,Northern Europe,Europe,3609585
-2002,2002,Export,Cyprus,30,Pharmaceutical products,South-eastern Asia,Asia,8308544
-2002,2002,Export,Cyprus,30,Pharmaceutical products,Southern Asia,Asia,2061221
-2002,2002,Export,Cyprus,30,Pharmaceutical products,Southern Europe,Europe,2427589
-2002,2002,Export,Cyprus,30,Pharmaceutical products,Sub-Saharan Africa,Africa,6395728
-2002,2002,Export,Cyprus,30,Pharmaceutical products,Western Asia,Asia,138039
-2002,2002,Export,Cyprus,30,Pharmaceutical products,Western Europe,Europe,13074729
-2002,2002,Export,Cyprus,30,Pharmaceutical products,World,World,70978312
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Cyprus,30,Pharmaceutical products,Australia and New Zealand,Oceania,27172,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2002,2002,Export,Cyprus,30,Pharmaceutical products,Central Asia,Asia,235793,34.9823018,33.1451285,39.89317229901691,61.060280637304274
+2002,2002,Export,Cyprus,30,Pharmaceutical products,Eastern Asia,Asia,1588422,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2002,2002,Export,Cyprus,30,Pharmaceutical products,Eastern Europe,Europe,14148651,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2002,2002,Export,Cyprus,30,Pharmaceutical products,Latin America and the Caribbean,Americas,1088903,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2002,2002,Export,Cyprus,30,Pharmaceutical products,Melanesia,Oceania,9175,34.9823018,33.1451285,1.0108650891006263,147.3257485906919
+2002,2002,Export,Cyprus,30,Pharmaceutical products,Northern Africa,Africa,1083745,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2002,2002,Export,Cyprus,30,Pharmaceutical products,Northern America,Americas,30534,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2002,2002,Export,Cyprus,30,Pharmaceutical products,Northern Europe,Europe,3609585,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2002,2002,Export,Cyprus,30,Pharmaceutical products,South-eastern Asia,Asia,8308544,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2002,2002,Export,Cyprus,30,Pharmaceutical products,Southern Asia,Asia,2061221,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2002,2002,Export,Cyprus,30,Pharmaceutical products,Southern Europe,Europe,2427589,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2002,2002,Export,Cyprus,30,Pharmaceutical products,Sub-Saharan Africa,Africa,6395728,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2002,2002,Export,Cyprus,30,Pharmaceutical products,Western Asia,Asia,138039,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2002,2002,Export,Cyprus,30,Pharmaceutical products,Western Europe,Europe,13074729,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2002,2002,Export,Cyprus,30,Pharmaceutical products,World,World,70978312,34.9823018,33.1451285,,

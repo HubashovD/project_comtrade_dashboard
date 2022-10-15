@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Australia and New Zealand,Oceania,4147
-2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Eastern Asia,Asia,170140
-2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Eastern Europe,Europe,44445
-2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Northern Africa,Africa,1922
-2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Northern America,Americas,82735
-2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Northern Europe,Europe,572908
-2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",South-eastern Asia,Asia,4671
-2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Southern Europe,Europe,454026
-2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Sub-Saharan Africa,Africa,5223
-2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Western Asia,Asia,562
-2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Western Europe,Europe,230845
-2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",World,World,1641023
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Australia and New Zealand,Oceania,4147,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Eastern Asia,Asia,170140,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Eastern Europe,Europe,44445,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Northern Africa,Africa,1922,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Northern America,Americas,82735,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Northern Europe,Europe,572908,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",South-eastern Asia,Asia,4671,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Southern Europe,Europe,454026,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Sub-Saharan Africa,Africa,5223,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Western Asia,Asia,562,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",Western Europe,Europe,230845,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Import,Cyprus,97,"Works of art, collectors pieces and antiques",World,World,1641023,34.9823018,33.1451285,,

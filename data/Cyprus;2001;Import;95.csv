@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Australia and New Zealand,Oceania,21245
-2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Eastern Asia,Asia,14688209
-2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Eastern Europe,Europe,298894
-2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Latin America and the Caribbean,Americas,2706
-2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Northern Africa,Africa,22136
-2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Northern America,Americas,2231726
-2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Northern Europe,Europe,1896090
-2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",South-eastern Asia,Asia,658825
-2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Southern Asia,Asia,12148
-2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Southern Europe,Europe,6947549
-2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Sub-Saharan Africa,Africa,118597
-2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Western Asia,Asia,4935
-2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Western Europe,Europe,2213270
-2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",World,World,31479855
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Australia and New Zealand,Oceania,21245,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Eastern Asia,Asia,14688209,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Eastern Europe,Europe,298894,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Latin America and the Caribbean,Americas,2706,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Northern Africa,Africa,22136,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Northern America,Americas,2231726,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Northern Europe,Europe,1896090,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",South-eastern Asia,Asia,658825,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Southern Asia,Asia,12148,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Southern Europe,Europe,6947549,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Sub-Saharan Africa,Africa,118597,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Western Asia,Asia,4935,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",Western Europe,Europe,2213270,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2001,2001,Import,Cyprus,95,"Toys, games, sports requisites",World,World,31479855,34.9823018,33.1451285,,

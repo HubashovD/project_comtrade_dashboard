@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Re-Export,Cyprus,1,Live animals,Northern Europe,Europe,483
-2000,2000,Re-Export,Cyprus,1,Live animals,Southern Europe,Europe,1772
-2000,2000,Re-Export,Cyprus,1,Live animals,Western Europe,Europe,976
-2000,2000,Re-Export,Cyprus,1,Live animals,World,World,3232
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Re-Export,Cyprus,1,Live animals,Northern Europe,Europe,483,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Re-Export,Cyprus,1,Live animals,Southern Europe,Europe,1772,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Re-Export,Cyprus,1,Live animals,Western Europe,Europe,976,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Re-Export,Cyprus,1,Live animals,World,World,3232,34.9823018,33.1451285,,

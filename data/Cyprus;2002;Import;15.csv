@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Australia and New Zealand,Oceania,14326
-2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Eastern Asia,Asia,7312
-2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Eastern Europe,Europe,3332051
-2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Latin America and the Caribbean,Americas,693647
-2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Northern America,Americas,1072487
-2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Northern Europe,Europe,2946117
-2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,South-eastern Asia,Asia,871573
-2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Southern Europe,Europe,2295415
-2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Sub-Saharan Africa,Africa,35196
-2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Western Asia,Asia,195
-2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Western Europe,Europe,5733121
-2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,World,World,17031998
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Australia and New Zealand,Oceania,14326,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Eastern Asia,Asia,7312,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Eastern Europe,Europe,3332051,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Latin America and the Caribbean,Americas,693647,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Northern America,Americas,1072487,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Northern Europe,Europe,2946117,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,South-eastern Asia,Asia,871573,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Southern Europe,Europe,2295415,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Sub-Saharan Africa,Africa,35196,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Western Asia,Asia,195,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,Western Europe,Europe,5733121,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2002,2002,Import,Cyprus,15,Animal or vegetable fats and oils,World,World,17031998,34.9823018,33.1451285,,

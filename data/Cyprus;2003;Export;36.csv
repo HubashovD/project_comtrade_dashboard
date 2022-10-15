@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Eastern Asia,Asia,920
-2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Eastern Europe,Europe,4546
-2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Latin America and the Caribbean,Americas,174
-2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Northern Europe,Europe,119192
-2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Southern Europe,Europe,5567
-2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Sub-Saharan Africa,Africa,11018
-2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Western Asia,Asia,1694
-2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Western Europe,Europe,15177
-2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,World,World,159544
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Eastern Asia,Asia,920,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Eastern Europe,Europe,4546,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Latin America and the Caribbean,Americas,174,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Northern Europe,Europe,119192,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Southern Europe,Europe,5567,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Sub-Saharan Africa,Africa,11018,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Western Asia,Asia,1694,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,Western Europe,Europe,15177,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2003,2003,Export,Cyprus,36,Explosives; pyrotechnic products; matches,World,World,159544,34.9823018,33.1451285,,

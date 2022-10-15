@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Import,Cyprus,31,Fertilizers,Eastern Asia,Asia,63335
-2004,2004,Import,Cyprus,31,Fertilizers,Eastern Europe,Europe,1336104
-2004,2004,Import,Cyprus,31,Fertilizers,Northern Africa,Africa,502421
-2004,2004,Import,Cyprus,31,Fertilizers,Northern America,Americas,194326
-2004,2004,Import,Cyprus,31,Fertilizers,Northern Europe,Europe,267719
-2004,2004,Import,Cyprus,31,Fertilizers,Southern Europe,Europe,9326839
-2004,2004,Import,Cyprus,31,Fertilizers,Western Europe,Europe,2097205
-2004,2004,Import,Cyprus,31,Fertilizers,World,World,15078843
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Import,Cyprus,31,Fertilizers,Eastern Asia,Asia,63335,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2004,2004,Import,Cyprus,31,Fertilizers,Eastern Europe,Europe,1336104,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2004,2004,Import,Cyprus,31,Fertilizers,Northern Africa,Africa,502421,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2004,2004,Import,Cyprus,31,Fertilizers,Northern America,Americas,194326,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2004,2004,Import,Cyprus,31,Fertilizers,Northern Europe,Europe,267719,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2004,2004,Import,Cyprus,31,Fertilizers,Southern Europe,Europe,9326839,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2004,2004,Import,Cyprus,31,Fertilizers,Western Europe,Europe,2097205,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2004,2004,Import,Cyprus,31,Fertilizers,World,World,15078843,34.9823018,33.1451285,,

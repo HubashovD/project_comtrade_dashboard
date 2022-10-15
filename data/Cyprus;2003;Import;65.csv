@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Cyprus,65,Headgear and parts thereof,Australia and New Zealand,Oceania,17
-2003,2003,Import,Cyprus,65,Headgear and parts thereof,Eastern Asia,Asia,1539143
-2003,2003,Import,Cyprus,65,Headgear and parts thereof,Eastern Europe,Europe,108776
-2003,2003,Import,Cyprus,65,Headgear and parts thereof,Latin America and the Caribbean,Americas,680
-2003,2003,Import,Cyprus,65,Headgear and parts thereof,Northern Africa,Africa,2712
-2003,2003,Import,Cyprus,65,Headgear and parts thereof,Northern America,Americas,22726
-2003,2003,Import,Cyprus,65,Headgear and parts thereof,Northern Europe,Europe,106348
-2003,2003,Import,Cyprus,65,Headgear and parts thereof,South-eastern Asia,Asia,52965
-2003,2003,Import,Cyprus,65,Headgear and parts thereof,Southern Asia,Asia,14211
-2003,2003,Import,Cyprus,65,Headgear and parts thereof,Southern Europe,Europe,676091
-2003,2003,Import,Cyprus,65,Headgear and parts thereof,Sub-Saharan Africa,Africa,446
-2003,2003,Import,Cyprus,65,Headgear and parts thereof,Western Asia,Asia,2506
-2003,2003,Import,Cyprus,65,Headgear and parts thereof,Western Europe,Europe,124409
-2003,2003,Import,Cyprus,65,Headgear and parts thereof,World,World,2818477
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Cyprus,65,Headgear and parts thereof,Australia and New Zealand,Oceania,17,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2003,2003,Import,Cyprus,65,Headgear and parts thereof,Eastern Asia,Asia,1539143,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2003,2003,Import,Cyprus,65,Headgear and parts thereof,Eastern Europe,Europe,108776,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2003,2003,Import,Cyprus,65,Headgear and parts thereof,Latin America and the Caribbean,Americas,680,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2003,2003,Import,Cyprus,65,Headgear and parts thereof,Northern Africa,Africa,2712,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2003,2003,Import,Cyprus,65,Headgear and parts thereof,Northern America,Americas,22726,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2003,2003,Import,Cyprus,65,Headgear and parts thereof,Northern Europe,Europe,106348,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2003,2003,Import,Cyprus,65,Headgear and parts thereof,South-eastern Asia,Asia,52965,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2003,2003,Import,Cyprus,65,Headgear and parts thereof,Southern Asia,Asia,14211,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2003,2003,Import,Cyprus,65,Headgear and parts thereof,Southern Europe,Europe,676091,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2003,2003,Import,Cyprus,65,Headgear and parts thereof,Sub-Saharan Africa,Africa,446,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2003,2003,Import,Cyprus,65,Headgear and parts thereof,Western Asia,Asia,2506,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2003,2003,Import,Cyprus,65,Headgear and parts thereof,Western Europe,Europe,124409,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2003,2003,Import,Cyprus,65,Headgear and parts thereof,World,World,2818477,34.9823018,33.1451285,,

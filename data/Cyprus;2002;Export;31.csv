@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Cyprus,31,Fertilizers,Eastern Europe,Europe,123770
-2002,2002,Export,Cyprus,31,Fertilizers,Latin America and the Caribbean,Americas,3598
-2002,2002,Export,Cyprus,31,Fertilizers,Northern Europe,Europe,521
-2002,2002,Export,Cyprus,31,Fertilizers,Southern Asia,Asia,16
-2002,2002,Export,Cyprus,31,Fertilizers,World,World,127905
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Cyprus,31,Fertilizers,Eastern Europe,Europe,123770,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2002,2002,Export,Cyprus,31,Fertilizers,Latin America and the Caribbean,Americas,3598,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2002,2002,Export,Cyprus,31,Fertilizers,Northern Europe,Europe,521,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2002,2002,Export,Cyprus,31,Fertilizers,Southern Asia,Asia,16,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2002,2002,Export,Cyprus,31,Fertilizers,World,World,127905,34.9823018,33.1451285,,

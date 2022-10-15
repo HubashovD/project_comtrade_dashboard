@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Cyprus,28,Inorganic chemicals,Eastern Asia,Asia,734456
-2003,2003,Import,Cyprus,28,Inorganic chemicals,Eastern Europe,Europe,323164
-2003,2003,Import,Cyprus,28,Inorganic chemicals,Latin America and the Caribbean,Americas,19680
-2003,2003,Import,Cyprus,28,Inorganic chemicals,Northern Africa,Africa,51025
-2003,2003,Import,Cyprus,28,Inorganic chemicals,Northern America,Americas,237270
-2003,2003,Import,Cyprus,28,Inorganic chemicals,Northern Europe,Europe,1892218
-2003,2003,Import,Cyprus,28,Inorganic chemicals,South-eastern Asia,Asia,5132
-2003,2003,Import,Cyprus,28,Inorganic chemicals,Southern Europe,Europe,2349302
-2003,2003,Import,Cyprus,28,Inorganic chemicals,Sub-Saharan Africa,Africa,64230
-2003,2003,Import,Cyprus,28,Inorganic chemicals,Western Asia,Asia,12446
-2003,2003,Import,Cyprus,28,Inorganic chemicals,Western Europe,Europe,2511472
-2003,2003,Import,Cyprus,28,Inorganic chemicals,World,World,9418257
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Cyprus,28,Inorganic chemicals,Eastern Asia,Asia,734456,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2003,2003,Import,Cyprus,28,Inorganic chemicals,Eastern Europe,Europe,323164,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2003,2003,Import,Cyprus,28,Inorganic chemicals,Latin America and the Caribbean,Americas,19680,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2003,2003,Import,Cyprus,28,Inorganic chemicals,Northern Africa,Africa,51025,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2003,2003,Import,Cyprus,28,Inorganic chemicals,Northern America,Americas,237270,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2003,2003,Import,Cyprus,28,Inorganic chemicals,Northern Europe,Europe,1892218,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2003,2003,Import,Cyprus,28,Inorganic chemicals,South-eastern Asia,Asia,5132,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2003,2003,Import,Cyprus,28,Inorganic chemicals,Southern Europe,Europe,2349302,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2003,2003,Import,Cyprus,28,Inorganic chemicals,Sub-Saharan Africa,Africa,64230,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2003,2003,Import,Cyprus,28,Inorganic chemicals,Western Asia,Asia,12446,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2003,2003,Import,Cyprus,28,Inorganic chemicals,Western Europe,Europe,2511472,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2003,2003,Import,Cyprus,28,Inorganic chemicals,World,World,9418257,34.9823018,33.1451285,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Re-Export,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Europe,Europe,82583
-2001,2001,Re-Export,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern Africa,Africa,2131
-2001,2001,Re-Export,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",South-eastern Asia,Asia,42614
-2001,2001,Re-Export,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Southern Europe,Europe,27582
-2001,2001,Re-Export,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Europe,Europe,71580
-2001,2001,Re-Export,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",World,World,623308
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Re-Export,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Europe,Europe,82583,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2001,2001,Re-Export,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern Africa,Africa,2131,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2001,2001,Re-Export,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",South-eastern Asia,Asia,42614,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2001,2001,Re-Export,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Southern Europe,Europe,27582,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2001,2001,Re-Export,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Europe,Europe,71580,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2001,2001,Re-Export,Cyprus,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",World,World,623308,34.9823018,33.1451285,,

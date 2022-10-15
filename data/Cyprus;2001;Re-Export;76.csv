@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,Eastern Asia,Asia,294273
-2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,Eastern Europe,Europe,106906
-2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,Northern Europe,Europe,455433
-2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,South-eastern Asia,Asia,103218
-2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,Southern Asia,Asia,64558
-2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,Southern Europe,Europe,2064264
-2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,59476
-2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,Western Europe,Europe,500402
-2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,World,World,4072085
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,Eastern Asia,Asia,294273,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,Eastern Europe,Europe,106906,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,Northern Europe,Europe,455433,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,South-eastern Asia,Asia,103218,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,Southern Asia,Asia,64558,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,Southern Europe,Europe,2064264,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,59476,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,Western Europe,Europe,500402,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2001,2001,Re-Export,Cyprus,76,Aluminium and articles thereof,World,World,4072085,34.9823018,33.1451285,,

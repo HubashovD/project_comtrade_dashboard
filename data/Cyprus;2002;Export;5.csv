@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Cyprus,5,"Products of animal origin, not elsewhere specified",Northern Europe,Europe,54413
-2002,2002,Export,Cyprus,5,"Products of animal origin, not elsewhere specified",Southern Europe,Europe,84867
-2002,2002,Export,Cyprus,5,"Products of animal origin, not elsewhere specified",Sub-Saharan Africa,Africa,358834
-2002,2002,Export,Cyprus,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,12577
-2002,2002,Export,Cyprus,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,316461
-2002,2002,Export,Cyprus,5,"Products of animal origin, not elsewhere specified",World,World,1031141
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Cyprus,5,"Products of animal origin, not elsewhere specified",Northern Europe,Europe,54413,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2002,2002,Export,Cyprus,5,"Products of animal origin, not elsewhere specified",Southern Europe,Europe,84867,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2002,2002,Export,Cyprus,5,"Products of animal origin, not elsewhere specified",Sub-Saharan Africa,Africa,358834,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2002,2002,Export,Cyprus,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,12577,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2002,2002,Export,Cyprus,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,316461,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2002,2002,Export,Cyprus,5,"Products of animal origin, not elsewhere specified",World,World,1031141,34.9823018,33.1451285,,

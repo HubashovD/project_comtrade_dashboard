@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Re-Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,2349
-2000,2000,Re-Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern Europe,Europe,13239
-2000,2000,Re-Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Southern Europe,Europe,22987
-2000,2000,Re-Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,2178
-2000,2000,Re-Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,564
-2000,2000,Re-Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",World,World,89724
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Re-Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,2349,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Re-Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Northern Europe,Europe,13239,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Re-Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Southern Europe,Europe,22987,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Re-Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,2178,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Re-Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,564,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Re-Export,Cyprus,19,"Cereal, flour, starch, milk preparations and products",World,World,89724,34.9823018,33.1451285,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Eastern Asia,Asia,294266
-2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Eastern Europe,Europe,15562
-2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Northern America,Americas,10383
-2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Northern Europe,Europe,107005
-2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",South-eastern Asia,Asia,12735
-2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Southern Asia,Asia,72307
-2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Southern Europe,Europe,136951
-2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Western Europe,Europe,408329
-2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",World,World,1169399
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Eastern Asia,Asia,294266,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Eastern Europe,Europe,15562,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Northern America,Americas,10383,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Northern Europe,Europe,107005,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",South-eastern Asia,Asia,12735,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Southern Asia,Asia,72307,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Southern Europe,Europe,136951,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Western Europe,Europe,408329,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2001,2001,Import,Cyprus,53,"Vegetable textile fibres nes, paper yarn, woven fabric",World,World,1169399,34.9823018,33.1451285,,

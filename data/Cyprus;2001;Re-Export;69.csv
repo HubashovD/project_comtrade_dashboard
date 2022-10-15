@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Re-Export,Cyprus,69,Ceramic products,Eastern Europe,Europe,25191
-2001,2001,Re-Export,Cyprus,69,Ceramic products,Northern America,Americas,51274
-2001,2001,Re-Export,Cyprus,69,Ceramic products,Northern Europe,Europe,81694
-2001,2001,Re-Export,Cyprus,69,Ceramic products,South-eastern Asia,Asia,4143
-2001,2001,Re-Export,Cyprus,69,Ceramic products,Southern Europe,Europe,146704
-2001,2001,Re-Export,Cyprus,69,Ceramic products,Western Europe,Europe,11867
-2001,2001,Re-Export,Cyprus,69,Ceramic products,World,World,377746
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Re-Export,Cyprus,69,Ceramic products,Eastern Europe,Europe,25191,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2001,2001,Re-Export,Cyprus,69,Ceramic products,Northern America,Americas,51274,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2001,2001,Re-Export,Cyprus,69,Ceramic products,Northern Europe,Europe,81694,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2001,2001,Re-Export,Cyprus,69,Ceramic products,South-eastern Asia,Asia,4143,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2001,2001,Re-Export,Cyprus,69,Ceramic products,Southern Europe,Europe,146704,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2001,2001,Re-Export,Cyprus,69,Ceramic products,Western Europe,Europe,11867,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2001,2001,Re-Export,Cyprus,69,Ceramic products,World,World,377746,34.9823018,33.1451285,,

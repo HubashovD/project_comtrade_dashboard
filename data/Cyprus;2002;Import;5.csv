@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",Eastern Asia,Asia,625420
-2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",Eastern Europe,Europe,164
-2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",Northern Africa,Africa,19893
-2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",Northern America,Americas,305979
-2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",Northern Europe,Europe,4320
-2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",South-eastern Asia,Asia,43400
-2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",Southern Europe,Europe,84326
-2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,156436
-2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",World,World,1254411
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",Eastern Asia,Asia,625420,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",Eastern Europe,Europe,164,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",Northern Africa,Africa,19893,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",Northern America,Americas,305979,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",Northern Europe,Europe,4320,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",South-eastern Asia,Asia,43400,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",Southern Europe,Europe,84326,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,156436,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2002,2002,Import,Cyprus,5,"Products of animal origin, not elsewhere specified",World,World,1254411,34.9823018,33.1451285,,

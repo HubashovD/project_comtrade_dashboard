@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,32321
-2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,119899
-2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,66040
-2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Northern Africa,Africa,272860
-2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Northern America,Americas,209169
-2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Northern Europe,Europe,139236
-2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,94526
-2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Southern Asia,Asia,10097
-2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Southern Europe,Europe,165199
-2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,12620
-2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Western Asia,Asia,175986
-2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Western Europe,Europe,472109
-2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",World,World,6641197
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,32321,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,119899,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,66040,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Northern Africa,Africa,272860,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Northern America,Americas,209169,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Northern Europe,Europe,139236,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,94526,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Southern Asia,Asia,10097,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Southern Europe,Europe,165199,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,12620,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Western Asia,Asia,175986,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",Western Europe,Europe,472109,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Re-Export,Cyprus,22,"Beverages, spirits and vinegar",World,World,6641197,34.9823018,33.1451285,,

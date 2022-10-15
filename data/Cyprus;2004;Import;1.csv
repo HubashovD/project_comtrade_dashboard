@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Import,Cyprus,1,Live animals,Eastern Europe,Europe,76247
-2004,2004,Import,Cyprus,1,Live animals,Northern America,Americas,18293
-2004,2004,Import,Cyprus,1,Live animals,Northern Europe,Europe,718296
-2004,2004,Import,Cyprus,1,Live animals,South-eastern Asia,Asia,3491
-2004,2004,Import,Cyprus,1,Live animals,Southern Europe,Europe,58880
-2004,2004,Import,Cyprus,1,Live animals,Sub-Saharan Africa,Africa,16460
-2004,2004,Import,Cyprus,1,Live animals,Western Asia,Asia,4335
-2004,2004,Import,Cyprus,1,Live animals,Western Europe,Europe,712223
-2004,2004,Import,Cyprus,1,Live animals,World,World,1698062
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Import,Cyprus,1,Live animals,Eastern Europe,Europe,76247,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2004,2004,Import,Cyprus,1,Live animals,Northern America,Americas,18293,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2004,2004,Import,Cyprus,1,Live animals,Northern Europe,Europe,718296,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2004,2004,Import,Cyprus,1,Live animals,South-eastern Asia,Asia,3491,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2004,2004,Import,Cyprus,1,Live animals,Southern Europe,Europe,58880,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2004,2004,Import,Cyprus,1,Live animals,Sub-Saharan Africa,Africa,16460,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2004,2004,Import,Cyprus,1,Live animals,Western Asia,Asia,4335,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2004,2004,Import,Cyprus,1,Live animals,Western Europe,Europe,712223,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2004,2004,Import,Cyprus,1,Live animals,World,World,1698062,34.9823018,33.1451285,,

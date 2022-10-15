@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Australia and New Zealand,Oceania,3718
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Central Asia,Asia,116
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Eastern Asia,Asia,3697
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Eastern Europe,Europe,59571
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Latin America and the Caribbean,Americas,6773
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Northern Africa,Africa,10044
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Northern America,Americas,151063
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Northern Europe,Europe,280067
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",South-eastern Asia,Asia,5271
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Southern Asia,Asia,6721
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Southern Europe,Europe,4810029
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Sub-Saharan Africa,Africa,20315
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Western Asia,Asia,45300
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Western Europe,Europe,174109
-2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",World,World,5858874
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Australia and New Zealand,Oceania,3718,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Central Asia,Asia,116,34.9823018,33.1451285,39.89317229901691,61.060280637304274
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Eastern Asia,Asia,3697,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Eastern Europe,Europe,59571,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Latin America and the Caribbean,Americas,6773,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Northern Africa,Africa,10044,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Northern America,Americas,151063,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Northern Europe,Europe,280067,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",South-eastern Asia,Asia,5271,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Southern Asia,Asia,6721,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Southern Europe,Europe,4810029,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Sub-Saharan Africa,Africa,20315,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Western Asia,Asia,45300,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",Western Europe,Europe,174109,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2003,2003,Export,Cyprus,49,"Printed books, newspapers, pictures and other products of the printing indu ...",World,World,5858874,34.9823018,33.1451285,,

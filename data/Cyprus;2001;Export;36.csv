@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,3155
-2001,2001,Export,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Latin America and the Caribbean,Americas,17
-2001,2001,Export,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,96317
-2001,2001,Export,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,962
-2001,2001,Export,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Sub-Saharan Africa,Africa,2463
-2001,2001,Export,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,5961
-2001,2001,Export,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,122888
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,3155,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2001,2001,Export,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Latin America and the Caribbean,Americas,17,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2001,2001,Export,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,96317,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2001,2001,Export,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,962,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2001,2001,Export,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Sub-Saharan Africa,Africa,2463,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2001,2001,Export,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,5961,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2001,2001,Export,Cyprus,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,122888,34.9823018,33.1451285,,

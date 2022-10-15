@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Cyprus,40,Rubber and articles thereof,Australia and New Zealand,Oceania,180488
-2002,2002,Import,Cyprus,40,Rubber and articles thereof,Eastern Asia,Asia,8191524
-2002,2002,Import,Cyprus,40,Rubber and articles thereof,Eastern Europe,Europe,1782009
-2002,2002,Import,Cyprus,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,343379
-2002,2002,Import,Cyprus,40,Rubber and articles thereof,Northern Africa,Africa,36349
-2002,2002,Import,Cyprus,40,Rubber and articles thereof,Northern America,Americas,1541992
-2002,2002,Import,Cyprus,40,Rubber and articles thereof,Northern Europe,Europe,3832003
-2002,2002,Import,Cyprus,40,Rubber and articles thereof,South-eastern Asia,Asia,3019937
-2002,2002,Import,Cyprus,40,Rubber and articles thereof,Southern Asia,Asia,181614
-2002,2002,Import,Cyprus,40,Rubber and articles thereof,Southern Europe,Europe,6261759
-2002,2002,Import,Cyprus,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,148137
-2002,2002,Import,Cyprus,40,Rubber and articles thereof,Western Asia,Asia,20554
-2002,2002,Import,Cyprus,40,Rubber and articles thereof,Western Europe,Europe,9253307
-2002,2002,Import,Cyprus,40,Rubber and articles thereof,World,World,37038317
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Cyprus,40,Rubber and articles thereof,Australia and New Zealand,Oceania,180488,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2002,2002,Import,Cyprus,40,Rubber and articles thereof,Eastern Asia,Asia,8191524,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2002,2002,Import,Cyprus,40,Rubber and articles thereof,Eastern Europe,Europe,1782009,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2002,2002,Import,Cyprus,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,343379,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2002,2002,Import,Cyprus,40,Rubber and articles thereof,Northern Africa,Africa,36349,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2002,2002,Import,Cyprus,40,Rubber and articles thereof,Northern America,Americas,1541992,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2002,2002,Import,Cyprus,40,Rubber and articles thereof,Northern Europe,Europe,3832003,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2002,2002,Import,Cyprus,40,Rubber and articles thereof,South-eastern Asia,Asia,3019937,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2002,2002,Import,Cyprus,40,Rubber and articles thereof,Southern Asia,Asia,181614,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2002,2002,Import,Cyprus,40,Rubber and articles thereof,Southern Europe,Europe,6261759,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2002,2002,Import,Cyprus,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,148137,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2002,2002,Import,Cyprus,40,Rubber and articles thereof,Western Asia,Asia,20554,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2002,2002,Import,Cyprus,40,Rubber and articles thereof,Western Europe,Europe,9253307,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2002,2002,Import,Cyprus,40,Rubber and articles thereof,World,World,37038317,34.9823018,33.1451285,,

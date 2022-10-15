@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,1448
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Central Asia,Asia,209325
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Eastern Asia,Asia,109245
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Eastern Europe,Europe,590989
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,2675
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Northern Africa,Africa,48259
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Northern America,Americas,238236
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Northern Europe,Europe,857514
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",South-eastern Asia,Asia,18028
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Southern Asia,Asia,77403
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Southern Europe,Europe,2124021
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,133166
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Western Asia,Asia,48431
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Western Europe,Europe,934204
-2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",World,World,9393455
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,1448,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Central Asia,Asia,209325,34.9823018,33.1451285,39.89317229901691,61.060280637304274
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Eastern Asia,Asia,109245,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Eastern Europe,Europe,590989,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,2675,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Northern Africa,Africa,48259,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Northern America,Americas,238236,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Northern Europe,Europe,857514,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",South-eastern Asia,Asia,18028,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Southern Asia,Asia,77403,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Southern Europe,Europe,2124021,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,133166,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Western Asia,Asia,48431,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",Western Europe,Europe,934204,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2000,2000,Re-Export,Cyprus,85,"Electrical, electronic equipment",World,World,9393455,34.9823018,33.1451285,,

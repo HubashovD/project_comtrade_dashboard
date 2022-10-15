@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Cyprus,6,Live trees and other plants;,Eastern Asia,Asia,115
-2002,2002,Import,Cyprus,6,Live trees and other plants;,Eastern Europe,Europe,4141
-2002,2002,Import,Cyprus,6,Live trees and other plants;,Latin America and the Caribbean,Americas,9570
-2002,2002,Import,Cyprus,6,Live trees and other plants;,Northern Africa,Africa,26394
-2002,2002,Import,Cyprus,6,Live trees and other plants;,Northern America,Americas,72037
-2002,2002,Import,Cyprus,6,Live trees and other plants;,Northern Europe,Europe,20994
-2002,2002,Import,Cyprus,6,Live trees and other plants;,South-eastern Asia,Asia,26248
-2002,2002,Import,Cyprus,6,Live trees and other plants;,Southern Asia,Asia,1640
-2002,2002,Import,Cyprus,6,Live trees and other plants;,Southern Europe,Europe,828677
-2002,2002,Import,Cyprus,6,Live trees and other plants;,Sub-Saharan Africa,Africa,291
-2002,2002,Import,Cyprus,6,Live trees and other plants;,Western Asia,Asia,885
-2002,2002,Import,Cyprus,6,Live trees and other plants;,Western Europe,Europe,4870698
-2002,2002,Import,Cyprus,6,Live trees and other plants;,World,World,6448348
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Cyprus,6,Live trees and other plants;,Eastern Asia,Asia,115,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2002,2002,Import,Cyprus,6,Live trees and other plants;,Eastern Europe,Europe,4141,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2002,2002,Import,Cyprus,6,Live trees and other plants;,Latin America and the Caribbean,Americas,9570,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2002,2002,Import,Cyprus,6,Live trees and other plants;,Northern Africa,Africa,26394,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2002,2002,Import,Cyprus,6,Live trees and other plants;,Northern America,Americas,72037,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2002,2002,Import,Cyprus,6,Live trees and other plants;,Northern Europe,Europe,20994,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2002,2002,Import,Cyprus,6,Live trees and other plants;,South-eastern Asia,Asia,26248,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2002,2002,Import,Cyprus,6,Live trees and other plants;,Southern Asia,Asia,1640,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2002,2002,Import,Cyprus,6,Live trees and other plants;,Southern Europe,Europe,828677,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2002,2002,Import,Cyprus,6,Live trees and other plants;,Sub-Saharan Africa,Africa,291,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2002,2002,Import,Cyprus,6,Live trees and other plants;,Western Asia,Asia,885,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2002,2002,Import,Cyprus,6,Live trees and other plants;,Western Europe,Europe,4870698,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2002,2002,Import,Cyprus,6,Live trees and other plants;,World,World,6448348,34.9823018,33.1451285,,

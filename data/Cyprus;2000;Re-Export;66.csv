@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Re-Export,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Europe,Europe,42
-2000,2000,Re-Export,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern Europe,Europe,6
-2000,2000,Re-Export,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Europe,Europe,14478
-2000,2000,Re-Export,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Asia,Asia,847
-2000,2000,Re-Export,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",World,World,15496
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Re-Export,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Europe,Europe,42,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2000,2000,Re-Export,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern Europe,Europe,6,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2000,2000,Re-Export,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Europe,Europe,14478,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2000,2000,Re-Export,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Asia,Asia,847,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2000,2000,Re-Export,Cyprus,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",World,World,15496,34.9823018,33.1451285,,

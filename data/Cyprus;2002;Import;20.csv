@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Australia and New Zealand,Oceania,348
-2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Eastern Asia,Asia,172025
-2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Eastern Europe,Europe,102014
-2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Latin America and the Caribbean,Americas,1632654
-2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Northern Africa,Africa,156711
-2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Northern America,Americas,272189
-2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Northern Europe,Europe,989027
-2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",South-eastern Asia,Asia,694935
-2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Southern Asia,Asia,33683
-2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Southern Europe,Europe,3990004
-2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Sub-Saharan Africa,Africa,326924
-2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Western Asia,Asia,2601
-2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Western Europe,Europe,5406145
-2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",World,World,14088993
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Australia and New Zealand,Oceania,348,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Eastern Asia,Asia,172025,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Eastern Europe,Europe,102014,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Latin America and the Caribbean,Americas,1632654,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Northern Africa,Africa,156711,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Northern America,Americas,272189,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Northern Europe,Europe,989027,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",South-eastern Asia,Asia,694935,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Southern Asia,Asia,33683,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Southern Europe,Europe,3990004,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Sub-Saharan Africa,Africa,326924,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Western Asia,Asia,2601,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",Western Europe,Europe,5406145,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2002,2002,Import,Cyprus,20,"Preparations of vegetables, fruit or nuts",World,World,14088993,34.9823018,33.1451285,,

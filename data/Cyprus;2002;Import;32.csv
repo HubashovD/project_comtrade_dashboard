@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Australia and New Zealand,Oceania,91850
-2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Eastern Asia,Asia,387975
-2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Eastern Europe,Europe,60325
-2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Latin America and the Caribbean,Americas,24054
-2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Northern Africa,Africa,38642
-2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Northern America,Americas,1365813
-2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Northern Europe,Europe,6939982
-2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,South-eastern Asia,Asia,84218
-2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Southern Europe,Europe,9378380
-2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Sub-Saharan Africa,Africa,29144
-2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Western Asia,Asia,1305
-2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Western Europe,Europe,5483597
-2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,World,World,24577484
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Australia and New Zealand,Oceania,91850,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Eastern Asia,Asia,387975,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Eastern Europe,Europe,60325,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Latin America and the Caribbean,Americas,24054,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Northern Africa,Africa,38642,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Northern America,Americas,1365813,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Northern Europe,Europe,6939982,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,South-eastern Asia,Asia,84218,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Southern Europe,Europe,9378380,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Sub-Saharan Africa,Africa,29144,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Western Asia,Asia,1305,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,Western Europe,Europe,5483597,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2002,2002,Import,Cyprus,32,Tanning or dyeing extracts,World,World,24577484,34.9823018,33.1451285,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",Central Asia,Asia,8539
-2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",Eastern Europe,Europe,15414
-2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",Northern Africa,Africa,5529
-2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",Northern America,Americas,2483
-2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",Northern Europe,Europe,2593
-2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",Southern Europe,Europe,219107
-2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",Western Europe,Europe,1258
-2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",World,World,346320
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",Central Asia,Asia,8539,34.9823018,33.1451285,39.89317229901691,61.060280637304274
+2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",Eastern Europe,Europe,15414,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",Northern Africa,Africa,5529,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",Northern America,Americas,2483,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",Northern Europe,Europe,2593,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",Southern Europe,Europe,219107,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",Western Europe,Europe,1258,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2001,2001,Re-Export,Cyprus,42,"Articles of leather, animal gut, harness, travel goods",World,World,346320,34.9823018,33.1451285,,
