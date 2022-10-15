@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Cyprus,80,Tin and articles thereof,Eastern Asia,Asia,8632
-2007,2007,Import,Cyprus,80,Tin and articles thereof,Northern America,Americas,1026
-2007,2007,Import,Cyprus,80,Tin and articles thereof,Northern Europe,Europe,4868
-2007,2007,Import,Cyprus,80,Tin and articles thereof,South-eastern Asia,Asia,167
-2007,2007,Import,Cyprus,80,Tin and articles thereof,Southern Europe,Europe,746
-2007,2007,Import,Cyprus,80,Tin and articles thereof,Western Europe,Europe,18345
-2007,2007,Import,Cyprus,80,Tin and articles thereof,World,World,33784
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Cyprus,80,Tin and articles thereof,Eastern Asia,Asia,8632,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2007,2007,Import,Cyprus,80,Tin and articles thereof,Northern America,Americas,1026,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2007,2007,Import,Cyprus,80,Tin and articles thereof,Northern Europe,Europe,4868,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2007,2007,Import,Cyprus,80,Tin and articles thereof,South-eastern Asia,Asia,167,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2007,2007,Import,Cyprus,80,Tin and articles thereof,Southern Europe,Europe,746,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2007,2007,Import,Cyprus,80,Tin and articles thereof,Western Europe,Europe,18345,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2007,2007,Import,Cyprus,80,Tin and articles thereof,World,World,33784,34.9823018,33.1451285,,

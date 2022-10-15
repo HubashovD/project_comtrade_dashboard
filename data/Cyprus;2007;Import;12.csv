@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Australia and New Zealand,Oceania,140526
-2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Eastern Asia,Asia,650288
-2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Eastern Europe,Europe,472066
-2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Latin America and the Caribbean,Americas,5581
-2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Northern Africa,Africa,202320
-2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Northern America,Americas,238631
-2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Northern Europe,Europe,687563
-2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",South-eastern Asia,Asia,5679
-2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Southern Asia,Asia,1287
-2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Southern Europe,Europe,6383740
-2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Sub-Saharan Africa,Africa,118904
-2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Western Asia,Asia,113582
-2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Western Europe,Europe,1429067
-2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",World,World,12938375
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Australia and New Zealand,Oceania,140526,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Eastern Asia,Asia,650288,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Eastern Europe,Europe,472066,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Latin America and the Caribbean,Americas,5581,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Northern Africa,Africa,202320,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Northern America,Americas,238631,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Northern Europe,Europe,687563,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",South-eastern Asia,Asia,5679,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Southern Asia,Asia,1287,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Southern Europe,Europe,6383740,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Sub-Saharan Africa,Africa,118904,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Western Asia,Asia,113582,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Western Europe,Europe,1429067,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2007,2007,Import,Cyprus,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",World,World,12938375,34.9823018,33.1451285,,

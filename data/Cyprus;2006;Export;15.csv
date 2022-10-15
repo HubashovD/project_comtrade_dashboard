@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Australia and New Zealand,Oceania,1848
-2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Eastern Asia,Asia,23012
-2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Eastern Europe,Europe,97584
-2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Northern Africa,Africa,111748
-2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Northern America,Americas,164846
-2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Northern Europe,Europe,93233
-2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Southern Asia,Asia,50016
-2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Southern Europe,Europe,472206
-2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Western Asia,Asia,724366
-2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,World,World,2404590
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Australia and New Zealand,Oceania,1848,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Eastern Asia,Asia,23012,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Eastern Europe,Europe,97584,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Northern Africa,Africa,111748,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Northern America,Americas,164846,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Northern Europe,Europe,93233,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Southern Asia,Asia,50016,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Southern Europe,Europe,472206,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,Western Asia,Asia,724366,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2006,2006,Export,Cyprus,15,Animal or vegetable fats and oils,World,World,2404590,34.9823018,33.1451285,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Cyprus,75,Nickel and articles thereof,Eastern Asia,Asia,398
-2007,2007,Import,Cyprus,75,Nickel and articles thereof,Eastern Europe,Europe,82
-2007,2007,Import,Cyprus,75,Nickel and articles thereof,Northern America,Americas,16293
-2007,2007,Import,Cyprus,75,Nickel and articles thereof,Northern Europe,Europe,28655
-2007,2007,Import,Cyprus,75,Nickel and articles thereof,Southern Europe,Europe,47199
-2007,2007,Import,Cyprus,75,Nickel and articles thereof,Western Europe,Europe,15016
-2007,2007,Import,Cyprus,75,Nickel and articles thereof,World,World,128529
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Cyprus,75,Nickel and articles thereof,Eastern Asia,Asia,398,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2007,2007,Import,Cyprus,75,Nickel and articles thereof,Eastern Europe,Europe,82,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2007,2007,Import,Cyprus,75,Nickel and articles thereof,Northern America,Americas,16293,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2007,2007,Import,Cyprus,75,Nickel and articles thereof,Northern Europe,Europe,28655,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2007,2007,Import,Cyprus,75,Nickel and articles thereof,Southern Europe,Europe,47199,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2007,2007,Import,Cyprus,75,Nickel and articles thereof,Western Europe,Europe,15016,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2007,2007,Import,Cyprus,75,Nickel and articles thereof,World,World,128529,34.9823018,33.1451285,,

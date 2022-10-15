@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,160753
-2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,28192
-2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,2167172
-2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,457450
-2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,2517
-2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,177969
-2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,2818442
-2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",World,World,5881695
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,160753,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,28192,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,2167172,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,457450,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,2517,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,177969,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,2818442,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2008,2008,Re-Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",World,World,5881695,34.9823018,33.1451285,,

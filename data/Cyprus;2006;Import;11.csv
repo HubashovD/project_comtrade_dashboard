@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Eastern Asia,Asia,7470
-2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Eastern Europe,Europe,265841
-2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Northern America,Americas,49453
-2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Northern Europe,Europe,415422
-2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,South-eastern Asia,Asia,7269
-2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Southern Asia,Asia,4585
-2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Southern Europe,Europe,1366107
-2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Sub-Saharan Africa,Africa,325
-2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Western Europe,Europe,2968640
-2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,World,World,5095480
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Eastern Asia,Asia,7470,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Eastern Europe,Europe,265841,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Northern America,Americas,49453,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Northern Europe,Europe,415422,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,South-eastern Asia,Asia,7269,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Southern Asia,Asia,4585,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Southern Europe,Europe,1366107,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Sub-Saharan Africa,Africa,325,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,Western Europe,Europe,2968640,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2006,2006,Import,Cyprus,11,Products of the milling industry; malt; starches; inulin,World,World,5095480,34.9823018,33.1451285,,

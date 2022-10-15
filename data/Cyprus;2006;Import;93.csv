@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Australia and New Zealand,Oceania,39710
-2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Eastern Asia,Asia,643705
-2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Eastern Europe,Europe,4736297
-2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Northern America,Americas,68018
-2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Northern Europe,Europe,296900
-2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Southern Europe,Europe,3360174
-2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Sub-Saharan Africa,Africa,24162
-2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Western Europe,Europe,366033
-2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,World,World,100360852
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Australia and New Zealand,Oceania,39710,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Eastern Asia,Asia,643705,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Eastern Europe,Europe,4736297,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Northern America,Americas,68018,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Northern Europe,Europe,296900,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Southern Europe,Europe,3360174,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Sub-Saharan Africa,Africa,24162,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,Western Europe,Europe,366033,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2006,2006,Import,Cyprus,93,Arms and ammunition; parts and accessories thereof,World,World,100360852,34.9823018,33.1451285,,

@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Re-Export,Cyprus,72,Iron and steel,Northern Africa,Africa,10246
-2008,2008,Re-Export,Cyprus,72,Iron and steel,Northern America,Americas,3609
-2008,2008,Re-Export,Cyprus,72,Iron and steel,Northern Europe,Europe,49066
-2008,2008,Re-Export,Cyprus,72,Iron and steel,World,World,261234
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Re-Export,Cyprus,72,Iron and steel,Northern Africa,Africa,10246,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2008,2008,Re-Export,Cyprus,72,Iron and steel,Northern America,Americas,3609,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2008,2008,Re-Export,Cyprus,72,Iron and steel,Northern Europe,Europe,49066,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2008,2008,Re-Export,Cyprus,72,Iron and steel,World,World,261234,34.9823018,33.1451285,,

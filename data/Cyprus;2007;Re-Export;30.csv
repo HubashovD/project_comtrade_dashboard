@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Eastern Asia,Asia,16646
-2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Eastern Europe,Europe,66176
-2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Northern America,Americas,8464
-2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Northern Europe,Europe,148308
-2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Southern Asia,Asia,5408325
-2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Southern Europe,Europe,19363431
-2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Sub-Saharan Africa,Africa,4121
-2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Western Asia,Asia,1073695
-2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Western Europe,Europe,1687187
-2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,World,World,41041127
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Eastern Asia,Asia,16646,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Eastern Europe,Europe,66176,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Northern America,Americas,8464,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Northern Europe,Europe,148308,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Southern Asia,Asia,5408325,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Southern Europe,Europe,19363431,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Sub-Saharan Africa,Africa,4121,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Western Asia,Asia,1073695,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,Western Europe,Europe,1687187,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2007,2007,Re-Export,Cyprus,30,Pharmaceutical products,World,World,41041127,34.9823018,33.1451285,,

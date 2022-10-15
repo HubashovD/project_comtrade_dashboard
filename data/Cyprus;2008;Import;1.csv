@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Cyprus,1,Live animals; animal products,Eastern Europe,Europe,47709
-2008,2008,Import,Cyprus,1,Live animals; animal products,Northern America,Americas,126122
-2008,2008,Import,Cyprus,1,Live animals; animal products,Northern Europe,Europe,492310
-2008,2008,Import,Cyprus,1,Live animals; animal products,Southern Europe,Europe,286937
-2008,2008,Import,Cyprus,1,Live animals; animal products,Western Europe,Europe,980863
-2008,2008,Import,Cyprus,1,Live animals; animal products,World,World,1947944
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Cyprus,1,Live animals; animal products,Eastern Europe,Europe,47709,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2008,2008,Import,Cyprus,1,Live animals; animal products,Northern America,Americas,126122,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2008,2008,Import,Cyprus,1,Live animals; animal products,Northern Europe,Europe,492310,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2008,2008,Import,Cyprus,1,Live animals; animal products,Southern Europe,Europe,286937,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2008,2008,Import,Cyprus,1,Live animals; animal products,Western Europe,Europe,980863,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2008,2008,Import,Cyprus,1,Live animals; animal products,World,World,1947944,34.9823018,33.1451285,,

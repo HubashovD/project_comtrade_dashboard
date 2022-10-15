@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Re-Export,Cyprus,10,Cereals,Southern Europe,Europe,17614
-2008,2008,Re-Export,Cyprus,10,Cereals,Western Europe,Europe,171566
-2008,2008,Re-Export,Cyprus,10,Cereals,World,World,2035017
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Re-Export,Cyprus,10,Cereals,Southern Europe,Europe,17614,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2008,2008,Re-Export,Cyprus,10,Cereals,Western Europe,Europe,171566,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2008,2008,Re-Export,Cyprus,10,Cereals,World,World,2035017,34.9823018,33.1451285,,

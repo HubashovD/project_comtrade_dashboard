@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Australia and New Zealand,Oceania,46899
-2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Eastern Asia,Asia,85120
-2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Eastern Europe,Europe,16863
-2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Latin America and the Caribbean,Americas,3698581
-2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Northern Africa,Africa,44614
-2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Northern America,Americas,95548
-2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Northern Europe,Europe,2366734
-2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",South-eastern Asia,Asia,88370
-2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Southern Asia,Asia,464943
-2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Southern Europe,Europe,2055030
-2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Sub-Saharan Africa,Africa,176158
-2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Western Asia,Asia,210623
-2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Western Europe,Europe,2439595
-2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",World,World,12097752
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Australia and New Zealand,Oceania,46899,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Eastern Asia,Asia,85120,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Eastern Europe,Europe,16863,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Latin America and the Caribbean,Americas,3698581,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Northern Africa,Africa,44614,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Northern America,Americas,95548,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Northern Europe,Europe,2366734,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",South-eastern Asia,Asia,88370,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Southern Asia,Asia,464943,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Southern Europe,Europe,2055030,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Sub-Saharan Africa,Africa,176158,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Western Asia,Asia,210623,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",Western Europe,Europe,2439595,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2007,2007,Import,Cyprus,9,"Coffee, tea, maté and spices",World,World,12097752,34.9823018,33.1451285,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,1792752
-2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,2140028
-2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,15753
-2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,480047
-2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Africa,Africa,4949885
-2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,89106
-2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,3742755
-2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,6669808
-2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,384145
-2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,8785266
-2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,1172551
-2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,4476652
-2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,39790411
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,1792752,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,2140028,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,15753,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,480047,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Africa,Africa,4949885,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,89106,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,3742755,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,6669808,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,384145,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,8785266,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,1172551,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,4476652,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2006,2006,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,39790411,34.9823018,33.1451285,,

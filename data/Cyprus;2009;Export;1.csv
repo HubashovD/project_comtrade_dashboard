@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Export,Cyprus,1,Live animals; animal products,Australia and New Zealand,Oceania,1990
-2009,2009,Export,Cyprus,1,Live animals; animal products,Eastern Asia,Asia,557
-2009,2009,Export,Cyprus,1,Live animals; animal products,Eastern Europe,Europe,766
-2009,2009,Export,Cyprus,1,Live animals; animal products,Latin America and the Caribbean,Americas,139
-2009,2009,Export,Cyprus,1,Live animals; animal products,Northern America,Americas,7336
-2009,2009,Export,Cyprus,1,Live animals; animal products,South-eastern Asia,Asia,212732
-2009,2009,Export,Cyprus,1,Live animals; animal products,Southern Europe,Europe,94203
-2009,2009,Export,Cyprus,1,Live animals; animal products,Sub-Saharan Africa,Africa,2909
-2009,2009,Export,Cyprus,1,Live animals; animal products,Western Europe,Europe,557
-2009,2009,Export,Cyprus,1,Live animals; animal products,World,World,598753
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Export,Cyprus,1,Live animals; animal products,Australia and New Zealand,Oceania,1990,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2009,2009,Export,Cyprus,1,Live animals; animal products,Eastern Asia,Asia,557,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2009,2009,Export,Cyprus,1,Live animals; animal products,Eastern Europe,Europe,766,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2009,2009,Export,Cyprus,1,Live animals; animal products,Latin America and the Caribbean,Americas,139,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2009,2009,Export,Cyprus,1,Live animals; animal products,Northern America,Americas,7336,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2009,2009,Export,Cyprus,1,Live animals; animal products,South-eastern Asia,Asia,212732,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2009,2009,Export,Cyprus,1,Live animals; animal products,Southern Europe,Europe,94203,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2009,2009,Export,Cyprus,1,Live animals; animal products,Sub-Saharan Africa,Africa,2909,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2009,2009,Export,Cyprus,1,Live animals; animal products,Western Europe,Europe,557,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2009,2009,Export,Cyprus,1,Live animals; animal products,World,World,598753,34.9823018,33.1451285,,

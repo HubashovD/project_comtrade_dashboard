@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Cyprus,78,Lead and articles thereof,Eastern Asia,Asia,103
-2006,2006,Import,Cyprus,78,Lead and articles thereof,Eastern Europe,Europe,25699
-2006,2006,Import,Cyprus,78,Lead and articles thereof,Northern America,Americas,1908
-2006,2006,Import,Cyprus,78,Lead and articles thereof,Northern Europe,Europe,76534
-2006,2006,Import,Cyprus,78,Lead and articles thereof,Southern Europe,Europe,154706
-2006,2006,Import,Cyprus,78,Lead and articles thereof,Western Europe,Europe,127387
-2006,2006,Import,Cyprus,78,Lead and articles thereof,World,World,640122
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Cyprus,78,Lead and articles thereof,Eastern Asia,Asia,103,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2006,2006,Import,Cyprus,78,Lead and articles thereof,Eastern Europe,Europe,25699,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2006,2006,Import,Cyprus,78,Lead and articles thereof,Northern America,Americas,1908,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2006,2006,Import,Cyprus,78,Lead and articles thereof,Northern Europe,Europe,76534,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2006,2006,Import,Cyprus,78,Lead and articles thereof,Southern Europe,Europe,154706,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2006,2006,Import,Cyprus,78,Lead and articles thereof,Western Europe,Europe,127387,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2006,2006,Import,Cyprus,78,Lead and articles thereof,World,World,640122,34.9823018,33.1451285,,

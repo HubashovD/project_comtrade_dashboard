@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,680023
-2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern Africa,Africa,88882
-2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,12653157
-2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,69452
-2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,151710
-2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Southern Asia,Asia,18351
-2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,118987
-2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,262644
-2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",World,World,20720701
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,680023,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern Africa,Africa,88882,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,12653157,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,69452,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,151710,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Southern Asia,Asia,18351,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,118987,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,262644,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2005,2005,Export,Cyprus,88,"Aircraft, spacecraft, and parts thereof",World,World,20720701,34.9823018,33.1451285,,

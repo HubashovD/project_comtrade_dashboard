@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Australia and New Zealand,Oceania,13564
-2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Eastern Asia,Asia,3636425
-2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Eastern Europe,Europe,1028433
-2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Latin America and the Caribbean,Americas,13950
-2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Northern Africa,Africa,701309
-2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Northern America,Americas,523744
-2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Northern Europe,Europe,2031864
-2007,2007,Import,Cyprus,76,Aluminum and articles thereof,South-eastern Asia,Asia,155824
-2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Southern Europe,Europe,38920742
-2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Sub-Saharan Africa,Africa,190130
-2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Western Asia,Asia,97286
-2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Western Europe,Europe,12961348
-2007,2007,Import,Cyprus,76,Aluminum and articles thereof,World,World,102198269
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Australia and New Zealand,Oceania,13564,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Eastern Asia,Asia,3636425,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Eastern Europe,Europe,1028433,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Latin America and the Caribbean,Americas,13950,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Northern Africa,Africa,701309,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Northern America,Americas,523744,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Northern Europe,Europe,2031864,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2007,2007,Import,Cyprus,76,Aluminum and articles thereof,South-eastern Asia,Asia,155824,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Southern Europe,Europe,38920742,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Sub-Saharan Africa,Africa,190130,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Western Asia,Asia,97286,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2007,2007,Import,Cyprus,76,Aluminum and articles thereof,Western Europe,Europe,12961348,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2007,2007,Import,Cyprus,76,Aluminum and articles thereof,World,World,102198269,34.9823018,33.1451285,,

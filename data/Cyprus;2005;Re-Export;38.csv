@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Re-Export,Cyprus,38,Miscellaneous chemical products,Northern America,Americas,22772
-2005,2005,Re-Export,Cyprus,38,Miscellaneous chemical products,Northern Europe,Europe,4073325
-2005,2005,Re-Export,Cyprus,38,Miscellaneous chemical products,Southern Asia,Asia,645
-2005,2005,Re-Export,Cyprus,38,Miscellaneous chemical products,Southern Europe,Europe,535782
-2005,2005,Re-Export,Cyprus,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,77
-2005,2005,Re-Export,Cyprus,38,Miscellaneous chemical products,Western Asia,Asia,84656
-2005,2005,Re-Export,Cyprus,38,Miscellaneous chemical products,World,World,6503293
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Re-Export,Cyprus,38,Miscellaneous chemical products,Northern America,Americas,22772,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2005,2005,Re-Export,Cyprus,38,Miscellaneous chemical products,Northern Europe,Europe,4073325,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2005,2005,Re-Export,Cyprus,38,Miscellaneous chemical products,Southern Asia,Asia,645,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2005,2005,Re-Export,Cyprus,38,Miscellaneous chemical products,Southern Europe,Europe,535782,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2005,2005,Re-Export,Cyprus,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,77,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2005,2005,Re-Export,Cyprus,38,Miscellaneous chemical products,Western Asia,Asia,84656,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2005,2005,Re-Export,Cyprus,38,Miscellaneous chemical products,World,World,6503293,34.9823018,33.1451285,,

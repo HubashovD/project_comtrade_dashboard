@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Cyprus,29,Organic chemicals,Eastern Asia,Asia,11887104
-2005,2005,Import,Cyprus,29,Organic chemicals,Eastern Europe,Europe,540555
-2005,2005,Import,Cyprus,29,Organic chemicals,Latin America and the Caribbean,Americas,410783
-2005,2005,Import,Cyprus,29,Organic chemicals,Northern America,Americas,401445
-2005,2005,Import,Cyprus,29,Organic chemicals,Northern Europe,Europe,1966722
-2005,2005,Import,Cyprus,29,Organic chemicals,South-eastern Asia,Asia,1469879
-2005,2005,Import,Cyprus,29,Organic chemicals,Southern Europe,Europe,5696384
-2005,2005,Import,Cyprus,29,Organic chemicals,Sub-Saharan Africa,Africa,250810
-2005,2005,Import,Cyprus,29,Organic chemicals,Western Asia,Asia,19636
-2005,2005,Import,Cyprus,29,Organic chemicals,Western Europe,Europe,9256585
-2005,2005,Import,Cyprus,29,Organic chemicals,World,World,43309296
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Cyprus,29,Organic chemicals,Eastern Asia,Asia,11887104,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2005,2005,Import,Cyprus,29,Organic chemicals,Eastern Europe,Europe,540555,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2005,2005,Import,Cyprus,29,Organic chemicals,Latin America and the Caribbean,Americas,410783,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2005,2005,Import,Cyprus,29,Organic chemicals,Northern America,Americas,401445,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2005,2005,Import,Cyprus,29,Organic chemicals,Northern Europe,Europe,1966722,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2005,2005,Import,Cyprus,29,Organic chemicals,South-eastern Asia,Asia,1469879,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2005,2005,Import,Cyprus,29,Organic chemicals,Southern Europe,Europe,5696384,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2005,2005,Import,Cyprus,29,Organic chemicals,Sub-Saharan Africa,Africa,250810,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2005,2005,Import,Cyprus,29,Organic chemicals,Western Asia,Asia,19636,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2005,2005,Import,Cyprus,29,Organic chemicals,Western Europe,Europe,9256585,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2005,2005,Import,Cyprus,29,Organic chemicals,World,World,43309296,34.9823018,33.1451285,,

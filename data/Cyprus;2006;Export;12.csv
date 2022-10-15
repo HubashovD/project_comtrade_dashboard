@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,Northern Africa,Africa,437230
-2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,Northern America,Americas,65233
-2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,320492
-2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,South-eastern Asia,Asia,4288
-2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,1087781
-2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,Sub-Saharan Africa,Africa,1572
-2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,Western Europe,Europe,397123
-2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,World,World,2404372
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,Northern Africa,Africa,437230,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,Northern America,Americas,65233,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,320492,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,South-eastern Asia,Asia,4288,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,1087781,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,Sub-Saharan Africa,Africa,1572,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,Western Europe,Europe,397123,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2006,2006,Export,Cyprus,12,Oil seeds and oleaginous fruits,World,World,2404372,34.9823018,33.1451285,,

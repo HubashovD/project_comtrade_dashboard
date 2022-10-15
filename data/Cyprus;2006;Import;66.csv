@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Eastern Asia,Asia,783263
-2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Eastern Europe,Europe,4227
-2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Latin America and the Caribbean,Americas,3280
-2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Northern Africa,Africa,122
-2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Northern America,Americas,4033
-2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Northern Europe,Europe,66584
-2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",South-eastern Asia,Asia,10149
-2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Southern Europe,Europe,355123
-2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Sub-Saharan Africa,Africa,8760
-2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Western Asia,Asia,23869
-2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Western Europe,Europe,191963
-2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",World,World,1461548
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Eastern Asia,Asia,783263,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Eastern Europe,Europe,4227,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Latin America and the Caribbean,Americas,3280,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Northern Africa,Africa,122,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Northern America,Americas,4033,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Northern Europe,Europe,66584,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",South-eastern Asia,Asia,10149,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Southern Europe,Europe,355123,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Sub-Saharan Africa,Africa,8760,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Western Asia,Asia,23869,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Western Europe,Europe,191963,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2006,2006,Import,Cyprus,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",World,World,1461548,34.9823018,33.1451285,,

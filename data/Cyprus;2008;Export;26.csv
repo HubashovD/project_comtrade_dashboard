@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Export,Cyprus,26,"Ores, slag and ash",Southern Europe,Europe,178353
-2008,2008,Export,Cyprus,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,11909
-2008,2008,Export,Cyprus,26,"Ores, slag and ash",Western Europe,Europe,12606
-2008,2008,Export,Cyprus,26,"Ores, slag and ash",World,World,202868
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Export,Cyprus,26,"Ores, slag and ash",Southern Europe,Europe,178353,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2008,2008,Export,Cyprus,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,11909,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2008,2008,Export,Cyprus,26,"Ores, slag and ash",Western Europe,Europe,12606,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2008,2008,Export,Cyprus,26,"Ores, slag and ash",World,World,202868,34.9823018,33.1451285,,

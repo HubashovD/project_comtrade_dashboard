@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Eastern Asia,Asia,189504
-2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Eastern Europe,Europe,7711
-2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,251484
-2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Northern Africa,Africa,21825
-2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Northern America,Americas,178661
-2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Northern Europe,Europe,1037899
-2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,South-eastern Asia,Asia,10375
-2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Southern Asia,Asia,343137
-2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Southern Europe,Europe,1354930
-2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Sub-Saharan Africa,Africa,1503
-2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Western Asia,Asia,20041
-2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Western Europe,Europe,3268140
-2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,World,World,7965852
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Eastern Asia,Asia,189504,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Eastern Europe,Europe,7711,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,251484,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Northern Africa,Africa,21825,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Northern America,Americas,178661,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Northern Europe,Europe,1037899,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,South-eastern Asia,Asia,10375,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Southern Asia,Asia,343137,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Southern Europe,Europe,1354930,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Sub-Saharan Africa,Africa,1503,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Western Asia,Asia,20041,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,Western Europe,Europe,3268140,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2004,2004,Import,Cyprus,57,Carpets and other textile floor coverings,World,World,7965852,34.9823018,33.1451285,,

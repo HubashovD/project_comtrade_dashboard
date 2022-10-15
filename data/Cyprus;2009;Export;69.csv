@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Export,Cyprus,69,Ceramic products,Australia and New Zealand,Oceania,3340
-2009,2009,Export,Cyprus,69,Ceramic products,Eastern Asia,Asia,279
-2009,2009,Export,Cyprus,69,Ceramic products,Eastern Europe,Europe,836
-2009,2009,Export,Cyprus,69,Ceramic products,Northern Africa,Africa,20
-2009,2009,Export,Cyprus,69,Ceramic products,Northern Europe,Europe,13462
-2009,2009,Export,Cyprus,69,Ceramic products,Southern Europe,Europe,159450
-2009,2009,Export,Cyprus,69,Ceramic products,Sub-Saharan Africa,Africa,28
-2009,2009,Export,Cyprus,69,Ceramic products,World,World,221877
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Export,Cyprus,69,Ceramic products,Australia and New Zealand,Oceania,3340,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2009,2009,Export,Cyprus,69,Ceramic products,Eastern Asia,Asia,279,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2009,2009,Export,Cyprus,69,Ceramic products,Eastern Europe,Europe,836,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2009,2009,Export,Cyprus,69,Ceramic products,Northern Africa,Africa,20,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2009,2009,Export,Cyprus,69,Ceramic products,Northern Europe,Europe,13462,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2009,2009,Export,Cyprus,69,Ceramic products,Southern Europe,Europe,159450,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2009,2009,Export,Cyprus,69,Ceramic products,Sub-Saharan Africa,Africa,28,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2009,2009,Export,Cyprus,69,Ceramic products,World,World,221877,34.9823018,33.1451285,,

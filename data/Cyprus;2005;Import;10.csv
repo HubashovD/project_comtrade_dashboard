@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Cyprus,10,Cereals,Australia and New Zealand,Oceania,235105
-2005,2005,Import,Cyprus,10,Cereals,Central Asia,Asia,1503857
-2005,2005,Import,Cyprus,10,Cereals,Eastern Asia,Asia,8962
-2005,2005,Import,Cyprus,10,Cereals,Eastern Europe,Europe,47695587
-2005,2005,Import,Cyprus,10,Cereals,Latin America and the Caribbean,Americas,724322
-2005,2005,Import,Cyprus,10,Cereals,Northern Africa,Africa,37213
-2005,2005,Import,Cyprus,10,Cereals,Northern America,Americas,3770626
-2005,2005,Import,Cyprus,10,Cereals,Northern Europe,Europe,9132849
-2005,2005,Import,Cyprus,10,Cereals,South-eastern Asia,Asia,127679
-2005,2005,Import,Cyprus,10,Cereals,Southern Asia,Asia,3375
-2005,2005,Import,Cyprus,10,Cereals,Southern Europe,Europe,8833367
-2005,2005,Import,Cyprus,10,Cereals,Sub-Saharan Africa,Africa,38024
-2005,2005,Import,Cyprus,10,Cereals,Western Asia,Asia,16209
-2005,2005,Import,Cyprus,10,Cereals,Western Europe,Europe,8754981
-2005,2005,Import,Cyprus,10,Cereals,World,World,91676083
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Cyprus,10,Cereals,Australia and New Zealand,Oceania,235105,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2005,2005,Import,Cyprus,10,Cereals,Central Asia,Asia,1503857,34.9823018,33.1451285,39.89317229901691,61.060280637304274
+2005,2005,Import,Cyprus,10,Cereals,Eastern Asia,Asia,8962,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2005,2005,Import,Cyprus,10,Cereals,Eastern Europe,Europe,47695587,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2005,2005,Import,Cyprus,10,Cereals,Latin America and the Caribbean,Americas,724322,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2005,2005,Import,Cyprus,10,Cereals,Northern Africa,Africa,37213,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2005,2005,Import,Cyprus,10,Cereals,Northern America,Americas,3770626,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2005,2005,Import,Cyprus,10,Cereals,Northern Europe,Europe,9132849,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2005,2005,Import,Cyprus,10,Cereals,South-eastern Asia,Asia,127679,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2005,2005,Import,Cyprus,10,Cereals,Southern Asia,Asia,3375,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2005,2005,Import,Cyprus,10,Cereals,Southern Europe,Europe,8833367,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2005,2005,Import,Cyprus,10,Cereals,Sub-Saharan Africa,Africa,38024,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2005,2005,Import,Cyprus,10,Cereals,Western Asia,Asia,16209,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2005,2005,Import,Cyprus,10,Cereals,Western Europe,Europe,8754981,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2005,2005,Import,Cyprus,10,Cereals,World,World,91676083,34.9823018,33.1451285,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,97338
-2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Eastern Asia,Asia,3085053
-2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Eastern Europe,Europe,433238
-2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,266726
-2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Northern Africa,Africa,503637
-2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Northern America,Americas,1508841
-2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Northern Europe,Europe,6989429
-2007,2007,Import,Cyprus,38,Miscellaneous chemical products,South-eastern Asia,Asia,127757
-2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Southern Europe,Europe,24136002
-2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,96766
-2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Western Asia,Asia,10687
-2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Western Europe,Europe,13206153
-2007,2007,Import,Cyprus,38,Miscellaneous chemical products,World,World,52234676
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,97338,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Eastern Asia,Asia,3085053,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Eastern Europe,Europe,433238,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,266726,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Northern Africa,Africa,503637,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Northern America,Americas,1508841,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Northern Europe,Europe,6989429,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2007,2007,Import,Cyprus,38,Miscellaneous chemical products,South-eastern Asia,Asia,127757,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Southern Europe,Europe,24136002,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,96766,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Western Asia,Asia,10687,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2007,2007,Import,Cyprus,38,Miscellaneous chemical products,Western Europe,Europe,13206153,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2007,2007,Import,Cyprus,38,Miscellaneous chemical products,World,World,52234676,34.9823018,33.1451285,,

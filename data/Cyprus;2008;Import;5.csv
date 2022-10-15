@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,80129
-2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,5944
-2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Northern Africa,Africa,35263
-2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Northern America,Americas,746546
-2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Northern Europe,Europe,121428
-2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,28952
-2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Southern Europe,Europe,162787
-2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Sub-Saharan Africa,Africa,1391
-2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Western Europe,Europe,432080
-2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",World,World,1678557
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,80129,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,5944,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Northern Africa,Africa,35263,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Northern America,Americas,746546,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Northern Europe,Europe,121428,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,28952,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Southern Europe,Europe,162787,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Sub-Saharan Africa,Africa,1391,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Western Europe,Europe,432080,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2008,2008,Import,Cyprus,5,"Products of animal origin, not elsewhere specified or included",World,World,1678557,34.9823018,33.1451285,,

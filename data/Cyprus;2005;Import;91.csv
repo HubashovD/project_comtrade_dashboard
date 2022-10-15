@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Australia and New Zealand,Oceania,1768
-2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Eastern Asia,Asia,2280680
-2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Eastern Europe,Europe,4522
-2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Latin America and the Caribbean,Americas,6824
-2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Melanesia,Oceania,112
-2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Northern Africa,Africa,1248
-2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Northern America,Americas,64651
-2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Northern Europe,Europe,491706
-2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,South-eastern Asia,Asia,20019
-2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Southern Europe,Europe,4725858
-2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Sub-Saharan Africa,Africa,1153
-2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Western Asia,Asia,1106
-2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Western Europe,Europe,6228754
-2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,World,World,13987225
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Australia and New Zealand,Oceania,1768,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Eastern Asia,Asia,2280680,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Eastern Europe,Europe,4522,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Latin America and the Caribbean,Americas,6824,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Melanesia,Oceania,112,34.9823018,33.1451285,1.0108650891006263,147.3257485906919
+2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Northern Africa,Africa,1248,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Northern America,Americas,64651,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Northern Europe,Europe,491706,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,South-eastern Asia,Asia,20019,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Southern Europe,Europe,4725858,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Sub-Saharan Africa,Africa,1153,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Western Asia,Asia,1106,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,Western Europe,Europe,6228754,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2005,2005,Import,Cyprus,91,Clocks and watches and parts thereof,World,World,13987225,34.9823018,33.1451285,,

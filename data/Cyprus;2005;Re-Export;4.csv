@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Re-Export,Cyprus,4,Dairy produce; birds eggs; natural honey;,Northern America,Americas,141508
-2005,2005,Re-Export,Cyprus,4,Dairy produce; birds eggs; natural honey;,Northern Europe,Europe,34893
-2005,2005,Re-Export,Cyprus,4,Dairy produce; birds eggs; natural honey;,Southern Europe,Europe,87684
-2005,2005,Re-Export,Cyprus,4,Dairy produce; birds eggs; natural honey;,World,World,264085
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Re-Export,Cyprus,4,Dairy produce; birds eggs; natural honey;,Northern America,Americas,141508,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2005,2005,Re-Export,Cyprus,4,Dairy produce; birds eggs; natural honey;,Northern Europe,Europe,34893,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2005,2005,Re-Export,Cyprus,4,Dairy produce; birds eggs; natural honey;,Southern Europe,Europe,87684,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2005,2005,Re-Export,Cyprus,4,Dairy produce; birds eggs; natural honey;,World,World,264085,34.9823018,33.1451285,,
