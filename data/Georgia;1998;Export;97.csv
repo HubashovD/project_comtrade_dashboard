@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Georgia,97,"Works of art, collectors pieces and antiques",Australia and New Zealand,Oceania,1600
-1998,1998,Export,Georgia,97,"Works of art, collectors pieces and antiques",Northern America,Americas,2568
-1998,1998,Export,Georgia,97,"Works of art, collectors pieces and antiques",Northern Europe,Europe,4839
-1998,1998,Export,Georgia,97,"Works of art, collectors pieces and antiques",Southern Europe,Europe,3000
-1998,1998,Export,Georgia,97,"Works of art, collectors pieces and antiques",Western Asia,Asia,2254
-1998,1998,Export,Georgia,97,"Works of art, collectors pieces and antiques",Western Europe,Europe,4747
-1998,1998,Export,Georgia,97,"Works of art, collectors pieces and antiques",World,World,25264
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Georgia,97,"Works of art, collectors pieces and antiques",Australia and New Zealand,Oceania,1600,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+1998,1998,Export,Georgia,97,"Works of art, collectors pieces and antiques",Northern America,Americas,2568,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1998,1998,Export,Georgia,97,"Works of art, collectors pieces and antiques",Northern Europe,Europe,4839,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1998,1998,Export,Georgia,97,"Works of art, collectors pieces and antiques",Southern Europe,Europe,3000,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1998,1998,Export,Georgia,97,"Works of art, collectors pieces and antiques",Western Asia,Asia,2254,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1998,1998,Export,Georgia,97,"Works of art, collectors pieces and antiques",Western Europe,Europe,4747,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1998,1998,Export,Georgia,97,"Works of art, collectors pieces and antiques",World,World,25264,32.3293809,-83.1137366,,

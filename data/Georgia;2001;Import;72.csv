@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Georgia,72,Iron and steel,Central Asia,Asia,74101
-2001,2001,Import,Georgia,72,Iron and steel,Eastern Europe,Europe,8908670
-2001,2001,Import,Georgia,72,Iron and steel,Northern America,Americas,94546
-2001,2001,Import,Georgia,72,Iron and steel,Northern Europe,Europe,1566240
-2001,2001,Import,Georgia,72,Iron and steel,Polynesia,Oceania,4627
-2001,2001,Import,Georgia,72,Iron and steel,Southern Europe,Europe,27653
-2001,2001,Import,Georgia,72,Iron and steel,Western Asia,Asia,492769
-2001,2001,Import,Georgia,72,Iron and steel,Western Europe,Europe,82093
-2001,2001,Import,Georgia,72,Iron and steel,World,World,11337479
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Georgia,72,Iron and steel,Central Asia,Asia,74101,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2001,2001,Import,Georgia,72,Iron and steel,Eastern Europe,Europe,8908670,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2001,2001,Import,Georgia,72,Iron and steel,Northern America,Americas,94546,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2001,2001,Import,Georgia,72,Iron and steel,Northern Europe,Europe,1566240,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2001,2001,Import,Georgia,72,Iron and steel,Polynesia,Oceania,4627,32.3293809,-83.1137366,-5.109184731250752,167.40343615892436
+2001,2001,Import,Georgia,72,Iron and steel,Southern Europe,Europe,27653,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2001,2001,Import,Georgia,72,Iron and steel,Western Asia,Asia,492769,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2001,2001,Import,Georgia,72,Iron and steel,Western Europe,Europe,82093,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2001,2001,Import,Georgia,72,Iron and steel,World,World,11337479,32.3293809,-83.1137366,,

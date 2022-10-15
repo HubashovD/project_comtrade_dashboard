@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,260845
-2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Eastern Asia,Asia,879796
-2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Eastern Europe,Europe,48662
-2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Northern Africa,Africa,114428
-2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Northern America,Americas,97949
-2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Northern Europe,Europe,565007
-2016,2016,Export,Cyprus,76,Aluminium and articles thereof,South-eastern Asia,Asia,207679
-2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Southern Asia,Asia,19905
-2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Southern Europe,Europe,2989232
-2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,164083
-2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Western Europe,Europe,1261178
-2016,2016,Export,Cyprus,76,Aluminium and articles thereof,World,World,9716009
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,260845,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Eastern Asia,Asia,879796,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Eastern Europe,Europe,48662,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Northern Africa,Africa,114428,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Northern America,Americas,97949,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Northern Europe,Europe,565007,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2016,2016,Export,Cyprus,76,Aluminium and articles thereof,South-eastern Asia,Asia,207679,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Southern Asia,Asia,19905,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Southern Europe,Europe,2989232,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,164083,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2016,2016,Export,Cyprus,76,Aluminium and articles thereof,Western Europe,Europe,1261178,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2016,2016,Export,Cyprus,76,Aluminium and articles thereof,World,World,9716009,34.9823018,33.1451285,,

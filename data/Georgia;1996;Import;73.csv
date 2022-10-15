@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Georgia,73,Articles of iron or steel,Eastern Asia,Asia,18835
-1996,1996,Import,Georgia,73,Articles of iron or steel,Eastern Europe,Europe,1716219
-1996,1996,Import,Georgia,73,Articles of iron or steel,Northern America,Americas,447228
-1996,1996,Import,Georgia,73,Articles of iron or steel,Northern Europe,Europe,269668
-1996,1996,Import,Georgia,73,Articles of iron or steel,Southern Asia,Asia,75014
-1996,1996,Import,Georgia,73,Articles of iron or steel,Southern Europe,Europe,138886
-1996,1996,Import,Georgia,73,Articles of iron or steel,Western Asia,Asia,254869
-1996,1996,Import,Georgia,73,Articles of iron or steel,Western Europe,Europe,177551
-1996,1996,Import,Georgia,73,Articles of iron or steel,World,World,4610779
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Georgia,73,Articles of iron or steel,Eastern Asia,Asia,18835,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+1996,1996,Import,Georgia,73,Articles of iron or steel,Eastern Europe,Europe,1716219,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1996,1996,Import,Georgia,73,Articles of iron or steel,Northern America,Americas,447228,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1996,1996,Import,Georgia,73,Articles of iron or steel,Northern Europe,Europe,269668,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1996,1996,Import,Georgia,73,Articles of iron or steel,Southern Asia,Asia,75014,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1996,1996,Import,Georgia,73,Articles of iron or steel,Southern Europe,Europe,138886,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1996,1996,Import,Georgia,73,Articles of iron or steel,Western Asia,Asia,254869,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1996,1996,Import,Georgia,73,Articles of iron or steel,Western Europe,Europe,177551,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1996,1996,Import,Georgia,73,Articles of iron or steel,World,World,4610779,32.3293809,-83.1137366,,

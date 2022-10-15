@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Australia and New Zealand,Oceania,1013
-2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Eastern Asia,Asia,746599
-2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Northern Africa,Africa,11966
-2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Northern America,Americas,14739
-2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Northern Europe,Europe,47352
-2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Southern Europe,Europe,1085926
-2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Sub-Saharan Africa,Africa,55026
-2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Western Europe,Europe,222525
-2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,World,World,2427156
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Australia and New Zealand,Oceania,1013,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Eastern Asia,Asia,746599,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Northern Africa,Africa,11966,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Northern America,Americas,14739,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Northern Europe,Europe,47352,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Southern Europe,Europe,1085926,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Sub-Saharan Africa,Africa,55026,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,Western Europe,Europe,222525,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2013,2013,Import,Cyprus,60,Fabrics; knitted or crocheted,World,World,2427156,34.9823018,33.1451285,,

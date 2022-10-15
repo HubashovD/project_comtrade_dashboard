@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Georgia,69,Ceramic products,Eastern Europe,Europe,801975
-1998,1998,Import,Georgia,69,Ceramic products,Northern Africa,Africa,9583
-1998,1998,Import,Georgia,69,Ceramic products,Northern America,Americas,2408
-1998,1998,Import,Georgia,69,Ceramic products,Northern Europe,Europe,59192
-1998,1998,Import,Georgia,69,Ceramic products,Southern Asia,Asia,77199
-1998,1998,Import,Georgia,69,Ceramic products,Southern Europe,Europe,1146472
-1998,1998,Import,Georgia,69,Ceramic products,Western Asia,Asia,1358514
-1998,1998,Import,Georgia,69,Ceramic products,Western Europe,Europe,270720
-1998,1998,Import,Georgia,69,Ceramic products,World,World,3831694
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Georgia,69,Ceramic products,Eastern Europe,Europe,801975,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1998,1998,Import,Georgia,69,Ceramic products,Northern Africa,Africa,9583,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+1998,1998,Import,Georgia,69,Ceramic products,Northern America,Americas,2408,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1998,1998,Import,Georgia,69,Ceramic products,Northern Europe,Europe,59192,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1998,1998,Import,Georgia,69,Ceramic products,Southern Asia,Asia,77199,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1998,1998,Import,Georgia,69,Ceramic products,Southern Europe,Europe,1146472,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1998,1998,Import,Georgia,69,Ceramic products,Western Asia,Asia,1358514,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1998,1998,Import,Georgia,69,Ceramic products,Western Europe,Europe,270720,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1998,1998,Import,Georgia,69,Ceramic products,World,World,3831694,32.3293809,-83.1137366,,

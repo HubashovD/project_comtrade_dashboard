@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Asia,Asia,3357134
-2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Europe,Europe,1630170
-2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Latin America and the Caribbean,Americas,6141237
-2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Africa,Africa,216000
-2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern America,Americas,113939
-2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Europe,Europe,2942469
-2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",South-eastern Asia,Asia,1274245
-2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Asia,Asia,115743
-2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Europe,Europe,16712380
-2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Sub-Saharan Africa,Africa,1318749
-2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Asia,Asia,49709
-2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Europe,Europe,18703654
-2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,54435620
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Asia,Asia,3357134,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Europe,Europe,1630170,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Latin America and the Caribbean,Americas,6141237,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Africa,Africa,216000,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern America,Americas,113939,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Europe,Europe,2942469,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",South-eastern Asia,Asia,1274245,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Asia,Asia,115743,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Europe,Europe,16712380,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Sub-Saharan Africa,Africa,1318749,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Asia,Asia,49709,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Europe,Europe,18703654,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2016,2016,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,54435620,34.9823018,33.1451285,,

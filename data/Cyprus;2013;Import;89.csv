@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Eastern Asia,Asia,83477
-2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Eastern Europe,Europe,147807
-2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,664
-2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Northern Africa,Africa,14771
-2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Northern America,Americas,499874
-2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Northern Europe,Europe,210550
-2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Southern Europe,Europe,7162535
-2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Western Asia,Asia,1993
-2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Western Europe,Europe,4144583
-2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",World,World,13550278
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Eastern Asia,Asia,83477,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Eastern Europe,Europe,147807,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,664,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Northern Africa,Africa,14771,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Northern America,Americas,499874,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Northern Europe,Europe,210550,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Southern Europe,Europe,7162535,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Western Asia,Asia,1993,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",Western Europe,Europe,4144583,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2013,2013,Import,Cyprus,89,"Ships, boats and floating structures",World,World,13550278,34.9823018,33.1451285,,

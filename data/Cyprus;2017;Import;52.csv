@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Cyprus,52,Cotton,Eastern Asia,Asia,153199
-2017,2017,Import,Cyprus,52,Cotton,Eastern Europe,Europe,1621
-2017,2017,Import,Cyprus,52,Cotton,Northern Africa,Africa,15688
-2017,2017,Import,Cyprus,52,Cotton,Northern America,Americas,427
-2017,2017,Import,Cyprus,52,Cotton,Northern Europe,Europe,214375
-2017,2017,Import,Cyprus,52,Cotton,South-eastern Asia,Asia,6374
-2017,2017,Import,Cyprus,52,Cotton,Southern Europe,Europe,739149
-2017,2017,Import,Cyprus,52,Cotton,Sub-Saharan Africa,Africa,192
-2017,2017,Import,Cyprus,52,Cotton,Western Asia,Asia,2429
-2017,2017,Import,Cyprus,52,Cotton,Western Europe,Europe,179598
-2017,2017,Import,Cyprus,52,Cotton,World,World,1795297
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Cyprus,52,Cotton,Eastern Asia,Asia,153199,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2017,2017,Import,Cyprus,52,Cotton,Eastern Europe,Europe,1621,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2017,2017,Import,Cyprus,52,Cotton,Northern Africa,Africa,15688,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2017,2017,Import,Cyprus,52,Cotton,Northern America,Americas,427,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2017,2017,Import,Cyprus,52,Cotton,Northern Europe,Europe,214375,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2017,2017,Import,Cyprus,52,Cotton,South-eastern Asia,Asia,6374,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2017,2017,Import,Cyprus,52,Cotton,Southern Europe,Europe,739149,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2017,2017,Import,Cyprus,52,Cotton,Sub-Saharan Africa,Africa,192,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2017,2017,Import,Cyprus,52,Cotton,Western Asia,Asia,2429,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2017,2017,Import,Cyprus,52,Cotton,Western Europe,Europe,179598,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2017,2017,Import,Cyprus,52,Cotton,World,World,1795297,34.9823018,33.1451285,,

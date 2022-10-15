@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Central Asia,Asia,1915763
-1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,379581
-1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,8411297
-1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Northern America,Americas,580198
-1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Northern Europe,Europe,117471
-1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Southern Asia,Asia,27613
-1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Southern Europe,Europe,63946
-1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Western Asia,Asia,52610
-1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Western Europe,Europe,871358
-1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",World,World,12461758
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Central Asia,Asia,1915763,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,379581,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,8411297,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Northern America,Americas,580198,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Northern Europe,Europe,117471,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Southern Asia,Asia,27613,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Southern Europe,Europe,63946,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Western Asia,Asia,52610,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",Western Europe,Europe,871358,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Export,Georgia,9,"Coffee, tea, mate and spices",World,World,12461758,32.3293809,-83.1137366,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Eastern Asia,Asia,1591
-2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Eastern Europe,Europe,601542
-2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,71027
-2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Northern Africa,Africa,2725
-2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Northern America,Americas,33430
-2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Northern Europe,Europe,1791231
-2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,South-eastern Asia,Asia,4251
-2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Southern Asia,Asia,7926
-2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Southern Europe,Europe,7065551
-2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,304020
-2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Western Asia,Asia,21859
-2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Western Europe,Europe,10148802
-2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,World,World,22107167
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Eastern Asia,Asia,1591,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Eastern Europe,Europe,601542,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,71027,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Northern Africa,Africa,2725,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Northern America,Americas,33430,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Northern Europe,Europe,1791231,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,South-eastern Asia,Asia,4251,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Southern Asia,Asia,7926,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Southern Europe,Europe,7065551,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,304020,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Western Asia,Asia,21859,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,Western Europe,Europe,10148802,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Import,Cyprus,17,Sugars and sugar confectionery,World,World,22107167,34.9823018,33.1451285,,

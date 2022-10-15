@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Eastern Asia,Asia,892
-2017,2017,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Eastern Europe,Europe,4289
-2017,2017,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,446
-2017,2017,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Northern America,Americas,1167
-2017,2017,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Northern Europe,Europe,574
-2017,2017,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Southern Europe,Europe,114649
-2017,2017,Re-Export,Cyprus,96,Miscellaneous manufactured articles,World,World,122902
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Eastern Asia,Asia,892,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2017,2017,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Eastern Europe,Europe,4289,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2017,2017,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,446,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2017,2017,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Northern America,Americas,1167,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2017,2017,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Northern Europe,Europe,574,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2017,2017,Re-Export,Cyprus,96,Miscellaneous manufactured articles,Southern Europe,Europe,114649,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2017,2017,Re-Export,Cyprus,96,Miscellaneous manufactured articles,World,World,122902,34.9823018,33.1451285,,

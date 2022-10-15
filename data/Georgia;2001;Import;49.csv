@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Australia and New Zealand,Oceania,117
-2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,19676
-2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,686753
-2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Latin America and the Caribbean,Americas,128
-2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,2604
-2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Northern America,Americas,109090
-2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,516235
-2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Polynesia,Oceania,140
-2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",South-eastern Asia,Asia,1337
-2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Southern Asia,Asia,2149
-2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,61073
-2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,118647
-2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,2378838
-2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",World,World,3910997
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Australia and New Zealand,Oceania,117,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,19676,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,686753,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Latin America and the Caribbean,Americas,128,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,2604,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Northern America,Americas,109090,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,516235,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Polynesia,Oceania,140,32.3293809,-83.1137366,-5.109184731250752,167.40343615892436
+2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",South-eastern Asia,Asia,1337,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Southern Asia,Asia,2149,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,61073,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,118647,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,2378838,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2001,2001,Import,Georgia,49,"Printed books, newspapers, pictures etc",World,World,3910997,32.3293809,-83.1137366,,

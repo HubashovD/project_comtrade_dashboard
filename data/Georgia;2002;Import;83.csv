@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Australia and New Zealand,Oceania,5221
-2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Central Asia,Asia,194
-2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Eastern Asia,Asia,6782
-2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Eastern Europe,Europe,400060
-2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Latin America and the Caribbean,Americas,120
-2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Northern America,Americas,37847
-2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Northern Europe,Europe,84032
-2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,South-eastern Asia,Asia,1150
-2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Southern Asia,Asia,1978
-2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Southern Europe,Europe,218042
-2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Sub-Saharan Africa,Africa,411
-2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Western Asia,Asia,1024788
-2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Western Europe,Europe,257929
-2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,World,World,2103407
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Australia and New Zealand,Oceania,5221,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Central Asia,Asia,194,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Eastern Asia,Asia,6782,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Eastern Europe,Europe,400060,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Latin America and the Caribbean,Americas,120,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Northern America,Americas,37847,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Northern Europe,Europe,84032,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,South-eastern Asia,Asia,1150,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Southern Asia,Asia,1978,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Southern Europe,Europe,218042,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Sub-Saharan Africa,Africa,411,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Western Asia,Asia,1024788,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,Western Europe,Europe,257929,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2002,2002,Import,Georgia,83,Miscellaneous articles of base metal,World,World,2103407,32.3293809,-83.1137366,,

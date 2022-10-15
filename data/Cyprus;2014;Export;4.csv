@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Australia and New Zealand,Oceania,9895201
-2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,396103
-2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,643595
-2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Africa,Africa,108494
-2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,5682422
-2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Europe,Europe,71401516
-2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,9161
-2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Europe,Europe,6888593
-2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Europe,Europe,17284914
-2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,126752793
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Australia and New Zealand,Oceania,9895201,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,396103,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,643595,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Africa,Africa,108494,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,5682422,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Europe,Europe,71401516,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,9161,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Europe,Europe,6888593,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Europe,Europe,17284914,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2014,2014,Export,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,126752793,34.9823018,33.1451285,,

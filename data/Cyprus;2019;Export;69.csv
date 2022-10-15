@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Export,Cyprus,69,Ceramic products,Australia and New Zealand,Oceania,297
-2019,2019,Export,Cyprus,69,Ceramic products,Eastern Asia,Asia,262
-2019,2019,Export,Cyprus,69,Ceramic products,Eastern Europe,Europe,2191
-2019,2019,Export,Cyprus,69,Ceramic products,Northern America,Americas,9129
-2019,2019,Export,Cyprus,69,Ceramic products,Northern Europe,Europe,7826
-2019,2019,Export,Cyprus,69,Ceramic products,South-eastern Asia,Asia,165
-2019,2019,Export,Cyprus,69,Ceramic products,Southern Europe,Europe,39843
-2019,2019,Export,Cyprus,69,Ceramic products,Western Europe,Europe,488773
-2019,2019,Export,Cyprus,69,Ceramic products,World,World,564652
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Export,Cyprus,69,Ceramic products,Australia and New Zealand,Oceania,297,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2019,2019,Export,Cyprus,69,Ceramic products,Eastern Asia,Asia,262,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2019,2019,Export,Cyprus,69,Ceramic products,Eastern Europe,Europe,2191,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2019,2019,Export,Cyprus,69,Ceramic products,Northern America,Americas,9129,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2019,2019,Export,Cyprus,69,Ceramic products,Northern Europe,Europe,7826,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2019,2019,Export,Cyprus,69,Ceramic products,South-eastern Asia,Asia,165,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2019,2019,Export,Cyprus,69,Ceramic products,Southern Europe,Europe,39843,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2019,2019,Export,Cyprus,69,Ceramic products,Western Europe,Europe,488773,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2019,2019,Export,Cyprus,69,Ceramic products,World,World,564652,34.9823018,33.1451285,,

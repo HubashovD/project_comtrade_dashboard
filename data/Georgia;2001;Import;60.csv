@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Georgia,60,Knitted or crocheted fabric,Eastern Asia,Asia,16973
-2001,2001,Import,Georgia,60,Knitted or crocheted fabric,Eastern Europe,Europe,257
-2001,2001,Import,Georgia,60,Knitted or crocheted fabric,Northern America,Americas,511
-2001,2001,Import,Georgia,60,Knitted or crocheted fabric,Southern Europe,Europe,1013
-2001,2001,Import,Georgia,60,Knitted or crocheted fabric,Western Asia,Asia,11056
-2001,2001,Import,Georgia,60,Knitted or crocheted fabric,Western Europe,Europe,89915
-2001,2001,Import,Georgia,60,Knitted or crocheted fabric,World,World,119725
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Georgia,60,Knitted or crocheted fabric,Eastern Asia,Asia,16973,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2001,2001,Import,Georgia,60,Knitted or crocheted fabric,Eastern Europe,Europe,257,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2001,2001,Import,Georgia,60,Knitted or crocheted fabric,Northern America,Americas,511,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2001,2001,Import,Georgia,60,Knitted or crocheted fabric,Southern Europe,Europe,1013,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2001,2001,Import,Georgia,60,Knitted or crocheted fabric,Western Asia,Asia,11056,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2001,2001,Import,Georgia,60,Knitted or crocheted fabric,Western Europe,Europe,89915,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2001,2001,Import,Georgia,60,Knitted or crocheted fabric,World,World,119725,32.3293809,-83.1137366,,

@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Re-Export,Cyprus,89,"Ships, boats and floating structures",Northern Africa,Africa,10629201
-2009,2009,Re-Export,Cyprus,89,"Ships, boats and floating structures",Southern Europe,Europe,492724
-2009,2009,Re-Export,Cyprus,89,"Ships, boats and floating structures",Western Asia,Asia,494661
-2009,2009,Re-Export,Cyprus,89,"Ships, boats and floating structures",World,World,17135681
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Re-Export,Cyprus,89,"Ships, boats and floating structures",Northern Africa,Africa,10629201,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2009,2009,Re-Export,Cyprus,89,"Ships, boats and floating structures",Southern Europe,Europe,492724,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2009,2009,Re-Export,Cyprus,89,"Ships, boats and floating structures",Western Asia,Asia,494661,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2009,2009,Re-Export,Cyprus,89,"Ships, boats and floating structures",World,World,17135681,34.9823018,33.1451285,,

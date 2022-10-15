@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Central Asia,Asia,27686
-2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Eastern Asia,Asia,508
-2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,2974695
-2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Latin America and the Caribbean,Americas,1063955
-2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,115920
-2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,579618
-2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,1702721
-2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,4116512
-2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,5803769
-2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",World,World,23308798
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Central Asia,Asia,27686,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Eastern Asia,Asia,508,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,2974695,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Latin America and the Caribbean,Americas,1063955,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,115920,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,579618,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,1702721,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,4116512,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,5803769,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2003,2003,Export,Georgia,27,"Mineral fuels, oils, distillation products, etc",World,World,23308798,32.3293809,-83.1137366,,

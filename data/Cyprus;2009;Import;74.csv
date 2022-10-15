@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Cyprus,74,Copper and articles thereof,Australia and New Zealand,Oceania,258
-2009,2009,Import,Cyprus,74,Copper and articles thereof,Eastern Asia,Asia,3688365
-2009,2009,Import,Cyprus,74,Copper and articles thereof,Eastern Europe,Europe,4057089
-2009,2009,Import,Cyprus,74,Copper and articles thereof,Latin America and the Caribbean,Americas,35
-2009,2009,Import,Cyprus,74,Copper and articles thereof,Northern Africa,Africa,241
-2009,2009,Import,Cyprus,74,Copper and articles thereof,Northern America,Americas,140004
-2009,2009,Import,Cyprus,74,Copper and articles thereof,Northern Europe,Europe,3392555
-2009,2009,Import,Cyprus,74,Copper and articles thereof,South-eastern Asia,Asia,37842
-2009,2009,Import,Cyprus,74,Copper and articles thereof,Southern Europe,Europe,6376571
-2009,2009,Import,Cyprus,74,Copper and articles thereof,Western Asia,Asia,11569
-2009,2009,Import,Cyprus,74,Copper and articles thereof,Western Europe,Europe,1972403
-2009,2009,Import,Cyprus,74,Copper and articles thereof,World,World,20039493
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Cyprus,74,Copper and articles thereof,Australia and New Zealand,Oceania,258,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2009,2009,Import,Cyprus,74,Copper and articles thereof,Eastern Asia,Asia,3688365,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2009,2009,Import,Cyprus,74,Copper and articles thereof,Eastern Europe,Europe,4057089,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2009,2009,Import,Cyprus,74,Copper and articles thereof,Latin America and the Caribbean,Americas,35,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2009,2009,Import,Cyprus,74,Copper and articles thereof,Northern Africa,Africa,241,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2009,2009,Import,Cyprus,74,Copper and articles thereof,Northern America,Americas,140004,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2009,2009,Import,Cyprus,74,Copper and articles thereof,Northern Europe,Europe,3392555,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2009,2009,Import,Cyprus,74,Copper and articles thereof,South-eastern Asia,Asia,37842,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2009,2009,Import,Cyprus,74,Copper and articles thereof,Southern Europe,Europe,6376571,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2009,2009,Import,Cyprus,74,Copper and articles thereof,Western Asia,Asia,11569,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2009,2009,Import,Cyprus,74,Copper and articles thereof,Western Europe,Europe,1972403,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2009,2009,Import,Cyprus,74,Copper and articles thereof,World,World,20039493,34.9823018,33.1451285,,

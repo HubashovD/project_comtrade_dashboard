@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Australia and New Zealand,Oceania,3458
-2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Asia,Asia,457617
-2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Europe,Europe,34143
-2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Latin America and the Caribbean,Americas,120332
-2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Africa,Africa,89
-2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Northern America,Americas,135143
-2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Europe,Europe,1202471
-2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,South-eastern Asia,Asia,8835
-2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Europe,Europe,5611835
-2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Western Asia,Asia,3685
-2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Western Europe,Europe,3004278
-2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,World,World,10911099
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Australia and New Zealand,Oceania,3458,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Asia,Asia,457617,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Europe,Europe,34143,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Latin America and the Caribbean,Americas,120332,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Africa,Africa,89,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Northern America,Americas,135143,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Europe,Europe,1202471,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,South-eastern Asia,Asia,8835,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Europe,Europe,5611835,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Western Asia,Asia,3685,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,Western Europe,Europe,3004278,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2009,2009,Import,Cyprus,35,Albuminoidal substances; modified starches; glues; enzymes,World,World,10911099,34.9823018,33.1451285,,

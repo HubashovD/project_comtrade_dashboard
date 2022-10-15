@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,65902
-2021,2021,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,1130946
-2021,2021,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,321041
-2021,2021,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,1557048
-2021,2021,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,88554
-2021,2021,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,33885291
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,65902,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2021,2021,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,1130946,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2021,2021,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,321041,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2021,2021,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,1557048,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2021,2021,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,88554,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2021,2021,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,33885291,34.9823018,33.1451285,,

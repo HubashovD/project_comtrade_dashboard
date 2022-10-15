@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Central Asia,Asia,23510
-2000,2000,Export,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Eastern Europe,Europe,168230
-2000,2000,Export,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Northern America,Americas,630
-2000,2000,Export,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Southern Europe,Europe,1549
-2000,2000,Export,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Western Asia,Asia,64823
-2000,2000,Export,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Western Europe,Europe,6
-2000,2000,Export,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",World,World,611083
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Central Asia,Asia,23510,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2000,2000,Export,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Eastern Europe,Europe,168230,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2000,2000,Export,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Northern America,Americas,630,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2000,2000,Export,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Southern Europe,Europe,1549,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2000,2000,Export,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Western Asia,Asia,64823,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2000,2000,Export,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Western Europe,Europe,6,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2000,2000,Export,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",World,World,611083,32.3293809,-83.1137366,,

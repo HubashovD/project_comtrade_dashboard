@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,15144
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Central Asia,Asia,193
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Eastern Asia,Asia,3869008
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Eastern Europe,Europe,1223397
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,1667
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Northern Africa,Africa,69189
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Northern America,Americas,218756
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Northern Europe,Europe,1593097
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,138240
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Southern Asia,Asia,15177
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Southern Europe,Europe,13245817
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,31899
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Western Asia,Asia,33460
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Western Europe,Europe,13499342
-2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,World,World,35101662
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,15144,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Central Asia,Asia,193,34.9823018,33.1451285,39.89317229901691,61.060280637304274
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Eastern Asia,Asia,3869008,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Eastern Europe,Europe,1223397,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,1667,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Northern Africa,Africa,69189,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Northern America,Americas,218756,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Northern Europe,Europe,1593097,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,138240,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Southern Asia,Asia,15177,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Southern Europe,Europe,13245817,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,31899,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Western Asia,Asia,33460,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,Western Europe,Europe,13499342,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2021,2021,Import,Cyprus,96,Miscellaneous manufactured articles,World,World,35101662,34.9823018,33.1451285,,

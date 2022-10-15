@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Cyprus,73,Iron or steel articles,Australia and New Zealand,Oceania,137993
-2021,2021,Import,Cyprus,73,Iron or steel articles,Eastern Asia,Asia,17167651
-2021,2021,Import,Cyprus,73,Iron or steel articles,Eastern Europe,Europe,3440561
-2021,2021,Import,Cyprus,73,Iron or steel articles,Latin America and the Caribbean,Americas,87379
-2021,2021,Import,Cyprus,73,Iron or steel articles,Northern Africa,Africa,483763
-2021,2021,Import,Cyprus,73,Iron or steel articles,Northern America,Americas,834180
-2021,2021,Import,Cyprus,73,Iron or steel articles,Northern Europe,Europe,5788797
-2021,2021,Import,Cyprus,73,Iron or steel articles,South-eastern Asia,Asia,589588
-2021,2021,Import,Cyprus,73,Iron or steel articles,Southern Asia,Asia,17032
-2021,2021,Import,Cyprus,73,Iron or steel articles,Southern Europe,Europe,80172053
-2021,2021,Import,Cyprus,73,Iron or steel articles,Sub-Saharan Africa,Africa,603779
-2021,2021,Import,Cyprus,73,Iron or steel articles,Western Asia,Asia,498065
-2021,2021,Import,Cyprus,73,Iron or steel articles,Western Europe,Europe,12831501
-2021,2021,Import,Cyprus,73,Iron or steel articles,World,World,133350046
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Cyprus,73,Iron or steel articles,Australia and New Zealand,Oceania,137993,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2021,2021,Import,Cyprus,73,Iron or steel articles,Eastern Asia,Asia,17167651,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2021,2021,Import,Cyprus,73,Iron or steel articles,Eastern Europe,Europe,3440561,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2021,2021,Import,Cyprus,73,Iron or steel articles,Latin America and the Caribbean,Americas,87379,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2021,2021,Import,Cyprus,73,Iron or steel articles,Northern Africa,Africa,483763,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2021,2021,Import,Cyprus,73,Iron or steel articles,Northern America,Americas,834180,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2021,2021,Import,Cyprus,73,Iron or steel articles,Northern Europe,Europe,5788797,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2021,2021,Import,Cyprus,73,Iron or steel articles,South-eastern Asia,Asia,589588,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2021,2021,Import,Cyprus,73,Iron or steel articles,Southern Asia,Asia,17032,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2021,2021,Import,Cyprus,73,Iron or steel articles,Southern Europe,Europe,80172053,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2021,2021,Import,Cyprus,73,Iron or steel articles,Sub-Saharan Africa,Africa,603779,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2021,2021,Import,Cyprus,73,Iron or steel articles,Western Asia,Asia,498065,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2021,2021,Import,Cyprus,73,Iron or steel articles,Western Europe,Europe,12831501,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2021,2021,Import,Cyprus,73,Iron or steel articles,World,World,133350046,34.9823018,33.1451285,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,110847
-2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Eastern Asia,Asia,22511
-2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Eastern Europe,Europe,1143374
-2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,63071
-2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Northern Africa,Africa,22615
-2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Northern America,Americas,230609
-2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Northern Europe,Europe,2571545
-2020,2020,Export,Cyprus,99,Commodities not specified according to kind,South-eastern Asia,Asia,464678
-2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Southern Asia,Asia,747566
-2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Southern Europe,Europe,7037369
-2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,41144
-2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Western Asia,Asia,228
-2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Western Europe,Europe,1832795
-2020,2020,Export,Cyprus,99,Commodities not specified according to kind,World,World,80678708
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,110847,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Eastern Asia,Asia,22511,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Eastern Europe,Europe,1143374,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,63071,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Northern Africa,Africa,22615,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Northern America,Americas,230609,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Northern Europe,Europe,2571545,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2020,2020,Export,Cyprus,99,Commodities not specified according to kind,South-eastern Asia,Asia,464678,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Southern Asia,Asia,747566,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Southern Europe,Europe,7037369,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,41144,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Western Asia,Asia,228,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2020,2020,Export,Cyprus,99,Commodities not specified according to kind,Western Europe,Europe,1832795,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Export,Cyprus,99,Commodities not specified according to kind,World,World,80678708,34.9823018,33.1451285,,

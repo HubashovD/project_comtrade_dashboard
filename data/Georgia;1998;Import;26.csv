@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Georgia,26,"Ores, slag and ash",Eastern Europe,Europe,20832
-1998,1998,Import,Georgia,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,241307
-1998,1998,Import,Georgia,26,"Ores, slag and ash",Western Asia,Asia,14014
-1998,1998,Import,Georgia,26,"Ores, slag and ash",World,World,291173
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Georgia,26,"Ores, slag and ash",Eastern Europe,Europe,20832,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1998,1998,Import,Georgia,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,241307,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+1998,1998,Import,Georgia,26,"Ores, slag and ash",Western Asia,Asia,14014,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1998,1998,Import,Georgia,26,"Ores, slag and ash",World,World,291173,32.3293809,-83.1137366,,

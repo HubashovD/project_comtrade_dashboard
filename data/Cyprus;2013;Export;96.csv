@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,377737
-2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Eastern Asia,Asia,40441
-2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Eastern Europe,Europe,44735
-2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,199
-2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Northern Africa,Africa,877
-2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Northern America,Americas,29889
-2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Northern Europe,Europe,171985
-2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Polynesia,Oceania,45618
-2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Southern Asia,Asia,385996
-2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Southern Europe,Europe,658602
-2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,644623
-2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Western Europe,Europe,14639
-2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,World,World,4375686
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,377737,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Eastern Asia,Asia,40441,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Eastern Europe,Europe,44735,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,199,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Northern Africa,Africa,877,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Northern America,Americas,29889,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Northern Europe,Europe,171985,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Polynesia,Oceania,45618,34.9823018,33.1451285,-5.109184731250752,167.40343615892436
+2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Southern Asia,Asia,385996,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Southern Europe,Europe,658602,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,644623,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,Western Europe,Europe,14639,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2013,2013,Export,Cyprus,96,Miscellaneous manufactured articles,World,World,4375686,34.9823018,33.1451285,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Eastern Asia,Asia,16405
-1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Eastern Europe,Europe,7502
-1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Northern America,Americas,849
-1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Northern Europe,Europe,711
-1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Southern Asia,Asia,27350
-1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Southern Europe,Europe,856
-1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Western Asia,Asia,4927
-1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Western Europe,Europe,45146
-1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,World,World,108384
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Eastern Asia,Asia,16405,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Eastern Europe,Europe,7502,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Northern America,Americas,849,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Northern Europe,Europe,711,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Southern Asia,Asia,27350,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Southern Europe,Europe,856,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Western Asia,Asia,4927,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,Western Europe,Europe,45146,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Import,Georgia,91,Clocks and watches and parts thereof,World,World,108384,32.3293809,-83.1137366,,

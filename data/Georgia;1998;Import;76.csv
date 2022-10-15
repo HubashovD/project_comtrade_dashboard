@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Georgia,76,Aluminium and articles thereof,Eastern Asia,Asia,1634
-1998,1998,Import,Georgia,76,Aluminium and articles thereof,Eastern Europe,Europe,249561
-1998,1998,Import,Georgia,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,9363
-1998,1998,Import,Georgia,76,Aluminium and articles thereof,Northern America,Americas,15899
-1998,1998,Import,Georgia,76,Aluminium and articles thereof,Northern Europe,Europe,46628
-1998,1998,Import,Georgia,76,Aluminium and articles thereof,Southern Asia,Asia,2768
-1998,1998,Import,Georgia,76,Aluminium and articles thereof,Southern Europe,Europe,196952
-1998,1998,Import,Georgia,76,Aluminium and articles thereof,Western Asia,Asia,585615
-1998,1998,Import,Georgia,76,Aluminium and articles thereof,Western Europe,Europe,1109559
-1998,1998,Import,Georgia,76,Aluminium and articles thereof,World,World,2245612
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Georgia,76,Aluminium and articles thereof,Eastern Asia,Asia,1634,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+1998,1998,Import,Georgia,76,Aluminium and articles thereof,Eastern Europe,Europe,249561,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1998,1998,Import,Georgia,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,9363,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+1998,1998,Import,Georgia,76,Aluminium and articles thereof,Northern America,Americas,15899,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1998,1998,Import,Georgia,76,Aluminium and articles thereof,Northern Europe,Europe,46628,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1998,1998,Import,Georgia,76,Aluminium and articles thereof,Southern Asia,Asia,2768,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1998,1998,Import,Georgia,76,Aluminium and articles thereof,Southern Europe,Europe,196952,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1998,1998,Import,Georgia,76,Aluminium and articles thereof,Western Asia,Asia,585615,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1998,1998,Import,Georgia,76,Aluminium and articles thereof,Western Europe,Europe,1109559,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1998,1998,Import,Georgia,76,Aluminium and articles thereof,World,World,2245612,32.3293809,-83.1137366,,

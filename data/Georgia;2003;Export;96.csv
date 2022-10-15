@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Georgia,96,Miscellaneous manufactured articles,Central Asia,Asia,37
-2003,2003,Export,Georgia,96,Miscellaneous manufactured articles,Eastern Europe,Europe,72378
-2003,2003,Export,Georgia,96,Miscellaneous manufactured articles,Northern Europe,Europe,276
-2003,2003,Export,Georgia,96,Miscellaneous manufactured articles,Southern Europe,Europe,10
-2003,2003,Export,Georgia,96,Miscellaneous manufactured articles,Western Asia,Asia,4304
-2003,2003,Export,Georgia,96,Miscellaneous manufactured articles,Western Europe,Europe,706
-2003,2003,Export,Georgia,96,Miscellaneous manufactured articles,World,World,155448
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Georgia,96,Miscellaneous manufactured articles,Central Asia,Asia,37,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2003,2003,Export,Georgia,96,Miscellaneous manufactured articles,Eastern Europe,Europe,72378,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2003,2003,Export,Georgia,96,Miscellaneous manufactured articles,Northern Europe,Europe,276,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2003,2003,Export,Georgia,96,Miscellaneous manufactured articles,Southern Europe,Europe,10,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2003,2003,Export,Georgia,96,Miscellaneous manufactured articles,Western Asia,Asia,4304,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2003,2003,Export,Georgia,96,Miscellaneous manufactured articles,Western Europe,Europe,706,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2003,2003,Export,Georgia,96,Miscellaneous manufactured articles,World,World,155448,32.3293809,-83.1137366,,

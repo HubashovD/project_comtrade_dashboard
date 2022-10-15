@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Cyprus,55,Man-made staple fibres,Eastern Asia,Asia,705691
-2019,2019,Import,Cyprus,55,Man-made staple fibres,Eastern Europe,Europe,17314
-2019,2019,Import,Cyprus,55,Man-made staple fibres,Northern America,Americas,3701
-2019,2019,Import,Cyprus,55,Man-made staple fibres,Northern Europe,Europe,163831
-2019,2019,Import,Cyprus,55,Man-made staple fibres,South-eastern Asia,Asia,75145
-2019,2019,Import,Cyprus,55,Man-made staple fibres,Southern Europe,Europe,1788120
-2019,2019,Import,Cyprus,55,Man-made staple fibres,Western Asia,Asia,20
-2019,2019,Import,Cyprus,55,Man-made staple fibres,Western Europe,Europe,398222
-2019,2019,Import,Cyprus,55,Man-made staple fibres,World,World,3814205
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Cyprus,55,Man-made staple fibres,Eastern Asia,Asia,705691,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2019,2019,Import,Cyprus,55,Man-made staple fibres,Eastern Europe,Europe,17314,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2019,2019,Import,Cyprus,55,Man-made staple fibres,Northern America,Americas,3701,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2019,2019,Import,Cyprus,55,Man-made staple fibres,Northern Europe,Europe,163831,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2019,2019,Import,Cyprus,55,Man-made staple fibres,South-eastern Asia,Asia,75145,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2019,2019,Import,Cyprus,55,Man-made staple fibres,Southern Europe,Europe,1788120,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2019,2019,Import,Cyprus,55,Man-made staple fibres,Western Asia,Asia,20,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2019,2019,Import,Cyprus,55,Man-made staple fibres,Western Europe,Europe,398222,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2019,2019,Import,Cyprus,55,Man-made staple fibres,World,World,3814205,34.9823018,33.1451285,,

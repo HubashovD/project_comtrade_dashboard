@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Georgia,76,Aluminium and articles thereof,Eastern Europe,Europe,241908
-1999,1999,Import,Georgia,76,Aluminium and articles thereof,Northern America,Americas,15075
-1999,1999,Import,Georgia,76,Aluminium and articles thereof,Northern Europe,Europe,19207
-1999,1999,Import,Georgia,76,Aluminium and articles thereof,Southern Asia,Asia,12845
-1999,1999,Import,Georgia,76,Aluminium and articles thereof,Southern Europe,Europe,148258
-1999,1999,Import,Georgia,76,Aluminium and articles thereof,Western Asia,Asia,682710
-1999,1999,Import,Georgia,76,Aluminium and articles thereof,Western Europe,Europe,503325
-1999,1999,Import,Georgia,76,Aluminium and articles thereof,World,World,1709148
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Georgia,76,Aluminium and articles thereof,Eastern Europe,Europe,241908,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Import,Georgia,76,Aluminium and articles thereof,Northern America,Americas,15075,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1999,1999,Import,Georgia,76,Aluminium and articles thereof,Northern Europe,Europe,19207,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1999,1999,Import,Georgia,76,Aluminium and articles thereof,Southern Asia,Asia,12845,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1999,1999,Import,Georgia,76,Aluminium and articles thereof,Southern Europe,Europe,148258,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1999,1999,Import,Georgia,76,Aluminium and articles thereof,Western Asia,Asia,682710,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1999,1999,Import,Georgia,76,Aluminium and articles thereof,Western Europe,Europe,503325,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Import,Georgia,76,Aluminium and articles thereof,World,World,1709148,32.3293809,-83.1137366,,

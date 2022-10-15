@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Cyprus,74,Copper and articles thereof,Eastern Asia,Asia,3621584
-2021,2021,Export,Cyprus,74,Copper and articles thereof,Eastern Europe,Europe,4969534
-2021,2021,Export,Cyprus,74,Copper and articles thereof,Northern Europe,Europe,5070
-2021,2021,Export,Cyprus,74,Copper and articles thereof,South-eastern Asia,Asia,1462909
-2021,2021,Export,Cyprus,74,Copper and articles thereof,Southern Asia,Asia,103315
-2021,2021,Export,Cyprus,74,Copper and articles thereof,Southern Europe,Europe,6141677
-2021,2021,Export,Cyprus,74,Copper and articles thereof,Western Europe,Europe,537638
-2021,2021,Export,Cyprus,74,Copper and articles thereof,World,World,23689047
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Cyprus,74,Copper and articles thereof,Eastern Asia,Asia,3621584,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2021,2021,Export,Cyprus,74,Copper and articles thereof,Eastern Europe,Europe,4969534,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2021,2021,Export,Cyprus,74,Copper and articles thereof,Northern Europe,Europe,5070,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2021,2021,Export,Cyprus,74,Copper and articles thereof,South-eastern Asia,Asia,1462909,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2021,2021,Export,Cyprus,74,Copper and articles thereof,Southern Asia,Asia,103315,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2021,2021,Export,Cyprus,74,Copper and articles thereof,Southern Europe,Europe,6141677,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2021,2021,Export,Cyprus,74,Copper and articles thereof,Western Europe,Europe,537638,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2021,2021,Export,Cyprus,74,Copper and articles thereof,World,World,23689047,34.9823018,33.1451285,,

@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Cyprus,81,Other base metals; cermets; articles thereof,Northern America,Americas,1333
-2011,2011,Import,Cyprus,81,Other base metals; cermets; articles thereof,Northern Europe,Europe,2870
-2011,2011,Import,Cyprus,81,Other base metals; cermets; articles thereof,Southern Europe,Europe,2345
-2011,2011,Import,Cyprus,81,Other base metals; cermets; articles thereof,Western Europe,Europe,17657
-2011,2011,Import,Cyprus,81,Other base metals; cermets; articles thereof,World,World,24205
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Cyprus,81,Other base metals; cermets; articles thereof,Northern America,Americas,1333,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2011,2011,Import,Cyprus,81,Other base metals; cermets; articles thereof,Northern Europe,Europe,2870,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2011,2011,Import,Cyprus,81,Other base metals; cermets; articles thereof,Southern Europe,Europe,2345,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2011,2011,Import,Cyprus,81,Other base metals; cermets; articles thereof,Western Europe,Europe,17657,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2011,2011,Import,Cyprus,81,Other base metals; cermets; articles thereof,World,World,24205,34.9823018,33.1451285,,

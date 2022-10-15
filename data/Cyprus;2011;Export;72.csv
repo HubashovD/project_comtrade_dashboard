@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,Cyprus,72,Iron and steel,Eastern Asia,Asia,1009505
-2011,2011,Export,Cyprus,72,Iron and steel,Eastern Europe,Europe,12325
-2011,2011,Export,Cyprus,72,Iron and steel,Northern Africa,Africa,118320
-2011,2011,Export,Cyprus,72,Iron and steel,Northern Europe,Europe,1885054
-2011,2011,Export,Cyprus,72,Iron and steel,South-eastern Asia,Asia,610119
-2011,2011,Export,Cyprus,72,Iron and steel,Southern Europe,Europe,50064673
-2011,2011,Export,Cyprus,72,Iron and steel,Sub-Saharan Africa,Africa,15134
-2011,2011,Export,Cyprus,72,Iron and steel,Western Europe,Europe,1517220
-2011,2011,Export,Cyprus,72,Iron and steel,World,World,60563591
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,Cyprus,72,Iron and steel,Eastern Asia,Asia,1009505,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2011,2011,Export,Cyprus,72,Iron and steel,Eastern Europe,Europe,12325,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2011,2011,Export,Cyprus,72,Iron and steel,Northern Africa,Africa,118320,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2011,2011,Export,Cyprus,72,Iron and steel,Northern Europe,Europe,1885054,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2011,2011,Export,Cyprus,72,Iron and steel,South-eastern Asia,Asia,610119,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2011,2011,Export,Cyprus,72,Iron and steel,Southern Europe,Europe,50064673,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2011,2011,Export,Cyprus,72,Iron and steel,Sub-Saharan Africa,Africa,15134,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2011,2011,Export,Cyprus,72,Iron and steel,Western Europe,Europe,1517220,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2011,2011,Export,Cyprus,72,Iron and steel,World,World,60563591,34.9823018,33.1451285,,

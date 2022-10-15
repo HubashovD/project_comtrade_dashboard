@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Georgia,71,"Pearls, precious stones, metals, coins, etc",Australia and New Zealand,Oceania,11
-2002,2002,Export,Georgia,71,"Pearls, precious stones, metals, coins, etc",Central Asia,Asia,15973
-2002,2002,Export,Georgia,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,114767
-2002,2002,Export,Georgia,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,559
-2002,2002,Export,Georgia,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,29110042
-2002,2002,Export,Georgia,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,93846
-2002,2002,Export,Georgia,71,"Pearls, precious stones, metals, coins, etc",World,World,29336049
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Georgia,71,"Pearls, precious stones, metals, coins, etc",Australia and New Zealand,Oceania,11,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2002,2002,Export,Georgia,71,"Pearls, precious stones, metals, coins, etc",Central Asia,Asia,15973,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2002,2002,Export,Georgia,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,114767,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2002,2002,Export,Georgia,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,559,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2002,2002,Export,Georgia,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,29110042,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2002,2002,Export,Georgia,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,93846,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2002,2002,Export,Georgia,71,"Pearls, precious stones, metals, coins, etc",World,World,29336049,32.3293809,-83.1137366,,

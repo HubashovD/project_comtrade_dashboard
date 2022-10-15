@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Cyprus,31,Fertilisers,Eastern Europe,Europe,18887
-2010,2010,Export,Cyprus,31,Fertilisers,Northern Africa,Africa,26514
-2010,2010,Export,Cyprus,31,Fertilisers,Southern Asia,Asia,107551
-2010,2010,Export,Cyprus,31,Fertilisers,Southern Europe,Europe,144179
-2010,2010,Export,Cyprus,31,Fertilisers,World,World,332678
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Cyprus,31,Fertilisers,Eastern Europe,Europe,18887,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2010,2010,Export,Cyprus,31,Fertilisers,Northern Africa,Africa,26514,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2010,2010,Export,Cyprus,31,Fertilisers,Southern Asia,Asia,107551,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2010,2010,Export,Cyprus,31,Fertilisers,Southern Europe,Europe,144179,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2010,2010,Export,Cyprus,31,Fertilisers,World,World,332678,34.9823018,33.1451285,,

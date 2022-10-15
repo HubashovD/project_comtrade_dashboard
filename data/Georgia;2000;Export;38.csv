@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Georgia,38,Miscellaneous chemical products,Eastern Europe,Europe,4545
-2000,2000,Export,Georgia,38,Miscellaneous chemical products,Northern Europe,Europe,765186
-2000,2000,Export,Georgia,38,Miscellaneous chemical products,Southern Asia,Asia,5171
-2000,2000,Export,Georgia,38,Miscellaneous chemical products,Western Asia,Asia,19059
-2000,2000,Export,Georgia,38,Miscellaneous chemical products,Western Europe,Europe,2228734
-2000,2000,Export,Georgia,38,Miscellaneous chemical products,World,World,3048672
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Georgia,38,Miscellaneous chemical products,Eastern Europe,Europe,4545,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2000,2000,Export,Georgia,38,Miscellaneous chemical products,Northern Europe,Europe,765186,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2000,2000,Export,Georgia,38,Miscellaneous chemical products,Southern Asia,Asia,5171,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2000,2000,Export,Georgia,38,Miscellaneous chemical products,Western Asia,Asia,19059,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2000,2000,Export,Georgia,38,Miscellaneous chemical products,Western Europe,Europe,2228734,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2000,2000,Export,Georgia,38,Miscellaneous chemical products,World,World,3048672,32.3293809,-83.1137366,,

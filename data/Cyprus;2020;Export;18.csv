@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Cyprus,18,Cocoa and cocoa preparations,Eastern Europe,Europe,19
-2020,2020,Export,Cyprus,18,Cocoa and cocoa preparations,Northern America,Americas,1059119
-2020,2020,Export,Cyprus,18,Cocoa and cocoa preparations,Northern Europe,Europe,15642
-2020,2020,Export,Cyprus,18,Cocoa and cocoa preparations,Southern Asia,Asia,4
-2020,2020,Export,Cyprus,18,Cocoa and cocoa preparations,Southern Europe,Europe,342418
-2020,2020,Export,Cyprus,18,Cocoa and cocoa preparations,Western Europe,Europe,64091
-2020,2020,Export,Cyprus,18,Cocoa and cocoa preparations,World,World,1517533
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Cyprus,18,Cocoa and cocoa preparations,Eastern Europe,Europe,19,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Export,Cyprus,18,Cocoa and cocoa preparations,Northern America,Americas,1059119,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2020,2020,Export,Cyprus,18,Cocoa and cocoa preparations,Northern Europe,Europe,15642,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2020,2020,Export,Cyprus,18,Cocoa and cocoa preparations,Southern Asia,Asia,4,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2020,2020,Export,Cyprus,18,Cocoa and cocoa preparations,Southern Europe,Europe,342418,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Export,Cyprus,18,Cocoa and cocoa preparations,Western Europe,Europe,64091,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Export,Cyprus,18,Cocoa and cocoa preparations,World,World,1517533,34.9823018,33.1451285,,

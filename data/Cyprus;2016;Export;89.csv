@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Australia and New Zealand,Oceania,136826
-2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Eastern Asia,Asia,23201781
-2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Eastern Europe,Europe,29561482
-2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,99651675
-2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Micronesia,Oceania,89861946
-2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Northern America,Americas,14163090
-2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Northern Europe,Europe,437420214
-2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",South-eastern Asia,Asia,40468656
-2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Southern Asia,Asia,2290890
-2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Southern Europe,Europe,64733427
-2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,175955114
-2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Western Asia,Asia,2035817
-2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Western Europe,Europe,21668105
-2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",World,World,1080703330
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Australia and New Zealand,Oceania,136826,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Eastern Asia,Asia,23201781,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Eastern Europe,Europe,29561482,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,99651675,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Micronesia,Oceania,89861946,34.9823018,33.1451285,6.418559504495792,157.6364476938912
+2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Northern America,Americas,14163090,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Northern Europe,Europe,437420214,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",South-eastern Asia,Asia,40468656,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Southern Asia,Asia,2290890,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Southern Europe,Europe,64733427,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,175955114,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Western Asia,Asia,2035817,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",Western Europe,Europe,21668105,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2016,2016,Export,Cyprus,89,"Ships, boats and floating structures",World,World,1080703330,34.9823018,33.1451285,,

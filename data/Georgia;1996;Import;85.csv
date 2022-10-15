@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,46805
-1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Central Asia,Asia,189406
-1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Eastern Asia,Asia,663830
-1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Eastern Europe,Europe,5178540
-1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Northern America,Americas,2506815
-1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Northern Europe,Europe,632614
-1996,1996,Import,Georgia,85,"Electrical, electronic equipment",South-eastern Asia,Asia,21970
-1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Southern Asia,Asia,47898
-1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Southern Europe,Europe,1902327
-1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Western Asia,Asia,7628402
-1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Western Europe,Europe,9715502
-1996,1996,Import,Georgia,85,"Electrical, electronic equipment",World,World,30780309
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,46805,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Central Asia,Asia,189406,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Eastern Asia,Asia,663830,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Eastern Europe,Europe,5178540,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Northern America,Americas,2506815,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Northern Europe,Europe,632614,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1996,1996,Import,Georgia,85,"Electrical, electronic equipment",South-eastern Asia,Asia,21970,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Southern Asia,Asia,47898,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Southern Europe,Europe,1902327,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Western Asia,Asia,7628402,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1996,1996,Import,Georgia,85,"Electrical, electronic equipment",Western Europe,Europe,9715502,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1996,1996,Import,Georgia,85,"Electrical, electronic equipment",World,World,30780309,32.3293809,-83.1137366,,

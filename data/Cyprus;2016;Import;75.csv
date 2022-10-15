@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Cyprus,75,Nickel and articles thereof,Australia and New Zealand,Oceania,211
-2016,2016,Import,Cyprus,75,Nickel and articles thereof,Eastern Asia,Asia,5911
-2016,2016,Import,Cyprus,75,Nickel and articles thereof,Northern America,Americas,14132
-2016,2016,Import,Cyprus,75,Nickel and articles thereof,Southern Europe,Europe,2156
-2016,2016,Import,Cyprus,75,Nickel and articles thereof,Western Europe,Europe,9270
-2016,2016,Import,Cyprus,75,Nickel and articles thereof,World,World,53410
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Cyprus,75,Nickel and articles thereof,Australia and New Zealand,Oceania,211,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2016,2016,Import,Cyprus,75,Nickel and articles thereof,Eastern Asia,Asia,5911,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2016,2016,Import,Cyprus,75,Nickel and articles thereof,Northern America,Americas,14132,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2016,2016,Import,Cyprus,75,Nickel and articles thereof,Southern Europe,Europe,2156,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2016,2016,Import,Cyprus,75,Nickel and articles thereof,Western Europe,Europe,9270,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2016,2016,Import,Cyprus,75,Nickel and articles thereof,World,World,53410,34.9823018,33.1451285,,

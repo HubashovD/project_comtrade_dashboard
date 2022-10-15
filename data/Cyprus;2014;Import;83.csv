@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Australia and New Zealand,Oceania,3883
-2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,4018697
-2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,571936
-2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,316
-2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Northern Africa,Africa,40152
-2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Northern America,Americas,209236
-2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,953503
-2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,152394
-2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Southern Asia,Asia,968
-2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,9852575
-2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Sub-Saharan Africa,Africa,58055
-2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Western Asia,Asia,10228
-2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Western Europe,Europe,3565995
-2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,World,World,20210120
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Australia and New Zealand,Oceania,3883,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,4018697,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,571936,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,316,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Northern Africa,Africa,40152,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Northern America,Americas,209236,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,953503,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,152394,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Southern Asia,Asia,968,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,9852575,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Sub-Saharan Africa,Africa,58055,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Western Asia,Asia,10228,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,Western Europe,Europe,3565995,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2014,2014,Import,Cyprus,83,Metal; miscellaneous products of base metal,World,World,20210120,34.9823018,33.1451285,,

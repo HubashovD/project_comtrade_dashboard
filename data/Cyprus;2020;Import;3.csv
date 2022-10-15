@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,1409775
-2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,2522956
-2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,1322126
-2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,1231739
-2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,55835
-2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,4720267
-2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,5903699
-2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,2224439
-2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,14142013
-2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,1567732
-2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,8403401
-2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,50539823
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,1409775,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,2522956,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,1322126,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,1231739,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,55835,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,4720267,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,5903699,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,2224439,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,14142013,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,1567732,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,8403401,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Import,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,50539823,34.9823018,33.1451285,,

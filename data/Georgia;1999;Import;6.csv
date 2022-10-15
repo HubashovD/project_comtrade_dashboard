@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Georgia,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Europe,Europe,3149
-1999,1999,Import,Georgia,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Asia,Asia,12580
-1999,1999,Import,Georgia,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Europe,Europe,817
-1999,1999,Import,Georgia,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Europe,Europe,408413
-1999,1999,Import,Georgia,6,"Live trees, plants, bulbs, roots, cut flowers etc",World,World,427580
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Georgia,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Europe,Europe,3149,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Import,Georgia,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Asia,Asia,12580,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1999,1999,Import,Georgia,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Europe,Europe,817,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1999,1999,Import,Georgia,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Europe,Europe,408413,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Import,Georgia,6,"Live trees, plants, bulbs, roots, cut flowers etc",World,World,427580,32.3293809,-83.1137366,,

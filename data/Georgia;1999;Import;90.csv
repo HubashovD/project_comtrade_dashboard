@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Australia and New Zealand,Oceania,52507
-1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Eastern Asia,Asia,434412
-1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Eastern Europe,Europe,760389
-1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Northern America,Americas,6017029
-1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Northern Europe,Europe,735827
-1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",South-eastern Asia,Asia,17483
-1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Southern Asia,Asia,29189
-1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Southern Europe,Europe,417455
-1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Sub-Saharan Africa,Africa,1159
-1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Western Asia,Asia,840497
-1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Western Europe,Europe,4497448
-1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",World,World,14223165
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Australia and New Zealand,Oceania,52507,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Eastern Asia,Asia,434412,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Eastern Europe,Europe,760389,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Northern America,Americas,6017029,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Northern Europe,Europe,735827,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",South-eastern Asia,Asia,17483,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Southern Asia,Asia,29189,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Southern Europe,Europe,417455,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Sub-Saharan Africa,Africa,1159,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Western Asia,Asia,840497,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",Western Europe,Europe,4497448,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Import,Georgia,90,"Optical, photo, technical, medical, etc apparatus",World,World,14223165,32.3293809,-83.1137366,,

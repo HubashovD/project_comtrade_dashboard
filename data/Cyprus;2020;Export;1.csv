@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Cyprus,1,Animals; live,Australia and New Zealand,Oceania,20791
-2020,2020,Export,Cyprus,1,Animals; live,Eastern Asia,Asia,1792
-2020,2020,Export,Cyprus,1,Animals; live,Eastern Europe,Europe,12649
-2020,2020,Export,Cyprus,1,Animals; live,Latin America and the Caribbean,Americas,228
-2020,2020,Export,Cyprus,1,Animals; live,Northern America,Americas,71650
-2020,2020,Export,Cyprus,1,Animals; live,South-eastern Asia,Asia,47241
-2020,2020,Export,Cyprus,1,Animals; live,Southern Asia,Asia,1142
-2020,2020,Export,Cyprus,1,Animals; live,Sub-Saharan Africa,Africa,4191
-2020,2020,Export,Cyprus,1,Animals; live,Western Europe,Europe,727
-2020,2020,Export,Cyprus,1,Animals; live,World,World,628502
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Cyprus,1,Animals; live,Australia and New Zealand,Oceania,20791,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2020,2020,Export,Cyprus,1,Animals; live,Eastern Asia,Asia,1792,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2020,2020,Export,Cyprus,1,Animals; live,Eastern Europe,Europe,12649,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Export,Cyprus,1,Animals; live,Latin America and the Caribbean,Americas,228,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2020,2020,Export,Cyprus,1,Animals; live,Northern America,Americas,71650,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2020,2020,Export,Cyprus,1,Animals; live,South-eastern Asia,Asia,47241,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2020,2020,Export,Cyprus,1,Animals; live,Southern Asia,Asia,1142,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2020,2020,Export,Cyprus,1,Animals; live,Sub-Saharan Africa,Africa,4191,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2020,2020,Export,Cyprus,1,Animals; live,Western Europe,Europe,727,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Export,Cyprus,1,Animals; live,World,World,628502,34.9823018,33.1451285,,

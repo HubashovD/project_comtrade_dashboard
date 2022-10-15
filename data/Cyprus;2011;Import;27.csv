@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Australia and New Zealand,Oceania,604895
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Central Asia,Asia,14923469
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Asia,Asia,83807
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Europe,Europe,11220227
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Melanesia,Oceania,418
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Africa,Africa,54359690
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern America,Americas,2634108
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Europe,Europe,209809767
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",South-eastern Asia,Asia,17400
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Asia,Asia,36724
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Europe,Europe,532564694
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Sub-Saharan Africa,Africa,9465
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Asia,Asia,58555
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Europe,Europe,363021260
-2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",World,World,2203473301
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Australia and New Zealand,Oceania,604895,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Central Asia,Asia,14923469,34.9823018,33.1451285,39.89317229901691,61.060280637304274
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Asia,Asia,83807,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Europe,Europe,11220227,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Melanesia,Oceania,418,34.9823018,33.1451285,1.0108650891006263,147.3257485906919
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Africa,Africa,54359690,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern America,Americas,2634108,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Europe,Europe,209809767,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",South-eastern Asia,Asia,17400,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Asia,Asia,36724,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Europe,Europe,532564694,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Sub-Saharan Africa,Africa,9465,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Asia,Asia,58555,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Europe,Europe,363021260,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2011,2011,Import,Cyprus,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",World,World,2203473301,34.9823018,33.1451285,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Georgia,10,Cereals,Central Asia,Asia,427842
-1999,1999,Import,Georgia,10,Cereals,Eastern Europe,Europe,8650499
-1999,1999,Import,Georgia,10,Cereals,Northern America,Americas,4229485
-1999,1999,Import,Georgia,10,Cereals,Southern Asia,Asia,9950
-1999,1999,Import,Georgia,10,Cereals,Western Asia,Asia,756781
-1999,1999,Import,Georgia,10,Cereals,Western Europe,Europe,2369482
-1999,1999,Import,Georgia,10,Cereals,World,World,16591809
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Georgia,10,Cereals,Central Asia,Asia,427842,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+1999,1999,Import,Georgia,10,Cereals,Eastern Europe,Europe,8650499,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Import,Georgia,10,Cereals,Northern America,Americas,4229485,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1999,1999,Import,Georgia,10,Cereals,Southern Asia,Asia,9950,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1999,1999,Import,Georgia,10,Cereals,Western Asia,Asia,756781,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1999,1999,Import,Georgia,10,Cereals,Western Europe,Europe,2369482,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Import,Georgia,10,Cereals,World,World,16591809,32.3293809,-83.1137366,,

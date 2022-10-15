@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Central Asia,Asia,293618
-2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Eastern Europe,Europe,631238
-2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Northern America,Americas,456260
-2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Northern Europe,Europe,35360
-2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Southern Asia,Asia,19523
-2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Southern Europe,Europe,1058487
-2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Western Asia,Asia,1662070
-2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Western Europe,Europe,1969550
-2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,World,World,6159381
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Central Asia,Asia,293618,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Eastern Europe,Europe,631238,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Northern America,Americas,456260,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Northern Europe,Europe,35360,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Southern Asia,Asia,19523,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Southern Europe,Europe,1058487,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Western Asia,Asia,1662070,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,Western Europe,Europe,1969550,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2001,2001,Import,Georgia,7,Edible vegetables and certain roots and tubers,World,World,6159381,32.3293809,-83.1137366,,

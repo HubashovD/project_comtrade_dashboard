@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",Central Asia,Asia,120696
-2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Europe,Europe,1024557
-2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",Northern America,Americas,2100
-2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,1856782
-2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Europe,Europe,36745
-2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",Western Asia,Asia,173204
-2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",Western Europe,Europe,364008
-2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,5147660
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",Central Asia,Asia,120696,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Europe,Europe,1024557,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",Northern America,Americas,2100,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,1856782,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Europe,Europe,36745,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",Western Asia,Asia,173204,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",Western Europe,Europe,364008,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2000,2000,Import,Georgia,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,5147660,32.3293809,-83.1137366,,

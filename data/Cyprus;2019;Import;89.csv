@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Central Asia,Asia,3639130
-2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Eastern Asia,Asia,445018687
-2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Eastern Europe,Europe,21186919
-2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,123804787
-2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Micronesia,Oceania,70423300
-2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Northern Africa,Africa,1241438
-2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Northern America,Americas,21099085
-2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Northern Europe,Europe,112935207
-2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",South-eastern Asia,Asia,57274823
-2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Southern Europe,Europe,115151815
-2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,64419935
-2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Western Europe,Europe,126442224
-2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",World,World,1230030458
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Central Asia,Asia,3639130,34.9823018,33.1451285,39.89317229901691,61.060280637304274
+2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Eastern Asia,Asia,445018687,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Eastern Europe,Europe,21186919,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,123804787,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Micronesia,Oceania,70423300,34.9823018,33.1451285,6.418559504495792,157.6364476938912
+2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Northern Africa,Africa,1241438,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Northern America,Americas,21099085,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Northern Europe,Europe,112935207,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",South-eastern Asia,Asia,57274823,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Southern Europe,Europe,115151815,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,64419935,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",Western Europe,Europe,126442224,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2019,2019,Import,Cyprus,89,"Ships, boats and floating structures",World,World,1230030458,34.9823018,33.1451285,,

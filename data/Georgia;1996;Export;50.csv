@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Export,Georgia,50,Silk,Central Asia,Asia,8384
-1996,1996,Export,Georgia,50,Silk,Eastern Asia,Asia,8053
-1996,1996,Export,Georgia,50,Silk,Northern America,Americas,9912
-1996,1996,Export,Georgia,50,Silk,South-eastern Asia,Asia,77173
-1996,1996,Export,Georgia,50,Silk,Southern Europe,Europe,4886
-1996,1996,Export,Georgia,50,Silk,Western Asia,Asia,66445
-1996,1996,Export,Georgia,50,Silk,World,World,174853
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Export,Georgia,50,Silk,Central Asia,Asia,8384,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+1996,1996,Export,Georgia,50,Silk,Eastern Asia,Asia,8053,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+1996,1996,Export,Georgia,50,Silk,Northern America,Americas,9912,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1996,1996,Export,Georgia,50,Silk,South-eastern Asia,Asia,77173,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+1996,1996,Export,Georgia,50,Silk,Southern Europe,Europe,4886,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1996,1996,Export,Georgia,50,Silk,Western Asia,Asia,66445,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1996,1996,Export,Georgia,50,Silk,World,World,174853,32.3293809,-83.1137366,,

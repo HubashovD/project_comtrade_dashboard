@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,34924
-2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Eastern Asia,Asia,42198
-2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Eastern Europe,Europe,547754
-2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Northern Africa,Africa,2280
-2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Northern America,Americas,84219
-2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Northern Europe,Europe,7579639
-2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,954
-2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Southern Europe,Europe,12908122
-2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,27352
-2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Western Asia,Asia,13
-2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Western Europe,Europe,15944494
-2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,World,World,37323637
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,34924,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Eastern Asia,Asia,42198,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Eastern Europe,Europe,547754,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Northern Africa,Africa,2280,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Northern America,Americas,84219,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Northern Europe,Europe,7579639,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,954,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Southern Europe,Europe,12908122,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,27352,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Western Asia,Asia,13,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,Western Europe,Europe,15944494,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2011,2011,Import,Cyprus,18,Cocoa and cocoa preparations,World,World,37323637,34.9823018,33.1451285,,

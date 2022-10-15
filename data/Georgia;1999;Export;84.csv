@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Central Asia,Asia,477519
-1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Eastern Europe,Europe,1283737
-1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,1300
-1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,48722
-1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,229000
-1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Southern Asia,Asia,1319835
-1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,445489
-1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Western Asia,Asia,444614
-1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,3407525
-1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",World,World,9306681
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Central Asia,Asia,477519,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Eastern Europe,Europe,1283737,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,1300,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,48722,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,229000,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Southern Asia,Asia,1319835,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,445489,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Western Asia,Asia,444614,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,3407525,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Export,Georgia,84,"Nuclear reactors, boilers, machinery, etc",World,World,9306681,32.3293809,-83.1137366,,

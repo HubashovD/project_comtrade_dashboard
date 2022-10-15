@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,4055
-2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Eastern Asia,Asia,3538655
-2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Eastern Europe,Europe,21942
-2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,3032
-2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Northern Africa,Africa,64376
-2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Northern America,Americas,413963
-2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Northern Europe,Europe,1106624
-2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,221930
-2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Southern Asia,Asia,1277
-2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Southern Europe,Europe,5947008
-2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,24697
-2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Western Asia,Asia,52612
-2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Western Europe,Europe,5858488
-2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,World,World,18294707
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,4055,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Eastern Asia,Asia,3538655,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Eastern Europe,Europe,21942,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,3032,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Northern Africa,Africa,64376,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Northern America,Americas,413963,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Northern Europe,Europe,1106624,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,221930,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Southern Asia,Asia,1277,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Southern Europe,Europe,5947008,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,24697,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Western Asia,Asia,52612,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,Western Europe,Europe,5858488,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2009,2009,Import,Cyprus,96,Miscellaneous manufactured articles,World,World,18294707,34.9823018,33.1451285,,

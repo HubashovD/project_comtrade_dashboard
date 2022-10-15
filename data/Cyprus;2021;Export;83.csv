@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Australia and New Zealand,Oceania,281
-2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,2481
-2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,2536
-2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,158
-2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Northern Africa,Africa,129902
-2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Northern America,Americas,2254
-2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,239406
-2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,283900
-2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Sub-Saharan Africa,Africa,54140
-2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Western Europe,Europe,18250
-2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,World,World,1602436
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Australia and New Zealand,Oceania,281,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,2481,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,2536,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,158,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Northern Africa,Africa,129902,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Northern America,Americas,2254,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,239406,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,283900,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Sub-Saharan Africa,Africa,54140,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,Western Europe,Europe,18250,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2021,2021,Export,Cyprus,83,Metal; miscellaneous products of base metal,World,World,1602436,34.9823018,33.1451285,,

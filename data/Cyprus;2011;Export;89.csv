@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Australia and New Zealand,Oceania,1909
-2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Eastern Asia,Asia,123748
-2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Eastern Europe,Europe,1666
-2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,961
-2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Northern America,Americas,142975
-2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Northern Europe,Europe,171652
-2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Southern Europe,Europe,1933359
-2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,55705
-2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Western Europe,Europe,769692
-2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",World,World,3933757
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Australia and New Zealand,Oceania,1909,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Eastern Asia,Asia,123748,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Eastern Europe,Europe,1666,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,961,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Northern America,Americas,142975,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Northern Europe,Europe,171652,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Southern Europe,Europe,1933359,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,55705,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",Western Europe,Europe,769692,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2011,2011,Export,Cyprus,89,"Ships, boats and floating structures",World,World,3933757,34.9823018,33.1451285,,

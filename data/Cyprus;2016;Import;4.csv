@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,162098
-2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,3841380
-2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,10698
-2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Europe,Europe,13411056
-2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Europe,Europe,33346031
-2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Sub-Saharan Africa,Africa,1
-2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Europe,Europe,30161261
-2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,80932537
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,162098,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,3841380,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,10698,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Europe,Europe,13411056,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Europe,Europe,33346031,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Sub-Saharan Africa,Africa,1,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Europe,Europe,30161261,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2016,2016,Import,Cyprus,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,80932537,34.9823018,33.1451285,,

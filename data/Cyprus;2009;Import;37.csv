@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,Eastern Asia,Asia,134379
-2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,Eastern Europe,Europe,1126
-2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,Northern Africa,Africa,74541
-2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,Northern America,Americas,34508
-2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,Northern Europe,Europe,110219
-2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,Southern Europe,Europe,5506223
-2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,Western Europe,Europe,4860884
-2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,World,World,10816009
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,Eastern Asia,Asia,134379,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,Eastern Europe,Europe,1126,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,Northern Africa,Africa,74541,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,Northern America,Americas,34508,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,Northern Europe,Europe,110219,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,Southern Europe,Europe,5506223,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,Western Europe,Europe,4860884,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2009,2009,Import,Cyprus,37,Photographic or cinematographic goods,World,World,10816009,34.9823018,33.1451285,,

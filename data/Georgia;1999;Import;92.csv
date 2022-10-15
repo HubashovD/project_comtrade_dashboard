@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Georgia,92,"Musical instruments, parts and accessories",Eastern Europe,Europe,6099
-1999,1999,Import,Georgia,92,"Musical instruments, parts and accessories",Northern America,Americas,2383
-1999,1999,Import,Georgia,92,"Musical instruments, parts and accessories",Northern Europe,Europe,13888
-1999,1999,Import,Georgia,92,"Musical instruments, parts and accessories",Western Asia,Asia,1094
-1999,1999,Import,Georgia,92,"Musical instruments, parts and accessories",Western Europe,Europe,3723
-1999,1999,Import,Georgia,92,"Musical instruments, parts and accessories",World,World,33243
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Georgia,92,"Musical instruments, parts and accessories",Eastern Europe,Europe,6099,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Import,Georgia,92,"Musical instruments, parts and accessories",Northern America,Americas,2383,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1999,1999,Import,Georgia,92,"Musical instruments, parts and accessories",Northern Europe,Europe,13888,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1999,1999,Import,Georgia,92,"Musical instruments, parts and accessories",Western Asia,Asia,1094,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1999,1999,Import,Georgia,92,"Musical instruments, parts and accessories",Western Europe,Europe,3723,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Import,Georgia,92,"Musical instruments, parts and accessories",World,World,33243,32.3293809,-83.1137366,,

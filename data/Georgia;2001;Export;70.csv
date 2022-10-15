@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Georgia,70,Glass and glassware,Central Asia,Asia,19628
-2001,2001,Export,Georgia,70,Glass and glassware,Eastern Europe,Europe,102740
-2001,2001,Export,Georgia,70,Glass and glassware,Northern America,Americas,47029
-2001,2001,Export,Georgia,70,Glass and glassware,Northern Europe,Europe,434
-2001,2001,Export,Georgia,70,Glass and glassware,Southern Europe,Europe,981
-2001,2001,Export,Georgia,70,Glass and glassware,Western Asia,Asia,244673
-2001,2001,Export,Georgia,70,Glass and glassware,World,World,1088677
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Georgia,70,Glass and glassware,Central Asia,Asia,19628,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2001,2001,Export,Georgia,70,Glass and glassware,Eastern Europe,Europe,102740,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2001,2001,Export,Georgia,70,Glass and glassware,Northern America,Americas,47029,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2001,2001,Export,Georgia,70,Glass and glassware,Northern Europe,Europe,434,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2001,2001,Export,Georgia,70,Glass and glassware,Southern Europe,Europe,981,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2001,2001,Export,Georgia,70,Glass and glassware,Western Asia,Asia,244673,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2001,2001,Export,Georgia,70,Glass and glassware,World,World,1088677,32.3293809,-83.1137366,,

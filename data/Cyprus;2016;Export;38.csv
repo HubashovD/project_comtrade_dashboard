@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Cyprus,38,Chemical products n.e.c.,Eastern Europe,Europe,325315
-2016,2016,Export,Cyprus,38,Chemical products n.e.c.,Northern Europe,Europe,718385
-2016,2016,Export,Cyprus,38,Chemical products n.e.c.,South-eastern Asia,Asia,39479
-2016,2016,Export,Cyprus,38,Chemical products n.e.c.,Southern Asia,Asia,3720749
-2016,2016,Export,Cyprus,38,Chemical products n.e.c.,Southern Europe,Europe,3445428
-2016,2016,Export,Cyprus,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,2254
-2016,2016,Export,Cyprus,38,Chemical products n.e.c.,Western Asia,Asia,52488
-2016,2016,Export,Cyprus,38,Chemical products n.e.c.,Western Europe,Europe,1132286
-2016,2016,Export,Cyprus,38,Chemical products n.e.c.,World,World,12969170
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Cyprus,38,Chemical products n.e.c.,Eastern Europe,Europe,325315,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2016,2016,Export,Cyprus,38,Chemical products n.e.c.,Northern Europe,Europe,718385,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2016,2016,Export,Cyprus,38,Chemical products n.e.c.,South-eastern Asia,Asia,39479,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2016,2016,Export,Cyprus,38,Chemical products n.e.c.,Southern Asia,Asia,3720749,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2016,2016,Export,Cyprus,38,Chemical products n.e.c.,Southern Europe,Europe,3445428,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2016,2016,Export,Cyprus,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,2254,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2016,2016,Export,Cyprus,38,Chemical products n.e.c.,Western Asia,Asia,52488,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2016,2016,Export,Cyprus,38,Chemical products n.e.c.,Western Europe,Europe,1132286,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2016,2016,Export,Cyprus,38,Chemical products n.e.c.,World,World,12969170,34.9823018,33.1451285,,

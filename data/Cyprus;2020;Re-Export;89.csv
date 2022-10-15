@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Eastern Asia,Asia,113713684
-2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Eastern Europe,Europe,18712177
-2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,72733653
-2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Micronesia,Oceania,178003681
-2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Northern America,Americas,300378
-2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Northern Europe,Europe,259337
-2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",South-eastern Asia,Asia,33973285
-2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Southern Asia,Asia,2523961
-2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Southern Europe,Europe,15856309
-2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,232723702
-2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Western Asia,Asia,3591537
-2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Western Europe,Europe,221985992
-2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",World,World,964007902
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Eastern Asia,Asia,113713684,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Eastern Europe,Europe,18712177,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,72733653,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Micronesia,Oceania,178003681,34.9823018,33.1451285,6.418559504495792,157.6364476938912
+2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Northern America,Americas,300378,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Northern Europe,Europe,259337,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",South-eastern Asia,Asia,33973285,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Southern Asia,Asia,2523961,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Southern Europe,Europe,15856309,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,232723702,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Western Asia,Asia,3591537,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",Western Europe,Europe,221985992,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Re-Export,Cyprus,89,"Ships, boats and floating structures",World,World,964007902,34.9823018,33.1451285,,

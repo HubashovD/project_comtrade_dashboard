@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Georgia,85,"Electrical, electronic equipment",Central Asia,Asia,6918
-1999,1999,Export,Georgia,85,"Electrical, electronic equipment",Eastern Europe,Europe,1180438
-1999,1999,Export,Georgia,85,"Electrical, electronic equipment",Northern America,Americas,848
-1999,1999,Export,Georgia,85,"Electrical, electronic equipment",Northern Europe,Europe,454799
-1999,1999,Export,Georgia,85,"Electrical, electronic equipment",Southern Asia,Asia,120491
-1999,1999,Export,Georgia,85,"Electrical, electronic equipment",Western Asia,Asia,84522
-1999,1999,Export,Georgia,85,"Electrical, electronic equipment",Western Europe,Europe,143092
-1999,1999,Export,Georgia,85,"Electrical, electronic equipment",World,World,3521165
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Georgia,85,"Electrical, electronic equipment",Central Asia,Asia,6918,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+1999,1999,Export,Georgia,85,"Electrical, electronic equipment",Eastern Europe,Europe,1180438,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Export,Georgia,85,"Electrical, electronic equipment",Northern America,Americas,848,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1999,1999,Export,Georgia,85,"Electrical, electronic equipment",Northern Europe,Europe,454799,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1999,1999,Export,Georgia,85,"Electrical, electronic equipment",Southern Asia,Asia,120491,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1999,1999,Export,Georgia,85,"Electrical, electronic equipment",Western Asia,Asia,84522,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1999,1999,Export,Georgia,85,"Electrical, electronic equipment",Western Europe,Europe,143092,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Export,Georgia,85,"Electrical, electronic equipment",World,World,3521165,32.3293809,-83.1137366,,

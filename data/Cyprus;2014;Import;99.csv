@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,193749
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Eastern Asia,Asia,430045
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Eastern Europe,Europe,423805
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,34480
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Melanesia,Oceania,6180
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Northern Africa,Africa,21118
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Northern America,Americas,671239
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Northern Europe,Europe,98575
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,South-eastern Asia,Asia,168451
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Southern Asia,Asia,19029
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Southern Europe,Europe,25552
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,153174
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Western Asia,Asia,430
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Western Europe,Europe,64635
-2014,2014,Import,Cyprus,99,Commodities not specified according to kind,World,World,4197923
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,193749,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Eastern Asia,Asia,430045,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Eastern Europe,Europe,423805,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,34480,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Melanesia,Oceania,6180,34.9823018,33.1451285,1.0108650891006263,147.3257485906919
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Northern Africa,Africa,21118,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Northern America,Americas,671239,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Northern Europe,Europe,98575,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,South-eastern Asia,Asia,168451,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Southern Asia,Asia,19029,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Southern Europe,Europe,25552,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,153174,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Western Asia,Asia,430,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,Western Europe,Europe,64635,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2014,2014,Import,Cyprus,99,Commodities not specified according to kind,World,World,4197923,34.9823018,33.1451285,,

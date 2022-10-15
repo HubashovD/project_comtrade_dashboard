@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Georgia,52,Cotton,Eastern Europe,Europe,16681
-1998,1998,Import,Georgia,52,Cotton,Southern Europe,Europe,67733
-1998,1998,Import,Georgia,52,Cotton,Western Asia,Asia,64237
-1998,1998,Import,Georgia,52,Cotton,Western Europe,Europe,154178
-1998,1998,Import,Georgia,52,Cotton,World,World,334807
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Georgia,52,Cotton,Eastern Europe,Europe,16681,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1998,1998,Import,Georgia,52,Cotton,Southern Europe,Europe,67733,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1998,1998,Import,Georgia,52,Cotton,Western Asia,Asia,64237,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1998,1998,Import,Georgia,52,Cotton,Western Europe,Europe,154178,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1998,1998,Import,Georgia,52,Cotton,World,World,334807,32.3293809,-83.1137366,,

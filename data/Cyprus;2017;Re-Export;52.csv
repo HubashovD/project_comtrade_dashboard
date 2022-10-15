@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Re-Export,Cyprus,52,Cotton,Eastern Asia,Asia,1964
-2017,2017,Re-Export,Cyprus,52,Cotton,Northern Africa,Africa,120923
-2017,2017,Re-Export,Cyprus,52,Cotton,Southern Europe,Europe,73520
-2017,2017,Re-Export,Cyprus,52,Cotton,World,World,201923
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Re-Export,Cyprus,52,Cotton,Eastern Asia,Asia,1964,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2017,2017,Re-Export,Cyprus,52,Cotton,Northern Africa,Africa,120923,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2017,2017,Re-Export,Cyprus,52,Cotton,Southern Europe,Europe,73520,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2017,2017,Re-Export,Cyprus,52,Cotton,World,World,201923,34.9823018,33.1451285,,

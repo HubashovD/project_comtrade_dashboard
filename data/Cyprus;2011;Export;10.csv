@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,Cyprus,10,Cereals,Eastern Asia,Asia,6963
-2011,2011,Export,Cyprus,10,Cereals,Northern America,Americas,70
-2011,2011,Export,Cyprus,10,Cereals,Northern Europe,Europe,21373
-2011,2011,Export,Cyprus,10,Cereals,Southern Europe,Europe,57579
-2011,2011,Export,Cyprus,10,Cereals,Western Europe,Europe,48869
-2011,2011,Export,Cyprus,10,Cereals,World,World,134853
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,Cyprus,10,Cereals,Eastern Asia,Asia,6963,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2011,2011,Export,Cyprus,10,Cereals,Northern America,Americas,70,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2011,2011,Export,Cyprus,10,Cereals,Northern Europe,Europe,21373,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2011,2011,Export,Cyprus,10,Cereals,Southern Europe,Europe,57579,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2011,2011,Export,Cyprus,10,Cereals,Western Europe,Europe,48869,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2011,2011,Export,Cyprus,10,Cereals,World,World,134853,34.9823018,33.1451285,,

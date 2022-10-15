@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Re-Export,Cyprus,55,Man-made staple fibres,Eastern Asia,Asia,6037
-2019,2019,Re-Export,Cyprus,55,Man-made staple fibres,Eastern Europe,Europe,8272
-2019,2019,Re-Export,Cyprus,55,Man-made staple fibres,Northern Europe,Europe,9797
-2019,2019,Re-Export,Cyprus,55,Man-made staple fibres,Southern Europe,Europe,62380
-2019,2019,Re-Export,Cyprus,55,Man-made staple fibres,Western Europe,Europe,367
-2019,2019,Re-Export,Cyprus,55,Man-made staple fibres,World,World,91310
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Re-Export,Cyprus,55,Man-made staple fibres,Eastern Asia,Asia,6037,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2019,2019,Re-Export,Cyprus,55,Man-made staple fibres,Eastern Europe,Europe,8272,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2019,2019,Re-Export,Cyprus,55,Man-made staple fibres,Northern Europe,Europe,9797,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2019,2019,Re-Export,Cyprus,55,Man-made staple fibres,Southern Europe,Europe,62380,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2019,2019,Re-Export,Cyprus,55,Man-made staple fibres,Western Europe,Europe,367,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2019,2019,Re-Export,Cyprus,55,Man-made staple fibres,World,World,91310,34.9823018,33.1451285,,

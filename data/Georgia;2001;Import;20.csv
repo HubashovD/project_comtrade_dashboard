@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",Eastern Europe,Europe,281890
-2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",Northern America,Americas,13194
-2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",Northern Europe,Europe,15240
-2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",Southern Asia,Asia,62432
-2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",Southern Europe,Europe,168169
-2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",Western Asia,Asia,815276
-2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",Western Europe,Europe,219812
-2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",World,World,1638030
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",Eastern Europe,Europe,281890,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",Northern America,Americas,13194,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",Northern Europe,Europe,15240,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",Southern Asia,Asia,62432,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",Southern Europe,Europe,168169,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",Western Asia,Asia,815276,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",Western Europe,Europe,219812,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2001,2001,Import,Georgia,20,"Vegetable, fruit, nut, etc food preparations",World,World,1638030,32.3293809,-83.1137366,,

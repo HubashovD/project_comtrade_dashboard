@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Cyprus,70,Glass and glassware,Australia and New Zealand,Oceania,24510
-2010,2010,Export,Cyprus,70,Glass and glassware,Northern Europe,Europe,33958
-2010,2010,Export,Cyprus,70,Glass and glassware,Southern Europe,Europe,134022
-2010,2010,Export,Cyprus,70,Glass and glassware,Western Europe,Europe,323156
-2010,2010,Export,Cyprus,70,Glass and glassware,World,World,519011
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Cyprus,70,Glass and glassware,Australia and New Zealand,Oceania,24510,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2010,2010,Export,Cyprus,70,Glass and glassware,Northern Europe,Europe,33958,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2010,2010,Export,Cyprus,70,Glass and glassware,Southern Europe,Europe,134022,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2010,2010,Export,Cyprus,70,Glass and glassware,Western Europe,Europe,323156,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2010,2010,Export,Cyprus,70,Glass and glassware,World,World,519011,34.9823018,33.1451285,,

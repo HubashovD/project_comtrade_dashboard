@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Central Asia,Asia,6674
-2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Eastern Asia,Asia,145346
-2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Eastern Europe,Europe,65837
-2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Northern America,Americas,130619
-2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Northern Europe,Europe,117283
-2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Polynesia,Oceania,165
-2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Southern Asia,Asia,5680
-2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Southern Europe,Europe,58695
-2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Western Asia,Asia,154383
-2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Western Europe,Europe,829323
-2003,2003,Import,Georgia,95,"Toys, games, sports requisites",World,World,1770140
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Central Asia,Asia,6674,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Eastern Asia,Asia,145346,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Eastern Europe,Europe,65837,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Northern America,Americas,130619,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Northern Europe,Europe,117283,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Polynesia,Oceania,165,32.3293809,-83.1137366,-5.109184731250752,167.40343615892436
+2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Southern Asia,Asia,5680,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Southern Europe,Europe,58695,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Western Asia,Asia,154383,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2003,2003,Import,Georgia,95,"Toys, games, sports requisites",Western Europe,Europe,829323,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2003,2003,Import,Georgia,95,"Toys, games, sports requisites",World,World,1770140,32.3293809,-83.1137366,,

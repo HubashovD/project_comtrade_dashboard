@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Australia and New Zealand,Oceania,128
-2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Eastern Asia,Asia,33025
-2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Eastern Europe,Europe,2597276
-2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Latin America and the Caribbean,Americas,27895
-2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Northern America,Americas,386191
-2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Northern Europe,Europe,383391
-2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Southern Asia,Asia,20349
-2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Southern Europe,Europe,357008
-2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Sub-Saharan Africa,Africa,4627
-2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Western Asia,Asia,6689028
-2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Western Europe,Europe,1065264
-2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",World,World,11991998
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Australia and New Zealand,Oceania,128,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Eastern Asia,Asia,33025,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Eastern Europe,Europe,2597276,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Latin America and the Caribbean,Americas,27895,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Northern America,Americas,386191,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Northern Europe,Europe,383391,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Southern Asia,Asia,20349,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Southern Europe,Europe,357008,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Sub-Saharan Africa,Africa,4627,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Western Asia,Asia,6689028,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",Western Europe,Europe,1065264,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2000,2000,Import,Georgia,48,"Paper & paperboard, articles of pulp, paper and board",World,World,11991998,32.3293809,-83.1137366,,

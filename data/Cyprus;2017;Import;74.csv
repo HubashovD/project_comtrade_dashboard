@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Cyprus,74,Copper and articles thereof,Eastern Asia,Asia,3162825
-2017,2017,Import,Cyprus,74,Copper and articles thereof,Eastern Europe,Europe,773084
-2017,2017,Import,Cyprus,74,Copper and articles thereof,Northern America,Americas,5096
-2017,2017,Import,Cyprus,74,Copper and articles thereof,Northern Europe,Europe,388640
-2017,2017,Import,Cyprus,74,Copper and articles thereof,South-eastern Asia,Asia,32209
-2017,2017,Import,Cyprus,74,Copper and articles thereof,Southern Europe,Europe,5020537
-2017,2017,Import,Cyprus,74,Copper and articles thereof,Western Europe,Europe,663446
-2017,2017,Import,Cyprus,74,Copper and articles thereof,World,World,10376775
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Cyprus,74,Copper and articles thereof,Eastern Asia,Asia,3162825,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2017,2017,Import,Cyprus,74,Copper and articles thereof,Eastern Europe,Europe,773084,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2017,2017,Import,Cyprus,74,Copper and articles thereof,Northern America,Americas,5096,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2017,2017,Import,Cyprus,74,Copper and articles thereof,Northern Europe,Europe,388640,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2017,2017,Import,Cyprus,74,Copper and articles thereof,South-eastern Asia,Asia,32209,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2017,2017,Import,Cyprus,74,Copper and articles thereof,Southern Europe,Europe,5020537,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2017,2017,Import,Cyprus,74,Copper and articles thereof,Western Europe,Europe,663446,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2017,2017,Import,Cyprus,74,Copper and articles thereof,World,World,10376775,34.9823018,33.1451285,,

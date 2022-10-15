@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Georgia,89,"Ships, boats and other floating structures",Eastern Europe,Europe,32604
-1998,1998,Import,Georgia,89,"Ships, boats and other floating structures",Northern Europe,Europe,6793
-1998,1998,Import,Georgia,89,"Ships, boats and other floating structures",Western Asia,Asia,512520
-1998,1998,Import,Georgia,89,"Ships, boats and other floating structures",Western Europe,Europe,11862880
-1998,1998,Import,Georgia,89,"Ships, boats and other floating structures",World,World,12420855
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Georgia,89,"Ships, boats and other floating structures",Eastern Europe,Europe,32604,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1998,1998,Import,Georgia,89,"Ships, boats and other floating structures",Northern Europe,Europe,6793,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1998,1998,Import,Georgia,89,"Ships, boats and other floating structures",Western Asia,Asia,512520,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1998,1998,Import,Georgia,89,"Ships, boats and other floating structures",Western Europe,Europe,11862880,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1998,1998,Import,Georgia,89,"Ships, boats and other floating structures",World,World,12420855,32.3293809,-83.1137366,,

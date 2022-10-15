@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Australia and New Zealand,Oceania,2019
-2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Eastern Asia,Asia,4657695
-2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Eastern Europe,Europe,1616401
-2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,42201
-2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Northern Africa,Africa,92770
-2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Northern America,Americas,1031469
-2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Northern Europe,Europe,4875858
-2013,2013,Import,Cyprus,38,Chemical products n.e.c.,South-eastern Asia,Asia,744555
-2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Southern Asia,Asia,7996
-2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Southern Europe,Europe,20170557
-2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,4845
-2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Western Europe,Europe,20465207
-2013,2013,Import,Cyprus,38,Chemical products n.e.c.,World,World,55448421
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Australia and New Zealand,Oceania,2019,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Eastern Asia,Asia,4657695,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Eastern Europe,Europe,1616401,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,42201,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Northern Africa,Africa,92770,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Northern America,Americas,1031469,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Northern Europe,Europe,4875858,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2013,2013,Import,Cyprus,38,Chemical products n.e.c.,South-eastern Asia,Asia,744555,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Southern Asia,Asia,7996,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Southern Europe,Europe,20170557,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,4845,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2013,2013,Import,Cyprus,38,Chemical products n.e.c.,Western Europe,Europe,20465207,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2013,2013,Import,Cyprus,38,Chemical products n.e.c.,World,World,55448421,34.9823018,33.1451285,,

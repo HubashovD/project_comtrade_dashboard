@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Cyprus,69,Ceramic products,Australia and New Zealand,Oceania,22441
-2021,2021,Export,Cyprus,69,Ceramic products,Eastern Asia,Asia,39311
-2021,2021,Export,Cyprus,69,Ceramic products,Eastern Europe,Europe,27946
-2021,2021,Export,Cyprus,69,Ceramic products,Latin America and the Caribbean,Americas,8968
-2021,2021,Export,Cyprus,69,Ceramic products,Northern Africa,Africa,1256
-2021,2021,Export,Cyprus,69,Ceramic products,Northern America,Americas,38409
-2021,2021,Export,Cyprus,69,Ceramic products,Northern Europe,Europe,13904
-2021,2021,Export,Cyprus,69,Ceramic products,South-eastern Asia,Asia,10660
-2021,2021,Export,Cyprus,69,Ceramic products,Southern Europe,Europe,12886
-2021,2021,Export,Cyprus,69,Ceramic products,Sub-Saharan Africa,Africa,53920
-2021,2021,Export,Cyprus,69,Ceramic products,Western Europe,Europe,33018
-2021,2021,Export,Cyprus,69,Ceramic products,World,World,424983
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Cyprus,69,Ceramic products,Australia and New Zealand,Oceania,22441,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2021,2021,Export,Cyprus,69,Ceramic products,Eastern Asia,Asia,39311,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2021,2021,Export,Cyprus,69,Ceramic products,Eastern Europe,Europe,27946,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2021,2021,Export,Cyprus,69,Ceramic products,Latin America and the Caribbean,Americas,8968,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2021,2021,Export,Cyprus,69,Ceramic products,Northern Africa,Africa,1256,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2021,2021,Export,Cyprus,69,Ceramic products,Northern America,Americas,38409,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2021,2021,Export,Cyprus,69,Ceramic products,Northern Europe,Europe,13904,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2021,2021,Export,Cyprus,69,Ceramic products,South-eastern Asia,Asia,10660,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2021,2021,Export,Cyprus,69,Ceramic products,Southern Europe,Europe,12886,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2021,2021,Export,Cyprus,69,Ceramic products,Sub-Saharan Africa,Africa,53920,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2021,2021,Export,Cyprus,69,Ceramic products,Western Europe,Europe,33018,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2021,2021,Export,Cyprus,69,Ceramic products,World,World,424983,34.9823018,33.1451285,,

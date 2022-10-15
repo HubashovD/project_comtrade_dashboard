@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Australia and New Zealand,Oceania,1672
-2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Eastern Asia,Asia,1531312
-2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Eastern Europe,Europe,9835
-2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Northern Africa,Africa,126227
-2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Northern America,Americas,77411
-2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Northern Europe,Europe,371686
-2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Southern Asia,Asia,124674
-2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Southern Europe,Europe,1304680
-2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Western Asia,Asia,18729
-2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Western Europe,Europe,1788067
-2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,World,World,5748517
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Australia and New Zealand,Oceania,1672,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Eastern Asia,Asia,1531312,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Eastern Europe,Europe,9835,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Northern Africa,Africa,126227,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Northern America,Americas,77411,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Northern Europe,Europe,371686,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Southern Asia,Asia,124674,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Southern Europe,Europe,1304680,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Western Asia,Asia,18729,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,Western Europe,Europe,1788067,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2013,2013,Import,Cyprus,57,Carpets and other textile floor coverings,World,World,5748517,34.9823018,33.1451285,,

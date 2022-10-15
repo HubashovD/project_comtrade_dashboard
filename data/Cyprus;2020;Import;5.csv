@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,17180
-2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,95441
-2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,521988
-2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,175325
-2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,10029
-2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,173927
-2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,Sub-Saharan Africa,Africa,1578
-2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,758411
-2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,World,World,1774760
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,17180,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,95441,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,521988,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,175325,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,10029,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,173927,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,Sub-Saharan Africa,Africa,1578,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,758411,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Import,Cyprus,5,Animal originated products; not elsewhere specified or included,World,World,1774760,34.9823018,33.1451285,,

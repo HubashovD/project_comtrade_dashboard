@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Georgia,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,7540
-2001,2001,Import,Georgia,38,Miscellaneous chemical products,Central Asia,Asia,488
-2001,2001,Import,Georgia,38,Miscellaneous chemical products,Eastern Asia,Asia,708
-2001,2001,Import,Georgia,38,Miscellaneous chemical products,Eastern Europe,Europe,286992
-2001,2001,Import,Georgia,38,Miscellaneous chemical products,Northern America,Americas,406547
-2001,2001,Import,Georgia,38,Miscellaneous chemical products,Northern Europe,Europe,440364
-2001,2001,Import,Georgia,38,Miscellaneous chemical products,Polynesia,Oceania,3677
-2001,2001,Import,Georgia,38,Miscellaneous chemical products,Southern Asia,Asia,32985
-2001,2001,Import,Georgia,38,Miscellaneous chemical products,Southern Europe,Europe,147396
-2001,2001,Import,Georgia,38,Miscellaneous chemical products,Western Asia,Asia,343146
-2001,2001,Import,Georgia,38,Miscellaneous chemical products,Western Europe,Europe,1328563
-2001,2001,Import,Georgia,38,Miscellaneous chemical products,World,World,3295356
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Georgia,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,7540,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2001,2001,Import,Georgia,38,Miscellaneous chemical products,Central Asia,Asia,488,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2001,2001,Import,Georgia,38,Miscellaneous chemical products,Eastern Asia,Asia,708,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2001,2001,Import,Georgia,38,Miscellaneous chemical products,Eastern Europe,Europe,286992,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2001,2001,Import,Georgia,38,Miscellaneous chemical products,Northern America,Americas,406547,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2001,2001,Import,Georgia,38,Miscellaneous chemical products,Northern Europe,Europe,440364,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2001,2001,Import,Georgia,38,Miscellaneous chemical products,Polynesia,Oceania,3677,32.3293809,-83.1137366,-5.109184731250752,167.40343615892436
+2001,2001,Import,Georgia,38,Miscellaneous chemical products,Southern Asia,Asia,32985,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2001,2001,Import,Georgia,38,Miscellaneous chemical products,Southern Europe,Europe,147396,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2001,2001,Import,Georgia,38,Miscellaneous chemical products,Western Asia,Asia,343146,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2001,2001,Import,Georgia,38,Miscellaneous chemical products,Western Europe,Europe,1328563,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2001,2001,Import,Georgia,38,Miscellaneous chemical products,World,World,3295356,32.3293809,-83.1137366,,

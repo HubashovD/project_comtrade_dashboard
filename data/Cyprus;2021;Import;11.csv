@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Eastern Asia,Asia,156
-2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Eastern Europe,Europe,1544155
-2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern America,Americas,59608
-2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern Europe,Europe,1058445
-2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",South-eastern Asia,Asia,61350
-2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Southern Asia,Asia,23112
-2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Southern Europe,Europe,7368512
-2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Sub-Saharan Africa,Africa,5570
-2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Western Asia,Asia,285
-2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Western Europe,Europe,3311201
-2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",World,World,13535690
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Eastern Asia,Asia,156,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Eastern Europe,Europe,1544155,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern America,Americas,59608,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern Europe,Europe,1058445,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",South-eastern Asia,Asia,61350,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Southern Asia,Asia,23112,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Southern Europe,Europe,7368512,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Sub-Saharan Africa,Africa,5570,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Western Asia,Asia,285,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Western Europe,Europe,3311201,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2021,2021,Import,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",World,World,13535690,34.9823018,33.1451285,,

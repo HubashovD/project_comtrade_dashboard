@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Cyprus,26,"Ores, slag and ash",Eastern Europe,Europe,375407
-2020,2020,Import,Cyprus,26,"Ores, slag and ash",Northern Europe,Europe,111
-2020,2020,Import,Cyprus,26,"Ores, slag and ash",Southern Europe,Europe,302041
-2020,2020,Import,Cyprus,26,"Ores, slag and ash",Western Europe,Europe,22960
-2020,2020,Import,Cyprus,26,"Ores, slag and ash",World,World,799293
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Cyprus,26,"Ores, slag and ash",Eastern Europe,Europe,375407,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Import,Cyprus,26,"Ores, slag and ash",Northern Europe,Europe,111,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2020,2020,Import,Cyprus,26,"Ores, slag and ash",Southern Europe,Europe,302041,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Import,Cyprus,26,"Ores, slag and ash",Western Europe,Europe,22960,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Import,Cyprus,26,"Ores, slag and ash",World,World,799293,34.9823018,33.1451285,,

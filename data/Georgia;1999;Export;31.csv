@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Georgia,31,Fertilizers,Eastern Europe,Europe,80520
-1999,1999,Export,Georgia,31,Fertilizers,Northern Europe,Europe,1372100
-1999,1999,Export,Georgia,31,Fertilizers,Southern Europe,Europe,1043753
-1999,1999,Export,Georgia,31,Fertilizers,Western Asia,Asia,4233371
-1999,1999,Export,Georgia,31,Fertilizers,Western Europe,Europe,1153888
-1999,1999,Export,Georgia,31,Fertilizers,World,World,11369105
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Georgia,31,Fertilizers,Eastern Europe,Europe,80520,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Export,Georgia,31,Fertilizers,Northern Europe,Europe,1372100,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1999,1999,Export,Georgia,31,Fertilizers,Southern Europe,Europe,1043753,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1999,1999,Export,Georgia,31,Fertilizers,Western Asia,Asia,4233371,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1999,1999,Export,Georgia,31,Fertilizers,Western Europe,Europe,1153888,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Export,Georgia,31,Fertilizers,World,World,11369105,32.3293809,-83.1137366,,

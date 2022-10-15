@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Georgia,81,"Other base metals, cermets, articles thereof",Southern Europe,Europe,24177
-2000,2000,Import,Georgia,81,"Other base metals, cermets, articles thereof",Western Asia,Asia,5385
-2000,2000,Import,Georgia,81,"Other base metals, cermets, articles thereof",World,World,29562
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Georgia,81,"Other base metals, cermets, articles thereof",Southern Europe,Europe,24177,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2000,2000,Import,Georgia,81,"Other base metals, cermets, articles thereof",Western Asia,Asia,5385,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2000,2000,Import,Georgia,81,"Other base metals, cermets, articles thereof",World,World,29562,32.3293809,-83.1137366,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Australia and New Zealand,Oceania,381542
-2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,265832
-2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,374607
-2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,6466033
-2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Northern Africa,Africa,23617
-2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Northern America,Americas,60900
-2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Northern Europe,Europe,3158063
-2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,166257
-2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Southern Asia,Asia,411467
-2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Southern Europe,Europe,11148029
-2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,857535
-2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Western Asia,Asia,258901
-2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Western Europe,Europe,6547109
-2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",World,World,30829567
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Australia and New Zealand,Oceania,381542,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,265832,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,374607,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,6466033,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Northern Africa,Africa,23617,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Northern America,Americas,60900,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Northern Europe,Europe,3158063,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,166257,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Southern Asia,Asia,411467,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Southern Europe,Europe,11148029,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,857535,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Western Asia,Asia,258901,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",Western Europe,Europe,6547109,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2019,2019,Import,Cyprus,9,"Coffee, tea, mate and spices",World,World,30829567,34.9823018,33.1451285,,

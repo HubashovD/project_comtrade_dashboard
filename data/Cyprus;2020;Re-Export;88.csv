@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Re-Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Australia and New Zealand,Oceania,242582
-2020,2020,Re-Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Eastern Asia,Asia,318992
-2020,2020,Re-Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,23904125
-2020,2020,Re-Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,776579
-2020,2020,Re-Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Southern Europe,Europe,1096
-2020,2020,Re-Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,27161
-2020,2020,Re-Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",World,World,25405376
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Re-Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Australia and New Zealand,Oceania,242582,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2020,2020,Re-Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Eastern Asia,Asia,318992,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2020,2020,Re-Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,23904125,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Re-Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,776579,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2020,2020,Re-Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Southern Europe,Europe,1096,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Re-Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,27161,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Re-Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",World,World,25405376,34.9823018,33.1451285,,

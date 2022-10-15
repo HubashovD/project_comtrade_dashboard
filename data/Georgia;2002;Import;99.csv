@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Eastern Europe,Europe,17352
-2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Northern Africa,Africa,4196
-2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Northern America,Americas,8000
-2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Northern Europe,Europe,54098
-2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Southern Asia,Asia,1870
-2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Southern Europe,Europe,46955
-2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Western Asia,Asia,160000
-2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Western Europe,Europe,1034822
-2002,2002,Import,Georgia,99,Commodities not elsewhere specified,World,World,4701090
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Eastern Europe,Europe,17352,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Northern Africa,Africa,4196,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Northern America,Americas,8000,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Northern Europe,Europe,54098,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Southern Asia,Asia,1870,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Southern Europe,Europe,46955,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Western Asia,Asia,160000,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2002,2002,Import,Georgia,99,Commodities not elsewhere specified,Western Europe,Europe,1034822,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2002,2002,Import,Georgia,99,Commodities not elsewhere specified,World,World,4701090,32.3293809,-83.1137366,,

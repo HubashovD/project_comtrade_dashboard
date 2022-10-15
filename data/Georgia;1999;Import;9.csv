@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,111417
-1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,5774
-1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Northern America,Americas,7647
-1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Northern Europe,Europe,13964
-1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,2139236
-1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Southern Asia,Asia,61174
-1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Southern Europe,Europe,20860
-1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Western Asia,Asia,156949
-1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Western Europe,Europe,191789
-1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",World,World,5516760
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,111417,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,5774,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Northern America,Americas,7647,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Northern Europe,Europe,13964,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,2139236,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Southern Asia,Asia,61174,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Southern Europe,Europe,20860,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Western Asia,Asia,156949,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",Western Europe,Europe,191789,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Import,Georgia,9,"Coffee, tea, mate and spices",World,World,5516760,32.3293809,-83.1137366,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Cyprus,75,Nickel and articles thereof,Australia and New Zealand,Oceania,55
-2021,2021,Import,Cyprus,75,Nickel and articles thereof,Eastern Asia,Asia,6948
-2021,2021,Import,Cyprus,75,Nickel and articles thereof,Eastern Europe,Europe,54706
-2021,2021,Import,Cyprus,75,Nickel and articles thereof,Northern America,Americas,19821
-2021,2021,Import,Cyprus,75,Nickel and articles thereof,Northern Europe,Europe,3271
-2021,2021,Import,Cyprus,75,Nickel and articles thereof,Southern Europe,Europe,30043
-2021,2021,Import,Cyprus,75,Nickel and articles thereof,Western Europe,Europe,13093
-2021,2021,Import,Cyprus,75,Nickel and articles thereof,World,World,131174
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Cyprus,75,Nickel and articles thereof,Australia and New Zealand,Oceania,55,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2021,2021,Import,Cyprus,75,Nickel and articles thereof,Eastern Asia,Asia,6948,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2021,2021,Import,Cyprus,75,Nickel and articles thereof,Eastern Europe,Europe,54706,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2021,2021,Import,Cyprus,75,Nickel and articles thereof,Northern America,Americas,19821,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2021,2021,Import,Cyprus,75,Nickel and articles thereof,Northern Europe,Europe,3271,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2021,2021,Import,Cyprus,75,Nickel and articles thereof,Southern Europe,Europe,30043,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2021,2021,Import,Cyprus,75,Nickel and articles thereof,Western Europe,Europe,13093,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2021,2021,Import,Cyprus,75,Nickel and articles thereof,World,World,131174,34.9823018,33.1451285,,

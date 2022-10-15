@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Re-Export,Cyprus,72,Iron and steel,Northern America,Americas,51632
-2016,2016,Re-Export,Cyprus,72,Iron and steel,South-eastern Asia,Asia,153976
-2016,2016,Re-Export,Cyprus,72,Iron and steel,Southern Europe,Europe,2764
-2016,2016,Re-Export,Cyprus,72,Iron and steel,Western Europe,Europe,9990
-2016,2016,Re-Export,Cyprus,72,Iron and steel,World,World,221906
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Re-Export,Cyprus,72,Iron and steel,Northern America,Americas,51632,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2016,2016,Re-Export,Cyprus,72,Iron and steel,South-eastern Asia,Asia,153976,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2016,2016,Re-Export,Cyprus,72,Iron and steel,Southern Europe,Europe,2764,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2016,2016,Re-Export,Cyprus,72,Iron and steel,Western Europe,Europe,9990,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2016,2016,Re-Export,Cyprus,72,Iron and steel,World,World,221906,34.9823018,33.1451285,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Cyprus,1,Animals; live,Eastern Europe,Europe,40542
-2021,2021,Import,Cyprus,1,Animals; live,Northern America,Americas,5544
-2021,2021,Import,Cyprus,1,Animals; live,Northern Europe,Europe,337405
-2021,2021,Import,Cyprus,1,Animals; live,South-eastern Asia,Asia,645
-2021,2021,Import,Cyprus,1,Animals; live,Southern Europe,Europe,6292
-2021,2021,Import,Cyprus,1,Animals; live,Sub-Saharan Africa,Africa,1604
-2021,2021,Import,Cyprus,1,Animals; live,Western Europe,Europe,1050436
-2021,2021,Import,Cyprus,1,Animals; live,World,World,1470370
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Cyprus,1,Animals; live,Eastern Europe,Europe,40542,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2021,2021,Import,Cyprus,1,Animals; live,Northern America,Americas,5544,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2021,2021,Import,Cyprus,1,Animals; live,Northern Europe,Europe,337405,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2021,2021,Import,Cyprus,1,Animals; live,South-eastern Asia,Asia,645,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2021,2021,Import,Cyprus,1,Animals; live,Southern Europe,Europe,6292,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2021,2021,Import,Cyprus,1,Animals; live,Sub-Saharan Africa,Africa,1604,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2021,2021,Import,Cyprus,1,Animals; live,Western Europe,Europe,1050436,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2021,2021,Import,Cyprus,1,Animals; live,World,World,1470370,34.9823018,33.1451285,,

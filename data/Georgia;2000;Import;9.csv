@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Central Asia,Asia,465
-2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,1239
-2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,127004
-2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Northern America,Americas,2514
-2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Northern Europe,Europe,44438
-2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,832001
-2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Southern Asia,Asia,89449
-2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Southern Europe,Europe,24479
-2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Western Asia,Asia,287039
-2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Western Europe,Europe,7564
-2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",World,World,4962609
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Central Asia,Asia,465,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,1239,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,127004,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Northern America,Americas,2514,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Northern Europe,Europe,44438,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,832001,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Southern Asia,Asia,89449,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Southern Europe,Europe,24479,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Western Asia,Asia,287039,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",Western Europe,Europe,7564,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2000,2000,Import,Georgia,9,"Coffee, tea, mate and spices",World,World,4962609,32.3293809,-83.1137366,,

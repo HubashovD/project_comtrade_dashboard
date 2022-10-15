@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",Eastern Europe,Europe,102
-2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",Northern America,Americas,19775
-2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",Northern Europe,Europe,2176
-2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",South-eastern Asia,Asia,669
-2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",Southern Europe,Europe,57413
-2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",Western Asia,Asia,2985
-2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",Western Europe,Europe,2553
-2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",World,World,85673
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",Eastern Europe,Europe,102,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",Northern America,Americas,19775,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",Northern Europe,Europe,2176,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",South-eastern Asia,Asia,669,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",Southern Europe,Europe,57413,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",Western Asia,Asia,2985,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",Western Europe,Europe,2553,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2000,2000,Export,Georgia,97,"Works of art, collectors pieces and antiques",World,World,85673,32.3293809,-83.1137366,,

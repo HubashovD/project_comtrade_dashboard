@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Asia,Asia,2912271
-2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Europe,Europe,2027485
-2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Latin America and the Caribbean,Americas,3980945
-2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Africa,Africa,858194
-2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern America,Americas,111620
-2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Europe,Europe,5210141
-2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",South-eastern Asia,Asia,726458
-2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Asia,Asia,111574
-2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Europe,Europe,19789487
-2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Sub-Saharan Africa,Africa,1692449
-2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Asia,Asia,63790
-2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Europe,Europe,16680012
-2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,56167565
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Asia,Asia,2912271,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Europe,Europe,2027485,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Latin America and the Caribbean,Americas,3980945,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Africa,Africa,858194,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern America,Americas,111620,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Europe,Europe,5210141,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",South-eastern Asia,Asia,726458,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Asia,Asia,111574,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Europe,Europe,19789487,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Sub-Saharan Africa,Africa,1692449,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Asia,Asia,63790,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Europe,Europe,16680012,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Import,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,56167565,34.9823018,33.1451285,,

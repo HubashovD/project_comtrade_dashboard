@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Georgia,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Europe,Europe,10364
-2000,2000,Import,Georgia,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern Europe,Europe,2810
-2000,2000,Import,Georgia,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Europe,Europe,600
-2000,2000,Import,Georgia,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Sub-Saharan Africa,Africa,7873
-2000,2000,Import,Georgia,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Asia,Asia,6850
-2000,2000,Import,Georgia,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Europe,Europe,16830
-2000,2000,Import,Georgia,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",World,World,45332
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Georgia,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Europe,Europe,10364,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2000,2000,Import,Georgia,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern Europe,Europe,2810,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2000,2000,Import,Georgia,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Europe,Europe,600,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2000,2000,Import,Georgia,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Sub-Saharan Africa,Africa,7873,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2000,2000,Import,Georgia,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Asia,Asia,6850,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2000,2000,Import,Georgia,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Europe,Europe,16830,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2000,2000,Import,Georgia,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",World,World,45332,32.3293809,-83.1137366,,

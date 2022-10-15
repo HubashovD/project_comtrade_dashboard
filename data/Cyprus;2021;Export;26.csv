@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Cyprus,26,"Ores, slag and ash",Eastern Asia,Asia,1479962
-2021,2021,Export,Cyprus,26,"Ores, slag and ash",Northern Africa,Africa,1632
-2021,2021,Export,Cyprus,26,"Ores, slag and ash",South-eastern Asia,Asia,156239
-2021,2021,Export,Cyprus,26,"Ores, slag and ash",World,World,1637835
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Cyprus,26,"Ores, slag and ash",Eastern Asia,Asia,1479962,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2021,2021,Export,Cyprus,26,"Ores, slag and ash",Northern Africa,Africa,1632,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2021,2021,Export,Cyprus,26,"Ores, slag and ash",South-eastern Asia,Asia,156239,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2021,2021,Export,Cyprus,26,"Ores, slag and ash",World,World,1637835,34.9823018,33.1451285,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Australia and New Zealand,Oceania,4039
-2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Eastern Asia,Asia,632
-2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Eastern Europe,Europe,161638
-2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,36340
-2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Northern Africa,Africa,20546
-2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Northern America,Americas,3706
-2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Northern Europe,Europe,228353
-2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,South-eastern Asia,Asia,1364
-2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Southern Asia,Asia,1076
-2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Southern Europe,Europe,2027621
-2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,69475
-2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Western Europe,Europe,1138701
-2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,World,World,3885730
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Australia and New Zealand,Oceania,4039,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Eastern Asia,Asia,632,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Eastern Europe,Europe,161638,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,36340,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Northern Africa,Africa,20546,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Northern America,Americas,3706,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Northern Europe,Europe,228353,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,South-eastern Asia,Asia,1364,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Southern Asia,Asia,1076,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Southern Europe,Europe,2027621,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,69475,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,Western Europe,Europe,1138701,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2021,2021,Re-Export,Cyprus,39,Plastics and articles thereof,World,World,3885730,34.9823018,33.1451285,,

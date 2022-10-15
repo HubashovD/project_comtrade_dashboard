@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Re-Export,Cyprus,29,Organic chemicals,Eastern Asia,Asia,13115
-2013,2013,Re-Export,Cyprus,29,Organic chemicals,Northern Africa,Africa,78346
-2013,2013,Re-Export,Cyprus,29,Organic chemicals,Northern America,Americas,18482
-2013,2013,Re-Export,Cyprus,29,Organic chemicals,South-eastern Asia,Asia,4754
-2013,2013,Re-Export,Cyprus,29,Organic chemicals,Southern Asia,Asia,11956
-2013,2013,Re-Export,Cyprus,29,Organic chemicals,Southern Europe,Europe,114007392
-2013,2013,Re-Export,Cyprus,29,Organic chemicals,Sub-Saharan Africa,Africa,34006
-2013,2013,Re-Export,Cyprus,29,Organic chemicals,Western Europe,Europe,229868
-2013,2013,Re-Export,Cyprus,29,Organic chemicals,World,World,115492931
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Re-Export,Cyprus,29,Organic chemicals,Eastern Asia,Asia,13115,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2013,2013,Re-Export,Cyprus,29,Organic chemicals,Northern Africa,Africa,78346,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2013,2013,Re-Export,Cyprus,29,Organic chemicals,Northern America,Americas,18482,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2013,2013,Re-Export,Cyprus,29,Organic chemicals,South-eastern Asia,Asia,4754,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2013,2013,Re-Export,Cyprus,29,Organic chemicals,Southern Asia,Asia,11956,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2013,2013,Re-Export,Cyprus,29,Organic chemicals,Southern Europe,Europe,114007392,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2013,2013,Re-Export,Cyprus,29,Organic chemicals,Sub-Saharan Africa,Africa,34006,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2013,2013,Re-Export,Cyprus,29,Organic chemicals,Western Europe,Europe,229868,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2013,2013,Re-Export,Cyprus,29,Organic chemicals,World,World,115492931,34.9823018,33.1451285,,

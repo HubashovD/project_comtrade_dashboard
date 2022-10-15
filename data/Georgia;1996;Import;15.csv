@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",Eastern Europe,Europe,514513
-1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",Northern America,Americas,1065028
-1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",Northern Europe,Europe,32244
-1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",South-eastern Asia,Asia,29263
-1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Asia,Asia,699
-1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Europe,Europe,177782
-1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",Western Asia,Asia,3649216
-1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",Western Europe,Europe,277724
-1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",World,World,5814407
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",Eastern Europe,Europe,514513,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",Northern America,Americas,1065028,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",Northern Europe,Europe,32244,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",South-eastern Asia,Asia,29263,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Asia,Asia,699,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Europe,Europe,177782,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",Western Asia,Asia,3649216,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",Western Europe,Europe,277724,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1996,1996,Import,Georgia,15,"Animal,vegetable fats and oils, cleavage products, et",World,World,5814407,32.3293809,-83.1137366,,

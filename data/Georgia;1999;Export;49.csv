@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Georgia,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,1593
-1999,1999,Export,Georgia,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,6507
-1999,1999,Export,Georgia,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,2500
-1999,1999,Export,Georgia,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,48179
-1999,1999,Export,Georgia,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,9964
-1999,1999,Export,Georgia,49,"Printed books, newspapers, pictures etc",World,World,105339
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Georgia,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,1593,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+1999,1999,Export,Georgia,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,6507,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Export,Georgia,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,2500,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1999,1999,Export,Georgia,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,48179,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1999,1999,Export,Georgia,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,9964,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Export,Georgia,49,"Printed books, newspapers, pictures etc",World,World,105339,32.3293809,-83.1137366,,

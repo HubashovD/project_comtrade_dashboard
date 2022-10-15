@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Eastern Asia,Asia,1593709
-2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Eastern Europe,Europe,8511
-2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,578
-2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Northern Africa,Africa,56914
-2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Northern America,Americas,12531
-2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Northern Europe,Europe,681460
-2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,South-eastern Asia,Asia,372861
-2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Southern Asia,Asia,37176
-2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Southern Europe,Europe,2849959
-2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Sub-Saharan Africa,Africa,8855
-2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Western Asia,Asia,45923
-2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Western Europe,Europe,1891640
-2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,World,World,8084916
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Eastern Asia,Asia,1593709,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Eastern Europe,Europe,8511,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,578,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Northern Africa,Africa,56914,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Northern America,Americas,12531,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Northern Europe,Europe,681460,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,South-eastern Asia,Asia,372861,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Southern Asia,Asia,37176,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Southern Europe,Europe,2849959,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Sub-Saharan Africa,Africa,8855,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Western Asia,Asia,45923,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,Western Europe,Europe,1891640,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2019,2019,Import,Cyprus,57,Carpets and other textile floor coverings,World,World,8084916,34.9823018,33.1451285,,

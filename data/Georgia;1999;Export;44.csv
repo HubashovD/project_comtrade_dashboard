@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Central Asia,Asia,12532
-1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Eastern Asia,Asia,228105
-1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Eastern Europe,Europe,103359
-1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Northern Africa,Africa,48212
-1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Northern America,Americas,22279
-1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Northern Europe,Europe,4261
-1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Southern Asia,Asia,46718
-1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Southern Europe,Europe,437487
-1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Western Asia,Asia,4288138
-1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Western Europe,Europe,109761
-1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",World,World,5606073
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Central Asia,Asia,12532,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Eastern Asia,Asia,228105,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Eastern Europe,Europe,103359,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Northern Africa,Africa,48212,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Northern America,Americas,22279,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Northern Europe,Europe,4261,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Southern Asia,Asia,46718,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Southern Europe,Europe,437487,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Western Asia,Asia,4288138,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",Western Europe,Europe,109761,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Export,Georgia,44,"Wood and articles of wood, wood charcoal",World,World,5606073,32.3293809,-83.1137366,,

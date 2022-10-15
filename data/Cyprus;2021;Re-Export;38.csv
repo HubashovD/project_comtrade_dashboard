@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Australia and New Zealand,Oceania,655
-2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Eastern Asia,Asia,597288
-2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Eastern Europe,Europe,9984
-2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,1303
-2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Northern Africa,Africa,3304
-2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Northern America,Americas,8913
-2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Northern Europe,Europe,5347
-2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,South-eastern Asia,Asia,12689
-2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Southern Asia,Asia,2302843
-2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Southern Europe,Europe,2059229
-2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,60005
-2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Western Europe,Europe,4632748
-2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,World,World,10125281
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Australia and New Zealand,Oceania,655,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Eastern Asia,Asia,597288,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Eastern Europe,Europe,9984,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,1303,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Northern Africa,Africa,3304,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Northern America,Americas,8913,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Northern Europe,Europe,5347,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,South-eastern Asia,Asia,12689,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Southern Asia,Asia,2302843,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Southern Europe,Europe,2059229,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,60005,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,Western Europe,Europe,4632748,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2021,2021,Re-Export,Cyprus,38,Chemical products n.e.c.,World,World,10125281,34.9823018,33.1451285,,

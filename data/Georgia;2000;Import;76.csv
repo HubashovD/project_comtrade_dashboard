@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Georgia,76,Aluminium and articles thereof,Eastern Europe,Europe,582500
-2000,2000,Import,Georgia,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,39
-2000,2000,Import,Georgia,76,Aluminium and articles thereof,Northern Africa,Africa,42925
-2000,2000,Import,Georgia,76,Aluminium and articles thereof,Northern America,Americas,29428
-2000,2000,Import,Georgia,76,Aluminium and articles thereof,Northern Europe,Europe,199818
-2000,2000,Import,Georgia,76,Aluminium and articles thereof,Polynesia,Oceania,57326
-2000,2000,Import,Georgia,76,Aluminium and articles thereof,Southern Asia,Asia,7568
-2000,2000,Import,Georgia,76,Aluminium and articles thereof,Southern Europe,Europe,169528
-2000,2000,Import,Georgia,76,Aluminium and articles thereof,Western Asia,Asia,580836
-2000,2000,Import,Georgia,76,Aluminium and articles thereof,Western Europe,Europe,827407
-2000,2000,Import,Georgia,76,Aluminium and articles thereof,World,World,2647541
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Georgia,76,Aluminium and articles thereof,Eastern Europe,Europe,582500,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2000,2000,Import,Georgia,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,39,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2000,2000,Import,Georgia,76,Aluminium and articles thereof,Northern Africa,Africa,42925,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2000,2000,Import,Georgia,76,Aluminium and articles thereof,Northern America,Americas,29428,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2000,2000,Import,Georgia,76,Aluminium and articles thereof,Northern Europe,Europe,199818,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2000,2000,Import,Georgia,76,Aluminium and articles thereof,Polynesia,Oceania,57326,32.3293809,-83.1137366,-5.109184731250752,167.40343615892436
+2000,2000,Import,Georgia,76,Aluminium and articles thereof,Southern Asia,Asia,7568,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2000,2000,Import,Georgia,76,Aluminium and articles thereof,Southern Europe,Europe,169528,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2000,2000,Import,Georgia,76,Aluminium and articles thereof,Western Asia,Asia,580836,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2000,2000,Import,Georgia,76,Aluminium and articles thereof,Western Europe,Europe,827407,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2000,2000,Import,Georgia,76,Aluminium and articles thereof,World,World,2647541,32.3293809,-83.1137366,,

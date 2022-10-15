@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Eastern Asia,Asia,32326
-1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Eastern Europe,Europe,171084
-1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,88280
-1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Northern Europe,Europe,71549
-1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Southern Asia,Asia,164564
-1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Southern Europe,Europe,288896
-1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,180940
-1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,655360
-1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",World,World,1660570
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Eastern Asia,Asia,32326,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Eastern Europe,Europe,171084,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,88280,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Northern Europe,Europe,71549,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Southern Asia,Asia,164564,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Southern Europe,Europe,288896,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,180940,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,655360,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Import,Georgia,19,"Cereal, flour, starch, milk preparations and products",World,World,1660570,32.3293809,-83.1137366,,

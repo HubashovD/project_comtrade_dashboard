@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,Eastern Asia,Asia,292459
-2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,Eastern Europe,Europe,97016
-2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,2734
-2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,Northern Africa,Africa,50575
-2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,Northern Europe,Europe,1812959
-2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,Southern Asia,Asia,2974565
-2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,Southern Europe,Europe,869182
-2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,World,World,8549118
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,Eastern Asia,Asia,292459,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,Eastern Europe,Europe,97016,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,2734,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,Northern Africa,Africa,50575,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,Northern Europe,Europe,1812959,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,Southern Asia,Asia,2974565,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,Southern Europe,Europe,869182,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2017,2017,Re-Export,Cyprus,38,Chemical products n.e.c.,World,World,8549118,34.9823018,33.1451285,,

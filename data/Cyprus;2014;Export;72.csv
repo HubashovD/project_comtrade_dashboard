@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Export,Cyprus,72,Iron and steel,Eastern Asia,Asia,698955
-2014,2014,Export,Cyprus,72,Iron and steel,Northern America,Americas,105294
-2014,2014,Export,Cyprus,72,Iron and steel,Northern Europe,Europe,1256121
-2014,2014,Export,Cyprus,72,Iron and steel,South-eastern Asia,Asia,67041
-2014,2014,Export,Cyprus,72,Iron and steel,Southern Europe,Europe,22472903
-2014,2014,Export,Cyprus,72,Iron and steel,Western Europe,Europe,889050
-2014,2014,Export,Cyprus,72,Iron and steel,World,World,28549324
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Export,Cyprus,72,Iron and steel,Eastern Asia,Asia,698955,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2014,2014,Export,Cyprus,72,Iron and steel,Northern America,Americas,105294,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2014,2014,Export,Cyprus,72,Iron and steel,Northern Europe,Europe,1256121,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2014,2014,Export,Cyprus,72,Iron and steel,South-eastern Asia,Asia,67041,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2014,2014,Export,Cyprus,72,Iron and steel,Southern Europe,Europe,22472903,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2014,2014,Export,Cyprus,72,Iron and steel,Western Europe,Europe,889050,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2014,2014,Export,Cyprus,72,Iron and steel,World,World,28549324,34.9823018,33.1451285,,

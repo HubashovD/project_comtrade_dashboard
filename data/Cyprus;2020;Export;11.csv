@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Australia and New Zealand,Oceania,1173
-2020,2020,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern America,Americas,745
-2020,2020,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern Europe,Europe,1531821
-2020,2020,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Southern Asia,Asia,65002
-2020,2020,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Southern Europe,Europe,292256
-2020,2020,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Sub-Saharan Africa,Africa,102
-2020,2020,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",World,World,2402860
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Australia and New Zealand,Oceania,1173,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2020,2020,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern America,Americas,745,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2020,2020,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern Europe,Europe,1531821,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2020,2020,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Southern Asia,Asia,65002,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2020,2020,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Southern Europe,Europe,292256,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Sub-Saharan Africa,Africa,102,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2020,2020,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",World,World,2402860,34.9823018,33.1451285,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,25746
-2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Latin America and the Caribbean,Americas,100
-2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,191
-2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,667
-2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,6850
-2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,586
-2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,78834
-2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",World,World,177425
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,25746,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Latin America and the Caribbean,Americas,100,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,191,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,667,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,6850,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,586,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,78834,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2002,2002,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",World,World,177425,32.3293809,-83.1137366,,

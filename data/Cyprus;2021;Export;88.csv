@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Australia and New Zealand,Oceania,253088
-2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,13286991
-2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,107031
-2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Northern Europe,Europe,11083234
-2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",South-eastern Asia,Asia,80475
-2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Southern Asia,Asia,1244
-2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Sub-Saharan Africa,Africa,71228
-2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",World,World,25267447
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Australia and New Zealand,Oceania,253088,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,13286991,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,107031,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Northern Europe,Europe,11083234,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",South-eastern Asia,Asia,80475,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Southern Asia,Asia,1244,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Sub-Saharan Africa,Africa,71228,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2021,2021,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",World,World,25267447,34.9823018,33.1451285,,

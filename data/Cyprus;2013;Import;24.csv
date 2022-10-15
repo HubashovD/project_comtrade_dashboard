@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Eastern Asia,Asia,244
-2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,10795374
-2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,44320047
-2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Northern Africa,Africa,30
-2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,516935
-2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,13108773
-2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,South-eastern Asia,Asia,74328
-2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,18659129
-2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Sub-Saharan Africa,Africa,1570780
-2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,6
-2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,19216022
-2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,World,World,111333584
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Eastern Asia,Asia,244,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,10795374,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,44320047,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Northern Africa,Africa,30,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,516935,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,13108773,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,South-eastern Asia,Asia,74328,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,18659129,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Sub-Saharan Africa,Africa,1570780,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,6,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,19216022,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2013,2013,Import,Cyprus,24,Tobacco and manufactured tobacco substitutes,World,World,111333584,34.9823018,33.1451285,,

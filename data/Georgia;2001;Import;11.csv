@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",Eastern Asia,Asia,63304
-2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",Eastern Europe,Europe,2308565
-2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",Northern America,Americas,532095
-2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",Northern Europe,Europe,29692
-2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",Southern Europe,Europe,9967198
-2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",Western Asia,Asia,15323983
-2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",Western Europe,Europe,370006
-2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",World,World,28601064
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",Eastern Asia,Asia,63304,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",Eastern Europe,Europe,2308565,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",Northern America,Americas,532095,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",Northern Europe,Europe,29692,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",Southern Europe,Europe,9967198,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",Western Asia,Asia,15323983,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",Western Europe,Europe,370006,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2001,2001,Import,Georgia,11,"Milling products, malt, starches, inulin, wheat gluten",World,World,28601064,32.3293809,-83.1137366,,

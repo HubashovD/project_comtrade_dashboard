@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Australia and New Zealand,Oceania,664550
-1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,1895146
-1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,941093
-1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,360168
-1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Southern Asia,Asia,106899
-1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,2308
-1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,3367620
-1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,2577118
-1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",World,World,12375424
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Australia and New Zealand,Oceania,664550,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,1895146,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,941093,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,360168,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Southern Asia,Asia,106899,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,2308,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,3367620,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,2577118,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1998,1998,Import,Georgia,4,"Dairy products, eggs, honey, edible animal product nes",World,World,12375424,32.3293809,-83.1137366,,

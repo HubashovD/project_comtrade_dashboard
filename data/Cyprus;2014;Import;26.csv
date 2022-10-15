@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Cyprus,26,"Ores, slag and ash",Eastern Europe,Europe,26095
-2014,2014,Import,Cyprus,26,"Ores, slag and ash",Southern Europe,Europe,22865
-2014,2014,Import,Cyprus,26,"Ores, slag and ash",Western Europe,Europe,112320
-2014,2014,Import,Cyprus,26,"Ores, slag and ash",World,World,161282
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Cyprus,26,"Ores, slag and ash",Eastern Europe,Europe,26095,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2014,2014,Import,Cyprus,26,"Ores, slag and ash",Southern Europe,Europe,22865,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2014,2014,Import,Cyprus,26,"Ores, slag and ash",Western Europe,Europe,112320,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2014,2014,Import,Cyprus,26,"Ores, slag and ash",World,World,161282,34.9823018,33.1451285,,

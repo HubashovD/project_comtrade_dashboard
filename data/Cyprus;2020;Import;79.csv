@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Cyprus,79,Zinc and articles thereof,Eastern Asia,Asia,19810
-2020,2020,Import,Cyprus,79,Zinc and articles thereof,Eastern Europe,Europe,530
-2020,2020,Import,Cyprus,79,Zinc and articles thereof,Northern America,Americas,726
-2020,2020,Import,Cyprus,79,Zinc and articles thereof,Northern Europe,Europe,176690
-2020,2020,Import,Cyprus,79,Zinc and articles thereof,South-eastern Asia,Asia,6
-2020,2020,Import,Cyprus,79,Zinc and articles thereof,Southern Europe,Europe,256281
-2020,2020,Import,Cyprus,79,Zinc and articles thereof,Western Europe,Europe,57985
-2020,2020,Import,Cyprus,79,Zinc and articles thereof,World,World,512712
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Cyprus,79,Zinc and articles thereof,Eastern Asia,Asia,19810,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2020,2020,Import,Cyprus,79,Zinc and articles thereof,Eastern Europe,Europe,530,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Import,Cyprus,79,Zinc and articles thereof,Northern America,Americas,726,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2020,2020,Import,Cyprus,79,Zinc and articles thereof,Northern Europe,Europe,176690,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2020,2020,Import,Cyprus,79,Zinc and articles thereof,South-eastern Asia,Asia,6,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2020,2020,Import,Cyprus,79,Zinc and articles thereof,Southern Europe,Europe,256281,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Import,Cyprus,79,Zinc and articles thereof,Western Europe,Europe,57985,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Import,Cyprus,79,Zinc and articles thereof,World,World,512712,34.9823018,33.1451285,,

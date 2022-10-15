@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Georgia,54,Manmade filaments,Eastern Asia,Asia,758
-2000,2000,Import,Georgia,54,Manmade filaments,Eastern Europe,Europe,4019
-2000,2000,Import,Georgia,54,Manmade filaments,Northern America,Americas,28953
-2000,2000,Import,Georgia,54,Manmade filaments,Southern Asia,Asia,1965
-2000,2000,Import,Georgia,54,Manmade filaments,Southern Europe,Europe,27268
-2000,2000,Import,Georgia,54,Manmade filaments,Western Asia,Asia,10631
-2000,2000,Import,Georgia,54,Manmade filaments,Western Europe,Europe,604980
-2000,2000,Import,Georgia,54,Manmade filaments,World,World,679456
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Georgia,54,Manmade filaments,Eastern Asia,Asia,758,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2000,2000,Import,Georgia,54,Manmade filaments,Eastern Europe,Europe,4019,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2000,2000,Import,Georgia,54,Manmade filaments,Northern America,Americas,28953,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2000,2000,Import,Georgia,54,Manmade filaments,Southern Asia,Asia,1965,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2000,2000,Import,Georgia,54,Manmade filaments,Southern Europe,Europe,27268,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2000,2000,Import,Georgia,54,Manmade filaments,Western Asia,Asia,10631,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2000,2000,Import,Georgia,54,Manmade filaments,Western Europe,Europe,604980,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2000,2000,Import,Georgia,54,Manmade filaments,World,World,679456,32.3293809,-83.1137366,,

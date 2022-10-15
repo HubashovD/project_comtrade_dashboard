@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Georgia,69,Ceramic products,Central Asia,Asia,435
-2000,2000,Import,Georgia,69,Ceramic products,Eastern Asia,Asia,18338
-2000,2000,Import,Georgia,69,Ceramic products,Eastern Europe,Europe,825836
-2000,2000,Import,Georgia,69,Ceramic products,Latin America and the Caribbean,Americas,19555
-2000,2000,Import,Georgia,69,Ceramic products,Northern America,Americas,20871
-2000,2000,Import,Georgia,69,Ceramic products,Northern Europe,Europe,38106
-2000,2000,Import,Georgia,69,Ceramic products,Polynesia,Oceania,956
-2000,2000,Import,Georgia,69,Ceramic products,Southern Asia,Asia,225865
-2000,2000,Import,Georgia,69,Ceramic products,Southern Europe,Europe,1075034
-2000,2000,Import,Georgia,69,Ceramic products,Sub-Saharan Africa,Africa,1024
-2000,2000,Import,Georgia,69,Ceramic products,Western Asia,Asia,1852749
-2000,2000,Import,Georgia,69,Ceramic products,Western Europe,Europe,176290
-2000,2000,Import,Georgia,69,Ceramic products,World,World,4447049
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Georgia,69,Ceramic products,Central Asia,Asia,435,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2000,2000,Import,Georgia,69,Ceramic products,Eastern Asia,Asia,18338,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2000,2000,Import,Georgia,69,Ceramic products,Eastern Europe,Europe,825836,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2000,2000,Import,Georgia,69,Ceramic products,Latin America and the Caribbean,Americas,19555,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2000,2000,Import,Georgia,69,Ceramic products,Northern America,Americas,20871,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2000,2000,Import,Georgia,69,Ceramic products,Northern Europe,Europe,38106,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2000,2000,Import,Georgia,69,Ceramic products,Polynesia,Oceania,956,32.3293809,-83.1137366,-5.109184731250752,167.40343615892436
+2000,2000,Import,Georgia,69,Ceramic products,Southern Asia,Asia,225865,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2000,2000,Import,Georgia,69,Ceramic products,Southern Europe,Europe,1075034,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2000,2000,Import,Georgia,69,Ceramic products,Sub-Saharan Africa,Africa,1024,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2000,2000,Import,Georgia,69,Ceramic products,Western Asia,Asia,1852749,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2000,2000,Import,Georgia,69,Ceramic products,Western Europe,Europe,176290,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2000,2000,Import,Georgia,69,Ceramic products,World,World,4447049,32.3293809,-83.1137366,,

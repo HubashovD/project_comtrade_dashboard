@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",Eastern Europe,Europe,521027
-2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",Latin America and the Caribbean,Americas,47916
-2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",Northern America,Americas,248672
-2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",Southern Asia,Asia,483
-2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,45599
-2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",Western Asia,Asia,124860
-2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,231846
-2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",World,World,1270742
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",Eastern Europe,Europe,521027,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",Latin America and the Caribbean,Americas,47916,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",Northern America,Americas,248672,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",Southern Asia,Asia,483,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,45599,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",Western Asia,Asia,124860,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,231846,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2002,2002,Import,Georgia,23,"Residues, wastes of food industry, animal fodder",World,World,1270742,32.3293809,-83.1137366,,

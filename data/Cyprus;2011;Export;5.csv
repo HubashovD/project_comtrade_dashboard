@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,742651
-2011,2011,Export,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,5956
-2011,2011,Export,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Northern Europe,Europe,42
-2011,2011,Export,Cyprus,5,"Products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,19898
-2011,2011,Export,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Southern Europe,Europe,452158
-2011,2011,Export,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Western Europe,Europe,152052
-2011,2011,Export,Cyprus,5,"Products of animal origin, not elsewhere specified or included",World,World,1507050
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,742651,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2011,2011,Export,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,5956,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2011,2011,Export,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Northern Europe,Europe,42,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2011,2011,Export,Cyprus,5,"Products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,19898,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2011,2011,Export,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Southern Europe,Europe,452158,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2011,2011,Export,Cyprus,5,"Products of animal origin, not elsewhere specified or included",Western Europe,Europe,152052,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2011,2011,Export,Cyprus,5,"Products of animal origin, not elsewhere specified or included",World,World,1507050,34.9823018,33.1451285,,

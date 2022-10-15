@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern America,Americas,2121
-2017,2017,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern Europe,Europe,1408253
-2017,2017,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Southern Asia,Asia,49200
-2017,2017,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Southern Europe,Europe,327141
-2017,2017,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Sub-Saharan Africa,Africa,816
-2017,2017,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",World,World,5145479
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern America,Americas,2121,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2017,2017,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Northern Europe,Europe,1408253,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2017,2017,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Southern Asia,Asia,49200,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2017,2017,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Southern Europe,Europe,327141,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2017,2017,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Sub-Saharan Africa,Africa,816,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2017,2017,Export,Cyprus,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",World,World,5145479,34.9823018,33.1451285,,

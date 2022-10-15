@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Cyprus,10,Cereals,Eastern Asia,Asia,26690
-2016,2016,Import,Cyprus,10,Cereals,Eastern Europe,Europe,80761292
-2016,2016,Import,Cyprus,10,Cereals,Latin America and the Caribbean,Americas,860781
-2016,2016,Import,Cyprus,10,Cereals,Northern America,Americas,202377
-2016,2016,Import,Cyprus,10,Cereals,Northern Europe,Europe,505282
-2016,2016,Import,Cyprus,10,Cereals,South-eastern Asia,Asia,838834
-2016,2016,Import,Cyprus,10,Cereals,Southern Asia,Asia,14452
-2016,2016,Import,Cyprus,10,Cereals,Southern Europe,Europe,6603140
-2016,2016,Import,Cyprus,10,Cereals,Western Asia,Asia,2398
-2016,2016,Import,Cyprus,10,Cereals,Western Europe,Europe,11911804
-2016,2016,Import,Cyprus,10,Cereals,World,World,102622950
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Cyprus,10,Cereals,Eastern Asia,Asia,26690,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2016,2016,Import,Cyprus,10,Cereals,Eastern Europe,Europe,80761292,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2016,2016,Import,Cyprus,10,Cereals,Latin America and the Caribbean,Americas,860781,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2016,2016,Import,Cyprus,10,Cereals,Northern America,Americas,202377,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2016,2016,Import,Cyprus,10,Cereals,Northern Europe,Europe,505282,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2016,2016,Import,Cyprus,10,Cereals,South-eastern Asia,Asia,838834,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2016,2016,Import,Cyprus,10,Cereals,Southern Asia,Asia,14452,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2016,2016,Import,Cyprus,10,Cereals,Southern Europe,Europe,6603140,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2016,2016,Import,Cyprus,10,Cereals,Western Asia,Asia,2398,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2016,2016,Import,Cyprus,10,Cereals,Western Europe,Europe,11911804,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2016,2016,Import,Cyprus,10,Cereals,World,World,102622950,34.9823018,33.1451285,,

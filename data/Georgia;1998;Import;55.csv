@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Georgia,55,Manmade staple fibres,Eastern Europe,Europe,28333
-1998,1998,Import,Georgia,55,Manmade staple fibres,Southern Asia,Asia,5291
-1998,1998,Import,Georgia,55,Manmade staple fibres,Southern Europe,Europe,1093
-1998,1998,Import,Georgia,55,Manmade staple fibres,Western Asia,Asia,42974
-1998,1998,Import,Georgia,55,Manmade staple fibres,Western Europe,Europe,969741
-1998,1998,Import,Georgia,55,Manmade staple fibres,World,World,1048934
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Georgia,55,Manmade staple fibres,Eastern Europe,Europe,28333,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1998,1998,Import,Georgia,55,Manmade staple fibres,Southern Asia,Asia,5291,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1998,1998,Import,Georgia,55,Manmade staple fibres,Southern Europe,Europe,1093,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1998,1998,Import,Georgia,55,Manmade staple fibres,Western Asia,Asia,42974,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1998,1998,Import,Georgia,55,Manmade staple fibres,Western Europe,Europe,969741,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1998,1998,Import,Georgia,55,Manmade staple fibres,World,World,1048934,32.3293809,-83.1137366,,

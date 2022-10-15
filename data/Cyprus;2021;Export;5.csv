@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,309909
-2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,166830
-2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,10198
-2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,911686
-2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,1285615
-2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,Sub-Saharan Africa,Africa,279046
-2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,297536
-2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,World,World,3555798
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,309909,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,166830,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,10198,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,911686,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,1285615,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,Sub-Saharan Africa,Africa,279046,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,297536,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2021,2021,Export,Cyprus,5,Animal originated products; not elsewhere specified or included,World,World,3555798,34.9823018,33.1451285,,

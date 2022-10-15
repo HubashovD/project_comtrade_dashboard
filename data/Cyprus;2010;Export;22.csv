@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,264759
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,195349
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,395106
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,19155
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Northern Africa,Africa,53637
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Northern America,Americas,293865
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Northern Europe,Europe,2963702
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Polynesia,Oceania,5799
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,599681
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Southern Asia,Asia,93522
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Southern Europe,Europe,1323561
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,592243
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Western Asia,Asia,6993
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Western Europe,Europe,817712
-2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",World,World,10234537
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,264759,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,195349,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,395106,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,19155,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Northern Africa,Africa,53637,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Northern America,Americas,293865,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Northern Europe,Europe,2963702,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Polynesia,Oceania,5799,34.9823018,33.1451285,-5.109184731250752,167.40343615892436
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,599681,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Southern Asia,Asia,93522,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Southern Europe,Europe,1323561,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,592243,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Western Asia,Asia,6993,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",Western Europe,Europe,817712,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2010,2010,Export,Cyprus,22,"Beverages, spirits and vinegar",World,World,10234537,34.9823018,33.1451285,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Australia and New Zealand,Oceania,37432
-2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Eastern Asia,Asia,454
-2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Eastern Europe,Europe,762314
-2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Latin America and the Caribbean,Americas,2334
-2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Northern Africa,Africa,1419
-2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Northern America,Americas,17622
-2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Northern Europe,Europe,1883102
-2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,South-eastern Asia,Asia,26841
-2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Southern Europe,Europe,2482190
-2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Sub-Saharan Africa,Africa,7942
-2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Western Europe,Europe,106307
-2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,World,World,8846610
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Australia and New Zealand,Oceania,37432,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Eastern Asia,Asia,454,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Eastern Europe,Europe,762314,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Latin America and the Caribbean,Americas,2334,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Northern Africa,Africa,1419,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Northern America,Americas,17622,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Northern Europe,Europe,1883102,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,South-eastern Asia,Asia,26841,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Southern Europe,Europe,2482190,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Sub-Saharan Africa,Africa,7942,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,Western Europe,Europe,106307,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2011,2011,Export,Cyprus,21,Miscellaneous edible preparations,World,World,8846610,34.9823018,33.1451285,,

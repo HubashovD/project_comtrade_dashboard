@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Georgia,88,"Aircraft, spacecraft, and parts thereof",Central Asia,Asia,35828423
-2003,2003,Export,Georgia,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,131460
-2003,2003,Export,Georgia,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,14339
-2003,2003,Export,Georgia,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,60220
-2003,2003,Export,Georgia,88,"Aircraft, spacecraft, and parts thereof",World,World,36642588
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Georgia,88,"Aircraft, spacecraft, and parts thereof",Central Asia,Asia,35828423,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2003,2003,Export,Georgia,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,131460,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2003,2003,Export,Georgia,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,14339,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2003,2003,Export,Georgia,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,60220,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2003,2003,Export,Georgia,88,"Aircraft, spacecraft, and parts thereof",World,World,36642588,32.3293809,-83.1137366,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Export,Cyprus,1,Animals; live,Australia and New Zealand,Oceania,1963
-2013,2013,Export,Cyprus,1,Animals; live,Eastern Asia,Asia,796
-2013,2013,Export,Cyprus,1,Animals; live,Eastern Europe,Europe,398
-2013,2013,Export,Cyprus,1,Animals; live,Latin America and the Caribbean,Americas,398
-2013,2013,Export,Cyprus,1,Animals; live,Melanesia,Oceania,663
-2013,2013,Export,Cyprus,1,Animals; live,Northern Africa,Africa,398
-2013,2013,Export,Cyprus,1,Animals; live,Northern America,Americas,7616
-2013,2013,Export,Cyprus,1,Animals; live,South-eastern Asia,Asia,1391
-2013,2013,Export,Cyprus,1,Animals; live,Southern Asia,Asia,729
-2013,2013,Export,Cyprus,1,Animals; live,Southern Europe,Europe,84379
-2013,2013,Export,Cyprus,1,Animals; live,Sub-Saharan Africa,Africa,1180
-2013,2013,Export,Cyprus,1,Animals; live,Western Europe,Europe,2985
-2013,2013,Export,Cyprus,1,Animals; live,World,World,2942934
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Export,Cyprus,1,Animals; live,Australia and New Zealand,Oceania,1963,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2013,2013,Export,Cyprus,1,Animals; live,Eastern Asia,Asia,796,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2013,2013,Export,Cyprus,1,Animals; live,Eastern Europe,Europe,398,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2013,2013,Export,Cyprus,1,Animals; live,Latin America and the Caribbean,Americas,398,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2013,2013,Export,Cyprus,1,Animals; live,Melanesia,Oceania,663,34.9823018,33.1451285,1.0108650891006263,147.3257485906919
+2013,2013,Export,Cyprus,1,Animals; live,Northern Africa,Africa,398,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2013,2013,Export,Cyprus,1,Animals; live,Northern America,Americas,7616,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2013,2013,Export,Cyprus,1,Animals; live,South-eastern Asia,Asia,1391,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2013,2013,Export,Cyprus,1,Animals; live,Southern Asia,Asia,729,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2013,2013,Export,Cyprus,1,Animals; live,Southern Europe,Europe,84379,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2013,2013,Export,Cyprus,1,Animals; live,Sub-Saharan Africa,Africa,1180,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2013,2013,Export,Cyprus,1,Animals; live,Western Europe,Europe,2985,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2013,2013,Export,Cyprus,1,Animals; live,World,World,2942934,34.9823018,33.1451285,,

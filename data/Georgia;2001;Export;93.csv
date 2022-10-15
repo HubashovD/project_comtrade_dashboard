@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Georgia,93,"Arms and ammunition, parts and accessories thereof",Central Asia,Asia,67
-2001,2001,Export,Georgia,93,"Arms and ammunition, parts and accessories thereof",Northern Europe,Europe,2421
-2001,2001,Export,Georgia,93,"Arms and ammunition, parts and accessories thereof",World,World,2689
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Georgia,93,"Arms and ammunition, parts and accessories thereof",Central Asia,Asia,67,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2001,2001,Export,Georgia,93,"Arms and ammunition, parts and accessories thereof",Northern Europe,Europe,2421,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2001,2001,Export,Georgia,93,"Arms and ammunition, parts and accessories thereof",World,World,2689,32.3293809,-83.1137366,,

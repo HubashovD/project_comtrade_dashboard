@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Cyprus,29,Organic chemicals,Eastern Asia,Asia,25179623
-2014,2014,Import,Cyprus,29,Organic chemicals,Eastern Europe,Europe,2234117
-2014,2014,Import,Cyprus,29,Organic chemicals,Latin America and the Caribbean,Americas,877035
-2014,2014,Import,Cyprus,29,Organic chemicals,Northern Africa,Africa,53841
-2014,2014,Import,Cyprus,29,Organic chemicals,Northern America,Americas,523553
-2014,2014,Import,Cyprus,29,Organic chemicals,Northern Europe,Europe,1818744
-2014,2014,Import,Cyprus,29,Organic chemicals,South-eastern Asia,Asia,646744
-2014,2014,Import,Cyprus,29,Organic chemicals,Southern Europe,Europe,43195549
-2014,2014,Import,Cyprus,29,Organic chemicals,Sub-Saharan Africa,Africa,41025
-2014,2014,Import,Cyprus,29,Organic chemicals,Western Asia,Asia,2202
-2014,2014,Import,Cyprus,29,Organic chemicals,Western Europe,Europe,13317387
-2014,2014,Import,Cyprus,29,Organic chemicals,World,World,117732517
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Cyprus,29,Organic chemicals,Eastern Asia,Asia,25179623,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2014,2014,Import,Cyprus,29,Organic chemicals,Eastern Europe,Europe,2234117,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2014,2014,Import,Cyprus,29,Organic chemicals,Latin America and the Caribbean,Americas,877035,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2014,2014,Import,Cyprus,29,Organic chemicals,Northern Africa,Africa,53841,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2014,2014,Import,Cyprus,29,Organic chemicals,Northern America,Americas,523553,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2014,2014,Import,Cyprus,29,Organic chemicals,Northern Europe,Europe,1818744,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2014,2014,Import,Cyprus,29,Organic chemicals,South-eastern Asia,Asia,646744,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2014,2014,Import,Cyprus,29,Organic chemicals,Southern Europe,Europe,43195549,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2014,2014,Import,Cyprus,29,Organic chemicals,Sub-Saharan Africa,Africa,41025,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2014,2014,Import,Cyprus,29,Organic chemicals,Western Asia,Asia,2202,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2014,2014,Import,Cyprus,29,Organic chemicals,Western Europe,Europe,13317387,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2014,2014,Import,Cyprus,29,Organic chemicals,World,World,117732517,34.9823018,33.1451285,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Australia and New Zealand,Oceania,315587
-2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Central Asia,Asia,5026
-2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Asia,Asia,26799
-2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Europe,Europe,770150
-2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern America,Americas,359780
-2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern Europe,Europe,148859
-2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Southern Europe,Europe,164737
-2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Europe,Europe,138156
-2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",World,World,2014240
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Australia and New Zealand,Oceania,315587,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Central Asia,Asia,5026,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Asia,Asia,26799,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Europe,Europe,770150,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern America,Americas,359780,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern Europe,Europe,148859,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Southern Europe,Europe,164737,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Europe,Europe,138156,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2003,2003,Import,Georgia,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",World,World,2014240,32.3293809,-83.1137366,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Eastern Europe,Europe,264733
-1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern America,Americas,2593
-1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern Europe,Europe,1468
-1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Southern Asia,Asia,972
-1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Southern Europe,Europe,3822
-1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Asia,Asia,1438
-1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Europe,Europe,101134
-1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",World,World,498277
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Eastern Europe,Europe,264733,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern America,Americas,2593,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern Europe,Europe,1468,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Southern Asia,Asia,972,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Southern Europe,Europe,3822,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Asia,Asia,1438,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Europe,Europe,101134,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1998,1998,Import,Georgia,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",World,World,498277,32.3293809,-83.1137366,,

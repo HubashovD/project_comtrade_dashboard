@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Cyprus,50,Silk,Eastern Asia,Asia,2937
-2017,2017,Import,Cyprus,50,Silk,Northern America,Americas,169
-2017,2017,Import,Cyprus,50,Silk,Northern Europe,Europe,1338
-2017,2017,Import,Cyprus,50,Silk,South-eastern Asia,Asia,760
-2017,2017,Import,Cyprus,50,Silk,Southern Europe,Europe,39841
-2017,2017,Import,Cyprus,50,Silk,Western Europe,Europe,32509
-2017,2017,Import,Cyprus,50,Silk,World,World,94393
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Cyprus,50,Silk,Eastern Asia,Asia,2937,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2017,2017,Import,Cyprus,50,Silk,Northern America,Americas,169,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2017,2017,Import,Cyprus,50,Silk,Northern Europe,Europe,1338,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2017,2017,Import,Cyprus,50,Silk,South-eastern Asia,Asia,760,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2017,2017,Import,Cyprus,50,Silk,Southern Europe,Europe,39841,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2017,2017,Import,Cyprus,50,Silk,Western Europe,Europe,32509,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2017,2017,Import,Cyprus,50,Silk,World,World,94393,34.9823018,33.1451285,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",Central Asia,Asia,9896
-1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Europe,Europe,39204
-1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",Northern America,Americas,6156
-1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",Northern Europe,Europe,29402
-1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",Southern Europe,Europe,69660
-1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",Western Asia,Asia,5444
-1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",Western Europe,Europe,30816
-1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",World,World,275728
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",Central Asia,Asia,9896,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Europe,Europe,39204,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",Northern America,Americas,6156,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",Northern Europe,Europe,29402,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",Southern Europe,Europe,69660,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",Western Asia,Asia,5444,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",Western Europe,Europe,30816,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Export,Georgia,94,"Furniture, lighting, signs, prefabricated buildings",World,World,275728,32.3293809,-83.1137366,,

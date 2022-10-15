@@ -1,18 +1,18 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Australia and New Zealand,Oceania,47355
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Asia,Asia,10967024
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Europe,Europe,18576
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Latin America and the Caribbean,Americas,1004897
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Melanesia,Oceania,254721
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Micronesia,Oceania,24762
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Africa,Africa,821926
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern America,Americas,734314
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Europe,Europe,2184615
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Polynesia,Oceania,24132
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",South-eastern Asia,Asia,4328742
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Asia,Asia,569420
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Europe,Europe,1776973
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Sub-Saharan Africa,Africa,3593154
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Asia,Asia,186055
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Europe,Europe,1708758
-2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,33385997
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Australia and New Zealand,Oceania,47355,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Asia,Asia,10967024,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Europe,Europe,18576,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Latin America and the Caribbean,Americas,1004897,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Melanesia,Oceania,254721,34.9823018,33.1451285,1.0108650891006263,147.3257485906919
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Micronesia,Oceania,24762,34.9823018,33.1451285,6.418559504495792,157.6364476938912
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Africa,Africa,821926,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern America,Americas,734314,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Europe,Europe,2184615,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Polynesia,Oceania,24132,34.9823018,33.1451285,-5.109184731250752,167.40343615892436
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",South-eastern Asia,Asia,4328742,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Asia,Asia,569420,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Europe,Europe,1776973,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Sub-Saharan Africa,Africa,3593154,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Asia,Asia,186055,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Europe,Europe,1708758,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Export,Cyprus,20,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,33385997,34.9823018,33.1451285,,

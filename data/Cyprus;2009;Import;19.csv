@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Australia and New Zealand,Oceania,52631
-2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Eastern Asia,Asia,302007
-2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Eastern Europe,Europe,785354
-2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern Africa,Africa,2588
-2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern America,Americas,564524
-2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern Europe,Europe,24458752
-2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",South-eastern Asia,Asia,1216311
-2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Southern Asia,Asia,41888
-2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Southern Europe,Europe,54021420
-2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Sub-Saharan Africa,Africa,226461
-2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Western Asia,Asia,259425
-2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Western Europe,Europe,19075558
-2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",World,World,101325071
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Australia and New Zealand,Oceania,52631,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Eastern Asia,Asia,302007,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Eastern Europe,Europe,785354,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern Africa,Africa,2588,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern America,Americas,564524,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern Europe,Europe,24458752,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",South-eastern Asia,Asia,1216311,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Southern Asia,Asia,41888,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Southern Europe,Europe,54021420,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Sub-Saharan Africa,Africa,226461,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Western Asia,Asia,259425,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Western Europe,Europe,19075558,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2009,2009,Import,Cyprus,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",World,World,101325071,34.9823018,33.1451285,,

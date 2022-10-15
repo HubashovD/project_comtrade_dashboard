@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Export,Cyprus,29,Organic chemicals,Eastern Asia,Asia,22012
-2019,2019,Export,Cyprus,29,Organic chemicals,Northern Africa,Africa,77918
-2019,2019,Export,Cyprus,29,Organic chemicals,Northern America,Americas,4589
-2019,2019,Export,Cyprus,29,Organic chemicals,Northern Europe,Europe,22563
-2019,2019,Export,Cyprus,29,Organic chemicals,South-eastern Asia,Asia,153127
-2019,2019,Export,Cyprus,29,Organic chemicals,Southern Europe,Europe,43863004
-2019,2019,Export,Cyprus,29,Organic chemicals,Western Asia,Asia,1309482
-2019,2019,Export,Cyprus,29,Organic chemicals,Western Europe,Europe,4121609
-2019,2019,Export,Cyprus,29,Organic chemicals,World,World,49971800
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Export,Cyprus,29,Organic chemicals,Eastern Asia,Asia,22012,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2019,2019,Export,Cyprus,29,Organic chemicals,Northern Africa,Africa,77918,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2019,2019,Export,Cyprus,29,Organic chemicals,Northern America,Americas,4589,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2019,2019,Export,Cyprus,29,Organic chemicals,Northern Europe,Europe,22563,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2019,2019,Export,Cyprus,29,Organic chemicals,South-eastern Asia,Asia,153127,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2019,2019,Export,Cyprus,29,Organic chemicals,Southern Europe,Europe,43863004,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2019,2019,Export,Cyprus,29,Organic chemicals,Western Asia,Asia,1309482,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2019,2019,Export,Cyprus,29,Organic chemicals,Western Europe,Europe,4121609,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2019,2019,Export,Cyprus,29,Organic chemicals,World,World,49971800,34.9823018,33.1451285,,

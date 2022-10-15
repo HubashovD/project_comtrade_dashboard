@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Australia and New Zealand,Oceania,15020
-2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Eastern Asia,Asia,249673
-2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Eastern Europe,Europe,1229602
-2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Latin America and the Caribbean,Americas,161034
-2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Northern America,Americas,28056
-2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Northern Europe,Europe,145616
-2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Polynesia,Oceania,8807
-2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Southern Europe,Europe,598508
-2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Western Asia,Asia,30029
-2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Western Europe,Europe,2227346
-2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",World,World,4705255
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Australia and New Zealand,Oceania,15020,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Eastern Asia,Asia,249673,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Eastern Europe,Europe,1229602,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Latin America and the Caribbean,Americas,161034,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Northern America,Americas,28056,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Northern Europe,Europe,145616,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Polynesia,Oceania,8807,32.3293809,-83.1137366,-5.109184731250752,167.40343615892436
+2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Southern Europe,Europe,598508,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Western Asia,Asia,30029,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",Western Europe,Europe,2227346,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2001,2001,Import,Georgia,16,"Meat, fish and seafood food preparations nes",World,World,4705255,32.3293809,-83.1137366,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Cyprus,45,Cork and articles of cork,Eastern Asia,Asia,18186
-2014,2014,Import,Cyprus,45,Cork and articles of cork,Northern America,Americas,114
-2014,2014,Import,Cyprus,45,Cork and articles of cork,Northern Europe,Europe,1611
-2014,2014,Import,Cyprus,45,Cork and articles of cork,Southern Europe,Europe,636926
-2014,2014,Import,Cyprus,45,Cork and articles of cork,Western Europe,Europe,10791
-2014,2014,Import,Cyprus,45,Cork and articles of cork,World,World,668524
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Cyprus,45,Cork and articles of cork,Eastern Asia,Asia,18186,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2014,2014,Import,Cyprus,45,Cork and articles of cork,Northern America,Americas,114,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2014,2014,Import,Cyprus,45,Cork and articles of cork,Northern Europe,Europe,1611,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2014,2014,Import,Cyprus,45,Cork and articles of cork,Southern Europe,Europe,636926,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2014,2014,Import,Cyprus,45,Cork and articles of cork,Western Europe,Europe,10791,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2014,2014,Import,Cyprus,45,Cork and articles of cork,World,World,668524,34.9823018,33.1451285,,

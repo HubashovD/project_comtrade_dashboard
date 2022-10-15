@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Re-Export,Cyprus,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,890
-2020,2020,Re-Export,Cyprus,76,Aluminium and articles thereof,Eastern Europe,Europe,893
-2020,2020,Re-Export,Cyprus,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,439
-2020,2020,Re-Export,Cyprus,76,Aluminium and articles thereof,Northern Europe,Europe,817
-2020,2020,Re-Export,Cyprus,76,Aluminium and articles thereof,Southern Europe,Europe,226843
-2020,2020,Re-Export,Cyprus,76,Aluminium and articles thereof,Western Europe,Europe,14697
-2020,2020,Re-Export,Cyprus,76,Aluminium and articles thereof,World,World,304305
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Re-Export,Cyprus,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,890,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2020,2020,Re-Export,Cyprus,76,Aluminium and articles thereof,Eastern Europe,Europe,893,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Re-Export,Cyprus,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,439,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2020,2020,Re-Export,Cyprus,76,Aluminium and articles thereof,Northern Europe,Europe,817,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2020,2020,Re-Export,Cyprus,76,Aluminium and articles thereof,Southern Europe,Europe,226843,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Re-Export,Cyprus,76,Aluminium and articles thereof,Western Europe,Europe,14697,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Re-Export,Cyprus,76,Aluminium and articles thereof,World,World,304305,34.9823018,33.1451285,,

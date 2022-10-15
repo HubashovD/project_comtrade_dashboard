@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,322829
-2016,2016,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Latin America and the Caribbean,Americas,552
-2016,2016,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,83914
-2016,2016,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Northern Europe,Europe,2383684
-2016,2016,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Southern Europe,Europe,69312
-2016,2016,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,389157
-2016,2016,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",World,World,4302153
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,322829,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2016,2016,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Latin America and the Caribbean,Americas,552,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2016,2016,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,83914,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2016,2016,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Northern Europe,Europe,2383684,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2016,2016,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Southern Europe,Europe,69312,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2016,2016,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,389157,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2016,2016,Export,Cyprus,88,"Aircraft, spacecraft and parts thereof",World,World,4302153,34.9823018,33.1451285,,

@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Cyprus,52,Cotton,Eastern Asia,Asia,14836
-2016,2016,Export,Cyprus,52,Cotton,Northern America,Americas,252
-2016,2016,Export,Cyprus,52,Cotton,Southern Europe,Europe,25829
-2016,2016,Export,Cyprus,52,Cotton,World,World,40918
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Cyprus,52,Cotton,Eastern Asia,Asia,14836,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2016,2016,Export,Cyprus,52,Cotton,Northern America,Americas,252,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2016,2016,Export,Cyprus,52,Cotton,Southern Europe,Europe,25829,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2016,2016,Export,Cyprus,52,Cotton,World,World,40918,34.9823018,33.1451285,,

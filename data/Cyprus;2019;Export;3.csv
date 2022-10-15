@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,67255
-2019,2019,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,430117
-2019,2019,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,2263925
-2019,2019,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,66569
-2019,2019,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,2216615
-2019,2019,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,1908304
-2019,2019,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,38393181
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,67255,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2019,2019,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,430117,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2019,2019,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,2263925,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2019,2019,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,66569,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2019,2019,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,2216615,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2019,2019,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,1908304,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2019,2019,Export,Cyprus,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,38393181,34.9823018,33.1451285,,

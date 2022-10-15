@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Export,Cyprus,72,Iron and steel,Eastern Asia,Asia,31728
-2019,2019,Export,Cyprus,72,Iron and steel,Northern America,Americas,414
-2019,2019,Export,Cyprus,72,Iron and steel,South-eastern Asia,Asia,42036
-2019,2019,Export,Cyprus,72,Iron and steel,Southern Europe,Europe,20452205
-2019,2019,Export,Cyprus,72,Iron and steel,Western Asia,Asia,47
-2019,2019,Export,Cyprus,72,Iron and steel,Western Europe,Europe,445158
-2019,2019,Export,Cyprus,72,Iron and steel,World,World,22963208
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Export,Cyprus,72,Iron and steel,Eastern Asia,Asia,31728,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2019,2019,Export,Cyprus,72,Iron and steel,Northern America,Americas,414,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2019,2019,Export,Cyprus,72,Iron and steel,South-eastern Asia,Asia,42036,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2019,2019,Export,Cyprus,72,Iron and steel,Southern Europe,Europe,20452205,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2019,2019,Export,Cyprus,72,Iron and steel,Western Asia,Asia,47,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2019,2019,Export,Cyprus,72,Iron and steel,Western Europe,Europe,445158,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2019,2019,Export,Cyprus,72,Iron and steel,World,World,22963208,34.9823018,33.1451285,,

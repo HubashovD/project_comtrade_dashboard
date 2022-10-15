@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Cyprus,70,Glass and glassware,Australia and New Zealand,Oceania,747
-2017,2017,Export,Cyprus,70,Glass and glassware,Eastern Europe,Europe,1392
-2017,2017,Export,Cyprus,70,Glass and glassware,Northern Europe,Europe,34106
-2017,2017,Export,Cyprus,70,Glass and glassware,Southern Asia,Asia,1132
-2017,2017,Export,Cyprus,70,Glass and glassware,Southern Europe,Europe,88018
-2017,2017,Export,Cyprus,70,Glass and glassware,Western Europe,Europe,309320
-2017,2017,Export,Cyprus,70,Glass and glassware,World,World,481867
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Cyprus,70,Glass and glassware,Australia and New Zealand,Oceania,747,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2017,2017,Export,Cyprus,70,Glass and glassware,Eastern Europe,Europe,1392,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2017,2017,Export,Cyprus,70,Glass and glassware,Northern Europe,Europe,34106,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2017,2017,Export,Cyprus,70,Glass and glassware,Southern Asia,Asia,1132,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2017,2017,Export,Cyprus,70,Glass and glassware,Southern Europe,Europe,88018,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2017,2017,Export,Cyprus,70,Glass and glassware,Western Europe,Europe,309320,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2017,2017,Export,Cyprus,70,Glass and glassware,World,World,481867,34.9823018,33.1451285,,

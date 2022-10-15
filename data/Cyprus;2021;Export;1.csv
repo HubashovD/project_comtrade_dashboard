@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Cyprus,1,Animals; live,Australia and New Zealand,Oceania,54727
-2021,2021,Export,Cyprus,1,Animals; live,Eastern Asia,Asia,973
-2021,2021,Export,Cyprus,1,Animals; live,Eastern Europe,Europe,5970
-2021,2021,Export,Cyprus,1,Animals; live,Latin America and the Caribbean,Americas,6016
-2021,2021,Export,Cyprus,1,Animals; live,Northern Africa,Africa,41078
-2021,2021,Export,Cyprus,1,Animals; live,Northern America,Americas,58470
-2021,2021,Export,Cyprus,1,Animals; live,Northern Europe,Europe,1056355
-2021,2021,Export,Cyprus,1,Animals; live,South-eastern Asia,Asia,8208
-2021,2021,Export,Cyprus,1,Animals; live,Southern Asia,Asia,149882
-2021,2021,Export,Cyprus,1,Animals; live,Southern Europe,Europe,4798
-2021,2021,Export,Cyprus,1,Animals; live,Sub-Saharan Africa,Africa,10300
-2021,2021,Export,Cyprus,1,Animals; live,Western Europe,Europe,354
-2021,2021,Export,Cyprus,1,Animals; live,World,World,3636014
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Cyprus,1,Animals; live,Australia and New Zealand,Oceania,54727,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2021,2021,Export,Cyprus,1,Animals; live,Eastern Asia,Asia,973,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2021,2021,Export,Cyprus,1,Animals; live,Eastern Europe,Europe,5970,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2021,2021,Export,Cyprus,1,Animals; live,Latin America and the Caribbean,Americas,6016,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2021,2021,Export,Cyprus,1,Animals; live,Northern Africa,Africa,41078,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2021,2021,Export,Cyprus,1,Animals; live,Northern America,Americas,58470,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2021,2021,Export,Cyprus,1,Animals; live,Northern Europe,Europe,1056355,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2021,2021,Export,Cyprus,1,Animals; live,South-eastern Asia,Asia,8208,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2021,2021,Export,Cyprus,1,Animals; live,Southern Asia,Asia,149882,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2021,2021,Export,Cyprus,1,Animals; live,Southern Europe,Europe,4798,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2021,2021,Export,Cyprus,1,Animals; live,Sub-Saharan Africa,Africa,10300,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2021,2021,Export,Cyprus,1,Animals; live,Western Europe,Europe,354,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2021,2021,Export,Cyprus,1,Animals; live,World,World,3636014,34.9823018,33.1451285,,

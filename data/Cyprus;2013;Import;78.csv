@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Cyprus,78,Lead and articles thereof,Eastern Asia,Asia,7291
-2013,2013,Import,Cyprus,78,Lead and articles thereof,Northern America,Americas,154
-2013,2013,Import,Cyprus,78,Lead and articles thereof,Northern Europe,Europe,44807
-2013,2013,Import,Cyprus,78,Lead and articles thereof,Southern Europe,Europe,7496
-2013,2013,Import,Cyprus,78,Lead and articles thereof,World,World,69678
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Cyprus,78,Lead and articles thereof,Eastern Asia,Asia,7291,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2013,2013,Import,Cyprus,78,Lead and articles thereof,Northern America,Americas,154,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2013,2013,Import,Cyprus,78,Lead and articles thereof,Northern Europe,Europe,44807,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2013,2013,Import,Cyprus,78,Lead and articles thereof,Southern Europe,Europe,7496,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2013,2013,Import,Cyprus,78,Lead and articles thereof,World,World,69678,34.9823018,33.1451285,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Re-Export,Cyprus,29,Organic chemicals,Latin America and the Caribbean,Americas,33954
-2014,2014,Re-Export,Cyprus,29,Organic chemicals,Northern Africa,Africa,19094
-2014,2014,Re-Export,Cyprus,29,Organic chemicals,Northern Europe,Europe,1425
-2014,2014,Re-Export,Cyprus,29,Organic chemicals,Southern Europe,Europe,70567183
-2014,2014,Re-Export,Cyprus,29,Organic chemicals,Western Europe,Europe,425402
-2014,2014,Re-Export,Cyprus,29,Organic chemicals,World,World,71114244
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Re-Export,Cyprus,29,Organic chemicals,Latin America and the Caribbean,Americas,33954,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2014,2014,Re-Export,Cyprus,29,Organic chemicals,Northern Africa,Africa,19094,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2014,2014,Re-Export,Cyprus,29,Organic chemicals,Northern Europe,Europe,1425,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2014,2014,Re-Export,Cyprus,29,Organic chemicals,Southern Europe,Europe,70567183,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2014,2014,Re-Export,Cyprus,29,Organic chemicals,Western Europe,Europe,425402,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2014,2014,Re-Export,Cyprus,29,Organic chemicals,World,World,71114244,34.9823018,33.1451285,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Cyprus,31,Fertilizers,Eastern Asia,Asia,105730
-2020,2020,Import,Cyprus,31,Fertilizers,Eastern Europe,Europe,34977
-2020,2020,Import,Cyprus,31,Fertilizers,Northern America,Americas,165670
-2020,2020,Import,Cyprus,31,Fertilizers,Northern Europe,Europe,64645
-2020,2020,Import,Cyprus,31,Fertilizers,Southern Europe,Europe,15700053
-2020,2020,Import,Cyprus,31,Fertilizers,Western Europe,Europe,3260713
-2020,2020,Import,Cyprus,31,Fertilizers,World,World,19694550
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Cyprus,31,Fertilizers,Eastern Asia,Asia,105730,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2020,2020,Import,Cyprus,31,Fertilizers,Eastern Europe,Europe,34977,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Import,Cyprus,31,Fertilizers,Northern America,Americas,165670,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2020,2020,Import,Cyprus,31,Fertilizers,Northern Europe,Europe,64645,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2020,2020,Import,Cyprus,31,Fertilizers,Southern Europe,Europe,15700053,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Import,Cyprus,31,Fertilizers,Western Europe,Europe,3260713,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Import,Cyprus,31,Fertilizers,World,World,19694550,34.9823018,33.1451285,,

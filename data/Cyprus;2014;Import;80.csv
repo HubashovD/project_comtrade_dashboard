@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Cyprus,80,Tin; articles thereof,Eastern Asia,Asia,7302
-2014,2014,Import,Cyprus,80,Tin; articles thereof,Northern America,Americas,104
-2014,2014,Import,Cyprus,80,Tin; articles thereof,Northern Europe,Europe,20450
-2014,2014,Import,Cyprus,80,Tin; articles thereof,Southern Europe,Europe,22630
-2014,2014,Import,Cyprus,80,Tin; articles thereof,Western Europe,Europe,24940
-2014,2014,Import,Cyprus,80,Tin; articles thereof,World,World,75430
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Cyprus,80,Tin; articles thereof,Eastern Asia,Asia,7302,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2014,2014,Import,Cyprus,80,Tin; articles thereof,Northern America,Americas,104,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2014,2014,Import,Cyprus,80,Tin; articles thereof,Northern Europe,Europe,20450,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2014,2014,Import,Cyprus,80,Tin; articles thereof,Southern Europe,Europe,22630,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2014,2014,Import,Cyprus,80,Tin; articles thereof,Western Europe,Europe,24940,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2014,2014,Import,Cyprus,80,Tin; articles thereof,World,World,75430,34.9823018,33.1451285,,

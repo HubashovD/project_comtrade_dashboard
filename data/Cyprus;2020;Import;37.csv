@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Cyprus,37,Photographic or cinematographic goods,Eastern Asia,Asia,109743
-2020,2020,Import,Cyprus,37,Photographic or cinematographic goods,Eastern Europe,Europe,2339
-2020,2020,Import,Cyprus,37,Photographic or cinematographic goods,Northern America,Americas,802
-2020,2020,Import,Cyprus,37,Photographic or cinematographic goods,Northern Europe,Europe,293861
-2020,2020,Import,Cyprus,37,Photographic or cinematographic goods,Southern Europe,Europe,2034089
-2020,2020,Import,Cyprus,37,Photographic or cinematographic goods,Western Europe,Europe,1246849
-2020,2020,Import,Cyprus,37,Photographic or cinematographic goods,World,World,3695149
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Cyprus,37,Photographic or cinematographic goods,Eastern Asia,Asia,109743,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2020,2020,Import,Cyprus,37,Photographic or cinematographic goods,Eastern Europe,Europe,2339,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2020,2020,Import,Cyprus,37,Photographic or cinematographic goods,Northern America,Americas,802,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2020,2020,Import,Cyprus,37,Photographic or cinematographic goods,Northern Europe,Europe,293861,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2020,2020,Import,Cyprus,37,Photographic or cinematographic goods,Southern Europe,Europe,2034089,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2020,2020,Import,Cyprus,37,Photographic or cinematographic goods,Western Europe,Europe,1246849,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2020,2020,Import,Cyprus,37,Photographic or cinematographic goods,World,World,3695149,34.9823018,33.1451285,,

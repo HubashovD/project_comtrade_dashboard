@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Georgia,29,Organic chemicals,Australia and New Zealand,Oceania,56424
-1999,1999,Import,Georgia,29,Organic chemicals,Eastern Europe,Europe,255980
-1999,1999,Import,Georgia,29,Organic chemicals,Northern America,Americas,71784
-1999,1999,Import,Georgia,29,Organic chemicals,Northern Europe,Europe,69282
-1999,1999,Import,Georgia,29,Organic chemicals,Southern Europe,Europe,153281
-1999,1999,Import,Georgia,29,Organic chemicals,Western Asia,Asia,20448
-1999,1999,Import,Georgia,29,Organic chemicals,Western Europe,Europe,214200
-1999,1999,Import,Georgia,29,Organic chemicals,World,World,957264
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Georgia,29,Organic chemicals,Australia and New Zealand,Oceania,56424,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+1999,1999,Import,Georgia,29,Organic chemicals,Eastern Europe,Europe,255980,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1999,1999,Import,Georgia,29,Organic chemicals,Northern America,Americas,71784,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1999,1999,Import,Georgia,29,Organic chemicals,Northern Europe,Europe,69282,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1999,1999,Import,Georgia,29,Organic chemicals,Southern Europe,Europe,153281,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1999,1999,Import,Georgia,29,Organic chemicals,Western Asia,Asia,20448,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1999,1999,Import,Georgia,29,Organic chemicals,Western Europe,Europe,214200,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1999,1999,Import,Georgia,29,Organic chemicals,World,World,957264,32.3293809,-83.1137366,,

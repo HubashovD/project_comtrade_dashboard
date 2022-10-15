@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,58295
-2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,36630
-2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,6659165
-2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,1941977
-2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Northern America,Americas,1452299
-2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Northern Europe,Europe,47094181
-2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,5997422
-2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Southern Asia,Asia,4798
-2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Southern Europe,Europe,48304670
-2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,486352
-2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Western Asia,Asia,133824
-2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Western Europe,Europe,53595109
-2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",World,World,172493160
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,58295,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,36630,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,6659165,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,1941977,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Northern America,Americas,1452299,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Northern Europe,Europe,47094181,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,5997422,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Southern Asia,Asia,4798,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Southern Europe,Europe,48304670,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,486352,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Western Asia,Asia,133824,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",Western Europe,Europe,53595109,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2013,2013,Import,Cyprus,22,"Beverages, spirits and vinegar",World,World,172493160,34.9823018,33.1451285,,

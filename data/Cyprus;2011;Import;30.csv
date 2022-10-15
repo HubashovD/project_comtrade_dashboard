@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Cyprus,30,Pharmaceutical products,Australia and New Zealand,Oceania,1067855
-2011,2011,Import,Cyprus,30,Pharmaceutical products,Eastern Asia,Asia,6284319
-2011,2011,Import,Cyprus,30,Pharmaceutical products,Eastern Europe,Europe,1389827
-2011,2011,Import,Cyprus,30,Pharmaceutical products,Latin America and the Caribbean,Americas,34034
-2011,2011,Import,Cyprus,30,Pharmaceutical products,Northern Africa,Africa,73740
-2011,2011,Import,Cyprus,30,Pharmaceutical products,Northern America,Americas,2393812
-2011,2011,Import,Cyprus,30,Pharmaceutical products,Northern Europe,Europe,43013367
-2011,2011,Import,Cyprus,30,Pharmaceutical products,South-eastern Asia,Asia,31682
-2011,2011,Import,Cyprus,30,Pharmaceutical products,Southern Asia,Asia,81
-2011,2011,Import,Cyprus,30,Pharmaceutical products,Southern Europe,Europe,114383574
-2011,2011,Import,Cyprus,30,Pharmaceutical products,Sub-Saharan Africa,Africa,7633
-2011,2011,Import,Cyprus,30,Pharmaceutical products,Western Asia,Asia,385120
-2011,2011,Import,Cyprus,30,Pharmaceutical products,Western Europe,Europe,129422948
-2011,2011,Import,Cyprus,30,Pharmaceutical products,World,World,302226677
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Cyprus,30,Pharmaceutical products,Australia and New Zealand,Oceania,1067855,34.9823018,33.1451285,-16.85099460447687,133.4130365630627
+2011,2011,Import,Cyprus,30,Pharmaceutical products,Eastern Asia,Asia,6284319,34.9823018,33.1451285,37.977378106878206,73.97804075806764
+2011,2011,Import,Cyprus,30,Pharmaceutical products,Eastern Europe,Europe,1389827,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2011,2011,Import,Cyprus,30,Pharmaceutical products,Latin America and the Caribbean,Americas,34034,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
+2011,2011,Import,Cyprus,30,Pharmaceutical products,Northern Africa,Africa,73740,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2011,2011,Import,Cyprus,30,Pharmaceutical products,Northern America,Americas,2393812,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
+2011,2011,Import,Cyprus,30,Pharmaceutical products,Northern Europe,Europe,43013367,34.9823018,33.1451285,59.36075159783851,25.01346951967388
+2011,2011,Import,Cyprus,30,Pharmaceutical products,South-eastern Asia,Asia,31682,34.9823018,33.1451285,10.528384761701911,103.08333472012376
+2011,2011,Import,Cyprus,30,Pharmaceutical products,Southern Asia,Asia,81,34.9823018,33.1451285,25.499703063807168,75.5024015339642
+2011,2011,Import,Cyprus,30,Pharmaceutical products,Southern Europe,Europe,114383574,34.9823018,33.1451285,40.12399607988535,20.742583178432696
+2011,2011,Import,Cyprus,30,Pharmaceutical products,Sub-Saharan Africa,Africa,7633,34.9823018,33.1451285,6.06272746187266,22.727528470146083
+2011,2011,Import,Cyprus,30,Pharmaceutical products,Western Asia,Asia,385120,34.9823018,33.1451285,26.42921218083572,52.86847103284948
+2011,2011,Import,Cyprus,30,Pharmaceutical products,Western Europe,Europe,129422948,34.9823018,33.1451285,47.92172048214207,7.866753258497997
+2011,2011,Import,Cyprus,30,Pharmaceutical products,World,World,302226677,34.9823018,33.1451285,,
