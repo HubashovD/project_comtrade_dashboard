@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,Georgia,39,Plastics and articles thereof,Australia and New Zealand,Oceania,50
-2011,2011,Export,Georgia,39,Plastics and articles thereof,Central Asia,Asia,182238
-2011,2011,Export,Georgia,39,Plastics and articles thereof,Eastern Asia,Asia,30292
-2011,2011,Export,Georgia,39,Plastics and articles thereof,Eastern Europe,Europe,320781
-2011,2011,Export,Georgia,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,3
-2011,2011,Export,Georgia,39,Plastics and articles thereof,Northern America,Americas,995
-2011,2011,Export,Georgia,39,Plastics and articles thereof,Northern Europe,Europe,28264
-2011,2011,Export,Georgia,39,Plastics and articles thereof,South-eastern Asia,Asia,27225
-2011,2011,Export,Georgia,39,Plastics and articles thereof,Southern Asia,Asia,358
-2011,2011,Export,Georgia,39,Plastics and articles thereof,Southern Europe,Europe,1290
-2011,2011,Export,Georgia,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,860
-2011,2011,Export,Georgia,39,Plastics and articles thereof,Western Asia,Asia,283017
-2011,2011,Export,Georgia,39,Plastics and articles thereof,Western Europe,Europe,12053
-2011,2011,Export,Georgia,39,Plastics and articles thereof,World,World,2934243
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,Georgia,39,Plastics and articles thereof,Australia and New Zealand,Oceania,50,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2011,2011,Export,Georgia,39,Plastics and articles thereof,Central Asia,Asia,182238,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2011,2011,Export,Georgia,39,Plastics and articles thereof,Eastern Asia,Asia,30292,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2011,2011,Export,Georgia,39,Plastics and articles thereof,Eastern Europe,Europe,320781,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2011,2011,Export,Georgia,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,3,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2011,2011,Export,Georgia,39,Plastics and articles thereof,Northern America,Americas,995,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2011,2011,Export,Georgia,39,Plastics and articles thereof,Northern Europe,Europe,28264,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2011,2011,Export,Georgia,39,Plastics and articles thereof,South-eastern Asia,Asia,27225,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2011,2011,Export,Georgia,39,Plastics and articles thereof,Southern Asia,Asia,358,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2011,2011,Export,Georgia,39,Plastics and articles thereof,Southern Europe,Europe,1290,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2011,2011,Export,Georgia,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,860,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2011,2011,Export,Georgia,39,Plastics and articles thereof,Western Asia,Asia,283017,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2011,2011,Export,Georgia,39,Plastics and articles thereof,Western Europe,Europe,12053,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2011,2011,Export,Georgia,39,Plastics and articles thereof,World,World,2934243,32.3293809,-83.1137366,,

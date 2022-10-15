@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Georgia,2,Meat and edible meat offal,Eastern Asia,Asia,544393
-2006,2006,Import,Georgia,2,Meat and edible meat offal,Eastern Europe,Europe,518792
-2006,2006,Import,Georgia,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,15893755
-2006,2006,Import,Georgia,2,Meat and edible meat offal,Northern America,Americas,13931941
-2006,2006,Import,Georgia,2,Meat and edible meat offal,Northern Europe,Europe,80368
-2006,2006,Import,Georgia,2,Meat and edible meat offal,Southern Asia,Asia,519
-2006,2006,Import,Georgia,2,Meat and edible meat offal,Southern Europe,Europe,1257456
-2006,2006,Import,Georgia,2,Meat and edible meat offal,Western Asia,Asia,46694
-2006,2006,Import,Georgia,2,Meat and edible meat offal,Western Europe,Europe,4935656
-2006,2006,Import,Georgia,2,Meat and edible meat offal,World,World,41630637
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Georgia,2,Meat and edible meat offal,Eastern Asia,Asia,544393,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2006,2006,Import,Georgia,2,Meat and edible meat offal,Eastern Europe,Europe,518792,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2006,2006,Import,Georgia,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,15893755,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2006,2006,Import,Georgia,2,Meat and edible meat offal,Northern America,Americas,13931941,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2006,2006,Import,Georgia,2,Meat and edible meat offal,Northern Europe,Europe,80368,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2006,2006,Import,Georgia,2,Meat and edible meat offal,Southern Asia,Asia,519,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2006,2006,Import,Georgia,2,Meat and edible meat offal,Southern Europe,Europe,1257456,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2006,2006,Import,Georgia,2,Meat and edible meat offal,Western Asia,Asia,46694,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2006,2006,Import,Georgia,2,Meat and edible meat offal,Western Europe,Europe,4935656,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2006,2006,Import,Georgia,2,Meat and edible meat offal,World,World,41630637,32.3293809,-83.1137366,,

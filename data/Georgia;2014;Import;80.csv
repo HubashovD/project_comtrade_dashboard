@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Georgia,80,Tin; articles thereof,Eastern Asia,Asia,3104
-2014,2014,Import,Georgia,80,Tin; articles thereof,Eastern Europe,Europe,47431
-2014,2014,Import,Georgia,80,Tin; articles thereof,Northern Europe,Europe,2294
-2014,2014,Import,Georgia,80,Tin; articles thereof,Southern Europe,Europe,35700
-2014,2014,Import,Georgia,80,Tin; articles thereof,Western Asia,Asia,2043
-2014,2014,Import,Georgia,80,Tin; articles thereof,Western Europe,Europe,17700
-2014,2014,Import,Georgia,80,Tin; articles thereof,World,World,141665
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Georgia,80,Tin; articles thereof,Eastern Asia,Asia,3104,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2014,2014,Import,Georgia,80,Tin; articles thereof,Eastern Europe,Europe,47431,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2014,2014,Import,Georgia,80,Tin; articles thereof,Northern Europe,Europe,2294,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2014,2014,Import,Georgia,80,Tin; articles thereof,Southern Europe,Europe,35700,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2014,2014,Import,Georgia,80,Tin; articles thereof,Western Asia,Asia,2043,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2014,2014,Import,Georgia,80,Tin; articles thereof,Western Europe,Europe,17700,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2014,2014,Import,Georgia,80,Tin; articles thereof,World,World,141665,32.3293809,-83.1137366,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Georgia,80,Tin and articles thereof,Eastern Asia,Asia,543
-2011,2011,Import,Georgia,80,Tin and articles thereof,Eastern Europe,Europe,112256
-2011,2011,Import,Georgia,80,Tin and articles thereof,Northern America,Americas,283
-2011,2011,Import,Georgia,80,Tin and articles thereof,Northern Europe,Europe,1344
-2011,2011,Import,Georgia,80,Tin and articles thereof,Western Asia,Asia,2580
-2011,2011,Import,Georgia,80,Tin and articles thereof,Western Europe,Europe,1607
-2011,2011,Import,Georgia,80,Tin and articles thereof,World,World,120872
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Georgia,80,Tin and articles thereof,Eastern Asia,Asia,543,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2011,2011,Import,Georgia,80,Tin and articles thereof,Eastern Europe,Europe,112256,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2011,2011,Import,Georgia,80,Tin and articles thereof,Northern America,Americas,283,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2011,2011,Import,Georgia,80,Tin and articles thereof,Northern Europe,Europe,1344,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2011,2011,Import,Georgia,80,Tin and articles thereof,Western Asia,Asia,2580,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2011,2011,Import,Georgia,80,Tin and articles thereof,Western Europe,Europe,1607,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2011,2011,Import,Georgia,80,Tin and articles thereof,World,World,120872,32.3293809,-83.1137366,,

@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Export,Georgia,29,Organic chemicals,Central Asia,Asia,81821
-2007,2007,Export,Georgia,29,Organic chemicals,Eastern Europe,Europe,269370
-2007,2007,Export,Georgia,29,Organic chemicals,Western Europe,Europe,31340
-2007,2007,Export,Georgia,29,Organic chemicals,World,World,416081
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Export,Georgia,29,Organic chemicals,Central Asia,Asia,81821,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2007,2007,Export,Georgia,29,Organic chemicals,Eastern Europe,Europe,269370,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2007,2007,Export,Georgia,29,Organic chemicals,Western Europe,Europe,31340,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2007,2007,Export,Georgia,29,Organic chemicals,World,World,416081,32.3293809,-83.1137366,,

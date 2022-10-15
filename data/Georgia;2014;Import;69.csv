@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Georgia,69,Ceramic products,Australia and New Zealand,Oceania,2
-2014,2014,Import,Georgia,69,Ceramic products,Central Asia,Asia,5912
-2014,2014,Import,Georgia,69,Ceramic products,Eastern Asia,Asia,28775866
-2014,2014,Import,Georgia,69,Ceramic products,Eastern Europe,Europe,2897126
-2014,2014,Import,Georgia,69,Ceramic products,Latin America and the Caribbean,Americas,16626
-2014,2014,Import,Georgia,69,Ceramic products,Northern Africa,Africa,6992
-2014,2014,Import,Georgia,69,Ceramic products,Northern America,Americas,46339
-2014,2014,Import,Georgia,69,Ceramic products,Northern Europe,Europe,353312
-2014,2014,Import,Georgia,69,Ceramic products,South-eastern Asia,Asia,31142
-2014,2014,Import,Georgia,69,Ceramic products,Southern Asia,Asia,18211215
-2014,2014,Import,Georgia,69,Ceramic products,Southern Europe,Europe,13879563
-2014,2014,Import,Georgia,69,Ceramic products,Western Asia,Asia,20790899
-2014,2014,Import,Georgia,69,Ceramic products,Western Europe,Europe,2825956
-2014,2014,Import,Georgia,69,Ceramic products,World,World,91065668
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Georgia,69,Ceramic products,Australia and New Zealand,Oceania,2,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2014,2014,Import,Georgia,69,Ceramic products,Central Asia,Asia,5912,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2014,2014,Import,Georgia,69,Ceramic products,Eastern Asia,Asia,28775866,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2014,2014,Import,Georgia,69,Ceramic products,Eastern Europe,Europe,2897126,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2014,2014,Import,Georgia,69,Ceramic products,Latin America and the Caribbean,Americas,16626,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2014,2014,Import,Georgia,69,Ceramic products,Northern Africa,Africa,6992,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2014,2014,Import,Georgia,69,Ceramic products,Northern America,Americas,46339,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2014,2014,Import,Georgia,69,Ceramic products,Northern Europe,Europe,353312,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2014,2014,Import,Georgia,69,Ceramic products,South-eastern Asia,Asia,31142,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2014,2014,Import,Georgia,69,Ceramic products,Southern Asia,Asia,18211215,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2014,2014,Import,Georgia,69,Ceramic products,Southern Europe,Europe,13879563,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2014,2014,Import,Georgia,69,Ceramic products,Western Asia,Asia,20790899,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2014,2014,Import,Georgia,69,Ceramic products,Western Europe,Europe,2825956,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2014,2014,Import,Georgia,69,Ceramic products,World,World,91065668,32.3293809,-83.1137366,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Export,Georgia,65,Headgear and parts thereof,Australia and New Zealand,Oceania,10
-2007,2007,Export,Georgia,65,Headgear and parts thereof,Northern America,Americas,2692
-2007,2007,Export,Georgia,65,Headgear and parts thereof,Northern Europe,Europe,163
-2007,2007,Export,Georgia,65,Headgear and parts thereof,Western Asia,Asia,524
-2007,2007,Export,Georgia,65,Headgear and parts thereof,Western Europe,Europe,9
-2007,2007,Export,Georgia,65,Headgear and parts thereof,World,World,11523
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Export,Georgia,65,Headgear and parts thereof,Australia and New Zealand,Oceania,10,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2007,2007,Export,Georgia,65,Headgear and parts thereof,Northern America,Americas,2692,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2007,2007,Export,Georgia,65,Headgear and parts thereof,Northern Europe,Europe,163,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2007,2007,Export,Georgia,65,Headgear and parts thereof,Western Asia,Asia,524,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2007,2007,Export,Georgia,65,Headgear and parts thereof,Western Europe,Europe,9,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2007,2007,Export,Georgia,65,Headgear and parts thereof,World,World,11523,32.3293809,-83.1137366,,

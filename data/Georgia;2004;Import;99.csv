@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Import,Georgia,99,Commodities not elsewhere specified,Southern Asia,Asia,9000
-2004,2004,Import,Georgia,99,Commodities not elsewhere specified,Southern Europe,Europe,300
-2004,2004,Import,Georgia,99,Commodities not elsewhere specified,Western Europe,Europe,665709
-2004,2004,Import,Georgia,99,Commodities not elsewhere specified,World,World,34674063
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Import,Georgia,99,Commodities not elsewhere specified,Southern Asia,Asia,9000,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2004,2004,Import,Georgia,99,Commodities not elsewhere specified,Southern Europe,Europe,300,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2004,2004,Import,Georgia,99,Commodities not elsewhere specified,Western Europe,Europe,665709,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2004,2004,Import,Georgia,99,Commodities not elsewhere specified,World,World,34674063,32.3293809,-83.1137366,,

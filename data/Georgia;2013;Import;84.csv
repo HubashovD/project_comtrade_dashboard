@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Australia and New Zealand,Oceania,153304
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Central Asia,Asia,368924
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Eastern Asia,Asia,166589291
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Eastern Europe,Europe,66849725
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Latin America and the Caribbean,Americas,7839382
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Micronesia,Oceania,598
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Northern Africa,Africa,2821166
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Northern America,Americas,14504528
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Northern Europe,Europe,35695553
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",South-eastern Asia,Asia,19582941
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Southern Asia,Asia,2842774
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Southern Europe,Europe,82193442
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Sub-Saharan Africa,Africa,198764
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Western Asia,Asia,133548466
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Western Europe,Europe,122495582
-2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",World,World,720867273
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Australia and New Zealand,Oceania,153304,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Central Asia,Asia,368924,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Eastern Asia,Asia,166589291,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Eastern Europe,Europe,66849725,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Latin America and the Caribbean,Americas,7839382,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Micronesia,Oceania,598,32.3293809,-83.1137366,6.418559504495792,157.6364476938912
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Northern Africa,Africa,2821166,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Northern America,Americas,14504528,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Northern Europe,Europe,35695553,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",South-eastern Asia,Asia,19582941,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Southern Asia,Asia,2842774,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Southern Europe,Europe,82193442,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Sub-Saharan Africa,Africa,198764,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Western Asia,Asia,133548466,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",Western Europe,Europe,122495582,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2013,2013,Import,Georgia,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",World,World,720867273,32.3293809,-83.1137366,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Georgia,26,"Ores, slag and ash",Central Asia,Asia,934605
-2017,2017,Export,Georgia,26,"Ores, slag and ash",Eastern Asia,Asia,169539218
-2017,2017,Export,Georgia,26,"Ores, slag and ash",Eastern Europe,Europe,223849631
-2017,2017,Export,Georgia,26,"Ores, slag and ash",Northern Europe,Europe,248040
-2017,2017,Export,Georgia,26,"Ores, slag and ash",South-eastern Asia,Asia,1506611
-2017,2017,Export,Georgia,26,"Ores, slag and ash",Southern Europe,Europe,30864164
-2017,2017,Export,Georgia,26,"Ores, slag and ash",Western Asia,Asia,18262
-2017,2017,Export,Georgia,26,"Ores, slag and ash",Western Europe,Europe,73
-2017,2017,Export,Georgia,26,"Ores, slag and ash",World,World,426960607
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Georgia,26,"Ores, slag and ash",Central Asia,Asia,934605,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2017,2017,Export,Georgia,26,"Ores, slag and ash",Eastern Asia,Asia,169539218,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2017,2017,Export,Georgia,26,"Ores, slag and ash",Eastern Europe,Europe,223849631,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2017,2017,Export,Georgia,26,"Ores, slag and ash",Northern Europe,Europe,248040,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2017,2017,Export,Georgia,26,"Ores, slag and ash",South-eastern Asia,Asia,1506611,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2017,2017,Export,Georgia,26,"Ores, slag and ash",Southern Europe,Europe,30864164,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2017,2017,Export,Georgia,26,"Ores, slag and ash",Western Asia,Asia,18262,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2017,2017,Export,Georgia,26,"Ores, slag and ash",Western Europe,Europe,73,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2017,2017,Export,Georgia,26,"Ores, slag and ash",World,World,426960607,32.3293809,-83.1137366,,

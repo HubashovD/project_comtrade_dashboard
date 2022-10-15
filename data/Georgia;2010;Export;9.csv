@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Central Asia,Asia,475148
-2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Eastern Asia,Asia,187985
-2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Eastern Europe,Europe,2133549
-2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Northern America,Americas,200210
-2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Northern Europe,Europe,191549
-2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",South-eastern Asia,Asia,254521
-2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Southern Europe,Europe,43737
-2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Sub-Saharan Africa,Africa,28197
-2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Western Asia,Asia,884671
-2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Western Europe,Europe,92757
-2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",World,World,5121446
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Central Asia,Asia,475148,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Eastern Asia,Asia,187985,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Eastern Europe,Europe,2133549,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Northern America,Americas,200210,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Northern Europe,Europe,191549,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",South-eastern Asia,Asia,254521,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Southern Europe,Europe,43737,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Sub-Saharan Africa,Africa,28197,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Western Asia,Asia,884671,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",Western Europe,Europe,92757,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2010,2010,Export,Georgia,9,"Coffee, tea, maté and spices",World,World,5121446,32.3293809,-83.1137366,,

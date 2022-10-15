@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Central Asia,Asia,14518
-2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Eastern Asia,Asia,107493
-2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Eastern Europe,Europe,4953608
-2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Northern Africa,Africa,9645
-2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Northern America,Americas,15258
-2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Northern Europe,Europe,30970
-2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Southern Asia,Asia,63281
-2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Southern Europe,Europe,407546
-2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Western Asia,Asia,4840065
-2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Western Europe,Europe,303896
-2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,World,World,28458121
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Central Asia,Asia,14518,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Eastern Asia,Asia,107493,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Eastern Europe,Europe,4953608,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Northern Africa,Africa,9645,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Northern America,Americas,15258,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Northern Europe,Europe,30970,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Southern Asia,Asia,63281,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Southern Europe,Europe,407546,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Western Asia,Asia,4840065,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,Western Europe,Europe,303896,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2006,2006,Import,Georgia,25,Salt; sulfur; earths and stone; plastering materials,World,World,28458121,32.3293809,-83.1137366,,

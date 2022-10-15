@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Georgia,74,Copper and articles thereof,Eastern Asia,Asia,16051773
-2010,2010,Export,Georgia,74,Copper and articles thereof,Eastern Europe,Europe,5611
-2010,2010,Export,Georgia,74,Copper and articles thereof,Northern America,Americas,3359280
-2010,2010,Export,Georgia,74,Copper and articles thereof,Northern Europe,Europe,2163224
-2010,2010,Export,Georgia,74,Copper and articles thereof,South-eastern Asia,Asia,1236888
-2010,2010,Export,Georgia,74,Copper and articles thereof,Southern Europe,Europe,1392621
-2010,2010,Export,Georgia,74,Copper and articles thereof,Sub-Saharan Africa,Africa,138
-2010,2010,Export,Georgia,74,Copper and articles thereof,Western Asia,Asia,6392603
-2010,2010,Export,Georgia,74,Copper and articles thereof,Western Europe,Europe,1390778
-2010,2010,Export,Georgia,74,Copper and articles thereof,World,World,41770082
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Georgia,74,Copper and articles thereof,Eastern Asia,Asia,16051773,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2010,2010,Export,Georgia,74,Copper and articles thereof,Eastern Europe,Europe,5611,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2010,2010,Export,Georgia,74,Copper and articles thereof,Northern America,Americas,3359280,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2010,2010,Export,Georgia,74,Copper and articles thereof,Northern Europe,Europe,2163224,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2010,2010,Export,Georgia,74,Copper and articles thereof,South-eastern Asia,Asia,1236888,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2010,2010,Export,Georgia,74,Copper and articles thereof,Southern Europe,Europe,1392621,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2010,2010,Export,Georgia,74,Copper and articles thereof,Sub-Saharan Africa,Africa,138,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2010,2010,Export,Georgia,74,Copper and articles thereof,Western Asia,Asia,6392603,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2010,2010,Export,Georgia,74,Copper and articles thereof,Western Europe,Europe,1390778,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2010,2010,Export,Georgia,74,Copper and articles thereof,World,World,41770082,32.3293809,-83.1137366,,

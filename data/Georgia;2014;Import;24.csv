@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Eastern Asia,Asia,1580015
-2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,108873248
-2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,2622912
-2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Northern Africa,Africa,1298
-2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,151780
-2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,65566
-2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,South-eastern Asia,Asia,263659
-2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,767649
-2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Sub-Saharan Africa,Africa,232240
-2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,594
-2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,5695982
-2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,World,World,125306007
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Eastern Asia,Asia,1580015,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,108873248,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,2622912,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Northern Africa,Africa,1298,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,151780,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,65566,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,South-eastern Asia,Asia,263659,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,767649,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Sub-Saharan Africa,Africa,232240,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,594,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,5695982,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2014,2014,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,World,World,125306007,32.3293809,-83.1137366,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Re-Export,Georgia,73,Iron or steel articles,Central Asia,Asia,3166305
-2014,2014,Re-Export,Georgia,73,Iron or steel articles,Eastern Europe,Europe,2475940
-2014,2014,Re-Export,Georgia,73,Iron or steel articles,Northern Africa,Africa,8707
-2014,2014,Re-Export,Georgia,73,Iron or steel articles,Southern Asia,Asia,46236
-2014,2014,Re-Export,Georgia,73,Iron or steel articles,Southern Europe,Europe,89712
-2014,2014,Re-Export,Georgia,73,Iron or steel articles,Western Asia,Asia,18327
-2014,2014,Re-Export,Georgia,73,Iron or steel articles,Western Europe,Europe,284850
-2014,2014,Re-Export,Georgia,73,Iron or steel articles,World,World,7454609
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Re-Export,Georgia,73,Iron or steel articles,Central Asia,Asia,3166305,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2014,2014,Re-Export,Georgia,73,Iron or steel articles,Eastern Europe,Europe,2475940,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2014,2014,Re-Export,Georgia,73,Iron or steel articles,Northern Africa,Africa,8707,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2014,2014,Re-Export,Georgia,73,Iron or steel articles,Southern Asia,Asia,46236,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2014,2014,Re-Export,Georgia,73,Iron or steel articles,Southern Europe,Europe,89712,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2014,2014,Re-Export,Georgia,73,Iron or steel articles,Western Asia,Asia,18327,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2014,2014,Re-Export,Georgia,73,Iron or steel articles,Western Europe,Europe,284850,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2014,2014,Re-Export,Georgia,73,Iron or steel articles,World,World,7454609,32.3293809,-83.1137366,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Central Asia,Asia,150
-2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Eastern Asia,Asia,7263
-2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Eastern Europe,Europe,994550
-2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Northern Africa,Africa,6802
-2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Northern America,Americas,2162
-2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Northern Europe,Europe,1446
-2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Southern Asia,Asia,4382
-2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Southern Europe,Europe,1534
-2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Sub-Saharan Africa,Africa,36
-2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Western Asia,Asia,42875
-2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Western Europe,Europe,19744
-2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",World,World,1132969
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Central Asia,Asia,150,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Eastern Asia,Asia,7263,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Eastern Europe,Europe,994550,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Northern Africa,Africa,6802,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Northern America,Americas,2162,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Northern Europe,Europe,1446,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Southern Asia,Asia,4382,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Southern Europe,Europe,1534,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Sub-Saharan Africa,Africa,36,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Western Asia,Asia,42875,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",Western Europe,Europe,19744,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2006,2006,Import,Georgia,97,"Works of art, collectors' pieces and antiques",World,World,1132969,32.3293809,-83.1137366,,

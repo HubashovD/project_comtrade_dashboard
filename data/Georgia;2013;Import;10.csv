@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Georgia,10,Cereals,Central Asia,Asia,39802038
-2013,2013,Import,Georgia,10,Cereals,Eastern Asia,Asia,128677
-2013,2013,Import,Georgia,10,Cereals,Eastern Europe,Europe,156707333
-2013,2013,Import,Georgia,10,Cereals,Northern Africa,Africa,405518
-2013,2013,Import,Georgia,10,Cereals,Northern America,Americas,36220
-2013,2013,Import,Georgia,10,Cereals,Northern Europe,Europe,1046
-2013,2013,Import,Georgia,10,Cereals,South-eastern Asia,Asia,874490
-2013,2013,Import,Georgia,10,Cereals,Southern Asia,Asia,16932
-2013,2013,Import,Georgia,10,Cereals,Southern Europe,Europe,1322047
-2013,2013,Import,Georgia,10,Cereals,Sub-Saharan Africa,Africa,23760
-2013,2013,Import,Georgia,10,Cereals,Western Asia,Asia,1085161
-2013,2013,Import,Georgia,10,Cereals,Western Europe,Europe,5751587
-2013,2013,Import,Georgia,10,Cereals,World,World,210785541
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Georgia,10,Cereals,Central Asia,Asia,39802038,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2013,2013,Import,Georgia,10,Cereals,Eastern Asia,Asia,128677,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2013,2013,Import,Georgia,10,Cereals,Eastern Europe,Europe,156707333,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2013,2013,Import,Georgia,10,Cereals,Northern Africa,Africa,405518,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2013,2013,Import,Georgia,10,Cereals,Northern America,Americas,36220,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2013,2013,Import,Georgia,10,Cereals,Northern Europe,Europe,1046,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2013,2013,Import,Georgia,10,Cereals,South-eastern Asia,Asia,874490,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2013,2013,Import,Georgia,10,Cereals,Southern Asia,Asia,16932,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2013,2013,Import,Georgia,10,Cereals,Southern Europe,Europe,1322047,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2013,2013,Import,Georgia,10,Cereals,Sub-Saharan Africa,Africa,23760,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2013,2013,Import,Georgia,10,Cereals,Western Asia,Asia,1085161,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2013,2013,Import,Georgia,10,Cereals,Western Europe,Europe,5751587,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2013,2013,Import,Georgia,10,Cereals,World,World,210785541,32.3293809,-83.1137366,,

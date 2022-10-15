@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Central Asia,Asia,15053
-2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Eastern Asia,Asia,39570
-2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Eastern Europe,Europe,17645054
-2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Latin America and the Caribbean,Americas,10093699
-2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Northern America,Americas,2435626
-2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Northern Europe,Europe,95444
-2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Southern Asia,Asia,238239
-2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Southern Europe,Europe,3778132
-2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Western Asia,Asia,12836067
-2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Western Europe,Europe,3786742
-2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",World,World,53810503
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Central Asia,Asia,15053,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Eastern Asia,Asia,39570,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Eastern Europe,Europe,17645054,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Latin America and the Caribbean,Americas,10093699,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Northern America,Americas,2435626,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Northern Europe,Europe,95444,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Southern Asia,Asia,238239,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Southern Europe,Europe,3778132,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Western Asia,Asia,12836067,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",Western Europe,Europe,3786742,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2014,2014,Import,Georgia,23,"Food industries, residues and wastes thereof; prepared animal fodder",World,World,53810503,32.3293809,-83.1137366,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Georgia,26,"Ores, slag and ash",Australia and New Zealand,Oceania,1677
-2016,2016,Import,Georgia,26,"Ores, slag and ash",Central Asia,Asia,415308
-2016,2016,Import,Georgia,26,"Ores, slag and ash",Eastern Europe,Europe,40389
-2016,2016,Import,Georgia,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,49386916
-2016,2016,Import,Georgia,26,"Ores, slag and ash",South-eastern Asia,Asia,4552890
-2016,2016,Import,Georgia,26,"Ores, slag and ash",Southern Asia,Asia,23388
-2016,2016,Import,Georgia,26,"Ores, slag and ash",Southern Europe,Europe,3800966
-2016,2016,Import,Georgia,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,13655084
-2016,2016,Import,Georgia,26,"Ores, slag and ash",Western Asia,Asia,261418
-2016,2016,Import,Georgia,26,"Ores, slag and ash",Western Europe,Europe,2980101
-2016,2016,Import,Georgia,26,"Ores, slag and ash",World,World,263667348
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Georgia,26,"Ores, slag and ash",Australia and New Zealand,Oceania,1677,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2016,2016,Import,Georgia,26,"Ores, slag and ash",Central Asia,Asia,415308,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2016,2016,Import,Georgia,26,"Ores, slag and ash",Eastern Europe,Europe,40389,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2016,2016,Import,Georgia,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,49386916,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2016,2016,Import,Georgia,26,"Ores, slag and ash",South-eastern Asia,Asia,4552890,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2016,2016,Import,Georgia,26,"Ores, slag and ash",Southern Asia,Asia,23388,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2016,2016,Import,Georgia,26,"Ores, slag and ash",Southern Europe,Europe,3800966,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2016,2016,Import,Georgia,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,13655084,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2016,2016,Import,Georgia,26,"Ores, slag and ash",Western Asia,Asia,261418,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2016,2016,Import,Georgia,26,"Ores, slag and ash",Western Europe,Europe,2980101,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2016,2016,Import,Georgia,26,"Ores, slag and ash",World,World,263667348,32.3293809,-83.1137366,,

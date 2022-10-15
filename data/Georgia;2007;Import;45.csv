@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Georgia,45,Cork and articles of cork,Eastern Asia,Asia,3891
-2007,2007,Import,Georgia,45,Cork and articles of cork,Eastern Europe,Europe,91804
-2007,2007,Import,Georgia,45,Cork and articles of cork,Latin America and the Caribbean,Americas,48
-2007,2007,Import,Georgia,45,Cork and articles of cork,Northern Europe,Europe,205
-2007,2007,Import,Georgia,45,Cork and articles of cork,Southern Asia,Asia,83
-2007,2007,Import,Georgia,45,Cork and articles of cork,Southern Europe,Europe,3367915
-2007,2007,Import,Georgia,45,Cork and articles of cork,Western Asia,Asia,19572
-2007,2007,Import,Georgia,45,Cork and articles of cork,Western Europe,Europe,125633
-2007,2007,Import,Georgia,45,Cork and articles of cork,World,World,3609149
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Georgia,45,Cork and articles of cork,Eastern Asia,Asia,3891,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2007,2007,Import,Georgia,45,Cork and articles of cork,Eastern Europe,Europe,91804,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2007,2007,Import,Georgia,45,Cork and articles of cork,Latin America and the Caribbean,Americas,48,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2007,2007,Import,Georgia,45,Cork and articles of cork,Northern Europe,Europe,205,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2007,2007,Import,Georgia,45,Cork and articles of cork,Southern Asia,Asia,83,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2007,2007,Import,Georgia,45,Cork and articles of cork,Southern Europe,Europe,3367915,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2007,2007,Import,Georgia,45,Cork and articles of cork,Western Asia,Asia,19572,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2007,2007,Import,Georgia,45,Cork and articles of cork,Western Europe,Europe,125633,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2007,2007,Import,Georgia,45,Cork and articles of cork,World,World,3609149,32.3293809,-83.1137366,,

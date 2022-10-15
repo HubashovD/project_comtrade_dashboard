@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Eastern Asia,Asia,3874
-2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Eastern Europe,Europe,154360
-2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Northern America,Americas,344
-2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Northern Europe,Europe,782
-2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Southern Asia,Asia,56396
-2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Southern Europe,Europe,142121
-2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Western Asia,Asia,1941300
-2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Western Europe,Europe,196212
-2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,World,World,2552740
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Eastern Asia,Asia,3874,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Eastern Europe,Europe,154360,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Northern America,Americas,344,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Northern Europe,Europe,782,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Southern Asia,Asia,56396,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Southern Europe,Europe,142121,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Western Asia,Asia,1941300,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,Western Europe,Europe,196212,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2006,2006,Import,Georgia,60,Knitted or crocheted fabrics,World,World,2552740,32.3293809,-83.1137366,,

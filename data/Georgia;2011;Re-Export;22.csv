@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Re-Export,Georgia,22,"Beverages, spirits and vinegar",Central Asia,Asia,3350031
-2011,2011,Re-Export,Georgia,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,9338624
-2011,2011,Re-Export,Georgia,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,58320
-2011,2011,Re-Export,Georgia,22,"Beverages, spirits and vinegar",Northern Europe,Europe,505325
-2011,2011,Re-Export,Georgia,22,"Beverages, spirits and vinegar",Southern Europe,Europe,479053
-2011,2011,Re-Export,Georgia,22,"Beverages, spirits and vinegar",Western Europe,Europe,5143597
-2011,2011,Re-Export,Georgia,22,"Beverages, spirits and vinegar",World,World,30725562
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Re-Export,Georgia,22,"Beverages, spirits and vinegar",Central Asia,Asia,3350031,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2011,2011,Re-Export,Georgia,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,9338624,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2011,2011,Re-Export,Georgia,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,58320,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2011,2011,Re-Export,Georgia,22,"Beverages, spirits and vinegar",Northern Europe,Europe,505325,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2011,2011,Re-Export,Georgia,22,"Beverages, spirits and vinegar",Southern Europe,Europe,479053,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2011,2011,Re-Export,Georgia,22,"Beverages, spirits and vinegar",Western Europe,Europe,5143597,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2011,2011,Re-Export,Georgia,22,"Beverages, spirits and vinegar",World,World,30725562,32.3293809,-83.1137366,,

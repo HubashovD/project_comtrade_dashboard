@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Georgia,31,Fertilisers,Central Asia,Asia,1606683
-2011,2011,Import,Georgia,31,Fertilisers,Eastern Asia,Asia,37077
-2011,2011,Import,Georgia,31,Fertilisers,Eastern Europe,Europe,2976071
-2011,2011,Import,Georgia,31,Fertilisers,Northern Europe,Europe,47805
-2011,2011,Import,Georgia,31,Fertilisers,Southern Asia,Asia,167284
-2011,2011,Import,Georgia,31,Fertilisers,Southern Europe,Europe,708740
-2011,2011,Import,Georgia,31,Fertilisers,Western Asia,Asia,240306
-2011,2011,Import,Georgia,31,Fertilisers,Western Europe,Europe,1014265
-2011,2011,Import,Georgia,31,Fertilisers,World,World,7913793
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Georgia,31,Fertilisers,Central Asia,Asia,1606683,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2011,2011,Import,Georgia,31,Fertilisers,Eastern Asia,Asia,37077,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2011,2011,Import,Georgia,31,Fertilisers,Eastern Europe,Europe,2976071,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2011,2011,Import,Georgia,31,Fertilisers,Northern Europe,Europe,47805,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2011,2011,Import,Georgia,31,Fertilisers,Southern Asia,Asia,167284,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2011,2011,Import,Georgia,31,Fertilisers,Southern Europe,Europe,708740,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2011,2011,Import,Georgia,31,Fertilisers,Western Asia,Asia,240306,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2011,2011,Import,Georgia,31,Fertilisers,Western Europe,Europe,1014265,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2011,2011,Import,Georgia,31,Fertilisers,World,World,7913793,32.3293809,-83.1137366,,

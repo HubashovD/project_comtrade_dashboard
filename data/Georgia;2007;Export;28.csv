@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Export,Georgia,28,Inorganic chemicals,Central Asia,Asia,2264375
-2007,2007,Export,Georgia,28,Inorganic chemicals,Eastern Asia,Asia,10000
-2007,2007,Export,Georgia,28,Inorganic chemicals,Eastern Europe,Europe,975702
-2007,2007,Export,Georgia,28,Inorganic chemicals,Latin America and the Caribbean,Americas,1891999
-2007,2007,Export,Georgia,28,Inorganic chemicals,Northern America,Americas,10
-2007,2007,Export,Georgia,28,Inorganic chemicals,South-eastern Asia,Asia,1413860
-2007,2007,Export,Georgia,28,Inorganic chemicals,Southern Europe,Europe,334817
-2007,2007,Export,Georgia,28,Inorganic chemicals,Western Asia,Asia,471802
-2007,2007,Export,Georgia,28,Inorganic chemicals,Western Europe,Europe,4282741
-2007,2007,Export,Georgia,28,Inorganic chemicals,World,World,12401430
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Export,Georgia,28,Inorganic chemicals,Central Asia,Asia,2264375,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2007,2007,Export,Georgia,28,Inorganic chemicals,Eastern Asia,Asia,10000,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2007,2007,Export,Georgia,28,Inorganic chemicals,Eastern Europe,Europe,975702,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2007,2007,Export,Georgia,28,Inorganic chemicals,Latin America and the Caribbean,Americas,1891999,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2007,2007,Export,Georgia,28,Inorganic chemicals,Northern America,Americas,10,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2007,2007,Export,Georgia,28,Inorganic chemicals,South-eastern Asia,Asia,1413860,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2007,2007,Export,Georgia,28,Inorganic chemicals,Southern Europe,Europe,334817,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2007,2007,Export,Georgia,28,Inorganic chemicals,Western Asia,Asia,471802,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2007,2007,Export,Georgia,28,Inorganic chemicals,Western Europe,Europe,4282741,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2007,2007,Export,Georgia,28,Inorganic chemicals,World,World,12401430,32.3293809,-83.1137366,,

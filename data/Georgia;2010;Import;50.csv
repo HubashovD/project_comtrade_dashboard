@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Georgia,50,Silk,Eastern Asia,Asia,105
-2010,2010,Import,Georgia,50,Silk,Eastern Europe,Europe,85
-2010,2010,Import,Georgia,50,Silk,Western Asia,Asia,93927
-2010,2010,Import,Georgia,50,Silk,Western Europe,Europe,4573
-2010,2010,Import,Georgia,50,Silk,World,World,106890
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Georgia,50,Silk,Eastern Asia,Asia,105,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2010,2010,Import,Georgia,50,Silk,Eastern Europe,Europe,85,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2010,2010,Import,Georgia,50,Silk,Western Asia,Asia,93927,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2010,2010,Import,Georgia,50,Silk,Western Europe,Europe,4573,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2010,2010,Import,Georgia,50,Silk,World,World,106890,32.3293809,-83.1137366,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Asia,Asia,116295
-2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Europe,Europe,411514
-2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Africa,Africa,104
-2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Northern America,Americas,26848
-2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Europe,Europe,19717
-2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,South-eastern Asia,Asia,50475
-2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Asia,Asia,326333
-2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Europe,Europe,255189
-2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Sub-Saharan Africa,Africa,4
-2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Western Asia,Asia,3186426
-2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Western Europe,Europe,672125
-2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,World,World,5221467
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Asia,Asia,116295,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Europe,Europe,411514,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Africa,Africa,104,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Northern America,Americas,26848,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Europe,Europe,19717,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,South-eastern Asia,Asia,50475,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Asia,Asia,326333,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Europe,Europe,255189,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Sub-Saharan Africa,Africa,4,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Western Asia,Asia,3186426,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,Western Europe,Europe,672125,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2009,2009,Import,Georgia,35,Albuminoidal substances; modified starches; glues; enzymes,World,World,5221467,32.3293809,-83.1137366,,

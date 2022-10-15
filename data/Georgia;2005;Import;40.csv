@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Georgia,40,Rubber and articles thereof,Australia and New Zealand,Oceania,11009
-2005,2005,Import,Georgia,40,Rubber and articles thereof,Central Asia,Asia,18266
-2005,2005,Import,Georgia,40,Rubber and articles thereof,Eastern Asia,Asia,1063395
-2005,2005,Import,Georgia,40,Rubber and articles thereof,Eastern Europe,Europe,16417334
-2005,2005,Import,Georgia,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,52375
-2005,2005,Import,Georgia,40,Rubber and articles thereof,Northern America,Americas,693328
-2005,2005,Import,Georgia,40,Rubber and articles thereof,Northern Europe,Europe,831444
-2005,2005,Import,Georgia,40,Rubber and articles thereof,South-eastern Asia,Asia,184873
-2005,2005,Import,Georgia,40,Rubber and articles thereof,Southern Asia,Asia,185760
-2005,2005,Import,Georgia,40,Rubber and articles thereof,Southern Europe,Europe,103537
-2005,2005,Import,Georgia,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,55688
-2005,2005,Import,Georgia,40,Rubber and articles thereof,Western Asia,Asia,1596251
-2005,2005,Import,Georgia,40,Rubber and articles thereof,Western Europe,Europe,4214021
-2005,2005,Import,Georgia,40,Rubber and articles thereof,World,World,26294767
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Georgia,40,Rubber and articles thereof,Australia and New Zealand,Oceania,11009,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2005,2005,Import,Georgia,40,Rubber and articles thereof,Central Asia,Asia,18266,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2005,2005,Import,Georgia,40,Rubber and articles thereof,Eastern Asia,Asia,1063395,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2005,2005,Import,Georgia,40,Rubber and articles thereof,Eastern Europe,Europe,16417334,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2005,2005,Import,Georgia,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,52375,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2005,2005,Import,Georgia,40,Rubber and articles thereof,Northern America,Americas,693328,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2005,2005,Import,Georgia,40,Rubber and articles thereof,Northern Europe,Europe,831444,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2005,2005,Import,Georgia,40,Rubber and articles thereof,South-eastern Asia,Asia,184873,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2005,2005,Import,Georgia,40,Rubber and articles thereof,Southern Asia,Asia,185760,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2005,2005,Import,Georgia,40,Rubber and articles thereof,Southern Europe,Europe,103537,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2005,2005,Import,Georgia,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,55688,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2005,2005,Import,Georgia,40,Rubber and articles thereof,Western Asia,Asia,1596251,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2005,2005,Import,Georgia,40,Rubber and articles thereof,Western Europe,Europe,4214021,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2005,2005,Import,Georgia,40,Rubber and articles thereof,World,World,26294767,32.3293809,-83.1137366,,

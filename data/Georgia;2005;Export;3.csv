@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,165
-2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,314646
-2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,340
-2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,110
-2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,35
-2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,24
-2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,168
-2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,612640
-2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,992329
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,165,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,314646,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,340,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,110,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,35,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,24,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,168,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,612640,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2005,2005,Export,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,992329,32.3293809,-83.1137366,,

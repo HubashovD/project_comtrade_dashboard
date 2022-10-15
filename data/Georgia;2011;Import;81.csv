@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Georgia,81,Other base metals; cermets; articles thereof,Eastern Europe,Europe,21999
-2011,2011,Import,Georgia,81,Other base metals; cermets; articles thereof,Northern America,Americas,702891
-2011,2011,Import,Georgia,81,Other base metals; cermets; articles thereof,Northern Europe,Europe,3303
-2011,2011,Import,Georgia,81,Other base metals; cermets; articles thereof,Southern Europe,Europe,286
-2011,2011,Import,Georgia,81,Other base metals; cermets; articles thereof,Western Asia,Asia,8223
-2011,2011,Import,Georgia,81,Other base metals; cermets; articles thereof,Western Europe,Europe,10445
-2011,2011,Import,Georgia,81,Other base metals; cermets; articles thereof,World,World,747146
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Georgia,81,Other base metals; cermets; articles thereof,Eastern Europe,Europe,21999,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2011,2011,Import,Georgia,81,Other base metals; cermets; articles thereof,Northern America,Americas,702891,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2011,2011,Import,Georgia,81,Other base metals; cermets; articles thereof,Northern Europe,Europe,3303,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2011,2011,Import,Georgia,81,Other base metals; cermets; articles thereof,Southern Europe,Europe,286,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2011,2011,Import,Georgia,81,Other base metals; cermets; articles thereof,Western Asia,Asia,8223,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2011,2011,Import,Georgia,81,Other base metals; cermets; articles thereof,Western Europe,Europe,10445,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2011,2011,Import,Georgia,81,Other base metals; cermets; articles thereof,World,World,747146,32.3293809,-83.1137366,,

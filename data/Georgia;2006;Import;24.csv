@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Central Asia,Asia,17066
-2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Eastern Asia,Asia,529031
-2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,30318539
-2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,1928492
-2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,17685
-2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,232697
-2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Sub-Saharan Africa,Africa,163733
-2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,31
-2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,4020982
-2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,World,World,38086037
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Central Asia,Asia,17066,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Eastern Asia,Asia,529031,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,30318539,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,1928492,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,17685,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,232697,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Sub-Saharan Africa,Africa,163733,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,31,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,4020982,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2006,2006,Import,Georgia,24,Tobacco and manufactured tobacco substitutes,World,World,38086037,32.3293809,-83.1137366,,

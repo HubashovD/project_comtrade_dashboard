@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Eastern Europe,Europe,12776
-2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Latin America and the Caribbean,Americas,23394
-2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Northern America,Americas,100996
-2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Northern Europe,Europe,48
-2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Southern Asia,Asia,11735
-2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Southern Europe,Europe,1963
-2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,16834
-2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,63985
-2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",World,World,258409
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Eastern Europe,Europe,12776,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Latin America and the Caribbean,Americas,23394,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Northern America,Americas,100996,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Northern Europe,Europe,48,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Southern Asia,Asia,11735,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Southern Europe,Europe,1963,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,16834,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,63985,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2007,2007,Import,Georgia,5,"Products of animal origin, not elsewhere specified",World,World,258409,32.3293809,-83.1137366,,

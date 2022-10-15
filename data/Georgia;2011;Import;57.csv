@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Australia and New Zealand,Oceania,226
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Central Asia,Asia,23
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Eastern Asia,Asia,155853
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Eastern Europe,Europe,214733
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,21
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Northern Africa,Africa,42178
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Northern America,Americas,43812
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Northern Europe,Europe,543547
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,South-eastern Asia,Asia,396
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Southern Asia,Asia,751163
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Southern Europe,Europe,467719
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Sub-Saharan Africa,Africa,270
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Western Asia,Asia,4301060
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Western Europe,Europe,978242
-2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,World,World,7690759
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Australia and New Zealand,Oceania,226,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Central Asia,Asia,23,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Eastern Asia,Asia,155853,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Eastern Europe,Europe,214733,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,21,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Northern Africa,Africa,42178,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Northern America,Americas,43812,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Northern Europe,Europe,543547,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,South-eastern Asia,Asia,396,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Southern Asia,Asia,751163,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Southern Europe,Europe,467719,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Sub-Saharan Africa,Africa,270,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Western Asia,Asia,4301060,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,Western Europe,Europe,978242,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2011,2011,Import,Georgia,57,Carpets and other textile floor coverings,World,World,7690759,32.3293809,-83.1137366,,

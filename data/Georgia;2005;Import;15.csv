@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Eastern Asia,Asia,35
-2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Eastern Europe,Europe,20335073
-2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Latin America and the Caribbean,Americas,130794
-2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Northern America,Americas,6053
-2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Northern Europe,Europe,264622
-2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,South-eastern Asia,Asia,161768
-2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Southern Asia,Asia,3155867
-2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Southern Europe,Europe,159648
-2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Western Asia,Asia,6105566
-2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Western Europe,Europe,77294
-2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,World,World,32472338
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Eastern Asia,Asia,35,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Eastern Europe,Europe,20335073,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Latin America and the Caribbean,Americas,130794,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Northern America,Americas,6053,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Northern Europe,Europe,264622,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,South-eastern Asia,Asia,161768,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Southern Asia,Asia,3155867,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Southern Europe,Europe,159648,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Western Asia,Asia,6105566,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,Western Europe,Europe,77294,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2005,2005,Import,Georgia,15,Animal or vegetable fats and oils,World,World,32472338,32.3293809,-83.1137366,,

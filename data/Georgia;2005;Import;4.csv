@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Eastern Europe,Europe,14204425
-2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Latin America and the Caribbean,Americas,150768
-2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Northern America,Americas,3431695
-2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Northern Europe,Europe,2124568
-2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Southern Asia,Asia,306129
-2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Southern Europe,Europe,42905
-2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Sub-Saharan Africa,Africa,12000
-2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Western Asia,Asia,2718703
-2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Western Europe,Europe,2317594
-2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,World,World,26814201
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Eastern Europe,Europe,14204425,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Latin America and the Caribbean,Americas,150768,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Northern America,Americas,3431695,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Northern Europe,Europe,2124568,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Southern Asia,Asia,306129,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Southern Europe,Europe,42905,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Sub-Saharan Africa,Africa,12000,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Western Asia,Asia,2718703,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,Western Europe,Europe,2317594,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2005,2005,Import,Georgia,4,Dairy produce; birds eggs; natural honey;,World,World,26814201,32.3293809,-83.1137366,,

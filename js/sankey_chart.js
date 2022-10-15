@@ -59,11 +59,11 @@ function sankey_chart() {
             graph = { "nodes": [], "links": [] };
 
             data.forEach(function(d) {
-                graph.nodes.push({ "name": d.rtTitle });
-                graph.nodes.push({ "name": d.ptTitle });
+                graph.nodes.push({ "name": d.Subregion });
+                graph.nodes.push({ "name": d.Subregion });
                 graph.links.push({
                     "source": d.rtTitle,
-                    "target": d.ptTitle,
+                    "target": d.Subregion,
                     "value": +d.TradeValue
                 });
             });

@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Central Asia,Asia,1
-2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Asia,Asia,5800
-2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Europe,Europe,47359
-2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Northern America,Americas,27126
-2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Europe,Europe,1485
-2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",South-eastern Asia,Asia,9962
-2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Southern Europe,Europe,22419
-2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Western Asia,Asia,1691
-2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Western Europe,Europe,250532
-2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",World,World,366377
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Central Asia,Asia,1,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Asia,Asia,5800,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Europe,Europe,47359,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Northern America,Americas,27126,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Europe,Europe,1485,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",South-eastern Asia,Asia,9962,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Southern Europe,Europe,22419,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Western Asia,Asia,1691,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",Western Europe,Europe,250532,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2011,2011,Import,Georgia,13,"Lac; gums, resins and other vegetable saps and extracts",World,World,366377,32.3293809,-83.1137366,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Australia and New Zealand,Oceania,975
-2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Central Asia,Asia,14129
-2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,7999318
-2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,7781091
-2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,749
-2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Northern Africa,Africa,294
-2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Northern America,Americas,100803
-2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,338649
-2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,30243
-2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Southern Asia,Asia,34155
-2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,2434003
-2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Western Asia,Asia,12821556
-2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Western Europe,Europe,1717248
-2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,World,World,33629580
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Australia and New Zealand,Oceania,975,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Central Asia,Asia,14129,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,7999318,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,7781091,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,749,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Northern Africa,Africa,294,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Northern America,Americas,100803,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,338649,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,30243,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Southern Asia,Asia,34155,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,2434003,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Western Asia,Asia,12821556,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,Western Europe,Europe,1717248,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2016,2016,Import,Georgia,83,Metal; miscellaneous products of base metal,World,World,33629580,32.3293809,-83.1137366,,

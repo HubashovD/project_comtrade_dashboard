@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Georgia,5,"Products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,2
-2010,2010,Export,Georgia,5,"Products of animal origin, not elsewhere specified or included",Sub-Saharan Africa,Africa,1
-2010,2010,Export,Georgia,5,"Products of animal origin, not elsewhere specified or included",World,World,2
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Georgia,5,"Products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,2,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2010,2010,Export,Georgia,5,"Products of animal origin, not elsewhere specified or included",Sub-Saharan Africa,Africa,1,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2010,2010,Export,Georgia,5,"Products of animal origin, not elsewhere specified or included",World,World,2,32.3293809,-83.1137366,,

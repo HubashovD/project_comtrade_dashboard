@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Export,Georgia,26,"Ores, slag and ash",Central Asia,Asia,704951
-2014,2014,Export,Georgia,26,"Ores, slag and ash",Eastern Asia,Asia,67391488
-2014,2014,Export,Georgia,26,"Ores, slag and ash",Eastern Europe,Europe,144276429
-2014,2014,Export,Georgia,26,"Ores, slag and ash",Northern Europe,Europe,188055
-2014,2014,Export,Georgia,26,"Ores, slag and ash",South-eastern Asia,Asia,452505
-2014,2014,Export,Georgia,26,"Ores, slag and ash",Southern Europe,Europe,37428881
-2014,2014,Export,Georgia,26,"Ores, slag and ash",Western Asia,Asia,2651
-2014,2014,Export,Georgia,26,"Ores, slag and ash",World,World,250580898
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Export,Georgia,26,"Ores, slag and ash",Central Asia,Asia,704951,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2014,2014,Export,Georgia,26,"Ores, slag and ash",Eastern Asia,Asia,67391488,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2014,2014,Export,Georgia,26,"Ores, slag and ash",Eastern Europe,Europe,144276429,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2014,2014,Export,Georgia,26,"Ores, slag and ash",Northern Europe,Europe,188055,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2014,2014,Export,Georgia,26,"Ores, slag and ash",South-eastern Asia,Asia,452505,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2014,2014,Export,Georgia,26,"Ores, slag and ash",Southern Europe,Europe,37428881,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2014,2014,Export,Georgia,26,"Ores, slag and ash",Western Asia,Asia,2651,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2014,2014,Export,Georgia,26,"Ores, slag and ash",World,World,250580898,32.3293809,-83.1137366,,

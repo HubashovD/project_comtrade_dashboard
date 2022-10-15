@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Georgia,75,Nickel and articles thereof,Eastern Asia,Asia,1289
-2007,2007,Import,Georgia,75,Nickel and articles thereof,Eastern Europe,Europe,12012
-2007,2007,Import,Georgia,75,Nickel and articles thereof,Northern America,Americas,422
-2007,2007,Import,Georgia,75,Nickel and articles thereof,Northern Europe,Europe,203
-2007,2007,Import,Georgia,75,Nickel and articles thereof,Southern Europe,Europe,1808
-2007,2007,Import,Georgia,75,Nickel and articles thereof,Western Asia,Asia,95293
-2007,2007,Import,Georgia,75,Nickel and articles thereof,Western Europe,Europe,31025
-2007,2007,Import,Georgia,75,Nickel and articles thereof,World,World,162384
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Georgia,75,Nickel and articles thereof,Eastern Asia,Asia,1289,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2007,2007,Import,Georgia,75,Nickel and articles thereof,Eastern Europe,Europe,12012,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2007,2007,Import,Georgia,75,Nickel and articles thereof,Northern America,Americas,422,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2007,2007,Import,Georgia,75,Nickel and articles thereof,Northern Europe,Europe,203,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2007,2007,Import,Georgia,75,Nickel and articles thereof,Southern Europe,Europe,1808,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2007,2007,Import,Georgia,75,Nickel and articles thereof,Western Asia,Asia,95293,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2007,2007,Import,Georgia,75,Nickel and articles thereof,Western Europe,Europe,31025,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2007,2007,Import,Georgia,75,Nickel and articles thereof,World,World,162384,32.3293809,-83.1137366,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Export,Georgia,99,Commodities not specified according to kind,Central Asia,Asia,13281
-2012,2012,Export,Georgia,99,Commodities not specified according to kind,Eastern Europe,Europe,482950
-2012,2012,Export,Georgia,99,Commodities not specified according to kind,Northern America,Americas,1897
-2012,2012,Export,Georgia,99,Commodities not specified according to kind,Southern Asia,Asia,800
-2012,2012,Export,Georgia,99,Commodities not specified according to kind,Western Europe,Europe,2820010
-2012,2012,Export,Georgia,99,Commodities not specified according to kind,World,World,36561982
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Export,Georgia,99,Commodities not specified according to kind,Central Asia,Asia,13281,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2012,2012,Export,Georgia,99,Commodities not specified according to kind,Eastern Europe,Europe,482950,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2012,2012,Export,Georgia,99,Commodities not specified according to kind,Northern America,Americas,1897,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2012,2012,Export,Georgia,99,Commodities not specified according to kind,Southern Asia,Asia,800,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2012,2012,Export,Georgia,99,Commodities not specified according to kind,Western Europe,Europe,2820010,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2012,2012,Export,Georgia,99,Commodities not specified according to kind,World,World,36561982,32.3293809,-83.1137366,,

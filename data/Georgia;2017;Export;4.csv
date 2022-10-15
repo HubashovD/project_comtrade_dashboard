@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Central Asia,Asia,1485760
-2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,15014
-2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,13454
-2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,180381
-2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,88
-2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Asia,Asia,760
-2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Asia,Asia,61
-2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,4164001
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Central Asia,Asia,1485760,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,15014,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,13454,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,180381,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,88,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Asia,Asia,760,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Asia,Asia,61,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2017,2017,Export,Georgia,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,4164001,32.3293809,-83.1137366,,

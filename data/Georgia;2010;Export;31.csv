@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Georgia,31,Fertilisers,Eastern Europe,Europe,15679189
-2010,2010,Export,Georgia,31,Fertilisers,Latin America and the Caribbean,Americas,5984955
-2010,2010,Export,Georgia,31,Fertilisers,Northern America,Americas,10022462
-2010,2010,Export,Georgia,31,Fertilisers,Northern Europe,Europe,760736
-2010,2010,Export,Georgia,31,Fertilisers,Southern Europe,Europe,15636377
-2010,2010,Export,Georgia,31,Fertilisers,Sub-Saharan Africa,Africa,6352610
-2010,2010,Export,Georgia,31,Fertilisers,Western Asia,Asia,18537735
-2010,2010,Export,Georgia,31,Fertilisers,Western Europe,Europe,6608327
-2010,2010,Export,Georgia,31,Fertilisers,World,World,84155189
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Georgia,31,Fertilisers,Eastern Europe,Europe,15679189,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2010,2010,Export,Georgia,31,Fertilisers,Latin America and the Caribbean,Americas,5984955,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2010,2010,Export,Georgia,31,Fertilisers,Northern America,Americas,10022462,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2010,2010,Export,Georgia,31,Fertilisers,Northern Europe,Europe,760736,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2010,2010,Export,Georgia,31,Fertilisers,Southern Europe,Europe,15636377,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2010,2010,Export,Georgia,31,Fertilisers,Sub-Saharan Africa,Africa,6352610,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2010,2010,Export,Georgia,31,Fertilisers,Western Asia,Asia,18537735,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2010,2010,Export,Georgia,31,Fertilisers,Western Europe,Europe,6608327,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2010,2010,Export,Georgia,31,Fertilisers,World,World,84155189,32.3293809,-83.1137366,,

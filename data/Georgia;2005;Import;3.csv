@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,1980792
-2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Central Asia,Asia,7087
-2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,3804
-2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,841870
-2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,27973
-2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,2785634
-2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,134040
-2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,262496
-2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,12991
-2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,50787
-2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,1434858
-2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,8109405
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,1980792,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Central Asia,Asia,7087,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,3804,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,841870,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,27973,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,2785634,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,134040,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,262496,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,12991,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,50787,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,1434858,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2005,2005,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,8109405,32.3293809,-83.1137366,,

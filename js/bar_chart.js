@@ -286,7 +286,7 @@ function bar_chart() {
 
 
                 // Set-up the export button
-                d3.select('#saveButton').on('click', function() {
+                d3.select('#saveButtonBar').on('click', function() {
                     // console.log(d3.select('#bar_chart').select('svg'))
                     var svgString = getSVGString(d3.select('#bar_chart').select('svg').node());
 

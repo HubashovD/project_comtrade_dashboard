@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Re-Export,Georgia,89,"Ships, boats and floating structures",Central Asia,Asia,3493
-2011,2011,Re-Export,Georgia,89,"Ships, boats and floating structures",Western Asia,Asia,340075
-2011,2011,Re-Export,Georgia,89,"Ships, boats and floating structures",World,World,352627
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Re-Export,Georgia,89,"Ships, boats and floating structures",Central Asia,Asia,3493,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2011,2011,Re-Export,Georgia,89,"Ships, boats and floating structures",Western Asia,Asia,340075,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2011,2011,Re-Export,Georgia,89,"Ships, boats and floating structures",World,World,352627,32.3293809,-83.1137366,,

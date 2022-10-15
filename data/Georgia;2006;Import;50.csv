@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Georgia,50,Silk,Eastern Asia,Asia,3288
-2006,2006,Import,Georgia,50,Silk,Eastern Europe,Europe,8389
-2006,2006,Import,Georgia,50,Silk,Southern Europe,Europe,4139
-2006,2006,Import,Georgia,50,Silk,Western Asia,Asia,216337
-2006,2006,Import,Georgia,50,Silk,Western Europe,Europe,3499
-2006,2006,Import,Georgia,50,Silk,World,World,284978
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Georgia,50,Silk,Eastern Asia,Asia,3288,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2006,2006,Import,Georgia,50,Silk,Eastern Europe,Europe,8389,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2006,2006,Import,Georgia,50,Silk,Southern Europe,Europe,4139,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2006,2006,Import,Georgia,50,Silk,Western Asia,Asia,216337,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2006,2006,Import,Georgia,50,Silk,Western Europe,Europe,3499,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2006,2006,Import,Georgia,50,Silk,World,World,284978,32.3293809,-83.1137366,,

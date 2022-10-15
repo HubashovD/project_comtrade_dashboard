@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Export,Georgia,72,Iron and steel,Central Asia,Asia,622222
-2007,2007,Export,Georgia,72,Iron and steel,Eastern Asia,Asia,37485
-2007,2007,Export,Georgia,72,Iron and steel,Eastern Europe,Europe,20669155
-2007,2007,Export,Georgia,72,Iron and steel,Latin America and the Caribbean,Americas,14587727
-2007,2007,Export,Georgia,72,Iron and steel,Northern Africa,Africa,2444949
-2007,2007,Export,Georgia,72,Iron and steel,Northern America,Americas,112535539
-2007,2007,Export,Georgia,72,Iron and steel,Northern Europe,Europe,3041376
-2007,2007,Export,Georgia,72,Iron and steel,South-eastern Asia,Asia,797398
-2007,2007,Export,Georgia,72,Iron and steel,Southern Asia,Asia,288151
-2007,2007,Export,Georgia,72,Iron and steel,Southern Europe,Europe,5086042
-2007,2007,Export,Georgia,72,Iron and steel,Western Asia,Asia,89261751
-2007,2007,Export,Georgia,72,Iron and steel,Western Europe,Europe,6050422
-2007,2007,Export,Georgia,72,Iron and steel,World,World,259010638
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Export,Georgia,72,Iron and steel,Central Asia,Asia,622222,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2007,2007,Export,Georgia,72,Iron and steel,Eastern Asia,Asia,37485,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2007,2007,Export,Georgia,72,Iron and steel,Eastern Europe,Europe,20669155,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2007,2007,Export,Georgia,72,Iron and steel,Latin America and the Caribbean,Americas,14587727,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2007,2007,Export,Georgia,72,Iron and steel,Northern Africa,Africa,2444949,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2007,2007,Export,Georgia,72,Iron and steel,Northern America,Americas,112535539,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2007,2007,Export,Georgia,72,Iron and steel,Northern Europe,Europe,3041376,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2007,2007,Export,Georgia,72,Iron and steel,South-eastern Asia,Asia,797398,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2007,2007,Export,Georgia,72,Iron and steel,Southern Asia,Asia,288151,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2007,2007,Export,Georgia,72,Iron and steel,Southern Europe,Europe,5086042,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2007,2007,Export,Georgia,72,Iron and steel,Western Asia,Asia,89261751,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2007,2007,Export,Georgia,72,Iron and steel,Western Europe,Europe,6050422,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2007,2007,Export,Georgia,72,Iron and steel,World,World,259010638,32.3293809,-83.1137366,,

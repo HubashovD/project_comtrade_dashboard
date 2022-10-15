@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Eastern Asia,Asia,1195601
-2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Eastern Europe,Europe,53994
-2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Northern America,Americas,76633
-2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Northern Europe,Europe,151826
-2014,2014,Import,Georgia,37,Photographic or cinematographic goods,South-eastern Asia,Asia,52
-2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Southern Asia,Asia,1202
-2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Southern Europe,Europe,199529
-2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Sub-Saharan Africa,Africa,57536
-2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Western Asia,Asia,810099
-2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Western Europe,Europe,1024768
-2014,2014,Import,Georgia,37,Photographic or cinematographic goods,World,World,3679199
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Eastern Asia,Asia,1195601,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Eastern Europe,Europe,53994,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Northern America,Americas,76633,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Northern Europe,Europe,151826,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2014,2014,Import,Georgia,37,Photographic or cinematographic goods,South-eastern Asia,Asia,52,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Southern Asia,Asia,1202,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Southern Europe,Europe,199529,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Sub-Saharan Africa,Africa,57536,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Western Asia,Asia,810099,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2014,2014,Import,Georgia,37,Photographic or cinematographic goods,Western Europe,Europe,1024768,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2014,2014,Import,Georgia,37,Photographic or cinematographic goods,World,World,3679199,32.3293809,-83.1137366,,

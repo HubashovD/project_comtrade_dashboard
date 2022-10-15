@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,7117049
-2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Central Asia,Asia,303014
-2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,336056
-2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,758974
-2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,1069715
-2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,7697923
-2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,589900
-2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,18535
-2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,88189
-2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,282144
-2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,21667
-2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,1623439
-2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,21685974
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,7117049,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Central Asia,Asia,303014,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,336056,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,758974,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,1069715,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,7697923,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,589900,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,18535,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,88189,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,282144,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,21667,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,1623439,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2006,2006,Import,Georgia,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,21685974,32.3293809,-83.1137366,,

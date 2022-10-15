@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Central Asia,Asia,239692
-2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Eastern Asia,Asia,35532
-2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Eastern Europe,Europe,1530744
-2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Latin America and the Caribbean,Americas,47020
-2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Northern Africa,Africa,21067
-2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Northern America,Americas,32255
-2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Northern Europe,Europe,65376
-2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,2086850
-2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Southern Asia,Asia,1053222
-2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,284192
-2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,21218
-2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Western Asia,Asia,479690
-2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Western Europe,Europe,488618
-2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",World,World,14454666
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Central Asia,Asia,239692,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Eastern Asia,Asia,35532,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Eastern Europe,Europe,1530744,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Latin America and the Caribbean,Americas,47020,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Northern Africa,Africa,21067,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Northern America,Americas,32255,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Northern Europe,Europe,65376,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,2086850,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Southern Asia,Asia,1053222,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,284192,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,21218,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Western Asia,Asia,479690,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",Western Europe,Europe,488618,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2007,2007,Import,Georgia,9,"Coffee, tea, matΦ and spices",World,World,14454666,32.3293809,-83.1137366,,

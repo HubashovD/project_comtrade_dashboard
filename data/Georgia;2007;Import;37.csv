@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Eastern Asia,Asia,355033
-2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Eastern Europe,Europe,421656
-2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Northern America,Americas,80122
-2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Northern Europe,Europe,131058
-2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Southern Asia,Asia,1220
-2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Southern Europe,Europe,51667
-2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Western Asia,Asia,529456
-2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Western Europe,Europe,1276148
-2007,2007,Import,Georgia,37,Photographic or cinematographic goods,World,World,3364358
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Eastern Asia,Asia,355033,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Eastern Europe,Europe,421656,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Northern America,Americas,80122,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Northern Europe,Europe,131058,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Southern Asia,Asia,1220,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Southern Europe,Europe,51667,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Western Asia,Asia,529456,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2007,2007,Import,Georgia,37,Photographic or cinematographic goods,Western Europe,Europe,1276148,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2007,2007,Import,Georgia,37,Photographic or cinematographic goods,World,World,3364358,32.3293809,-83.1137366,,

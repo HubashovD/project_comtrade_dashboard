@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,Eastern Asia,Asia,604
-2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,Eastern Europe,Europe,52774
-2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,Northern America,Americas,808
-2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,Northern Europe,Europe,3996
-2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,Southern Europe,Europe,729
-2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,Western Asia,Asia,4390
-2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,Western Europe,Europe,4295
-2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,World,World,68056
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,Eastern Asia,Asia,604,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,Eastern Europe,Europe,52774,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,Northern America,Americas,808,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,Northern Europe,Europe,3996,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,Southern Europe,Europe,729,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,Western Asia,Asia,4390,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,Western Europe,Europe,4295,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2010,2010,Import,Georgia,81,Other base metals; cermets; articles thereof,World,World,68056,32.3293809,-83.1137366,,

@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Australia and New Zealand,Oceania,50224
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Central Asia,Asia,131779
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Eastern Asia,Asia,22601
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Eastern Europe,Europe,2546246
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Latin America and the Caribbean,Americas,109258
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Northern Africa,Africa,75399
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Northern America,Americas,44123
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Northern Europe,Europe,64831
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",South-eastern Asia,Asia,5122851
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Southern Asia,Asia,1337684
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Southern Europe,Europe,1711476
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Sub-Saharan Africa,Africa,183843
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Western Asia,Asia,316708
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Western Europe,Europe,1888639
-2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",World,World,20810319
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Australia and New Zealand,Oceania,50224,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Central Asia,Asia,131779,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Eastern Asia,Asia,22601,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Eastern Europe,Europe,2546246,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Latin America and the Caribbean,Americas,109258,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Northern Africa,Africa,75399,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Northern America,Americas,44123,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Northern Europe,Europe,64831,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",South-eastern Asia,Asia,5122851,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Southern Asia,Asia,1337684,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Southern Europe,Europe,1711476,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Sub-Saharan Africa,Africa,183843,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Western Asia,Asia,316708,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",Western Europe,Europe,1888639,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2011,2011,Import,Georgia,9,"Coffee, tea, maté and spices",World,World,20810319,32.3293809,-83.1137366,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Georgia,6,Live trees and other plants;,Central Asia,Asia,14275
-2005,2005,Export,Georgia,6,Live trees and other plants;,Eastern Asia,Asia,16
-2005,2005,Export,Georgia,6,Live trees and other plants;,Eastern Europe,Europe,9830
-2005,2005,Export,Georgia,6,Live trees and other plants;,Northern America,Americas,100
-2005,2005,Export,Georgia,6,Live trees and other plants;,Southern Asia,Asia,196
-2005,2005,Export,Georgia,6,Live trees and other plants;,Western Asia,Asia,98412
-2005,2005,Export,Georgia,6,Live trees and other plants;,Western Europe,Europe,82885
-2005,2005,Export,Georgia,6,Live trees and other plants;,World,World,873643
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Georgia,6,Live trees and other plants;,Central Asia,Asia,14275,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2005,2005,Export,Georgia,6,Live trees and other plants;,Eastern Asia,Asia,16,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2005,2005,Export,Georgia,6,Live trees and other plants;,Eastern Europe,Europe,9830,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2005,2005,Export,Georgia,6,Live trees and other plants;,Northern America,Americas,100,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2005,2005,Export,Georgia,6,Live trees and other plants;,Southern Asia,Asia,196,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2005,2005,Export,Georgia,6,Live trees and other plants;,Western Asia,Asia,98412,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2005,2005,Export,Georgia,6,Live trees and other plants;,Western Europe,Europe,82885,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2005,2005,Export,Georgia,6,Live trees and other plants;,World,World,873643,32.3293809,-83.1137366,,

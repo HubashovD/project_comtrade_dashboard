@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,Georgia,76,Aluminum and articles thereof,Central Asia,Asia,60
-2011,2011,Export,Georgia,76,Aluminum and articles thereof,Eastern Asia,Asia,3802403
-2011,2011,Export,Georgia,76,Aluminum and articles thereof,Eastern Europe,Europe,409
-2011,2011,Export,Georgia,76,Aluminum and articles thereof,Northern America,Americas,263222
-2011,2011,Export,Georgia,76,Aluminum and articles thereof,Northern Europe,Europe,917356
-2011,2011,Export,Georgia,76,Aluminum and articles thereof,South-eastern Asia,Asia,1721584
-2011,2011,Export,Georgia,76,Aluminum and articles thereof,Southern Europe,Europe,67699
-2011,2011,Export,Georgia,76,Aluminum and articles thereof,Sub-Saharan Africa,Africa,55
-2011,2011,Export,Georgia,76,Aluminum and articles thereof,Western Asia,Asia,5605412
-2011,2011,Export,Georgia,76,Aluminum and articles thereof,Western Europe,Europe,554549
-2011,2011,Export,Georgia,76,Aluminum and articles thereof,World,World,20656856
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,Georgia,76,Aluminum and articles thereof,Central Asia,Asia,60,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2011,2011,Export,Georgia,76,Aluminum and articles thereof,Eastern Asia,Asia,3802403,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2011,2011,Export,Georgia,76,Aluminum and articles thereof,Eastern Europe,Europe,409,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2011,2011,Export,Georgia,76,Aluminum and articles thereof,Northern America,Americas,263222,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2011,2011,Export,Georgia,76,Aluminum and articles thereof,Northern Europe,Europe,917356,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2011,2011,Export,Georgia,76,Aluminum and articles thereof,South-eastern Asia,Asia,1721584,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2011,2011,Export,Georgia,76,Aluminum and articles thereof,Southern Europe,Europe,67699,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2011,2011,Export,Georgia,76,Aluminum and articles thereof,Sub-Saharan Africa,Africa,55,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2011,2011,Export,Georgia,76,Aluminum and articles thereof,Western Asia,Asia,5605412,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2011,2011,Export,Georgia,76,Aluminum and articles thereof,Western Europe,Europe,554549,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2011,2011,Export,Georgia,76,Aluminum and articles thereof,World,World,20656856,32.3293809,-83.1137366,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Central Asia,Asia,47513
-2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,592484
-2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Eastern Europe,Europe,1037848
-2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Latin America and the Caribbean,Americas,14612
-2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Northern America,Americas,31267
-2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,23634
-2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,South-eastern Asia,Asia,54681
-2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Southern Asia,Asia,39472
-2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Western Asia,Asia,64570
-2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Western Europe,Europe,346750
-2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,World,World,2365215
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Central Asia,Asia,47513,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,592484,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Eastern Europe,Europe,1037848,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Latin America and the Caribbean,Americas,14612,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Northern America,Americas,31267,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,23634,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,South-eastern Asia,Asia,54681,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Southern Asia,Asia,39472,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Western Asia,Asia,64570,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,Western Europe,Europe,346750,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2006,2006,Import,Georgia,12,Oil seeds and oleaginous fruits,World,World,2365215,32.3293809,-83.1137366,,

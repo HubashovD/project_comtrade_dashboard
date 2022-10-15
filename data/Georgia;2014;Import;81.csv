@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Georgia,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,2085
-2014,2014,Import,Georgia,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,116636
-2014,2014,Import,Georgia,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,1930
-2014,2014,Import,Georgia,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,1739
-2014,2014,Import,Georgia,81,"Metals; n.e.c., cermets and articles thereof",Western Asia,Asia,141619
-2014,2014,Import,Georgia,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,8419
-2014,2014,Import,Georgia,81,"Metals; n.e.c., cermets and articles thereof",World,World,272507
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Georgia,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,2085,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2014,2014,Import,Georgia,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,116636,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2014,2014,Import,Georgia,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,1930,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2014,2014,Import,Georgia,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,1739,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2014,2014,Import,Georgia,81,"Metals; n.e.c., cermets and articles thereof",Western Asia,Asia,141619,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2014,2014,Import,Georgia,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,8419,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2014,2014,Import,Georgia,81,"Metals; n.e.c., cermets and articles thereof",World,World,272507,32.3293809,-83.1137366,,

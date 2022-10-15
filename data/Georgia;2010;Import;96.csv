@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,29
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Central Asia,Asia,111697
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Eastern Asia,Asia,3061277
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Eastern Europe,Europe,6795323
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,9461
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Northern Africa,Africa,212
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Northern America,Americas,1429574
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Northern Europe,Europe,1379967
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,25824
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Southern Asia,Asia,54249
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Southern Europe,Europe,1183201
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,526
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Western Asia,Asia,24862079
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Western Europe,Europe,1447775
-2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,World,World,42318134
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,29,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Central Asia,Asia,111697,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Eastern Asia,Asia,3061277,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Eastern Europe,Europe,6795323,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,9461,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Northern Africa,Africa,212,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Northern America,Americas,1429574,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Northern Europe,Europe,1379967,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,25824,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Southern Asia,Asia,54249,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Southern Europe,Europe,1183201,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,526,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Western Asia,Asia,24862079,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,Western Europe,Europe,1447775,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2010,2010,Import,Georgia,96,Miscellaneous manufactured articles,World,World,42318134,32.3293809,-83.1137366,,
