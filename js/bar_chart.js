@@ -81,7 +81,7 @@ function bar_chart() {
 
 
 
-                data = data.filter(d => d.ptTitle != 'World')
+                data = data.filter(d => d.Region != 'World')
 
                 TradeValue = []
 
@@ -104,7 +104,7 @@ function bar_chart() {
 
                 // Update the X axis
                 y.domain(data.map(function(d) {
-                    return d.ptTitle;
+                    return d.Region;
                 }))
 
                 yAxis.call(d3.axisLeft(y))
@@ -137,7 +137,7 @@ function bar_chart() {
                     .transition() // and apply changes to all of them
                     .duration(1000)
                     .attr("x", x(0))
-                    .attr("y", function(d) { return y(d.ptTitle); })
+                    .attr("y", function(d) { return y(d.Region); })
                     .attr("width", function(d) { return x(d.TradeValue); })
                     .attr("height", y.bandwidth())
                     .attr("fill", "#69b3a2")
