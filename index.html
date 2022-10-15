@@ -19,6 +19,8 @@
     <script src="https://cdn.jsdelivr.net/npm/d3-array@3"></script>
     <script src="https://cdn.jsdelivr.net/npm/d3-geo@3"></script>
     <script src="https://cdn.jsdelivr.net/npm/d3-geo-projection@4"></script>
+    <script src="https://cdn.rawgit.com/eligrey/canvas-toBlob.js/f1a01896135ab378aa5c0118eadd81da55e698d8/canvas-toBlob.js"></script>
+    <script src="https://cdn.rawgit.com/eligrey/FileSaver.js/e9d941381475b5df8b7d7691013401e171014e89/FileSaver.min.js"></script>
     <script src="js/sankey.js"></script>
     <script src="js/custom-select.js"></script>
 
@@ -40,6 +42,10 @@
                 <div id='categorySelector'> </div>
             </div>
         </div>
+        <p> One country, one category, one year, all patners</p>
+        <div id="mapchartBlock">
+            <div id='map_chart' width="700" height="700"> </div>
+        </div>
 
         <p> Describe correlation between total imports and export of country in selected year</p>
         <div id='pieChartBlock'>
@@ -49,23 +55,26 @@
         <div id='sankeyChartBlock'>
             <div id='sankey_chart'></div>
         </div>
+
         <p> One country, one category, one year, all patners</p>
         <div id='barchartBlock'>
             <div id="bar_chart"></div>
         </div>
-        <p> One country, one category, one year, all patners</p>
-        <div id="mapchartBlock">
-            <div id='map_chart' width="700" height="700"> </div>
-        </div>
+        <button id='saveButton'> 
+            Save barchart
+        </button>
+
         <p>Mena countries, one category, all years, total</p>
         <div id='linechartBlock'>
             <div id="line_chart" width="700" height="700"></div>
         </div>
         <div id='legend_block'></div>
+
         <p> One country, all categories, one year, total</p>
         <div id='scatterchartBlock'>
             <div id="scatter_chart" width="700" height="700"></div>
         </div>
+
         <p> One country, total, one year, total</p>
         <div id='hierarchyBlock'>
             <div id='hierarchy'></div>
@@ -121,7 +130,7 @@
     </script>
     <script>
         /* When the user clicks on the button, 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    toggle between hiding and showing the dropdown content */
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    toggle between hiding and showing the dropdown content */
         function myFunction() {
             document.getElementById("myDropdown").classList.toggle("show");
         }
