@@ -27,6 +27,7 @@ function bar_chart() {
         .append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
+        .attr("style", "background-color:white")
         .append("g")
         .attr("transform",
             "translate(" + margin.left + "," + margin.top + ")");
@@ -42,7 +43,7 @@ function bar_chart() {
 
     // Initialize the Y axis
     var y = d3.scaleBand()
-        .range([0, height])
+        .range([15, height])
 
     var yAxis = svg.append("g")
         .attr("class", "myYaxis")
@@ -77,11 +78,19 @@ function bar_chart() {
             // d3.csv('/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv',
             function(data) {
 
+
+                explainer = svg.append('text')
+
+                explainer
+                    .text("Country: " + country + ' Year: ' + year + ' Flow: ' + flow + ' Category num: ' + category)
+                    .attr("x", 0)
+                    .attr("y", 0)
+                    .style('font', '12px')
+                    .style('color', '#444444')
+                    .style('margin-bottom', '5px')
+                    .style("font-family", "'Montserrat', sans-serif")
+
                 var f = d3.format(".2s")
-
-
-
-
 
                 data = data.filter(d => d.Subregion != 'World')
 
@@ -178,6 +187,9 @@ function bar_chart() {
                 labels
                     .exit()
                     .remove()
+
+
+
 
 
 
@@ -293,10 +305,111 @@ function bar_chart() {
                     svgString2Image(svgString, 2 * width, 2 * height, 'png', save); // passes Blob and filesize String to the callback
 
                     function save(dataBlob, filesize) {
-                        saveAs(dataBlob, 'D3 vis exported to PNG.png'); // FileSaver.js function
+                        saveAs(dataBlob, country + '_' + year + '_' + flow + '_' + category + '.png'); // FileSaver.js function
                     }
                 });
 
+
+                function exportToCsv(filename, rows) {
+                    var processRow = function(row) {
+                        var finalVal = '';
+                        for (var j = 0; j < row.length; j++) {
+                            var innerValue = row[j] === null ? '' : row[j].toString();
+                            if (row[j] instanceof Date) {
+                                innerValue = row[j].toLocaleString();
+                            };
+                            var result = innerValue.replace(/"/g, '""');
+                            if (result.search(/("|,|\n)/g) >= 0)
+                                result = '"' + result + '"';
+                            if (j > 0)
+                                finalVal += ',';
+                            finalVal += result;
+                        }
+                        return finalVal + '\n';
+                    };
+
+                    var csvFile = '';
+                    for (var i = 0; i < rows.length; i++) {
+                        csvFile += processRow(rows[i]);
+                    }
+
+                    var blob = new Blob([csvFile], { type: 'text/csv;charset=utf-8;' });
+                    if (navigator.msSaveBlob) { // IE 10+
+                        navigator.msSaveBlob(blob, filename);
+                    } else {
+                        var link = document.createElement("a");
+                        if (link.download !== undefined) { // feature detection
+                            // Browsers that support HTML5 download attribute
+                            var url = URL.createObjectURL(blob);
+                            link.setAttribute("href", url);
+                            link.setAttribute("download", filename);
+                            link.style.visibility = 'hidden';
+                            document.body.appendChild(link);
+                            link.click();
+                            document.body.removeChild(link);
+                        }
+                    }
+                }
+
+
+
+                // console.log(data)
+
+                dataForDownload = []
+                head = []
+                    // console.log(data)
+
+                ignorelist = ["rtLat", "rtLon", "ptLon", "ptLat"]
+
+                for (const [key, value] of Object.entries(data[0])) {
+                    if (ignorelist.includes(key)) {} else {
+                        head.push(key)
+                    }
+                }
+
+                console.log(head)
+
+
+                dataForDownload.push(head)
+                data.forEach((elem) => {
+                    row = []
+                    for (const [key, value] of Object.entries(elem)) {
+                        if (ignorelist.includes(key)) {} else {
+                            row.push(value)
+                        }
+                    }
+                    dataForDownload.push(row)
+                })
+
+                console.log(dataForDownload)
+
+
+                // var downloadButtonDiv = document.getElementById("downloadButtonDiv");
+
+                // try {
+                //     while (downloadButtonDiv.firstChild) {
+                //         downloadButtonDiv.removeChild(downloadButtonDiv.lastChild);
+                //     }
+                // } catch {}
+
+                downloadButton = document.getElementById('saveButtonBarData')
+                    // downloadButton.type = "button"
+                    // downloadButton.value = "Download data"
+                    // downloadButton.id = "downloadButton"
+                    // downloadButtonDiv.appendChild(downloadButton)
+
+
+                // parentIndicator = document.querySelector('#indicatorsSelector')
+                // const btn9 = parentIndicator.querySelector('.select__toggle');
+                // // console.log(`Выбранное значение: ${btn9.innerHTML}`);
+                // csvName = btn9.innerHTML
+
+
+                var listener = function() {
+                    exportToCsv(country + '_' + year + '_' + flow + '_' + category, dataForDownload)
+                }
+
+                downloadButton.addEventListener('click', listener)
 
 
             })

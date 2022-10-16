@@ -25,6 +25,7 @@ function scatterChart() {
             .append("svg")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
+            .attr("style", "background-color:white")
             .append("g")
             .attr("transform",
                 "translate(" + margin.left + "," + margin.top + ")");
@@ -40,6 +41,17 @@ function scatterChart() {
         d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + "scatter;" + year + '.0;' + country + '.csv', function(data) {
 
             // console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + "scatter;" + year + '.0;' + country + '.csv')
+
+            explainer = svg.append('text')
+
+            explainer
+                .text("Country: " + country + ' Year: ' + year)
+                .attr("x", 0)
+                .attr("y", 5)
+                .style('font', '12px')
+                .style('color', '#444444')
+                .style('margin-bottom', '5px')
+                .style("font-family", "'Montserrat', sans-serif")
 
 
 
@@ -63,7 +75,7 @@ function scatterChart() {
             // Add Y axis
             var y = d3.scaleLinear()
                 .domain([0, d3.max(data, function(d) { return +d.TradeValue_import })])
-                .range([height, 0]);
+                .range([height, 20]);
 
             yAxis = svg.append("g")
                 .call(d3.axisLeft(y));
@@ -240,7 +252,7 @@ function scatterChart() {
                 svgString2Image(svgString, 2 * width, 2 * height, 'png', save); // passes Blob and filesize String to the callback
 
                 function save(dataBlob, filesize) {
-                    saveAs(dataBlob, 'D3 vis exported to PNG.png'); // FileSaver.js function
+                    saveAs(dataBlob, 'scatter_' + year + '_' + country + '.png'); // FileSaver.js function
                 }
             });
 

@@ -21,6 +21,7 @@ function map_chart() {
         var mapsvg = d3.select("#map_chart").append("svg")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
+            .attr("style", "background-color:white")
             .append("g")
             .attr("transform",
                 "translate(" + margin.left + "," + margin.top + ")");
@@ -49,6 +50,19 @@ function map_chart() {
 
         function ready(error, dataGeo, data) {
             console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv')
+
+
+
+            explainer = mapsvg.append('text')
+
+            explainer
+                .text("Country: " + country + ' Year: ' + year + ' Flow: ' + flow + ' Category num: ' + category)
+                .attr("x", 0)
+                .attr("y", 0)
+                .style('font', '12px')
+                .style('color', '#444444')
+                .style('margin-bottom', '5px')
+                .style("font-family", "'Montserrat', sans-serif")
 
             // Reformat the list of link. Note that columns in csv file are called long1, long2, lat1, lat2
             var link = []
