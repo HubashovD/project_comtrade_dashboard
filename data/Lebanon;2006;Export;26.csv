@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Lebanon,26,"Ores, slag and ash",Northern Europe,Europe,141
-2006,2006,Export,Lebanon,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,23873
-2006,2006,Export,Lebanon,26,"Ores, slag and ash",Western Europe,Europe,435710
-2006,2006,Export,Lebanon,26,"Ores, slag and ash",World,World,459724
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Lebanon,26,"Ores, slag and ash",Northern Europe,Europe,141,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2006,2006,Export,Lebanon,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,23873,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2006,2006,Export,Lebanon,26,"Ores, slag and ash",Western Europe,Europe,435710,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2006,2006,Export,Lebanon,26,"Ores, slag and ash",World,World,459724,33.8750629,35.843409,,

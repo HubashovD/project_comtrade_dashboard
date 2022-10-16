@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Eastern Asia,Asia,3452388
-1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Eastern Europe,Europe,80399
-1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,40772
-1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Northern Africa,Africa,239021
-1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Northern America,Americas,486851
-1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Northern Europe,Europe,388043
-1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,369143
-1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Southern Asia,Asia,46596
-1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Southern Europe,Europe,810547
-1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Western Asia,Asia,516270
-1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Western Europe,Europe,1455973
-1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,World,World,10678742
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Eastern Asia,Asia,3452388,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Eastern Europe,Europe,80399,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,40772,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Northern Africa,Africa,239021,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Northern America,Americas,486851,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Northern Europe,Europe,388043,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,369143,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Southern Asia,Asia,46596,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Southern Europe,Europe,810547,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Western Asia,Asia,516270,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,Western Europe,Europe,1455973,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1994,1994,Import,Jordan,96,Miscellaneous manufactured articles,World,World,10678742,31.1667049,36.941628,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Re-Export,Kuwait,72,Iron and steel,Latin America and the Caribbean,Americas,84504
-2000,2000,Re-Export,Kuwait,72,Iron and steel,Northern Africa,Africa,39
-2000,2000,Re-Export,Kuwait,72,Iron and steel,South-eastern Asia,Asia,22949
-2000,2000,Re-Export,Kuwait,72,Iron and steel,Southern Asia,Asia,760148
-2000,2000,Re-Export,Kuwait,72,Iron and steel,Southern Europe,Europe,52107
-2000,2000,Re-Export,Kuwait,72,Iron and steel,Western Europe,Europe,57312
-2000,2000,Re-Export,Kuwait,72,Iron and steel,World,World,1709177
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Re-Export,Kuwait,72,Iron and steel,Latin America and the Caribbean,Americas,84504,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2000,2000,Re-Export,Kuwait,72,Iron and steel,Northern Africa,Africa,39,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2000,2000,Re-Export,Kuwait,72,Iron and steel,South-eastern Asia,Asia,22949,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2000,2000,Re-Export,Kuwait,72,Iron and steel,Southern Asia,Asia,760148,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Re-Export,Kuwait,72,Iron and steel,Southern Europe,Europe,52107,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2000,2000,Re-Export,Kuwait,72,Iron and steel,Western Europe,Europe,57312,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Re-Export,Kuwait,72,Iron and steel,World,World,1709177,29.2733964,47.4979476,,

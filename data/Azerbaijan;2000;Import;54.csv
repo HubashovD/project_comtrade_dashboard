@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,54,Manmade filaments,Eastern Asia,Asia,80416
-2000,2000,Import,Azerbaijan,54,Manmade filaments,Eastern Europe,Europe,20265
-2000,2000,Import,Azerbaijan,54,Manmade filaments,Southern Asia,Asia,1448266
-2000,2000,Import,Azerbaijan,54,Manmade filaments,Western Asia,Asia,1612971
-2000,2000,Import,Azerbaijan,54,Manmade filaments,Western Europe,Europe,1482
-2000,2000,Import,Azerbaijan,54,Manmade filaments,World,World,3226630
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,54,Manmade filaments,Eastern Asia,Asia,80416,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Import,Azerbaijan,54,Manmade filaments,Eastern Europe,Europe,20265,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Import,Azerbaijan,54,Manmade filaments,Southern Asia,Asia,1448266,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Import,Azerbaijan,54,Manmade filaments,Western Asia,Asia,1612971,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Import,Azerbaijan,54,Manmade filaments,Western Europe,Europe,1482,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Import,Azerbaijan,54,Manmade filaments,World,World,3226630,40.3936294,47.7872508,,

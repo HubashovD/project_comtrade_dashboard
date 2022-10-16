@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Central Asia,Asia,819
-1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,5628
-1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,8250
-1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,10648
-1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,2918
-1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Asia,Asia,8179
-1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,51429
-1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,89954
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Central Asia,Asia,819,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,5628,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,8250,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,10648,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,2918,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Asia,Asia,8179,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,51429,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1999,1999,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,89954,40.3936294,47.7872508,,

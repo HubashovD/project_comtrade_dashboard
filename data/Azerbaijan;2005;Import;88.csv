@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Central Asia,Asia,5014632
-2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,150
-2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,16875464
-2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,1497915
-2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,50267
-2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Sub-Saharan Africa,Africa,1500
-2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Western Asia,Asia,4851
-2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,65276894
-2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",World,World,96355869
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Central Asia,Asia,5014632,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,150,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,16875464,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,1497915,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,50267,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Sub-Saharan Africa,Africa,1500,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Western Asia,Asia,4851,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,65276894,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2005,2005,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",World,World,96355869,40.3936294,47.7872508,,

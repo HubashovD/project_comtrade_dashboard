@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,69,Ceramic products,Australia and New Zealand,Oceania,1268
-2014,2014,Import,Iraq,69,Ceramic products,Eastern Asia,Asia,23048660
-2014,2014,Import,Iraq,69,Ceramic products,Eastern Europe,Europe,1037
-2014,2014,Import,Iraq,69,Ceramic products,Latin America and the Caribbean,Americas,920034
-2014,2014,Import,Iraq,69,Ceramic products,Northern Africa,Africa,243263
-2014,2014,Import,Iraq,69,Ceramic products,Northern America,Americas,4108494
-2014,2014,Import,Iraq,69,Ceramic products,Northern Europe,Europe,965343
-2014,2014,Import,Iraq,69,Ceramic products,South-eastern Asia,Asia,396402
-2014,2014,Import,Iraq,69,Ceramic products,Southern Asia,Asia,17176671
-2014,2014,Import,Iraq,69,Ceramic products,Southern Europe,Europe,4451240
-2014,2014,Import,Iraq,69,Ceramic products,Sub-Saharan Africa,Africa,1268
-2014,2014,Import,Iraq,69,Ceramic products,Western Asia,Asia,344168
-2014,2014,Import,Iraq,69,Ceramic products,Western Europe,Europe,1072043
-2014,2014,Import,Iraq,69,Ceramic products,World,World,79086899
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,69,Ceramic products,Australia and New Zealand,Oceania,1268,33.0955793,44.1749775,-16.85099460447687,133.4130365630627
+2014,2014,Import,Iraq,69,Ceramic products,Eastern Asia,Asia,23048660,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,69,Ceramic products,Eastern Europe,Europe,1037,33.0955793,44.1749775,51.67568633314729,27.673469819741847
+2014,2014,Import,Iraq,69,Ceramic products,Latin America and the Caribbean,Americas,920034,33.0955793,44.1749775,17.925141963241547,-78.01492950057497
+2014,2014,Import,Iraq,69,Ceramic products,Northern Africa,Africa,243263,33.0955793,44.1749775,19.569604022535763,12.47761721199581
+2014,2014,Import,Iraq,69,Ceramic products,Northern America,Americas,4108494,33.0955793,44.1749775,43.897683433510366,-100.08947125585888
+2014,2014,Import,Iraq,69,Ceramic products,Northern Europe,Europe,965343,33.0955793,44.1749775,59.36075159783851,25.01346951967388
+2014,2014,Import,Iraq,69,Ceramic products,South-eastern Asia,Asia,396402,33.0955793,44.1749775,10.528384761701911,103.08333472012376
+2014,2014,Import,Iraq,69,Ceramic products,Southern Asia,Asia,17176671,33.0955793,44.1749775,25.499703063807168,75.5024015339642
+2014,2014,Import,Iraq,69,Ceramic products,Southern Europe,Europe,4451240,33.0955793,44.1749775,40.12399607988535,20.742583178432696
+2014,2014,Import,Iraq,69,Ceramic products,Sub-Saharan Africa,Africa,1268,33.0955793,44.1749775,6.06272746187266,22.727528470146083
+2014,2014,Import,Iraq,69,Ceramic products,Western Asia,Asia,344168,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,69,Ceramic products,Western Europe,Europe,1072043,33.0955793,44.1749775,47.92172048214207,7.866753258497997
+2014,2014,Import,Iraq,69,Ceramic products,World,World,79086899,33.0955793,44.1749775,,

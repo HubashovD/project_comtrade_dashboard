@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Azerbaijan,31,Fertilisers,Southern Asia,Asia,18000
-2010,2010,Export,Azerbaijan,31,Fertilisers,Western Europe,Europe,58
-2010,2010,Export,Azerbaijan,31,Fertilisers,World,World,18058
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Azerbaijan,31,Fertilisers,Southern Asia,Asia,18000,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2010,2010,Export,Azerbaijan,31,Fertilisers,Western Europe,Europe,58,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2010,2010,Export,Azerbaijan,31,Fertilisers,World,World,18058,40.3936294,47.7872508,,

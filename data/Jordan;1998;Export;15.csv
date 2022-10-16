@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Eastern Europe,Europe,3000
-1998,1998,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern America,Americas,69843
-1998,1998,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Sub-Saharan Africa,Africa,19746
-1998,1998,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Asia,Asia,86114
-1998,1998,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Europe,Europe,16420
-1998,1998,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",World,World,79448824
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Eastern Europe,Europe,3000,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1998,1998,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern America,Americas,69843,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1998,1998,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Sub-Saharan Africa,Africa,19746,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1998,1998,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Asia,Asia,86114,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1998,1998,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Europe,Europe,16420,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1998,1998,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",World,World,79448824,31.1667049,36.941628,,

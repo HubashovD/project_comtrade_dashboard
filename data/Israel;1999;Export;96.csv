@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,253000
-1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Eastern Asia,Asia,108000
-1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Eastern Europe,Europe,32000
-1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,57000
-1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Northern Africa,Africa,538000
-1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Northern America,Americas,3739000
-1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Northern Europe,Europe,910000
-1999,1999,Export,Israel,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,83000
-1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Southern Asia,Asia,417000
-1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Southern Europe,Europe,752000
-1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,426000
-1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Western Asia,Asia,109000
-1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Western Europe,Europe,2481000
-1999,1999,Export,Israel,96,Miscellaneous manufactured articles,World,World,10261000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,253000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Eastern Asia,Asia,108000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Eastern Europe,Europe,32000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,57000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Northern Africa,Africa,538000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Northern America,Americas,3739000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Northern Europe,Europe,910000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1999,1999,Export,Israel,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,83000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Southern Asia,Asia,417000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Southern Europe,Europe,752000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,426000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Western Asia,Asia,109000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1999,1999,Export,Israel,96,Miscellaneous manufactured articles,Western Europe,Europe,2481000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1999,1999,Export,Israel,96,Miscellaneous manufactured articles,World,World,10261000,30.8124247,34.8594762,,

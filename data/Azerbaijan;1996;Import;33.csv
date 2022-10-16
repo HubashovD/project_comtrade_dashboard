@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,979
-1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,319661
-1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,22865
-1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,1729
-1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,23278
-1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Asia,Asia,301108
-1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,834209
-1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,412410
-1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,2531281
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,979,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,319661,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,22865,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,1729,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,23278,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Asia,Asia,301108,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,834209,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,412410,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1996,1996,Import,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,2531281,40.3936294,47.7872508,,

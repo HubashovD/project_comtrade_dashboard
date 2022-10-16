@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Re-Export,Jordan,28,Inorganic chemicals,Eastern Asia,Asia,10625
-2005,2005,Re-Export,Jordan,28,Inorganic chemicals,Northern Africa,Africa,4200
-2005,2005,Re-Export,Jordan,28,Inorganic chemicals,Southern Europe,Europe,25300
-2005,2005,Re-Export,Jordan,28,Inorganic chemicals,Western Asia,Asia,513
-2005,2005,Re-Export,Jordan,28,Inorganic chemicals,Western Europe,Europe,1199
-2005,2005,Re-Export,Jordan,28,Inorganic chemicals,World,World,3191077
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Re-Export,Jordan,28,Inorganic chemicals,Eastern Asia,Asia,10625,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2005,2005,Re-Export,Jordan,28,Inorganic chemicals,Northern Africa,Africa,4200,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2005,2005,Re-Export,Jordan,28,Inorganic chemicals,Southern Europe,Europe,25300,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2005,2005,Re-Export,Jordan,28,Inorganic chemicals,Western Asia,Asia,513,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2005,2005,Re-Export,Jordan,28,Inorganic chemicals,Western Europe,Europe,1199,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2005,2005,Re-Export,Jordan,28,Inorganic chemicals,World,World,3191077,31.1667049,36.941628,,

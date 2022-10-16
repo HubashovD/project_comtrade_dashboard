@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Azerbaijan,52,Cotton,Central Asia,Asia,821946
-2018,2018,Import,Azerbaijan,52,Cotton,Eastern Asia,Asia,854978
-2018,2018,Import,Azerbaijan,52,Cotton,Eastern Europe,Europe,434730
-2018,2018,Import,Azerbaijan,52,Cotton,Northern Europe,Europe,61615
-2018,2018,Import,Azerbaijan,52,Cotton,South-eastern Asia,Asia,3485
-2018,2018,Import,Azerbaijan,52,Cotton,Southern Asia,Asia,81977
-2018,2018,Import,Azerbaijan,52,Cotton,Southern Europe,Europe,61661
-2018,2018,Import,Azerbaijan,52,Cotton,Western Asia,Asia,2659391
-2018,2018,Import,Azerbaijan,52,Cotton,Western Europe,Europe,13157
-2018,2018,Import,Azerbaijan,52,Cotton,World,World,5528810
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Azerbaijan,52,Cotton,Central Asia,Asia,821946,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2018,2018,Import,Azerbaijan,52,Cotton,Eastern Asia,Asia,854978,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2018,2018,Import,Azerbaijan,52,Cotton,Eastern Europe,Europe,434730,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2018,2018,Import,Azerbaijan,52,Cotton,Northern Europe,Europe,61615,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2018,2018,Import,Azerbaijan,52,Cotton,South-eastern Asia,Asia,3485,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2018,2018,Import,Azerbaijan,52,Cotton,Southern Asia,Asia,81977,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2018,2018,Import,Azerbaijan,52,Cotton,Southern Europe,Europe,61661,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2018,2018,Import,Azerbaijan,52,Cotton,Western Asia,Asia,2659391,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2018,2018,Import,Azerbaijan,52,Cotton,Western Europe,Europe,13157,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2018,2018,Import,Azerbaijan,52,Cotton,World,World,5528810,40.3936294,47.7872508,,

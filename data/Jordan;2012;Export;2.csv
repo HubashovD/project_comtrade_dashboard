@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Export,Jordan,2,Meat and edible meat offal,Eastern Asia,Asia,394878
-2012,2012,Export,Jordan,2,Meat and edible meat offal,Northern Africa,Africa,444944
-2012,2012,Export,Jordan,2,Meat and edible meat offal,Northern America,Americas,217059
-2012,2012,Export,Jordan,2,Meat and edible meat offal,South-eastern Asia,Asia,341976
-2012,2012,Export,Jordan,2,Meat and edible meat offal,Southern Europe,Europe,20731
-2012,2012,Export,Jordan,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,1068595
-2012,2012,Export,Jordan,2,Meat and edible meat offal,Western Asia,Asia,101703
-2012,2012,Export,Jordan,2,Meat and edible meat offal,World,World,74379183
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Export,Jordan,2,Meat and edible meat offal,Eastern Asia,Asia,394878,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2012,2012,Export,Jordan,2,Meat and edible meat offal,Northern Africa,Africa,444944,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2012,2012,Export,Jordan,2,Meat and edible meat offal,Northern America,Americas,217059,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2012,2012,Export,Jordan,2,Meat and edible meat offal,South-eastern Asia,Asia,341976,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2012,2012,Export,Jordan,2,Meat and edible meat offal,Southern Europe,Europe,20731,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2012,2012,Export,Jordan,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,1068595,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2012,2012,Export,Jordan,2,Meat and edible meat offal,Western Asia,Asia,101703,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2012,2012,Export,Jordan,2,Meat and edible meat offal,World,World,74379183,31.1667049,36.941628,,

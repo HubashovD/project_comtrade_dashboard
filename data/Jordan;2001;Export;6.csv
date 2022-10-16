@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Jordan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Asia,Asia,20903
-2001,2001,Export,Jordan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Asia,Asia,4231
-2001,2001,Export,Jordan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Europe,Europe,31510
-2001,2001,Export,Jordan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Europe,Europe,32648
-2001,2001,Export,Jordan,6,"Live trees, plants, bulbs, roots, cut flowers etc",World,World,1084087
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Jordan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Asia,Asia,20903,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2001,2001,Export,Jordan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Asia,Asia,4231,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2001,2001,Export,Jordan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Europe,Europe,31510,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2001,2001,Export,Jordan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Europe,Europe,32648,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2001,2001,Export,Jordan,6,"Live trees, plants, bulbs, roots, cut flowers etc",World,World,1084087,31.1667049,36.941628,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Asia,Asia,15971
-2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Europe,Europe,752
-2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",Northern America,Americas,4640
-2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Europe,Europe,27183
-2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",South-eastern Asia,Asia,26480
-2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",Southern Europe,Europe,12948
-2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",Western Asia,Asia,20614
-2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",Western Europe,Europe,81205
-2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",World,World,193017
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Asia,Asia,15971,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Europe,Europe,752,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",Northern America,Americas,4640,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Europe,Europe,27183,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",South-eastern Asia,Asia,26480,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",Southern Europe,Europe,12948,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",Western Asia,Asia,20614,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",Western Europe,Europe,81205,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2015,2015,Import,Azerbaijan,13,"Lac; gums, resins and other vegetable saps and extracts",World,World,193017,40.3936294,47.7872508,,

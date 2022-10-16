@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Export,Azerbaijan,40,Rubber and articles thereof,Central Asia,Asia,215032
-2004,2004,Export,Azerbaijan,40,Rubber and articles thereof,Eastern Europe,Europe,20631
-2004,2004,Export,Azerbaijan,40,Rubber and articles thereof,Northern America,Americas,6
-2004,2004,Export,Azerbaijan,40,Rubber and articles thereof,Northern Europe,Europe,5380
-2004,2004,Export,Azerbaijan,40,Rubber and articles thereof,Southern Asia,Asia,7325
-2004,2004,Export,Azerbaijan,40,Rubber and articles thereof,Western Asia,Asia,27641
-2004,2004,Export,Azerbaijan,40,Rubber and articles thereof,World,World,279011
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Export,Azerbaijan,40,Rubber and articles thereof,Central Asia,Asia,215032,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2004,2004,Export,Azerbaijan,40,Rubber and articles thereof,Eastern Europe,Europe,20631,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2004,2004,Export,Azerbaijan,40,Rubber and articles thereof,Northern America,Americas,6,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2004,2004,Export,Azerbaijan,40,Rubber and articles thereof,Northern Europe,Europe,5380,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2004,2004,Export,Azerbaijan,40,Rubber and articles thereof,Southern Asia,Asia,7325,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2004,2004,Export,Azerbaijan,40,Rubber and articles thereof,Western Asia,Asia,27641,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2004,2004,Export,Azerbaijan,40,Rubber and articles thereof,World,World,279011,40.3936294,47.7872508,,

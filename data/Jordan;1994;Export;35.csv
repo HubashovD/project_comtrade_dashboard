@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Export,Jordan,35,"Albuminoids, modified starches, glues, enzymes",Northern Africa,Africa,5295
-1994,1994,Export,Jordan,35,"Albuminoids, modified starches, glues, enzymes",Northern Europe,Europe,7864
-1994,1994,Export,Jordan,35,"Albuminoids, modified starches, glues, enzymes",Southern Europe,Europe,12995
-1994,1994,Export,Jordan,35,"Albuminoids, modified starches, glues, enzymes",Western Asia,Asia,355395
-1994,1994,Export,Jordan,35,"Albuminoids, modified starches, glues, enzymes",World,World,2539546
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Export,Jordan,35,"Albuminoids, modified starches, glues, enzymes",Northern Africa,Africa,5295,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1994,1994,Export,Jordan,35,"Albuminoids, modified starches, glues, enzymes",Northern Europe,Europe,7864,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Export,Jordan,35,"Albuminoids, modified starches, glues, enzymes",Southern Europe,Europe,12995,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1994,1994,Export,Jordan,35,"Albuminoids, modified starches, glues, enzymes",Western Asia,Asia,355395,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1994,1994,Export,Jordan,35,"Albuminoids, modified starches, glues, enzymes",World,World,2539546,31.1667049,36.941628,,

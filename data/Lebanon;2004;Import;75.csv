@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Import,Lebanon,75,Nickel and articles thereof,Eastern Asia,Asia,122000
-2004,2004,Import,Lebanon,75,Nickel and articles thereof,Northern America,Americas,20000
-2004,2004,Import,Lebanon,75,Nickel and articles thereof,Northern Europe,Europe,21000
-2004,2004,Import,Lebanon,75,Nickel and articles thereof,Southern Europe,Europe,53000
-2004,2004,Import,Lebanon,75,Nickel and articles thereof,Western Europe,Europe,36000
-2004,2004,Import,Lebanon,75,Nickel and articles thereof,World,World,254000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Import,Lebanon,75,Nickel and articles thereof,Eastern Asia,Asia,122000,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2004,2004,Import,Lebanon,75,Nickel and articles thereof,Northern America,Americas,20000,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2004,2004,Import,Lebanon,75,Nickel and articles thereof,Northern Europe,Europe,21000,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2004,2004,Import,Lebanon,75,Nickel and articles thereof,Southern Europe,Europe,53000,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2004,2004,Import,Lebanon,75,Nickel and articles thereof,Western Europe,Europe,36000,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2004,2004,Import,Lebanon,75,Nickel and articles thereof,World,World,254000,33.8750629,35.843409,,

@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Eastern Asia,Asia,287000
-1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Eastern Europe,Europe,379000
-1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Latin America and the Caribbean,Americas,64000
-1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Northern America,Americas,15242000
-1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Northern Europe,Europe,1296000
-1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",South-eastern Asia,Asia,5833000
-1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Southern Europe,Europe,2849000
-1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Western Asia,Asia,20000
-1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Western Europe,Europe,1002000
-1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",World,World,27129000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Eastern Asia,Asia,287000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Eastern Europe,Europe,379000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Latin America and the Caribbean,Americas,64000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Northern America,Americas,15242000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Northern Europe,Europe,1296000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",South-eastern Asia,Asia,5833000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Southern Europe,Europe,2849000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Western Asia,Asia,20000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",Western Europe,Europe,1002000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1998,1998,Import,Israel,16,"Meat, fish and seafood food preparations nes",World,World,27129000,30.8124247,34.8594762,,

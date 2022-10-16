@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Eastern Asia,Asia,668314
-2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Eastern Europe,Europe,45075
-2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Northern Africa,Africa,66637
-2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Northern America,Americas,12245849
-2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Northern Europe,Europe,35117
-2008,2008,Export,Kuwait,38,Miscellaneous chemical products,South-eastern Asia,Asia,107720
-2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Southern Asia,Asia,164615
-2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Southern Europe,Europe,75
-2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,743735
-2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Western Asia,Asia,101441
-2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Western Europe,Europe,1743051
-2008,2008,Export,Kuwait,38,Miscellaneous chemical products,World,World,18923063
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Eastern Asia,Asia,668314,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Eastern Europe,Europe,45075,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Northern Africa,Africa,66637,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Northern America,Americas,12245849,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Northern Europe,Europe,35117,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2008,2008,Export,Kuwait,38,Miscellaneous chemical products,South-eastern Asia,Asia,107720,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Southern Asia,Asia,164615,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Southern Europe,Europe,75,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,743735,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Western Asia,Asia,101441,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2008,2008,Export,Kuwait,38,Miscellaneous chemical products,Western Europe,Europe,1743051,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Export,Kuwait,38,Miscellaneous chemical products,World,World,18923063,29.2733964,47.4979476,,

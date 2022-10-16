@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,1049
-2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Eastern Asia,Asia,4713218
-2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Eastern Europe,Europe,47444
-2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,64322
-2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Northern Africa,Africa,400222
-2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Northern America,Americas,33922
-2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Northern Europe,Europe,2438001
-2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Polynesia,Oceania,103
-2001,2001,Export,Lebanon,76,Aluminium and articles thereof,South-eastern Asia,Asia,19367
-2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Southern Europe,Europe,1249478
-2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,1180919
-2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Western Asia,Asia,1276237
-2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Western Europe,Europe,9027094
-2001,2001,Export,Lebanon,76,Aluminium and articles thereof,World,World,23884513
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,1049,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Eastern Asia,Asia,4713218,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Eastern Europe,Europe,47444,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,64322,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Northern Africa,Africa,400222,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Northern America,Americas,33922,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Northern Europe,Europe,2438001,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Polynesia,Oceania,103,33.8750629,35.843409,-5.109184731250752,167.40343615892436
+2001,2001,Export,Lebanon,76,Aluminium and articles thereof,South-eastern Asia,Asia,19367,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Southern Europe,Europe,1249478,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,1180919,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Western Asia,Asia,1276237,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2001,2001,Export,Lebanon,76,Aluminium and articles thereof,Western Europe,Europe,9027094,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2001,2001,Export,Lebanon,76,Aluminium and articles thereof,World,World,23884513,33.8750629,35.843409,,

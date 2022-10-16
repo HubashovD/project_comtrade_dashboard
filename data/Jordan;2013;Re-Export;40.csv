@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,Australia and New Zealand,Oceania,1923
-2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,Northern Africa,Africa,1819
-2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,Northern Europe,Europe,2479
-2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,South-eastern Asia,Asia,423
-2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,Southern Asia,Asia,6579
-2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,Southern Europe,Europe,1399
-2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,Western Asia,Asia,73441
-2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,World,World,7410337
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,Australia and New Zealand,Oceania,1923,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,Northern Africa,Africa,1819,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,Northern Europe,Europe,2479,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,South-eastern Asia,Asia,423,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,Southern Asia,Asia,6579,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,Southern Europe,Europe,1399,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,Western Asia,Asia,73441,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2013,2013,Re-Export,Jordan,40,Rubber and articles thereof,World,World,7410337,31.1667049,36.941628,,

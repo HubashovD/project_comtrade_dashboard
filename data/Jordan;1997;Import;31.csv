@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Jordan,31,Fertilizers,Eastern Europe,Europe,3410495
-1997,1997,Import,Jordan,31,Fertilizers,Latin America and the Caribbean,Americas,128793
-1997,1997,Import,Jordan,31,Fertilizers,Northern Africa,Africa,1890489
-1997,1997,Import,Jordan,31,Fertilizers,Northern America,Americas,712491
-1997,1997,Import,Jordan,31,Fertilizers,Northern Europe,Europe,456477
-1997,1997,Import,Jordan,31,Fertilizers,Southern Asia,Asia,1611673
-1997,1997,Import,Jordan,31,Fertilizers,Southern Europe,Europe,760829
-1997,1997,Import,Jordan,31,Fertilizers,Western Asia,Asia,23923
-1997,1997,Import,Jordan,31,Fertilizers,Western Europe,Europe,1207000
-1997,1997,Import,Jordan,31,Fertilizers,World,World,12661235
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Jordan,31,Fertilizers,Eastern Europe,Europe,3410495,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1997,1997,Import,Jordan,31,Fertilizers,Latin America and the Caribbean,Americas,128793,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1997,1997,Import,Jordan,31,Fertilizers,Northern Africa,Africa,1890489,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1997,1997,Import,Jordan,31,Fertilizers,Northern America,Americas,712491,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1997,1997,Import,Jordan,31,Fertilizers,Northern Europe,Europe,456477,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1997,1997,Import,Jordan,31,Fertilizers,Southern Asia,Asia,1611673,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1997,1997,Import,Jordan,31,Fertilizers,Southern Europe,Europe,760829,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1997,1997,Import,Jordan,31,Fertilizers,Western Asia,Asia,23923,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1997,1997,Import,Jordan,31,Fertilizers,Western Europe,Europe,1207000,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1997,1997,Import,Jordan,31,Fertilizers,World,World,12661235,31.1667049,36.941628,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Israel,70,Glass and glassware,Australia and New Zealand,Oceania,152000
-1999,1999,Import,Israel,70,Glass and glassware,Central Asia,Asia,12000
-1999,1999,Import,Israel,70,Glass and glassware,Eastern Asia,Asia,9699000
-1999,1999,Import,Israel,70,Glass and glassware,Eastern Europe,Europe,4962000
-1999,1999,Import,Israel,70,Glass and glassware,Latin America and the Caribbean,Americas,851000
-1999,1999,Import,Israel,70,Glass and glassware,Northern Africa,Africa,186000
-1999,1999,Import,Israel,70,Glass and glassware,Northern America,Americas,21650000
-1999,1999,Import,Israel,70,Glass and glassware,Northern Europe,Europe,10956000
-1999,1999,Import,Israel,70,Glass and glassware,South-eastern Asia,Asia,1556000
-1999,1999,Import,Israel,70,Glass and glassware,Southern Europe,Europe,22592000
-1999,1999,Import,Israel,70,Glass and glassware,Sub-Saharan Africa,Africa,17000
-1999,1999,Import,Israel,70,Glass and glassware,Western Asia,Asia,8994000
-1999,1999,Import,Israel,70,Glass and glassware,Western Europe,Europe,39259000
-1999,1999,Import,Israel,70,Glass and glassware,World,World,124193000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Israel,70,Glass and glassware,Australia and New Zealand,Oceania,152000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1999,1999,Import,Israel,70,Glass and glassware,Central Asia,Asia,12000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+1999,1999,Import,Israel,70,Glass and glassware,Eastern Asia,Asia,9699000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1999,1999,Import,Israel,70,Glass and glassware,Eastern Europe,Europe,4962000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1999,1999,Import,Israel,70,Glass and glassware,Latin America and the Caribbean,Americas,851000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1999,1999,Import,Israel,70,Glass and glassware,Northern Africa,Africa,186000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1999,1999,Import,Israel,70,Glass and glassware,Northern America,Americas,21650000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1999,1999,Import,Israel,70,Glass and glassware,Northern Europe,Europe,10956000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1999,1999,Import,Israel,70,Glass and glassware,South-eastern Asia,Asia,1556000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1999,1999,Import,Israel,70,Glass and glassware,Southern Europe,Europe,22592000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1999,1999,Import,Israel,70,Glass and glassware,Sub-Saharan Africa,Africa,17000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1999,1999,Import,Israel,70,Glass and glassware,Western Asia,Asia,8994000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1999,1999,Import,Israel,70,Glass and glassware,Western Europe,Europe,39259000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1999,1999,Import,Israel,70,Glass and glassware,World,World,124193000,30.8124247,34.8594762,,

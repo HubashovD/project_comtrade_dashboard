@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,1305
-2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Central Asia,Asia,446366
-2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Eastern Asia,Asia,9040
-2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Eastern Europe,Europe,267177
-2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Northern Africa,Africa,1910
-2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Northern America,Americas,353686
-2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Northern Europe,Europe,2698598
-2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",South-eastern Asia,Asia,7230
-2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Southern Asia,Asia,36040
-2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Southern Europe,Europe,4251
-2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Western Asia,Asia,220130
-2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Western Europe,Europe,54344
-2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",World,World,6155153
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,1305,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Central Asia,Asia,446366,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Eastern Asia,Asia,9040,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Eastern Europe,Europe,267177,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Northern Africa,Africa,1910,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Northern America,Americas,353686,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Northern Europe,Europe,2698598,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",South-eastern Asia,Asia,7230,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Southern Asia,Asia,36040,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Southern Europe,Europe,4251,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Western Asia,Asia,220130,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",Western Europe,Europe,54344,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2003,2003,Export,Azerbaijan,85,"Electrical, electronic equipment",World,World,6155153,40.3936294,47.7872508,,

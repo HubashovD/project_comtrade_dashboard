@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Lebanon,24,Tobacco and manufactured tobacco substitutes,Australia and New Zealand,Oceania,2100
-1999,1999,Export,Lebanon,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,799071
-1999,1999,Export,Lebanon,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,102785
-1999,1999,Export,Lebanon,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,14170755
-1999,1999,Export,Lebanon,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,1287798
-1999,1999,Export,Lebanon,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,8440981
-1999,1999,Export,Lebanon,24,Tobacco and manufactured tobacco substitutes,World,World,24810668
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Lebanon,24,Tobacco and manufactured tobacco substitutes,Australia and New Zealand,Oceania,2100,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+1999,1999,Export,Lebanon,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,799071,33.8750629,35.843409,51.67568633314729,27.673469819741847
+1999,1999,Export,Lebanon,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,102785,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+1999,1999,Export,Lebanon,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,14170755,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1999,1999,Export,Lebanon,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,1287798,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1999,1999,Export,Lebanon,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,8440981,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1999,1999,Export,Lebanon,24,Tobacco and manufactured tobacco substitutes,World,World,24810668,33.8750629,35.843409,,

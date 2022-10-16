@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,340427
-2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Eastern Asia,Asia,1639894
-2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Eastern Europe,Europe,28809501
-2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,241983
-2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Northern Africa,Africa,18076941
-2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Northern America,Americas,5399584
-2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Northern Europe,Europe,20967717
-2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,7474986
-2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Southern Asia,Asia,54013
-2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Southern Europe,Europe,18028489
-2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,18010
-2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Western Asia,Asia,10550359
-2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Western Europe,Europe,47858125
-2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,World,World,186046459
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,340427,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Eastern Asia,Asia,1639894,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Eastern Europe,Europe,28809501,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,241983,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Northern Africa,Africa,18076941,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Northern America,Americas,5399584,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Northern Europe,Europe,20967717,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,7474986,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Southern Asia,Asia,54013,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Southern Europe,Europe,18028489,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,18010,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Western Asia,Asia,10550359,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,Western Europe,Europe,47858125,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2020,2020,Import,Kuwait,18,Cocoa and cocoa preparations,World,World,186046459,29.2733964,47.4979476,,

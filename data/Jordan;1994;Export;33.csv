@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Australia and New Zealand,Oceania,10018
-1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,311411
-1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,1132226
-1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Africa,Africa,4472
-1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,27908
-1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,84440
-1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,249088
-1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Asia,Asia,25475
-1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Sub-Saharan Africa,Africa,100185
-1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,48590
-1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,113088
-1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,5133850
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Australia and New Zealand,Oceania,10018,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,311411,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,1132226,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Africa,Africa,4472,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,27908,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,84440,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,249088,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Asia,Asia,25475,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Sub-Saharan Africa,Africa,100185,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,48590,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,113088,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1994,1994,Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,5133850,31.1667049,36.941628,,

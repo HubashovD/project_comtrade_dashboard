@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Australia and New Zealand,Oceania,336069
-1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,30559719
-1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Eastern Europe,Europe,8645972
-1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Latin America and the Caribbean,Americas,2226176
-1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Northern Africa,Africa,1154921
-1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,45800619
-1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,44156692
-1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,6183159
-1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Southern Asia,Asia,273834
-1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,94042342
-1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Western Asia,Asia,8422071
-1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,84334641
-1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",World,World,359040672
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Australia and New Zealand,Oceania,336069,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,30559719,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Eastern Europe,Europe,8645972,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Latin America and the Caribbean,Americas,2226176,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Northern Africa,Africa,1154921,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,45800619,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,44156692,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,6183159,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Southern Asia,Asia,273834,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,94042342,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Western Asia,Asia,8422071,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,84334641,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1994,1994,Import,Jordan,84,"Nuclear reactors, boilers, machinery, etc",World,World,359040672,31.1667049,36.941628,,

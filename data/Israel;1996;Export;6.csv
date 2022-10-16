@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Australia and New Zealand,Oceania,79000
-1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Central Asia,Asia,426000
-1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Asia,Asia,2630000
-1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Europe,Europe,3859000
-1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Latin America and the Caribbean,Americas,9938000
-1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Northern Africa,Africa,380000
-1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Northern America,Americas,11017000
-1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Northern Europe,Europe,16588000
-1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",South-eastern Asia,Asia,376000
-1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Europe,Europe,10132000
-1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Sub-Saharan Africa,Africa,5724000
-1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Asia,Asia,1342000
-1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Europe,Europe,177485000
-1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",World,World,244666000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Australia and New Zealand,Oceania,79000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Central Asia,Asia,426000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Asia,Asia,2630000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Europe,Europe,3859000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Latin America and the Caribbean,Americas,9938000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Northern Africa,Africa,380000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Northern America,Americas,11017000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Northern Europe,Europe,16588000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",South-eastern Asia,Asia,376000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Europe,Europe,10132000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Sub-Saharan Africa,Africa,5724000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Asia,Asia,1342000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Europe,Europe,177485000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1996,1996,Export,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",World,World,244666000,30.8124247,34.8594762,,

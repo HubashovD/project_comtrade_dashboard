@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Australia and New Zealand,Oceania,2849
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Central Asia,Asia,4599394
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Asia,Asia,251801
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Europe,Europe,585097021
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Latin America and the Caribbean,Americas,804994
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Africa,Africa,392583650
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern America,Americas,346308457
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Europe,Europe,2922638
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",South-eastern Asia,Asia,1304982
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Asia,Asia,342487
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Europe,Europe,453463508
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Sub-Saharan Africa,Africa,6553769
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Asia,Asia,467551678
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Europe,Europe,16704260
-2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",World,World,6701181127
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Australia and New Zealand,Oceania,2849,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Central Asia,Asia,4599394,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Asia,Asia,251801,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Europe,Europe,585097021,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Latin America and the Caribbean,Americas,804994,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Africa,Africa,392583650,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern America,Americas,346308457,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Europe,Europe,2922638,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",South-eastern Asia,Asia,1304982,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Asia,Asia,342487,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Europe,Europe,453463508,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Sub-Saharan Africa,Africa,6553769,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Asia,Asia,467551678,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Europe,Europe,16704260,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2012,2012,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",World,World,6701181127,31.1667049,36.941628,,

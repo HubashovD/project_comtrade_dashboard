@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Libya,1,Live animals,Eastern Europe,Europe,79269680
-2017,2017,Import,Libya,1,Live animals,Latin America and the Caribbean,Americas,3097
-2017,2017,Import,Libya,1,Live animals,Northern Africa,Africa,246382
-2017,2017,Import,Libya,1,Live animals,Northern Europe,Europe,27056
-2017,2017,Import,Libya,1,Live animals,Southern Europe,Europe,237323931
-2017,2017,Import,Libya,1,Live animals,Sub-Saharan Africa,Africa,2295000
-2017,2017,Import,Libya,1,Live animals,Western Europe,Europe,2690305
-2017,2017,Import,Libya,1,Live animals,World,World,322437629
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Libya,1,Live animals,Eastern Europe,Europe,79269680,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2017,2017,Import,Libya,1,Live animals,Latin America and the Caribbean,Americas,3097,26.8234472,18.1236723,17.925141963241547,-78.01492950057497
+2017,2017,Import,Libya,1,Live animals,Northern Africa,Africa,246382,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2017,2017,Import,Libya,1,Live animals,Northern Europe,Europe,27056,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2017,2017,Import,Libya,1,Live animals,Southern Europe,Europe,237323931,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2017,2017,Import,Libya,1,Live animals,Sub-Saharan Africa,Africa,2295000,26.8234472,18.1236723,6.06272746187266,22.727528470146083
+2017,2017,Import,Libya,1,Live animals,Western Europe,Europe,2690305,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2017,2017,Import,Libya,1,Live animals,World,World,322437629,26.8234472,18.1236723,,

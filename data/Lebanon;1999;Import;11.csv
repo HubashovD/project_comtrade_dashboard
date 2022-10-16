@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Eastern Asia,Asia,3397
-1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Eastern Europe,Europe,40383
-1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Northern Africa,Africa,78554
-1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Northern America,Americas,598217
-1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Northern Europe,Europe,147035
-1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",South-eastern Asia,Asia,7594
-1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Southern Asia,Asia,89671
-1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Southern Europe,Europe,759606
-1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Western Asia,Asia,922656
-1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Western Europe,Europe,2960743
-1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",World,World,5713074
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Eastern Asia,Asia,3397,33.8750629,35.843409,37.977378106878206,73.97804075806764
+1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Eastern Europe,Europe,40383,33.8750629,35.843409,51.67568633314729,27.673469819741847
+1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Northern Africa,Africa,78554,33.8750629,35.843409,19.569604022535763,12.47761721199581
+1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Northern America,Americas,598217,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Northern Europe,Europe,147035,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",South-eastern Asia,Asia,7594,33.8750629,35.843409,10.528384761701911,103.08333472012376
+1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Southern Asia,Asia,89671,33.8750629,35.843409,25.499703063807168,75.5024015339642
+1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Southern Europe,Europe,759606,33.8750629,35.843409,40.12399607988535,20.742583178432696
+1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Western Asia,Asia,922656,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",Western Europe,Europe,2960743,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1999,1999,Import,Lebanon,11,"Milling products, malt, starches, inulin, wheat gluten",World,World,5713074,33.8750629,35.843409,,

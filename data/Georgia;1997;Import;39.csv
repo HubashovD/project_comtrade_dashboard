@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Georgia,39,Plastics and articles thereof,Eastern Europe,Europe,2112291
-1997,1997,Import,Georgia,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,151195
-1997,1997,Import,Georgia,39,Plastics and articles thereof,Northern America,Americas,30001
-1997,1997,Import,Georgia,39,Plastics and articles thereof,Northern Europe,Europe,252701
-1997,1997,Import,Georgia,39,Plastics and articles thereof,Southern Asia,Asia,112345
-1997,1997,Import,Georgia,39,Plastics and articles thereof,Southern Europe,Europe,5250512
-1997,1997,Import,Georgia,39,Plastics and articles thereof,Western Asia,Asia,1995064
-1997,1997,Import,Georgia,39,Plastics and articles thereof,Western Europe,Europe,534802
-1997,1997,Import,Georgia,39,Plastics and articles thereof,World,World,11006349
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Georgia,39,Plastics and articles thereof,Eastern Europe,Europe,2112291,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1997,1997,Import,Georgia,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,151195,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+1997,1997,Import,Georgia,39,Plastics and articles thereof,Northern America,Americas,30001,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1997,1997,Import,Georgia,39,Plastics and articles thereof,Northern Europe,Europe,252701,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1997,1997,Import,Georgia,39,Plastics and articles thereof,Southern Asia,Asia,112345,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1997,1997,Import,Georgia,39,Plastics and articles thereof,Southern Europe,Europe,5250512,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1997,1997,Import,Georgia,39,Plastics and articles thereof,Western Asia,Asia,1995064,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1997,1997,Import,Georgia,39,Plastics and articles thereof,Western Europe,Europe,534802,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1997,1997,Import,Georgia,39,Plastics and articles thereof,World,World,11006349,32.3293809,-83.1137366,,

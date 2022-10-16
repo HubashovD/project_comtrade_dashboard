@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Re-Export,Jordan,70,Glass and glassware,Northern Africa,Africa,15263
-2013,2013,Re-Export,Jordan,70,Glass and glassware,Northern America,Americas,1752
-2013,2013,Re-Export,Jordan,70,Glass and glassware,Sub-Saharan Africa,Africa,1096
-2013,2013,Re-Export,Jordan,70,Glass and glassware,Western Asia,Asia,131561
-2013,2013,Re-Export,Jordan,70,Glass and glassware,Western Europe,Europe,65918
-2013,2013,Re-Export,Jordan,70,Glass and glassware,World,World,1781636
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Re-Export,Jordan,70,Glass and glassware,Northern Africa,Africa,15263,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2013,2013,Re-Export,Jordan,70,Glass and glassware,Northern America,Americas,1752,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2013,2013,Re-Export,Jordan,70,Glass and glassware,Sub-Saharan Africa,Africa,1096,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2013,2013,Re-Export,Jordan,70,Glass and glassware,Western Asia,Asia,131561,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2013,2013,Re-Export,Jordan,70,Glass and glassware,Western Europe,Europe,65918,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2013,2013,Re-Export,Jordan,70,Glass and glassware,World,World,1781636,31.1667049,36.941628,,

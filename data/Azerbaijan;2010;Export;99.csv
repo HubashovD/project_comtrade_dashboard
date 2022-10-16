@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,12629068
-2010,2010,Export,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,2626
-2010,2010,Export,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,270
-2010,2010,Export,Azerbaijan,99,Commodities not specified according to kind,South-eastern Asia,Asia,225
-2010,2010,Export,Azerbaijan,99,Commodities not specified according to kind,World,World,12655551
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,12629068,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2010,2010,Export,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,2626,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2010,2010,Export,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,270,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2010,2010,Export,Azerbaijan,99,Commodities not specified according to kind,South-eastern Asia,Asia,225,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2010,2010,Export,Azerbaijan,99,Commodities not specified according to kind,World,World,12655551,40.3936294,47.7872508,,

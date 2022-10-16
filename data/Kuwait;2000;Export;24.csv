@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Kuwait,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,13663
-2000,2000,Export,Kuwait,24,Tobacco and manufactured tobacco substitutes,Southern Asia,Asia,68641
-2000,2000,Export,Kuwait,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,3422
-2000,2000,Export,Kuwait,24,Tobacco and manufactured tobacco substitutes,World,World,312810
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Kuwait,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,13663,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Export,Kuwait,24,Tobacco and manufactured tobacco substitutes,Southern Asia,Asia,68641,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Export,Kuwait,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,3422,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Export,Kuwait,24,Tobacco and manufactured tobacco substitutes,World,World,312810,29.2733964,47.4979476,,

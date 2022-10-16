@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Australia and New Zealand,Oceania,66636
-2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Eastern Asia,Asia,8442
-2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Eastern Europe,Europe,245273
-2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Latin America and the Caribbean,Americas,61718
-2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Northern Africa,Africa,11094
-2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Northern America,Americas,22660
-2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Northern Europe,Europe,174298
-2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,South-eastern Asia,Asia,23481
-2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Southern Europe,Europe,25205
-2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Sub-Saharan Africa,Africa,297410
-2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Western Asia,Asia,3138525
-2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Western Europe,Europe,363148
-2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,World,World,17152667
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Australia and New Zealand,Oceania,66636,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Eastern Asia,Asia,8442,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Eastern Europe,Europe,245273,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Latin America and the Caribbean,Americas,61718,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Northern Africa,Africa,11094,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Northern America,Americas,22660,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Northern Europe,Europe,174298,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,South-eastern Asia,Asia,23481,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Southern Europe,Europe,25205,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Sub-Saharan Africa,Africa,297410,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Western Asia,Asia,3138525,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,Western Europe,Europe,363148,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2003,2003,Export,Lebanon,7,Edible vegetables and certain roots and tubers,World,World,17152667,33.8750629,35.843409,,

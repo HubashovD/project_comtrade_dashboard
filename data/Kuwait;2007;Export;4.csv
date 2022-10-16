@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Export,Kuwait,4,Dairy produce; birds eggs; natural honey;,Eastern Asia,Asia,6309
-2007,2007,Export,Kuwait,4,Dairy produce; birds eggs; natural honey;,Northern Africa,Africa,51704
-2007,2007,Export,Kuwait,4,Dairy produce; birds eggs; natural honey;,Southern Asia,Asia,9654
-2007,2007,Export,Kuwait,4,Dairy produce; birds eggs; natural honey;,Western Asia,Asia,164492
-2007,2007,Export,Kuwait,4,Dairy produce; birds eggs; natural honey;,Western Europe,Europe,39654
-2007,2007,Export,Kuwait,4,Dairy produce; birds eggs; natural honey;,World,World,19461559
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Export,Kuwait,4,Dairy produce; birds eggs; natural honey;,Eastern Asia,Asia,6309,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2007,2007,Export,Kuwait,4,Dairy produce; birds eggs; natural honey;,Northern Africa,Africa,51704,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2007,2007,Export,Kuwait,4,Dairy produce; birds eggs; natural honey;,Southern Asia,Asia,9654,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2007,2007,Export,Kuwait,4,Dairy produce; birds eggs; natural honey;,Western Asia,Asia,164492,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2007,2007,Export,Kuwait,4,Dairy produce; birds eggs; natural honey;,Western Europe,Europe,39654,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2007,2007,Export,Kuwait,4,Dairy produce; birds eggs; natural honey;,World,World,19461559,29.2733964,47.4979476,,

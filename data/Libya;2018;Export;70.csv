@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Libya,70,Glass and glassware,Northern Africa,Africa,14204
-2018,2018,Export,Libya,70,Glass and glassware,Sub-Saharan Africa,Africa,12332
-2018,2018,Export,Libya,70,Glass and glassware,World,World,26536
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Libya,70,Glass and glassware,Northern Africa,Africa,14204,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2018,2018,Export,Libya,70,Glass and glassware,Sub-Saharan Africa,Africa,12332,26.8234472,18.1236723,6.06272746187266,22.727528470146083
+2018,2018,Export,Libya,70,Glass and glassware,World,World,26536,26.8234472,18.1236723,,

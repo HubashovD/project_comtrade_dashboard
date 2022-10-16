@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,4834
-2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,678514
-2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,1952616
-2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Africa,Africa,492296
-2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,151193
-2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,2235153
-2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,3342449
-2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,288030
-2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,82879
-2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,139197
-2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,13859930
-2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,93937
-2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,32051597
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,4834,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,678514,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,1952616,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Africa,Africa,492296,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,151193,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,2235153,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,3342449,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,288030,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,82879,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,139197,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,13859930,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,93937,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2021,2021,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,32051597,33.8750629,35.843409,,

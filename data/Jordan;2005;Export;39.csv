@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Jordan,39,Plastics and articles thereof,Eastern Asia,Asia,137244
-2005,2005,Export,Jordan,39,Plastics and articles thereof,Eastern Europe,Europe,28905
-2005,2005,Export,Jordan,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,617165
-2005,2005,Export,Jordan,39,Plastics and articles thereof,Northern Africa,Africa,4169365
-2005,2005,Export,Jordan,39,Plastics and articles thereof,Northern America,Americas,946140
-2005,2005,Export,Jordan,39,Plastics and articles thereof,Northern Europe,Europe,2846
-2005,2005,Export,Jordan,39,Plastics and articles thereof,South-eastern Asia,Asia,203206
-2005,2005,Export,Jordan,39,Plastics and articles thereof,Southern Asia,Asia,366812
-2005,2005,Export,Jordan,39,Plastics and articles thereof,Southern Europe,Europe,430118
-2005,2005,Export,Jordan,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,593344
-2005,2005,Export,Jordan,39,Plastics and articles thereof,Western Asia,Asia,10278965
-2005,2005,Export,Jordan,39,Plastics and articles thereof,Western Europe,Europe,93934
-2005,2005,Export,Jordan,39,Plastics and articles thereof,World,World,113094136
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Jordan,39,Plastics and articles thereof,Eastern Asia,Asia,137244,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2005,2005,Export,Jordan,39,Plastics and articles thereof,Eastern Europe,Europe,28905,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2005,2005,Export,Jordan,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,617165,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2005,2005,Export,Jordan,39,Plastics and articles thereof,Northern Africa,Africa,4169365,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2005,2005,Export,Jordan,39,Plastics and articles thereof,Northern America,Americas,946140,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2005,2005,Export,Jordan,39,Plastics and articles thereof,Northern Europe,Europe,2846,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2005,2005,Export,Jordan,39,Plastics and articles thereof,South-eastern Asia,Asia,203206,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2005,2005,Export,Jordan,39,Plastics and articles thereof,Southern Asia,Asia,366812,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2005,2005,Export,Jordan,39,Plastics and articles thereof,Southern Europe,Europe,430118,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2005,2005,Export,Jordan,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,593344,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2005,2005,Export,Jordan,39,Plastics and articles thereof,Western Asia,Asia,10278965,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2005,2005,Export,Jordan,39,Plastics and articles thereof,Western Europe,Europe,93934,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2005,2005,Export,Jordan,39,Plastics and articles thereof,World,World,113094136,31.1667049,36.941628,,

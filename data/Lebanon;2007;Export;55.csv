@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Export,Lebanon,55,Man-made staple fibres,Eastern Asia,Asia,332
-2007,2007,Export,Lebanon,55,Man-made staple fibres,Latin America and the Caribbean,Americas,159485
-2007,2007,Export,Lebanon,55,Man-made staple fibres,Northern Africa,Africa,551520
-2007,2007,Export,Lebanon,55,Man-made staple fibres,Northern Europe,Europe,217377
-2007,2007,Export,Lebanon,55,Man-made staple fibres,Southern Asia,Asia,10922
-2007,2007,Export,Lebanon,55,Man-made staple fibres,Southern Europe,Europe,25053
-2007,2007,Export,Lebanon,55,Man-made staple fibres,Sub-Saharan Africa,Africa,331977
-2007,2007,Export,Lebanon,55,Man-made staple fibres,Western Asia,Asia,1951319
-2007,2007,Export,Lebanon,55,Man-made staple fibres,Western Europe,Europe,1493454
-2007,2007,Export,Lebanon,55,Man-made staple fibres,World,World,9125398
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Export,Lebanon,55,Man-made staple fibres,Eastern Asia,Asia,332,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2007,2007,Export,Lebanon,55,Man-made staple fibres,Latin America and the Caribbean,Americas,159485,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2007,2007,Export,Lebanon,55,Man-made staple fibres,Northern Africa,Africa,551520,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2007,2007,Export,Lebanon,55,Man-made staple fibres,Northern Europe,Europe,217377,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2007,2007,Export,Lebanon,55,Man-made staple fibres,Southern Asia,Asia,10922,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2007,2007,Export,Lebanon,55,Man-made staple fibres,Southern Europe,Europe,25053,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2007,2007,Export,Lebanon,55,Man-made staple fibres,Sub-Saharan Africa,Africa,331977,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2007,2007,Export,Lebanon,55,Man-made staple fibres,Western Asia,Asia,1951319,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2007,2007,Export,Lebanon,55,Man-made staple fibres,Western Europe,Europe,1493454,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2007,2007,Export,Lebanon,55,Man-made staple fibres,World,World,9125398,33.8750629,35.843409,,

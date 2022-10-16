@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Australia and New Zealand,Oceania,35000
-1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Central Asia,Asia,17000
-1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Eastern Europe,Europe,67000
-1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,27000
-1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Northern America,Americas,2256000
-1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Northern Europe,Europe,2043000
-1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Southern Europe,Europe,375000
-1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Western Asia,Asia,28000
-1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Western Europe,Europe,23162000
-1997,1997,Export,Israel,57,Carpets and other textile floor coverings,World,World,28203000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Australia and New Zealand,Oceania,35000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Central Asia,Asia,17000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Eastern Europe,Europe,67000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,27000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Northern America,Americas,2256000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Northern Europe,Europe,2043000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Southern Europe,Europe,375000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Western Asia,Asia,28000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1997,1997,Export,Israel,57,Carpets and other textile floor coverings,Western Europe,Europe,23162000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1997,1997,Export,Israel,57,Carpets and other textile floor coverings,World,World,28203000,30.8124247,34.8594762,,

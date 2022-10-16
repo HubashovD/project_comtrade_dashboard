@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Re-Export,Jordan,9,"Coffee, tea, matΦ and spices",Eastern Asia,Asia,4068
-2002,2002,Re-Export,Jordan,9,"Coffee, tea, matΦ and spices",Northern Africa,Africa,2698
-2002,2002,Re-Export,Jordan,9,"Coffee, tea, matΦ and spices",Northern America,Americas,12690
-2002,2002,Re-Export,Jordan,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,18216
-2002,2002,Re-Export,Jordan,9,"Coffee, tea, matΦ and spices",Southern Asia,Asia,2444
-2002,2002,Re-Export,Jordan,9,"Coffee, tea, matΦ and spices",Western Asia,Asia,76789
-2002,2002,Re-Export,Jordan,9,"Coffee, tea, matΦ and spices",World,World,865576
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Re-Export,Jordan,9,"Coffee, tea, matΦ and spices",Eastern Asia,Asia,4068,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2002,2002,Re-Export,Jordan,9,"Coffee, tea, matΦ and spices",Northern Africa,Africa,2698,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2002,2002,Re-Export,Jordan,9,"Coffee, tea, matΦ and spices",Northern America,Americas,12690,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2002,2002,Re-Export,Jordan,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,18216,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2002,2002,Re-Export,Jordan,9,"Coffee, tea, matΦ and spices",Southern Asia,Asia,2444,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2002,2002,Re-Export,Jordan,9,"Coffee, tea, matΦ and spices",Western Asia,Asia,76789,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2002,2002,Re-Export,Jordan,9,"Coffee, tea, matΦ and spices",World,World,865576,31.1667049,36.941628,,

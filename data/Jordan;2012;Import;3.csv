@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,589890
-2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,2133607
-2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,332
-2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,14227000
-2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Africa,Africa,1031947
-2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,331280
-2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,1807051
-2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,12312322
-2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,105855
-2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,1295482
-2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,2355894
-2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,2108150
-2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,537665
-2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,57556797
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,589890,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,2133607,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,332,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,14227000,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Africa,Africa,1031947,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,331280,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,1807051,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,12312322,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,105855,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,1295482,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,2355894,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,2108150,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,537665,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2012,2012,Import,Jordan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,57556797,31.1667049,36.941628,,

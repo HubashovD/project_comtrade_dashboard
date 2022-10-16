@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Asia,Asia,23000
-1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Europe,Europe,2000
-1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,7000
-1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,41000
-1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Southern Europe,Europe,217000
-1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Sub-Saharan Africa,Africa,115000
-1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,1240000
-1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,1709000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Asia,Asia,23000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Europe,Europe,2000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,7000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,41000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Southern Europe,Europe,217000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Sub-Saharan Africa,Africa,115000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,1240000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1998,1998,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,1709000,30.8124247,34.8594762,,

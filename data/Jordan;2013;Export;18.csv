@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Export,Jordan,18,Cocoa and cocoa preparations,Northern Africa,Africa,7710
-2013,2013,Export,Jordan,18,Cocoa and cocoa preparations,Northern America,Americas,15803
-2013,2013,Export,Jordan,18,Cocoa and cocoa preparations,Northern Europe,Europe,9638
-2013,2013,Export,Jordan,18,Cocoa and cocoa preparations,Southern Europe,Europe,47570
-2013,2013,Export,Jordan,18,Cocoa and cocoa preparations,Western Asia,Asia,29880
-2013,2013,Export,Jordan,18,Cocoa and cocoa preparations,World,World,7779026
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Export,Jordan,18,Cocoa and cocoa preparations,Northern Africa,Africa,7710,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2013,2013,Export,Jordan,18,Cocoa and cocoa preparations,Northern America,Americas,15803,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2013,2013,Export,Jordan,18,Cocoa and cocoa preparations,Northern Europe,Europe,9638,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2013,2013,Export,Jordan,18,Cocoa and cocoa preparations,Southern Europe,Europe,47570,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2013,2013,Export,Jordan,18,Cocoa and cocoa preparations,Western Asia,Asia,29880,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2013,2013,Export,Jordan,18,Cocoa and cocoa preparations,World,World,7779026,31.1667049,36.941628,,

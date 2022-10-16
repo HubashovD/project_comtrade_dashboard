@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Kuwait,39,Plastics and articles thereof,Australia and New Zealand,Oceania,1057
-2018,2018,Export,Kuwait,39,Plastics and articles thereof,Eastern Asia,Asia,238655444
-2018,2018,Export,Kuwait,39,Plastics and articles thereof,Eastern Europe,Europe,2140806
-2018,2018,Export,Kuwait,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,47828
-2018,2018,Export,Kuwait,39,Plastics and articles thereof,Northern Africa,Africa,11117853
-2018,2018,Export,Kuwait,39,Plastics and articles thereof,Northern America,Americas,141177
-2018,2018,Export,Kuwait,39,Plastics and articles thereof,Northern Europe,Europe,13240050
-2018,2018,Export,Kuwait,39,Plastics and articles thereof,South-eastern Asia,Asia,130697202
-2018,2018,Export,Kuwait,39,Plastics and articles thereof,Southern Asia,Asia,15472816
-2018,2018,Export,Kuwait,39,Plastics and articles thereof,Southern Europe,Europe,34466817
-2018,2018,Export,Kuwait,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,10299964
-2018,2018,Export,Kuwait,39,Plastics and articles thereof,Western Asia,Asia,16831914
-2018,2018,Export,Kuwait,39,Plastics and articles thereof,Western Europe,Europe,16067476
-2018,2018,Export,Kuwait,39,Plastics and articles thereof,World,World,811789572
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Kuwait,39,Plastics and articles thereof,Australia and New Zealand,Oceania,1057,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2018,2018,Export,Kuwait,39,Plastics and articles thereof,Eastern Asia,Asia,238655444,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2018,2018,Export,Kuwait,39,Plastics and articles thereof,Eastern Europe,Europe,2140806,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2018,2018,Export,Kuwait,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,47828,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2018,2018,Export,Kuwait,39,Plastics and articles thereof,Northern Africa,Africa,11117853,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2018,2018,Export,Kuwait,39,Plastics and articles thereof,Northern America,Americas,141177,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2018,2018,Export,Kuwait,39,Plastics and articles thereof,Northern Europe,Europe,13240050,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2018,2018,Export,Kuwait,39,Plastics and articles thereof,South-eastern Asia,Asia,130697202,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2018,2018,Export,Kuwait,39,Plastics and articles thereof,Southern Asia,Asia,15472816,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2018,2018,Export,Kuwait,39,Plastics and articles thereof,Southern Europe,Europe,34466817,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2018,2018,Export,Kuwait,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,10299964,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2018,2018,Export,Kuwait,39,Plastics and articles thereof,Western Asia,Asia,16831914,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2018,2018,Export,Kuwait,39,Plastics and articles thereof,Western Europe,Europe,16067476,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2018,2018,Export,Kuwait,39,Plastics and articles thereof,World,World,811789572,29.2733964,47.4979476,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Central Asia,Asia,121408
-1997,1997,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Eastern Europe,Europe,48618
-1997,1997,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern America,Americas,48269
-1997,1997,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern Europe,Europe,159350
-1997,1997,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Asia,Asia,12478
-1997,1997,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Europe,Europe,4907
-1997,1997,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",World,World,407454
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Central Asia,Asia,121408,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1997,1997,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Eastern Europe,Europe,48618,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1997,1997,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern America,Americas,48269,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1997,1997,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern Europe,Europe,159350,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1997,1997,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Asia,Asia,12478,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1997,1997,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Europe,Europe,4907,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1997,1997,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",World,World,407454,40.3936294,47.7872508,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",Eastern Asia,Asia,549000
-1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",Latin America and the Caribbean,Americas,957000
-1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",Northern America,Americas,8951000
-1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",Northern Europe,Europe,14469000
-1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",South-eastern Asia,Asia,116000
-1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",Southern Europe,Europe,3786000
-1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",Western Asia,Asia,118000
-1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",Western Europe,Europe,21236000
-1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",World,World,54077000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",Eastern Asia,Asia,549000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",Latin America and the Caribbean,Americas,957000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",Northern America,Americas,8951000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",Northern Europe,Europe,14469000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",South-eastern Asia,Asia,116000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",Southern Europe,Europe,3786000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",Western Asia,Asia,118000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",Western Europe,Europe,21236000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1996,1996,Import,Israel,35,"Albuminoids, modified starches, glues, enzymes",World,World,54077000,30.8124247,34.8594762,,

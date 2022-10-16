@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Australia and New Zealand,Oceania,222510
-2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Central Asia,Asia,116123
-2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Eastern Asia,Asia,2212645
-2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Eastern Europe,Europe,912622
-2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Latin America and the Caribbean,Americas,666261
-2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Northern Africa,Africa,3435756
-2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Northern America,Americas,844956
-2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Northern Europe,Europe,1291356
-2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,South-eastern Asia,Asia,6882
-2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Southern Europe,Europe,189985
-2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Western Asia,Asia,12748942
-2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Western Europe,Europe,1905294
-2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,World,World,33796034
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Australia and New Zealand,Oceania,222510,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Central Asia,Asia,116123,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Eastern Asia,Asia,2212645,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Eastern Europe,Europe,912622,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Latin America and the Caribbean,Americas,666261,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Northern Africa,Africa,3435756,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Northern America,Americas,844956,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Northern Europe,Europe,1291356,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,South-eastern Asia,Asia,6882,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Southern Europe,Europe,189985,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Western Asia,Asia,12748942,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,Western Europe,Europe,1905294,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2003,2003,Import,Jordan,7,Edible vegetables and certain roots and tubers,World,World,33796034,31.1667049,36.941628,,

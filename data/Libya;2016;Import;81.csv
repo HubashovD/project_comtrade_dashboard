@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Libya,81,Other base metals; cermets; articles thereof,Northern America,Americas,14613
-2016,2016,Import,Libya,81,Other base metals; cermets; articles thereof,Northern Europe,Europe,2785
-2016,2016,Import,Libya,81,Other base metals; cermets; articles thereof,Southern Europe,Europe,19619
-2016,2016,Import,Libya,81,Other base metals; cermets; articles thereof,Western Asia,Asia,46394
-2016,2016,Import,Libya,81,Other base metals; cermets; articles thereof,Western Europe,Europe,16201
-2016,2016,Import,Libya,81,Other base metals; cermets; articles thereof,World,World,99612
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Libya,81,Other base metals; cermets; articles thereof,Northern America,Americas,14613,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2016,2016,Import,Libya,81,Other base metals; cermets; articles thereof,Northern Europe,Europe,2785,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2016,2016,Import,Libya,81,Other base metals; cermets; articles thereof,Southern Europe,Europe,19619,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2016,2016,Import,Libya,81,Other base metals; cermets; articles thereof,Western Asia,Asia,46394,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2016,2016,Import,Libya,81,Other base metals; cermets; articles thereof,Western Europe,Europe,16201,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2016,2016,Import,Libya,81,Other base metals; cermets; articles thereof,World,World,99612,26.8234472,18.1236723,,

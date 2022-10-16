@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Re-Export,Lebanon,10,Cereals,Western Asia,Asia,15672986
-2021,2021,Re-Export,Lebanon,10,Cereals,Western Europe,Europe,84549
-2021,2021,Re-Export,Lebanon,10,Cereals,World,World,21587158
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Re-Export,Lebanon,10,Cereals,Western Asia,Asia,15672986,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2021,2021,Re-Export,Lebanon,10,Cereals,Western Europe,Europe,84549,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2021,2021,Re-Export,Lebanon,10,Cereals,World,World,21587158,33.8750629,35.843409,,

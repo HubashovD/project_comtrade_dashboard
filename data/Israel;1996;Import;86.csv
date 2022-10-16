@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Australia and New Zealand,Oceania,655000
-1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Asia,Asia,135000
-1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Europe,Europe,1334000
-1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,10407000
-1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,15387000
-1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",South-eastern Asia,Asia,73000
-1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Southern Europe,Europe,24663000
-1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Western Asia,Asia,50000
-1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,15057000
-1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,74629000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Australia and New Zealand,Oceania,655000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Asia,Asia,135000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Europe,Europe,1334000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,10407000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,15387000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",South-eastern Asia,Asia,73000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Southern Europe,Europe,24663000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Western Asia,Asia,50000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,15057000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1996,1996,Import,Israel,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,74629000,30.8124247,34.8594762,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Australia and New Zealand,Oceania,5987
-2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Eastern Asia,Asia,6579274
-2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Eastern Europe,Europe,16547
-2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Northern Africa,Africa,3460
-2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Northern America,Americas,1018577
-2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Northern Europe,Europe,141695
-2000,2000,Import,Jordan,95,"Toys, games, sports requisites",South-eastern Asia,Asia,175367
-2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Southern Asia,Asia,15717
-2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Southern Europe,Europe,444964
-2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Western Asia,Asia,234003
-2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Western Europe,Europe,470086
-2000,2000,Import,Jordan,95,"Toys, games, sports requisites",World,World,11061546
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Australia and New Zealand,Oceania,5987,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Eastern Asia,Asia,6579274,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Eastern Europe,Europe,16547,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Northern Africa,Africa,3460,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Northern America,Americas,1018577,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Northern Europe,Europe,141695,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Import,Jordan,95,"Toys, games, sports requisites",South-eastern Asia,Asia,175367,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Southern Asia,Asia,15717,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Southern Europe,Europe,444964,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Western Asia,Asia,234003,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Import,Jordan,95,"Toys, games, sports requisites",Western Europe,Europe,470086,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Import,Jordan,95,"Toys, games, sports requisites",World,World,11061546,31.1667049,36.941628,,

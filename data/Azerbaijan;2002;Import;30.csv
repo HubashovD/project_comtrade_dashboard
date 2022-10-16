@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Central Asia,Asia,43858
-2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Eastern Asia,Asia,114348
-2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Eastern Europe,Europe,6312270
-2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Latin America and the Caribbean,Americas,26687
-2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Northern Africa,Africa,39780
-2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Northern America,Americas,7158732
-2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Northern Europe,Europe,1789496
-2002,2002,Import,Azerbaijan,30,Pharmaceutical products,South-eastern Asia,Asia,7813
-2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Southern Asia,Asia,148010
-2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Southern Europe,Europe,1075239
-2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Western Asia,Asia,1070880
-2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Western Europe,Europe,3191049
-2002,2002,Import,Azerbaijan,30,Pharmaceutical products,World,World,22419326
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Central Asia,Asia,43858,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Eastern Asia,Asia,114348,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Eastern Europe,Europe,6312270,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Latin America and the Caribbean,Americas,26687,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Northern Africa,Africa,39780,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Northern America,Americas,7158732,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Northern Europe,Europe,1789496,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2002,2002,Import,Azerbaijan,30,Pharmaceutical products,South-eastern Asia,Asia,7813,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Southern Asia,Asia,148010,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Southern Europe,Europe,1075239,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Western Asia,Asia,1070880,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2002,2002,Import,Azerbaijan,30,Pharmaceutical products,Western Europe,Europe,3191049,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2002,2002,Import,Azerbaijan,30,Pharmaceutical products,World,World,22419326,40.3936294,47.7872508,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Azerbaijan,5,"Products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,3178
-2010,2010,Import,Azerbaijan,5,"Products of animal origin, not elsewhere specified or included",Latin America and the Caribbean,Americas,3850
-2010,2010,Import,Azerbaijan,5,"Products of animal origin, not elsewhere specified or included",Northern America,Americas,16256
-2010,2010,Import,Azerbaijan,5,"Products of animal origin, not elsewhere specified or included",Western Asia,Asia,32300
-2010,2010,Import,Azerbaijan,5,"Products of animal origin, not elsewhere specified or included",Western Europe,Europe,93947
-2010,2010,Import,Azerbaijan,5,"Products of animal origin, not elsewhere specified or included",World,World,178296
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Azerbaijan,5,"Products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,3178,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2010,2010,Import,Azerbaijan,5,"Products of animal origin, not elsewhere specified or included",Latin America and the Caribbean,Americas,3850,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2010,2010,Import,Azerbaijan,5,"Products of animal origin, not elsewhere specified or included",Northern America,Americas,16256,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2010,2010,Import,Azerbaijan,5,"Products of animal origin, not elsewhere specified or included",Western Asia,Asia,32300,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2010,2010,Import,Azerbaijan,5,"Products of animal origin, not elsewhere specified or included",Western Europe,Europe,93947,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2010,2010,Import,Azerbaijan,5,"Products of animal origin, not elsewhere specified or included",World,World,178296,40.3936294,47.7872508,,

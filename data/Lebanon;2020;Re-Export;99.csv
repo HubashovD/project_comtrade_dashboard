@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Eastern Asia,Asia,133
-2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,24994
-2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Northern Africa,Africa,11804
-2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Northern America,Americas,7150
-2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Northern Europe,Europe,150587
-2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,South-eastern Asia,Asia,3100
-2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Southern Asia,Asia,120
-2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Southern Europe,Europe,1534756
-2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,15426
-2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Western Asia,Asia,5365
-2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Western Europe,Europe,8405127
-2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,World,World,10304463
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Eastern Asia,Asia,133,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,24994,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Northern Africa,Africa,11804,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Northern America,Americas,7150,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Northern Europe,Europe,150587,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,South-eastern Asia,Asia,3100,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Southern Asia,Asia,120,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Southern Europe,Europe,1534756,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,15426,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Western Asia,Asia,5365,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,Western Europe,Europe,8405127,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2020,2020,Re-Export,Lebanon,99,Commodities not specified according to kind,World,World,10304463,33.8750629,35.843409,,

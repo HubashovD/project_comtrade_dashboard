@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Australia and New Zealand,Oceania,581
-2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Eastern Asia,Asia,5575
-2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Eastern Europe,Europe,2047049
-2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Latin America and the Caribbean,Americas,171
-2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Northern America,Americas,4097
-2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Northern Europe,Europe,42329
-2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",South-eastern Asia,Asia,45814
-2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Southern Asia,Asia,439751
-2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Southern Europe,Europe,57890
-2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Sub-Saharan Africa,Africa,2165
-2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Western Asia,Asia,875474
-2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Western Europe,Europe,1549871
-2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",World,World,5126291
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Australia and New Zealand,Oceania,581,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Eastern Asia,Asia,5575,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Eastern Europe,Europe,2047049,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Latin America and the Caribbean,Americas,171,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Northern America,Americas,4097,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Northern Europe,Europe,42329,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",South-eastern Asia,Asia,45814,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Southern Asia,Asia,439751,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Southern Europe,Europe,57890,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Sub-Saharan Africa,Africa,2165,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Western Asia,Asia,875474,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Western Europe,Europe,1549871,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2003,2003,Import,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",World,World,5126291,40.3936294,47.7872508,,

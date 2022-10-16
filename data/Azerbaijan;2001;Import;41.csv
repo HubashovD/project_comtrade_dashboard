@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Azerbaijan,41,Raw hides and skins (other than furskins) and leather,Australia and New Zealand,Oceania,12000
-2001,2001,Import,Azerbaijan,41,Raw hides and skins (other than furskins) and leather,Eastern Asia,Asia,1300
-2001,2001,Import,Azerbaijan,41,Raw hides and skins (other than furskins) and leather,Eastern Europe,Europe,3339
-2001,2001,Import,Azerbaijan,41,Raw hides and skins (other than furskins) and leather,Western Asia,Asia,39690
-2001,2001,Import,Azerbaijan,41,Raw hides and skins (other than furskins) and leather,World,World,62030
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Azerbaijan,41,Raw hides and skins (other than furskins) and leather,Australia and New Zealand,Oceania,12000,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2001,2001,Import,Azerbaijan,41,Raw hides and skins (other than furskins) and leather,Eastern Asia,Asia,1300,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2001,2001,Import,Azerbaijan,41,Raw hides and skins (other than furskins) and leather,Eastern Europe,Europe,3339,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2001,2001,Import,Azerbaijan,41,Raw hides and skins (other than furskins) and leather,Western Asia,Asia,39690,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2001,2001,Import,Azerbaijan,41,Raw hides and skins (other than furskins) and leather,World,World,62030,40.3936294,47.7872508,,

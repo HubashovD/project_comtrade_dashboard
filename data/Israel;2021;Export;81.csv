@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Australia and New Zealand,Oceania,34000
-2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Central Asia,Asia,130000
-2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,1498000
-2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,1993000
-2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Latin America and the Caribbean,Americas,13832000
-2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,51054000
-2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern Europe,Europe,1525000
-2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",South-eastern Asia,Asia,1838000
-2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,11051000
-2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Sub-Saharan Africa,Africa,220000
-2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Western Asia,Asia,960000
-2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,21624000
-2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",World,World,108274000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Australia and New Zealand,Oceania,34000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Central Asia,Asia,130000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,1498000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,1993000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Latin America and the Caribbean,Americas,13832000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,51054000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern Europe,Europe,1525000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",South-eastern Asia,Asia,1838000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,11051000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Sub-Saharan Africa,Africa,220000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Western Asia,Asia,960000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,21624000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2021,2021,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",World,World,108274000,30.8124247,34.8594762,,

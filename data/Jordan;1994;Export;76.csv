@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Export,Jordan,76,Aluminium and articles thereof,Eastern Asia,Asia,4885007
-1994,1994,Export,Jordan,76,Aluminium and articles thereof,Eastern Europe,Europe,8587
-1994,1994,Export,Jordan,76,Aluminium and articles thereof,Northern America,Americas,164590
-1994,1994,Export,Jordan,76,Aluminium and articles thereof,Northern Europe,Europe,98754
-1994,1994,Export,Jordan,76,Aluminium and articles thereof,Southern Europe,Europe,120482
-1994,1994,Export,Jordan,76,Aluminium and articles thereof,Western Asia,Asia,55133
-1994,1994,Export,Jordan,76,Aluminium and articles thereof,Western Europe,Europe,59252
-1994,1994,Export,Jordan,76,Aluminium and articles thereof,World,World,8368627
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Export,Jordan,76,Aluminium and articles thereof,Eastern Asia,Asia,4885007,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1994,1994,Export,Jordan,76,Aluminium and articles thereof,Eastern Europe,Europe,8587,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1994,1994,Export,Jordan,76,Aluminium and articles thereof,Northern America,Americas,164590,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1994,1994,Export,Jordan,76,Aluminium and articles thereof,Northern Europe,Europe,98754,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Export,Jordan,76,Aluminium and articles thereof,Southern Europe,Europe,120482,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1994,1994,Export,Jordan,76,Aluminium and articles thereof,Western Asia,Asia,55133,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1994,1994,Export,Jordan,76,Aluminium and articles thereof,Western Europe,Europe,59252,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1994,1994,Export,Jordan,76,Aluminium and articles thereof,World,World,8368627,31.1667049,36.941628,,

@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Israel,37,Photographic or cinematographic goods,Australia and New Zealand,Oceania,6000
-2021,2021,Export,Israel,37,Photographic or cinematographic goods,Central Asia,Asia,16000
-2021,2021,Export,Israel,37,Photographic or cinematographic goods,Eastern Asia,Asia,8000
-2021,2021,Export,Israel,37,Photographic or cinematographic goods,Latin America and the Caribbean,Americas,3000
-2021,2021,Export,Israel,37,Photographic or cinematographic goods,Northern America,Americas,14114000
-2021,2021,Export,Israel,37,Photographic or cinematographic goods,Northern Europe,Europe,106000
-2021,2021,Export,Israel,37,Photographic or cinematographic goods,South-eastern Asia,Asia,1000
-2021,2021,Export,Israel,37,Photographic or cinematographic goods,Southern Europe,Europe,57000
-2021,2021,Export,Israel,37,Photographic or cinematographic goods,Western Europe,Europe,12000
-2021,2021,Export,Israel,37,Photographic or cinematographic goods,World,World,14386000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Israel,37,Photographic or cinematographic goods,Australia and New Zealand,Oceania,6000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2021,2021,Export,Israel,37,Photographic or cinematographic goods,Central Asia,Asia,16000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2021,2021,Export,Israel,37,Photographic or cinematographic goods,Eastern Asia,Asia,8000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2021,2021,Export,Israel,37,Photographic or cinematographic goods,Latin America and the Caribbean,Americas,3000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2021,2021,Export,Israel,37,Photographic or cinematographic goods,Northern America,Americas,14114000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2021,2021,Export,Israel,37,Photographic or cinematographic goods,Northern Europe,Europe,106000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2021,2021,Export,Israel,37,Photographic or cinematographic goods,South-eastern Asia,Asia,1000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2021,2021,Export,Israel,37,Photographic or cinematographic goods,Southern Europe,Europe,57000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2021,2021,Export,Israel,37,Photographic or cinematographic goods,Western Europe,Europe,12000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2021,2021,Export,Israel,37,Photographic or cinematographic goods,World,World,14386000,30.8124247,34.8594762,,

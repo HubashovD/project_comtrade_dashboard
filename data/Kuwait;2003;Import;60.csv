@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Eastern Asia,Asia,326769
-2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Latin America and the Caribbean,Americas,765
-2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Northern Africa,Africa,11945
-2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Northern America,Americas,24649
-2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Northern Europe,Europe,14386
-2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,South-eastern Asia,Asia,120493
-2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Southern Europe,Europe,100904
-2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Sub-Saharan Africa,Africa,3777
-2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Western Asia,Asia,251418
-2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Western Europe,Europe,270966
-2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,World,World,1845965
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Eastern Asia,Asia,326769,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Latin America and the Caribbean,Americas,765,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Northern Africa,Africa,11945,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Northern America,Americas,24649,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Northern Europe,Europe,14386,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,South-eastern Asia,Asia,120493,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Southern Europe,Europe,100904,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Sub-Saharan Africa,Africa,3777,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Western Asia,Asia,251418,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,Western Europe,Europe,270966,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2003,2003,Import,Kuwait,60,Knitted or crocheted fabric,World,World,1845965,29.2733964,47.4979476,,

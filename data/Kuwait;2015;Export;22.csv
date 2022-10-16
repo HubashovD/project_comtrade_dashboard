@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,26652
-2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,332
-2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",Northern Africa,Africa,21981
-2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",Northern Europe,Europe,78942
-2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,6697
-2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",Southern Asia,Asia,1616894
-2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,42275
-2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",Western Europe,Europe,997
-2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",World,World,50176546
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,26652,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,332,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",Northern Africa,Africa,21981,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",Northern Europe,Europe,78942,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,6697,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",Southern Asia,Asia,1616894,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,42275,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",Western Europe,Europe,997,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2015,2015,Export,Kuwait,22,"Beverages, spirits and vinegar",World,World,50176546,29.2733964,47.4979476,,

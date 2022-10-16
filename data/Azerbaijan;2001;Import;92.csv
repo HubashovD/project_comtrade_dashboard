@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Central Asia,Asia,40
-2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Eastern Asia,Asia,359371
-2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Latin America and the Caribbean,Americas,188
-2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Northern America,Americas,412
-2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Northern Europe,Europe,330
-2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",South-eastern Asia,Asia,1223
-2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Western Europe,Europe,281
-2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",World,World,363445
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Central Asia,Asia,40,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Eastern Asia,Asia,359371,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Latin America and the Caribbean,Americas,188,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Northern America,Americas,412,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Northern Europe,Europe,330,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",South-eastern Asia,Asia,1223,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Western Europe,Europe,281,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2001,2001,Import,Azerbaijan,92,"Musical instruments, parts and accessories",World,World,363445,40.3936294,47.7872508,,

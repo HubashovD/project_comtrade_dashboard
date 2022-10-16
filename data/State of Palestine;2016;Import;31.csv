@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,State of Palestine,31,Fertilizers,Eastern Asia,Asia,1314233
-2016,2016,Import,State of Palestine,31,Fertilizers,Latin America and the Caribbean,Americas,29990
-2016,2016,Import,State of Palestine,31,Fertilizers,Northern Africa,Africa,5576
-2016,2016,Import,State of Palestine,31,Fertilizers,Northern America,Americas,143693
-2016,2016,Import,State of Palestine,31,Fertilizers,Northern Europe,Europe,17083
-2016,2016,Import,State of Palestine,31,Fertilizers,Southern Europe,Europe,615183
-2016,2016,Import,State of Palestine,31,Fertilizers,Western Asia,Asia,2514
-2016,2016,Import,State of Palestine,31,Fertilizers,Western Europe,Europe,389887
-2016,2016,Import,State of Palestine,31,Fertilizers,World,World,6036895
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,State of Palestine,31,Fertilizers,Eastern Asia,Asia,1314233,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2016,2016,Import,State of Palestine,31,Fertilizers,Latin America and the Caribbean,Americas,29990,31.46242095,34.262716572130714,17.925141963241547,-78.01492950057497
+2016,2016,Import,State of Palestine,31,Fertilizers,Northern Africa,Africa,5576,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2016,2016,Import,State of Palestine,31,Fertilizers,Northern America,Americas,143693,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2016,2016,Import,State of Palestine,31,Fertilizers,Northern Europe,Europe,17083,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
+2016,2016,Import,State of Palestine,31,Fertilizers,Southern Europe,Europe,615183,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2016,2016,Import,State of Palestine,31,Fertilizers,Western Asia,Asia,2514,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
+2016,2016,Import,State of Palestine,31,Fertilizers,Western Europe,Europe,389887,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2016,2016,Import,State of Palestine,31,Fertilizers,World,World,6036895,31.46242095,34.262716572130714,,

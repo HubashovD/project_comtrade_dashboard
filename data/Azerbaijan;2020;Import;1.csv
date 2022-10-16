@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Azerbaijan,1,Animals; live,Central Asia,Asia,218269
-2020,2020,Import,Azerbaijan,1,Animals; live,Eastern Europe,Europe,27638461
-2020,2020,Import,Azerbaijan,1,Animals; live,Northern America,Americas,185711
-2020,2020,Import,Azerbaijan,1,Animals; live,Northern Europe,Europe,983016
-2020,2020,Import,Azerbaijan,1,Animals; live,Southern Europe,Europe,1790
-2020,2020,Import,Azerbaijan,1,Animals; live,Western Asia,Asia,7483116
-2020,2020,Import,Azerbaijan,1,Animals; live,Western Europe,Europe,10435975
-2020,2020,Import,Azerbaijan,1,Animals; live,World,World,68348202
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Azerbaijan,1,Animals; live,Central Asia,Asia,218269,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2020,2020,Import,Azerbaijan,1,Animals; live,Eastern Europe,Europe,27638461,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2020,2020,Import,Azerbaijan,1,Animals; live,Northern America,Americas,185711,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2020,2020,Import,Azerbaijan,1,Animals; live,Northern Europe,Europe,983016,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2020,2020,Import,Azerbaijan,1,Animals; live,Southern Europe,Europe,1790,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2020,2020,Import,Azerbaijan,1,Animals; live,Western Asia,Asia,7483116,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2020,2020,Import,Azerbaijan,1,Animals; live,Western Europe,Europe,10435975,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2020,2020,Import,Azerbaijan,1,Animals; live,World,World,68348202,40.3936294,47.7872508,,

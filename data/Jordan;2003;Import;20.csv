@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Australia and New Zealand,Oceania,63319
-2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Eastern Asia,Asia,1191526
-2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Eastern Europe,Europe,104508
-2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Latin America and the Caribbean,Americas,517810
-2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Northern Africa,Africa,2582956
-2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Northern America,Americas,968568
-2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Northern Europe,Europe,228346
-2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",South-eastern Asia,Asia,882097
-2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Southern Asia,Asia,13711
-2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Southern Europe,Europe,700859
-2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Sub-Saharan Africa,Africa,227043
-2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Western Asia,Asia,2490843
-2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Western Europe,Europe,1368614
-2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",World,World,15292058
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Australia and New Zealand,Oceania,63319,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Eastern Asia,Asia,1191526,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Eastern Europe,Europe,104508,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Latin America and the Caribbean,Americas,517810,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Northern Africa,Africa,2582956,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Northern America,Americas,968568,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Northern Europe,Europe,228346,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",South-eastern Asia,Asia,882097,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Southern Asia,Asia,13711,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Southern Europe,Europe,700859,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Sub-Saharan Africa,Africa,227043,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Western Asia,Asia,2490843,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",Western Europe,Europe,1368614,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2003,2003,Import,Jordan,20,"Preparations of vegetables, fruit or nuts",World,World,15292058,31.1667049,36.941628,,

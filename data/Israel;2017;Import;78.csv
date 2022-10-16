@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Israel,78,Lead and articles thereof,Eastern Asia,Asia,30000
-2017,2017,Import,Israel,78,Lead and articles thereof,Latin America and the Caribbean,Americas,193000
-2017,2017,Import,Israel,78,Lead and articles thereof,Northern America,Americas,551000
-2017,2017,Import,Israel,78,Lead and articles thereof,Northern Europe,Europe,13848000
-2017,2017,Import,Israel,78,Lead and articles thereof,Southern Europe,Europe,42000
-2017,2017,Import,Israel,78,Lead and articles thereof,Western Asia,Asia,233000
-2017,2017,Import,Israel,78,Lead and articles thereof,Western Europe,Europe,1639000
-2017,2017,Import,Israel,78,Lead and articles thereof,World,World,16582000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Israel,78,Lead and articles thereof,Eastern Asia,Asia,30000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2017,2017,Import,Israel,78,Lead and articles thereof,Latin America and the Caribbean,Americas,193000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2017,2017,Import,Israel,78,Lead and articles thereof,Northern America,Americas,551000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2017,2017,Import,Israel,78,Lead and articles thereof,Northern Europe,Europe,13848000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2017,2017,Import,Israel,78,Lead and articles thereof,Southern Europe,Europe,42000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2017,2017,Import,Israel,78,Lead and articles thereof,Western Asia,Asia,233000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2017,2017,Import,Israel,78,Lead and articles thereof,Western Europe,Europe,1639000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2017,2017,Import,Israel,78,Lead and articles thereof,World,World,16582000,30.8124247,34.8594762,,

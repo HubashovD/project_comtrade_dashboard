@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Georgia,6,Live trees and other plants;,Eastern Asia,Asia,4781
-2008,2008,Import,Georgia,6,Live trees and other plants;,Eastern Europe,Europe,243249
-2008,2008,Import,Georgia,6,Live trees and other plants;,Latin America and the Caribbean,Americas,262567
-2008,2008,Import,Georgia,6,Live trees and other plants;,Northern America,Americas,5760
-2008,2008,Import,Georgia,6,Live trees and other plants;,Northern Europe,Europe,1040
-2008,2008,Import,Georgia,6,Live trees and other plants;,Southern Europe,Europe,2490242
-2008,2008,Import,Georgia,6,Live trees and other plants;,Sub-Saharan Africa,Africa,7695
-2008,2008,Import,Georgia,6,Live trees and other plants;,Western Asia,Asia,965988
-2008,2008,Import,Georgia,6,Live trees and other plants;,Western Europe,Europe,1843892
-2008,2008,Import,Georgia,6,Live trees and other plants;,World,World,6037122
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Georgia,6,Live trees and other plants;,Eastern Asia,Asia,4781,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2008,2008,Import,Georgia,6,Live trees and other plants;,Eastern Europe,Europe,243249,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2008,2008,Import,Georgia,6,Live trees and other plants;,Latin America and the Caribbean,Americas,262567,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2008,2008,Import,Georgia,6,Live trees and other plants;,Northern America,Americas,5760,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2008,2008,Import,Georgia,6,Live trees and other plants;,Northern Europe,Europe,1040,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2008,2008,Import,Georgia,6,Live trees and other plants;,Southern Europe,Europe,2490242,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2008,2008,Import,Georgia,6,Live trees and other plants;,Sub-Saharan Africa,Africa,7695,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2008,2008,Import,Georgia,6,Live trees and other plants;,Western Asia,Asia,965988,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2008,2008,Import,Georgia,6,Live trees and other plants;,Western Europe,Europe,1843892,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2008,2008,Import,Georgia,6,Live trees and other plants;,World,World,6037122,32.3293809,-83.1137366,,

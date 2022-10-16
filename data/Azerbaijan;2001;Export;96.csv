@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,Central Asia,Asia,1489
-2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,Northern Africa,Africa,43
-2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,Northern America,Americas,38
-2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,Northern Europe,Europe,307
-2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,Southern Asia,Asia,2255
-2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,Western Asia,Asia,542
-2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,Western Europe,Europe,1971
-2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,World,World,6733
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,Central Asia,Asia,1489,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,Northern Africa,Africa,43,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,Northern America,Americas,38,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,Northern Europe,Europe,307,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,Southern Asia,Asia,2255,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,Western Asia,Asia,542,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,Western Europe,Europe,1971,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2001,2001,Export,Azerbaijan,96,Miscellaneous manufactured articles,World,World,6733,40.3936294,47.7872508,,

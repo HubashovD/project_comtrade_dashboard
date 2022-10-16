@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Australia and New Zealand,Oceania,9163
-2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Eastern Asia,Asia,59947
-2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Eastern Europe,Europe,1104351
-2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Northern America,Americas,1345
-2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Northern Europe,Europe,419
-2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Southern Asia,Asia,559368
-2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Southern Europe,Europe,243980
-2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Western Asia,Asia,4960
-2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Western Europe,Europe,454
-2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",World,World,2018126
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Australia and New Zealand,Oceania,9163,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Eastern Asia,Asia,59947,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Eastern Europe,Europe,1104351,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Northern America,Americas,1345,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Northern Europe,Europe,419,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Southern Asia,Asia,559368,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Southern Europe,Europe,243980,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Western Asia,Asia,4960,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",Western Europe,Europe,454,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2018,2018,Import,Azerbaijan,26,"Ores, slag and ash",World,World,2018126,40.3936294,47.7872508,,

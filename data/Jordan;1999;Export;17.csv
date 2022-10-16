@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Jordan,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,2619878
-1999,1999,Export,Jordan,17,Sugars and sugar confectionery,Northern America,Americas,58228
-1999,1999,Export,Jordan,17,Sugars and sugar confectionery,Northern Europe,Europe,17580
-1999,1999,Export,Jordan,17,Sugars and sugar confectionery,South-eastern Asia,Asia,2736
-1999,1999,Export,Jordan,17,Sugars and sugar confectionery,Southern Europe,Europe,3005
-1999,1999,Export,Jordan,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,12359
-1999,1999,Export,Jordan,17,Sugars and sugar confectionery,Western Europe,Europe,761
-1999,1999,Export,Jordan,17,Sugars and sugar confectionery,World,World,4951758
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Jordan,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,2619878,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1999,1999,Export,Jordan,17,Sugars and sugar confectionery,Northern America,Americas,58228,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1999,1999,Export,Jordan,17,Sugars and sugar confectionery,Northern Europe,Europe,17580,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1999,1999,Export,Jordan,17,Sugars and sugar confectionery,South-eastern Asia,Asia,2736,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1999,1999,Export,Jordan,17,Sugars and sugar confectionery,Southern Europe,Europe,3005,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1999,1999,Export,Jordan,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,12359,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1999,1999,Export,Jordan,17,Sugars and sugar confectionery,Western Europe,Europe,761,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Export,Jordan,17,Sugars and sugar confectionery,World,World,4951758,31.1667049,36.941628,,

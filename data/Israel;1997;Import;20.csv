@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Australia and New Zealand,Oceania,95000
-1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Eastern Asia,Asia,9154000
-1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Eastern Europe,Europe,3035000
-1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Latin America and the Caribbean,Americas,4755000
-1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Northern Africa,Africa,321000
-1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Northern America,Americas,10015000
-1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Northern Europe,Europe,3484000
-1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",South-eastern Asia,Asia,8689000
-1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Southern Europe,Europe,7027000
-1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Western Asia,Asia,2956000
-1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Western Europe,Europe,18838000
-1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",World,World,81925000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Australia and New Zealand,Oceania,95000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Eastern Asia,Asia,9154000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Eastern Europe,Europe,3035000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Latin America and the Caribbean,Americas,4755000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Northern Africa,Africa,321000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Northern America,Americas,10015000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Northern Europe,Europe,3484000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",South-eastern Asia,Asia,8689000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Southern Europe,Europe,7027000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Western Asia,Asia,2956000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",Western Europe,Europe,18838000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1997,1997,Import,Israel,20,"Vegetable, fruit, nut, etc food preparations",World,World,81925000,30.8124247,34.8594762,,

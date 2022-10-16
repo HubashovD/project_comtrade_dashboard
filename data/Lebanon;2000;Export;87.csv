@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,30191
-2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,7615
-2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,292632
-2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Latin America and the Caribbean,Americas,81654
-2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Northern Africa,Africa,514565
-2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Northern America,Americas,150865
-2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Northern Europe,Europe,142585
-2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,10839
-2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Southern Asia,Asia,3050
-2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Southern Europe,Europe,240908
-2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Sub-Saharan Africa,Africa,1692860
-2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Western Asia,Asia,1250949
-2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Western Europe,Europe,459125
-2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",World,World,9499257
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,30191,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,7615,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,292632,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Latin America and the Caribbean,Americas,81654,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Northern Africa,Africa,514565,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Northern America,Americas,150865,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Northern Europe,Europe,142585,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,10839,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Southern Asia,Asia,3050,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Southern Europe,Europe,240908,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Sub-Saharan Africa,Africa,1692860,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Western Asia,Asia,1250949,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",Western Europe,Europe,459125,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Export,Lebanon,87,"Vehicles other than railway, tramway",World,World,9499257,33.8750629,35.843409,,

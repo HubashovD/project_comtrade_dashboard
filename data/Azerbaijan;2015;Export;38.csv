@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Central Asia,Asia,212342
-2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Eastern Asia,Asia,873923
-2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Eastern Europe,Europe,1178323
-2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,120520
-2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Northern America,Americas,123710
-2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Northern Europe,Europe,18721
-2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Southern Europe,Europe,372512
-2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,98944
-2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Western Europe,Europe,7778286
-2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,World,World,10958290
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Central Asia,Asia,212342,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Eastern Asia,Asia,873923,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Eastern Europe,Europe,1178323,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,120520,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Northern America,Americas,123710,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Northern Europe,Europe,18721,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Southern Europe,Europe,372512,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,98944,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,Western Europe,Europe,7778286,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2015,2015,Export,Azerbaijan,38,Chemical products n.e.c.,World,World,10958290,40.3936294,47.7872508,,

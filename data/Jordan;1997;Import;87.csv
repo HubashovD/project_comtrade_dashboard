@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,5281
-1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,152399611
-1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,4871888
-1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Latin America and the Caribbean,Americas,3836114
-1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Northern Africa,Africa,280130
-1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Northern America,Americas,34606728
-1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Northern Europe,Europe,12641473
-1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,1418824
-1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Southern Asia,Asia,835587
-1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Southern Europe,Europe,10923077
-1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Western Asia,Asia,5122047
-1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Western Europe,Europe,153227712
-1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",World,World,390099104
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,5281,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,152399611,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,4871888,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Latin America and the Caribbean,Americas,3836114,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Northern Africa,Africa,280130,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Northern America,Americas,34606728,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Northern Europe,Europe,12641473,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,1418824,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Southern Asia,Asia,835587,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Southern Europe,Europe,10923077,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Western Asia,Asia,5122047,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",Western Europe,Europe,153227712,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1997,1997,Import,Jordan,87,"Vehicles other than railway, tramway",World,World,390099104,31.1667049,36.941628,,

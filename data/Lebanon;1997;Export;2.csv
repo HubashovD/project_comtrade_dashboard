@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Lebanon,2,Meat and edible meat offal,Eastern Europe,Europe,232614
-1997,1997,Export,Lebanon,2,Meat and edible meat offal,Northern Europe,Europe,650
-1997,1997,Export,Lebanon,2,Meat and edible meat offal,Southern Europe,Europe,94063
-1997,1997,Export,Lebanon,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,145552
-1997,1997,Export,Lebanon,2,Meat and edible meat offal,World,World,503932
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Lebanon,2,Meat and edible meat offal,Eastern Europe,Europe,232614,33.8750629,35.843409,51.67568633314729,27.673469819741847
+1997,1997,Export,Lebanon,2,Meat and edible meat offal,Northern Europe,Europe,650,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1997,1997,Export,Lebanon,2,Meat and edible meat offal,Southern Europe,Europe,94063,33.8750629,35.843409,40.12399607988535,20.742583178432696
+1997,1997,Export,Lebanon,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,145552,33.8750629,35.843409,6.06272746187266,22.727528470146083
+1997,1997,Export,Lebanon,2,Meat and edible meat offal,World,World,503932,33.8750629,35.843409,,

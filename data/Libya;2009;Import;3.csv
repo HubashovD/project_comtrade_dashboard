@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,1492
-2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,1529589
-2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,309388
-2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Africa,Africa,274337
-2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,46608
-2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,3827788
-2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,3902
-2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,1316337
-2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,239795
-2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,182792
-2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,71177
-2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,9995314
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,1492,26.8234472,18.1236723,-16.85099460447687,133.4130365630627
+2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,1529589,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,309388,26.8234472,18.1236723,17.925141963241547,-78.01492950057497
+2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Africa,Africa,274337,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,46608,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,3827788,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,3902,26.8234472,18.1236723,25.499703063807168,75.5024015339642
+2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,1316337,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,239795,26.8234472,18.1236723,6.06272746187266,22.727528470146083
+2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,182792,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,71177,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2009,2009,Import,Libya,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,9995314,26.8234472,18.1236723,,

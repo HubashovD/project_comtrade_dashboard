@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Australia and New Zealand,Oceania,553000
-2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Eastern Asia,Asia,563726000
-2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Eastern Europe,Europe,37111000
-2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Latin America and the Caribbean,Americas,1689000
-2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Northern Africa,Africa,14000
-2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Northern America,Americas,102379000
-2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Northern Europe,Europe,128799000
-2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,South-eastern Asia,Asia,29248000
-2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Southern Europe,Europe,266236000
-2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Sub-Saharan Africa,Africa,148000
-2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Western Asia,Asia,145685000
-2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Western Europe,Europe,548670000
-2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,World,World,1848145000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Australia and New Zealand,Oceania,553000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Eastern Asia,Asia,563726000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Eastern Europe,Europe,37111000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Latin America and the Caribbean,Americas,1689000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Northern Africa,Africa,14000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Northern America,Americas,102379000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Northern Europe,Europe,128799000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,South-eastern Asia,Asia,29248000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Southern Europe,Europe,266236000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Sub-Saharan Africa,Africa,148000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Western Asia,Asia,145685000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,Western Europe,Europe,548670000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2003,2003,Import,Israel,87,Vehicles other than railway or tramway rolling stock,World,World,1848145000,30.8124247,34.8594762,,

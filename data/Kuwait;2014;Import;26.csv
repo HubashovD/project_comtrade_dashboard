@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Kuwait,26,"Ores, slag and ash",Eastern Asia,Asia,3871190
-2014,2014,Import,Kuwait,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,603560
-2014,2014,Import,Kuwait,26,"Ores, slag and ash",Northern Africa,Africa,665
-2014,2014,Import,Kuwait,26,"Ores, slag and ash",Northern America,Americas,98553
-2014,2014,Import,Kuwait,26,"Ores, slag and ash",Northern Europe,Europe,114828
-2014,2014,Import,Kuwait,26,"Ores, slag and ash",Southern Europe,Europe,55872
-2014,2014,Import,Kuwait,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,30837
-2014,2014,Import,Kuwait,26,"Ores, slag and ash",Western Europe,Europe,80729
-2014,2014,Import,Kuwait,26,"Ores, slag and ash",World,World,17087402
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Kuwait,26,"Ores, slag and ash",Eastern Asia,Asia,3871190,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2014,2014,Import,Kuwait,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,603560,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2014,2014,Import,Kuwait,26,"Ores, slag and ash",Northern Africa,Africa,665,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2014,2014,Import,Kuwait,26,"Ores, slag and ash",Northern America,Americas,98553,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2014,2014,Import,Kuwait,26,"Ores, slag and ash",Northern Europe,Europe,114828,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2014,2014,Import,Kuwait,26,"Ores, slag and ash",Southern Europe,Europe,55872,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2014,2014,Import,Kuwait,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,30837,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2014,2014,Import,Kuwait,26,"Ores, slag and ash",Western Europe,Europe,80729,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2014,2014,Import,Kuwait,26,"Ores, slag and ash",World,World,17087402,29.2733964,47.4979476,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Jordan,31,Fertilizers,Australia and New Zealand,Oceania,339181
-2005,2005,Export,Jordan,31,Fertilizers,Central Asia,Asia,131595
-2005,2005,Export,Jordan,31,Fertilizers,Eastern Asia,Asia,48316464
-2005,2005,Export,Jordan,31,Fertilizers,Eastern Europe,Europe,37080
-2005,2005,Export,Jordan,31,Fertilizers,Latin America and the Caribbean,Americas,43632
-2005,2005,Export,Jordan,31,Fertilizers,Northern Africa,Africa,7627688
-2005,2005,Export,Jordan,31,Fertilizers,South-eastern Asia,Asia,51741192
-2005,2005,Export,Jordan,31,Fertilizers,Southern Asia,Asia,25116564
-2005,2005,Export,Jordan,31,Fertilizers,Southern Europe,Europe,25665141
-2005,2005,Export,Jordan,31,Fertilizers,Sub-Saharan Africa,Africa,46163440
-2005,2005,Export,Jordan,31,Fertilizers,Western Asia,Asia,5850432
-2005,2005,Export,Jordan,31,Fertilizers,Western Europe,Europe,11857463
-2005,2005,Export,Jordan,31,Fertilizers,World,World,458436910
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Jordan,31,Fertilizers,Australia and New Zealand,Oceania,339181,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2005,2005,Export,Jordan,31,Fertilizers,Central Asia,Asia,131595,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2005,2005,Export,Jordan,31,Fertilizers,Eastern Asia,Asia,48316464,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2005,2005,Export,Jordan,31,Fertilizers,Eastern Europe,Europe,37080,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2005,2005,Export,Jordan,31,Fertilizers,Latin America and the Caribbean,Americas,43632,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2005,2005,Export,Jordan,31,Fertilizers,Northern Africa,Africa,7627688,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2005,2005,Export,Jordan,31,Fertilizers,South-eastern Asia,Asia,51741192,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2005,2005,Export,Jordan,31,Fertilizers,Southern Asia,Asia,25116564,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2005,2005,Export,Jordan,31,Fertilizers,Southern Europe,Europe,25665141,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2005,2005,Export,Jordan,31,Fertilizers,Sub-Saharan Africa,Africa,46163440,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2005,2005,Export,Jordan,31,Fertilizers,Western Asia,Asia,5850432,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2005,2005,Export,Jordan,31,Fertilizers,Western Europe,Europe,11857463,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2005,2005,Export,Jordan,31,Fertilizers,World,World,458436910,31.1667049,36.941628,,

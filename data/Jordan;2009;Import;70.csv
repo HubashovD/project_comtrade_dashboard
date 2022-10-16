@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Jordan,70,Glass and glassware,Australia and New Zealand,Oceania,71417
-2009,2009,Import,Jordan,70,Glass and glassware,Eastern Asia,Asia,22571016
-2009,2009,Import,Jordan,70,Glass and glassware,Eastern Europe,Europe,254164
-2009,2009,Import,Jordan,70,Glass and glassware,Latin America and the Caribbean,Americas,489592
-2009,2009,Import,Jordan,70,Glass and glassware,Northern Africa,Africa,3566207
-2009,2009,Import,Jordan,70,Glass and glassware,Northern America,Americas,967050
-2009,2009,Import,Jordan,70,Glass and glassware,Northern Europe,Europe,648782
-2009,2009,Import,Jordan,70,Glass and glassware,South-eastern Asia,Asia,811859
-2009,2009,Import,Jordan,70,Glass and glassware,Southern Asia,Asia,669230
-2009,2009,Import,Jordan,70,Glass and glassware,Southern Europe,Europe,2319697
-2009,2009,Import,Jordan,70,Glass and glassware,Sub-Saharan Africa,Africa,46955
-2009,2009,Import,Jordan,70,Glass and glassware,Western Asia,Asia,5655606
-2009,2009,Import,Jordan,70,Glass and glassware,Western Europe,Europe,6615464
-2009,2009,Import,Jordan,70,Glass and glassware,World,World,64949752
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Jordan,70,Glass and glassware,Australia and New Zealand,Oceania,71417,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2009,2009,Import,Jordan,70,Glass and glassware,Eastern Asia,Asia,22571016,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2009,2009,Import,Jordan,70,Glass and glassware,Eastern Europe,Europe,254164,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2009,2009,Import,Jordan,70,Glass and glassware,Latin America and the Caribbean,Americas,489592,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2009,2009,Import,Jordan,70,Glass and glassware,Northern Africa,Africa,3566207,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2009,2009,Import,Jordan,70,Glass and glassware,Northern America,Americas,967050,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2009,2009,Import,Jordan,70,Glass and glassware,Northern Europe,Europe,648782,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2009,2009,Import,Jordan,70,Glass and glassware,South-eastern Asia,Asia,811859,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2009,2009,Import,Jordan,70,Glass and glassware,Southern Asia,Asia,669230,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2009,2009,Import,Jordan,70,Glass and glassware,Southern Europe,Europe,2319697,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2009,2009,Import,Jordan,70,Glass and glassware,Sub-Saharan Africa,Africa,46955,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2009,2009,Import,Jordan,70,Glass and glassware,Western Asia,Asia,5655606,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2009,2009,Import,Jordan,70,Glass and glassware,Western Europe,Europe,6615464,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2009,2009,Import,Jordan,70,Glass and glassware,World,World,64949752,31.1667049,36.941628,,

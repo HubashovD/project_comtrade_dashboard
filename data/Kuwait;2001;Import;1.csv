@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Kuwait,1,Live animals,Australia and New Zealand,Oceania,51422692
-2001,2001,Import,Kuwait,1,Live animals,Central Asia,Asia,4089
-2001,2001,Import,Kuwait,1,Live animals,Eastern Asia,Asia,53007
-2001,2001,Import,Kuwait,1,Live animals,Eastern Europe,Europe,297652
-2001,2001,Import,Kuwait,1,Live animals,Latin America and the Caribbean,Americas,1653
-2001,2001,Import,Kuwait,1,Live animals,Northern Africa,Africa,273531
-2001,2001,Import,Kuwait,1,Live animals,Northern America,Americas,307982
-2001,2001,Import,Kuwait,1,Live animals,Northern Europe,Europe,482657
-2001,2001,Import,Kuwait,1,Live animals,South-eastern Asia,Asia,45533
-2001,2001,Import,Kuwait,1,Live animals,Southern Asia,Asia,11245423
-2001,2001,Import,Kuwait,1,Live animals,Southern Europe,Europe,25044
-2001,2001,Import,Kuwait,1,Live animals,Sub-Saharan Africa,Africa,670987
-2001,2001,Import,Kuwait,1,Live animals,Western Asia,Asia,2900576
-2001,2001,Import,Kuwait,1,Live animals,Western Europe,Europe,733377
-2001,2001,Import,Kuwait,1,Live animals,World,World,71423140
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Kuwait,1,Live animals,Australia and New Zealand,Oceania,51422692,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2001,2001,Import,Kuwait,1,Live animals,Central Asia,Asia,4089,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2001,2001,Import,Kuwait,1,Live animals,Eastern Asia,Asia,53007,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2001,2001,Import,Kuwait,1,Live animals,Eastern Europe,Europe,297652,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2001,2001,Import,Kuwait,1,Live animals,Latin America and the Caribbean,Americas,1653,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2001,2001,Import,Kuwait,1,Live animals,Northern Africa,Africa,273531,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2001,2001,Import,Kuwait,1,Live animals,Northern America,Americas,307982,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2001,2001,Import,Kuwait,1,Live animals,Northern Europe,Europe,482657,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2001,2001,Import,Kuwait,1,Live animals,South-eastern Asia,Asia,45533,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2001,2001,Import,Kuwait,1,Live animals,Southern Asia,Asia,11245423,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2001,2001,Import,Kuwait,1,Live animals,Southern Europe,Europe,25044,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2001,2001,Import,Kuwait,1,Live animals,Sub-Saharan Africa,Africa,670987,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2001,2001,Import,Kuwait,1,Live animals,Western Asia,Asia,2900576,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2001,2001,Import,Kuwait,1,Live animals,Western Europe,Europe,733377,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2001,2001,Import,Kuwait,1,Live animals,World,World,71423140,29.2733964,47.4979476,,

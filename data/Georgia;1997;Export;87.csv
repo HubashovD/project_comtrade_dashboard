@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Georgia,87,"Vehicles other than railway, tramway",Central Asia,Asia,287983
-1997,1997,Export,Georgia,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,851776
-1997,1997,Export,Georgia,87,"Vehicles other than railway, tramway",Northern America,Americas,95473
-1997,1997,Export,Georgia,87,"Vehicles other than railway, tramway",Southern Europe,Europe,311669
-1997,1997,Export,Georgia,87,"Vehicles other than railway, tramway",Western Asia,Asia,93805
-1997,1997,Export,Georgia,87,"Vehicles other than railway, tramway",Western Europe,Europe,42832
-1997,1997,Export,Georgia,87,"Vehicles other than railway, tramway",World,World,3874507
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Georgia,87,"Vehicles other than railway, tramway",Central Asia,Asia,287983,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+1997,1997,Export,Georgia,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,851776,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1997,1997,Export,Georgia,87,"Vehicles other than railway, tramway",Northern America,Americas,95473,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1997,1997,Export,Georgia,87,"Vehicles other than railway, tramway",Southern Europe,Europe,311669,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1997,1997,Export,Georgia,87,"Vehicles other than railway, tramway",Western Asia,Asia,93805,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1997,1997,Export,Georgia,87,"Vehicles other than railway, tramway",Western Europe,Europe,42832,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1997,1997,Export,Georgia,87,"Vehicles other than railway, tramway",World,World,3874507,32.3293809,-83.1137366,,

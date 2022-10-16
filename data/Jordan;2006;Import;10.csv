@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Jordan,10,Cereals,Australia and New Zealand,Oceania,9081242
-2006,2006,Import,Jordan,10,Cereals,Eastern Asia,Asia,180988
-2006,2006,Import,Jordan,10,Cereals,Eastern Europe,Europe,85613680
-2006,2006,Import,Jordan,10,Cereals,Latin America and the Caribbean,Americas,9863063
-2006,2006,Import,Jordan,10,Cereals,Northern Africa,Africa,18599831
-2006,2006,Import,Jordan,10,Cereals,Northern America,Americas,95278831
-2006,2006,Import,Jordan,10,Cereals,Northern Europe,Europe,1413
-2006,2006,Import,Jordan,10,Cereals,South-eastern Asia,Asia,4240390
-2006,2006,Import,Jordan,10,Cereals,Southern Asia,Asia,11520
-2006,2006,Import,Jordan,10,Cereals,Southern Europe,Europe,2405684
-2006,2006,Import,Jordan,10,Cereals,Western Asia,Asia,35183441
-2006,2006,Import,Jordan,10,Cereals,Western Europe,Europe,48684360
-2006,2006,Import,Jordan,10,Cereals,World,World,318115281
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Jordan,10,Cereals,Australia and New Zealand,Oceania,9081242,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2006,2006,Import,Jordan,10,Cereals,Eastern Asia,Asia,180988,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2006,2006,Import,Jordan,10,Cereals,Eastern Europe,Europe,85613680,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2006,2006,Import,Jordan,10,Cereals,Latin America and the Caribbean,Americas,9863063,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2006,2006,Import,Jordan,10,Cereals,Northern Africa,Africa,18599831,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2006,2006,Import,Jordan,10,Cereals,Northern America,Americas,95278831,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2006,2006,Import,Jordan,10,Cereals,Northern Europe,Europe,1413,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2006,2006,Import,Jordan,10,Cereals,South-eastern Asia,Asia,4240390,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2006,2006,Import,Jordan,10,Cereals,Southern Asia,Asia,11520,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2006,2006,Import,Jordan,10,Cereals,Southern Europe,Europe,2405684,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2006,2006,Import,Jordan,10,Cereals,Western Asia,Asia,35183441,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2006,2006,Import,Jordan,10,Cereals,Western Europe,Europe,48684360,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2006,2006,Import,Jordan,10,Cereals,World,World,318115281,31.1667049,36.941628,,

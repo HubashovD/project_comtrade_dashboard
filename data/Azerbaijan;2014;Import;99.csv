@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Asia,Asia,5190734
-2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,36573462
-2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,1266620
-2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,19669
-2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,1269682
-2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,Western Asia,Asia,2463457
-2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,571962
-2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,World,World,47926081
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Asia,Asia,5190734,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,36573462,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,1266620,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,19669,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,1269682,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,Western Asia,Asia,2463457,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,571962,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2014,2014,Import,Azerbaijan,99,Commodities not specified according to kind,World,World,47926081,40.3936294,47.7872508,,

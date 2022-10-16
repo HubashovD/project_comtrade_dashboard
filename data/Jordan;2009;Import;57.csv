@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Australia and New Zealand,Oceania,5780
-2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Eastern Asia,Asia,1439548
-2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Eastern Europe,Europe,977
-2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,9164
-2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Northern Africa,Africa,1979131
-2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Northern America,Americas,317208
-2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Northern Europe,Europe,597110
-2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,South-eastern Asia,Asia,126656
-2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Southern Asia,Asia,491919
-2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Southern Europe,Europe,273039
-2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Sub-Saharan Africa,Africa,49
-2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Western Asia,Asia,4801321
-2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Western Europe,Europe,2555717
-2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,World,World,24700288
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Australia and New Zealand,Oceania,5780,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Eastern Asia,Asia,1439548,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Eastern Europe,Europe,977,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,9164,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Northern Africa,Africa,1979131,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Northern America,Americas,317208,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Northern Europe,Europe,597110,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,South-eastern Asia,Asia,126656,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Southern Asia,Asia,491919,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Southern Europe,Europe,273039,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Sub-Saharan Africa,Africa,49,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Western Asia,Asia,4801321,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,Western Europe,Europe,2555717,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2009,2009,Import,Jordan,57,Carpets and other textile floor coverings,World,World,24700288,31.1667049,36.941628,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Lebanon,50,Silk,Eastern Asia,Asia,2591609
-2009,2009,Import,Lebanon,50,Silk,Latin America and the Caribbean,Americas,3314
-2009,2009,Import,Lebanon,50,Silk,Northern America,Americas,71320
-2009,2009,Import,Lebanon,50,Silk,Northern Europe,Europe,160407
-2009,2009,Import,Lebanon,50,Silk,South-eastern Asia,Asia,102352
-2009,2009,Import,Lebanon,50,Silk,Southern Europe,Europe,2382143
-2009,2009,Import,Lebanon,50,Silk,Western Asia,Asia,1368
-2009,2009,Import,Lebanon,50,Silk,Western Europe,Europe,519820
-2009,2009,Import,Lebanon,50,Silk,World,World,8620860
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Lebanon,50,Silk,Eastern Asia,Asia,2591609,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2009,2009,Import,Lebanon,50,Silk,Latin America and the Caribbean,Americas,3314,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2009,2009,Import,Lebanon,50,Silk,Northern America,Americas,71320,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2009,2009,Import,Lebanon,50,Silk,Northern Europe,Europe,160407,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2009,2009,Import,Lebanon,50,Silk,South-eastern Asia,Asia,102352,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2009,2009,Import,Lebanon,50,Silk,Southern Europe,Europe,2382143,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2009,2009,Import,Lebanon,50,Silk,Western Asia,Asia,1368,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2009,2009,Import,Lebanon,50,Silk,Western Europe,Europe,519820,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2009,2009,Import,Lebanon,50,Silk,World,World,8620860,33.8750629,35.843409,,

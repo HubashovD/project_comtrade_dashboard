@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Australia and New Zealand,Oceania,114463236
-2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Eastern Asia,Asia,3533873
-2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Eastern Europe,Europe,8474371
-2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Latin America and the Caribbean,Americas,6077690
-2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Northern America,Americas,18721996
-2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Northern Europe,Europe,15132762
-2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Polynesia,Oceania,245
-2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,South-eastern Asia,Asia,7138493
-2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Southern Asia,Asia,418021
-2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Southern Europe,Europe,2859845
-2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Sub-Saharan Africa,Africa,29434
-2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Western Asia,Asia,18563158
-2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Western Europe,Europe,103899593
-2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,World,World,527855707
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Australia and New Zealand,Oceania,114463236,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Eastern Asia,Asia,3533873,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Eastern Europe,Europe,8474371,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Latin America and the Caribbean,Americas,6077690,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Northern America,Americas,18721996,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Northern Europe,Europe,15132762,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Polynesia,Oceania,245,29.2733964,47.4979476,-5.109184731250752,167.40343615892436
+2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,South-eastern Asia,Asia,7138493,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Southern Asia,Asia,418021,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Southern Europe,Europe,2859845,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Sub-Saharan Africa,Africa,29434,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Western Asia,Asia,18563158,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,Western Europe,Europe,103899593,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Import,Kuwait,4,Dairy produce; birds eggs; natural honey;,World,World,527855707,29.2733964,47.4979476,,

@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Australia and New Zealand,Oceania,24000
-2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Eastern Asia,Asia,88000
-2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Eastern Europe,Europe,1884000
-2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Latin America and the Caribbean,Americas,2526000
-2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Northern America,Americas,33079000
-2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Northern Europe,Europe,8990000
-2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Southern Europe,Europe,3309000
-2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Sub-Saharan Africa,Africa,7740000
-2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Western Europe,Europe,5491000
-2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",World,World,63306000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Australia and New Zealand,Oceania,24000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Eastern Asia,Asia,88000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Eastern Europe,Europe,1884000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Latin America and the Caribbean,Americas,2526000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Northern America,Americas,33079000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Northern Europe,Europe,8990000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Southern Europe,Europe,3309000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Sub-Saharan Africa,Africa,7740000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",Western Europe,Europe,5491000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2001,2001,Import,Israel,47,"Pulp of wood, fibrous cellulosic material, waste etc",World,World,63306000,30.8124247,34.8594762,,

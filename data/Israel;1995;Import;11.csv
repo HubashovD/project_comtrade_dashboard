@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Eastern Asia,Asia,406000
-1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Eastern Europe,Europe,1161000
-1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Northern America,Americas,5288000
-1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Northern Europe,Europe,20862000
-1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Southern Europe,Europe,16896000
-1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Sub-Saharan Africa,Africa,78000
-1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Western Asia,Asia,32000
-1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Western Europe,Europe,7341000
-1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",World,World,55028000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Eastern Asia,Asia,406000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Eastern Europe,Europe,1161000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Northern America,Americas,5288000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Northern Europe,Europe,20862000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Southern Europe,Europe,16896000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Sub-Saharan Africa,Africa,78000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Western Asia,Asia,32000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",Western Europe,Europe,7341000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Import,Israel,11,"Milling products, malt, starches, inulin, wheat glute",World,World,55028000,30.8124247,34.8594762,,

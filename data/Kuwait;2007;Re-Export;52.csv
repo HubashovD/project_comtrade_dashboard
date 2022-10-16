@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Re-Export,Kuwait,52,Cotton,Northern Europe,Europe,4097
-2007,2007,Re-Export,Kuwait,52,Cotton,Southern Asia,Asia,829
-2007,2007,Re-Export,Kuwait,52,Cotton,World,World,139633
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Re-Export,Kuwait,52,Cotton,Northern Europe,Europe,4097,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2007,2007,Re-Export,Kuwait,52,Cotton,Southern Asia,Asia,829,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2007,2007,Re-Export,Kuwait,52,Cotton,World,World,139633,29.2733964,47.4979476,,

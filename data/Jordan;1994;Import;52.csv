@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Jordan,52,Cotton,Central Asia,Asia,25607
-1994,1994,Import,Jordan,52,Cotton,Eastern Asia,Asia,1484279
-1994,1994,Import,Jordan,52,Cotton,Eastern Europe,Europe,473546
-1994,1994,Import,Jordan,52,Cotton,Northern Africa,Africa,1223996
-1994,1994,Import,Jordan,52,Cotton,Northern America,Americas,296528
-1994,1994,Import,Jordan,52,Cotton,Northern Europe,Europe,435190
-1994,1994,Import,Jordan,52,Cotton,South-eastern Asia,Asia,198214
-1994,1994,Import,Jordan,52,Cotton,Southern Asia,Asia,17809
-1994,1994,Import,Jordan,52,Cotton,Southern Europe,Europe,624765
-1994,1994,Import,Jordan,52,Cotton,Western Asia,Asia,3278273
-1994,1994,Import,Jordan,52,Cotton,Western Europe,Europe,316370
-1994,1994,Import,Jordan,52,Cotton,World,World,12079291
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Jordan,52,Cotton,Central Asia,Asia,25607,31.1667049,36.941628,39.89317229901691,61.060280637304274
+1994,1994,Import,Jordan,52,Cotton,Eastern Asia,Asia,1484279,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1994,1994,Import,Jordan,52,Cotton,Eastern Europe,Europe,473546,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1994,1994,Import,Jordan,52,Cotton,Northern Africa,Africa,1223996,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1994,1994,Import,Jordan,52,Cotton,Northern America,Americas,296528,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1994,1994,Import,Jordan,52,Cotton,Northern Europe,Europe,435190,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Import,Jordan,52,Cotton,South-eastern Asia,Asia,198214,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1994,1994,Import,Jordan,52,Cotton,Southern Asia,Asia,17809,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1994,1994,Import,Jordan,52,Cotton,Southern Europe,Europe,624765,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1994,1994,Import,Jordan,52,Cotton,Western Asia,Asia,3278273,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1994,1994,Import,Jordan,52,Cotton,Western Europe,Europe,316370,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1994,1994,Import,Jordan,52,Cotton,World,World,12079291,31.1667049,36.941628,,

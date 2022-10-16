@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Libya,52,Cotton,Eastern Asia,Asia,50755
-2007,2007,Import,Libya,52,Cotton,Northern Africa,Africa,8711
-2007,2007,Import,Libya,52,Cotton,Northern America,Americas,10421
-2007,2007,Import,Libya,52,Cotton,Northern Europe,Europe,7911
-2007,2007,Import,Libya,52,Cotton,Southern Europe,Europe,12256
-2007,2007,Import,Libya,52,Cotton,Western Asia,Asia,13604
-2007,2007,Import,Libya,52,Cotton,World,World,191940
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Libya,52,Cotton,Eastern Asia,Asia,50755,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2007,2007,Import,Libya,52,Cotton,Northern Africa,Africa,8711,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2007,2007,Import,Libya,52,Cotton,Northern America,Americas,10421,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2007,2007,Import,Libya,52,Cotton,Northern Europe,Europe,7911,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2007,2007,Import,Libya,52,Cotton,Southern Europe,Europe,12256,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2007,2007,Import,Libya,52,Cotton,Western Asia,Asia,13604,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2007,2007,Import,Libya,52,Cotton,World,World,191940,26.8234472,18.1236723,,

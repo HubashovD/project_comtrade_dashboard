@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Re-Export,Kuwait,89,"Ships, boats and floating structures",Northern America,Americas,16480
-2020,2020,Re-Export,Kuwait,89,"Ships, boats and floating structures",Northern Europe,Europe,164
-2020,2020,Re-Export,Kuwait,89,"Ships, boats and floating structures",South-eastern Asia,Asia,11254
-2020,2020,Re-Export,Kuwait,89,"Ships, boats and floating structures",Southern Asia,Asia,81399
-2020,2020,Re-Export,Kuwait,89,"Ships, boats and floating structures",Southern Europe,Europe,412360
-2020,2020,Re-Export,Kuwait,89,"Ships, boats and floating structures",Western Asia,Asia,2981216
-2020,2020,Re-Export,Kuwait,89,"Ships, boats and floating structures",World,World,7925187
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Re-Export,Kuwait,89,"Ships, boats and floating structures",Northern America,Americas,16480,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2020,2020,Re-Export,Kuwait,89,"Ships, boats and floating structures",Northern Europe,Europe,164,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2020,2020,Re-Export,Kuwait,89,"Ships, boats and floating structures",South-eastern Asia,Asia,11254,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2020,2020,Re-Export,Kuwait,89,"Ships, boats and floating structures",Southern Asia,Asia,81399,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2020,2020,Re-Export,Kuwait,89,"Ships, boats and floating structures",Southern Europe,Europe,412360,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2020,2020,Re-Export,Kuwait,89,"Ships, boats and floating structures",Western Asia,Asia,2981216,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2020,2020,Re-Export,Kuwait,89,"Ships, boats and floating structures",World,World,7925187,29.2733964,47.4979476,,

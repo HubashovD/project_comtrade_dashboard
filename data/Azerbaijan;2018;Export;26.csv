@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Azerbaijan,26,"Ores, slag and ash",South-eastern Asia,Asia,4725645
-2018,2018,Export,Azerbaijan,26,"Ores, slag and ash",Southern Asia,Asia,343650
-2018,2018,Export,Azerbaijan,26,"Ores, slag and ash",Western Asia,Asia,24000
-2018,2018,Export,Azerbaijan,26,"Ores, slag and ash",Western Europe,Europe,14387925
-2018,2018,Export,Azerbaijan,26,"Ores, slag and ash",World,World,19484972
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Azerbaijan,26,"Ores, slag and ash",South-eastern Asia,Asia,4725645,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2018,2018,Export,Azerbaijan,26,"Ores, slag and ash",Southern Asia,Asia,343650,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2018,2018,Export,Azerbaijan,26,"Ores, slag and ash",Western Asia,Asia,24000,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2018,2018,Export,Azerbaijan,26,"Ores, slag and ash",Western Europe,Europe,14387925,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2018,2018,Export,Azerbaijan,26,"Ores, slag and ash",World,World,19484972,40.3936294,47.7872508,,

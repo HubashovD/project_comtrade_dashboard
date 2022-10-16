@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,Australia and New Zealand,Oceania,726338
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,Eastern Asia,Asia,20555499
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,Eastern Europe,Europe,1400304
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,874493
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,Northern Africa,Africa,263177
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,Northern America,Americas,3390742
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,Northern Europe,Europe,1274313
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,Polynesia,Oceania,36519
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,South-eastern Asia,Asia,7318036
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,Southern Asia,Asia,76334
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,Southern Europe,Europe,6019235
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,150297
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,Western Asia,Asia,2757119
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,Western Europe,Europe,7128776
-2001,2001,Import,Lebanon,40,Rubber and articles thereof,World,World,55097815
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,Australia and New Zealand,Oceania,726338,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,Eastern Asia,Asia,20555499,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,Eastern Europe,Europe,1400304,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,874493,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,Northern Africa,Africa,263177,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,Northern America,Americas,3390742,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,Northern Europe,Europe,1274313,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,Polynesia,Oceania,36519,33.8750629,35.843409,-5.109184731250752,167.40343615892436
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,South-eastern Asia,Asia,7318036,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,Southern Asia,Asia,76334,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,Southern Europe,Europe,6019235,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,150297,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,Western Asia,Asia,2757119,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,Western Europe,Europe,7128776,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2001,2001,Import,Lebanon,40,Rubber and articles thereof,World,World,55097815,33.8750629,35.843409,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Central Asia,Asia,90560
-1996,1996,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Eastern Europe,Europe,87240
-1996,1996,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern Europe,Europe,5750
-1996,1996,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Southern Asia,Asia,2688
-1996,1996,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Western Asia,Asia,80586
-1996,1996,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",World,World,268250
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Central Asia,Asia,90560,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1996,1996,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Eastern Europe,Europe,87240,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1996,1996,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern Europe,Europe,5750,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1996,1996,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Southern Asia,Asia,2688,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1996,1996,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Western Asia,Asia,80586,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1996,1996,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",World,World,268250,40.3936294,47.7872508,,

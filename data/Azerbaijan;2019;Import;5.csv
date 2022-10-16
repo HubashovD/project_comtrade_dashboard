@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,247960
-2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,110643
-2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,34862
-2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,1002
-2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,200
-2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Southern Asia,Asia,145944
-2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,7393
-2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,9370
-2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,74350
-2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,World,World,689372
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,247960,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,110643,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,34862,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,1002,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,200,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Southern Asia,Asia,145944,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,7393,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,9370,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,74350,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2019,2019,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,World,World,689372,40.3936294,47.7872508,,

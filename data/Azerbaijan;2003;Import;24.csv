@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Central Asia,Asia,1506380
-2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Eastern Asia,Asia,19831
-2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,2385507
-2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,515539
-2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,2053274
-2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,276755
-2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Polynesia,Oceania,104400
-2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,1197198
-2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Sub-Saharan Africa,Africa,836955
-2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,264388
-2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,7371266
-2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,World,World,18310265
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Central Asia,Asia,1506380,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Eastern Asia,Asia,19831,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,2385507,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,515539,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,2053274,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,276755,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Polynesia,Oceania,104400,40.3936294,47.7872508,-5.109184731250752,167.40343615892436
+2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,1197198,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Sub-Saharan Africa,Africa,836955,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,264388,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,7371266,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2003,2003,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,World,World,18310265,40.3936294,47.7872508,,

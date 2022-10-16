@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Jordan,89,"Ships, boats and other floating structures",Eastern Asia,Asia,13110
-2000,2000,Import,Jordan,89,"Ships, boats and other floating structures",Eastern Europe,Europe,185120
-2000,2000,Import,Jordan,89,"Ships, boats and other floating structures",Northern America,Americas,323950
-2000,2000,Import,Jordan,89,"Ships, boats and other floating structures",Northern Europe,Europe,71368
-2000,2000,Import,Jordan,89,"Ships, boats and other floating structures",Western Europe,Europe,248547
-2000,2000,Import,Jordan,89,"Ships, boats and other floating structures",World,World,889360
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Jordan,89,"Ships, boats and other floating structures",Eastern Asia,Asia,13110,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Import,Jordan,89,"Ships, boats and other floating structures",Eastern Europe,Europe,185120,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Import,Jordan,89,"Ships, boats and other floating structures",Northern America,Americas,323950,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Import,Jordan,89,"Ships, boats and other floating structures",Northern Europe,Europe,71368,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Import,Jordan,89,"Ships, boats and other floating structures",Western Europe,Europe,248547,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Import,Jordan,89,"Ships, boats and other floating structures",World,World,889360,31.1667049,36.941628,,

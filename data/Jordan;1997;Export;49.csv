@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,564
-1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,90356
-1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",Northern America,Americas,88716
-1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,14527
-1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",South-eastern Asia,Asia,34583
-1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,16642
-1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,10154
-1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,31027
-1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",World,World,10182641
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,564,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,90356,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",Northern America,Americas,88716,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,14527,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",South-eastern Asia,Asia,34583,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,16642,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,10154,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,31027,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1997,1997,Export,Jordan,49,"Printed books, newspapers, pictures etc",World,World,10182641,31.1667049,36.941628,,

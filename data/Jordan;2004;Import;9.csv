@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Eastern Asia,Asia,370669
-2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Eastern Europe,Europe,32595
-2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Latin America and the Caribbean,Americas,5518435
-2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Northern Africa,Africa,2573535
-2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Northern America,Americas,165780
-2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Northern Europe,Europe,114745
-2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,2341231
-2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Southern Asia,Asia,14597008
-2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,68395
-2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,900254
-2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Western Asia,Asia,1567413
-2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Western Europe,Europe,205313
-2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",World,World,33121745
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Eastern Asia,Asia,370669,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Eastern Europe,Europe,32595,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Latin America and the Caribbean,Americas,5518435,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Northern Africa,Africa,2573535,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Northern America,Americas,165780,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Northern Europe,Europe,114745,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,2341231,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Southern Asia,Asia,14597008,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,68395,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,900254,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Western Asia,Asia,1567413,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",Western Europe,Europe,205313,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2004,2004,Import,Jordan,9,"Coffee, tea, matΦ and spices",World,World,33121745,31.1667049,36.941628,,

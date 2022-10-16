@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",Australia and New Zealand,Oceania,599
-1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",Central Asia,Asia,3697
-1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",Eastern Europe,Europe,29938
-1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",Northern America,Americas,74468
-1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",Northern Europe,Europe,26908
-1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",Western Asia,Asia,161000
-1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",Western Europe,Europe,2469
-1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",World,World,333525
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",Australia and New Zealand,Oceania,599,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",Central Asia,Asia,3697,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",Eastern Europe,Europe,29938,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",Northern America,Americas,74468,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",Northern Europe,Europe,26908,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",Western Asia,Asia,161000,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",Western Europe,Europe,2469,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1999,1999,Export,Azerbaijan,95,"Toys, games, sports requisites",World,World,333525,40.3936294,47.7872508,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,State of Palestine,31,Fertilisers,Eastern Asia,Asia,377692
-2013,2013,Import,State of Palestine,31,Fertilisers,Eastern Europe,Europe,23604
-2013,2013,Import,State of Palestine,31,Fertilisers,Northern Africa,Africa,19163
-2013,2013,Import,State of Palestine,31,Fertilisers,Northern America,Americas,188294
-2013,2013,Import,State of Palestine,31,Fertilisers,Northern Europe,Europe,21589
-2013,2013,Import,State of Palestine,31,Fertilisers,Southern Europe,Europe,360991
-2013,2013,Import,State of Palestine,31,Fertilisers,Western Asia,Asia,56569
-2013,2013,Import,State of Palestine,31,Fertilisers,Western Europe,Europe,528508
-2013,2013,Import,State of Palestine,31,Fertilisers,World,World,8375204
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,State of Palestine,31,Fertilisers,Eastern Asia,Asia,377692,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2013,2013,Import,State of Palestine,31,Fertilisers,Eastern Europe,Europe,23604,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2013,2013,Import,State of Palestine,31,Fertilisers,Northern Africa,Africa,19163,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2013,2013,Import,State of Palestine,31,Fertilisers,Northern America,Americas,188294,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2013,2013,Import,State of Palestine,31,Fertilisers,Northern Europe,Europe,21589,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
+2013,2013,Import,State of Palestine,31,Fertilisers,Southern Europe,Europe,360991,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2013,2013,Import,State of Palestine,31,Fertilisers,Western Asia,Asia,56569,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
+2013,2013,Import,State of Palestine,31,Fertilisers,Western Europe,Europe,528508,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2013,2013,Import,State of Palestine,31,Fertilisers,World,World,8375204,31.46242095,34.262716572130714,,

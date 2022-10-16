@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Re-Export,Kuwait,10,Cereals,Australia and New Zealand,Oceania,324
-2016,2016,Re-Export,Kuwait,10,Cereals,Eastern Asia,Asia,1984
-2016,2016,Re-Export,Kuwait,10,Cereals,Northern Africa,Africa,29194
-2016,2016,Re-Export,Kuwait,10,Cereals,Southern Asia,Asia,949175
-2016,2016,Re-Export,Kuwait,10,Cereals,Sub-Saharan Africa,Africa,95
-2016,2016,Re-Export,Kuwait,10,Cereals,Western Asia,Asia,219346
-2016,2016,Re-Export,Kuwait,10,Cereals,World,World,2255562
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Re-Export,Kuwait,10,Cereals,Australia and New Zealand,Oceania,324,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2016,2016,Re-Export,Kuwait,10,Cereals,Eastern Asia,Asia,1984,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2016,2016,Re-Export,Kuwait,10,Cereals,Northern Africa,Africa,29194,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2016,2016,Re-Export,Kuwait,10,Cereals,Southern Asia,Asia,949175,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2016,2016,Re-Export,Kuwait,10,Cereals,Sub-Saharan Africa,Africa,95,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2016,2016,Re-Export,Kuwait,10,Cereals,Western Asia,Asia,219346,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2016,2016,Re-Export,Kuwait,10,Cereals,World,World,2255562,29.2733964,47.4979476,,

@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,6304926
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,Central Asia,Asia,247266
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,Eastern Asia,Asia,59501261
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,Eastern Europe,Europe,5232462
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,9084822
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,Northern Africa,Africa,656008
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,Northern America,Americas,122103167
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,Northern Europe,Europe,14714521
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,South-eastern Asia,Asia,1479582
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,Southern Asia,Asia,242639
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,Southern Europe,Europe,9609631
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,492495
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,Western Asia,Asia,9056888
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,Western Europe,Europe,55764215
-2018,2018,Import,Jordan,99,Commodities not specified according to kind,World,World,356283188
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,6304926,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,Central Asia,Asia,247266,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,Eastern Asia,Asia,59501261,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,Eastern Europe,Europe,5232462,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,9084822,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,Northern Africa,Africa,656008,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,Northern America,Americas,122103167,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,Northern Europe,Europe,14714521,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,South-eastern Asia,Asia,1479582,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,Southern Asia,Asia,242639,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,Southern Europe,Europe,9609631,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,492495,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,Western Asia,Asia,9056888,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,Western Europe,Europe,55764215,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2018,2018,Import,Jordan,99,Commodities not specified according to kind,World,World,356283188,31.1667049,36.941628,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Jordan,2,Meat and edible meat offal,Australia and New Zealand,Oceania,32421319
-2008,2008,Import,Jordan,2,Meat and edible meat offal,Eastern Asia,Asia,29311797
-2008,2008,Import,Jordan,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,76576907
-2008,2008,Import,Jordan,2,Meat and edible meat offal,Northern America,Americas,6178282
-2008,2008,Import,Jordan,2,Meat and edible meat offal,Southern Europe,Europe,142325
-2008,2008,Import,Jordan,2,Meat and edible meat offal,Western Asia,Asia,39180
-2008,2008,Import,Jordan,2,Meat and edible meat offal,Western Europe,Europe,6463122
-2008,2008,Import,Jordan,2,Meat and edible meat offal,World,World,195896068
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Jordan,2,Meat and edible meat offal,Australia and New Zealand,Oceania,32421319,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2008,2008,Import,Jordan,2,Meat and edible meat offal,Eastern Asia,Asia,29311797,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2008,2008,Import,Jordan,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,76576907,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2008,2008,Import,Jordan,2,Meat and edible meat offal,Northern America,Americas,6178282,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2008,2008,Import,Jordan,2,Meat and edible meat offal,Southern Europe,Europe,142325,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2008,2008,Import,Jordan,2,Meat and edible meat offal,Western Asia,Asia,39180,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2008,2008,Import,Jordan,2,Meat and edible meat offal,Western Europe,Europe,6463122,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2008,2008,Import,Jordan,2,Meat and edible meat offal,World,World,195896068,31.1667049,36.941628,,

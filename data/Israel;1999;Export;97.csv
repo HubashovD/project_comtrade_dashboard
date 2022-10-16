@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Australia and New Zealand,Oceania,120000
-1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Central Asia,Asia,2000
-1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Eastern Asia,Asia,229000
-1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Eastern Europe,Europe,141000
-1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Latin America and the Caribbean,Americas,35000
-1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Northern America,Americas,12277000
-1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Northern Europe,Europe,3569000
-1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",South-eastern Asia,Asia,8000
-1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Southern Europe,Europe,406000
-1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Western Europe,Europe,5590000
-1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",World,World,22545000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Australia and New Zealand,Oceania,120000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Central Asia,Asia,2000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Eastern Asia,Asia,229000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Eastern Europe,Europe,141000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Latin America and the Caribbean,Americas,35000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Northern America,Americas,12277000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Northern Europe,Europe,3569000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",South-eastern Asia,Asia,8000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Southern Europe,Europe,406000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",Western Europe,Europe,5590000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1999,1999,Export,Israel,97,"Works of art, collectors pieces and antiques",World,World,22545000,30.8124247,34.8594762,,

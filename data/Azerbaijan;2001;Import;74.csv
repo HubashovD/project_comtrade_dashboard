@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Eastern Asia,Asia,662
-2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Eastern Europe,Europe,122754
-2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Northern America,Americas,19364
-2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Northern Europe,Europe,33768
-2001,2001,Import,Azerbaijan,74,Copper and articles thereof,South-eastern Asia,Asia,2525
-2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Southern Asia,Asia,66677
-2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Southern Europe,Europe,11561
-2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Western Asia,Asia,26393
-2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Western Europe,Europe,24440
-2001,2001,Import,Azerbaijan,74,Copper and articles thereof,World,World,326604
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Eastern Asia,Asia,662,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Eastern Europe,Europe,122754,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Northern America,Americas,19364,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Northern Europe,Europe,33768,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2001,2001,Import,Azerbaijan,74,Copper and articles thereof,South-eastern Asia,Asia,2525,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Southern Asia,Asia,66677,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Southern Europe,Europe,11561,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Western Asia,Asia,26393,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2001,2001,Import,Azerbaijan,74,Copper and articles thereof,Western Europe,Europe,24440,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2001,2001,Import,Azerbaijan,74,Copper and articles thereof,World,World,326604,40.3936294,47.7872508,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Libya,39,Plastics and articles thereof,Eastern Asia,Asia,63567941
-2018,2018,Import,Libya,39,Plastics and articles thereof,Eastern Europe,Europe,2814660
-2018,2018,Import,Libya,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,32562
-2018,2018,Import,Libya,39,Plastics and articles thereof,Northern Africa,Africa,62981330
-2018,2018,Import,Libya,39,Plastics and articles thereof,Northern America,Americas,9057346
-2018,2018,Import,Libya,39,Plastics and articles thereof,Northern Europe,Europe,1726023
-2018,2018,Import,Libya,39,Plastics and articles thereof,South-eastern Asia,Asia,330787
-2018,2018,Import,Libya,39,Plastics and articles thereof,Southern Europe,Europe,17318143
-2018,2018,Import,Libya,39,Plastics and articles thereof,Western Asia,Asia,109345259
-2018,2018,Import,Libya,39,Plastics and articles thereof,Western Europe,Europe,19163029
-2018,2018,Import,Libya,39,Plastics and articles thereof,World,World,326265940
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Libya,39,Plastics and articles thereof,Eastern Asia,Asia,63567941,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2018,2018,Import,Libya,39,Plastics and articles thereof,Eastern Europe,Europe,2814660,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2018,2018,Import,Libya,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,32562,26.8234472,18.1236723,17.925141963241547,-78.01492950057497
+2018,2018,Import,Libya,39,Plastics and articles thereof,Northern Africa,Africa,62981330,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2018,2018,Import,Libya,39,Plastics and articles thereof,Northern America,Americas,9057346,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2018,2018,Import,Libya,39,Plastics and articles thereof,Northern Europe,Europe,1726023,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2018,2018,Import,Libya,39,Plastics and articles thereof,South-eastern Asia,Asia,330787,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2018,2018,Import,Libya,39,Plastics and articles thereof,Southern Europe,Europe,17318143,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2018,2018,Import,Libya,39,Plastics and articles thereof,Western Asia,Asia,109345259,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2018,2018,Import,Libya,39,Plastics and articles thereof,Western Europe,Europe,19163029,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2018,2018,Import,Libya,39,Plastics and articles thereof,World,World,326265940,26.8234472,18.1236723,,

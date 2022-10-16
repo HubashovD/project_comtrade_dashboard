@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Israel,45,Cork and articles of cork,Northern America,Americas,58000
-2017,2017,Export,Israel,45,Cork and articles of cork,Northern Europe,Europe,2000
-2017,2017,Export,Israel,45,Cork and articles of cork,Southern Europe,Europe,7000
-2017,2017,Export,Israel,45,Cork and articles of cork,Sub-Saharan Africa,Africa,1000
-2017,2017,Export,Israel,45,Cork and articles of cork,Western Europe,Europe,55000
-2017,2017,Export,Israel,45,Cork and articles of cork,World,World,133000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Israel,45,Cork and articles of cork,Northern America,Americas,58000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2017,2017,Export,Israel,45,Cork and articles of cork,Northern Europe,Europe,2000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2017,2017,Export,Israel,45,Cork and articles of cork,Southern Europe,Europe,7000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2017,2017,Export,Israel,45,Cork and articles of cork,Sub-Saharan Africa,Africa,1000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2017,2017,Export,Israel,45,Cork and articles of cork,Western Europe,Europe,55000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2017,2017,Export,Israel,45,Cork and articles of cork,World,World,133000,30.8124247,34.8594762,,

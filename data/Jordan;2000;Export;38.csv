@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Jordan,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,8463
-2000,2000,Export,Jordan,38,Miscellaneous chemical products,Eastern Asia,Asia,98731
-2000,2000,Export,Jordan,38,Miscellaneous chemical products,Eastern Europe,Europe,30880
-2000,2000,Export,Jordan,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,598209
-2000,2000,Export,Jordan,38,Miscellaneous chemical products,Northern Africa,Africa,541276
-2000,2000,Export,Jordan,38,Miscellaneous chemical products,Northern America,Americas,28209
-2000,2000,Export,Jordan,38,Miscellaneous chemical products,Northern Europe,Europe,35261
-2000,2000,Export,Jordan,38,Miscellaneous chemical products,Southern Asia,Asia,7855
-2000,2000,Export,Jordan,38,Miscellaneous chemical products,Southern Europe,Europe,76202
-2000,2000,Export,Jordan,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,120511
-2000,2000,Export,Jordan,38,Miscellaneous chemical products,Western Asia,Asia,2037450
-2000,2000,Export,Jordan,38,Miscellaneous chemical products,Western Europe,Europe,226367
-2000,2000,Export,Jordan,38,Miscellaneous chemical products,World,World,23644282
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Jordan,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,8463,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2000,2000,Export,Jordan,38,Miscellaneous chemical products,Eastern Asia,Asia,98731,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Export,Jordan,38,Miscellaneous chemical products,Eastern Europe,Europe,30880,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Export,Jordan,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,598209,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2000,2000,Export,Jordan,38,Miscellaneous chemical products,Northern Africa,Africa,541276,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Export,Jordan,38,Miscellaneous chemical products,Northern America,Americas,28209,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Export,Jordan,38,Miscellaneous chemical products,Northern Europe,Europe,35261,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Export,Jordan,38,Miscellaneous chemical products,Southern Asia,Asia,7855,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2000,2000,Export,Jordan,38,Miscellaneous chemical products,Southern Europe,Europe,76202,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2000,2000,Export,Jordan,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,120511,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2000,2000,Export,Jordan,38,Miscellaneous chemical products,Western Asia,Asia,2037450,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Export,Jordan,38,Miscellaneous chemical products,Western Europe,Europe,226367,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Export,Jordan,38,Miscellaneous chemical products,World,World,23644282,31.1667049,36.941628,,

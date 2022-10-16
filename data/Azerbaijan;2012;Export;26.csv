@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Central Asia,Asia,2315296
-2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Eastern Asia,Asia,738460
-2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Eastern Europe,Europe,1383
-2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Northern Europe,Europe,4587250
-2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Southern Europe,Europe,3600
-2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,1800
-2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Western Asia,Asia,121543
-2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Western Europe,Europe,1200
-2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",World,World,8044283
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Central Asia,Asia,2315296,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Eastern Asia,Asia,738460,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Eastern Europe,Europe,1383,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Northern Europe,Europe,4587250,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Southern Europe,Europe,3600,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,1800,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Western Asia,Asia,121543,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",Western Europe,Europe,1200,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2012,2012,Export,Azerbaijan,26,"Ores, slag and ash",World,World,8044283,40.3936294,47.7872508,,

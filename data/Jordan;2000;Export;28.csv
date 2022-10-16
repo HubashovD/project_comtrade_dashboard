@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Asia,Asia,14104
-2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Europe,Europe,173567
-2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Latin America and the Caribbean,Americas,47955
-2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Africa,Africa,2956784
-2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Northern America,Americas,21157
-2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,33146
-2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Asia,Asia,1782472
-2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Europe,Europe,14104
-2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Sub-Saharan Africa,Africa,808040
-2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Western Asia,Asia,694234
-2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Western Europe,Europe,28329
-2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,136652202
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Asia,Asia,14104,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Europe,Europe,173567,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Latin America and the Caribbean,Americas,47955,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Africa,Africa,2956784,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Northern America,Americas,21157,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,33146,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Asia,Asia,1782472,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Southern Europe,Europe,14104,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Sub-Saharan Africa,Africa,808040,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Western Asia,Asia,694234,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",Western Europe,Europe,28329,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Export,Jordan,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,136652202,31.1667049,36.941628,,

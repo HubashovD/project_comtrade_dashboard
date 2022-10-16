@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Export,Kuwait,69,Ceramic products,Australia and New Zealand,Oceania,1030
-2015,2015,Export,Kuwait,69,Ceramic products,Eastern Asia,Asia,9546
-2015,2015,Export,Kuwait,69,Ceramic products,Eastern Europe,Europe,1328
-2015,2015,Export,Kuwait,69,Ceramic products,Latin America and the Caribbean,Americas,664
-2015,2015,Export,Kuwait,69,Ceramic products,Northern Africa,Africa,28322
-2015,2015,Export,Kuwait,69,Ceramic products,Northern America,Americas,8133
-2015,2015,Export,Kuwait,69,Ceramic products,Northern Europe,Europe,14177
-2015,2015,Export,Kuwait,69,Ceramic products,South-eastern Asia,Asia,35144
-2015,2015,Export,Kuwait,69,Ceramic products,Southern Asia,Asia,153769
-2015,2015,Export,Kuwait,69,Ceramic products,Southern Europe,Europe,7389
-2015,2015,Export,Kuwait,69,Ceramic products,Sub-Saharan Africa,Africa,17350
-2015,2015,Export,Kuwait,69,Ceramic products,Western Asia,Asia,1263
-2015,2015,Export,Kuwait,69,Ceramic products,Western Europe,Europe,33432
-2015,2015,Export,Kuwait,69,Ceramic products,World,World,4070681
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Export,Kuwait,69,Ceramic products,Australia and New Zealand,Oceania,1030,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2015,2015,Export,Kuwait,69,Ceramic products,Eastern Asia,Asia,9546,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2015,2015,Export,Kuwait,69,Ceramic products,Eastern Europe,Europe,1328,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2015,2015,Export,Kuwait,69,Ceramic products,Latin America and the Caribbean,Americas,664,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2015,2015,Export,Kuwait,69,Ceramic products,Northern Africa,Africa,28322,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2015,2015,Export,Kuwait,69,Ceramic products,Northern America,Americas,8133,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2015,2015,Export,Kuwait,69,Ceramic products,Northern Europe,Europe,14177,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2015,2015,Export,Kuwait,69,Ceramic products,South-eastern Asia,Asia,35144,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2015,2015,Export,Kuwait,69,Ceramic products,Southern Asia,Asia,153769,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2015,2015,Export,Kuwait,69,Ceramic products,Southern Europe,Europe,7389,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2015,2015,Export,Kuwait,69,Ceramic products,Sub-Saharan Africa,Africa,17350,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2015,2015,Export,Kuwait,69,Ceramic products,Western Asia,Asia,1263,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2015,2015,Export,Kuwait,69,Ceramic products,Western Europe,Europe,33432,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2015,2015,Export,Kuwait,69,Ceramic products,World,World,4070681,29.2733964,47.4979476,,

@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Lebanon,93,"Arms and ammunition, parts and accessories thereof",Eastern Europe,Europe,4973
-2000,2000,Export,Lebanon,93,"Arms and ammunition, parts and accessories thereof",Sub-Saharan Africa,Africa,6631
-2000,2000,Export,Lebanon,93,"Arms and ammunition, parts and accessories thereof",World,World,34648
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Lebanon,93,"Arms and ammunition, parts and accessories thereof",Eastern Europe,Europe,4973,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2000,2000,Export,Lebanon,93,"Arms and ammunition, parts and accessories thereof",Sub-Saharan Africa,Africa,6631,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Export,Lebanon,93,"Arms and ammunition, parts and accessories thereof",World,World,34648,33.8750629,35.843409,,

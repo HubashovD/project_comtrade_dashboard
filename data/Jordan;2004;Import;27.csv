@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Eastern Asia,Asia,25020
-2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Eastern Europe,Europe,12179671
-2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Northern Africa,Africa,141068725
-2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Northern America,Americas,764990
-2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Northern Europe,Europe,1165992
-2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",South-eastern Asia,Asia,125856
-2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Southern Asia,Asia,161859
-2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Southern Europe,Europe,103191
-2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Sub-Saharan Africa,Africa,1370
-2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Western Asia,Asia,15246689
-2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Western Europe,Europe,9659308
-2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",World,World,1565329246
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Eastern Asia,Asia,25020,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Eastern Europe,Europe,12179671,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Northern Africa,Africa,141068725,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Northern America,Americas,764990,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Northern Europe,Europe,1165992,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",South-eastern Asia,Asia,125856,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Southern Asia,Asia,161859,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Southern Europe,Europe,103191,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Sub-Saharan Africa,Africa,1370,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Western Asia,Asia,15246689,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",Western Europe,Europe,9659308,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2004,2004,Import,Jordan,27,"Mineral fuels, mineral oils and products of their distillation",World,World,1565329246,31.1667049,36.941628,,

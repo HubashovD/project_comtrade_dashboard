@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Eastern Asia,Asia,52023
-2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Eastern Europe,Europe,25412
-2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Northern America,Americas,544067
-2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Northern Europe,Europe,38384
-2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Southern Europe,Europe,23595
-2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,186363
-2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Western Asia,Asia,18591
-2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Western Europe,Europe,121023
-2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,World,World,1511773
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Eastern Asia,Asia,52023,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Eastern Europe,Europe,25412,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Northern America,Americas,544067,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Northern Europe,Europe,38384,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Southern Europe,Europe,23595,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,186363,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Western Asia,Asia,18591,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,Western Europe,Europe,121023,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2018,2018,Re-Export,Jordan,99,Commodities not specified according to kind,World,World,1511773,31.1667049,36.941628,,

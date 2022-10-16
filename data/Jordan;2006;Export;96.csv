@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,4754
-2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Eastern Asia,Asia,63980
-2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Eastern Europe,Europe,32798
-2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,34073
-2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Northern Africa,Africa,101255
-2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Northern America,Americas,36300
-2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Northern Europe,Europe,135680
-2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,18266
-2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Southern Asia,Asia,7616
-2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,51685
-2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Western Asia,Asia,69190
-2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Western Europe,Europe,77066
-2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,World,World,4525045
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,4754,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Eastern Asia,Asia,63980,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Eastern Europe,Europe,32798,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,34073,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Northern Africa,Africa,101255,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Northern America,Americas,36300,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Northern Europe,Europe,135680,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,18266,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Southern Asia,Asia,7616,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,51685,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Western Asia,Asia,69190,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,Western Europe,Europe,77066,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2006,2006,Export,Jordan,96,Miscellaneous manufactured articles,World,World,4525045,31.1667049,36.941628,,

@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Jordan,40,Rubber and articles thereof,Australia and New Zealand,Oceania,4101
-1999,1999,Export,Jordan,40,Rubber and articles thereof,Eastern Asia,Asia,67701
-1999,1999,Export,Jordan,40,Rubber and articles thereof,Western Asia,Asia,12083
-1999,1999,Export,Jordan,40,Rubber and articles thereof,Western Europe,Europe,157305
-1999,1999,Export,Jordan,40,Rubber and articles thereof,World,World,4383232
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Jordan,40,Rubber and articles thereof,Australia and New Zealand,Oceania,4101,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1999,1999,Export,Jordan,40,Rubber and articles thereof,Eastern Asia,Asia,67701,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1999,1999,Export,Jordan,40,Rubber and articles thereof,Western Asia,Asia,12083,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Export,Jordan,40,Rubber and articles thereof,Western Europe,Europe,157305,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Export,Jordan,40,Rubber and articles thereof,World,World,4383232,31.1667049,36.941628,,

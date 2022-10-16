@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Azerbaijan,72,Iron and steel,Central Asia,Asia,4442452
-1996,1996,Import,Azerbaijan,72,Iron and steel,Eastern Europe,Europe,25853449
-1996,1996,Import,Azerbaijan,72,Iron and steel,Latin America and the Caribbean,Americas,87559
-1996,1996,Import,Azerbaijan,72,Iron and steel,Northern America,Americas,136009
-1996,1996,Import,Azerbaijan,72,Iron and steel,Northern Europe,Europe,331739
-1996,1996,Import,Azerbaijan,72,Iron and steel,Southern Asia,Asia,40198
-1996,1996,Import,Azerbaijan,72,Iron and steel,Western Asia,Asia,1338397
-1996,1996,Import,Azerbaijan,72,Iron and steel,Western Europe,Europe,29820
-1996,1996,Import,Azerbaijan,72,Iron and steel,World,World,33491452
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Azerbaijan,72,Iron and steel,Central Asia,Asia,4442452,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1996,1996,Import,Azerbaijan,72,Iron and steel,Eastern Europe,Europe,25853449,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1996,1996,Import,Azerbaijan,72,Iron and steel,Latin America and the Caribbean,Americas,87559,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+1996,1996,Import,Azerbaijan,72,Iron and steel,Northern America,Americas,136009,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1996,1996,Import,Azerbaijan,72,Iron and steel,Northern Europe,Europe,331739,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1996,1996,Import,Azerbaijan,72,Iron and steel,Southern Asia,Asia,40198,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1996,1996,Import,Azerbaijan,72,Iron and steel,Western Asia,Asia,1338397,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1996,1996,Import,Azerbaijan,72,Iron and steel,Western Europe,Europe,29820,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1996,1996,Import,Azerbaijan,72,Iron and steel,World,World,33491452,40.3936294,47.7872508,,

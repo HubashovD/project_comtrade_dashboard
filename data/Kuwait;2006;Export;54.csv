@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Kuwait,54,Man-made filaments,Eastern Asia,Asia,60128
-2006,2006,Export,Kuwait,54,Man-made filaments,Northern Africa,Africa,17081
-2006,2006,Export,Kuwait,54,Man-made filaments,Southern Asia,Asia,6934
-2006,2006,Export,Kuwait,54,Man-made filaments,Western Asia,Asia,22757
-2006,2006,Export,Kuwait,54,Man-made filaments,Western Europe,Europe,448
-2006,2006,Export,Kuwait,54,Man-made filaments,World,World,492522
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Kuwait,54,Man-made filaments,Eastern Asia,Asia,60128,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2006,2006,Export,Kuwait,54,Man-made filaments,Northern Africa,Africa,17081,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2006,2006,Export,Kuwait,54,Man-made filaments,Southern Asia,Asia,6934,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2006,2006,Export,Kuwait,54,Man-made filaments,Western Asia,Asia,22757,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2006,2006,Export,Kuwait,54,Man-made filaments,Western Europe,Europe,448,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2006,2006,Export,Kuwait,54,Man-made filaments,World,World,492522,29.2733964,47.4979476,,

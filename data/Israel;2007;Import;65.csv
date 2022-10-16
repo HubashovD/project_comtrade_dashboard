@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Israel,65,Headgear and parts thereof,Australia and New Zealand,Oceania,165000
-2007,2007,Import,Israel,65,Headgear and parts thereof,Central Asia,Asia,3000
-2007,2007,Import,Israel,65,Headgear and parts thereof,Eastern Asia,Asia,11207000
-2007,2007,Import,Israel,65,Headgear and parts thereof,Eastern Europe,Europe,269000
-2007,2007,Import,Israel,65,Headgear and parts thereof,Latin America and the Caribbean,Americas,9000
-2007,2007,Import,Israel,65,Headgear and parts thereof,Northern America,Americas,2371000
-2007,2007,Import,Israel,65,Headgear and parts thereof,Northern Europe,Europe,371000
-2007,2007,Import,Israel,65,Headgear and parts thereof,South-eastern Asia,Asia,170000
-2007,2007,Import,Israel,65,Headgear and parts thereof,Southern Asia,Asia,2000
-2007,2007,Import,Israel,65,Headgear and parts thereof,Southern Europe,Europe,4499000
-2007,2007,Import,Israel,65,Headgear and parts thereof,Sub-Saharan Africa,Africa,689000
-2007,2007,Import,Israel,65,Headgear and parts thereof,Western Asia,Asia,49000
-2007,2007,Import,Israel,65,Headgear and parts thereof,Western Europe,Europe,1127000
-2007,2007,Import,Israel,65,Headgear and parts thereof,World,World,22057000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Israel,65,Headgear and parts thereof,Australia and New Zealand,Oceania,165000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2007,2007,Import,Israel,65,Headgear and parts thereof,Central Asia,Asia,3000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2007,2007,Import,Israel,65,Headgear and parts thereof,Eastern Asia,Asia,11207000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2007,2007,Import,Israel,65,Headgear and parts thereof,Eastern Europe,Europe,269000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2007,2007,Import,Israel,65,Headgear and parts thereof,Latin America and the Caribbean,Americas,9000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2007,2007,Import,Israel,65,Headgear and parts thereof,Northern America,Americas,2371000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2007,2007,Import,Israel,65,Headgear and parts thereof,Northern Europe,Europe,371000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2007,2007,Import,Israel,65,Headgear and parts thereof,South-eastern Asia,Asia,170000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2007,2007,Import,Israel,65,Headgear and parts thereof,Southern Asia,Asia,2000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2007,2007,Import,Israel,65,Headgear and parts thereof,Southern Europe,Europe,4499000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2007,2007,Import,Israel,65,Headgear and parts thereof,Sub-Saharan Africa,Africa,689000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2007,2007,Import,Israel,65,Headgear and parts thereof,Western Asia,Asia,49000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2007,2007,Import,Israel,65,Headgear and parts thereof,Western Europe,Europe,1127000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2007,2007,Import,Israel,65,Headgear and parts thereof,World,World,22057000,30.8124247,34.8594762,,

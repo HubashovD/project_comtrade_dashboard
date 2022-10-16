@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Central Asia,Asia,182760
-2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Eastern Europe,Europe,2387358
-2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,115200
-2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Northern America,Americas,5981
-2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Northern Europe,Europe,164931
-2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Southern Europe,Europe,275923
-2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Western Asia,Asia,38723
-2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Western Europe,Europe,14379
-2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,World,World,3352830
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Central Asia,Asia,182760,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Eastern Europe,Europe,2387358,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,115200,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Northern America,Americas,5981,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Northern Europe,Europe,164931,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Southern Europe,Europe,275923,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Western Asia,Asia,38723,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,Western Europe,Europe,14379,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2005,2005,Export,Azerbaijan,38,Miscellaneous chemical products,World,World,3352830,40.3936294,47.7872508,,

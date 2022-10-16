@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Jordan,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,5836
-2018,2018,Import,Jordan,76,Aluminium and articles thereof,Eastern Asia,Asia,44932577
-2018,2018,Import,Jordan,76,Aluminium and articles thereof,Eastern Europe,Europe,292932
-2018,2018,Import,Jordan,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,207483
-2018,2018,Import,Jordan,76,Aluminium and articles thereof,Northern Africa,Africa,2329297
-2018,2018,Import,Jordan,76,Aluminium and articles thereof,Northern America,Americas,1027243
-2018,2018,Import,Jordan,76,Aluminium and articles thereof,Northern Europe,Europe,305401
-2018,2018,Import,Jordan,76,Aluminium and articles thereof,South-eastern Asia,Asia,12841921
-2018,2018,Import,Jordan,76,Aluminium and articles thereof,Southern Asia,Asia,2047
-2018,2018,Import,Jordan,76,Aluminium and articles thereof,Southern Europe,Europe,5346819
-2018,2018,Import,Jordan,76,Aluminium and articles thereof,Western Asia,Asia,9914904
-2018,2018,Import,Jordan,76,Aluminium and articles thereof,Western Europe,Europe,6994395
-2018,2018,Import,Jordan,76,Aluminium and articles thereof,World,World,198213544
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Jordan,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,5836,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2018,2018,Import,Jordan,76,Aluminium and articles thereof,Eastern Asia,Asia,44932577,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2018,2018,Import,Jordan,76,Aluminium and articles thereof,Eastern Europe,Europe,292932,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2018,2018,Import,Jordan,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,207483,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2018,2018,Import,Jordan,76,Aluminium and articles thereof,Northern Africa,Africa,2329297,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2018,2018,Import,Jordan,76,Aluminium and articles thereof,Northern America,Americas,1027243,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2018,2018,Import,Jordan,76,Aluminium and articles thereof,Northern Europe,Europe,305401,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2018,2018,Import,Jordan,76,Aluminium and articles thereof,South-eastern Asia,Asia,12841921,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2018,2018,Import,Jordan,76,Aluminium and articles thereof,Southern Asia,Asia,2047,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2018,2018,Import,Jordan,76,Aluminium and articles thereof,Southern Europe,Europe,5346819,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2018,2018,Import,Jordan,76,Aluminium and articles thereof,Western Asia,Asia,9914904,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2018,2018,Import,Jordan,76,Aluminium and articles thereof,Western Europe,Europe,6994395,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2018,2018,Import,Jordan,76,Aluminium and articles thereof,World,World,198213544,31.1667049,36.941628,,

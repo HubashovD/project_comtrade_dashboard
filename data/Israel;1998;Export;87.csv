@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,140000
-1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Central Asia,Asia,18000
-1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,34000
-1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,3115000
-1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Latin America and the Caribbean,Americas,9487000
-1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Northern Africa,Africa,97000
-1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Northern America,Americas,11763000
-1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Northern Europe,Europe,4736000
-1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,72000
-1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Southern Europe,Europe,4598000
-1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Sub-Saharan Africa,Africa,3579000
-1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Western Asia,Asia,3219000
-1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Western Europe,Europe,4607000
-1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",World,World,49292000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,140000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Central Asia,Asia,18000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,34000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,3115000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Latin America and the Caribbean,Americas,9487000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Northern Africa,Africa,97000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Northern America,Americas,11763000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Northern Europe,Europe,4736000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,72000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Southern Europe,Europe,4598000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Sub-Saharan Africa,Africa,3579000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Western Asia,Asia,3219000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",Western Europe,Europe,4607000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1998,1998,Export,Israel,87,"Vehicles other than railway, tramway",World,World,49292000,30.8124247,34.8594762,,

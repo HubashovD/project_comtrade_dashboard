@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Australia and New Zealand,Oceania,16950
-2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Eastern Asia,Asia,4584387
-2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Eastern Europe,Europe,648139
-2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,73068
-2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Northern Africa,Africa,39910
-2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Northern America,Americas,2279186
-2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Northern Europe,Europe,3261776
-2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,South-eastern Asia,Asia,360919
-2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Southern Europe,Europe,3158232
-2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,109782
-2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Western Asia,Asia,2048349
-2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Western Europe,Europe,15068964
-2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,World,World,53288949
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Australia and New Zealand,Oceania,16950,31.46242095,34.262716572130714,-16.85099460447687,133.4130365630627
+2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Eastern Asia,Asia,4584387,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Eastern Europe,Europe,648139,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,73068,31.46242095,34.262716572130714,17.925141963241547,-78.01492950057497
+2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Northern Africa,Africa,39910,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Northern America,Americas,2279186,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Northern Europe,Europe,3261776,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
+2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,South-eastern Asia,Asia,360919,31.46242095,34.262716572130714,10.528384761701911,103.08333472012376
+2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Southern Europe,Europe,3158232,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,109782,31.46242095,34.262716572130714,6.06272746187266,22.727528470146083
+2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Western Asia,Asia,2048349,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
+2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,Western Europe,Europe,15068964,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2020,2020,Import,State of Palestine,38,Chemical products n.e.c.,World,World,53288949,31.46242095,34.262716572130714,,

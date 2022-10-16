@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Azerbaijan,31,Fertilisers,Central Asia,Asia,7062775
-2008,2008,Import,Azerbaijan,31,Fertilisers,Eastern Asia,Asia,4750
-2008,2008,Import,Azerbaijan,31,Fertilisers,Eastern Europe,Europe,53916783
-2008,2008,Import,Azerbaijan,31,Fertilisers,Northern America,Americas,1964
-2008,2008,Import,Azerbaijan,31,Fertilisers,South-eastern Asia,Asia,181500
-2008,2008,Import,Azerbaijan,31,Fertilisers,Southern Asia,Asia,163002
-2008,2008,Import,Azerbaijan,31,Fertilisers,Southern Europe,Europe,65915
-2008,2008,Import,Azerbaijan,31,Fertilisers,Western Asia,Asia,1174307
-2008,2008,Import,Azerbaijan,31,Fertilisers,Western Europe,Europe,475906
-2008,2008,Import,Azerbaijan,31,Fertilisers,World,World,65093456
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Azerbaijan,31,Fertilisers,Central Asia,Asia,7062775,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2008,2008,Import,Azerbaijan,31,Fertilisers,Eastern Asia,Asia,4750,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2008,2008,Import,Azerbaijan,31,Fertilisers,Eastern Europe,Europe,53916783,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2008,2008,Import,Azerbaijan,31,Fertilisers,Northern America,Americas,1964,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2008,2008,Import,Azerbaijan,31,Fertilisers,South-eastern Asia,Asia,181500,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2008,2008,Import,Azerbaijan,31,Fertilisers,Southern Asia,Asia,163002,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2008,2008,Import,Azerbaijan,31,Fertilisers,Southern Europe,Europe,65915,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2008,2008,Import,Azerbaijan,31,Fertilisers,Western Asia,Asia,1174307,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2008,2008,Import,Azerbaijan,31,Fertilisers,Western Europe,Europe,475906,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2008,2008,Import,Azerbaijan,31,Fertilisers,World,World,65093456,40.3936294,47.7872508,,

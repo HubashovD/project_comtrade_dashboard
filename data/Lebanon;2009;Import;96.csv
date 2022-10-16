@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,1753
-2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Eastern Asia,Asia,21346427
-2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Eastern Europe,Europe,581767
-2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,462414
-2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Northern Africa,Africa,478258
-2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Northern America,Americas,1170657
-2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Northern Europe,Europe,1343853
-2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,2045388
-2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Southern Asia,Asia,19564
-2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Southern Europe,Europe,3392384
-2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,75333
-2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Western Asia,Asia,1144166
-2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Western Europe,Europe,5917705
-2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,World,World,39565096
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,1753,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Eastern Asia,Asia,21346427,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Eastern Europe,Europe,581767,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,462414,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Northern Africa,Africa,478258,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Northern America,Americas,1170657,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Northern Europe,Europe,1343853,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,2045388,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Southern Asia,Asia,19564,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Southern Europe,Europe,3392384,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,75333,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Western Asia,Asia,1144166,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,Western Europe,Europe,5917705,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2009,2009,Import,Lebanon,96,Miscellaneous manufactured articles,World,World,39565096,33.8750629,35.843409,,

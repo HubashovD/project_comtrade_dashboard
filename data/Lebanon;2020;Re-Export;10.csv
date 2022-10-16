@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Re-Export,Lebanon,10,Cereals,South-eastern Asia,Asia,67419
-2020,2020,Re-Export,Lebanon,10,Cereals,Southern Asia,Asia,18600
-2020,2020,Re-Export,Lebanon,10,Cereals,Western Asia,Asia,121402
-2020,2020,Re-Export,Lebanon,10,Cereals,World,World,3881086
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Re-Export,Lebanon,10,Cereals,South-eastern Asia,Asia,67419,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2020,2020,Re-Export,Lebanon,10,Cereals,Southern Asia,Asia,18600,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2020,2020,Re-Export,Lebanon,10,Cereals,Western Asia,Asia,121402,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2020,2020,Re-Export,Lebanon,10,Cereals,World,World,3881086,33.8750629,35.843409,,

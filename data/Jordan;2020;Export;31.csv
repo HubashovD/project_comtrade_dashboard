@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Jordan,31,Fertilizers,Australia and New Zealand,Oceania,5326198
-2020,2020,Export,Jordan,31,Fertilizers,Eastern Asia,Asia,147159048
-2020,2020,Export,Jordan,31,Fertilizers,Eastern Europe,Europe,8441224
-2020,2020,Export,Jordan,31,Fertilizers,Latin America and the Caribbean,Americas,31053487
-2020,2020,Export,Jordan,31,Fertilizers,Northern Africa,Africa,74999008
-2020,2020,Export,Jordan,31,Fertilizers,Northern America,Americas,50682527
-2020,2020,Export,Jordan,31,Fertilizers,Northern Europe,Europe,1942321
-2020,2020,Export,Jordan,31,Fertilizers,South-eastern Asia,Asia,102307341
-2020,2020,Export,Jordan,31,Fertilizers,Southern Asia,Asia,33627778
-2020,2020,Export,Jordan,31,Fertilizers,Southern Europe,Europe,32997326
-2020,2020,Export,Jordan,31,Fertilizers,Sub-Saharan Africa,Africa,13781805
-2020,2020,Export,Jordan,31,Fertilizers,Western Asia,Asia,27414627
-2020,2020,Export,Jordan,31,Fertilizers,World,World,907470163
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Jordan,31,Fertilizers,Australia and New Zealand,Oceania,5326198,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2020,2020,Export,Jordan,31,Fertilizers,Eastern Asia,Asia,147159048,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2020,2020,Export,Jordan,31,Fertilizers,Eastern Europe,Europe,8441224,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2020,2020,Export,Jordan,31,Fertilizers,Latin America and the Caribbean,Americas,31053487,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2020,2020,Export,Jordan,31,Fertilizers,Northern Africa,Africa,74999008,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2020,2020,Export,Jordan,31,Fertilizers,Northern America,Americas,50682527,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2020,2020,Export,Jordan,31,Fertilizers,Northern Europe,Europe,1942321,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2020,2020,Export,Jordan,31,Fertilizers,South-eastern Asia,Asia,102307341,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2020,2020,Export,Jordan,31,Fertilizers,Southern Asia,Asia,33627778,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2020,2020,Export,Jordan,31,Fertilizers,Southern Europe,Europe,32997326,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2020,2020,Export,Jordan,31,Fertilizers,Sub-Saharan Africa,Africa,13781805,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2020,2020,Export,Jordan,31,Fertilizers,Western Asia,Asia,27414627,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2020,2020,Export,Jordan,31,Fertilizers,World,World,907470163,31.1667049,36.941628,,

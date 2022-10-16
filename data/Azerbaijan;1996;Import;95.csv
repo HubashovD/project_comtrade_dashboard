@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Azerbaijan,95,"Toys, games, sports requisites",Eastern Europe,Europe,4148
-1996,1996,Import,Azerbaijan,95,"Toys, games, sports requisites",Northern America,Americas,203330
-1996,1996,Import,Azerbaijan,95,"Toys, games, sports requisites",Northern Europe,Europe,91949
-1996,1996,Import,Azerbaijan,95,"Toys, games, sports requisites",Southern Asia,Asia,115345
-1996,1996,Import,Azerbaijan,95,"Toys, games, sports requisites",Western Asia,Asia,965203
-1996,1996,Import,Azerbaijan,95,"Toys, games, sports requisites",Western Europe,Europe,55616
-1996,1996,Import,Azerbaijan,95,"Toys, games, sports requisites",World,World,2283296
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Azerbaijan,95,"Toys, games, sports requisites",Eastern Europe,Europe,4148,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1996,1996,Import,Azerbaijan,95,"Toys, games, sports requisites",Northern America,Americas,203330,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1996,1996,Import,Azerbaijan,95,"Toys, games, sports requisites",Northern Europe,Europe,91949,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1996,1996,Import,Azerbaijan,95,"Toys, games, sports requisites",Southern Asia,Asia,115345,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1996,1996,Import,Azerbaijan,95,"Toys, games, sports requisites",Western Asia,Asia,965203,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1996,1996,Import,Azerbaijan,95,"Toys, games, sports requisites",Western Europe,Europe,55616,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1996,1996,Import,Azerbaijan,95,"Toys, games, sports requisites",World,World,2283296,40.3936294,47.7872508,,

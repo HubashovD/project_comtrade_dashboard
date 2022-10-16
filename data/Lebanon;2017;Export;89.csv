@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Lebanon,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,56279
-2017,2017,Export,Lebanon,89,"Ships, boats and floating structures",Western Europe,Europe,278105
-2017,2017,Export,Lebanon,89,"Ships, boats and floating structures",World,World,460598
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Lebanon,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,56279,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2017,2017,Export,Lebanon,89,"Ships, boats and floating structures",Western Europe,Europe,278105,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2017,2017,Export,Lebanon,89,"Ships, boats and floating structures",World,World,460598,33.8750629,35.843409,,

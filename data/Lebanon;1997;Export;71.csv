@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Australia and New Zealand,Oceania,177692
-1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,370713
-1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,149060
-1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Latin America and the Caribbean,Americas,53115
-1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Northern Africa,Africa,43296
-1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,4471845
-1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,349549
-1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,613167
-1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,589919
-1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Sub-Saharan Africa,Africa,116090
-1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,49430
-1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,17153169
-1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",World,World,67287856
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Australia and New Zealand,Oceania,177692,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,370713,33.8750629,35.843409,37.977378106878206,73.97804075806764
+1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,149060,33.8750629,35.843409,51.67568633314729,27.673469819741847
+1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Latin America and the Caribbean,Americas,53115,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Northern Africa,Africa,43296,33.8750629,35.843409,19.569604022535763,12.47761721199581
+1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,4471845,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,349549,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,613167,33.8750629,35.843409,10.528384761701911,103.08333472012376
+1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,589919,33.8750629,35.843409,40.12399607988535,20.742583178432696
+1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Sub-Saharan Africa,Africa,116090,33.8750629,35.843409,6.06272746187266,22.727528470146083
+1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,49430,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,17153169,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1997,1997,Export,Lebanon,71,"Pearls, precious stones, metals, coins, etc",World,World,67287856,33.8750629,35.843409,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Lebanon,31,Fertilizers,Eastern Asia,Asia,2033591
-2020,2020,Import,Lebanon,31,Fertilizers,Eastern Europe,Europe,1832128
-2020,2020,Import,Lebanon,31,Fertilizers,Northern Africa,Africa,2605725
-2020,2020,Import,Lebanon,31,Fertilizers,Northern America,Americas,163604
-2020,2020,Import,Lebanon,31,Fertilizers,Northern Europe,Europe,925336
-2020,2020,Import,Lebanon,31,Fertilizers,South-eastern Asia,Asia,714330
-2020,2020,Import,Lebanon,31,Fertilizers,Southern Europe,Europe,7098673
-2020,2020,Import,Lebanon,31,Fertilizers,Sub-Saharan Africa,Africa,42374
-2020,2020,Import,Lebanon,31,Fertilizers,Western Asia,Asia,6197897
-2020,2020,Import,Lebanon,31,Fertilizers,Western Europe,Europe,6097955
-2020,2020,Import,Lebanon,31,Fertilizers,World,World,29370506
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Lebanon,31,Fertilizers,Eastern Asia,Asia,2033591,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2020,2020,Import,Lebanon,31,Fertilizers,Eastern Europe,Europe,1832128,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2020,2020,Import,Lebanon,31,Fertilizers,Northern Africa,Africa,2605725,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2020,2020,Import,Lebanon,31,Fertilizers,Northern America,Americas,163604,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2020,2020,Import,Lebanon,31,Fertilizers,Northern Europe,Europe,925336,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2020,2020,Import,Lebanon,31,Fertilizers,South-eastern Asia,Asia,714330,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2020,2020,Import,Lebanon,31,Fertilizers,Southern Europe,Europe,7098673,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2020,2020,Import,Lebanon,31,Fertilizers,Sub-Saharan Africa,Africa,42374,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2020,2020,Import,Lebanon,31,Fertilizers,Western Asia,Asia,6197897,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2020,2020,Import,Lebanon,31,Fertilizers,Western Europe,Europe,6097955,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2020,2020,Import,Lebanon,31,Fertilizers,World,World,29370506,33.8750629,35.843409,,

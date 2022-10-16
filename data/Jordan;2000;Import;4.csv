@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Australia and New Zealand,Oceania,6041794
-2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Asia,Asia,9103
-2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,2287076
-2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Latin America and the Caribbean,Americas,41079
-2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Northern Africa,Africa,820195
-2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,392534
-2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,5383104
-2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",South-eastern Asia,Asia,6910
-2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Southern Asia,Asia,1313
-2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,378348
-2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,1194325
-2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,46485319
-2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",World,World,67649053
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Australia and New Zealand,Oceania,6041794,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Asia,Asia,9103,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,2287076,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Latin America and the Caribbean,Americas,41079,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Northern Africa,Africa,820195,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,392534,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,5383104,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",South-eastern Asia,Asia,6910,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Southern Asia,Asia,1313,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,378348,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,1194325,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,46485319,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Import,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",World,World,67649053,31.1667049,36.941628,,

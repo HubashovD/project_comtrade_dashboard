@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Export,Georgia,71,"Natural or cultured pearls, precious or semi-precious stones",Australia and New Zealand,Oceania,172
-2008,2008,Export,Georgia,71,"Natural or cultured pearls, precious or semi-precious stones",Eastern Europe,Europe,84531
-2008,2008,Export,Georgia,71,"Natural or cultured pearls, precious or semi-precious stones",Northern America,Americas,99988958
-2008,2008,Export,Georgia,71,"Natural or cultured pearls, precious or semi-precious stones",Northern Europe,Europe,4078227
-2008,2008,Export,Georgia,71,"Natural or cultured pearls, precious or semi-precious stones",Western Asia,Asia,241057
-2008,2008,Export,Georgia,71,"Natural or cultured pearls, precious or semi-precious stones",Western Europe,Europe,256531
-2008,2008,Export,Georgia,71,"Natural or cultured pearls, precious or semi-precious stones",World,World,105081165
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Export,Georgia,71,"Natural or cultured pearls, precious or semi-precious stones",Australia and New Zealand,Oceania,172,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2008,2008,Export,Georgia,71,"Natural or cultured pearls, precious or semi-precious stones",Eastern Europe,Europe,84531,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2008,2008,Export,Georgia,71,"Natural or cultured pearls, precious or semi-precious stones",Northern America,Americas,99988958,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2008,2008,Export,Georgia,71,"Natural or cultured pearls, precious or semi-precious stones",Northern Europe,Europe,4078227,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2008,2008,Export,Georgia,71,"Natural or cultured pearls, precious or semi-precious stones",Western Asia,Asia,241057,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2008,2008,Export,Georgia,71,"Natural or cultured pearls, precious or semi-precious stones",Western Europe,Europe,256531,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2008,2008,Export,Georgia,71,"Natural or cultured pearls, precious or semi-precious stones",World,World,105081165,32.3293809,-83.1137366,,

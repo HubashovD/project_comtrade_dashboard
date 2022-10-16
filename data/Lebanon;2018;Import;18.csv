@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,136603
-2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Eastern Asia,Asia,430583
-2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Eastern Europe,Europe,11667279
-2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,417026
-2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Northern Africa,Africa,7370680
-2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Northern America,Americas,2642873
-2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Northern Europe,Europe,4424258
-2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,1230839
-2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Southern Asia,Asia,53522
-2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Southern Europe,Europe,18625006
-2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,822548
-2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Western Asia,Asia,5540844
-2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Western Europe,Europe,31273580
-2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,World,World,91820883
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,136603,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Eastern Asia,Asia,430583,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Eastern Europe,Europe,11667279,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,417026,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Northern Africa,Africa,7370680,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Northern America,Americas,2642873,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Northern Europe,Europe,4424258,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,1230839,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Southern Asia,Asia,53522,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Southern Europe,Europe,18625006,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,822548,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Western Asia,Asia,5540844,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,Western Europe,Europe,31273580,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2018,2018,Import,Lebanon,18,Cocoa and cocoa preparations,World,World,91820883,33.8750629,35.843409,,

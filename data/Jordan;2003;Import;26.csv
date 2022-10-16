@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Jordan,26,"Ores, slag and ash",Northern Europe,Europe,604
-2003,2003,Import,Jordan,26,"Ores, slag and ash",South-eastern Asia,Asia,13886
-2003,2003,Import,Jordan,26,"Ores, slag and ash",Southern Europe,Europe,19495
-2003,2003,Import,Jordan,26,"Ores, slag and ash",World,World,105882
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Jordan,26,"Ores, slag and ash",Northern Europe,Europe,604,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2003,2003,Import,Jordan,26,"Ores, slag and ash",South-eastern Asia,Asia,13886,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2003,2003,Import,Jordan,26,"Ores, slag and ash",Southern Europe,Europe,19495,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2003,2003,Import,Jordan,26,"Ores, slag and ash",World,World,105882,31.1667049,36.941628,,

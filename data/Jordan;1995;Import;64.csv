@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Eastern Asia,Asia,1962330
-1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Eastern Europe,Europe,29130
-1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Latin America and the Caribbean,Americas,27868
-1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Northern Africa,Africa,257789
-1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Northern America,Americas,122482
-1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Northern Europe,Europe,143381
-1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",South-eastern Asia,Asia,1213197
-1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Southern Europe,Europe,995720
-1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Western Asia,Asia,1252129
-1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Western Europe,Europe,356605
-1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",World,World,6901491
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Eastern Asia,Asia,1962330,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Eastern Europe,Europe,29130,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Latin America and the Caribbean,Americas,27868,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Northern Africa,Africa,257789,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Northern America,Americas,122482,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Northern Europe,Europe,143381,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",South-eastern Asia,Asia,1213197,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Southern Europe,Europe,995720,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Western Asia,Asia,1252129,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",Western Europe,Europe,356605,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Import,Jordan,64,"Footwear, gaiters and the like, parts thereof",World,World,6901491,31.1667049,36.941628,,

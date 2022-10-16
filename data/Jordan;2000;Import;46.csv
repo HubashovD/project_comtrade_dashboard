@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Jordan,46,"Manufactures of plaiting material, basketwork, etc.",Eastern Asia,Asia,129921
-2000,2000,Import,Jordan,46,"Manufactures of plaiting material, basketwork, etc.",Northern America,Americas,2102
-2000,2000,Import,Jordan,46,"Manufactures of plaiting material, basketwork, etc.",South-eastern Asia,Asia,695
-2000,2000,Import,Jordan,46,"Manufactures of plaiting material, basketwork, etc.",Western Asia,Asia,17399
-2000,2000,Import,Jordan,46,"Manufactures of plaiting material, basketwork, etc.",Western Europe,Europe,337
-2000,2000,Import,Jordan,46,"Manufactures of plaiting material, basketwork, etc.",World,World,153536
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Jordan,46,"Manufactures of plaiting material, basketwork, etc.",Eastern Asia,Asia,129921,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Import,Jordan,46,"Manufactures of plaiting material, basketwork, etc.",Northern America,Americas,2102,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Import,Jordan,46,"Manufactures of plaiting material, basketwork, etc.",South-eastern Asia,Asia,695,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2000,2000,Import,Jordan,46,"Manufactures of plaiting material, basketwork, etc.",Western Asia,Asia,17399,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Import,Jordan,46,"Manufactures of plaiting material, basketwork, etc.",Western Europe,Europe,337,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Import,Jordan,46,"Manufactures of plaiting material, basketwork, etc.",World,World,153536,31.1667049,36.941628,,

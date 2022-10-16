@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Australia and New Zealand,Oceania,10
-2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Eastern Asia,Asia,548
-2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Northern Africa,Africa,31070
-2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Northern America,Americas,45131
-2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Northern Europe,Europe,1212
-2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Southern Europe,Europe,35069
-2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,25886
-2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Western Asia,Asia,1042683
-2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Western Europe,Europe,55259
-2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,World,World,1293472
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Australia and New Zealand,Oceania,10,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Eastern Asia,Asia,548,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Northern Africa,Africa,31070,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Northern America,Americas,45131,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Northern Europe,Europe,1212,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Southern Europe,Europe,35069,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,25886,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Western Asia,Asia,1042683,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,Western Europe,Europe,55259,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2020,2020,Re-Export,Lebanon,39,Plastics and articles thereof,World,World,1293472,33.8750629,35.843409,,

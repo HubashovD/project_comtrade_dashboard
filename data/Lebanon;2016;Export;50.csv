@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Lebanon,50,Silk,Latin America and the Caribbean,Americas,1660
-2016,2016,Export,Lebanon,50,Silk,Northern Africa,Africa,28734
-2016,2016,Export,Lebanon,50,Silk,Northern America,Americas,50
-2016,2016,Export,Lebanon,50,Silk,Northern Europe,Europe,4924
-2016,2016,Export,Lebanon,50,Silk,World,World,384177
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Lebanon,50,Silk,Latin America and the Caribbean,Americas,1660,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2016,2016,Export,Lebanon,50,Silk,Northern Africa,Africa,28734,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2016,2016,Export,Lebanon,50,Silk,Northern America,Americas,50,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2016,2016,Export,Lebanon,50,Silk,Northern Europe,Europe,4924,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2016,2016,Export,Lebanon,50,Silk,World,World,384177,33.8750629,35.843409,,

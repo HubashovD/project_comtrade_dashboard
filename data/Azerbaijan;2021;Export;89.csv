@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Azerbaijan,89,"Ships, boats and floating structures",Central Asia,Asia,104530
-2021,2021,Export,Azerbaijan,89,"Ships, boats and floating structures",Eastern Europe,Europe,540
-2021,2021,Export,Azerbaijan,89,"Ships, boats and floating structures",Northern America,Americas,16625
-2021,2021,Export,Azerbaijan,89,"Ships, boats and floating structures",Northern Europe,Europe,11258
-2021,2021,Export,Azerbaijan,89,"Ships, boats and floating structures",Western Europe,Europe,17822
-2021,2021,Export,Azerbaijan,89,"Ships, boats and floating structures",World,World,162104
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Azerbaijan,89,"Ships, boats and floating structures",Central Asia,Asia,104530,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2021,2021,Export,Azerbaijan,89,"Ships, boats and floating structures",Eastern Europe,Europe,540,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2021,2021,Export,Azerbaijan,89,"Ships, boats and floating structures",Northern America,Americas,16625,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2021,2021,Export,Azerbaijan,89,"Ships, boats and floating structures",Northern Europe,Europe,11258,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2021,2021,Export,Azerbaijan,89,"Ships, boats and floating structures",Western Europe,Europe,17822,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2021,2021,Export,Azerbaijan,89,"Ships, boats and floating structures",World,World,162104,40.3936294,47.7872508,,

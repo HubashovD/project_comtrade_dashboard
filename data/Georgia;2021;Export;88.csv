@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",Eastern Asia,Asia,11000
-2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,170876
-2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",Northern Africa,Africa,3800
-2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,3141231
-2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",Northern Europe,Europe,30622
-2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",South-eastern Asia,Asia,2600
-2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",Southern Asia,Asia,800
-2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,120372
-2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",World,World,5215063
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",Eastern Asia,Asia,11000,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,170876,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",Northern Africa,Africa,3800,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,3141231,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",Northern Europe,Europe,30622,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",South-eastern Asia,Asia,2600,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",Southern Asia,Asia,800,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,120372,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2021,2021,Export,Georgia,88,"Aircraft, spacecraft and parts thereof",World,World,5215063,32.3293809,-83.1137366,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Australia and New Zealand,Oceania,15514
-1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Eastern Asia,Asia,147456
-1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Eastern Europe,Europe,1013406
-1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Latin America and the Caribbean,Americas,92523
-1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Northern Africa,Africa,349865
-1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Northern America,Americas,707695
-1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Northern Europe,Europe,218312
-1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",South-eastern Asia,Asia,254287
-1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Southern Europe,Europe,770585
-1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Western Asia,Asia,648307
-1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Western Europe,Europe,801424
-1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",World,World,7858448
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Australia and New Zealand,Oceania,15514,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Eastern Asia,Asia,147456,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Eastern Europe,Europe,1013406,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Latin America and the Caribbean,Americas,92523,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Northern Africa,Africa,349865,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Northern America,Americas,707695,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Northern Europe,Europe,218312,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",South-eastern Asia,Asia,254287,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Southern Europe,Europe,770585,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Western Asia,Asia,648307,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",Western Europe,Europe,801424,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1997,1997,Import,Jordan,20,"Vegetable, fruit, nut, etc food preparations",World,World,7858448,31.1667049,36.941628,,

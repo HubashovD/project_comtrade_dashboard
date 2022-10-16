@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Libya,55,Man-made staple fibers,Eastern Asia,Asia,2598958
-2008,2008,Import,Libya,55,Man-made staple fibers,Northern Africa,Africa,426236
-2008,2008,Import,Libya,55,Man-made staple fibers,Northern America,Americas,19221
-2008,2008,Import,Libya,55,Man-made staple fibers,Northern Europe,Europe,56295
-2008,2008,Import,Libya,55,Man-made staple fibers,Southern Europe,Europe,332369
-2008,2008,Import,Libya,55,Man-made staple fibers,Western Asia,Asia,385390
-2008,2008,Import,Libya,55,Man-made staple fibers,Western Europe,Europe,267871
-2008,2008,Import,Libya,55,Man-made staple fibers,World,World,5063127
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Libya,55,Man-made staple fibers,Eastern Asia,Asia,2598958,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2008,2008,Import,Libya,55,Man-made staple fibers,Northern Africa,Africa,426236,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2008,2008,Import,Libya,55,Man-made staple fibers,Northern America,Americas,19221,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2008,2008,Import,Libya,55,Man-made staple fibers,Northern Europe,Europe,56295,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2008,2008,Import,Libya,55,Man-made staple fibers,Southern Europe,Europe,332369,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2008,2008,Import,Libya,55,Man-made staple fibers,Western Asia,Asia,385390,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2008,2008,Import,Libya,55,Man-made staple fibers,Western Europe,Europe,267871,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2008,2008,Import,Libya,55,Man-made staple fibers,World,World,5063127,26.8234472,18.1236723,,

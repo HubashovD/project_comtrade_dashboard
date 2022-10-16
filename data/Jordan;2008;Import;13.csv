@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Asia,Asia,132026
-2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Europe,Europe,12409
-2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Latin America and the Caribbean,Americas,16687
-2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Africa,Africa,599
-2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Northern America,Americas,19580
-2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Europe,Europe,286906
-2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",South-eastern Asia,Asia,108894
-2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Southern Europe,Europe,95589
-2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Sub-Saharan Africa,Africa,2994
-2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Western Asia,Asia,2673
-2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Western Europe,Europe,1179822
-2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",World,World,1966576
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Asia,Asia,132026,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Europe,Europe,12409,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Latin America and the Caribbean,Americas,16687,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Africa,Africa,599,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Northern America,Americas,19580,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Europe,Europe,286906,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",South-eastern Asia,Asia,108894,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Southern Europe,Europe,95589,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Sub-Saharan Africa,Africa,2994,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Western Asia,Asia,2673,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",Western Europe,Europe,1179822,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2008,2008,Import,Jordan,13,"Lac; gums, resins and other vegetable saps and extracts",World,World,1966576,31.1667049,36.941628,,

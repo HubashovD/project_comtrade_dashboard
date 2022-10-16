@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Azerbaijan,26,"Ores, slag and ash",Eastern Asia,Asia,4422
-2010,2010,Import,Azerbaijan,26,"Ores, slag and ash",Eastern Europe,Europe,541938
-2010,2010,Import,Azerbaijan,26,"Ores, slag and ash",Northern America,Americas,5449
-2010,2010,Import,Azerbaijan,26,"Ores, slag and ash",Southern Asia,Asia,471501
-2010,2010,Import,Azerbaijan,26,"Ores, slag and ash",Western Asia,Asia,94513
-2010,2010,Import,Azerbaijan,26,"Ores, slag and ash",World,World,8646120
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Azerbaijan,26,"Ores, slag and ash",Eastern Asia,Asia,4422,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2010,2010,Import,Azerbaijan,26,"Ores, slag and ash",Eastern Europe,Europe,541938,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2010,2010,Import,Azerbaijan,26,"Ores, slag and ash",Northern America,Americas,5449,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2010,2010,Import,Azerbaijan,26,"Ores, slag and ash",Southern Asia,Asia,471501,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2010,2010,Import,Azerbaijan,26,"Ores, slag and ash",Western Asia,Asia,94513,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2010,2010,Import,Azerbaijan,26,"Ores, slag and ash",World,World,8646120,40.3936294,47.7872508,,

@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,Australia and New Zealand,Oceania,433227
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,Central Asia,Asia,47711
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,Eastern Asia,Asia,779115
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,Eastern Europe,Europe,597518
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,133423
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,Northern Africa,Africa,7485719
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,Northern America,Americas,1035185
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,Northern Europe,Europe,1515153
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,Polynesia,Oceania,8011
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,South-eastern Asia,Asia,63616
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,Southern Asia,Asia,134040
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,Southern Europe,Europe,4005241
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,13149741
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,Western Asia,Asia,5535835
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,Western Europe,Europe,2914229
-2006,2006,Export,Lebanon,39,Plastics and articles thereof,World,World,76395650
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,Australia and New Zealand,Oceania,433227,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,Central Asia,Asia,47711,33.8750629,35.843409,39.89317229901691,61.060280637304274
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,Eastern Asia,Asia,779115,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,Eastern Europe,Europe,597518,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,133423,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,Northern Africa,Africa,7485719,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,Northern America,Americas,1035185,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,Northern Europe,Europe,1515153,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,Polynesia,Oceania,8011,33.8750629,35.843409,-5.109184731250752,167.40343615892436
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,South-eastern Asia,Asia,63616,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,Southern Asia,Asia,134040,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,Southern Europe,Europe,4005241,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,13149741,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,Western Asia,Asia,5535835,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,Western Europe,Europe,2914229,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2006,2006,Export,Lebanon,39,Plastics and articles thereof,World,World,76395650,33.8750629,35.843409,,

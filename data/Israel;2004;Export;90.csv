@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Australia and New Zealand,Oceania,24800000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Central Asia,Asia,1334000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Asia,Asia,497325000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Europe,Europe,16803000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Latin America and the Caribbean,Americas,37941000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Melanesia,Oceania,2000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Africa,Africa,31000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern America,Americas,879435000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Europe,Europe,64240000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",South-eastern Asia,Asia,67532000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Southern Asia,Asia,696000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Southern Europe,Europe,98993000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Sub-Saharan Africa,Africa,11982000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Asia,Asia,11824000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Europe,Europe,383225000
-2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",World,World,2338564000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Australia and New Zealand,Oceania,24800000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Central Asia,Asia,1334000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Asia,Asia,497325000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Europe,Europe,16803000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Latin America and the Caribbean,Americas,37941000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Melanesia,Oceania,2000,30.8124247,34.8594762,1.0108650891006263,147.3257485906919
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Africa,Africa,31000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern America,Americas,879435000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Europe,Europe,64240000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",South-eastern Asia,Asia,67532000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Southern Asia,Asia,696000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Southern Europe,Europe,98993000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Sub-Saharan Africa,Africa,11982000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Asia,Asia,11824000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Europe,Europe,383225000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2004,2004,Export,Israel,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",World,World,2338564000,30.8124247,34.8594762,,

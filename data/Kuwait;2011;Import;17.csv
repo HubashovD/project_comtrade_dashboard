@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Australia and New Zealand,Oceania,778333
-2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Eastern Asia,Asia,3477716
-2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Eastern Europe,Europe,7805511
-2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,783215
-2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Northern Africa,Africa,976731
-2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Northern America,Americas,5941130
-2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Northern Europe,Europe,3946963
-2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,South-eastern Asia,Asia,18307865
-2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Southern Asia,Asia,364349
-2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Southern Europe,Europe,2482895
-2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,187534
-2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Western Asia,Asia,7691004
-2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Western Europe,Europe,35431148
-2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,World,World,164726896
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Australia and New Zealand,Oceania,778333,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Eastern Asia,Asia,3477716,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Eastern Europe,Europe,7805511,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,783215,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Northern Africa,Africa,976731,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Northern America,Americas,5941130,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Northern Europe,Europe,3946963,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,South-eastern Asia,Asia,18307865,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Southern Asia,Asia,364349,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Southern Europe,Europe,2482895,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,187534,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Western Asia,Asia,7691004,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,Western Europe,Europe,35431148,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2011,2011,Import,Kuwait,17,Sugars and sugar confectionery,World,World,164726896,29.2733964,47.4979476,,

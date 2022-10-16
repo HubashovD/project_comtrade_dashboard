@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Export,Kuwait,10,Cereals,Australia and New Zealand,Oceania,559
-2008,2008,Export,Kuwait,10,Cereals,Central Asia,Asia,69862
-2008,2008,Export,Kuwait,10,Cereals,Eastern Asia,Asia,1305
-2008,2008,Export,Kuwait,10,Cereals,Eastern Europe,Europe,2238
-2008,2008,Export,Kuwait,10,Cereals,Latin America and the Caribbean,Americas,746
-2008,2008,Export,Kuwait,10,Cereals,Northern America,Americas,10610
-2008,2008,Export,Kuwait,10,Cereals,Northern Europe,Europe,932
-2008,2008,Export,Kuwait,10,Cereals,South-eastern Asia,Asia,373
-2008,2008,Export,Kuwait,10,Cereals,Southern Asia,Asia,4534286
-2008,2008,Export,Kuwait,10,Cereals,Southern Europe,Europe,1864
-2008,2008,Export,Kuwait,10,Cereals,Sub-Saharan Africa,Africa,1305
-2008,2008,Export,Kuwait,10,Cereals,Western Asia,Asia,229851
-2008,2008,Export,Kuwait,10,Cereals,Western Europe,Europe,2341
-2008,2008,Export,Kuwait,10,Cereals,World,World,12910961
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Export,Kuwait,10,Cereals,Australia and New Zealand,Oceania,559,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2008,2008,Export,Kuwait,10,Cereals,Central Asia,Asia,69862,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2008,2008,Export,Kuwait,10,Cereals,Eastern Asia,Asia,1305,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2008,2008,Export,Kuwait,10,Cereals,Eastern Europe,Europe,2238,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2008,2008,Export,Kuwait,10,Cereals,Latin America and the Caribbean,Americas,746,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2008,2008,Export,Kuwait,10,Cereals,Northern America,Americas,10610,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2008,2008,Export,Kuwait,10,Cereals,Northern Europe,Europe,932,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2008,2008,Export,Kuwait,10,Cereals,South-eastern Asia,Asia,373,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2008,2008,Export,Kuwait,10,Cereals,Southern Asia,Asia,4534286,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2008,2008,Export,Kuwait,10,Cereals,Southern Europe,Europe,1864,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2008,2008,Export,Kuwait,10,Cereals,Sub-Saharan Africa,Africa,1305,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2008,2008,Export,Kuwait,10,Cereals,Western Asia,Asia,229851,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2008,2008,Export,Kuwait,10,Cereals,Western Europe,Europe,2341,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Export,Kuwait,10,Cereals,World,World,12910961,29.2733964,47.4979476,,

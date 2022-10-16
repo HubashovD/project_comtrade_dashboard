@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,State of Palestine,99,Commodities not specified according to kind,Eastern Asia,Asia,21
-2020,2020,Import,State of Palestine,99,Commodities not specified according to kind,Eastern Europe,Europe,48708
-2020,2020,Import,State of Palestine,99,Commodities not specified according to kind,Northern America,Americas,1833
-2020,2020,Import,State of Palestine,99,Commodities not specified according to kind,Southern Europe,Europe,3244
-2020,2020,Import,State of Palestine,99,Commodities not specified according to kind,Western Asia,Asia,60
-2020,2020,Import,State of Palestine,99,Commodities not specified according to kind,World,World,53869
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,State of Palestine,99,Commodities not specified according to kind,Eastern Asia,Asia,21,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2020,2020,Import,State of Palestine,99,Commodities not specified according to kind,Eastern Europe,Europe,48708,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2020,2020,Import,State of Palestine,99,Commodities not specified according to kind,Northern America,Americas,1833,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2020,2020,Import,State of Palestine,99,Commodities not specified according to kind,Southern Europe,Europe,3244,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2020,2020,Import,State of Palestine,99,Commodities not specified according to kind,Western Asia,Asia,60,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
+2020,2020,Import,State of Palestine,99,Commodities not specified according to kind,World,World,53869,31.46242095,34.262716572130714,,

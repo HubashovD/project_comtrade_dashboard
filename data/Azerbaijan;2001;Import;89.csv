@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Azerbaijan,89,"Ships, boats and other floating structures",Central Asia,Asia,111639
-2001,2001,Import,Azerbaijan,89,"Ships, boats and other floating structures",Eastern Europe,Europe,247183
-2001,2001,Import,Azerbaijan,89,"Ships, boats and other floating structures",Northern America,Americas,31787
-2001,2001,Import,Azerbaijan,89,"Ships, boats and other floating structures",Northern Europe,Europe,256010
-2001,2001,Import,Azerbaijan,89,"Ships, boats and other floating structures",Southern Asia,Asia,188000
-2001,2001,Import,Azerbaijan,89,"Ships, boats and other floating structures",Western Europe,Europe,17351
-2001,2001,Import,Azerbaijan,89,"Ships, boats and other floating structures",World,World,1060262
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Azerbaijan,89,"Ships, boats and other floating structures",Central Asia,Asia,111639,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2001,2001,Import,Azerbaijan,89,"Ships, boats and other floating structures",Eastern Europe,Europe,247183,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2001,2001,Import,Azerbaijan,89,"Ships, boats and other floating structures",Northern America,Americas,31787,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2001,2001,Import,Azerbaijan,89,"Ships, boats and other floating structures",Northern Europe,Europe,256010,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2001,2001,Import,Azerbaijan,89,"Ships, boats and other floating structures",Southern Asia,Asia,188000,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2001,2001,Import,Azerbaijan,89,"Ships, boats and other floating structures",Western Europe,Europe,17351,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2001,2001,Import,Azerbaijan,89,"Ships, boats and other floating structures",World,World,1060262,40.3936294,47.7872508,,

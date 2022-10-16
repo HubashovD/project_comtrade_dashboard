@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Central Asia,Asia,15
-2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Asia,Asia,16048
-2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Europe,Europe,1861
-2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Latin America and the Caribbean,Americas,1
-2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Northern Africa,Africa,98
-2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Northern America,Americas,16172
-2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Northern Europe,Europe,265296
-2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,South-eastern Asia,Asia,426
-2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Southern Asia,Asia,25
-2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Southern Europe,Europe,2244
-2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Western Asia,Asia,6873
-2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Western Europe,Europe,7593
-2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,World,World,372465
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Central Asia,Asia,15,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Asia,Asia,16048,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Europe,Europe,1861,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Latin America and the Caribbean,Americas,1,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Northern Africa,Africa,98,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Northern America,Americas,16172,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Northern Europe,Europe,265296,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,South-eastern Asia,Asia,426,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Southern Asia,Asia,25,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Southern Europe,Europe,2244,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Western Asia,Asia,6873,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,Western Europe,Europe,7593,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2004,2004,Import,Azerbaijan,65,Headgear and parts thereof,World,World,372465,40.3936294,47.7872508,,

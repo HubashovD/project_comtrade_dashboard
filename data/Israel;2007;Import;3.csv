@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Australia and New Zealand,Oceania,138000
-2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Eastern Asia,Asia,24543000
-2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Eastern Europe,Europe,167000
-2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Latin America and the Caribbean,Americas,15995000
-2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern Africa,Africa,1070000
-2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern America,Americas,3227000
-2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern Europe,Europe,8340000
-2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",South-eastern Asia,Asia,20109000
-2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Southern Asia,Asia,396000
-2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Southern Europe,Europe,2793000
-2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Sub-Saharan Africa,Africa,31919000
-2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Western Asia,Asia,32000
-2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Western Europe,Europe,5031000
-2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",World,World,128171000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Australia and New Zealand,Oceania,138000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Eastern Asia,Asia,24543000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Eastern Europe,Europe,167000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Latin America and the Caribbean,Americas,15995000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern Africa,Africa,1070000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern America,Americas,3227000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern Europe,Europe,8340000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",South-eastern Asia,Asia,20109000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Southern Asia,Asia,396000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Southern Europe,Europe,2793000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Sub-Saharan Africa,Africa,31919000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Western Asia,Asia,32000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Western Europe,Europe,5031000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2007,2007,Import,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",World,World,128171000,30.8124247,34.8594762,,

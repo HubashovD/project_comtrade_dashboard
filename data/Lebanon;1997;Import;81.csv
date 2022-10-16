@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Lebanon,81,"Other base metals, cermets, articles thereof",Northern America,Americas,20883
-1997,1997,Import,Lebanon,81,"Other base metals, cermets, articles thereof",Northern Europe,Europe,1433
-1997,1997,Import,Lebanon,81,"Other base metals, cermets, articles thereof",South-eastern Asia,Asia,11764
-1997,1997,Import,Lebanon,81,"Other base metals, cermets, articles thereof",Southern Europe,Europe,26439
-1997,1997,Import,Lebanon,81,"Other base metals, cermets, articles thereof",Western Europe,Europe,41870
-1997,1997,Import,Lebanon,81,"Other base metals, cermets, articles thereof",World,World,106482
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Lebanon,81,"Other base metals, cermets, articles thereof",Northern America,Americas,20883,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1997,1997,Import,Lebanon,81,"Other base metals, cermets, articles thereof",Northern Europe,Europe,1433,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1997,1997,Import,Lebanon,81,"Other base metals, cermets, articles thereof",South-eastern Asia,Asia,11764,33.8750629,35.843409,10.528384761701911,103.08333472012376
+1997,1997,Import,Lebanon,81,"Other base metals, cermets, articles thereof",Southern Europe,Europe,26439,33.8750629,35.843409,40.12399607988535,20.742583178432696
+1997,1997,Import,Lebanon,81,"Other base metals, cermets, articles thereof",Western Europe,Europe,41870,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1997,1997,Import,Lebanon,81,"Other base metals, cermets, articles thereof",World,World,106482,33.8750629,35.843409,,

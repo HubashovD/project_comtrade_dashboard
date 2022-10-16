@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Australia and New Zealand,Oceania,3059
-2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Central Asia,Asia,197181935
-2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Asia,Asia,4087803
-2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Europe,Europe,538288585
-2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Latin America and the Caribbean,Americas,194025
-2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Africa,Africa,1440543
-2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern America,Americas,652251
-2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Europe,Europe,4387947
-2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",South-eastern Asia,Asia,12458100
-2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Asia,Asia,1655634
-2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Europe,Europe,45493907
-2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Asia,Asia,46489950
-2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Europe,Europe,16703668
-2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",World,World,1321606364
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Australia and New Zealand,Oceania,3059,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Central Asia,Asia,197181935,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Asia,Asia,4087803,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Europe,Europe,538288585,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Latin America and the Caribbean,Americas,194025,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Africa,Africa,1440543,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern America,Americas,652251,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Europe,Europe,4387947,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",South-eastern Asia,Asia,12458100,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Asia,Asia,1655634,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Europe,Europe,45493907,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Asia,Asia,46489950,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Europe,Europe,16703668,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2021,2021,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",World,World,1321606364,32.3293809,-83.1137366,,

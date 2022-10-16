@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Libya,30,Pharmaceutical products,Eastern Asia,Asia,7817224
-2017,2017,Import,Libya,30,Pharmaceutical products,Eastern Europe,Europe,1310417
-2017,2017,Import,Libya,30,Pharmaceutical products,Latin America and the Caribbean,Americas,368078
-2017,2017,Import,Libya,30,Pharmaceutical products,Northern Africa,Africa,19535016
-2017,2017,Import,Libya,30,Pharmaceutical products,Northern America,Americas,7840700
-2017,2017,Import,Libya,30,Pharmaceutical products,Northern Europe,Europe,31412676
-2017,2017,Import,Libya,30,Pharmaceutical products,South-eastern Asia,Asia,154142
-2017,2017,Import,Libya,30,Pharmaceutical products,Southern Europe,Europe,19093315
-2017,2017,Import,Libya,30,Pharmaceutical products,Sub-Saharan Africa,Africa,9879
-2017,2017,Import,Libya,30,Pharmaceutical products,Western Asia,Asia,23008012
-2017,2017,Import,Libya,30,Pharmaceutical products,Western Europe,Europe,177171812
-2017,2017,Import,Libya,30,Pharmaceutical products,World,World,343885984
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Libya,30,Pharmaceutical products,Eastern Asia,Asia,7817224,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2017,2017,Import,Libya,30,Pharmaceutical products,Eastern Europe,Europe,1310417,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2017,2017,Import,Libya,30,Pharmaceutical products,Latin America and the Caribbean,Americas,368078,26.8234472,18.1236723,17.925141963241547,-78.01492950057497
+2017,2017,Import,Libya,30,Pharmaceutical products,Northern Africa,Africa,19535016,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2017,2017,Import,Libya,30,Pharmaceutical products,Northern America,Americas,7840700,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2017,2017,Import,Libya,30,Pharmaceutical products,Northern Europe,Europe,31412676,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2017,2017,Import,Libya,30,Pharmaceutical products,South-eastern Asia,Asia,154142,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2017,2017,Import,Libya,30,Pharmaceutical products,Southern Europe,Europe,19093315,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2017,2017,Import,Libya,30,Pharmaceutical products,Sub-Saharan Africa,Africa,9879,26.8234472,18.1236723,6.06272746187266,22.727528470146083
+2017,2017,Import,Libya,30,Pharmaceutical products,Western Asia,Asia,23008012,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2017,2017,Import,Libya,30,Pharmaceutical products,Western Europe,Europe,177171812,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2017,2017,Import,Libya,30,Pharmaceutical products,World,World,343885984,26.8234472,18.1236723,,

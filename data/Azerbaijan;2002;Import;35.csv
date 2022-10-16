@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Central Asia,Asia,3693
-2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Eastern Asia,Asia,8788
-2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Eastern Europe,Europe,85439
-2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Northern America,Americas,1591
-2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Northern Europe,Europe,19633
-2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",South-eastern Asia,Asia,4513
-2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Southern Asia,Asia,391707
-2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Southern Europe,Europe,112926
-2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Western Asia,Asia,329345
-2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Western Europe,Europe,67649
-2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",World,World,1039012
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Central Asia,Asia,3693,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Eastern Asia,Asia,8788,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Eastern Europe,Europe,85439,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Northern America,Americas,1591,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Northern Europe,Europe,19633,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",South-eastern Asia,Asia,4513,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Southern Asia,Asia,391707,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Southern Europe,Europe,112926,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Western Asia,Asia,329345,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",Western Europe,Europe,67649,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2002,2002,Import,Azerbaijan,35,"Albuminoids, modified starches, glues, enzymes",World,World,1039012,40.3936294,47.7872508,,

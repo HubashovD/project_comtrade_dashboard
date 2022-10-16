@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Australia and New Zealand,Oceania,64281
-2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Eastern Europe,Europe,21500
-2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Latin America and the Caribbean,Americas,28003
-2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Northern Africa,Africa,122812
-2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Northern America,Americas,14753
-2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Northern Europe,Europe,16454
-2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Southern Europe,Europe,2999
-2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Sub-Saharan Africa,Africa,209233
-2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Western Asia,Asia,343173
-2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Western Europe,Europe,46286
-2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",World,World,1375031
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Australia and New Zealand,Oceania,64281,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Eastern Europe,Europe,21500,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Latin America and the Caribbean,Americas,28003,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Northern Africa,Africa,122812,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Northern America,Americas,14753,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Northern Europe,Europe,16454,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Southern Europe,Europe,2999,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Sub-Saharan Africa,Africa,209233,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Western Asia,Asia,343173,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",Western Europe,Europe,46286,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2002,2002,Export,Lebanon,16,"Preparations of meat, of fish or of crustaceans",World,World,1375031,33.8750629,35.843409,,

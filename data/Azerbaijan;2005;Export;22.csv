@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,360
-2005,2005,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,8855922
-2005,2005,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Northern America,Americas,60
-2005,2005,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Northern Europe,Europe,322625
-2005,2005,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Western Europe,Europe,197
-2005,2005,Export,Azerbaijan,22,"Beverages, spirits and vinegar",World,World,9400511
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,360,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2005,2005,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,8855922,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2005,2005,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Northern America,Americas,60,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2005,2005,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Northern Europe,Europe,322625,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2005,2005,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Western Europe,Europe,197,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2005,2005,Export,Azerbaijan,22,"Beverages, spirits and vinegar",World,World,9400511,40.3936294,47.7872508,,

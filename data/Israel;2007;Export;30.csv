@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Export,Israel,30,Pharmaceutical products,Australia and New Zealand,Oceania,9291000
-2007,2007,Export,Israel,30,Pharmaceutical products,Central Asia,Asia,737000
-2007,2007,Export,Israel,30,Pharmaceutical products,Eastern Asia,Asia,9352000
-2007,2007,Export,Israel,30,Pharmaceutical products,Eastern Europe,Europe,97825000
-2007,2007,Export,Israel,30,Pharmaceutical products,Latin America and the Caribbean,Americas,29598000
-2007,2007,Export,Israel,30,Pharmaceutical products,Northern America,Americas,2769130000
-2007,2007,Export,Israel,30,Pharmaceutical products,Northern Europe,Europe,181877000
-2007,2007,Export,Israel,30,Pharmaceutical products,South-eastern Asia,Asia,2845000
-2007,2007,Export,Israel,30,Pharmaceutical products,Southern Asia,Asia,5000
-2007,2007,Export,Israel,30,Pharmaceutical products,Southern Europe,Europe,32091000
-2007,2007,Export,Israel,30,Pharmaceutical products,Sub-Saharan Africa,Africa,6977000
-2007,2007,Export,Israel,30,Pharmaceutical products,Western Asia,Asia,22778000
-2007,2007,Export,Israel,30,Pharmaceutical products,Western Europe,Europe,298060000
-2007,2007,Export,Israel,30,Pharmaceutical products,World,World,3466795000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Export,Israel,30,Pharmaceutical products,Australia and New Zealand,Oceania,9291000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2007,2007,Export,Israel,30,Pharmaceutical products,Central Asia,Asia,737000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2007,2007,Export,Israel,30,Pharmaceutical products,Eastern Asia,Asia,9352000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2007,2007,Export,Israel,30,Pharmaceutical products,Eastern Europe,Europe,97825000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2007,2007,Export,Israel,30,Pharmaceutical products,Latin America and the Caribbean,Americas,29598000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2007,2007,Export,Israel,30,Pharmaceutical products,Northern America,Americas,2769130000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2007,2007,Export,Israel,30,Pharmaceutical products,Northern Europe,Europe,181877000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2007,2007,Export,Israel,30,Pharmaceutical products,South-eastern Asia,Asia,2845000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2007,2007,Export,Israel,30,Pharmaceutical products,Southern Asia,Asia,5000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2007,2007,Export,Israel,30,Pharmaceutical products,Southern Europe,Europe,32091000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2007,2007,Export,Israel,30,Pharmaceutical products,Sub-Saharan Africa,Africa,6977000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2007,2007,Export,Israel,30,Pharmaceutical products,Western Asia,Asia,22778000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2007,2007,Export,Israel,30,Pharmaceutical products,Western Europe,Europe,298060000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2007,2007,Export,Israel,30,Pharmaceutical products,World,World,3466795000,30.8124247,34.8594762,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Australia and New Zealand,Oceania,34769737
-2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Central Asia,Asia,4678
-2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Eastern Europe,Europe,5110292
-2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Latin America and the Caribbean,Americas,14248884
-2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Northern Africa,Africa,5164913
-2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Northern America,Americas,117756
-2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Northern Europe,Europe,5954128
-2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,South-eastern Asia,Asia,1519250
-2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Southern Asia,Asia,80767
-2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Southern Europe,Europe,324269
-2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Sub-Saharan Africa,Africa,8838
-2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Western Asia,Asia,1792040
-2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Western Europe,Europe,27162452
-2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,World,World,109450839
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Australia and New Zealand,Oceania,34769737,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Central Asia,Asia,4678,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Eastern Europe,Europe,5110292,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Latin America and the Caribbean,Americas,14248884,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Northern Africa,Africa,5164913,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Northern America,Americas,117756,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Northern Europe,Europe,5954128,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,South-eastern Asia,Asia,1519250,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Southern Asia,Asia,80767,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Southern Europe,Europe,324269,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Sub-Saharan Africa,Africa,8838,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Western Asia,Asia,1792040,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,Western Europe,Europe,27162452,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2003,2003,Import,Jordan,4,Dairy produce; birds eggs; natural honey;,World,World,109450839,31.1667049,36.941628,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,State of Palestine,52,Cotton,Eastern Asia,Asia,111852
-2009,2009,Import,State of Palestine,52,Cotton,Northern Africa,Africa,1091
-2009,2009,Import,State of Palestine,52,Cotton,Northern America,Americas,47034
-2009,2009,Import,State of Palestine,52,Cotton,Western Asia,Asia,450686
-2009,2009,Import,State of Palestine,52,Cotton,Western Europe,Europe,324715
-2009,2009,Import,State of Palestine,52,Cotton,World,World,4730978
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,State of Palestine,52,Cotton,Eastern Asia,Asia,111852,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2009,2009,Import,State of Palestine,52,Cotton,Northern Africa,Africa,1091,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2009,2009,Import,State of Palestine,52,Cotton,Northern America,Americas,47034,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2009,2009,Import,State of Palestine,52,Cotton,Western Asia,Asia,450686,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
+2009,2009,Import,State of Palestine,52,Cotton,Western Europe,Europe,324715,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2009,2009,Import,State of Palestine,52,Cotton,World,World,4730978,31.46242095,34.262716572130714,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Central Asia,Asia,612739
-2001,2001,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,94568
-2001,2001,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,5251
-2001,2001,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Asia,Asia,5800
-2001,2001,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,716
-2001,2001,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,9165
-2001,2001,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,891352
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Central Asia,Asia,612739,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2001,2001,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,94568,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2001,2001,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,5251,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2001,2001,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Asia,Asia,5800,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2001,2001,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,716,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2001,2001,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,9165,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2001,2001,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,891352,40.3936294,47.7872508,,

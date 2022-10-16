@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Australia and New Zealand,Oceania,17
-2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Eastern Asia,Asia,11386
-2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern Africa,Africa,60084
-2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern America,Americas,110984
-2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern Europe,Europe,601
-2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",South-eastern Asia,Asia,5554
-2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Southern Asia,Asia,126442
-2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Sub-Saharan Africa,Africa,17
-2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Asia,Asia,336
-2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Europe,Europe,8305
-2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",World,World,733173
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Australia and New Zealand,Oceania,17,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Eastern Asia,Asia,11386,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern Africa,Africa,60084,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern America,Americas,110984,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern Europe,Europe,601,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",South-eastern Asia,Asia,5554,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Southern Asia,Asia,126442,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Sub-Saharan Africa,Africa,17,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Asia,Asia,336,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Europe,Europe,8305,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2003,2003,Re-Export,Kuwait,8,"Edible fruit, nuts, peel of citrus fruit, melons",World,World,733173,29.2733964,47.4979476,,

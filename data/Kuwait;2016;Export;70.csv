@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Kuwait,70,Glass and glassware,Australia and New Zealand,Oceania,148791
-2016,2016,Export,Kuwait,70,Glass and glassware,Eastern Asia,Asia,826
-2016,2016,Export,Kuwait,70,Glass and glassware,Eastern Europe,Europe,330
-2016,2016,Export,Kuwait,70,Glass and glassware,Northern Africa,Africa,1353691
-2016,2016,Export,Kuwait,70,Glass and glassware,Northern America,Americas,5382
-2016,2016,Export,Kuwait,70,Glass and glassware,Northern Europe,Europe,7271
-2016,2016,Export,Kuwait,70,Glass and glassware,South-eastern Asia,Asia,2928417
-2016,2016,Export,Kuwait,70,Glass and glassware,Southern Asia,Asia,58854
-2016,2016,Export,Kuwait,70,Glass and glassware,Sub-Saharan Africa,Africa,465435
-2016,2016,Export,Kuwait,70,Glass and glassware,Western Asia,Asia,274041
-2016,2016,Export,Kuwait,70,Glass and glassware,Western Europe,Europe,7687
-2016,2016,Export,Kuwait,70,Glass and glassware,World,World,62445564
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Kuwait,70,Glass and glassware,Australia and New Zealand,Oceania,148791,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2016,2016,Export,Kuwait,70,Glass and glassware,Eastern Asia,Asia,826,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2016,2016,Export,Kuwait,70,Glass and glassware,Eastern Europe,Europe,330,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2016,2016,Export,Kuwait,70,Glass and glassware,Northern Africa,Africa,1353691,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2016,2016,Export,Kuwait,70,Glass and glassware,Northern America,Americas,5382,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2016,2016,Export,Kuwait,70,Glass and glassware,Northern Europe,Europe,7271,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2016,2016,Export,Kuwait,70,Glass and glassware,South-eastern Asia,Asia,2928417,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2016,2016,Export,Kuwait,70,Glass and glassware,Southern Asia,Asia,58854,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2016,2016,Export,Kuwait,70,Glass and glassware,Sub-Saharan Africa,Africa,465435,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2016,2016,Export,Kuwait,70,Glass and glassware,Western Asia,Asia,274041,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2016,2016,Export,Kuwait,70,Glass and glassware,Western Europe,Europe,7687,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2016,2016,Export,Kuwait,70,Glass and glassware,World,World,62445564,29.2733964,47.4979476,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Libya,28,Inorganic chemicals,Eastern Asia,Asia,4528349
-2008,2008,Import,Libya,28,Inorganic chemicals,Eastern Europe,Europe,216829
-2008,2008,Import,Libya,28,Inorganic chemicals,Northern Africa,Africa,4319210
-2008,2008,Import,Libya,28,Inorganic chemicals,Northern America,Americas,2591897
-2008,2008,Import,Libya,28,Inorganic chemicals,Northern Europe,Europe,1107260
-2008,2008,Import,Libya,28,Inorganic chemicals,South-eastern Asia,Asia,295750
-2008,2008,Import,Libya,28,Inorganic chemicals,Southern Europe,Europe,4327769
-2008,2008,Import,Libya,28,Inorganic chemicals,Sub-Saharan Africa,Africa,5513
-2008,2008,Import,Libya,28,Inorganic chemicals,Western Asia,Asia,512599
-2008,2008,Import,Libya,28,Inorganic chemicals,Western Europe,Europe,1460302
-2008,2008,Import,Libya,28,Inorganic chemicals,World,World,29415414
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Libya,28,Inorganic chemicals,Eastern Asia,Asia,4528349,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2008,2008,Import,Libya,28,Inorganic chemicals,Eastern Europe,Europe,216829,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2008,2008,Import,Libya,28,Inorganic chemicals,Northern Africa,Africa,4319210,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2008,2008,Import,Libya,28,Inorganic chemicals,Northern America,Americas,2591897,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2008,2008,Import,Libya,28,Inorganic chemicals,Northern Europe,Europe,1107260,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2008,2008,Import,Libya,28,Inorganic chemicals,South-eastern Asia,Asia,295750,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2008,2008,Import,Libya,28,Inorganic chemicals,Southern Europe,Europe,4327769,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2008,2008,Import,Libya,28,Inorganic chemicals,Sub-Saharan Africa,Africa,5513,26.8234472,18.1236723,6.06272746187266,22.727528470146083
+2008,2008,Import,Libya,28,Inorganic chemicals,Western Asia,Asia,512599,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2008,2008,Import,Libya,28,Inorganic chemicals,Western Europe,Europe,1460302,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2008,2008,Import,Libya,28,Inorganic chemicals,World,World,29415414,26.8234472,18.1236723,,

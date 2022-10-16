@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Azerbaijan,69,Ceramic products,Eastern Asia,Asia,10
-2002,2002,Export,Azerbaijan,69,Ceramic products,Eastern Europe,Europe,175
-2002,2002,Export,Azerbaijan,69,Ceramic products,Northern America,Americas,4910
-2002,2002,Export,Azerbaijan,69,Ceramic products,Northern Europe,Europe,1036
-2002,2002,Export,Azerbaijan,69,Ceramic products,Southern Europe,Europe,20
-2002,2002,Export,Azerbaijan,69,Ceramic products,Western Asia,Asia,242
-2002,2002,Export,Azerbaijan,69,Ceramic products,Western Europe,Europe,474
-2002,2002,Export,Azerbaijan,69,Ceramic products,World,World,9180
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Azerbaijan,69,Ceramic products,Eastern Asia,Asia,10,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2002,2002,Export,Azerbaijan,69,Ceramic products,Eastern Europe,Europe,175,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2002,2002,Export,Azerbaijan,69,Ceramic products,Northern America,Americas,4910,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2002,2002,Export,Azerbaijan,69,Ceramic products,Northern Europe,Europe,1036,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2002,2002,Export,Azerbaijan,69,Ceramic products,Southern Europe,Europe,20,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2002,2002,Export,Azerbaijan,69,Ceramic products,Western Asia,Asia,242,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2002,2002,Export,Azerbaijan,69,Ceramic products,Western Europe,Europe,474,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2002,2002,Export,Azerbaijan,69,Ceramic products,World,World,9180,40.3936294,47.7872508,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,333773
-1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Eastern Asia,Asia,38457318
-1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Eastern Europe,Europe,1271880
-1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,508300
-1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Northern Africa,Africa,339942
-1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Northern America,Americas,25161095
-1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Northern Europe,Europe,34903727
-1998,1998,Import,Jordan,85,"Electrical, electronic equipment",South-eastern Asia,Asia,8338369
-1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Southern Asia,Asia,13237
-1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Southern Europe,Europe,23508702
-1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Western Asia,Asia,9877672
-1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Western Europe,Europe,48771037
-1998,1998,Import,Jordan,85,"Electrical, electronic equipment",World,World,207004832
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,333773,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Eastern Asia,Asia,38457318,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Eastern Europe,Europe,1271880,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,508300,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Northern Africa,Africa,339942,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Northern America,Americas,25161095,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Northern Europe,Europe,34903727,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1998,1998,Import,Jordan,85,"Electrical, electronic equipment",South-eastern Asia,Asia,8338369,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Southern Asia,Asia,13237,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Southern Europe,Europe,23508702,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Western Asia,Asia,9877672,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1998,1998,Import,Jordan,85,"Electrical, electronic equipment",Western Europe,Europe,48771037,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1998,1998,Import,Jordan,85,"Electrical, electronic equipment",World,World,207004832,31.1667049,36.941628,,

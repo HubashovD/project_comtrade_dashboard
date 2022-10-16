@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,1,Live animals,Eastern Asia,Asia,693400
-2014,2014,Import,Iraq,1,Live animals,Eastern Europe,Europe,1488252
-2014,2014,Import,Iraq,1,Live animals,Latin America and the Caribbean,Americas,5875529
-2014,2014,Import,Iraq,1,Live animals,Northern America,Americas,24000
-2014,2014,Import,Iraq,1,Live animals,Northern Europe,Europe,1005
-2014,2014,Import,Iraq,1,Live animals,South-eastern Asia,Asia,52000
-2014,2014,Import,Iraq,1,Live animals,Southern Asia,Asia,310800
-2014,2014,Import,Iraq,1,Live animals,Western Asia,Asia,16250
-2014,2014,Import,Iraq,1,Live animals,Western Europe,Europe,94926
-2014,2014,Import,Iraq,1,Live animals,World,World,10389268
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,1,Live animals,Eastern Asia,Asia,693400,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,1,Live animals,Eastern Europe,Europe,1488252,33.0955793,44.1749775,51.67568633314729,27.673469819741847
+2014,2014,Import,Iraq,1,Live animals,Latin America and the Caribbean,Americas,5875529,33.0955793,44.1749775,17.925141963241547,-78.01492950057497
+2014,2014,Import,Iraq,1,Live animals,Northern America,Americas,24000,33.0955793,44.1749775,43.897683433510366,-100.08947125585888
+2014,2014,Import,Iraq,1,Live animals,Northern Europe,Europe,1005,33.0955793,44.1749775,59.36075159783851,25.01346951967388
+2014,2014,Import,Iraq,1,Live animals,South-eastern Asia,Asia,52000,33.0955793,44.1749775,10.528384761701911,103.08333472012376
+2014,2014,Import,Iraq,1,Live animals,Southern Asia,Asia,310800,33.0955793,44.1749775,25.499703063807168,75.5024015339642
+2014,2014,Import,Iraq,1,Live animals,Western Asia,Asia,16250,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,1,Live animals,Western Europe,Europe,94926,33.0955793,44.1749775,47.92172048214207,7.866753258497997
+2014,2014,Import,Iraq,1,Live animals,World,World,10389268,33.0955793,44.1749775,,

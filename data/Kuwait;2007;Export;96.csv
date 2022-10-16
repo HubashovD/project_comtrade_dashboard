@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,529
-2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Eastern Asia,Asia,30191
-2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Eastern Europe,Europe,1200
-2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Melanesia,Oceania,282
-2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Northern Africa,Africa,215
-2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Northern America,Americas,4689
-2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Northern Europe,Europe,8694
-2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,529
-2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Southern Asia,Asia,26475
-2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Southern Europe,Europe,14235
-2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,3107
-2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Western Asia,Asia,32043
-2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Western Europe,Europe,3455
-2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,World,World,899953
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,529,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Eastern Asia,Asia,30191,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Eastern Europe,Europe,1200,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Melanesia,Oceania,282,29.2733964,47.4979476,1.0108650891006263,147.3257485906919
+2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Northern Africa,Africa,215,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Northern America,Americas,4689,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Northern Europe,Europe,8694,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,529,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Southern Asia,Asia,26475,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Southern Europe,Europe,14235,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,3107,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Western Asia,Asia,32043,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,Western Europe,Europe,3455,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2007,2007,Export,Kuwait,96,Miscellaneous manufactured articles,World,World,899953,29.2733964,47.4979476,,

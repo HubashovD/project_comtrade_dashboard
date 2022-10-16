@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Azerbaijan,31,Fertilizers,Central Asia,Asia,140470
-1998,1998,Export,Azerbaijan,31,Fertilizers,Eastern Europe,Europe,34179
-1998,1998,Export,Azerbaijan,31,Fertilizers,Western Asia,Asia,3979
-1998,1998,Export,Azerbaijan,31,Fertilizers,World,World,178628
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Azerbaijan,31,Fertilizers,Central Asia,Asia,140470,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1998,1998,Export,Azerbaijan,31,Fertilizers,Eastern Europe,Europe,34179,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1998,1998,Export,Azerbaijan,31,Fertilizers,Western Asia,Asia,3979,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1998,1998,Export,Azerbaijan,31,Fertilizers,World,World,178628,40.3936294,47.7872508,,

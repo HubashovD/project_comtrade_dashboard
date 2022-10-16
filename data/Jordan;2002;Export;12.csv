@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Australia and New Zealand,Oceania,12034
-2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,77729
-2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Northern Africa,Africa,11900
-2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Northern America,Americas,1961
-2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,1410
-2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,2004
-2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Western Asia,Asia,21157
-2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Western Europe,Europe,3103
-2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,World,World,2149846
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Australia and New Zealand,Oceania,12034,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,77729,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Northern Africa,Africa,11900,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Northern America,Americas,1961,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,1410,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,2004,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Western Asia,Asia,21157,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,Western Europe,Europe,3103,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2002,2002,Export,Jordan,12,Oil seeds and oleaginous fruits,World,World,2149846,31.1667049,36.941628,,

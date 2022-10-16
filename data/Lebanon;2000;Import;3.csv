@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Australia and New Zealand,Oceania,723434
-2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Asia,Asia,100553
-2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Europe,Europe,40587
-2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Latin America and the Caribbean,Americas,1203190
-2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern Africa,Africa,958081
-2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern America,Americas,706558
-2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern Europe,Europe,1643119
-2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",South-eastern Asia,Asia,714105
-2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Southern Asia,Asia,108882
-2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Southern Europe,Europe,242772
-2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Sub-Saharan Africa,Africa,4995401
-2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Asia,Asia,5135151
-2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Europe,Europe,569453
-2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",World,World,28310713
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Australia and New Zealand,Oceania,723434,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Asia,Asia,100553,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Eastern Europe,Europe,40587,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Latin America and the Caribbean,Americas,1203190,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern Africa,Africa,958081,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern America,Americas,706558,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Northern Europe,Europe,1643119,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",South-eastern Asia,Asia,714105,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Southern Asia,Asia,108882,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Southern Europe,Europe,242772,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Sub-Saharan Africa,Africa,4995401,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Asia,Asia,5135151,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",Western Europe,Europe,569453,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Import,Lebanon,3,"Fish, crustaceans, molluscs, aquatic invertebrates nes",World,World,28310713,33.8750629,35.843409,,

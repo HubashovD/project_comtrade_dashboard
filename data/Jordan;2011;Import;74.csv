@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Jordan,74,Copper and articles thereof,Australia and New Zealand,Oceania,41338
-2011,2011,Import,Jordan,74,Copper and articles thereof,Eastern Asia,Asia,3685541
-2011,2011,Import,Jordan,74,Copper and articles thereof,Eastern Europe,Europe,47642554
-2011,2011,Import,Jordan,74,Copper and articles thereof,Latin America and the Caribbean,Americas,13212
-2011,2011,Import,Jordan,74,Copper and articles thereof,Northern Africa,Africa,50389311
-2011,2011,Import,Jordan,74,Copper and articles thereof,Northern America,Americas,2533650
-2011,2011,Import,Jordan,74,Copper and articles thereof,Northern Europe,Europe,1489181
-2011,2011,Import,Jordan,74,Copper and articles thereof,South-eastern Asia,Asia,31062576
-2011,2011,Import,Jordan,74,Copper and articles thereof,Southern Asia,Asia,21987
-2011,2011,Import,Jordan,74,Copper and articles thereof,Southern Europe,Europe,8216777
-2011,2011,Import,Jordan,74,Copper and articles thereof,Sub-Saharan Africa,Africa,504803
-2011,2011,Import,Jordan,74,Copper and articles thereof,Western Asia,Asia,22919163
-2011,2011,Import,Jordan,74,Copper and articles thereof,Western Europe,Europe,7981537
-2011,2011,Import,Jordan,74,Copper and articles thereof,World,World,234964608
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Jordan,74,Copper and articles thereof,Australia and New Zealand,Oceania,41338,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2011,2011,Import,Jordan,74,Copper and articles thereof,Eastern Asia,Asia,3685541,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2011,2011,Import,Jordan,74,Copper and articles thereof,Eastern Europe,Europe,47642554,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2011,2011,Import,Jordan,74,Copper and articles thereof,Latin America and the Caribbean,Americas,13212,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2011,2011,Import,Jordan,74,Copper and articles thereof,Northern Africa,Africa,50389311,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2011,2011,Import,Jordan,74,Copper and articles thereof,Northern America,Americas,2533650,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2011,2011,Import,Jordan,74,Copper and articles thereof,Northern Europe,Europe,1489181,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2011,2011,Import,Jordan,74,Copper and articles thereof,South-eastern Asia,Asia,31062576,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2011,2011,Import,Jordan,74,Copper and articles thereof,Southern Asia,Asia,21987,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2011,2011,Import,Jordan,74,Copper and articles thereof,Southern Europe,Europe,8216777,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2011,2011,Import,Jordan,74,Copper and articles thereof,Sub-Saharan Africa,Africa,504803,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2011,2011,Import,Jordan,74,Copper and articles thereof,Western Asia,Asia,22919163,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2011,2011,Import,Jordan,74,Copper and articles thereof,Western Europe,Europe,7981537,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2011,2011,Import,Jordan,74,Copper and articles thereof,World,World,234964608,31.1667049,36.941628,,

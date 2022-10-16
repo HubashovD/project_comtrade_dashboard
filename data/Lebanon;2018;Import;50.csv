@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Lebanon,50,Silk,Eastern Asia,Asia,746852
-2018,2018,Import,Lebanon,50,Silk,Northern America,Americas,4989
-2018,2018,Import,Lebanon,50,Silk,Northern Europe,Europe,2815
-2018,2018,Import,Lebanon,50,Silk,South-eastern Asia,Asia,21137
-2018,2018,Import,Lebanon,50,Silk,Southern Asia,Asia,2284
-2018,2018,Import,Lebanon,50,Silk,Southern Europe,Europe,818278
-2018,2018,Import,Lebanon,50,Silk,Western Europe,Europe,78883
-2018,2018,Import,Lebanon,50,Silk,World,World,1850217
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Lebanon,50,Silk,Eastern Asia,Asia,746852,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2018,2018,Import,Lebanon,50,Silk,Northern America,Americas,4989,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2018,2018,Import,Lebanon,50,Silk,Northern Europe,Europe,2815,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2018,2018,Import,Lebanon,50,Silk,South-eastern Asia,Asia,21137,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2018,2018,Import,Lebanon,50,Silk,Southern Asia,Asia,2284,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2018,2018,Import,Lebanon,50,Silk,Southern Europe,Europe,818278,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2018,2018,Import,Lebanon,50,Silk,Western Europe,Europe,78883,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2018,2018,Import,Lebanon,50,Silk,World,World,1850217,33.8750629,35.843409,,

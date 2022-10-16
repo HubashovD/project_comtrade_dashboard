@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Export,Israel,1,Animals; live,Eastern Asia,Asia,376000
-2012,2012,Export,Israel,1,Animals; live,Eastern Europe,Europe,1010000
-2012,2012,Export,Israel,1,Animals; live,Latin America and the Caribbean,Americas,193000
-2012,2012,Export,Israel,1,Animals; live,Northern America,Americas,1158000
-2012,2012,Export,Israel,1,Animals; live,South-eastern Asia,Asia,14000
-2012,2012,Export,Israel,1,Animals; live,Southern Europe,Europe,609000
-2012,2012,Export,Israel,1,Animals; live,Sub-Saharan Africa,Africa,89000
-2012,2012,Export,Israel,1,Animals; live,Western Asia,Asia,7000
-2012,2012,Export,Israel,1,Animals; live,Western Europe,Europe,3767000
-2012,2012,Export,Israel,1,Animals; live,World,World,7618000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Export,Israel,1,Animals; live,Eastern Asia,Asia,376000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2012,2012,Export,Israel,1,Animals; live,Eastern Europe,Europe,1010000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2012,2012,Export,Israel,1,Animals; live,Latin America and the Caribbean,Americas,193000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2012,2012,Export,Israel,1,Animals; live,Northern America,Americas,1158000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2012,2012,Export,Israel,1,Animals; live,South-eastern Asia,Asia,14000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2012,2012,Export,Israel,1,Animals; live,Southern Europe,Europe,609000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2012,2012,Export,Israel,1,Animals; live,Sub-Saharan Africa,Africa,89000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2012,2012,Export,Israel,1,Animals; live,Western Asia,Asia,7000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2012,2012,Export,Israel,1,Animals; live,Western Europe,Europe,3767000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2012,2012,Export,Israel,1,Animals; live,World,World,7618000,30.8124247,34.8594762,,

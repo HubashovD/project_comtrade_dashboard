@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Kuwait,30,Pharmaceutical products,Australia and New Zealand,Oceania,1102225
-2001,2001,Import,Kuwait,30,Pharmaceutical products,Eastern Asia,Asia,3019832
-2001,2001,Import,Kuwait,30,Pharmaceutical products,Eastern Europe,Europe,657368
-2001,2001,Import,Kuwait,30,Pharmaceutical products,Latin America and the Caribbean,Americas,83383
-2001,2001,Import,Kuwait,30,Pharmaceutical products,Northern Africa,Africa,719072
-2001,2001,Import,Kuwait,30,Pharmaceutical products,Northern America,Americas,16984265
-2001,2001,Import,Kuwait,30,Pharmaceutical products,Northern Europe,Europe,38002665
-2001,2001,Import,Kuwait,30,Pharmaceutical products,South-eastern Asia,Asia,549496
-2001,2001,Import,Kuwait,30,Pharmaceutical products,Southern Asia,Asia,189170
-2001,2001,Import,Kuwait,30,Pharmaceutical products,Southern Europe,Europe,9926251
-2001,2001,Import,Kuwait,30,Pharmaceutical products,Sub-Saharan Africa,Africa,241140
-2001,2001,Import,Kuwait,30,Pharmaceutical products,Western Asia,Asia,651773
-2001,2001,Import,Kuwait,30,Pharmaceutical products,Western Europe,Europe,67180331
-2001,2001,Import,Kuwait,30,Pharmaceutical products,World,World,149493798
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Kuwait,30,Pharmaceutical products,Australia and New Zealand,Oceania,1102225,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2001,2001,Import,Kuwait,30,Pharmaceutical products,Eastern Asia,Asia,3019832,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2001,2001,Import,Kuwait,30,Pharmaceutical products,Eastern Europe,Europe,657368,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2001,2001,Import,Kuwait,30,Pharmaceutical products,Latin America and the Caribbean,Americas,83383,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2001,2001,Import,Kuwait,30,Pharmaceutical products,Northern Africa,Africa,719072,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2001,2001,Import,Kuwait,30,Pharmaceutical products,Northern America,Americas,16984265,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2001,2001,Import,Kuwait,30,Pharmaceutical products,Northern Europe,Europe,38002665,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2001,2001,Import,Kuwait,30,Pharmaceutical products,South-eastern Asia,Asia,549496,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2001,2001,Import,Kuwait,30,Pharmaceutical products,Southern Asia,Asia,189170,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2001,2001,Import,Kuwait,30,Pharmaceutical products,Southern Europe,Europe,9926251,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2001,2001,Import,Kuwait,30,Pharmaceutical products,Sub-Saharan Africa,Africa,241140,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2001,2001,Import,Kuwait,30,Pharmaceutical products,Western Asia,Asia,651773,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2001,2001,Import,Kuwait,30,Pharmaceutical products,Western Europe,Europe,67180331,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2001,2001,Import,Kuwait,30,Pharmaceutical products,World,World,149493798,29.2733964,47.4979476,,

@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Azerbaijan,16,"Meat, fish and seafood food preparations nes",Northern America,Americas,174379
-2001,2001,Export,Azerbaijan,16,"Meat, fish and seafood food preparations nes",Western Europe,Europe,517678
-2001,2001,Export,Azerbaijan,16,"Meat, fish and seafood food preparations nes",World,World,692056
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Azerbaijan,16,"Meat, fish and seafood food preparations nes",Northern America,Americas,174379,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2001,2001,Export,Azerbaijan,16,"Meat, fish and seafood food preparations nes",Western Europe,Europe,517678,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2001,2001,Export,Azerbaijan,16,"Meat, fish and seafood food preparations nes",World,World,692056,40.3936294,47.7872508,,

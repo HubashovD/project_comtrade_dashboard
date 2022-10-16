@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",Central Asia,Asia,1075
-2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",Eastern Europe,Europe,150
-2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",Northern Africa,Africa,10
-2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",Northern America,Americas,2441
-2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",Northern Europe,Europe,4671
-2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",South-eastern Asia,Asia,635
-2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",Southern Europe,Europe,200
-2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",Western Europe,Europe,50995
-2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",World,World,66178
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",Central Asia,Asia,1075,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",Eastern Europe,Europe,150,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",Northern Africa,Africa,10,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",Northern America,Americas,2441,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",Northern Europe,Europe,4671,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",South-eastern Asia,Asia,635,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",Southern Europe,Europe,200,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",Western Europe,Europe,50995,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2001,2001,Export,Azerbaijan,95,"Toys, games, sports requisites",World,World,66178,40.3936294,47.7872508,,

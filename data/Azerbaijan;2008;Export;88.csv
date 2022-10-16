@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Export,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,26591
-2008,2008,Export,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,9063
-2008,2008,Export,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Southern Asia,Asia,2000
-2008,2008,Export,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,4500
-2008,2008,Export,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",World,World,45674
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Export,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,26591,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2008,2008,Export,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,9063,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2008,2008,Export,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Southern Asia,Asia,2000,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2008,2008,Export,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,4500,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2008,2008,Export,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",World,World,45674,40.3936294,47.7872508,,

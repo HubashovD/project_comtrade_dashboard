@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Central Asia,Asia,2837
-2000,2000,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,37130
-2000,2000,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,3
-2000,2000,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,10
-2000,2000,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,34705
-2000,2000,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,437305
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Central Asia,Asia,2837,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2000,2000,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,37130,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,3,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,10,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,34705,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Export,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,437305,40.3936294,47.7872508,,

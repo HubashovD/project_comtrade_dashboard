@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Jordan,2,Meat and edible meat offal,Eastern Asia,Asia,11325
-2018,2018,Export,Jordan,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,670322
-2018,2018,Export,Jordan,2,Meat and edible meat offal,Northern Africa,Africa,161839
-2018,2018,Export,Jordan,2,Meat and edible meat offal,South-eastern Asia,Asia,359120
-2018,2018,Export,Jordan,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,265342
-2018,2018,Export,Jordan,2,Meat and edible meat offal,World,World,43513204
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Jordan,2,Meat and edible meat offal,Eastern Asia,Asia,11325,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2018,2018,Export,Jordan,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,670322,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2018,2018,Export,Jordan,2,Meat and edible meat offal,Northern Africa,Africa,161839,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2018,2018,Export,Jordan,2,Meat and edible meat offal,South-eastern Asia,Asia,359120,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2018,2018,Export,Jordan,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,265342,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2018,2018,Export,Jordan,2,Meat and edible meat offal,World,World,43513204,31.1667049,36.941628,,

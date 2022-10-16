@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Georgia,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,8504
-1997,1997,Import,Georgia,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,791847
-1997,1997,Import,Georgia,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,7312
-1997,1997,Import,Georgia,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Asia,Asia,10430
-1997,1997,Import,Georgia,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Asia,Asia,15375
-1997,1997,Import,Georgia,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,30082
-1997,1997,Import,Georgia,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,985780
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Georgia,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,8504,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+1997,1997,Import,Georgia,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,791847,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1997,1997,Import,Georgia,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,7312,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1997,1997,Import,Georgia,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Asia,Asia,10430,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1997,1997,Import,Georgia,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Asia,Asia,15375,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1997,1997,Import,Georgia,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,30082,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1997,1997,Import,Georgia,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,985780,32.3293809,-83.1137366,,

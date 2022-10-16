@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Australia and New Zealand,Oceania,862
-2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Eastern Asia,Asia,721241
-2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,8150
-2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Latin America and the Caribbean,Americas,57511
-2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,6229494
-2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Northern Europe,Europe,2577580
-2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Polynesia,Oceania,34759
-2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",South-eastern Asia,Asia,16042
-2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Southern Europe,Europe,47118
-2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Sub-Saharan Africa,Africa,14341
-2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Western Asia,Asia,5704
-2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,12963369
-2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",World,World,22894110
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Australia and New Zealand,Oceania,862,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Eastern Asia,Asia,721241,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,8150,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Latin America and the Caribbean,Americas,57511,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,6229494,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Northern Europe,Europe,2577580,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Polynesia,Oceania,34759,33.8750629,35.843409,-5.109184731250752,167.40343615892436
+2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",South-eastern Asia,Asia,16042,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Southern Europe,Europe,47118,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Sub-Saharan Africa,Africa,14341,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Western Asia,Asia,5704,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,12963369,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2017,2017,Import,Lebanon,88,"Aircraft, spacecraft and parts thereof",World,World,22894110,33.8750629,35.843409,,

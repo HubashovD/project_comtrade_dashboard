@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Central Asia,Asia,172377904
-2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Eastern Asia,Asia,761980
-2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,8278144
-2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Latin America and the Caribbean,Americas,412905
-2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,1165518
-2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,6506251
-2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",South-eastern Asia,Asia,1097
-2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Southern Asia,Asia,8337997
-2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,26873
-2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,14770531
-2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,3030956
-2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",World,World,216341973
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Central Asia,Asia,172377904,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Eastern Asia,Asia,761980,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,8278144,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Latin America and the Caribbean,Americas,412905,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,1165518,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,6506251,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",South-eastern Asia,Asia,1097,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Southern Asia,Asia,8337997,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,26873,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,14770531,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,3030956,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2001,2001,Import,Azerbaijan,27,"Mineral fuels, oils, distillation products, etc",World,World,216341973,40.3936294,47.7872508,,

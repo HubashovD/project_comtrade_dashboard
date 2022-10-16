@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Azerbaijan,10,Cereals,Central Asia,Asia,10692069
-1997,1997,Import,Azerbaijan,10,Cereals,Eastern Europe,Europe,7876154
-1997,1997,Import,Azerbaijan,10,Cereals,Latin America and the Caribbean,Americas,277870
-1997,1997,Import,Azerbaijan,10,Cereals,Northern Europe,Europe,275178
-1997,1997,Import,Azerbaijan,10,Cereals,Southern Asia,Asia,286257
-1997,1997,Import,Azerbaijan,10,Cereals,Western Asia,Asia,345487
-1997,1997,Import,Azerbaijan,10,Cereals,Western Europe,Europe,131918
-1997,1997,Import,Azerbaijan,10,Cereals,World,World,23403964
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Azerbaijan,10,Cereals,Central Asia,Asia,10692069,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1997,1997,Import,Azerbaijan,10,Cereals,Eastern Europe,Europe,7876154,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1997,1997,Import,Azerbaijan,10,Cereals,Latin America and the Caribbean,Americas,277870,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+1997,1997,Import,Azerbaijan,10,Cereals,Northern Europe,Europe,275178,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1997,1997,Import,Azerbaijan,10,Cereals,Southern Asia,Asia,286257,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1997,1997,Import,Azerbaijan,10,Cereals,Western Asia,Asia,345487,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1997,1997,Import,Azerbaijan,10,Cereals,Western Europe,Europe,131918,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1997,1997,Import,Azerbaijan,10,Cereals,World,World,23403964,40.3936294,47.7872508,,

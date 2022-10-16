@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Israel,30,Pharmaceutical products,Australia and New Zealand,Oceania,567000
-1995,1995,Export,Israel,30,Pharmaceutical products,Central Asia,Asia,4866000
-1995,1995,Export,Israel,30,Pharmaceutical products,Eastern Asia,Asia,3628000
-1995,1995,Export,Israel,30,Pharmaceutical products,Eastern Europe,Europe,12378000
-1995,1995,Export,Israel,30,Pharmaceutical products,Latin America and the Caribbean,Americas,6452000
-1995,1995,Export,Israel,30,Pharmaceutical products,Northern America,Americas,114048000
-1995,1995,Export,Israel,30,Pharmaceutical products,Northern Europe,Europe,3415000
-1995,1995,Export,Israel,30,Pharmaceutical products,South-eastern Asia,Asia,1990000
-1995,1995,Export,Israel,30,Pharmaceutical products,Southern Europe,Europe,36529000
-1995,1995,Export,Israel,30,Pharmaceutical products,Sub-Saharan Africa,Africa,2215000
-1995,1995,Export,Israel,30,Pharmaceutical products,Western Asia,Asia,687000
-1995,1995,Export,Israel,30,Pharmaceutical products,Western Europe,Europe,44524000
-1995,1995,Export,Israel,30,Pharmaceutical products,World,World,237823008
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Israel,30,Pharmaceutical products,Australia and New Zealand,Oceania,567000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1995,1995,Export,Israel,30,Pharmaceutical products,Central Asia,Asia,4866000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+1995,1995,Export,Israel,30,Pharmaceutical products,Eastern Asia,Asia,3628000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1995,1995,Export,Israel,30,Pharmaceutical products,Eastern Europe,Europe,12378000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1995,1995,Export,Israel,30,Pharmaceutical products,Latin America and the Caribbean,Americas,6452000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1995,1995,Export,Israel,30,Pharmaceutical products,Northern America,Americas,114048000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1995,1995,Export,Israel,30,Pharmaceutical products,Northern Europe,Europe,3415000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1995,1995,Export,Israel,30,Pharmaceutical products,South-eastern Asia,Asia,1990000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1995,1995,Export,Israel,30,Pharmaceutical products,Southern Europe,Europe,36529000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1995,1995,Export,Israel,30,Pharmaceutical products,Sub-Saharan Africa,Africa,2215000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1995,1995,Export,Israel,30,Pharmaceutical products,Western Asia,Asia,687000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1995,1995,Export,Israel,30,Pharmaceutical products,Western Europe,Europe,44524000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Export,Israel,30,Pharmaceutical products,World,World,237823008,30.8124247,34.8594762,,

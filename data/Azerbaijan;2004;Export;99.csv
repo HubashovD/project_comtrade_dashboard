@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Export,Azerbaijan,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,152
-2004,2004,Export,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,16739500
-2004,2004,Export,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,30
-2004,2004,Export,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,41
-2004,2004,Export,Azerbaijan,99,Commodities not specified according to kind,World,World,16739723
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Export,Azerbaijan,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,152,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2004,2004,Export,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,16739500,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2004,2004,Export,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,30,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2004,2004,Export,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,41,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2004,2004,Export,Azerbaijan,99,Commodities not specified according to kind,World,World,16739723,40.3936294,47.7872508,,

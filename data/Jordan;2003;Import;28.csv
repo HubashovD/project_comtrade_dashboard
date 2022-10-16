@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Jordan,28,Inorganic chemicals,Eastern Asia,Asia,11110177
-2003,2003,Import,Jordan,28,Inorganic chemicals,Eastern Europe,Europe,2887038
-2003,2003,Import,Jordan,28,Inorganic chemicals,Latin America and the Caribbean,Americas,100152
-2003,2003,Import,Jordan,28,Inorganic chemicals,Northern Africa,Africa,492138
-2003,2003,Import,Jordan,28,Inorganic chemicals,Northern America,Americas,431506
-2003,2003,Import,Jordan,28,Inorganic chemicals,Northern Europe,Europe,673443
-2003,2003,Import,Jordan,28,Inorganic chemicals,South-eastern Asia,Asia,89425
-2003,2003,Import,Jordan,28,Inorganic chemicals,Southern Asia,Asia,7179
-2003,2003,Import,Jordan,28,Inorganic chemicals,Southern Europe,Europe,1139710
-2003,2003,Import,Jordan,28,Inorganic chemicals,Sub-Saharan Africa,Africa,27542
-2003,2003,Import,Jordan,28,Inorganic chemicals,Western Asia,Asia,949756
-2003,2003,Import,Jordan,28,Inorganic chemicals,Western Europe,Europe,2816929
-2003,2003,Import,Jordan,28,Inorganic chemicals,World,World,33176439
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Jordan,28,Inorganic chemicals,Eastern Asia,Asia,11110177,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2003,2003,Import,Jordan,28,Inorganic chemicals,Eastern Europe,Europe,2887038,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2003,2003,Import,Jordan,28,Inorganic chemicals,Latin America and the Caribbean,Americas,100152,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2003,2003,Import,Jordan,28,Inorganic chemicals,Northern Africa,Africa,492138,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2003,2003,Import,Jordan,28,Inorganic chemicals,Northern America,Americas,431506,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2003,2003,Import,Jordan,28,Inorganic chemicals,Northern Europe,Europe,673443,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2003,2003,Import,Jordan,28,Inorganic chemicals,South-eastern Asia,Asia,89425,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2003,2003,Import,Jordan,28,Inorganic chemicals,Southern Asia,Asia,7179,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2003,2003,Import,Jordan,28,Inorganic chemicals,Southern Europe,Europe,1139710,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2003,2003,Import,Jordan,28,Inorganic chemicals,Sub-Saharan Africa,Africa,27542,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2003,2003,Import,Jordan,28,Inorganic chemicals,Western Asia,Asia,949756,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2003,2003,Import,Jordan,28,Inorganic chemicals,Western Europe,Europe,2816929,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2003,2003,Import,Jordan,28,Inorganic chemicals,World,World,33176439,31.1667049,36.941628,,

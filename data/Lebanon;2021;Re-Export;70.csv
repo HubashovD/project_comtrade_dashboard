@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Re-Export,Lebanon,70,Glass and glassware,Eastern Europe,Europe,200
-2021,2021,Re-Export,Lebanon,70,Glass and glassware,Northern Africa,Africa,1060
-2021,2021,Re-Export,Lebanon,70,Glass and glassware,Northern America,Americas,200
-2021,2021,Re-Export,Lebanon,70,Glass and glassware,Sub-Saharan Africa,Africa,135
-2021,2021,Re-Export,Lebanon,70,Glass and glassware,Western Asia,Asia,61369
-2021,2021,Re-Export,Lebanon,70,Glass and glassware,Western Europe,Europe,18691
-2021,2021,Re-Export,Lebanon,70,Glass and glassware,World,World,435773
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Re-Export,Lebanon,70,Glass and glassware,Eastern Europe,Europe,200,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2021,2021,Re-Export,Lebanon,70,Glass and glassware,Northern Africa,Africa,1060,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2021,2021,Re-Export,Lebanon,70,Glass and glassware,Northern America,Americas,200,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2021,2021,Re-Export,Lebanon,70,Glass and glassware,Sub-Saharan Africa,Africa,135,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2021,2021,Re-Export,Lebanon,70,Glass and glassware,Western Asia,Asia,61369,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2021,2021,Re-Export,Lebanon,70,Glass and glassware,Western Europe,Europe,18691,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2021,2021,Re-Export,Lebanon,70,Glass and glassware,World,World,435773,33.8750629,35.843409,,

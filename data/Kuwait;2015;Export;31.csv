@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Export,Kuwait,31,Fertilizers,Australia and New Zealand,Oceania,7680318
-2015,2015,Export,Kuwait,31,Fertilizers,Eastern Asia,Asia,3655050
-2015,2015,Export,Kuwait,31,Fertilizers,Latin America and the Caribbean,Americas,58772997
-2015,2015,Export,Kuwait,31,Fertilizers,Northern America,Americas,124335800
-2015,2015,Export,Kuwait,31,Fertilizers,South-eastern Asia,Asia,31220029
-2015,2015,Export,Kuwait,31,Fertilizers,Sub-Saharan Africa,Africa,9590737
-2015,2015,Export,Kuwait,31,Fertilizers,Western Europe,Europe,6467153
-2015,2015,Export,Kuwait,31,Fertilizers,World,World,277355184
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Export,Kuwait,31,Fertilizers,Australia and New Zealand,Oceania,7680318,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2015,2015,Export,Kuwait,31,Fertilizers,Eastern Asia,Asia,3655050,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2015,2015,Export,Kuwait,31,Fertilizers,Latin America and the Caribbean,Americas,58772997,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2015,2015,Export,Kuwait,31,Fertilizers,Northern America,Americas,124335800,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2015,2015,Export,Kuwait,31,Fertilizers,South-eastern Asia,Asia,31220029,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2015,2015,Export,Kuwait,31,Fertilizers,Sub-Saharan Africa,Africa,9590737,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2015,2015,Export,Kuwait,31,Fertilizers,Western Europe,Europe,6467153,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2015,2015,Export,Kuwait,31,Fertilizers,World,World,277355184,29.2733964,47.4979476,,

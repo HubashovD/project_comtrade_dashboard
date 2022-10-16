@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,Eastern Europe,Europe,3675880
-1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,Northern America,Americas,1672177
-1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,Northern Europe,Europe,3000039
-1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,Southern Asia,Asia,48343
-1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,Southern Europe,Europe,89958
-1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,Western Asia,Asia,2272408
-1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,Western Europe,Europe,2601407
-1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,World,World,14312804
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,Eastern Europe,Europe,3675880,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,Northern America,Americas,1672177,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,Northern Europe,Europe,3000039,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,Southern Asia,Asia,48343,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,Southern Europe,Europe,89958,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,Western Asia,Asia,2272408,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,Western Europe,Europe,2601407,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1996,1996,Import,Azerbaijan,38,Miscellaneous chemical products,World,World,14312804,40.3936294,47.7872508,,

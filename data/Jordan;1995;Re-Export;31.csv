@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Re-Export,Jordan,31,Fertilizers,Sub-Saharan Africa,Africa,254805
-1995,1995,Re-Export,Jordan,31,Fertilizers,Western Asia,Asia,6562
-1995,1995,Re-Export,Jordan,31,Fertilizers,World,World,322080
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Re-Export,Jordan,31,Fertilizers,Sub-Saharan Africa,Africa,254805,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1995,1995,Re-Export,Jordan,31,Fertilizers,Western Asia,Asia,6562,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1995,1995,Re-Export,Jordan,31,Fertilizers,World,World,322080,31.1667049,36.941628,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Jordan,52,Cotton,Eastern Asia,Asia,3726150
-2019,2019,Import,Jordan,52,Cotton,Eastern Europe,Europe,57058
-2019,2019,Import,Jordan,52,Cotton,Latin America and the Caribbean,Americas,6331
-2019,2019,Import,Jordan,52,Cotton,Northern Africa,Africa,108095
-2019,2019,Import,Jordan,52,Cotton,Northern America,Americas,292554
-2019,2019,Import,Jordan,52,Cotton,Northern Europe,Europe,42511
-2019,2019,Import,Jordan,52,Cotton,South-eastern Asia,Asia,44413
-2019,2019,Import,Jordan,52,Cotton,Southern Asia,Asia,27611
-2019,2019,Import,Jordan,52,Cotton,Southern Europe,Europe,608299
-2019,2019,Import,Jordan,52,Cotton,Western Asia,Asia,3709181
-2019,2019,Import,Jordan,52,Cotton,Western Europe,Europe,177493
-2019,2019,Import,Jordan,52,Cotton,World,World,16528614
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Jordan,52,Cotton,Eastern Asia,Asia,3726150,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2019,2019,Import,Jordan,52,Cotton,Eastern Europe,Europe,57058,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2019,2019,Import,Jordan,52,Cotton,Latin America and the Caribbean,Americas,6331,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2019,2019,Import,Jordan,52,Cotton,Northern Africa,Africa,108095,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2019,2019,Import,Jordan,52,Cotton,Northern America,Americas,292554,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2019,2019,Import,Jordan,52,Cotton,Northern Europe,Europe,42511,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2019,2019,Import,Jordan,52,Cotton,South-eastern Asia,Asia,44413,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2019,2019,Import,Jordan,52,Cotton,Southern Asia,Asia,27611,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2019,2019,Import,Jordan,52,Cotton,Southern Europe,Europe,608299,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2019,2019,Import,Jordan,52,Cotton,Western Asia,Asia,3709181,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2019,2019,Import,Jordan,52,Cotton,Western Europe,Europe,177493,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2019,2019,Import,Jordan,52,Cotton,World,World,16528614,31.1667049,36.941628,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Australia and New Zealand,Oceania,8000
-2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Central Asia,Asia,320000
-2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Eastern Asia,Asia,16407000
-2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Eastern Europe,Europe,67000
-2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Latin America and the Caribbean,Americas,565000
-2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Northern Africa,Africa,599000
-2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Northern America,Americas,913000
-2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Northern Europe,Europe,1145000
-2007,2007,Import,Israel,60,Knitted or crocheted fabrics,South-eastern Asia,Asia,80000
-2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Southern Europe,Europe,10033000
-2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Sub-Saharan Africa,Africa,8000
-2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Western Asia,Asia,29442000
-2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Western Europe,Europe,4067000
-2007,2007,Import,Israel,60,Knitted or crocheted fabrics,World,World,73720000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Australia and New Zealand,Oceania,8000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Central Asia,Asia,320000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Eastern Asia,Asia,16407000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Eastern Europe,Europe,67000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Latin America and the Caribbean,Americas,565000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Northern Africa,Africa,599000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Northern America,Americas,913000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Northern Europe,Europe,1145000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2007,2007,Import,Israel,60,Knitted or crocheted fabrics,South-eastern Asia,Asia,80000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Southern Europe,Europe,10033000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Sub-Saharan Africa,Africa,8000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Western Asia,Asia,29442000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2007,2007,Import,Israel,60,Knitted or crocheted fabrics,Western Europe,Europe,4067000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2007,2007,Import,Israel,60,Knitted or crocheted fabrics,World,World,73720000,30.8124247,34.8594762,,

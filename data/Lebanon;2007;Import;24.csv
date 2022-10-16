@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Eastern Asia,Asia,556
-2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,6066194
-2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,3489359
-2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Northern Africa,Africa,1410613
-2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,87193728
-2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,923403
-2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,South-eastern Asia,Asia,454612
-2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,1383678
-2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,2078003
-2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,27169990
-2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,World,World,132131163
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Eastern Asia,Asia,556,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,6066194,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,3489359,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Northern Africa,Africa,1410613,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,87193728,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,923403,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,South-eastern Asia,Asia,454612,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,1383678,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,2078003,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,27169990,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2007,2007,Import,Lebanon,24,Tobacco and manufactured tobacco substitutes,World,World,132131163,33.8750629,35.843409,,

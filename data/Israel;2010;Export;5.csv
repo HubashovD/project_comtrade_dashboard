@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",Central Asia,Asia,28000
-2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,1270000
-2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",Latin America and the Caribbean,Americas,1000
-2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",Northern America,Americas,18000
-2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,2477000
-2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",Southern Europe,Europe,15000
-2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",Western Europe,Europe,187000
-2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",World,World,3996000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",Central Asia,Asia,28000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,1270000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",Latin America and the Caribbean,Americas,1000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",Northern America,Americas,18000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,2477000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",Southern Europe,Europe,15000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",Western Europe,Europe,187000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2010,2010,Export,Israel,5,"Products of animal origin, not elsewhere specified or included",World,World,3996000,30.8124247,34.8594762,,

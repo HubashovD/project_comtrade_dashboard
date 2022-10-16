@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Central Asia,Asia,32160
-2014,2014,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,2801
-2014,2014,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,76343
-2014,2014,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,13110
-2014,2014,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,9309
-2014,2014,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,17740
-2014,2014,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,World,World,187258
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Central Asia,Asia,32160,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2014,2014,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,2801,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2014,2014,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,76343,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2014,2014,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,13110,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2014,2014,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,9309,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2014,2014,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,17740,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2014,2014,Import,Azerbaijan,5,Animal originated products; not elsewhere specified or included,World,World,187258,40.3936294,47.7872508,,

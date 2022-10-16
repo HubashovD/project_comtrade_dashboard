@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Re-Export,Jordan,30,Pharmaceutical products,Northern Africa,Africa,43753
-1995,1995,Re-Export,Jordan,30,Pharmaceutical products,Northern America,Americas,1425
-1995,1995,Re-Export,Jordan,30,Pharmaceutical products,Northern Europe,Europe,24013
-1995,1995,Re-Export,Jordan,30,Pharmaceutical products,Southern Asia,Asia,950
-1995,1995,Re-Export,Jordan,30,Pharmaceutical products,Southern Europe,Europe,85202
-1995,1995,Re-Export,Jordan,30,Pharmaceutical products,Western Asia,Asia,85010
-1995,1995,Re-Export,Jordan,30,Pharmaceutical products,Western Europe,Europe,413858
-1995,1995,Re-Export,Jordan,30,Pharmaceutical products,World,World,19606160
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Re-Export,Jordan,30,Pharmaceutical products,Northern Africa,Africa,43753,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1995,1995,Re-Export,Jordan,30,Pharmaceutical products,Northern America,Americas,1425,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1995,1995,Re-Export,Jordan,30,Pharmaceutical products,Northern Europe,Europe,24013,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1995,1995,Re-Export,Jordan,30,Pharmaceutical products,Southern Asia,Asia,950,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1995,1995,Re-Export,Jordan,30,Pharmaceutical products,Southern Europe,Europe,85202,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Re-Export,Jordan,30,Pharmaceutical products,Western Asia,Asia,85010,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1995,1995,Re-Export,Jordan,30,Pharmaceutical products,Western Europe,Europe,413858,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Re-Export,Jordan,30,Pharmaceutical products,World,World,19606160,31.1667049,36.941628,,

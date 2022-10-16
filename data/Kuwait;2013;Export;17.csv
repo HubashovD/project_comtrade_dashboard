@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Australia and New Zealand,Oceania,75328
-2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Eastern Asia,Asia,44001
-2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,22897
-2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Northern Africa,Africa,762623
-2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Northern America,Americas,53825
-2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,South-eastern Asia,Asia,20752
-2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Southern Asia,Asia,276071
-2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,16921
-2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Western Asia,Asia,57451
-2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Western Europe,Europe,9217
-2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,World,World,23309895
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Australia and New Zealand,Oceania,75328,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Eastern Asia,Asia,44001,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,22897,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Northern Africa,Africa,762623,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Northern America,Americas,53825,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,South-eastern Asia,Asia,20752,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Southern Asia,Asia,276071,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,16921,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Western Asia,Asia,57451,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,Western Europe,Europe,9217,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2013,2013,Export,Kuwait,17,Sugars and sugar confectionery,World,World,23309895,29.2733964,47.4979476,,

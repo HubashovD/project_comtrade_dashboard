@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Jordan,2,Meat and edible meat offal,Australia and New Zealand,Oceania,13054636
-1998,1998,Import,Jordan,2,Meat and edible meat offal,Eastern Asia,Asia,759888
-1998,1998,Import,Jordan,2,Meat and edible meat offal,Eastern Europe,Europe,455553
-1998,1998,Import,Jordan,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,360881
-1998,1998,Import,Jordan,2,Meat and edible meat offal,Northern Africa,Africa,4858
-1998,1998,Import,Jordan,2,Meat and edible meat offal,Northern America,Americas,879241
-1998,1998,Import,Jordan,2,Meat and edible meat offal,Northern Europe,Europe,1307792
-1998,1998,Import,Jordan,2,Meat and edible meat offal,Southern Europe,Europe,2270889
-1998,1998,Import,Jordan,2,Meat and edible meat offal,Western Europe,Europe,6726511
-1998,1998,Import,Jordan,2,Meat and edible meat offal,World,World,51354924
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Jordan,2,Meat and edible meat offal,Australia and New Zealand,Oceania,13054636,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1998,1998,Import,Jordan,2,Meat and edible meat offal,Eastern Asia,Asia,759888,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1998,1998,Import,Jordan,2,Meat and edible meat offal,Eastern Europe,Europe,455553,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1998,1998,Import,Jordan,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,360881,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1998,1998,Import,Jordan,2,Meat and edible meat offal,Northern Africa,Africa,4858,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1998,1998,Import,Jordan,2,Meat and edible meat offal,Northern America,Americas,879241,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1998,1998,Import,Jordan,2,Meat and edible meat offal,Northern Europe,Europe,1307792,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1998,1998,Import,Jordan,2,Meat and edible meat offal,Southern Europe,Europe,2270889,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1998,1998,Import,Jordan,2,Meat and edible meat offal,Western Europe,Europe,6726511,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1998,1998,Import,Jordan,2,Meat and edible meat offal,World,World,51354924,31.1667049,36.941628,,

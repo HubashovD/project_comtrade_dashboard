@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Kuwait,26,"Ores, slag and ash",Eastern Asia,Asia,1914528
-2020,2020,Import,Kuwait,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,48241
-2020,2020,Import,Kuwait,26,"Ores, slag and ash",Northern America,Americas,22319
-2020,2020,Import,Kuwait,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,60881
-2020,2020,Import,Kuwait,26,"Ores, slag and ash",Western Asia,Asia,2263604
-2020,2020,Import,Kuwait,26,"Ores, slag and ash",Western Europe,Europe,71906
-2020,2020,Import,Kuwait,26,"Ores, slag and ash",World,World,5858209
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Kuwait,26,"Ores, slag and ash",Eastern Asia,Asia,1914528,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2020,2020,Import,Kuwait,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,48241,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2020,2020,Import,Kuwait,26,"Ores, slag and ash",Northern America,Americas,22319,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2020,2020,Import,Kuwait,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,60881,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2020,2020,Import,Kuwait,26,"Ores, slag and ash",Western Asia,Asia,2263604,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2020,2020,Import,Kuwait,26,"Ores, slag and ash",Western Europe,Europe,71906,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2020,2020,Import,Kuwait,26,"Ores, slag and ash",World,World,5858209,29.2733964,47.4979476,,

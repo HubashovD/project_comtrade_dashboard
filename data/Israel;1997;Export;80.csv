@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Israel,80,Tin and articles thereof,Northern America,Americas,10000
-1997,1997,Export,Israel,80,Tin and articles thereof,Northern Europe,Europe,4000
-1997,1997,Export,Israel,80,Tin and articles thereof,Sub-Saharan Africa,Africa,197000
-1997,1997,Export,Israel,80,Tin and articles thereof,World,World,211000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Israel,80,Tin and articles thereof,Northern America,Americas,10000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1997,1997,Export,Israel,80,Tin and articles thereof,Northern Europe,Europe,4000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1997,1997,Export,Israel,80,Tin and articles thereof,Sub-Saharan Africa,Africa,197000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1997,1997,Export,Israel,80,Tin and articles thereof,World,World,211000,30.8124247,34.8594762,,

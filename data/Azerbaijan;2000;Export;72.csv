@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Azerbaijan,72,Iron and steel,Eastern Asia,Asia,106890
-2000,2000,Export,Azerbaijan,72,Iron and steel,Eastern Europe,Europe,103782
-2000,2000,Export,Azerbaijan,72,Iron and steel,Latin America and the Caribbean,Americas,1425936
-2000,2000,Export,Azerbaijan,72,Iron and steel,Northern Europe,Europe,641805
-2000,2000,Export,Azerbaijan,72,Iron and steel,South-eastern Asia,Asia,26210
-2000,2000,Export,Azerbaijan,72,Iron and steel,Southern Asia,Asia,1848564
-2000,2000,Export,Azerbaijan,72,Iron and steel,Southern Europe,Europe,583884
-2000,2000,Export,Azerbaijan,72,Iron and steel,Western Asia,Asia,680794
-2000,2000,Export,Azerbaijan,72,Iron and steel,Western Europe,Europe,131645
-2000,2000,Export,Azerbaijan,72,Iron and steel,World,World,6063444
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Azerbaijan,72,Iron and steel,Eastern Asia,Asia,106890,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Export,Azerbaijan,72,Iron and steel,Eastern Europe,Europe,103782,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Export,Azerbaijan,72,Iron and steel,Latin America and the Caribbean,Americas,1425936,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2000,2000,Export,Azerbaijan,72,Iron and steel,Northern Europe,Europe,641805,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Export,Azerbaijan,72,Iron and steel,South-eastern Asia,Asia,26210,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Export,Azerbaijan,72,Iron and steel,Southern Asia,Asia,1848564,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Export,Azerbaijan,72,Iron and steel,Southern Europe,Europe,583884,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2000,2000,Export,Azerbaijan,72,Iron and steel,Western Asia,Asia,680794,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Export,Azerbaijan,72,Iron and steel,Western Europe,Europe,131645,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Export,Azerbaijan,72,Iron and steel,World,World,6063444,40.3936294,47.7872508,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Re-Export,Jordan,17,Sugars and sugar confectionery,Eastern Europe,Europe,2138
-2007,2007,Re-Export,Jordan,17,Sugars and sugar confectionery,Northern America,Americas,2516
-2007,2007,Re-Export,Jordan,17,Sugars and sugar confectionery,Southern Europe,Europe,5252
-2007,2007,Re-Export,Jordan,17,Sugars and sugar confectionery,Western Asia,Asia,130752
-2007,2007,Re-Export,Jordan,17,Sugars and sugar confectionery,Western Europe,Europe,3828
-2007,2007,Re-Export,Jordan,17,Sugars and sugar confectionery,World,World,2801892
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Re-Export,Jordan,17,Sugars and sugar confectionery,Eastern Europe,Europe,2138,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2007,2007,Re-Export,Jordan,17,Sugars and sugar confectionery,Northern America,Americas,2516,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2007,2007,Re-Export,Jordan,17,Sugars and sugar confectionery,Southern Europe,Europe,5252,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2007,2007,Re-Export,Jordan,17,Sugars and sugar confectionery,Western Asia,Asia,130752,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2007,2007,Re-Export,Jordan,17,Sugars and sugar confectionery,Western Europe,Europe,3828,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2007,2007,Re-Export,Jordan,17,Sugars and sugar confectionery,World,World,2801892,31.1667049,36.941628,,

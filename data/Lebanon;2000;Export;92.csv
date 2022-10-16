@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Lebanon,92,"Musical instruments, parts and accessories",Australia and New Zealand,Oceania,13335
-2000,2000,Export,Lebanon,92,"Musical instruments, parts and accessories",Latin America and the Caribbean,Americas,1199
-2000,2000,Export,Lebanon,92,"Musical instruments, parts and accessories",Northern America,Americas,4151
-2000,2000,Export,Lebanon,92,"Musical instruments, parts and accessories",Northern Europe,Europe,199
-2000,2000,Export,Lebanon,92,"Musical instruments, parts and accessories",Sub-Saharan Africa,Africa,1673
-2000,2000,Export,Lebanon,92,"Musical instruments, parts and accessories",Western Europe,Europe,7198
-2000,2000,Export,Lebanon,92,"Musical instruments, parts and accessories",World,World,33072
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Lebanon,92,"Musical instruments, parts and accessories",Australia and New Zealand,Oceania,13335,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2000,2000,Export,Lebanon,92,"Musical instruments, parts and accessories",Latin America and the Caribbean,Americas,1199,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2000,2000,Export,Lebanon,92,"Musical instruments, parts and accessories",Northern America,Americas,4151,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2000,2000,Export,Lebanon,92,"Musical instruments, parts and accessories",Northern Europe,Europe,199,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Export,Lebanon,92,"Musical instruments, parts and accessories",Sub-Saharan Africa,Africa,1673,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Export,Lebanon,92,"Musical instruments, parts and accessories",Western Europe,Europe,7198,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Export,Lebanon,92,"Musical instruments, parts and accessories",World,World,33072,33.8750629,35.843409,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Kuwait,2,Meat and edible meat offal,Australia and New Zealand,Oceania,34532
-2000,2000,Export,Kuwait,2,Meat and edible meat offal,Eastern Asia,Asia,6392
-2000,2000,Export,Kuwait,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,382931
-2000,2000,Export,Kuwait,2,Meat and edible meat offal,Northern America,Americas,27499
-2000,2000,Export,Kuwait,2,Meat and edible meat offal,Western Europe,Europe,66927
-2000,2000,Export,Kuwait,2,Meat and edible meat offal,World,World,1515166
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Kuwait,2,Meat and edible meat offal,Australia and New Zealand,Oceania,34532,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2000,2000,Export,Kuwait,2,Meat and edible meat offal,Eastern Asia,Asia,6392,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2000,2000,Export,Kuwait,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,382931,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2000,2000,Export,Kuwait,2,Meat and edible meat offal,Northern America,Americas,27499,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2000,2000,Export,Kuwait,2,Meat and edible meat offal,Western Europe,Europe,66927,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Export,Kuwait,2,Meat and edible meat offal,World,World,1515166,29.2733964,47.4979476,,

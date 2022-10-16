@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Azerbaijan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Asia,Asia,3549
-1997,1997,Import,Azerbaijan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Europe,Europe,4860
-1997,1997,Import,Azerbaijan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Asia,Asia,45308
-1997,1997,Import,Azerbaijan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Europe,Europe,8270
-1997,1997,Import,Azerbaijan,6,"Live trees, plants, bulbs, roots, cut flowers etc",World,World,63063
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Azerbaijan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Asia,Asia,3549,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1997,1997,Import,Azerbaijan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Europe,Europe,4860,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+1997,1997,Import,Azerbaijan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Asia,Asia,45308,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1997,1997,Import,Azerbaijan,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Europe,Europe,8270,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1997,1997,Import,Azerbaijan,6,"Live trees, plants, bulbs, roots, cut flowers etc",World,World,63063,40.3936294,47.7872508,,

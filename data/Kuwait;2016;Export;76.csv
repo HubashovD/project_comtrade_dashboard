@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,6437
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Central Asia,Asia,396
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Eastern Asia,Asia,3077215
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Eastern Europe,Europe,7441
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,6780
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Northern Africa,Africa,249552
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Northern America,Americas,47485
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Northern Europe,Europe,57347
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,South-eastern Asia,Asia,234022
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Southern Asia,Asia,278651
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Southern Europe,Europe,732171
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,209152
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Western Asia,Asia,145880
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Western Europe,Europe,509868
-2016,2016,Export,Kuwait,76,Aluminium and articles thereof,World,World,41782022
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,6437,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Central Asia,Asia,396,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Eastern Asia,Asia,3077215,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Eastern Europe,Europe,7441,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,6780,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Northern Africa,Africa,249552,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Northern America,Americas,47485,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Northern Europe,Europe,57347,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,South-eastern Asia,Asia,234022,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Southern Asia,Asia,278651,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Southern Europe,Europe,732171,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,209152,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Western Asia,Asia,145880,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,Western Europe,Europe,509868,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2016,2016,Export,Kuwait,76,Aluminium and articles thereof,World,World,41782022,29.2733964,47.4979476,,

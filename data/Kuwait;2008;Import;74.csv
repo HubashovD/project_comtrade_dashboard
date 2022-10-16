@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Kuwait,74,Copper and articles thereof,Australia and New Zealand,Oceania,230813
-2008,2008,Import,Kuwait,74,Copper and articles thereof,Eastern Asia,Asia,17203446
-2008,2008,Import,Kuwait,74,Copper and articles thereof,Eastern Europe,Europe,156024318
-2008,2008,Import,Kuwait,74,Copper and articles thereof,Latin America and the Caribbean,Americas,5356104
-2008,2008,Import,Kuwait,74,Copper and articles thereof,Northern America,Americas,8476494
-2008,2008,Import,Kuwait,74,Copper and articles thereof,Northern Europe,Europe,4582515
-2008,2008,Import,Kuwait,74,Copper and articles thereof,South-eastern Asia,Asia,11864155
-2008,2008,Import,Kuwait,74,Copper and articles thereof,Southern Asia,Asia,9480003
-2008,2008,Import,Kuwait,74,Copper and articles thereof,Southern Europe,Europe,3328281
-2008,2008,Import,Kuwait,74,Copper and articles thereof,Sub-Saharan Africa,Africa,58751267
-2008,2008,Import,Kuwait,74,Copper and articles thereof,Western Asia,Asia,653475
-2008,2008,Import,Kuwait,74,Copper and articles thereof,Western Europe,Europe,9315125
-2008,2008,Import,Kuwait,74,Copper and articles thereof,World,World,318691480
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Kuwait,74,Copper and articles thereof,Australia and New Zealand,Oceania,230813,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2008,2008,Import,Kuwait,74,Copper and articles thereof,Eastern Asia,Asia,17203446,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2008,2008,Import,Kuwait,74,Copper and articles thereof,Eastern Europe,Europe,156024318,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2008,2008,Import,Kuwait,74,Copper and articles thereof,Latin America and the Caribbean,Americas,5356104,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2008,2008,Import,Kuwait,74,Copper and articles thereof,Northern America,Americas,8476494,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2008,2008,Import,Kuwait,74,Copper and articles thereof,Northern Europe,Europe,4582515,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2008,2008,Import,Kuwait,74,Copper and articles thereof,South-eastern Asia,Asia,11864155,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2008,2008,Import,Kuwait,74,Copper and articles thereof,Southern Asia,Asia,9480003,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2008,2008,Import,Kuwait,74,Copper and articles thereof,Southern Europe,Europe,3328281,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2008,2008,Import,Kuwait,74,Copper and articles thereof,Sub-Saharan Africa,Africa,58751267,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2008,2008,Import,Kuwait,74,Copper and articles thereof,Western Asia,Asia,653475,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2008,2008,Import,Kuwait,74,Copper and articles thereof,Western Europe,Europe,9315125,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Import,Kuwait,74,Copper and articles thereof,World,World,318691480,29.2733964,47.4979476,,

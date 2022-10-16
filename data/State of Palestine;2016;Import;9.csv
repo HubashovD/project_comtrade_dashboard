@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,533954
-2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,58799
-2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,10669161
-2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Northern Africa,Africa,1454733
-2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Northern America,Americas,99125
-2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Northern Europe,Europe,118
-2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,1863305
-2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Southern Asia,Asia,3686557
-2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Southern Europe,Europe,63385
-2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,1567846
-2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Western Asia,Asia,959051
-2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Western Europe,Europe,70099
-2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",World,World,32097245
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,533954,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,58799,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,10669161,31.46242095,34.262716572130714,17.925141963241547,-78.01492950057497
+2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Northern Africa,Africa,1454733,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Northern America,Americas,99125,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Northern Europe,Europe,118,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
+2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,1863305,31.46242095,34.262716572130714,10.528384761701911,103.08333472012376
+2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Southern Asia,Asia,3686557,31.46242095,34.262716572130714,25.499703063807168,75.5024015339642
+2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Southern Europe,Europe,63385,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,1567846,31.46242095,34.262716572130714,6.06272746187266,22.727528470146083
+2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Western Asia,Asia,959051,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
+2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",Western Europe,Europe,70099,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2016,2016,Import,State of Palestine,9,"Coffee, tea, mate and spices",World,World,32097245,31.46242095,34.262716572130714,,

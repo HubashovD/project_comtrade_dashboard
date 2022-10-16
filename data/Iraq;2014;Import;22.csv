@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,1064424
-2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Northern Africa,Africa,58606
-2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Northern America,Americas,426937
-2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Northern Europe,Europe,105837
-2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,206846
-2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Southern Asia,Asia,582134
-2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,9844
-2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Western Asia,Asia,5264444
-2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Western Europe,Europe,182225
-2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",World,World,60844000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,1064424,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Northern Africa,Africa,58606,33.0955793,44.1749775,19.569604022535763,12.47761721199581
+2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Northern America,Americas,426937,33.0955793,44.1749775,43.897683433510366,-100.08947125585888
+2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Northern Europe,Europe,105837,33.0955793,44.1749775,59.36075159783851,25.01346951967388
+2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,206846,33.0955793,44.1749775,10.528384761701911,103.08333472012376
+2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Southern Asia,Asia,582134,33.0955793,44.1749775,25.499703063807168,75.5024015339642
+2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,9844,33.0955793,44.1749775,6.06272746187266,22.727528470146083
+2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Western Asia,Asia,5264444,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",Western Europe,Europe,182225,33.0955793,44.1749775,47.92172048214207,7.866753258497997
+2014,2014,Import,Iraq,22,"Beverages, spirits and vinegar",World,World,60844000,33.0955793,44.1749775,,

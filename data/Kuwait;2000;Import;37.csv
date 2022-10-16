@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Australia and New Zealand,Oceania,65567
-2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Eastern Asia,Asia,2719791
-2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Eastern Europe,Europe,7246
-2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Latin America and the Caribbean,Americas,101157
-2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Northern Africa,Africa,45812
-2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Northern America,Americas,2609680
-2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Northern Europe,Europe,1812142
-2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,South-eastern Asia,Asia,65230
-2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Southern Europe,Europe,693570
-2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Western Asia,Asia,2047
-2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Western Europe,Europe,3656478
-2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,World,World,11831828
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Australia and New Zealand,Oceania,65567,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Eastern Asia,Asia,2719791,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Eastern Europe,Europe,7246,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Latin America and the Caribbean,Americas,101157,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Northern Africa,Africa,45812,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Northern America,Americas,2609680,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Northern Europe,Europe,1812142,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,South-eastern Asia,Asia,65230,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Southern Europe,Europe,693570,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Western Asia,Asia,2047,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,Western Europe,Europe,3656478,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Import,Kuwait,37,Photographic or cinematographic goods,World,World,11831828,29.2733964,47.4979476,,

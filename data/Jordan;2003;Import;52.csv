@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Jordan,52,Cotton,Eastern Asia,Asia,46666780
-2003,2003,Import,Jordan,52,Cotton,Eastern Europe,Europe,19959
-2003,2003,Import,Jordan,52,Cotton,Northern Africa,Africa,142346
-2003,2003,Import,Jordan,52,Cotton,Northern America,Americas,50240
-2003,2003,Import,Jordan,52,Cotton,Northern Europe,Europe,30031
-2003,2003,Import,Jordan,52,Cotton,South-eastern Asia,Asia,506428
-2003,2003,Import,Jordan,52,Cotton,Southern Europe,Europe,2044502
-2003,2003,Import,Jordan,52,Cotton,Sub-Saharan Africa,Africa,29619
-2003,2003,Import,Jordan,52,Cotton,Western Asia,Asia,9344494
-2003,2003,Import,Jordan,52,Cotton,Western Europe,Europe,343462
-2003,2003,Import,Jordan,52,Cotton,World,World,82648238
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Jordan,52,Cotton,Eastern Asia,Asia,46666780,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2003,2003,Import,Jordan,52,Cotton,Eastern Europe,Europe,19959,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2003,2003,Import,Jordan,52,Cotton,Northern Africa,Africa,142346,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2003,2003,Import,Jordan,52,Cotton,Northern America,Americas,50240,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2003,2003,Import,Jordan,52,Cotton,Northern Europe,Europe,30031,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2003,2003,Import,Jordan,52,Cotton,South-eastern Asia,Asia,506428,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2003,2003,Import,Jordan,52,Cotton,Southern Europe,Europe,2044502,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2003,2003,Import,Jordan,52,Cotton,Sub-Saharan Africa,Africa,29619,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2003,2003,Import,Jordan,52,Cotton,Western Asia,Asia,9344494,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2003,2003,Import,Jordan,52,Cotton,Western Europe,Europe,343462,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2003,2003,Import,Jordan,52,Cotton,World,World,82648238,31.1667049,36.941628,,

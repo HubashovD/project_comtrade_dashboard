@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Lebanon,78,Lead and articles thereof,Eastern Asia,Asia,52487
-2016,2016,Import,Lebanon,78,Lead and articles thereof,Latin America and the Caribbean,Americas,709
-2016,2016,Import,Lebanon,78,Lead and articles thereof,Northern America,Americas,40827
-2016,2016,Import,Lebanon,78,Lead and articles thereof,Northern Europe,Europe,1283666
-2016,2016,Import,Lebanon,78,Lead and articles thereof,Southern Europe,Europe,16154
-2016,2016,Import,Lebanon,78,Lead and articles thereof,Sub-Saharan Africa,Africa,23210
-2016,2016,Import,Lebanon,78,Lead and articles thereof,Western Asia,Asia,5788797
-2016,2016,Import,Lebanon,78,Lead and articles thereof,Western Europe,Europe,533754
-2016,2016,Import,Lebanon,78,Lead and articles thereof,World,World,8856142
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Lebanon,78,Lead and articles thereof,Eastern Asia,Asia,52487,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2016,2016,Import,Lebanon,78,Lead and articles thereof,Latin America and the Caribbean,Americas,709,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2016,2016,Import,Lebanon,78,Lead and articles thereof,Northern America,Americas,40827,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2016,2016,Import,Lebanon,78,Lead and articles thereof,Northern Europe,Europe,1283666,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2016,2016,Import,Lebanon,78,Lead and articles thereof,Southern Europe,Europe,16154,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2016,2016,Import,Lebanon,78,Lead and articles thereof,Sub-Saharan Africa,Africa,23210,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2016,2016,Import,Lebanon,78,Lead and articles thereof,Western Asia,Asia,5788797,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2016,2016,Import,Lebanon,78,Lead and articles thereof,Western Europe,Europe,533754,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2016,2016,Import,Lebanon,78,Lead and articles thereof,World,World,8856142,33.8750629,35.843409,,

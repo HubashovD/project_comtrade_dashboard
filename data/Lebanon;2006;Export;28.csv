@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Lebanon,28,Inorganic chemicals,Latin America and the Caribbean,Americas,10939
-2006,2006,Export,Lebanon,28,Inorganic chemicals,Northern Africa,Africa,1428145
-2006,2006,Export,Lebanon,28,Inorganic chemicals,Northern America,Americas,6581
-2006,2006,Export,Lebanon,28,Inorganic chemicals,Northern Europe,Europe,2762
-2006,2006,Export,Lebanon,28,Inorganic chemicals,Southern Europe,Europe,9409667
-2006,2006,Export,Lebanon,28,Inorganic chemicals,Sub-Saharan Africa,Africa,127234
-2006,2006,Export,Lebanon,28,Inorganic chemicals,Western Asia,Asia,17981480
-2006,2006,Export,Lebanon,28,Inorganic chemicals,Western Europe,Europe,947
-2006,2006,Export,Lebanon,28,Inorganic chemicals,World,World,38199980
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Lebanon,28,Inorganic chemicals,Latin America and the Caribbean,Americas,10939,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2006,2006,Export,Lebanon,28,Inorganic chemicals,Northern Africa,Africa,1428145,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2006,2006,Export,Lebanon,28,Inorganic chemicals,Northern America,Americas,6581,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2006,2006,Export,Lebanon,28,Inorganic chemicals,Northern Europe,Europe,2762,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2006,2006,Export,Lebanon,28,Inorganic chemicals,Southern Europe,Europe,9409667,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2006,2006,Export,Lebanon,28,Inorganic chemicals,Sub-Saharan Africa,Africa,127234,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2006,2006,Export,Lebanon,28,Inorganic chemicals,Western Asia,Asia,17981480,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2006,2006,Export,Lebanon,28,Inorganic chemicals,Western Europe,Europe,947,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2006,2006,Export,Lebanon,28,Inorganic chemicals,World,World,38199980,33.8750629,35.843409,,

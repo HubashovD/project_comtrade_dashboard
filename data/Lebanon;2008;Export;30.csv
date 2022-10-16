@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Export,Lebanon,30,Pharmaceutical products,Northern Africa,Africa,270725
-2008,2008,Export,Lebanon,30,Pharmaceutical products,Northern America,Americas,7896
-2008,2008,Export,Lebanon,30,Pharmaceutical products,Northern Europe,Europe,151872
-2008,2008,Export,Lebanon,30,Pharmaceutical products,Southern Europe,Europe,332
-2008,2008,Export,Lebanon,30,Pharmaceutical products,Sub-Saharan Africa,Africa,216009
-2008,2008,Export,Lebanon,30,Pharmaceutical products,Western Asia,Asia,78155
-2008,2008,Export,Lebanon,30,Pharmaceutical products,Western Europe,Europe,4079793
-2008,2008,Export,Lebanon,30,Pharmaceutical products,World,World,15721238
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Export,Lebanon,30,Pharmaceutical products,Northern Africa,Africa,270725,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2008,2008,Export,Lebanon,30,Pharmaceutical products,Northern America,Americas,7896,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2008,2008,Export,Lebanon,30,Pharmaceutical products,Northern Europe,Europe,151872,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2008,2008,Export,Lebanon,30,Pharmaceutical products,Southern Europe,Europe,332,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2008,2008,Export,Lebanon,30,Pharmaceutical products,Sub-Saharan Africa,Africa,216009,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2008,2008,Export,Lebanon,30,Pharmaceutical products,Western Asia,Asia,78155,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2008,2008,Export,Lebanon,30,Pharmaceutical products,Western Europe,Europe,4079793,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2008,2008,Export,Lebanon,30,Pharmaceutical products,World,World,15721238,33.8750629,35.843409,,

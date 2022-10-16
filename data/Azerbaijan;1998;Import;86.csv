@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipmen",Eastern Europe,Europe,1479938
-1998,1998,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipmen",Northern America,Americas,6550
-1998,1998,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipmen",Northern Europe,Europe,520000
-1998,1998,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipmen",Western Asia,Asia,11388
-1998,1998,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipmen",Western Europe,Europe,24507
-1998,1998,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipmen",World,World,2140841
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipmen",Eastern Europe,Europe,1479938,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1998,1998,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipmen",Northern America,Americas,6550,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1998,1998,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipmen",Northern Europe,Europe,520000,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1998,1998,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipmen",Western Asia,Asia,11388,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1998,1998,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipmen",Western Europe,Europe,24507,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1998,1998,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipmen",World,World,2140841,40.3936294,47.7872508,,

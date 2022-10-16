@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Jordan,19,"Cereal, flour, starch, milk preparations and products",Australia and New Zealand,Oceania,767
-1999,1999,Export,Jordan,19,"Cereal, flour, starch, milk preparations and products",Eastern Asia,Asia,248976
-1999,1999,Export,Jordan,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,23456
-1999,1999,Export,Jordan,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,54122
-1999,1999,Export,Jordan,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,35154
-1999,1999,Export,Jordan,19,"Cereal, flour, starch, milk preparations and products",World,World,3486085
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Jordan,19,"Cereal, flour, starch, milk preparations and products",Australia and New Zealand,Oceania,767,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1999,1999,Export,Jordan,19,"Cereal, flour, starch, milk preparations and products",Eastern Asia,Asia,248976,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1999,1999,Export,Jordan,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,23456,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1999,1999,Export,Jordan,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,54122,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Export,Jordan,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,35154,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Export,Jordan,19,"Cereal, flour, starch, milk preparations and products",World,World,3486085,31.1667049,36.941628,,

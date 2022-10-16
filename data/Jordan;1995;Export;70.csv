@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Jordan,70,Glass and glassware,Australia and New Zealand,Oceania,712
-1995,1995,Export,Jordan,70,Glass and glassware,Latin America and the Caribbean,Americas,1425
-1995,1995,Export,Jordan,70,Glass and glassware,Northern Africa,Africa,712
-1995,1995,Export,Jordan,70,Glass and glassware,Northern America,Americas,1425
-1995,1995,Export,Jordan,70,Glass and glassware,Northern Europe,Europe,7033
-1995,1995,Export,Jordan,70,Glass and glassware,South-eastern Asia,Asia,712
-1995,1995,Export,Jordan,70,Glass and glassware,Southern Europe,Europe,712
-1995,1995,Export,Jordan,70,Glass and glassware,Western Europe,Europe,3762
-1995,1995,Export,Jordan,70,Glass and glassware,World,World,2175677
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Jordan,70,Glass and glassware,Australia and New Zealand,Oceania,712,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1995,1995,Export,Jordan,70,Glass and glassware,Latin America and the Caribbean,Americas,1425,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1995,1995,Export,Jordan,70,Glass and glassware,Northern Africa,Africa,712,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1995,1995,Export,Jordan,70,Glass and glassware,Northern America,Americas,1425,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1995,1995,Export,Jordan,70,Glass and glassware,Northern Europe,Europe,7033,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1995,1995,Export,Jordan,70,Glass and glassware,South-eastern Asia,Asia,712,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1995,1995,Export,Jordan,70,Glass and glassware,Southern Europe,Europe,712,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Export,Jordan,70,Glass and glassware,Western Europe,Europe,3762,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Export,Jordan,70,Glass and glassware,World,World,2175677,31.1667049,36.941628,,

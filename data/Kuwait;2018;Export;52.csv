@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Kuwait,52,Cotton,Eastern Asia,Asia,4598
-2018,2018,Export,Kuwait,52,Cotton,Southern Asia,Asia,6649
-2018,2018,Export,Kuwait,52,Cotton,Sub-Saharan Africa,Africa,478
-2018,2018,Export,Kuwait,52,Cotton,Western Asia,Asia,13511
-2018,2018,Export,Kuwait,52,Cotton,Western Europe,Europe,4871
-2018,2018,Export,Kuwait,52,Cotton,World,World,370895
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Kuwait,52,Cotton,Eastern Asia,Asia,4598,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2018,2018,Export,Kuwait,52,Cotton,Southern Asia,Asia,6649,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2018,2018,Export,Kuwait,52,Cotton,Sub-Saharan Africa,Africa,478,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2018,2018,Export,Kuwait,52,Cotton,Western Asia,Asia,13511,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2018,2018,Export,Kuwait,52,Cotton,Western Europe,Europe,4871,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2018,2018,Export,Kuwait,52,Cotton,World,World,370895,29.2733964,47.4979476,,

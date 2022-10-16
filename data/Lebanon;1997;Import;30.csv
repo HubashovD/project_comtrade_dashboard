@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Lebanon,30,Pharmaceutical products,Australia and New Zealand,Oceania,379516
-1997,1997,Import,Lebanon,30,Pharmaceutical products,Eastern Asia,Asia,1143781
-1997,1997,Import,Lebanon,30,Pharmaceutical products,Eastern Europe,Europe,493509
-1997,1997,Import,Lebanon,30,Pharmaceutical products,Latin America and the Caribbean,Americas,169576
-1997,1997,Import,Lebanon,30,Pharmaceutical products,Northern Africa,Africa,145070
-1997,1997,Import,Lebanon,30,Pharmaceutical products,Northern America,Americas,14200407
-1997,1997,Import,Lebanon,30,Pharmaceutical products,Northern Europe,Europe,56808518
-1997,1997,Import,Lebanon,30,Pharmaceutical products,Polynesia,Oceania,9226
-1997,1997,Import,Lebanon,30,Pharmaceutical products,South-eastern Asia,Asia,204509
-1997,1997,Import,Lebanon,30,Pharmaceutical products,Southern Asia,Asia,31066
-1997,1997,Import,Lebanon,30,Pharmaceutical products,Southern Europe,Europe,11689598
-1997,1997,Import,Lebanon,30,Pharmaceutical products,Sub-Saharan Africa,Africa,104620
-1997,1997,Import,Lebanon,30,Pharmaceutical products,Western Asia,Asia,306420
-1997,1997,Import,Lebanon,30,Pharmaceutical products,Western Europe,Europe,109667531
-1997,1997,Import,Lebanon,30,Pharmaceutical products,World,World,214856384
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Lebanon,30,Pharmaceutical products,Australia and New Zealand,Oceania,379516,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+1997,1997,Import,Lebanon,30,Pharmaceutical products,Eastern Asia,Asia,1143781,33.8750629,35.843409,37.977378106878206,73.97804075806764
+1997,1997,Import,Lebanon,30,Pharmaceutical products,Eastern Europe,Europe,493509,33.8750629,35.843409,51.67568633314729,27.673469819741847
+1997,1997,Import,Lebanon,30,Pharmaceutical products,Latin America and the Caribbean,Americas,169576,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+1997,1997,Import,Lebanon,30,Pharmaceutical products,Northern Africa,Africa,145070,33.8750629,35.843409,19.569604022535763,12.47761721199581
+1997,1997,Import,Lebanon,30,Pharmaceutical products,Northern America,Americas,14200407,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1997,1997,Import,Lebanon,30,Pharmaceutical products,Northern Europe,Europe,56808518,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1997,1997,Import,Lebanon,30,Pharmaceutical products,Polynesia,Oceania,9226,33.8750629,35.843409,-5.109184731250752,167.40343615892436
+1997,1997,Import,Lebanon,30,Pharmaceutical products,South-eastern Asia,Asia,204509,33.8750629,35.843409,10.528384761701911,103.08333472012376
+1997,1997,Import,Lebanon,30,Pharmaceutical products,Southern Asia,Asia,31066,33.8750629,35.843409,25.499703063807168,75.5024015339642
+1997,1997,Import,Lebanon,30,Pharmaceutical products,Southern Europe,Europe,11689598,33.8750629,35.843409,40.12399607988535,20.742583178432696
+1997,1997,Import,Lebanon,30,Pharmaceutical products,Sub-Saharan Africa,Africa,104620,33.8750629,35.843409,6.06272746187266,22.727528470146083
+1997,1997,Import,Lebanon,30,Pharmaceutical products,Western Asia,Asia,306420,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1997,1997,Import,Lebanon,30,Pharmaceutical products,Western Europe,Europe,109667531,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1997,1997,Import,Lebanon,30,Pharmaceutical products,World,World,214856384,33.8750629,35.843409,,

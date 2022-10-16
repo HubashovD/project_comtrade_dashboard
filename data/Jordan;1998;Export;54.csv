@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Jordan,54,Manmade filaments,Eastern Europe,Europe,923
-1998,1998,Export,Jordan,54,Manmade filaments,Southern Europe,Europe,64879
-1998,1998,Export,Jordan,54,Manmade filaments,Western Asia,Asia,191204
-1998,1998,Export,Jordan,54,Manmade filaments,Western Europe,Europe,4231
-1998,1998,Export,Jordan,54,Manmade filaments,World,World,4254651
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Jordan,54,Manmade filaments,Eastern Europe,Europe,923,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1998,1998,Export,Jordan,54,Manmade filaments,Southern Europe,Europe,64879,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1998,1998,Export,Jordan,54,Manmade filaments,Western Asia,Asia,191204,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1998,1998,Export,Jordan,54,Manmade filaments,Western Europe,Europe,4231,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1998,1998,Export,Jordan,54,Manmade filaments,World,World,4254651,31.1667049,36.941628,,

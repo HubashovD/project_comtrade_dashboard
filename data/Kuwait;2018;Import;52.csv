@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Kuwait,52,Cotton,Eastern Asia,Asia,5211121
-2018,2018,Import,Kuwait,52,Cotton,Eastern Europe,Europe,63721
-2018,2018,Import,Kuwait,52,Cotton,Northern Africa,Africa,6598
-2018,2018,Import,Kuwait,52,Cotton,Northern America,Americas,61419
-2018,2018,Import,Kuwait,52,Cotton,Northern Europe,Europe,31743
-2018,2018,Import,Kuwait,52,Cotton,South-eastern Asia,Asia,521166
-2018,2018,Import,Kuwait,52,Cotton,Southern Asia,Asia,12399
-2018,2018,Import,Kuwait,52,Cotton,Southern Europe,Europe,3685955
-2018,2018,Import,Kuwait,52,Cotton,Sub-Saharan Africa,Africa,812
-2018,2018,Import,Kuwait,52,Cotton,Western Asia,Asia,1376263
-2018,2018,Import,Kuwait,52,Cotton,Western Europe,Europe,1402881
-2018,2018,Import,Kuwait,52,Cotton,World,World,26133626
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Kuwait,52,Cotton,Eastern Asia,Asia,5211121,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2018,2018,Import,Kuwait,52,Cotton,Eastern Europe,Europe,63721,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2018,2018,Import,Kuwait,52,Cotton,Northern Africa,Africa,6598,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2018,2018,Import,Kuwait,52,Cotton,Northern America,Americas,61419,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2018,2018,Import,Kuwait,52,Cotton,Northern Europe,Europe,31743,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2018,2018,Import,Kuwait,52,Cotton,South-eastern Asia,Asia,521166,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2018,2018,Import,Kuwait,52,Cotton,Southern Asia,Asia,12399,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2018,2018,Import,Kuwait,52,Cotton,Southern Europe,Europe,3685955,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2018,2018,Import,Kuwait,52,Cotton,Sub-Saharan Africa,Africa,812,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2018,2018,Import,Kuwait,52,Cotton,Western Asia,Asia,1376263,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2018,2018,Import,Kuwait,52,Cotton,Western Europe,Europe,1402881,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2018,2018,Import,Kuwait,52,Cotton,World,World,26133626,29.2733964,47.4979476,,

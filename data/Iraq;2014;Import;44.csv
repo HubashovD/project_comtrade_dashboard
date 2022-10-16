@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Australia and New Zealand,Oceania,28440
-2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Eastern Asia,Asia,8474919
-2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Eastern Europe,Europe,19313807
-2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Latin America and the Caribbean,Americas,3350
-2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Northern Africa,Africa,294188
-2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Northern America,Americas,1320895
-2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Northern Europe,Europe,414931
-2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,South-eastern Asia,Asia,4869635
-2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Southern Asia,Asia,190882
-2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Southern Europe,Europe,14958000
-2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Sub-Saharan Africa,Africa,59802
-2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Western Asia,Asia,719443
-2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Western Europe,Europe,1364630
-2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,World,World,53632043
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Australia and New Zealand,Oceania,28440,33.0955793,44.1749775,-16.85099460447687,133.4130365630627
+2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Eastern Asia,Asia,8474919,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Eastern Europe,Europe,19313807,33.0955793,44.1749775,51.67568633314729,27.673469819741847
+2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Latin America and the Caribbean,Americas,3350,33.0955793,44.1749775,17.925141963241547,-78.01492950057497
+2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Northern Africa,Africa,294188,33.0955793,44.1749775,19.569604022535763,12.47761721199581
+2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Northern America,Americas,1320895,33.0955793,44.1749775,43.897683433510366,-100.08947125585888
+2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Northern Europe,Europe,414931,33.0955793,44.1749775,59.36075159783851,25.01346951967388
+2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,South-eastern Asia,Asia,4869635,33.0955793,44.1749775,10.528384761701911,103.08333472012376
+2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Southern Asia,Asia,190882,33.0955793,44.1749775,25.499703063807168,75.5024015339642
+2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Southern Europe,Europe,14958000,33.0955793,44.1749775,40.12399607988535,20.742583178432696
+2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Sub-Saharan Africa,Africa,59802,33.0955793,44.1749775,6.06272746187266,22.727528470146083
+2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Western Asia,Asia,719443,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,Western Europe,Europe,1364630,33.0955793,44.1749775,47.92172048214207,7.866753258497997
+2014,2014,Import,Iraq,44,Wood and articles of wood; wood charcoal,World,World,53632043,33.0955793,44.1749775,,

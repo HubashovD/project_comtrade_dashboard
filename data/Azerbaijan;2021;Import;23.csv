@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Eastern Asia,Asia,250763
-2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Eastern Europe,Europe,40581113
-2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Latin America and the Caribbean,Americas,33463890
-2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Northern America,Americas,303548
-2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Northern Europe,Europe,153295
-2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",South-eastern Asia,Asia,51012
-2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Southern Asia,Asia,544094
-2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Southern Europe,Europe,1286687
-2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Western Asia,Asia,4429189
-2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Western Europe,Europe,4480179
-2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",World,World,90386988
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Eastern Asia,Asia,250763,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Eastern Europe,Europe,40581113,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Latin America and the Caribbean,Americas,33463890,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Northern America,Americas,303548,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Northern Europe,Europe,153295,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",South-eastern Asia,Asia,51012,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Southern Asia,Asia,544094,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Southern Europe,Europe,1286687,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Western Asia,Asia,4429189,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",Western Europe,Europe,4480179,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2021,2021,Import,Azerbaijan,23,"Food industries, residues and wastes thereof; prepared animal fodder",World,World,90386988,40.3936294,47.7872508,,

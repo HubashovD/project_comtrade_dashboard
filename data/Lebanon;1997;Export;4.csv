@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Asia,Asia,2191
-1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,297925
-1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Latin America and the Caribbean,Americas,24642
-1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,22063
-1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,37133
-1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,17567
-1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Sub-Saharan Africa,Africa,285082
-1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,1941
-1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,585475
-1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",World,World,2370151
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Asia,Asia,2191,33.8750629,35.843409,37.977378106878206,73.97804075806764
+1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,297925,33.8750629,35.843409,51.67568633314729,27.673469819741847
+1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Latin America and the Caribbean,Americas,24642,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,22063,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,37133,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,17567,33.8750629,35.843409,40.12399607988535,20.742583178432696
+1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Sub-Saharan Africa,Africa,285082,33.8750629,35.843409,6.06272746187266,22.727528470146083
+1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,1941,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,585475,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1997,1997,Export,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",World,World,2370151,33.8750629,35.843409,,

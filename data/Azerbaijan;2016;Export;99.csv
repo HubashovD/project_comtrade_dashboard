@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,Eastern Asia,Asia,540
-2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,4168043
-2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,5835
-2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,123113
-2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,7980
-2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,Western Asia,Asia,180128
-2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,98103
-2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,World,World,4592097
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,Eastern Asia,Asia,540,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,4168043,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,5835,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,123113,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,7980,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,Western Asia,Asia,180128,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,98103,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2016,2016,Export,Azerbaijan,99,Commodities not specified according to kind,World,World,4592097,40.3936294,47.7872508,,

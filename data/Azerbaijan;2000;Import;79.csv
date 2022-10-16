@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,79,Zinc and articles thereof,Eastern Europe,Europe,68549
-2000,2000,Import,Azerbaijan,79,Zinc and articles thereof,Northern Europe,Europe,38195
-2000,2000,Import,Azerbaijan,79,Zinc and articles thereof,South-eastern Asia,Asia,30
-2000,2000,Import,Azerbaijan,79,Zinc and articles thereof,Southern Asia,Asia,8270
-2000,2000,Import,Azerbaijan,79,Zinc and articles thereof,World,World,115123
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,79,Zinc and articles thereof,Eastern Europe,Europe,68549,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Import,Azerbaijan,79,Zinc and articles thereof,Northern Europe,Europe,38195,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Import,Azerbaijan,79,Zinc and articles thereof,South-eastern Asia,Asia,30,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Import,Azerbaijan,79,Zinc and articles thereof,Southern Asia,Asia,8270,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Import,Azerbaijan,79,Zinc and articles thereof,World,World,115123,40.3936294,47.7872508,,

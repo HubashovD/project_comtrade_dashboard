@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Lebanon,81,"Other base metals, cermets, articles thereof",Northern Africa,Africa,39788
-2001,2001,Export,Lebanon,81,"Other base metals, cermets, articles thereof",Northern America,Americas,762
-2001,2001,Export,Lebanon,81,"Other base metals, cermets, articles thereof",World,World,40550
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Lebanon,81,"Other base metals, cermets, articles thereof",Northern Africa,Africa,39788,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2001,2001,Export,Lebanon,81,"Other base metals, cermets, articles thereof",Northern America,Americas,762,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2001,2001,Export,Lebanon,81,"Other base metals, cermets, articles thereof",World,World,40550,33.8750629,35.843409,,

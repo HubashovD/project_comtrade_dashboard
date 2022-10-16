@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Jordan,67,"Bird skin, feathers, artificial flowers, human hair",Eastern Asia,Asia,131641
-1995,1995,Import,Jordan,67,"Bird skin, feathers, artificial flowers, human hair",Northern Europe,Europe,663
-1995,1995,Import,Jordan,67,"Bird skin, feathers, artificial flowers, human hair",South-eastern Asia,Asia,14856
-1995,1995,Import,Jordan,67,"Bird skin, feathers, artificial flowers, human hair",Sub-Saharan Africa,Africa,2361
-1995,1995,Import,Jordan,67,"Bird skin, feathers, artificial flowers, human hair",Western Europe,Europe,6006
-1995,1995,Import,Jordan,67,"Bird skin, feathers, artificial flowers, human hair",World,World,167499
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Jordan,67,"Bird skin, feathers, artificial flowers, human hair",Eastern Asia,Asia,131641,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1995,1995,Import,Jordan,67,"Bird skin, feathers, artificial flowers, human hair",Northern Europe,Europe,663,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1995,1995,Import,Jordan,67,"Bird skin, feathers, artificial flowers, human hair",South-eastern Asia,Asia,14856,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1995,1995,Import,Jordan,67,"Bird skin, feathers, artificial flowers, human hair",Sub-Saharan Africa,Africa,2361,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1995,1995,Import,Jordan,67,"Bird skin, feathers, artificial flowers, human hair",Western Europe,Europe,6006,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Import,Jordan,67,"Bird skin, feathers, artificial flowers, human hair",World,World,167499,31.1667049,36.941628,,

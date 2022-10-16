@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Lebanon,26,"Ores, slag and ash",Western Asia,Asia,40311
-2017,2017,Export,Lebanon,26,"Ores, slag and ash",Western Europe,Europe,171834
-2017,2017,Export,Lebanon,26,"Ores, slag and ash",World,World,212145
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Lebanon,26,"Ores, slag and ash",Western Asia,Asia,40311,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2017,2017,Export,Lebanon,26,"Ores, slag and ash",Western Europe,Europe,171834,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2017,2017,Export,Lebanon,26,"Ores, slag and ash",World,World,212145,33.8750629,35.843409,,

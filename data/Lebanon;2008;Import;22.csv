@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,58129
-2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,260310
-2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,2945868
-2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,950519
-2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Northern Africa,Africa,1846789
-2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Northern America,Americas,1500197
-2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Northern Europe,Europe,31704974
-2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,43618
-2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Southern Asia,Asia,96184
-2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Southern Europe,Europe,2946327
-2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,171465
-2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Western Asia,Asia,2042852
-2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Western Europe,Europe,22182836
-2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",World,World,124680546
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,58129,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,260310,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,2945868,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,950519,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Northern Africa,Africa,1846789,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Northern America,Americas,1500197,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Northern Europe,Europe,31704974,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,43618,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Southern Asia,Asia,96184,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Southern Europe,Europe,2946327,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,171465,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Western Asia,Asia,2042852,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",Western Europe,Europe,22182836,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2008,2008,Import,Lebanon,22,"Beverages, spirits and vinegar",World,World,124680546,33.8750629,35.843409,,

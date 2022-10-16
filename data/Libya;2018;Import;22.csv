@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,1257565
-2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,1277008
-2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Northern Africa,Africa,24262375
-2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Northern America,Americas,20246
-2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Northern Europe,Europe,522664
-2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,286559
-2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Southern Europe,Europe,6562658
-2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Western Asia,Asia,11403332
-2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Western Europe,Europe,17779596
-2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",World,World,74785326
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,1257565,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,1277008,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Northern Africa,Africa,24262375,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Northern America,Americas,20246,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Northern Europe,Europe,522664,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,286559,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Southern Europe,Europe,6562658,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Western Asia,Asia,11403332,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",Western Europe,Europe,17779596,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2018,2018,Import,Libya,22,"Beverages, spirits and vinegar",World,World,74785326,26.8234472,18.1236723,,

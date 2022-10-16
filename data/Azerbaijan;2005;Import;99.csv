@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Asia,Asia,27101
-2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,1705309
-2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,6450
-2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,3509
-2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,South-eastern Asia,Asia,706
-2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,801651
-2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,Western Asia,Asia,206557
-2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,1512761
-2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,World,World,6772257
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Asia,Asia,27101,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,1705309,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,6450,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,3509,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,South-eastern Asia,Asia,706,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,801651,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,Western Asia,Asia,206557,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,1512761,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2005,2005,Import,Azerbaijan,99,Commodities not specified according to kind,World,World,6772257,40.3936294,47.7872508,,

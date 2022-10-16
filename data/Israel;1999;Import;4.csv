@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Australia and New Zealand,Oceania,6000
-1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Asia,Asia,40000
-1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,438000
-1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,3554000
-1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,2882000
-1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",South-eastern Asia,Asia,31000
-1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Southern Asia,Asia,28000
-1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,931000
-1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,4000
-1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,11665000
-1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",World,World,19579000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Australia and New Zealand,Oceania,6000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Asia,Asia,40000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,438000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,3554000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,2882000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",South-eastern Asia,Asia,31000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Southern Asia,Asia,28000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,931000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,4000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,11665000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1999,1999,Import,Israel,4,"Dairy products, eggs, honey, edible animal product nes",World,World,19579000,30.8124247,34.8594762,,

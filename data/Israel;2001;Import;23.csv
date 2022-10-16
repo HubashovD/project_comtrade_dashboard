@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Australia and New Zealand,Oceania,77000
-2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Eastern Asia,Asia,218000
-2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Eastern Europe,Europe,1930000
-2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Latin America and the Caribbean,Americas,6541000
-2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Northern America,Americas,23580000
-2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,8050000
-2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",South-eastern Asia,Asia,60000
-2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,4363000
-2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Sub-Saharan Africa,Africa,124000
-2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Western Asia,Asia,1088000
-2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,18722000
-2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",World,World,71021000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Australia and New Zealand,Oceania,77000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Eastern Asia,Asia,218000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Eastern Europe,Europe,1930000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Latin America and the Caribbean,Americas,6541000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Northern America,Americas,23580000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,8050000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",South-eastern Asia,Asia,60000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,4363000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Sub-Saharan Africa,Africa,124000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Western Asia,Asia,1088000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,18722000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2001,2001,Import,Israel,23,"Residues, wastes of food industry, animal fodder",World,World,71021000,30.8124247,34.8594762,,

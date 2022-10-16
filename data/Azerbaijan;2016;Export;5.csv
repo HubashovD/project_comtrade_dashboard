@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,24400
-2016,2016,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,26444
-2016,2016,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern Africa,Africa,4155
-2016,2016,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,225876
-2016,2016,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Southern Asia,Asia,12500
-2016,2016,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,299247
-2016,2016,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,World,World,622491
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,24400,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2016,2016,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,26444,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2016,2016,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern Africa,Africa,4155,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2016,2016,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,225876,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2016,2016,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Southern Asia,Asia,12500,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2016,2016,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,299247,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2016,2016,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,World,World,622491,40.3936294,47.7872508,,

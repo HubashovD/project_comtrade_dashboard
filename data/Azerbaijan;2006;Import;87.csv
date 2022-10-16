@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Australia and New Zealand,Oceania,10059
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Central Asia,Asia,4106648
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Eastern Asia,Asia,81838318
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Eastern Europe,Europe,163696860
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Latin America and the Caribbean,Americas,2110854
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Northern Africa,Africa,163
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Northern America,Americas,4892562
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Northern Europe,Europe,3898517
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Polynesia,Oceania,42000
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,South-eastern Asia,Asia,960888
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Southern Asia,Asia,6757534
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Southern Europe,Europe,3164691
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Western Asia,Asia,40786366
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Western Europe,Europe,93625418
-2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,World,World,406524535
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Australia and New Zealand,Oceania,10059,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Central Asia,Asia,4106648,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Eastern Asia,Asia,81838318,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Eastern Europe,Europe,163696860,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Latin America and the Caribbean,Americas,2110854,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Northern Africa,Africa,163,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Northern America,Americas,4892562,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Northern Europe,Europe,3898517,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Polynesia,Oceania,42000,40.3936294,47.7872508,-5.109184731250752,167.40343615892436
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,South-eastern Asia,Asia,960888,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Southern Asia,Asia,6757534,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Southern Europe,Europe,3164691,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Western Asia,Asia,40786366,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,Western Europe,Europe,93625418,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2006,2006,Import,Azerbaijan,87,Vehicles other than railway or tramway rolling stock,World,World,406524535,40.3936294,47.7872508,,

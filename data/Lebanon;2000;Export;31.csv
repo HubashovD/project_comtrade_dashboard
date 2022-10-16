@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Lebanon,31,Fertilizers,Northern Africa,Africa,73276
-2000,2000,Export,Lebanon,31,Fertilizers,Northern Europe,Europe,5637
-2000,2000,Export,Lebanon,31,Fertilizers,Southern Europe,Europe,7929343
-2000,2000,Export,Lebanon,31,Fertilizers,Sub-Saharan Africa,Africa,9954
-2000,2000,Export,Lebanon,31,Fertilizers,Western Asia,Asia,153388
-2000,2000,Export,Lebanon,31,Fertilizers,Western Europe,Europe,1444901
-2000,2000,Export,Lebanon,31,Fertilizers,World,World,9905103
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Lebanon,31,Fertilizers,Northern Africa,Africa,73276,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2000,2000,Export,Lebanon,31,Fertilizers,Northern Europe,Europe,5637,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Export,Lebanon,31,Fertilizers,Southern Europe,Europe,7929343,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Export,Lebanon,31,Fertilizers,Sub-Saharan Africa,Africa,9954,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Export,Lebanon,31,Fertilizers,Western Asia,Asia,153388,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Export,Lebanon,31,Fertilizers,Western Europe,Europe,1444901,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Export,Lebanon,31,Fertilizers,World,World,9905103,33.8750629,35.843409,,

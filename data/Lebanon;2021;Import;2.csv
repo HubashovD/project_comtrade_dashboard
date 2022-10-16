@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Lebanon,2,Meat and edible meat offal,Australia and New Zealand,Oceania,3648979
-2021,2021,Import,Lebanon,2,Meat and edible meat offal,Eastern Europe,Europe,272354
-2021,2021,Import,Lebanon,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,65630463
-2021,2021,Import,Lebanon,2,Meat and edible meat offal,Northern Africa,Africa,2000
-2021,2021,Import,Lebanon,2,Meat and edible meat offal,Northern America,Americas,588540
-2021,2021,Import,Lebanon,2,Meat and edible meat offal,Southern Europe,Europe,1244295
-2021,2021,Import,Lebanon,2,Meat and edible meat offal,Western Asia,Asia,686026
-2021,2021,Import,Lebanon,2,Meat and edible meat offal,Western Europe,Europe,412625
-2021,2021,Import,Lebanon,2,Meat and edible meat offal,World,World,90253246
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Lebanon,2,Meat and edible meat offal,Australia and New Zealand,Oceania,3648979,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2021,2021,Import,Lebanon,2,Meat and edible meat offal,Eastern Europe,Europe,272354,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2021,2021,Import,Lebanon,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,65630463,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2021,2021,Import,Lebanon,2,Meat and edible meat offal,Northern Africa,Africa,2000,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2021,2021,Import,Lebanon,2,Meat and edible meat offal,Northern America,Americas,588540,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2021,2021,Import,Lebanon,2,Meat and edible meat offal,Southern Europe,Europe,1244295,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2021,2021,Import,Lebanon,2,Meat and edible meat offal,Western Asia,Asia,686026,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2021,2021,Import,Lebanon,2,Meat and edible meat offal,Western Europe,Europe,412625,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2021,2021,Import,Lebanon,2,Meat and edible meat offal,World,World,90253246,33.8750629,35.843409,,

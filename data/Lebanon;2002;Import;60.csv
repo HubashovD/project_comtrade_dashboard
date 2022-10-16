@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Eastern Asia,Asia,4816419
-2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Eastern Europe,Europe,30336
-2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Latin America and the Caribbean,Americas,3584
-2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Northern America,Americas,119213
-2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Northern Europe,Europe,233326
-2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,South-eastern Asia,Asia,735078
-2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Southern Asia,Asia,99265
-2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Southern Europe,Europe,719421
-2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Sub-Saharan Africa,Africa,3534
-2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Western Asia,Asia,679714
-2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Western Europe,Europe,1380233
-2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,World,World,10160590
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Eastern Asia,Asia,4816419,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Eastern Europe,Europe,30336,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Latin America and the Caribbean,Americas,3584,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Northern America,Americas,119213,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Northern Europe,Europe,233326,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,South-eastern Asia,Asia,735078,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Southern Asia,Asia,99265,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Southern Europe,Europe,719421,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Sub-Saharan Africa,Africa,3534,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Western Asia,Asia,679714,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,Western Europe,Europe,1380233,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2002,2002,Import,Lebanon,60,Knitted or crocheted fabrics,World,World,10160590,33.8750629,35.843409,,

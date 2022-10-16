@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Latin America and the Caribbean,Americas,7021362
-1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern Africa,Africa,94869
-1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern Europe,Europe,84333
-1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",South-eastern Asia,Asia,155160
-1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Southern Asia,Asia,2932
-1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Southern Europe,Europe,36632
-1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Europe,Europe,603089
-1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",World,World,12742275
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Latin America and the Caribbean,Americas,7021362,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern Africa,Africa,94869,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern Europe,Europe,84333,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",South-eastern Asia,Asia,155160,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Southern Asia,Asia,2932,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Southern Europe,Europe,36632,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Europe,Europe,603089,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",World,World,12742275,31.1667049,36.941628,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Jordan,73,Articles of iron or steel,Eastern Asia,Asia,87388
-2005,2005,Export,Jordan,73,Articles of iron or steel,Northern Africa,Africa,402342
-2005,2005,Export,Jordan,73,Articles of iron or steel,Northern America,Americas,22803
-2005,2005,Export,Jordan,73,Articles of iron or steel,Northern Europe,Europe,84415
-2005,2005,Export,Jordan,73,Articles of iron or steel,Southern Europe,Europe,7757
-2005,2005,Export,Jordan,73,Articles of iron or steel,Sub-Saharan Africa,Africa,8385
-2005,2005,Export,Jordan,73,Articles of iron or steel,Western Asia,Asia,986751
-2005,2005,Export,Jordan,73,Articles of iron or steel,Western Europe,Europe,51909
-2005,2005,Export,Jordan,73,Articles of iron or steel,World,World,38056168
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Jordan,73,Articles of iron or steel,Eastern Asia,Asia,87388,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2005,2005,Export,Jordan,73,Articles of iron or steel,Northern Africa,Africa,402342,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2005,2005,Export,Jordan,73,Articles of iron or steel,Northern America,Americas,22803,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2005,2005,Export,Jordan,73,Articles of iron or steel,Northern Europe,Europe,84415,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2005,2005,Export,Jordan,73,Articles of iron or steel,Southern Europe,Europe,7757,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2005,2005,Export,Jordan,73,Articles of iron or steel,Sub-Saharan Africa,Africa,8385,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2005,2005,Export,Jordan,73,Articles of iron or steel,Western Asia,Asia,986751,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2005,2005,Export,Jordan,73,Articles of iron or steel,Western Europe,Europe,51909,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2005,2005,Export,Jordan,73,Articles of iron or steel,World,World,38056168,31.1667049,36.941628,,

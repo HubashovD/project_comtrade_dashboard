@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Kuwait,40,Rubber and articles thereof,Australia and New Zealand,Oceania,321497
-2007,2007,Import,Kuwait,40,Rubber and articles thereof,Eastern Asia,Asia,147476836
-2007,2007,Import,Kuwait,40,Rubber and articles thereof,Eastern Europe,Europe,2617489
-2007,2007,Import,Kuwait,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,3567704
-2007,2007,Import,Kuwait,40,Rubber and articles thereof,Northern Africa,Africa,1004468
-2007,2007,Import,Kuwait,40,Rubber and articles thereof,Northern America,Americas,14538020
-2007,2007,Import,Kuwait,40,Rubber and articles thereof,Northern Europe,Europe,6277120
-2007,2007,Import,Kuwait,40,Rubber and articles thereof,South-eastern Asia,Asia,8051244
-2007,2007,Import,Kuwait,40,Rubber and articles thereof,Southern Asia,Asia,529056
-2007,2007,Import,Kuwait,40,Rubber and articles thereof,Southern Europe,Europe,9972761
-2007,2007,Import,Kuwait,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,689236
-2007,2007,Import,Kuwait,40,Rubber and articles thereof,Western Asia,Asia,3097271
-2007,2007,Import,Kuwait,40,Rubber and articles thereof,Western Europe,Europe,19268382
-2007,2007,Import,Kuwait,40,Rubber and articles thereof,World,World,229204882
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Kuwait,40,Rubber and articles thereof,Australia and New Zealand,Oceania,321497,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2007,2007,Import,Kuwait,40,Rubber and articles thereof,Eastern Asia,Asia,147476836,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2007,2007,Import,Kuwait,40,Rubber and articles thereof,Eastern Europe,Europe,2617489,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2007,2007,Import,Kuwait,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,3567704,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2007,2007,Import,Kuwait,40,Rubber and articles thereof,Northern Africa,Africa,1004468,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2007,2007,Import,Kuwait,40,Rubber and articles thereof,Northern America,Americas,14538020,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2007,2007,Import,Kuwait,40,Rubber and articles thereof,Northern Europe,Europe,6277120,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2007,2007,Import,Kuwait,40,Rubber and articles thereof,South-eastern Asia,Asia,8051244,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2007,2007,Import,Kuwait,40,Rubber and articles thereof,Southern Asia,Asia,529056,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2007,2007,Import,Kuwait,40,Rubber and articles thereof,Southern Europe,Europe,9972761,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2007,2007,Import,Kuwait,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,689236,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2007,2007,Import,Kuwait,40,Rubber and articles thereof,Western Asia,Asia,3097271,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2007,2007,Import,Kuwait,40,Rubber and articles thereof,Western Europe,Europe,19268382,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2007,2007,Import,Kuwait,40,Rubber and articles thereof,World,World,229204882,29.2733964,47.4979476,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Jordan,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,5553170
-2020,2020,Import,Jordan,99,Commodities not specified according to kind,Eastern Asia,Asia,45839824
-2020,2020,Import,Jordan,99,Commodities not specified according to kind,Eastern Europe,Europe,9819536
-2020,2020,Import,Jordan,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,8290590
-2020,2020,Import,Jordan,99,Commodities not specified according to kind,Melanesia,Oceania,112676
-2020,2020,Import,Jordan,99,Commodities not specified according to kind,Northern Africa,Africa,80542159
-2020,2020,Import,Jordan,99,Commodities not specified according to kind,Northern America,Americas,201037269
-2020,2020,Import,Jordan,99,Commodities not specified according to kind,Northern Europe,Europe,17131559
-2020,2020,Import,Jordan,99,Commodities not specified according to kind,South-eastern Asia,Asia,3534314
-2020,2020,Import,Jordan,99,Commodities not specified according to kind,Southern Europe,Europe,13235575
-2020,2020,Import,Jordan,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,552732
-2020,2020,Import,Jordan,99,Commodities not specified according to kind,Western Asia,Asia,9414923
-2020,2020,Import,Jordan,99,Commodities not specified according to kind,Western Europe,Europe,48489362
-2020,2020,Import,Jordan,99,Commodities not specified according to kind,World,World,881283417
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Jordan,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,5553170,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2020,2020,Import,Jordan,99,Commodities not specified according to kind,Eastern Asia,Asia,45839824,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2020,2020,Import,Jordan,99,Commodities not specified according to kind,Eastern Europe,Europe,9819536,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2020,2020,Import,Jordan,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,8290590,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2020,2020,Import,Jordan,99,Commodities not specified according to kind,Melanesia,Oceania,112676,31.1667049,36.941628,1.0108650891006263,147.3257485906919
+2020,2020,Import,Jordan,99,Commodities not specified according to kind,Northern Africa,Africa,80542159,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2020,2020,Import,Jordan,99,Commodities not specified according to kind,Northern America,Americas,201037269,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2020,2020,Import,Jordan,99,Commodities not specified according to kind,Northern Europe,Europe,17131559,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2020,2020,Import,Jordan,99,Commodities not specified according to kind,South-eastern Asia,Asia,3534314,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2020,2020,Import,Jordan,99,Commodities not specified according to kind,Southern Europe,Europe,13235575,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2020,2020,Import,Jordan,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,552732,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2020,2020,Import,Jordan,99,Commodities not specified according to kind,Western Asia,Asia,9414923,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2020,2020,Import,Jordan,99,Commodities not specified according to kind,Western Europe,Europe,48489362,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2020,2020,Import,Jordan,99,Commodities not specified according to kind,World,World,881283417,31.1667049,36.941628,,

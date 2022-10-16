@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,Eastern Europe,Europe,137771
-1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,Northern America,Americas,4662
-1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,Northern Europe,Europe,6190
-1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,Southern Europe,Europe,7052
-1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,169252
-1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,Western Asia,Asia,197642
-1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,Western Europe,Europe,19229
-1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,World,World,5158812
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,Eastern Europe,Europe,137771,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,Northern America,Americas,4662,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,Northern Europe,Europe,6190,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,Southern Europe,Europe,7052,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,169252,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,Western Asia,Asia,197642,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,Western Europe,Europe,19229,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Re-Export,Jordan,39,Plastics and articles thereof,World,World,5158812,31.1667049,36.941628,,

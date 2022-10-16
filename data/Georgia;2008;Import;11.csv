@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Central Asia,Asia,4202891
-2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Eastern Asia,Asia,30871
-2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Eastern Europe,Europe,62531651
-2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Northern America,Americas,1023
-2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Northern Europe,Europe,91749
-2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,South-eastern Asia,Asia,241042
-2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Southern Europe,Europe,858202
-2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Western Asia,Asia,10686560
-2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Western Europe,Europe,745968
-2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,World,World,91908167
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Central Asia,Asia,4202891,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Eastern Asia,Asia,30871,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Eastern Europe,Europe,62531651,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Northern America,Americas,1023,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Northern Europe,Europe,91749,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,South-eastern Asia,Asia,241042,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Southern Europe,Europe,858202,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Western Asia,Asia,10686560,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,Western Europe,Europe,745968,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2008,2008,Import,Georgia,11,Products of the milling industry; malt; starches; inulin,World,World,91908167,32.3293809,-83.1137366,,

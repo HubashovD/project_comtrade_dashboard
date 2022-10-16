@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Eastern Asia,Asia,18790671
-2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Eastern Europe,Europe,42055
-2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Latin America and the Caribbean,Americas,10860
-2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Northern Africa,Africa,105355
-2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Northern America,Americas,778460
-2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Northern Europe,Europe,359254
-2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",South-eastern Asia,Asia,695378
-2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Southern Asia,Asia,6754
-2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Southern Europe,Europe,684701
-2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Western Asia,Asia,2023959
-2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Western Europe,Europe,897594
-2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",World,World,30160860
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Eastern Asia,Asia,18790671,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Eastern Europe,Europe,42055,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Latin America and the Caribbean,Americas,10860,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Northern Africa,Africa,105355,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Northern America,Americas,778460,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Northern Europe,Europe,359254,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",South-eastern Asia,Asia,695378,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Southern Asia,Asia,6754,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Southern Europe,Europe,684701,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Western Asia,Asia,2023959,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",Western Europe,Europe,897594,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2003,2003,Import,Jordan,61,"Articles of apparel and clothing accessories, knitted or crocheted",World,World,30160860,31.1667049,36.941628,,

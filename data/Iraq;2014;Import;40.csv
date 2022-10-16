@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,40,Rubber and articles thereof,Eastern Asia,Asia,71512810
-2014,2014,Import,Iraq,40,Rubber and articles thereof,Eastern Europe,Europe,86460
-2014,2014,Import,Iraq,40,Rubber and articles thereof,Northern Africa,Africa,51744
-2014,2014,Import,Iraq,40,Rubber and articles thereof,Northern America,Americas,239540
-2014,2014,Import,Iraq,40,Rubber and articles thereof,Northern Europe,Europe,58161
-2014,2014,Import,Iraq,40,Rubber and articles thereof,South-eastern Asia,Asia,2886084
-2014,2014,Import,Iraq,40,Rubber and articles thereof,Southern Asia,Asia,653876
-2014,2014,Import,Iraq,40,Rubber and articles thereof,Southern Europe,Europe,29800
-2014,2014,Import,Iraq,40,Rubber and articles thereof,Western Asia,Asia,900967
-2014,2014,Import,Iraq,40,Rubber and articles thereof,Western Europe,Europe,8392
-2014,2014,Import,Iraq,40,Rubber and articles thereof,World,World,97220078
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,40,Rubber and articles thereof,Eastern Asia,Asia,71512810,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,40,Rubber and articles thereof,Eastern Europe,Europe,86460,33.0955793,44.1749775,51.67568633314729,27.673469819741847
+2014,2014,Import,Iraq,40,Rubber and articles thereof,Northern Africa,Africa,51744,33.0955793,44.1749775,19.569604022535763,12.47761721199581
+2014,2014,Import,Iraq,40,Rubber and articles thereof,Northern America,Americas,239540,33.0955793,44.1749775,43.897683433510366,-100.08947125585888
+2014,2014,Import,Iraq,40,Rubber and articles thereof,Northern Europe,Europe,58161,33.0955793,44.1749775,59.36075159783851,25.01346951967388
+2014,2014,Import,Iraq,40,Rubber and articles thereof,South-eastern Asia,Asia,2886084,33.0955793,44.1749775,10.528384761701911,103.08333472012376
+2014,2014,Import,Iraq,40,Rubber and articles thereof,Southern Asia,Asia,653876,33.0955793,44.1749775,25.499703063807168,75.5024015339642
+2014,2014,Import,Iraq,40,Rubber and articles thereof,Southern Europe,Europe,29800,33.0955793,44.1749775,40.12399607988535,20.742583178432696
+2014,2014,Import,Iraq,40,Rubber and articles thereof,Western Asia,Asia,900967,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,40,Rubber and articles thereof,Western Europe,Europe,8392,33.0955793,44.1749775,47.92172048214207,7.866753258497997
+2014,2014,Import,Iraq,40,Rubber and articles thereof,World,World,97220078,33.0955793,44.1749775,,

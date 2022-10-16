@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipmen",Eastern Europe,Europe,78000
-1995,1995,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipmen",Northern Europe,Europe,111000
-1995,1995,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipmen",Southern Europe,Europe,7000
-1995,1995,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipmen",Western Europe,Europe,43000
-1995,1995,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipmen",World,World,597000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipmen",Eastern Europe,Europe,78000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1995,1995,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipmen",Northern Europe,Europe,111000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1995,1995,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipmen",Southern Europe,Europe,7000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1995,1995,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipmen",Western Europe,Europe,43000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Export,Israel,86,"Railway, tramway locomotives, rolling stock, equipmen",World,World,597000,30.8124247,34.8594762,,

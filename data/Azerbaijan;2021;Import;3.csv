@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,606702
-2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Central Asia,Asia,441358
-2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,546807
-2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,6247577
-2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,1327335
-2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,1509575
-2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,5035438
-2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Polynesia,Oceania,2721
-2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,401149
-2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,6827197
-2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,215414
-2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,1298198
-2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,854246
-2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,27058635
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,606702,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Central Asia,Asia,441358,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,546807,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,6247577,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,1327335,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,1509575,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,5035438,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Polynesia,Oceania,2721,40.3936294,47.7872508,-5.109184731250752,167.40343615892436
+2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,401149,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,6827197,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,215414,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,1298198,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,854246,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2021,2021,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,27058635,40.3936294,47.7872508,,

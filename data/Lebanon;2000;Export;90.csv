@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Central Asia,Asia,37969
-2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Eastern Asia,Asia,3919
-2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Eastern Europe,Europe,5250
-2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Northern Africa,Africa,44959
-2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Northern America,Americas,289604
-2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Northern Europe,Europe,360359
-2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",South-eastern Asia,Asia,5279
-2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Southern Europe,Europe,128293
-2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Sub-Saharan Africa,Africa,40292
-2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Western Asia,Asia,47331
-2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Western Europe,Europe,1658993
-2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",World,World,3286113
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Central Asia,Asia,37969,33.8750629,35.843409,39.89317229901691,61.060280637304274
+2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Eastern Asia,Asia,3919,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Eastern Europe,Europe,5250,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Northern Africa,Africa,44959,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Northern America,Americas,289604,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Northern Europe,Europe,360359,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",South-eastern Asia,Asia,5279,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Southern Europe,Europe,128293,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Sub-Saharan Africa,Africa,40292,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Western Asia,Asia,47331,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",Western Europe,Europe,1658993,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Export,Lebanon,90,"Optical, photo, technical, medical, etc apparatus",World,World,3286113,33.8750629,35.843409,,

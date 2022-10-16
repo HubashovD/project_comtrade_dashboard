@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,304000
-1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Central Asia,Asia,20000
-1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,142000
-1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,3913000
-1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,160000
-1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Northern Africa,Africa,15000
-1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Northern America,Americas,3789000
-1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Northern Europe,Europe,2974000
-1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,229000
-1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Southern Europe,Europe,197000
-1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,12000
-1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Western Asia,Asia,54000
-1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Western Europe,Europe,2485000
-1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",World,World,16842000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,304000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Central Asia,Asia,20000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,142000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,3913000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,160000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Northern Africa,Africa,15000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Northern America,Americas,3789000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Northern Europe,Europe,2974000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,229000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Southern Europe,Europe,197000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,12000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Western Asia,Asia,54000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",Western Europe,Europe,2485000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1997,1997,Export,Israel,22,"Beverages, spirits and vinegar",World,World,16842000,30.8124247,34.8594762,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Australia and New Zealand,Oceania,2456
-2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Eastern Asia,Asia,418610
-2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Eastern Europe,Europe,55135
-2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Latin America and the Caribbean,Americas,9789
-2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Northern Africa,Africa,18509
-2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Northern America,Americas,159937
-2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Northern Europe,Europe,177475
-2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",South-eastern Asia,Asia,2239
-2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Southern Asia,Asia,6881
-2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Southern Europe,Europe,346125
-2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Sub-Saharan Africa,Africa,10618
-2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Western Asia,Asia,5120
-2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Western Europe,Europe,858590
-2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",World,World,2649263
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Australia and New Zealand,Oceania,2456,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Eastern Asia,Asia,418610,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Eastern Europe,Europe,55135,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Latin America and the Caribbean,Americas,9789,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Northern Africa,Africa,18509,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Northern America,Americas,159937,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Northern Europe,Europe,177475,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",South-eastern Asia,Asia,2239,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Southern Asia,Asia,6881,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Southern Europe,Europe,346125,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Sub-Saharan Africa,Africa,10618,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Western Asia,Asia,5120,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",Western Europe,Europe,858590,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2001,2001,Import,Lebanon,97,"Works of art, collectors pieces and antiques",World,World,2649263,33.8750629,35.843409,,

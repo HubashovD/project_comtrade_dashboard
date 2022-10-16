@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,1530
-1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Northern America,Americas,25769
-1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Northern Europe,Europe,3439
-1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,118589
-1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Southern Asia,Asia,77338
-1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Western Asia,Asia,9552045
-1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Western Europe,Europe,20286
-1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",World,World,12850619
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,1530,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Northern America,Americas,25769,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Northern Europe,Europe,3439,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,118589,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Southern Asia,Asia,77338,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Western Asia,Asia,9552045,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Western Europe,Europe,20286,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1996,1996,Import,Azerbaijan,9,"Coffee, tea, mate and spices",World,World,12850619,40.3936294,47.7872508,,

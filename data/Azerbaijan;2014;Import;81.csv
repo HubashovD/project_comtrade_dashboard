@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Australia and New Zealand,Oceania,240
-2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Central Asia,Asia,61300
-2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,8006
-2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,144392
-2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,42795
-2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Northern Europe,Europe,183136
-2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,2857
-2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Western Asia,Asia,60549
-2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,650
-2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",World,World,504476
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Australia and New Zealand,Oceania,240,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Central Asia,Asia,61300,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,8006,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,144392,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,42795,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Northern Europe,Europe,183136,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,2857,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Western Asia,Asia,60549,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,650,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2014,2014,Import,Azerbaijan,81,"Metals; n.e.c., cermets and articles thereof",World,World,504476,40.3936294,47.7872508,,

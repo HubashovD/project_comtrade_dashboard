@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Kuwait,31,Fertilizers,Australia and New Zealand,Oceania,3786
-2002,2002,Import,Kuwait,31,Fertilizers,Eastern Asia,Asia,31281
-2002,2002,Import,Kuwait,31,Fertilizers,Eastern Europe,Europe,7632
-2002,2002,Import,Kuwait,31,Fertilizers,Northern Africa,Africa,24795
-2002,2002,Import,Kuwait,31,Fertilizers,Northern America,Americas,13716
-2002,2002,Import,Kuwait,31,Fertilizers,Northern Europe,Europe,110241
-2002,2002,Import,Kuwait,31,Fertilizers,Southern Asia,Asia,6404
-2002,2002,Import,Kuwait,31,Fertilizers,Southern Europe,Europe,293309
-2002,2002,Import,Kuwait,31,Fertilizers,Western Europe,Europe,1026189
-2002,2002,Import,Kuwait,31,Fertilizers,World,World,2561919
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Kuwait,31,Fertilizers,Australia and New Zealand,Oceania,3786,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2002,2002,Import,Kuwait,31,Fertilizers,Eastern Asia,Asia,31281,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2002,2002,Import,Kuwait,31,Fertilizers,Eastern Europe,Europe,7632,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2002,2002,Import,Kuwait,31,Fertilizers,Northern Africa,Africa,24795,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2002,2002,Import,Kuwait,31,Fertilizers,Northern America,Americas,13716,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2002,2002,Import,Kuwait,31,Fertilizers,Northern Europe,Europe,110241,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2002,2002,Import,Kuwait,31,Fertilizers,Southern Asia,Asia,6404,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2002,2002,Import,Kuwait,31,Fertilizers,Southern Europe,Europe,293309,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2002,2002,Import,Kuwait,31,Fertilizers,Western Europe,Europe,1026189,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2002,2002,Import,Kuwait,31,Fertilizers,World,World,2561919,29.2733964,47.4979476,,

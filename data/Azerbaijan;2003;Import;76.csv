@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Central Asia,Asia,972833
-2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Eastern Asia,Asia,163254
-2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Eastern Europe,Europe,2588339
-2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,17786
-2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Northern America,Americas,47758
-2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Northern Europe,Europe,601192
-2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,South-eastern Asia,Asia,309835
-2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Southern Asia,Asia,113160
-2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Southern Europe,Europe,1539541
-2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Western Asia,Asia,2099108
-2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Western Europe,Europe,723667
-2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,World,World,9910669
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Central Asia,Asia,972833,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Eastern Asia,Asia,163254,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Eastern Europe,Europe,2588339,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,17786,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Northern America,Americas,47758,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Northern Europe,Europe,601192,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,South-eastern Asia,Asia,309835,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Southern Asia,Asia,113160,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Southern Europe,Europe,1539541,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Western Asia,Asia,2099108,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,Western Europe,Europe,723667,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2003,2003,Import,Azerbaijan,76,Aluminium and articles thereof,World,World,9910669,40.3936294,47.7872508,,

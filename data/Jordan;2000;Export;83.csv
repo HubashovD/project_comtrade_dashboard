@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Jordan,83,Miscellaneous articles of base metal,Eastern Asia,Asia,16502
-2000,2000,Export,Jordan,83,Miscellaneous articles of base metal,Northern Europe,Europe,6858
-2000,2000,Export,Jordan,83,Miscellaneous articles of base metal,Southern Asia,Asia,10437
-2000,2000,Export,Jordan,83,Miscellaneous articles of base metal,Sub-Saharan Africa,Africa,2032
-2000,2000,Export,Jordan,83,Miscellaneous articles of base metal,Western Asia,Asia,83559
-2000,2000,Export,Jordan,83,Miscellaneous articles of base metal,Western Europe,Europe,79389
-2000,2000,Export,Jordan,83,Miscellaneous articles of base metal,World,World,3703312
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Jordan,83,Miscellaneous articles of base metal,Eastern Asia,Asia,16502,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Export,Jordan,83,Miscellaneous articles of base metal,Northern Europe,Europe,6858,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Export,Jordan,83,Miscellaneous articles of base metal,Southern Asia,Asia,10437,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2000,2000,Export,Jordan,83,Miscellaneous articles of base metal,Sub-Saharan Africa,Africa,2032,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2000,2000,Export,Jordan,83,Miscellaneous articles of base metal,Western Asia,Asia,83559,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Export,Jordan,83,Miscellaneous articles of base metal,Western Europe,Europe,79389,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Export,Jordan,83,Miscellaneous articles of base metal,World,World,3703312,31.1667049,36.941628,,

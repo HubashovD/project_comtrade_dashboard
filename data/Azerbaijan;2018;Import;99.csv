@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Asia,Asia,1620139
-2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,3417136
-2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,65401950
-2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,50510063
-2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,836044
-2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Southern Asia,Asia,42703
-2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,7492415
-2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Western Asia,Asia,2427530
-2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,2173704
-2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,World,World,134150371
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Asia,Asia,1620139,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,3417136,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,65401950,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,50510063,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,836044,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Southern Asia,Asia,42703,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,7492415,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Western Asia,Asia,2427530,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,2173704,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2018,2018,Import,Azerbaijan,99,Commodities not specified according to kind,World,World,134150371,40.3936294,47.7872508,,

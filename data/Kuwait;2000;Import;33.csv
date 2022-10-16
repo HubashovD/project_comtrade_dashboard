@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Australia and New Zealand,Oceania,79854
-2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,4081103
-2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,421146
-2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Latin America and the Caribbean,Americas,187210
-2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Africa,Africa,226412
-2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,9742742
-2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,15809380
-2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,2511873
-2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Asia,Asia,537187
-2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,13025638
-2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Sub-Saharan Africa,Africa,431698
-2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,400577
-2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,48972551
-2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,114560179
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Australia and New Zealand,Oceania,79854,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,4081103,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,421146,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Latin America and the Caribbean,Americas,187210,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Africa,Africa,226412,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,9742742,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,15809380,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,2511873,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Asia,Asia,537187,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,13025638,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Sub-Saharan Africa,Africa,431698,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,400577,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,48972551,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Import,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,114560179,29.2733964,47.4979476,,

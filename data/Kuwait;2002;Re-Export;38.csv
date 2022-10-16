@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,Eastern Asia,Asia,3427
-2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,Northern America,Americas,107954
-2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,Northern Europe,Europe,50137
-2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,South-eastern Asia,Asia,14559
-2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,Southern Asia,Asia,691
-2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,Western Asia,Asia,67530
-2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,Western Europe,Europe,127311
-2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,World,World,900121
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,Eastern Asia,Asia,3427,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,Northern America,Americas,107954,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,Northern Europe,Europe,50137,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,South-eastern Asia,Asia,14559,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,Southern Asia,Asia,691,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,Western Asia,Asia,67530,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,Western Europe,Europe,127311,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2002,2002,Re-Export,Kuwait,38,Miscellaneous chemical products,World,World,900121,29.2733964,47.4979476,,

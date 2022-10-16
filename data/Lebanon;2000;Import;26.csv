@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Lebanon,26,"Ores, slag and ash",Northern Europe,Europe,1127
-2000,2000,Import,Lebanon,26,"Ores, slag and ash",Southern Europe,Europe,412543
-2000,2000,Import,Lebanon,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,12201
-2000,2000,Import,Lebanon,26,"Ores, slag and ash",Western Europe,Europe,103794
-2000,2000,Import,Lebanon,26,"Ores, slag and ash",World,World,529665
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Lebanon,26,"Ores, slag and ash",Northern Europe,Europe,1127,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Import,Lebanon,26,"Ores, slag and ash",Southern Europe,Europe,412543,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Import,Lebanon,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,12201,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Import,Lebanon,26,"Ores, slag and ash",Western Europe,Europe,103794,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Import,Lebanon,26,"Ores, slag and ash",World,World,529665,33.8750629,35.843409,,

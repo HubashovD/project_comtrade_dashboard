@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Export,Jordan,74,Copper and articles thereof,Eastern Asia,Asia,2384199
-1994,1994,Export,Jordan,74,Copper and articles thereof,Northern America,Americas,1431
-1994,1994,Export,Jordan,74,Copper and articles thereof,Southern Europe,Europe,163875
-1994,1994,Export,Jordan,74,Copper and articles thereof,Western Asia,Asia,7084
-1994,1994,Export,Jordan,74,Copper and articles thereof,Western Europe,Europe,198939
-1994,1994,Export,Jordan,74,Copper and articles thereof,World,World,3702353
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Export,Jordan,74,Copper and articles thereof,Eastern Asia,Asia,2384199,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1994,1994,Export,Jordan,74,Copper and articles thereof,Northern America,Americas,1431,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1994,1994,Export,Jordan,74,Copper and articles thereof,Southern Europe,Europe,163875,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1994,1994,Export,Jordan,74,Copper and articles thereof,Western Asia,Asia,7084,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1994,1994,Export,Jordan,74,Copper and articles thereof,Western Europe,Europe,198939,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1994,1994,Export,Jordan,74,Copper and articles thereof,World,World,3702353,31.1667049,36.941628,,

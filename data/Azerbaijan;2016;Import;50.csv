@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Azerbaijan,50,Silk,Eastern Asia,Asia,59292
-2016,2016,Import,Azerbaijan,50,Silk,Eastern Europe,Europe,50
-2016,2016,Import,Azerbaijan,50,Silk,Northern Europe,Europe,79
-2016,2016,Import,Azerbaijan,50,Silk,Southern Asia,Asia,235
-2016,2016,Import,Azerbaijan,50,Silk,Southern Europe,Europe,7416
-2016,2016,Import,Azerbaijan,50,Silk,Western Asia,Asia,9166
-2016,2016,Import,Azerbaijan,50,Silk,Western Europe,Europe,1459
-2016,2016,Import,Azerbaijan,50,Silk,World,World,78438
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Azerbaijan,50,Silk,Eastern Asia,Asia,59292,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2016,2016,Import,Azerbaijan,50,Silk,Eastern Europe,Europe,50,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2016,2016,Import,Azerbaijan,50,Silk,Northern Europe,Europe,79,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2016,2016,Import,Azerbaijan,50,Silk,Southern Asia,Asia,235,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2016,2016,Import,Azerbaijan,50,Silk,Southern Europe,Europe,7416,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2016,2016,Import,Azerbaijan,50,Silk,Western Asia,Asia,9166,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2016,2016,Import,Azerbaijan,50,Silk,Western Europe,Europe,1459,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2016,2016,Import,Azerbaijan,50,Silk,World,World,78438,40.3936294,47.7872508,,

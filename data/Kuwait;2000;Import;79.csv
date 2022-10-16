@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Kuwait,79,Zinc and articles thereof,Australia and New Zealand,Oceania,19343
-2000,2000,Import,Kuwait,79,Zinc and articles thereof,Eastern Asia,Asia,213475
-2000,2000,Import,Kuwait,79,Zinc and articles thereof,Northern America,Americas,42471
-2000,2000,Import,Kuwait,79,Zinc and articles thereof,Northern Europe,Europe,52570
-2000,2000,Import,Kuwait,79,Zinc and articles thereof,Southern Europe,Europe,84903
-2000,2000,Import,Kuwait,79,Zinc and articles thereof,Sub-Saharan Africa,Africa,57046
-2000,2000,Import,Kuwait,79,Zinc and articles thereof,Western Europe,Europe,124548
-2000,2000,Import,Kuwait,79,Zinc and articles thereof,World,World,614739
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Kuwait,79,Zinc and articles thereof,Australia and New Zealand,Oceania,19343,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2000,2000,Import,Kuwait,79,Zinc and articles thereof,Eastern Asia,Asia,213475,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2000,2000,Import,Kuwait,79,Zinc and articles thereof,Northern America,Americas,42471,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2000,2000,Import,Kuwait,79,Zinc and articles thereof,Northern Europe,Europe,52570,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Import,Kuwait,79,Zinc and articles thereof,Southern Europe,Europe,84903,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2000,2000,Import,Kuwait,79,Zinc and articles thereof,Sub-Saharan Africa,Africa,57046,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2000,2000,Import,Kuwait,79,Zinc and articles thereof,Western Europe,Europe,124548,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Import,Kuwait,79,Zinc and articles thereof,World,World,614739,29.2733964,47.4979476,,

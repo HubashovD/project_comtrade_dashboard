@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Lebanon,55,Manmade staple fibres,Eastern Asia,Asia,9967823
-2000,2000,Import,Lebanon,55,Manmade staple fibres,Eastern Europe,Europe,371004
-2000,2000,Import,Lebanon,55,Manmade staple fibres,Latin America and the Caribbean,Americas,86605
-2000,2000,Import,Lebanon,55,Manmade staple fibres,Northern Africa,Africa,1132120
-2000,2000,Import,Lebanon,55,Manmade staple fibres,Northern America,Americas,1006658
-2000,2000,Import,Lebanon,55,Manmade staple fibres,Northern Europe,Europe,224941
-2000,2000,Import,Lebanon,55,Manmade staple fibres,South-eastern Asia,Asia,2995892
-2000,2000,Import,Lebanon,55,Manmade staple fibres,Southern Europe,Europe,7086465
-2000,2000,Import,Lebanon,55,Manmade staple fibres,Sub-Saharan Africa,Africa,16910
-2000,2000,Import,Lebanon,55,Manmade staple fibres,Western Asia,Asia,3770712
-2000,2000,Import,Lebanon,55,Manmade staple fibres,Western Europe,Europe,4124183
-2000,2000,Import,Lebanon,55,Manmade staple fibres,World,World,45421970
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Lebanon,55,Manmade staple fibres,Eastern Asia,Asia,9967823,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2000,2000,Import,Lebanon,55,Manmade staple fibres,Eastern Europe,Europe,371004,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2000,2000,Import,Lebanon,55,Manmade staple fibres,Latin America and the Caribbean,Americas,86605,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2000,2000,Import,Lebanon,55,Manmade staple fibres,Northern Africa,Africa,1132120,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2000,2000,Import,Lebanon,55,Manmade staple fibres,Northern America,Americas,1006658,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2000,2000,Import,Lebanon,55,Manmade staple fibres,Northern Europe,Europe,224941,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Import,Lebanon,55,Manmade staple fibres,South-eastern Asia,Asia,2995892,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2000,2000,Import,Lebanon,55,Manmade staple fibres,Southern Europe,Europe,7086465,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Import,Lebanon,55,Manmade staple fibres,Sub-Saharan Africa,Africa,16910,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Import,Lebanon,55,Manmade staple fibres,Western Asia,Asia,3770712,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Import,Lebanon,55,Manmade staple fibres,Western Europe,Europe,4124183,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Import,Lebanon,55,Manmade staple fibres,World,World,45421970,33.8750629,35.843409,,

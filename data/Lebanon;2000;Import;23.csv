@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Australia and New Zealand,Oceania,110480
-2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Eastern Asia,Asia,69552
-2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Eastern Europe,Europe,206093
-2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Latin America and the Caribbean,Americas,12586338
-2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Northern America,Americas,8012242
-2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,2225774
-2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",South-eastern Asia,Asia,42509
-2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Southern Asia,Asia,16267
-2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,1066955
-2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Western Asia,Asia,2076327
-2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,3847864
-2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",World,World,30626155
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Australia and New Zealand,Oceania,110480,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Eastern Asia,Asia,69552,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Eastern Europe,Europe,206093,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Latin America and the Caribbean,Americas,12586338,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Northern America,Americas,8012242,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,2225774,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",South-eastern Asia,Asia,42509,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Southern Asia,Asia,16267,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,1066955,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Western Asia,Asia,2076327,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,3847864,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Import,Lebanon,23,"Residues, wastes of food industry, animal fodder",World,World,30626155,33.8750629,35.843409,,

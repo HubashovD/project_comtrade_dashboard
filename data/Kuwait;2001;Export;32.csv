@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Northern Africa,Africa,130
-2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Northern America,Americas,3994
-2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Northern Europe,Europe,23
-2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",South-eastern Asia,Asia,98
-2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Southern Asia,Asia,279835
-2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Sub-Saharan Africa,Africa,5217
-2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Western Asia,Asia,22363
-2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Western Europe,Europe,339
-2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",World,World,1651237
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Northern Africa,Africa,130,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Northern America,Americas,3994,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Northern Europe,Europe,23,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",South-eastern Asia,Asia,98,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Southern Asia,Asia,279835,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Sub-Saharan Africa,Africa,5217,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Western Asia,Asia,22363,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Western Europe,Europe,339,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2001,2001,Export,Kuwait,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",World,World,1651237,29.2733964,47.4979476,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Australia and New Zealand,Oceania,442454
-2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Central Asia,Asia,239747
-2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,9082
-2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,10118
-2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,75942
-2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,9692
-2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,2255
-2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Southern Asia,Asia,8756
-2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,119998
-2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Sub-Saharan Africa,Africa,134241
-2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,307102
-2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,206625
-2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,World,World,3167932
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Australia and New Zealand,Oceania,442454,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Central Asia,Asia,239747,33.8750629,35.843409,39.89317229901691,61.060280637304274
+2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,9082,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,10118,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,75942,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,9692,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,2255,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Southern Asia,Asia,8756,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,119998,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Sub-Saharan Africa,Africa,134241,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,307102,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,206625,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2017,2017,Import,Lebanon,5,Animal originated products; not elsewhere specified or included,World,World,3167932,33.8750629,35.843409,,

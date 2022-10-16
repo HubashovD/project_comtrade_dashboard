@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Israel,30,Pharmaceutical products,Australia and New Zealand,Oceania,2779000
-1998,1998,Import,Israel,30,Pharmaceutical products,Eastern Asia,Asia,1860000
-1998,1998,Import,Israel,30,Pharmaceutical products,Eastern Europe,Europe,330000
-1998,1998,Import,Israel,30,Pharmaceutical products,Latin America and the Caribbean,Americas,1220000
-1998,1998,Import,Israel,30,Pharmaceutical products,Northern Africa,Africa,13000
-1998,1998,Import,Israel,30,Pharmaceutical products,Northern America,Americas,65317000
-1998,1998,Import,Israel,30,Pharmaceutical products,Northern Europe,Europe,127583000
-1998,1998,Import,Israel,30,Pharmaceutical products,South-eastern Asia,Asia,8000
-1998,1998,Import,Israel,30,Pharmaceutical products,Southern Europe,Europe,5763000
-1998,1998,Import,Israel,30,Pharmaceutical products,Western Asia,Asia,397000
-1998,1998,Import,Israel,30,Pharmaceutical products,Western Europe,Europe,234226000
-1998,1998,Import,Israel,30,Pharmaceutical products,World,World,470151008
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Israel,30,Pharmaceutical products,Australia and New Zealand,Oceania,2779000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1998,1998,Import,Israel,30,Pharmaceutical products,Eastern Asia,Asia,1860000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1998,1998,Import,Israel,30,Pharmaceutical products,Eastern Europe,Europe,330000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1998,1998,Import,Israel,30,Pharmaceutical products,Latin America and the Caribbean,Americas,1220000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1998,1998,Import,Israel,30,Pharmaceutical products,Northern Africa,Africa,13000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1998,1998,Import,Israel,30,Pharmaceutical products,Northern America,Americas,65317000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1998,1998,Import,Israel,30,Pharmaceutical products,Northern Europe,Europe,127583000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1998,1998,Import,Israel,30,Pharmaceutical products,South-eastern Asia,Asia,8000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1998,1998,Import,Israel,30,Pharmaceutical products,Southern Europe,Europe,5763000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1998,1998,Import,Israel,30,Pharmaceutical products,Western Asia,Asia,397000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1998,1998,Import,Israel,30,Pharmaceutical products,Western Europe,Europe,234226000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1998,1998,Import,Israel,30,Pharmaceutical products,World,World,470151008,30.8124247,34.8594762,,

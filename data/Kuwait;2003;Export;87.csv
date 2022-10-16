@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,39894
-2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Central Asia,Asia,78056
-2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,2428104
-2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,695050
-2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Northern Africa,Africa,1200548
-2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Northern America,Americas,916223
-2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Northern Europe,Europe,1741498
-2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,2080130
-2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Southern Asia,Asia,1847110
-2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Southern Europe,Europe,214709
-2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Sub-Saharan Africa,Africa,329828
-2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Western Asia,Asia,3847264
-2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Western Europe,Europe,2087014
-2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",World,World,171364772
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,39894,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Central Asia,Asia,78056,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,2428104,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,695050,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Northern Africa,Africa,1200548,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Northern America,Americas,916223,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Northern Europe,Europe,1741498,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,2080130,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Southern Asia,Asia,1847110,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Southern Europe,Europe,214709,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Sub-Saharan Africa,Africa,329828,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Western Asia,Asia,3847264,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",Western Europe,Europe,2087014,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2003,2003,Export,Kuwait,87,"Vehicles other than railway, tramway",World,World,171364772,29.2733964,47.4979476,,

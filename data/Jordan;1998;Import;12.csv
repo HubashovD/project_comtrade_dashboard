@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Australia and New Zealand,Oceania,336460
-1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Eastern Asia,Asia,3800082
-1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Eastern Europe,Europe,3938029
-1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Latin America and the Caribbean,Americas,7665
-1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern Africa,Africa,418711
-1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern America,Americas,2096479
-1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern Europe,Europe,165946
-1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",South-eastern Asia,Asia,12708
-1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Southern Asia,Asia,1255133
-1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Southern Europe,Europe,320376
-1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Sub-Saharan Africa,Africa,841880
-1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Asia,Asia,308895
-1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Europe,Europe,5338562
-1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",World,World,33612680
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Australia and New Zealand,Oceania,336460,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Eastern Asia,Asia,3800082,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Eastern Europe,Europe,3938029,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Latin America and the Caribbean,Americas,7665,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern Africa,Africa,418711,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern America,Americas,2096479,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern Europe,Europe,165946,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",South-eastern Asia,Asia,12708,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Southern Asia,Asia,1255133,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Southern Europe,Europe,320376,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Sub-Saharan Africa,Africa,841880,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Asia,Asia,308895,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Europe,Europe,5338562,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1998,1998,Import,Jordan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",World,World,33612680,31.1667049,36.941628,,

@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Eastern Europe,Europe,50779
-1997,1997,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern America,Americas,5719
-1997,1997,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Western Asia,Asia,546830
-1997,1997,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Western Europe,Europe,2000
-1997,1997,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",World,World,605497
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Eastern Europe,Europe,50779,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1997,1997,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern America,Americas,5719,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1997,1997,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Western Asia,Asia,546830,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1997,1997,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Western Europe,Europe,2000,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1997,1997,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",World,World,605497,40.3936294,47.7872508,,

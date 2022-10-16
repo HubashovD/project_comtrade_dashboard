@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Jordan,1,Animals; live,Australia and New Zealand,Oceania,609669
-2016,2016,Import,Jordan,1,Animals; live,Central Asia,Asia,423
-2016,2016,Import,Jordan,1,Animals; live,Eastern Europe,Europe,176956254
-2016,2016,Import,Jordan,1,Animals; live,Latin America and the Caribbean,Americas,35196075
-2016,2016,Import,Jordan,1,Animals; live,Northern Africa,Africa,1338
-2016,2016,Import,Jordan,1,Animals; live,Northern America,Americas,48535
-2016,2016,Import,Jordan,1,Animals; live,Northern Europe,Europe,3507305
-2016,2016,Import,Jordan,1,Animals; live,South-eastern Asia,Asia,4225
-2016,2016,Import,Jordan,1,Animals; live,Southern Europe,Europe,21544
-2016,2016,Import,Jordan,1,Animals; live,Sub-Saharan Africa,Africa,299253
-2016,2016,Import,Jordan,1,Animals; live,Western Asia,Asia,103546
-2016,2016,Import,Jordan,1,Animals; live,Western Europe,Europe,4935651
-2016,2016,Import,Jordan,1,Animals; live,World,World,224611470
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Jordan,1,Animals; live,Australia and New Zealand,Oceania,609669,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2016,2016,Import,Jordan,1,Animals; live,Central Asia,Asia,423,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2016,2016,Import,Jordan,1,Animals; live,Eastern Europe,Europe,176956254,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2016,2016,Import,Jordan,1,Animals; live,Latin America and the Caribbean,Americas,35196075,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2016,2016,Import,Jordan,1,Animals; live,Northern Africa,Africa,1338,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2016,2016,Import,Jordan,1,Animals; live,Northern America,Americas,48535,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2016,2016,Import,Jordan,1,Animals; live,Northern Europe,Europe,3507305,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2016,2016,Import,Jordan,1,Animals; live,South-eastern Asia,Asia,4225,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2016,2016,Import,Jordan,1,Animals; live,Southern Europe,Europe,21544,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2016,2016,Import,Jordan,1,Animals; live,Sub-Saharan Africa,Africa,299253,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2016,2016,Import,Jordan,1,Animals; live,Western Asia,Asia,103546,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2016,2016,Import,Jordan,1,Animals; live,Western Europe,Europe,4935651,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2016,2016,Import,Jordan,1,Animals; live,World,World,224611470,31.1667049,36.941628,,

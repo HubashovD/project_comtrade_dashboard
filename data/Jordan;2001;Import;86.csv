@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Asia,Asia,31046
-2001,2001,Import,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,11947
-2001,2001,Import,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,6030
-2001,2001,Import,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,302076
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Asia,Asia,31046,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2001,2001,Import,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,11947,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2001,2001,Import,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,6030,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2001,2001,Import,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,302076,31.1667049,36.941628,,

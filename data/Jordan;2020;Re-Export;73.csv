@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Re-Export,Jordan,73,Iron or steel articles,Northern Africa,Africa,96558
-2020,2020,Re-Export,Jordan,73,Iron or steel articles,Northern America,Americas,55033
-2020,2020,Re-Export,Jordan,73,Iron or steel articles,Northern Europe,Europe,1338221
-2020,2020,Re-Export,Jordan,73,Iron or steel articles,South-eastern Asia,Asia,26128
-2020,2020,Re-Export,Jordan,73,Iron or steel articles,Southern Asia,Asia,4476
-2020,2020,Re-Export,Jordan,73,Iron or steel articles,Southern Europe,Europe,14084
-2020,2020,Re-Export,Jordan,73,Iron or steel articles,Western Asia,Asia,273418
-2020,2020,Re-Export,Jordan,73,Iron or steel articles,Western Europe,Europe,475950
-2020,2020,Re-Export,Jordan,73,Iron or steel articles,World,World,9778175
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Re-Export,Jordan,73,Iron or steel articles,Northern Africa,Africa,96558,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2020,2020,Re-Export,Jordan,73,Iron or steel articles,Northern America,Americas,55033,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2020,2020,Re-Export,Jordan,73,Iron or steel articles,Northern Europe,Europe,1338221,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2020,2020,Re-Export,Jordan,73,Iron or steel articles,South-eastern Asia,Asia,26128,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2020,2020,Re-Export,Jordan,73,Iron or steel articles,Southern Asia,Asia,4476,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2020,2020,Re-Export,Jordan,73,Iron or steel articles,Southern Europe,Europe,14084,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2020,2020,Re-Export,Jordan,73,Iron or steel articles,Western Asia,Asia,273418,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2020,2020,Re-Export,Jordan,73,Iron or steel articles,Western Europe,Europe,475950,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2020,2020,Re-Export,Jordan,73,Iron or steel articles,World,World,9778175,31.1667049,36.941628,,

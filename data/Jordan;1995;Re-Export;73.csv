@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Re-Export,Jordan,73,Articles of iron or steel,Eastern Asia,Asia,24940
-1995,1995,Re-Export,Jordan,73,Articles of iron or steel,Northern Africa,Africa,97624
-1995,1995,Re-Export,Jordan,73,Articles of iron or steel,Northern America,Americas,45606
-1995,1995,Re-Export,Jordan,73,Articles of iron or steel,Northern Europe,Europe,2850
-1995,1995,Re-Export,Jordan,73,Articles of iron or steel,Southern Europe,Europe,6413
-1995,1995,Re-Export,Jordan,73,Articles of iron or steel,Western Asia,Asia,131298
-1995,1995,Re-Export,Jordan,73,Articles of iron or steel,Western Europe,Europe,38479
-1995,1995,Re-Export,Jordan,73,Articles of iron or steel,World,World,4002716
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Re-Export,Jordan,73,Articles of iron or steel,Eastern Asia,Asia,24940,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1995,1995,Re-Export,Jordan,73,Articles of iron or steel,Northern Africa,Africa,97624,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1995,1995,Re-Export,Jordan,73,Articles of iron or steel,Northern America,Americas,45606,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1995,1995,Re-Export,Jordan,73,Articles of iron or steel,Northern Europe,Europe,2850,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1995,1995,Re-Export,Jordan,73,Articles of iron or steel,Southern Europe,Europe,6413,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Re-Export,Jordan,73,Articles of iron or steel,Western Asia,Asia,131298,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1995,1995,Re-Export,Jordan,73,Articles of iron or steel,Western Europe,Europe,38479,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Re-Export,Jordan,73,Articles of iron or steel,World,World,4002716,31.1667049,36.941628,,

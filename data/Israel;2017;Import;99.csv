@@ -1,19 +1,19 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,2159000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Central Asia,Asia,88000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Eastern Asia,Asia,47067000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Eastern Europe,Europe,10512000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,1548000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Melanesia,Oceania,1000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Micronesia,Oceania,5000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Northern Africa,Africa,75000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Northern America,Americas,149920000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Northern Europe,Europe,129348000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Polynesia,Oceania,2000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,South-eastern Asia,Asia,9124000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Southern Asia,Asia,93000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Southern Europe,Europe,59470000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,601000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Western Asia,Asia,7945000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,Western Europe,Europe,116035000
-2017,2017,Import,Israel,99,Commodities not specified according to kind,World,World,538245000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,2159000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Central Asia,Asia,88000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Eastern Asia,Asia,47067000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Eastern Europe,Europe,10512000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,1548000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Melanesia,Oceania,1000,30.8124247,34.8594762,1.0108650891006263,147.3257485906919
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Micronesia,Oceania,5000,30.8124247,34.8594762,6.418559504495792,157.6364476938912
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Northern Africa,Africa,75000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Northern America,Americas,149920000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Northern Europe,Europe,129348000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Polynesia,Oceania,2000,30.8124247,34.8594762,-5.109184731250752,167.40343615892436
+2017,2017,Import,Israel,99,Commodities not specified according to kind,South-eastern Asia,Asia,9124000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Southern Asia,Asia,93000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Southern Europe,Europe,59470000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,601000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Western Asia,Asia,7945000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2017,2017,Import,Israel,99,Commodities not specified according to kind,Western Europe,Europe,116035000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2017,2017,Import,Israel,99,Commodities not specified according to kind,World,World,538245000,30.8124247,34.8594762,,

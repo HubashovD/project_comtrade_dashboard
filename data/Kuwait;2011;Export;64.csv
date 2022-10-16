@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Northern Africa,Africa,80077
-2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Northern America,Americas,63281
-2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Northern Europe,Europe,4769
-2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Southern Asia,Asia,44035
-2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Southern Europe,Europe,208541
-2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Sub-Saharan Africa,Africa,13114
-2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Western Asia,Asia,2232
-2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Western Europe,Europe,141825
-2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",World,World,2958751
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Northern Africa,Africa,80077,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Northern America,Americas,63281,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Northern Europe,Europe,4769,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Southern Asia,Asia,44035,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Southern Europe,Europe,208541,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Sub-Saharan Africa,Africa,13114,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Western Asia,Asia,2232,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",Western Europe,Europe,141825,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2011,2011,Export,Kuwait,64,"Footwear, gaiters and the like; parts of such articles",World,World,2958751,29.2733964,47.4979476,,

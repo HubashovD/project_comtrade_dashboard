@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Central Asia,Asia,198560
-2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,24803
-2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,22200
-2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,2030
-2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Northern Europe,Europe,3412
-2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,42065
-2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Southern Asia,Asia,4213707
-2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Southern Europe,Europe,16570
-2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,100
-2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Western Asia,Asia,493357
-2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Western Europe,Europe,27508
-2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",World,World,6697673
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Central Asia,Asia,198560,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,24803,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,22200,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,2030,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Northern Europe,Europe,3412,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,42065,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Southern Asia,Asia,4213707,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Southern Europe,Europe,16570,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,100,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Western Asia,Asia,493357,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Western Europe,Europe,27508,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Import,Azerbaijan,9,"Coffee, tea, mate and spices",World,World,6697673,40.3936294,47.7872508,,

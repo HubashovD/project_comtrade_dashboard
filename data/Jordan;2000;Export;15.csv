@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Eastern Europe,Europe,24323
-2000,2000,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern Africa,Africa,85501
-2000,2000,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern America,Americas,153616
-2000,2000,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Southern Europe,Europe,2016
-2000,2000,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Sub-Saharan Africa,Africa,119887
-2000,2000,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Asia,Asia,83923
-2000,2000,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",World,World,62910076
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Eastern Europe,Europe,24323,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern Africa,Africa,85501,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern America,Americas,153616,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Southern Europe,Europe,2016,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2000,2000,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Sub-Saharan Africa,Africa,119887,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2000,2000,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Asia,Asia,83923,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Export,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",World,World,62910076,31.1667049,36.941628,,

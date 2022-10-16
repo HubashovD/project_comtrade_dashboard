@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Jordan,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,11037
-1994,1994,Import,Jordan,76,Aluminium and articles thereof,Eastern Asia,Asia,370761
-1994,1994,Import,Jordan,76,Aluminium and articles thereof,Eastern Europe,Europe,474814
-1994,1994,Import,Jordan,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,741666
-1994,1994,Import,Jordan,76,Aluminium and articles thereof,Northern Africa,Africa,7916305
-1994,1994,Import,Jordan,76,Aluminium and articles thereof,Northern America,Americas,2574855
-1994,1994,Import,Jordan,76,Aluminium and articles thereof,Northern Europe,Europe,508231
-1994,1994,Import,Jordan,76,Aluminium and articles thereof,South-eastern Asia,Asia,48153
-1994,1994,Import,Jordan,76,Aluminium and articles thereof,Southern Asia,Asia,89605
-1994,1994,Import,Jordan,76,Aluminium and articles thereof,Southern Europe,Europe,8621667
-1994,1994,Import,Jordan,76,Aluminium and articles thereof,Western Asia,Asia,1128818
-1994,1994,Import,Jordan,76,Aluminium and articles thereof,Western Europe,Europe,3021550
-1994,1994,Import,Jordan,76,Aluminium and articles thereof,World,World,35951700
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Jordan,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,11037,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1994,1994,Import,Jordan,76,Aluminium and articles thereof,Eastern Asia,Asia,370761,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1994,1994,Import,Jordan,76,Aluminium and articles thereof,Eastern Europe,Europe,474814,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1994,1994,Import,Jordan,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,741666,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1994,1994,Import,Jordan,76,Aluminium and articles thereof,Northern Africa,Africa,7916305,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1994,1994,Import,Jordan,76,Aluminium and articles thereof,Northern America,Americas,2574855,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1994,1994,Import,Jordan,76,Aluminium and articles thereof,Northern Europe,Europe,508231,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Import,Jordan,76,Aluminium and articles thereof,South-eastern Asia,Asia,48153,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1994,1994,Import,Jordan,76,Aluminium and articles thereof,Southern Asia,Asia,89605,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1994,1994,Import,Jordan,76,Aluminium and articles thereof,Southern Europe,Europe,8621667,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1994,1994,Import,Jordan,76,Aluminium and articles thereof,Western Asia,Asia,1128818,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1994,1994,Import,Jordan,76,Aluminium and articles thereof,Western Europe,Europe,3021550,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1994,1994,Import,Jordan,76,Aluminium and articles thereof,World,World,35951700,31.1667049,36.941628,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Re-Export,Kuwait,70,Glass and glassware,Australia and New Zealand,Oceania,2189
-2006,2006,Re-Export,Kuwait,70,Glass and glassware,Eastern Asia,Asia,197457
-2006,2006,Re-Export,Kuwait,70,Glass and glassware,Eastern Europe,Europe,4442
-2006,2006,Re-Export,Kuwait,70,Glass and glassware,Melanesia,Oceania,69
-2006,2006,Re-Export,Kuwait,70,Glass and glassware,Northern Africa,Africa,23684
-2006,2006,Re-Export,Kuwait,70,Glass and glassware,Northern America,Americas,723
-2006,2006,Re-Export,Kuwait,70,Glass and glassware,Northern Europe,Europe,1878
-2006,2006,Re-Export,Kuwait,70,Glass and glassware,South-eastern Asia,Asia,79313
-2006,2006,Re-Export,Kuwait,70,Glass and glassware,Southern Asia,Asia,27886
-2006,2006,Re-Export,Kuwait,70,Glass and glassware,Southern Europe,Europe,517
-2006,2006,Re-Export,Kuwait,70,Glass and glassware,Sub-Saharan Africa,Africa,100
-2006,2006,Re-Export,Kuwait,70,Glass and glassware,Western Asia,Asia,7334
-2006,2006,Re-Export,Kuwait,70,Glass and glassware,Western Europe,Europe,2526
-2006,2006,Re-Export,Kuwait,70,Glass and glassware,World,World,1261819
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Re-Export,Kuwait,70,Glass and glassware,Australia and New Zealand,Oceania,2189,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2006,2006,Re-Export,Kuwait,70,Glass and glassware,Eastern Asia,Asia,197457,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2006,2006,Re-Export,Kuwait,70,Glass and glassware,Eastern Europe,Europe,4442,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2006,2006,Re-Export,Kuwait,70,Glass and glassware,Melanesia,Oceania,69,29.2733964,47.4979476,1.0108650891006263,147.3257485906919
+2006,2006,Re-Export,Kuwait,70,Glass and glassware,Northern Africa,Africa,23684,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2006,2006,Re-Export,Kuwait,70,Glass and glassware,Northern America,Americas,723,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2006,2006,Re-Export,Kuwait,70,Glass and glassware,Northern Europe,Europe,1878,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2006,2006,Re-Export,Kuwait,70,Glass and glassware,South-eastern Asia,Asia,79313,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2006,2006,Re-Export,Kuwait,70,Glass and glassware,Southern Asia,Asia,27886,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2006,2006,Re-Export,Kuwait,70,Glass and glassware,Southern Europe,Europe,517,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2006,2006,Re-Export,Kuwait,70,Glass and glassware,Sub-Saharan Africa,Africa,100,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2006,2006,Re-Export,Kuwait,70,Glass and glassware,Western Asia,Asia,7334,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2006,2006,Re-Export,Kuwait,70,Glass and glassware,Western Europe,Europe,2526,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2006,2006,Re-Export,Kuwait,70,Glass and glassware,World,World,1261819,29.2733964,47.4979476,,

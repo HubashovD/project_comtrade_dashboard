@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Central Asia,Asia,627
-2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Eastern Asia,Asia,36991
-2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Eastern Europe,Europe,31736639
-2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Latin America and the Caribbean,Americas,152600
-2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Northern America,Americas,24462
-2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Northern Europe,Europe,129722
-2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Southern Europe,Europe,18704
-2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Western Asia,Asia,31120
-2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Western Europe,Europe,1024602
-2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",World,World,34013100
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Central Asia,Asia,627,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Eastern Asia,Asia,36991,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Eastern Europe,Europe,31736639,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Latin America and the Caribbean,Americas,152600,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Northern America,Americas,24462,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Northern Europe,Europe,129722,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Southern Europe,Europe,18704,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Western Asia,Asia,31120,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Western Europe,Europe,1024602,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2008,2008,Import,Georgia,86,"Railway or tramway locomotives, rolling-stock and parts thereof",World,World,34013100,32.3293809,-83.1137366,,

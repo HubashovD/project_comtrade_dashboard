@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Australia and New Zealand,Oceania,43587
-2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Eastern Asia,Asia,125739
-2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Eastern Europe,Europe,131713
-2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,53965
-2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Northern Africa,Africa,1537977
-2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Northern America,Americas,471045
-2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Northern Europe,Europe,47659
-2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Polynesia,Oceania,4504
-2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Southern Asia,Asia,34957
-2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Southern Europe,Europe,140847
-2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,1624160
-2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Western Asia,Asia,536201
-2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Western Europe,Europe,75350
-2020,2020,Export,Lebanon,38,Chemical products n.e.c.,World,World,14244119
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Australia and New Zealand,Oceania,43587,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Eastern Asia,Asia,125739,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Eastern Europe,Europe,131713,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,53965,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Northern Africa,Africa,1537977,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Northern America,Americas,471045,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Northern Europe,Europe,47659,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Polynesia,Oceania,4504,33.8750629,35.843409,-5.109184731250752,167.40343615892436
+2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Southern Asia,Asia,34957,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Southern Europe,Europe,140847,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,1624160,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Western Asia,Asia,536201,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2020,2020,Export,Lebanon,38,Chemical products n.e.c.,Western Europe,Europe,75350,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2020,2020,Export,Lebanon,38,Chemical products n.e.c.,World,World,14244119,33.8750629,35.843409,,

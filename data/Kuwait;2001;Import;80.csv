@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Kuwait,80,Tin and articles thereof,Eastern Asia,Asia,22530
-2001,2001,Import,Kuwait,80,Tin and articles thereof,Northern America,Americas,5208
-2001,2001,Import,Kuwait,80,Tin and articles thereof,Northern Europe,Europe,7057
-2001,2001,Import,Kuwait,80,Tin and articles thereof,Southern Europe,Europe,421
-2001,2001,Import,Kuwait,80,Tin and articles thereof,Western Europe,Europe,4076
-2001,2001,Import,Kuwait,80,Tin and articles thereof,World,World,47186
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Kuwait,80,Tin and articles thereof,Eastern Asia,Asia,22530,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2001,2001,Import,Kuwait,80,Tin and articles thereof,Northern America,Americas,5208,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2001,2001,Import,Kuwait,80,Tin and articles thereof,Northern Europe,Europe,7057,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2001,2001,Import,Kuwait,80,Tin and articles thereof,Southern Europe,Europe,421,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2001,2001,Import,Kuwait,80,Tin and articles thereof,Western Europe,Europe,4076,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2001,2001,Import,Kuwait,80,Tin and articles thereof,World,World,47186,29.2733964,47.4979476,,

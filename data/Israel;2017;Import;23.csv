@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Australia and New Zealand,Oceania,60000
-2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Eastern Asia,Asia,7612000
-2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Eastern Europe,Europe,39166000
-2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Latin America and the Caribbean,Americas,1797000
-2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Northern Africa,Africa,427000
-2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Northern America,Americas,71589000
-2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Northern Europe,Europe,43405000
-2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",South-eastern Asia,Asia,2519000
-2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Southern Europe,Europe,30496000
-2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Sub-Saharan Africa,Africa,865000
-2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Western Asia,Asia,2325000
-2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Western Europe,Europe,186546000
-2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",World,World,391272000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Australia and New Zealand,Oceania,60000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Eastern Asia,Asia,7612000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Eastern Europe,Europe,39166000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Latin America and the Caribbean,Americas,1797000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Northern Africa,Africa,427000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Northern America,Americas,71589000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Northern Europe,Europe,43405000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",South-eastern Asia,Asia,2519000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Southern Europe,Europe,30496000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Sub-Saharan Africa,Africa,865000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Western Asia,Asia,2325000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",Western Europe,Europe,186546000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2017,2017,Import,Israel,23,"Food industries, residues and wastes thereof; prepared animal fodder",World,World,391272000,30.8124247,34.8594762,,

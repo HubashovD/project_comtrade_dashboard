@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Lebanon,1,Live animals,Australia and New Zealand,Oceania,4766219
-1999,1999,Import,Lebanon,1,Live animals,Eastern Europe,Europe,8743027
-1999,1999,Import,Lebanon,1,Live animals,Latin America and the Caribbean,Americas,26259
-1999,1999,Import,Lebanon,1,Live animals,Northern Africa,Africa,4011
-1999,1999,Import,Lebanon,1,Live animals,Northern America,Americas,4755796
-1999,1999,Import,Lebanon,1,Live animals,Northern Europe,Europe,43906326
-1999,1999,Import,Lebanon,1,Live animals,Southern Europe,Europe,2759671
-1999,1999,Import,Lebanon,1,Live animals,Sub-Saharan Africa,Africa,117450
-1999,1999,Import,Lebanon,1,Live animals,Western Asia,Asia,345954
-1999,1999,Import,Lebanon,1,Live animals,Western Europe,Europe,63628795
-1999,1999,Import,Lebanon,1,Live animals,World,World,129310280
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Lebanon,1,Live animals,Australia and New Zealand,Oceania,4766219,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+1999,1999,Import,Lebanon,1,Live animals,Eastern Europe,Europe,8743027,33.8750629,35.843409,51.67568633314729,27.673469819741847
+1999,1999,Import,Lebanon,1,Live animals,Latin America and the Caribbean,Americas,26259,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+1999,1999,Import,Lebanon,1,Live animals,Northern Africa,Africa,4011,33.8750629,35.843409,19.569604022535763,12.47761721199581
+1999,1999,Import,Lebanon,1,Live animals,Northern America,Americas,4755796,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1999,1999,Import,Lebanon,1,Live animals,Northern Europe,Europe,43906326,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1999,1999,Import,Lebanon,1,Live animals,Southern Europe,Europe,2759671,33.8750629,35.843409,40.12399607988535,20.742583178432696
+1999,1999,Import,Lebanon,1,Live animals,Sub-Saharan Africa,Africa,117450,33.8750629,35.843409,6.06272746187266,22.727528470146083
+1999,1999,Import,Lebanon,1,Live animals,Western Asia,Asia,345954,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1999,1999,Import,Lebanon,1,Live animals,Western Europe,Europe,63628795,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1999,1999,Import,Lebanon,1,Live animals,World,World,129310280,33.8750629,35.843409,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Australia and New Zealand,Oceania,103
-2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Eastern Asia,Asia,4956350
-2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Eastern Europe,Europe,219853
-2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Latin America and the Caribbean,Americas,395520
-2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Northern Africa,Africa,610919
-2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Northern America,Americas,2917423
-2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Northern Europe,Europe,2759211
-2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,South-eastern Asia,Asia,1172932
-2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Southern Asia,Asia,1659
-2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Southern Europe,Europe,8939665
-2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Sub-Saharan Africa,Africa,180038
-2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Western Asia,Asia,1201939
-2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Western Europe,Europe,12489476
-2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,World,World,42113830
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Australia and New Zealand,Oceania,103,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Eastern Asia,Asia,4956350,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Eastern Europe,Europe,219853,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Latin America and the Caribbean,Americas,395520,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Northern Africa,Africa,610919,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Northern America,Americas,2917423,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Northern Europe,Europe,2759211,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,South-eastern Asia,Asia,1172932,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Southern Asia,Asia,1659,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Southern Europe,Europe,8939665,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Sub-Saharan Africa,Africa,180038,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Western Asia,Asia,1201939,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,Western Europe,Europe,12489476,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2006,2006,Import,Lebanon,32,Tanning or dyeing extracts,World,World,42113830,33.8750629,35.843409,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Eastern Asia,Asia,388188
-2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Eastern Europe,Europe,58787
-2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Latin America and the Caribbean,Americas,9120
-2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern Africa,Africa,23986
-2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern America,Americas,657785
-2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern Europe,Europe,265847
-2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",South-eastern Asia,Asia,35304
-2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Southern Asia,Asia,6518
-2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Southern Europe,Europe,4383389
-2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Sub-Saharan Africa,Africa,36510
-2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Western Asia,Asia,567052
-2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Western Europe,Europe,608782
-2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",World,World,12031110
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Eastern Asia,Asia,388188,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Eastern Europe,Europe,58787,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Latin America and the Caribbean,Americas,9120,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern Africa,Africa,23986,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern America,Americas,657785,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Northern Europe,Europe,265847,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",South-eastern Asia,Asia,35304,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Southern Asia,Asia,6518,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Southern Europe,Europe,4383389,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Sub-Saharan Africa,Africa,36510,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Western Asia,Asia,567052,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",Western Europe,Europe,608782,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2001,2001,Import,Jordan,68,"Stone, plaster, cement, asbestos, mica, etc articles",World,World,12031110,31.1667049,36.941628,,

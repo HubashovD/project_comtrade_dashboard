@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Central Asia,Asia,67229
-2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Eastern Asia,Asia,10215
-2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Eastern Europe,Europe,140540
-2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Latin America and the Caribbean,Americas,1182264
-2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Northern America,Americas,65900
-2003,2003,Import,Azerbaijan,55,Manmade staple fibres,South-eastern Asia,Asia,10
-2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Southern Asia,Asia,13860
-2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Western Asia,Asia,137098
-2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Western Europe,Europe,1689196
-2003,2003,Import,Azerbaijan,55,Manmade staple fibres,World,World,3337074
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Central Asia,Asia,67229,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Eastern Asia,Asia,10215,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Eastern Europe,Europe,140540,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Latin America and the Caribbean,Americas,1182264,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Northern America,Americas,65900,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2003,2003,Import,Azerbaijan,55,Manmade staple fibres,South-eastern Asia,Asia,10,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Southern Asia,Asia,13860,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Western Asia,Asia,137098,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2003,2003,Import,Azerbaijan,55,Manmade staple fibres,Western Europe,Europe,1689196,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2003,2003,Import,Azerbaijan,55,Manmade staple fibres,World,World,3337074,40.3936294,47.7872508,,

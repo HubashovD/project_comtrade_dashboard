@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Central Asia,Asia,255229
-2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Eastern Europe,Europe,109563
-2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Northern America,Americas,607
-2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Northern Europe,Europe,633
-2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Southern Europe,Europe,316
-2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Sub-Saharan Africa,Africa,185
-2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Western Asia,Asia,261878
-2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Western Europe,Europe,2665
-2005,2005,Import,Azerbaijan,78,Lead and articles thereof,World,World,631272
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Central Asia,Asia,255229,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Eastern Europe,Europe,109563,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Northern America,Americas,607,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Northern Europe,Europe,633,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Southern Europe,Europe,316,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Sub-Saharan Africa,Africa,185,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Western Asia,Asia,261878,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2005,2005,Import,Azerbaijan,78,Lead and articles thereof,Western Europe,Europe,2665,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2005,2005,Import,Azerbaijan,78,Lead and articles thereof,World,World,631272,40.3936294,47.7872508,,

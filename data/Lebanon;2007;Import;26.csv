@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Lebanon,26,"Ores, slag and ash",Eastern Asia,Asia,20703
-2007,2007,Import,Lebanon,26,"Ores, slag and ash",Eastern Europe,Europe,20292
-2007,2007,Import,Lebanon,26,"Ores, slag and ash",Northern America,Americas,19199
-2007,2007,Import,Lebanon,26,"Ores, slag and ash",Southern Europe,Europe,9220
-2007,2007,Import,Lebanon,26,"Ores, slag and ash",Western Asia,Asia,1073441
-2007,2007,Import,Lebanon,26,"Ores, slag and ash",Western Europe,Europe,460218
-2007,2007,Import,Lebanon,26,"Ores, slag and ash",World,World,1608474
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Lebanon,26,"Ores, slag and ash",Eastern Asia,Asia,20703,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2007,2007,Import,Lebanon,26,"Ores, slag and ash",Eastern Europe,Europe,20292,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2007,2007,Import,Lebanon,26,"Ores, slag and ash",Northern America,Americas,19199,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2007,2007,Import,Lebanon,26,"Ores, slag and ash",Southern Europe,Europe,9220,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2007,2007,Import,Lebanon,26,"Ores, slag and ash",Western Asia,Asia,1073441,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2007,2007,Import,Lebanon,26,"Ores, slag and ash",Western Europe,Europe,460218,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2007,2007,Import,Lebanon,26,"Ores, slag and ash",World,World,1608474,33.8750629,35.843409,,

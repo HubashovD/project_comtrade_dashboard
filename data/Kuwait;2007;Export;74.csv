@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Export,Kuwait,74,Copper and articles thereof,Eastern Asia,Asia,4069829
-2007,2007,Export,Kuwait,74,Copper and articles thereof,Northern Europe,Europe,18
-2007,2007,Export,Kuwait,74,Copper and articles thereof,Southern Asia,Asia,7
-2007,2007,Export,Kuwait,74,Copper and articles thereof,Southern Europe,Europe,122385
-2007,2007,Export,Kuwait,74,Copper and articles thereof,Western Asia,Asia,176
-2007,2007,Export,Kuwait,74,Copper and articles thereof,Western Europe,Europe,321
-2007,2007,Export,Kuwait,74,Copper and articles thereof,World,World,17320479
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Export,Kuwait,74,Copper and articles thereof,Eastern Asia,Asia,4069829,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2007,2007,Export,Kuwait,74,Copper and articles thereof,Northern Europe,Europe,18,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2007,2007,Export,Kuwait,74,Copper and articles thereof,Southern Asia,Asia,7,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2007,2007,Export,Kuwait,74,Copper and articles thereof,Southern Europe,Europe,122385,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2007,2007,Export,Kuwait,74,Copper and articles thereof,Western Asia,Asia,176,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2007,2007,Export,Kuwait,74,Copper and articles thereof,Western Europe,Europe,321,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2007,2007,Export,Kuwait,74,Copper and articles thereof,World,World,17320479,29.2733964,47.4979476,,

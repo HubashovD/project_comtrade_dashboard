@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Re-Export,Lebanon,74,Copper and articles thereof,Eastern Asia,Asia,10
-2021,2021,Re-Export,Lebanon,74,Copper and articles thereof,Eastern Europe,Europe,900
-2021,2021,Re-Export,Lebanon,74,Copper and articles thereof,Northern America,Americas,1428
-2021,2021,Re-Export,Lebanon,74,Copper and articles thereof,South-eastern Asia,Asia,630
-2021,2021,Re-Export,Lebanon,74,Copper and articles thereof,Western Asia,Asia,300
-2021,2021,Re-Export,Lebanon,74,Copper and articles thereof,Western Europe,Europe,8062
-2021,2021,Re-Export,Lebanon,74,Copper and articles thereof,World,World,24765
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Re-Export,Lebanon,74,Copper and articles thereof,Eastern Asia,Asia,10,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2021,2021,Re-Export,Lebanon,74,Copper and articles thereof,Eastern Europe,Europe,900,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2021,2021,Re-Export,Lebanon,74,Copper and articles thereof,Northern America,Americas,1428,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2021,2021,Re-Export,Lebanon,74,Copper and articles thereof,South-eastern Asia,Asia,630,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2021,2021,Re-Export,Lebanon,74,Copper and articles thereof,Western Asia,Asia,300,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2021,2021,Re-Export,Lebanon,74,Copper and articles thereof,Western Europe,Europe,8062,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2021,2021,Re-Export,Lebanon,74,Copper and articles thereof,World,World,24765,33.8750629,35.843409,,

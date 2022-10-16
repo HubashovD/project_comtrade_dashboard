@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Kuwait,73,Articles of iron or steel,Australia and New Zealand,Oceania,2728295
-2008,2008,Import,Kuwait,73,Articles of iron or steel,Central Asia,Asia,23576
-2008,2008,Import,Kuwait,73,Articles of iron or steel,Eastern Asia,Asia,429025371
-2008,2008,Import,Kuwait,73,Articles of iron or steel,Eastern Europe,Europe,65928750
-2008,2008,Import,Kuwait,73,Articles of iron or steel,Latin America and the Caribbean,Americas,147289609
-2008,2008,Import,Kuwait,73,Articles of iron or steel,Northern America,Americas,75265394
-2008,2008,Import,Kuwait,73,Articles of iron or steel,Northern Europe,Europe,37307183
-2008,2008,Import,Kuwait,73,Articles of iron or steel,South-eastern Asia,Asia,53961077
-2008,2008,Import,Kuwait,73,Articles of iron or steel,Southern Asia,Asia,897548
-2008,2008,Import,Kuwait,73,Articles of iron or steel,Southern Europe,Europe,112970355
-2008,2008,Import,Kuwait,73,Articles of iron or steel,Sub-Saharan Africa,Africa,3323672
-2008,2008,Import,Kuwait,73,Articles of iron or steel,Western Asia,Asia,25015964
-2008,2008,Import,Kuwait,73,Articles of iron or steel,Western Europe,Europe,175918630
-2008,2008,Import,Kuwait,73,Articles of iron or steel,World,World,1421725258
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Kuwait,73,Articles of iron or steel,Australia and New Zealand,Oceania,2728295,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2008,2008,Import,Kuwait,73,Articles of iron or steel,Central Asia,Asia,23576,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2008,2008,Import,Kuwait,73,Articles of iron or steel,Eastern Asia,Asia,429025371,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2008,2008,Import,Kuwait,73,Articles of iron or steel,Eastern Europe,Europe,65928750,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2008,2008,Import,Kuwait,73,Articles of iron or steel,Latin America and the Caribbean,Americas,147289609,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2008,2008,Import,Kuwait,73,Articles of iron or steel,Northern America,Americas,75265394,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2008,2008,Import,Kuwait,73,Articles of iron or steel,Northern Europe,Europe,37307183,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2008,2008,Import,Kuwait,73,Articles of iron or steel,South-eastern Asia,Asia,53961077,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2008,2008,Import,Kuwait,73,Articles of iron or steel,Southern Asia,Asia,897548,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2008,2008,Import,Kuwait,73,Articles of iron or steel,Southern Europe,Europe,112970355,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2008,2008,Import,Kuwait,73,Articles of iron or steel,Sub-Saharan Africa,Africa,3323672,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2008,2008,Import,Kuwait,73,Articles of iron or steel,Western Asia,Asia,25015964,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2008,2008,Import,Kuwait,73,Articles of iron or steel,Western Europe,Europe,175918630,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Import,Kuwait,73,Articles of iron or steel,World,World,1421725258,29.2733964,47.4979476,,

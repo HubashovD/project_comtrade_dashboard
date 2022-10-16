@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Israel,26,"Ores, slag and ash",Australia and New Zealand,Oceania,31000
-2015,2015,Import,Israel,26,"Ores, slag and ash",Eastern Asia,Asia,92000
-2015,2015,Import,Israel,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,902000
-2015,2015,Import,Israel,26,"Ores, slag and ash",Northern America,Americas,293000
-2015,2015,Import,Israel,26,"Ores, slag and ash",Northern Europe,Europe,373000
-2015,2015,Import,Israel,26,"Ores, slag and ash",Southern Europe,Europe,4890000
-2015,2015,Import,Israel,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,1354000
-2015,2015,Import,Israel,26,"Ores, slag and ash",Western Asia,Asia,12000
-2015,2015,Import,Israel,26,"Ores, slag and ash",Western Europe,Europe,360000
-2015,2015,Import,Israel,26,"Ores, slag and ash",World,World,8340000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Israel,26,"Ores, slag and ash",Australia and New Zealand,Oceania,31000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2015,2015,Import,Israel,26,"Ores, slag and ash",Eastern Asia,Asia,92000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2015,2015,Import,Israel,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,902000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2015,2015,Import,Israel,26,"Ores, slag and ash",Northern America,Americas,293000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2015,2015,Import,Israel,26,"Ores, slag and ash",Northern Europe,Europe,373000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2015,2015,Import,Israel,26,"Ores, slag and ash",Southern Europe,Europe,4890000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2015,2015,Import,Israel,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,1354000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2015,2015,Import,Israel,26,"Ores, slag and ash",Western Asia,Asia,12000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2015,2015,Import,Israel,26,"Ores, slag and ash",Western Europe,Europe,360000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2015,2015,Import,Israel,26,"Ores, slag and ash",World,World,8340000,30.8124247,34.8594762,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,4756
-1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Central Asia,Asia,262095
-1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Eastern Asia,Asia,395469
-1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Eastern Europe,Europe,441881
-1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Northern America,Americas,2553893
-1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Northern Europe,Europe,2323297
-1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",South-eastern Asia,Asia,659
-1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Southern Asia,Asia,2926656
-1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Southern Europe,Europe,10020
-1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Western Asia,Asia,122052
-1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Western Europe,Europe,620469
-1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",World,World,10068886
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,4756,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Central Asia,Asia,262095,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Eastern Asia,Asia,395469,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Eastern Europe,Europe,441881,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Northern America,Americas,2553893,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Northern Europe,Europe,2323297,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",South-eastern Asia,Asia,659,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Southern Asia,Asia,2926656,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Southern Europe,Europe,10020,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Western Asia,Asia,122052,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",Western Europe,Europe,620469,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1999,1999,Export,Azerbaijan,85,"Electrical, electronic equipment",World,World,10068886,40.3936294,47.7872508,,

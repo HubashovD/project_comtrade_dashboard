@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Eastern Asia,Asia,6255845
-2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Eastern Europe,Europe,460
-2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Latin America and the Caribbean,Americas,17076
-2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Northern Africa,Africa,4002
-2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Northern America,Americas,316170
-2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Northern Europe,Europe,15938
-2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,South-eastern Asia,Asia,54062
-2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Southern Asia,Asia,97
-2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Southern Europe,Europe,219189
-2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Western Asia,Asia,24370
-2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Western Europe,Europe,9096301
-2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,World,World,16042158
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Eastern Asia,Asia,6255845,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Eastern Europe,Europe,460,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Latin America and the Caribbean,Americas,17076,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Northern Africa,Africa,4002,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Northern America,Americas,316170,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Northern Europe,Europe,15938,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,South-eastern Asia,Asia,54062,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Southern Asia,Asia,97,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Southern Europe,Europe,219189,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Western Asia,Asia,24370,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,Western Europe,Europe,9096301,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2017,2017,Import,Jordan,91,Clocks and watches and parts thereof,World,World,16042158,31.1667049,36.941628,,

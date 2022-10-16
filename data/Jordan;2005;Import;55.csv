@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Jordan,55,Man-made staple fibers,Eastern Asia,Asia,19454153
-2005,2005,Import,Jordan,55,Man-made staple fibers,Eastern Europe,Europe,73863
-2005,2005,Import,Jordan,55,Man-made staple fibers,Latin America and the Caribbean,Americas,1476869
-2005,2005,Import,Jordan,55,Man-made staple fibers,Northern Africa,Africa,549073
-2005,2005,Import,Jordan,55,Man-made staple fibers,Northern America,Americas,1452697
-2005,2005,Import,Jordan,55,Man-made staple fibers,Northern Europe,Europe,6379871
-2005,2005,Import,Jordan,55,Man-made staple fibers,South-eastern Asia,Asia,1690608
-2005,2005,Import,Jordan,55,Man-made staple fibers,Southern Asia,Asia,22189
-2005,2005,Import,Jordan,55,Man-made staple fibers,Southern Europe,Europe,1104498
-2005,2005,Import,Jordan,55,Man-made staple fibers,Western Asia,Asia,4321236
-2005,2005,Import,Jordan,55,Man-made staple fibers,Western Europe,Europe,1488273
-2005,2005,Import,Jordan,55,Man-made staple fibers,World,World,49742250
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Jordan,55,Man-made staple fibers,Eastern Asia,Asia,19454153,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2005,2005,Import,Jordan,55,Man-made staple fibers,Eastern Europe,Europe,73863,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2005,2005,Import,Jordan,55,Man-made staple fibers,Latin America and the Caribbean,Americas,1476869,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2005,2005,Import,Jordan,55,Man-made staple fibers,Northern Africa,Africa,549073,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2005,2005,Import,Jordan,55,Man-made staple fibers,Northern America,Americas,1452697,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2005,2005,Import,Jordan,55,Man-made staple fibers,Northern Europe,Europe,6379871,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2005,2005,Import,Jordan,55,Man-made staple fibers,South-eastern Asia,Asia,1690608,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2005,2005,Import,Jordan,55,Man-made staple fibers,Southern Asia,Asia,22189,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2005,2005,Import,Jordan,55,Man-made staple fibers,Southern Europe,Europe,1104498,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2005,2005,Import,Jordan,55,Man-made staple fibers,Western Asia,Asia,4321236,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2005,2005,Import,Jordan,55,Man-made staple fibers,Western Europe,Europe,1488273,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2005,2005,Import,Jordan,55,Man-made staple fibers,World,World,49742250,31.1667049,36.941628,,

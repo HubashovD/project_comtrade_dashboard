@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Australia and New Zealand,Oceania,6369317
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Central Asia,Asia,52900
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Eastern Asia,Asia,7036964
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Eastern Europe,Europe,13392726
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Latin America and the Caribbean,Americas,4421104
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Northern Africa,Africa,10262900
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Northern America,Americas,7583360
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Northern Europe,Europe,2259053
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,South-eastern Asia,Asia,126212
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Southern Asia,Asia,2482
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Southern Europe,Europe,269476
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Sub-Saharan Africa,Africa,2123428
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Western Asia,Asia,20222921
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Western Europe,Europe,9466350
-2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,World,World,127283307
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Australia and New Zealand,Oceania,6369317,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Central Asia,Asia,52900,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Eastern Asia,Asia,7036964,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Eastern Europe,Europe,13392726,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Latin America and the Caribbean,Americas,4421104,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Northern Africa,Africa,10262900,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Northern America,Americas,7583360,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Northern Europe,Europe,2259053,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,South-eastern Asia,Asia,126212,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Southern Asia,Asia,2482,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Southern Europe,Europe,269476,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Sub-Saharan Africa,Africa,2123428,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Western Asia,Asia,20222921,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,Western Europe,Europe,9466350,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2013,2013,Import,Jordan,7,Vegetables and certain roots and tubers; edible,World,World,127283307,31.1667049,36.941628,,

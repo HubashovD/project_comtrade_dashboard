@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Eastern Europe,Europe,1088000
-1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,1594000
-1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Northern Africa,Africa,348000
-1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Northern America,Americas,729000
-1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Northern Europe,Europe,5218000
-1995,1995,Import,Israel,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,3259000
-1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Southern Europe,Europe,10673000
-1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,1565000
-1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Western Asia,Asia,1232000
-1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Western Europe,Europe,20929000
-1995,1995,Import,Israel,18,Cocoa and cocoa preparations,World,World,49878000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Eastern Europe,Europe,1088000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,1594000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Northern Africa,Africa,348000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Northern America,Americas,729000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Northern Europe,Europe,5218000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1995,1995,Import,Israel,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,3259000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Southern Europe,Europe,10673000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,1565000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Western Asia,Asia,1232000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1995,1995,Import,Israel,18,Cocoa and cocoa preparations,Western Europe,Europe,20929000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Import,Israel,18,Cocoa and cocoa preparations,World,World,49878000,30.8124247,34.8594762,,

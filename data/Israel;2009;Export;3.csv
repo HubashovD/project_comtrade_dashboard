@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Eastern Asia,Asia,141000
-2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Eastern Europe,Europe,179000
-2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Latin America and the Caribbean,Americas,38000
-2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern America,Americas,1856000
-2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern Europe,Europe,3953000
-2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",South-eastern Asia,Asia,71000
-2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Southern Asia,Asia,3000
-2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Southern Europe,Europe,2863000
-2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Sub-Saharan Africa,Africa,417000
-2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Western Europe,Europe,9828000
-2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",World,World,19521000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Eastern Asia,Asia,141000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Eastern Europe,Europe,179000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Latin America and the Caribbean,Americas,38000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern America,Americas,1856000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern Europe,Europe,3953000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",South-eastern Asia,Asia,71000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Southern Asia,Asia,3000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Southern Europe,Europe,2863000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Sub-Saharan Africa,Africa,417000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Western Europe,Europe,9828000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2009,2009,Export,Israel,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",World,World,19521000,30.8124247,34.8594762,,

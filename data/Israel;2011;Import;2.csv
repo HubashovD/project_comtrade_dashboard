@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Israel,2,Meat and edible meat offal,Australia and New Zealand,Oceania,6759000
-2011,2011,Import,Israel,2,Meat and edible meat offal,Eastern Asia,Asia,11903000
-2011,2011,Import,Israel,2,Meat and edible meat offal,Eastern Europe,Europe,38867000
-2011,2011,Import,Israel,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,394747000
-2011,2011,Import,Israel,2,Meat and edible meat offal,Northern America,Americas,5630000
-2011,2011,Import,Israel,2,Meat and edible meat offal,Northern Europe,Europe,16050000
-2011,2011,Import,Israel,2,Meat and edible meat offal,Southern Europe,Europe,362000
-2011,2011,Import,Israel,2,Meat and edible meat offal,Western Europe,Europe,8407000
-2011,2011,Import,Israel,2,Meat and edible meat offal,World,World,482725000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Israel,2,Meat and edible meat offal,Australia and New Zealand,Oceania,6759000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2011,2011,Import,Israel,2,Meat and edible meat offal,Eastern Asia,Asia,11903000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2011,2011,Import,Israel,2,Meat and edible meat offal,Eastern Europe,Europe,38867000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2011,2011,Import,Israel,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,394747000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2011,2011,Import,Israel,2,Meat and edible meat offal,Northern America,Americas,5630000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2011,2011,Import,Israel,2,Meat and edible meat offal,Northern Europe,Europe,16050000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2011,2011,Import,Israel,2,Meat and edible meat offal,Southern Europe,Europe,362000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2011,2011,Import,Israel,2,Meat and edible meat offal,Western Europe,Europe,8407000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2011,2011,Import,Israel,2,Meat and edible meat offal,World,World,482725000,30.8124247,34.8594762,,

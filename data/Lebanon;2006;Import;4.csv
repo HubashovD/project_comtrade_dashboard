@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Australia and New Zealand,Oceania,12495200
-2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Eastern Asia,Asia,73038
-2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Eastern Europe,Europe,32978766
-2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Latin America and the Caribbean,Americas,3813767
-2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Northern Africa,Africa,11355267
-2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Northern America,Americas,1134077
-2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Northern Europe,Europe,25503604
-2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,South-eastern Asia,Asia,7590545
-2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Southern Asia,Asia,58296
-2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Southern Europe,Europe,2227545
-2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Western Asia,Asia,9665200
-2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Western Europe,Europe,47105692
-2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,World,World,174625747
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Australia and New Zealand,Oceania,12495200,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Eastern Asia,Asia,73038,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Eastern Europe,Europe,32978766,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Latin America and the Caribbean,Americas,3813767,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Northern Africa,Africa,11355267,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Northern America,Americas,1134077,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Northern Europe,Europe,25503604,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,South-eastern Asia,Asia,7590545,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Southern Asia,Asia,58296,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Southern Europe,Europe,2227545,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Western Asia,Asia,9665200,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,Western Europe,Europe,47105692,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2006,2006,Import,Lebanon,4,Dairy produce; birds eggs; natural honey;,World,World,174625747,33.8750629,35.843409,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Australia and New Zealand,Oceania,23890
-2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,19218377
-2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,200389
-2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,536214
-2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Northern Africa,Africa,213476
-2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Northern America,Americas,1484106
-2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,1840672
-2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,930204
-2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Southern Asia,Asia,17560
-2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,11070089
-2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Sub-Saharan Africa,Africa,4569
-2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Western Asia,Asia,4516670
-2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Western Europe,Europe,6138002
-2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,World,World,88816368
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Australia and New Zealand,Oceania,23890,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,19218377,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,200389,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,536214,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Northern Africa,Africa,213476,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Northern America,Americas,1484106,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,1840672,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,930204,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Southern Asia,Asia,17560,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,11070089,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Sub-Saharan Africa,Africa,4569,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Western Asia,Asia,4516670,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,Western Europe,Europe,6138002,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2012,2012,Import,Jordan,83,Metal; miscellaneous products of base metal,World,World,88816368,31.1667049,36.941628,,

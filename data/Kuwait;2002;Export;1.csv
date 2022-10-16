@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Kuwait,1,Live animals,Australia and New Zealand,Oceania,132
-2002,2002,Export,Kuwait,1,Live animals,Eastern Asia,Asia,263
-2002,2002,Export,Kuwait,1,Live animals,Northern America,Americas,7059
-2002,2002,Export,Kuwait,1,Live animals,Northern Europe,Europe,7603
-2002,2002,Export,Kuwait,1,Live animals,South-eastern Asia,Asia,296
-2002,2002,Export,Kuwait,1,Live animals,Southern Asia,Asia,88509
-2002,2002,Export,Kuwait,1,Live animals,Southern Europe,Europe,1975
-2002,2002,Export,Kuwait,1,Live animals,Sub-Saharan Africa,Africa,1580
-2002,2002,Export,Kuwait,1,Live animals,Western Europe,Europe,23706
-2002,2002,Export,Kuwait,1,Live animals,World,World,1349154
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Kuwait,1,Live animals,Australia and New Zealand,Oceania,132,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2002,2002,Export,Kuwait,1,Live animals,Eastern Asia,Asia,263,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2002,2002,Export,Kuwait,1,Live animals,Northern America,Americas,7059,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2002,2002,Export,Kuwait,1,Live animals,Northern Europe,Europe,7603,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2002,2002,Export,Kuwait,1,Live animals,South-eastern Asia,Asia,296,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2002,2002,Export,Kuwait,1,Live animals,Southern Asia,Asia,88509,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2002,2002,Export,Kuwait,1,Live animals,Southern Europe,Europe,1975,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2002,2002,Export,Kuwait,1,Live animals,Sub-Saharan Africa,Africa,1580,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2002,2002,Export,Kuwait,1,Live animals,Western Europe,Europe,23706,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2002,2002,Export,Kuwait,1,Live animals,World,World,1349154,29.2733964,47.4979476,,

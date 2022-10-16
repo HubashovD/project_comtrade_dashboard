@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Australia and New Zealand,Oceania,87000
-1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Asia,Asia,149000
-1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Europe,Europe,33000
-1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Northern Africa,Africa,311000
-1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Northern America,Americas,146000
-1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Northern Europe,Europe,104000
-1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",South-eastern Asia,Asia,20000
-1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Europe,Europe,292000
-1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Sub-Saharan Africa,Africa,26000
-1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Europe,Europe,4217000
-1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",World,World,5506000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Australia and New Zealand,Oceania,87000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Asia,Asia,149000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Eastern Europe,Europe,33000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Northern Africa,Africa,311000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Northern America,Americas,146000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Northern Europe,Europe,104000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",South-eastern Asia,Asia,20000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Southern Europe,Europe,292000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Sub-Saharan Africa,Africa,26000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",Western Europe,Europe,4217000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1999,1999,Import,Israel,6,"Live trees, plants, bulbs, roots, cut flowers etc",World,World,5506000,30.8124247,34.8594762,,

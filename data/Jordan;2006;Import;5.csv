@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Eastern Asia,Asia,6065
-2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Northern America,Americas,128648
-2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Northern Europe,Europe,9278
-2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Southern Europe,Europe,8038
-2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Sub-Saharan Africa,Africa,5141
-2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,17997
-2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,151354
-2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",World,World,327085
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Eastern Asia,Asia,6065,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Northern America,Americas,128648,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Northern Europe,Europe,9278,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Southern Europe,Europe,8038,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Sub-Saharan Africa,Africa,5141,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,17997,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,151354,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2006,2006,Import,Jordan,5,"Products of animal origin, not elsewhere specified",World,World,327085,31.1667049,36.941628,,

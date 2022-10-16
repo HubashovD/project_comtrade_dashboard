@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Eastern Asia,Asia,643927
-2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Eastern Europe,Europe,509288
-2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Micronesia,Oceania,2886
-2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Northern America,Americas,1418
-2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Northern Europe,Europe,606954
-2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Southern Asia,Asia,120373
-2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Western Asia,Asia,227482
-2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Western Europe,Europe,228885
-2010,2010,Import,Azerbaijan,55,Man-made staple fibres,World,World,2341210
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Eastern Asia,Asia,643927,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Eastern Europe,Europe,509288,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Micronesia,Oceania,2886,40.3936294,47.7872508,6.418559504495792,157.6364476938912
+2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Northern America,Americas,1418,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Northern Europe,Europe,606954,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Southern Asia,Asia,120373,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Western Asia,Asia,227482,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2010,2010,Import,Azerbaijan,55,Man-made staple fibres,Western Europe,Europe,228885,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2010,2010,Import,Azerbaijan,55,Man-made staple fibres,World,World,2341210,40.3936294,47.7872508,,

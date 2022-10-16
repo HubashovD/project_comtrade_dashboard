@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Central Asia,Asia,4010
-2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Eastern Asia,Asia,1304
-2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Eastern Europe,Europe,199770
-2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Northern America,Americas,5407
-2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Northern Europe,Europe,37802
-2019,2019,Import,Azerbaijan,78,Lead and articles thereof,South-eastern Asia,Asia,50
-2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Southern Asia,Asia,424
-2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Southern Europe,Europe,95
-2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Western Asia,Asia,40667
-2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Western Europe,Europe,24825
-2019,2019,Import,Azerbaijan,78,Lead and articles thereof,World,World,314372
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Central Asia,Asia,4010,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Eastern Asia,Asia,1304,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Eastern Europe,Europe,199770,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Northern America,Americas,5407,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Northern Europe,Europe,37802,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2019,2019,Import,Azerbaijan,78,Lead and articles thereof,South-eastern Asia,Asia,50,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Southern Asia,Asia,424,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Southern Europe,Europe,95,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Western Asia,Asia,40667,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2019,2019,Import,Azerbaijan,78,Lead and articles thereof,Western Europe,Europe,24825,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2019,2019,Import,Azerbaijan,78,Lead and articles thereof,World,World,314372,40.3936294,47.7872508,,

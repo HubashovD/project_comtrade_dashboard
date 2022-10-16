@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Re-Export,Jordan,72,Iron and steel,Eastern Asia,Asia,7052
-2000,2000,Re-Export,Jordan,72,Iron and steel,Eastern Europe,Europe,1510
-2000,2000,Re-Export,Jordan,72,Iron and steel,Western Asia,Asia,99884
-2000,2000,Re-Export,Jordan,72,Iron and steel,Western Europe,Europe,39492
-2000,2000,Re-Export,Jordan,72,Iron and steel,World,World,4029547
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Re-Export,Jordan,72,Iron and steel,Eastern Asia,Asia,7052,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Re-Export,Jordan,72,Iron and steel,Eastern Europe,Europe,1510,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Re-Export,Jordan,72,Iron and steel,Western Asia,Asia,99884,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Re-Export,Jordan,72,Iron and steel,Western Europe,Europe,39492,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Re-Export,Jordan,72,Iron and steel,World,World,4029547,31.1667049,36.941628,,

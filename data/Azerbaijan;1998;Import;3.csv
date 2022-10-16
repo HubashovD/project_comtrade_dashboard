@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Central Asia,Asia,145955
-1998,1998,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Eastern Europe,Europe,642401
-1998,1998,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Asia,Asia,5228
-1998,1998,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Europe,Europe,28228
-1998,1998,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",World,World,839079
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Central Asia,Asia,145955,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1998,1998,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Eastern Europe,Europe,642401,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1998,1998,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Asia,Asia,5228,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1998,1998,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Europe,Europe,28228,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1998,1998,Import,Azerbaijan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",World,World,839079,40.3936294,47.7872508,,

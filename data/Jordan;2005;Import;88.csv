@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Australia and New Zealand,Oceania,399070
-2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,312
-2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,11103527
-2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,28495767
-2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,304924
-2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,179618
-2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Sub-Saharan Africa,Africa,514363
-2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,90566006
-2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",World,World,131563586
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Australia and New Zealand,Oceania,399070,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,312,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,11103527,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,28495767,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,304924,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,179618,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Sub-Saharan Africa,Africa,514363,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,90566006,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2005,2005,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",World,World,131563586,31.1667049,36.941628,,

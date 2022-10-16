@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,Northern Africa,Africa,65
-2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,Northern Europe,Europe,55
-2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,South-eastern Asia,Asia,5351
-2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,Southern Asia,Asia,171172
-2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,Southern Europe,Europe,4672
-2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,Western Asia,Asia,5778
-2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,Western Europe,Europe,24604
-2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,World,World,316867
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,Northern Africa,Africa,65,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,Northern Europe,Europe,55,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,South-eastern Asia,Asia,5351,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,Southern Asia,Asia,171172,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,Southern Europe,Europe,4672,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,Western Asia,Asia,5778,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,Western Europe,Europe,24604,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2001,2001,Re-Export,Kuwait,17,Sugars and sugar confectionery,World,World,316867,29.2733964,47.4979476,,

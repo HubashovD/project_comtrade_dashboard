@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Australia and New Zealand,Oceania,1239000
-2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Eastern Asia,Asia,738914000
-2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Eastern Europe,Europe,410633000
-2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Latin America and the Caribbean,Americas,20318000
-2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Northern America,Americas,459094000
-2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Northern Europe,Europe,895182000
-2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",South-eastern Asia,Asia,172083000
-2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Southern Asia,Asia,18232000
-2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Southern Europe,Europe,61406000
-2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Sub-Saharan Africa,Africa,8689000
-2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Western Asia,Asia,31048000
-2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Western Europe,Europe,3506817000
-2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",World,World,7481072000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Australia and New Zealand,Oceania,1239000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Eastern Asia,Asia,738914000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Eastern Europe,Europe,410633000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Latin America and the Caribbean,Americas,20318000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Northern America,Americas,459094000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Northern Europe,Europe,895182000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",South-eastern Asia,Asia,172083000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Southern Asia,Asia,18232000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Southern Europe,Europe,61406000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Sub-Saharan Africa,Africa,8689000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Western Asia,Asia,31048000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",Western Europe,Europe,3506817000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2002,2002,Import,Israel,71,"Natural or cultured pearls, precious or semi-precious stones",World,World,7481072000,30.8124247,34.8594762,,

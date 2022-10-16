@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Eastern Europe,Europe,19373234
-1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,227850
-1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Northern America,Americas,3909
-1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Northern Europe,Europe,481718
-1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Southern Asia,Asia,1774668
-1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Southern Europe,Europe,33789
-1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Western Asia,Asia,3234407
-1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Western Europe,Europe,1094615
-1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,World,World,27080500
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Eastern Europe,Europe,19373234,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,227850,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Northern America,Americas,3909,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Northern Europe,Europe,481718,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Southern Asia,Asia,1774668,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Southern Europe,Europe,33789,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Western Asia,Asia,3234407,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,Western Europe,Europe,1094615,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1997,1997,Import,Azerbaijan,17,Sugars and sugar confectionery,World,World,27080500,40.3936294,47.7872508,,

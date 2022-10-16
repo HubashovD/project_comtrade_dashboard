@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,Australia and New Zealand,Oceania,285327
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,Central Asia,Asia,2030704
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,Eastern Asia,Asia,273323016
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,Eastern Europe,Europe,211141207
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,Latin America and the Caribbean,Americas,10921168
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,Micronesia,Oceania,127
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,Northern Africa,Africa,1181
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,Northern America,Americas,17358948
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,Northern Europe,Europe,38875357
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,South-eastern Asia,Asia,11463546
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,Southern Asia,Asia,5137008
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,Southern Europe,Europe,39127728
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,Sub-Saharan Africa,Africa,192028
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,Western Asia,Asia,110926368
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,Western Europe,Europe,86019415
-2018,2018,Import,Azerbaijan,73,Iron or steel articles,World,World,824739410
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,Australia and New Zealand,Oceania,285327,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,Central Asia,Asia,2030704,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,Eastern Asia,Asia,273323016,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,Eastern Europe,Europe,211141207,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,Latin America and the Caribbean,Americas,10921168,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,Micronesia,Oceania,127,40.3936294,47.7872508,6.418559504495792,157.6364476938912
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,Northern Africa,Africa,1181,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,Northern America,Americas,17358948,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,Northern Europe,Europe,38875357,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,South-eastern Asia,Asia,11463546,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,Southern Asia,Asia,5137008,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,Southern Europe,Europe,39127728,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,Sub-Saharan Africa,Africa,192028,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,Western Asia,Asia,110926368,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,Western Europe,Europe,86019415,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2018,2018,Import,Azerbaijan,73,Iron or steel articles,World,World,824739410,40.3936294,47.7872508,,

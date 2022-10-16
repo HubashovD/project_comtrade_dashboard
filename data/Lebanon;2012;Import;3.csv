@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,163415
-2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,1514379
-2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,306582
-2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,2668647
-2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Africa,Africa,6834875
-2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,861295
-2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,8950937
-2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,17497506
-2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,1801363
-2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,896964
-2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,3683018
-2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,18120585
-2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,817121
-2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,78149465
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,163415,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,1514379,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,306582,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,2668647,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Africa,Africa,6834875,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,861295,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,8950937,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,17497506,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,1801363,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,896964,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,3683018,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,18120585,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,817121,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2012,2012,Import,Lebanon,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,78149465,33.8750629,35.843409,,

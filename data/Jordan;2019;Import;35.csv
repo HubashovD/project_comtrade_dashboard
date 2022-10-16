@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Asia,Asia,3423545
-2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Europe,Europe,92185
-2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Latin America and the Caribbean,Americas,393589
-2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Africa,Africa,1348214
-2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Northern America,Americas,2217549
-2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Europe,Europe,2809159
-2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,South-eastern Asia,Asia,350806
-2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Europe,Europe,2066524
-2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Western Asia,Asia,1971727
-2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Western Europe,Europe,4615309
-2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,World,World,22749989
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Asia,Asia,3423545,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Europe,Europe,92185,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Latin America and the Caribbean,Americas,393589,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Africa,Africa,1348214,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Northern America,Americas,2217549,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Europe,Europe,2809159,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,South-eastern Asia,Asia,350806,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Europe,Europe,2066524,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Western Asia,Asia,1971727,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,Western Europe,Europe,4615309,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2019,2019,Import,Jordan,35,Albuminoidal substances; modified starches; glues; enzymes,World,World,22749989,31.1667049,36.941628,,

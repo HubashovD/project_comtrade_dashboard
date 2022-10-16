@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Azerbaijan,81,"Other base metals, cermets, articles thereof",Eastern Europe,Europe,40000
-1999,1999,Export,Azerbaijan,81,"Other base metals, cermets, articles thereof",Southern Asia,Asia,21519
-1999,1999,Export,Azerbaijan,81,"Other base metals, cermets, articles thereof",Western Asia,Asia,13199
-1999,1999,Export,Azerbaijan,81,"Other base metals, cermets, articles thereof",World,World,74718
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Azerbaijan,81,"Other base metals, cermets, articles thereof",Eastern Europe,Europe,40000,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1999,1999,Export,Azerbaijan,81,"Other base metals, cermets, articles thereof",Southern Asia,Asia,21519,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1999,1999,Export,Azerbaijan,81,"Other base metals, cermets, articles thereof",Western Asia,Asia,13199,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1999,1999,Export,Azerbaijan,81,"Other base metals, cermets, articles thereof",World,World,74718,40.3936294,47.7872508,,

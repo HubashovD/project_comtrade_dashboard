@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Georgia,26,"Ores, slag and ash",Eastern Europe,Europe,8788
-2021,2021,Import,Georgia,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,203531502
-2021,2021,Import,Georgia,26,"Ores, slag and ash",South-eastern Asia,Asia,132524738
-2021,2021,Import,Georgia,26,"Ores, slag and ash",Southern Asia,Asia,14510
-2021,2021,Import,Georgia,26,"Ores, slag and ash",Southern Europe,Europe,30002778
-2021,2021,Import,Georgia,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,14329206
-2021,2021,Import,Georgia,26,"Ores, slag and ash",Western Asia,Asia,17397004
-2021,2021,Import,Georgia,26,"Ores, slag and ash",Western Europe,Europe,733061
-2021,2021,Import,Georgia,26,"Ores, slag and ash",World,World,758549687
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Georgia,26,"Ores, slag and ash",Eastern Europe,Europe,8788,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2021,2021,Import,Georgia,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,203531502,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2021,2021,Import,Georgia,26,"Ores, slag and ash",South-eastern Asia,Asia,132524738,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2021,2021,Import,Georgia,26,"Ores, slag and ash",Southern Asia,Asia,14510,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2021,2021,Import,Georgia,26,"Ores, slag and ash",Southern Europe,Europe,30002778,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2021,2021,Import,Georgia,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,14329206,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2021,2021,Import,Georgia,26,"Ores, slag and ash",Western Asia,Asia,17397004,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2021,2021,Import,Georgia,26,"Ores, slag and ash",Western Europe,Europe,733061,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2021,2021,Import,Georgia,26,"Ores, slag and ash",World,World,758549687,32.3293809,-83.1137366,,

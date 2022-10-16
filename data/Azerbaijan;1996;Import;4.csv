@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Australia and New Zealand,Oceania,90330
-1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Central Asia,Asia,5360
-1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,12874624
-1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,220358
-1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,748218
-1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Southern Asia,Asia,1009987
-1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,6919
-1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,6308111
-1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,24170804
-1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",World,World,57998808
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Australia and New Zealand,Oceania,90330,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Central Asia,Asia,5360,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,12874624,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,220358,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,748218,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Southern Asia,Asia,1009987,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,6919,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,6308111,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,24170804,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1996,1996,Import,Azerbaijan,4,"Dairy products, eggs, honey, edible animal product nes",World,World,57998808,40.3936294,47.7872508,,

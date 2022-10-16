@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Australia and New Zealand,Oceania,82
-2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Central Asia,Asia,1250
-2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Asia,Asia,102951
-2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Europe,Europe,27322
-2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Northern America,Americas,41537
-2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Northern Europe,Europe,182494
-2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,South-eastern Asia,Asia,47357
-2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Southern Asia,Asia,480
-2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Southern Europe,Europe,7411
-2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Sub-Saharan Africa,Africa,1388
-2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Western Asia,Asia,189882
-2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Western Europe,Europe,134351
-2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,World,World,832303
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Australia and New Zealand,Oceania,82,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Central Asia,Asia,1250,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Asia,Asia,102951,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Europe,Europe,27322,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Northern America,Americas,41537,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Northern Europe,Europe,182494,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,South-eastern Asia,Asia,47357,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Southern Asia,Asia,480,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Southern Europe,Europe,7411,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Sub-Saharan Africa,Africa,1388,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Western Asia,Asia,189882,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,Western Europe,Europe,134351,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2013,2013,Import,Azerbaijan,65,Headgear and parts thereof,World,World,832303,40.3936294,47.7872508,,

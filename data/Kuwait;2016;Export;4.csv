@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Australia and New Zealand,Oceania,972
-2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,15448
-2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Africa,Africa,48167
-2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,10053
-2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,4757
-2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Asia,Asia,447149
-2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Europe,Europe,23015
-2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Asia,Asia,14711
-2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,150250710
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Australia and New Zealand,Oceania,972,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,15448,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Africa,Africa,48167,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,10053,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,4757,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Asia,Asia,447149,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Europe,Europe,23015,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Asia,Asia,14711,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2016,2016,Export,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,150250710,29.2733964,47.4979476,,

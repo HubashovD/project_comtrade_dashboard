@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,994
-1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Latin America and the Caribbean,Americas,2509
-1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,1694
-1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,2228
-1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,1094
-1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Sub-Saharan Africa,Africa,21801
-1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,49371
-1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,3355
-1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",World,World,296538
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,994,33.8750629,35.843409,51.67568633314729,27.673469819741847
+1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Latin America and the Caribbean,Americas,2509,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,1694,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,2228,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,1094,33.8750629,35.843409,40.12399607988535,20.742583178432696
+1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Sub-Saharan Africa,Africa,21801,33.8750629,35.843409,6.06272746187266,22.727528470146083
+1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,49371,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,3355,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1999,1999,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",World,World,296538,33.8750629,35.843409,,

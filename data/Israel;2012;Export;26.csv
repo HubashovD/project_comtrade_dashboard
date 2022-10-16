@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Export,Israel,26,"Ores, slag and ash",Eastern Asia,Asia,2688000
-2012,2012,Export,Israel,26,"Ores, slag and ash",Eastern Europe,Europe,16000
-2012,2012,Export,Israel,26,"Ores, slag and ash",Northern America,Americas,106000
-2012,2012,Export,Israel,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,2000
-2012,2012,Export,Israel,26,"Ores, slag and ash",World,World,3872000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Export,Israel,26,"Ores, slag and ash",Eastern Asia,Asia,2688000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2012,2012,Export,Israel,26,"Ores, slag and ash",Eastern Europe,Europe,16000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2012,2012,Export,Israel,26,"Ores, slag and ash",Northern America,Americas,106000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2012,2012,Export,Israel,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,2000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2012,2012,Export,Israel,26,"Ores, slag and ash",World,World,3872000,30.8124247,34.8594762,,

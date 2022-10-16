@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Central Asia,Asia,23032
-2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Eastern Europe,Europe,29260
-2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,16992
-2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Northern Africa,Africa,548734
-2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Northern America,Americas,4763
-2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Northern Europe,Europe,378040
-2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Southern Asia,Asia,57048
-2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Southern Europe,Europe,170712
-2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,1112463
-2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Western Asia,Asia,817135
-2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Western Europe,Europe,575157
-2012,2012,Export,Lebanon,38,Chemical products n.e.c.,World,World,12125590
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Central Asia,Asia,23032,33.8750629,35.843409,39.89317229901691,61.060280637304274
+2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Eastern Europe,Europe,29260,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,16992,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Northern Africa,Africa,548734,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Northern America,Americas,4763,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Northern Europe,Europe,378040,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Southern Asia,Asia,57048,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Southern Europe,Europe,170712,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,1112463,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Western Asia,Asia,817135,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2012,2012,Export,Lebanon,38,Chemical products n.e.c.,Western Europe,Europe,575157,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2012,2012,Export,Lebanon,38,Chemical products n.e.c.,World,World,12125590,33.8750629,35.843409,,

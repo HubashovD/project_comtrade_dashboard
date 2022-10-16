@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Jordan,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,125867
-2007,2007,Import,Jordan,38,Miscellaneous chemical products,Eastern Asia,Asia,8613103
-2007,2007,Import,Jordan,38,Miscellaneous chemical products,Eastern Europe,Europe,566886
-2007,2007,Import,Jordan,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,1070499
-2007,2007,Import,Jordan,38,Miscellaneous chemical products,Northern Africa,Africa,1616029
-2007,2007,Import,Jordan,38,Miscellaneous chemical products,Northern America,Americas,8249195
-2007,2007,Import,Jordan,38,Miscellaneous chemical products,Northern Europe,Europe,14919494
-2007,2007,Import,Jordan,38,Miscellaneous chemical products,South-eastern Asia,Asia,914060
-2007,2007,Import,Jordan,38,Miscellaneous chemical products,Southern Asia,Asia,7893
-2007,2007,Import,Jordan,38,Miscellaneous chemical products,Southern Europe,Europe,9041244
-2007,2007,Import,Jordan,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,1539711
-2007,2007,Import,Jordan,38,Miscellaneous chemical products,Western Asia,Asia,3936117
-2007,2007,Import,Jordan,38,Miscellaneous chemical products,Western Europe,Europe,20476920
-2007,2007,Import,Jordan,38,Miscellaneous chemical products,World,World,96827119
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Jordan,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,125867,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2007,2007,Import,Jordan,38,Miscellaneous chemical products,Eastern Asia,Asia,8613103,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2007,2007,Import,Jordan,38,Miscellaneous chemical products,Eastern Europe,Europe,566886,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2007,2007,Import,Jordan,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,1070499,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2007,2007,Import,Jordan,38,Miscellaneous chemical products,Northern Africa,Africa,1616029,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2007,2007,Import,Jordan,38,Miscellaneous chemical products,Northern America,Americas,8249195,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2007,2007,Import,Jordan,38,Miscellaneous chemical products,Northern Europe,Europe,14919494,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2007,2007,Import,Jordan,38,Miscellaneous chemical products,South-eastern Asia,Asia,914060,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2007,2007,Import,Jordan,38,Miscellaneous chemical products,Southern Asia,Asia,7893,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2007,2007,Import,Jordan,38,Miscellaneous chemical products,Southern Europe,Europe,9041244,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2007,2007,Import,Jordan,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,1539711,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2007,2007,Import,Jordan,38,Miscellaneous chemical products,Western Asia,Asia,3936117,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2007,2007,Import,Jordan,38,Miscellaneous chemical products,Western Europe,Europe,20476920,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2007,2007,Import,Jordan,38,Miscellaneous chemical products,World,World,96827119,31.1667049,36.941628,,

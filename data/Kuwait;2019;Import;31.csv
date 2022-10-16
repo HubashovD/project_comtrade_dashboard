@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Kuwait,31,Fertilizers,Australia and New Zealand,Oceania,18513
-2019,2019,Import,Kuwait,31,Fertilizers,Eastern Asia,Asia,332650
-2019,2019,Import,Kuwait,31,Fertilizers,Eastern Europe,Europe,3256774
-2019,2019,Import,Kuwait,31,Fertilizers,Latin America and the Caribbean,Americas,131714
-2019,2019,Import,Kuwait,31,Fertilizers,Northern Africa,Africa,175184
-2019,2019,Import,Kuwait,31,Fertilizers,Northern America,Americas,55101
-2019,2019,Import,Kuwait,31,Fertilizers,Northern Europe,Europe,299774
-2019,2019,Import,Kuwait,31,Fertilizers,Southern Europe,Europe,464486
-2019,2019,Import,Kuwait,31,Fertilizers,Sub-Saharan Africa,Africa,44520
-2019,2019,Import,Kuwait,31,Fertilizers,Western Asia,Asia,454779
-2019,2019,Import,Kuwait,31,Fertilizers,Western Europe,Europe,1714735
-2019,2019,Import,Kuwait,31,Fertilizers,World,World,10764123
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Kuwait,31,Fertilizers,Australia and New Zealand,Oceania,18513,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2019,2019,Import,Kuwait,31,Fertilizers,Eastern Asia,Asia,332650,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2019,2019,Import,Kuwait,31,Fertilizers,Eastern Europe,Europe,3256774,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2019,2019,Import,Kuwait,31,Fertilizers,Latin America and the Caribbean,Americas,131714,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2019,2019,Import,Kuwait,31,Fertilizers,Northern Africa,Africa,175184,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2019,2019,Import,Kuwait,31,Fertilizers,Northern America,Americas,55101,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2019,2019,Import,Kuwait,31,Fertilizers,Northern Europe,Europe,299774,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2019,2019,Import,Kuwait,31,Fertilizers,Southern Europe,Europe,464486,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2019,2019,Import,Kuwait,31,Fertilizers,Sub-Saharan Africa,Africa,44520,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2019,2019,Import,Kuwait,31,Fertilizers,Western Asia,Asia,454779,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2019,2019,Import,Kuwait,31,Fertilizers,Western Europe,Europe,1714735,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2019,2019,Import,Kuwait,31,Fertilizers,World,World,10764123,29.2733964,47.4979476,,

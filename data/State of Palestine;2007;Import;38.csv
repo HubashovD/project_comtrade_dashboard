@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,4020
-2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Eastern Asia,Asia,209380
-2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Eastern Europe,Europe,440
-2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,23410
-2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Northern Africa,Africa,54410
-2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Northern America,Americas,265470
-2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Northern Europe,Europe,380880
-2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,South-eastern Asia,Asia,32240
-2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Southern Europe,Europe,1493380
-2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,7140
-2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Western Asia,Asia,167440
-2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Western Europe,Europe,3313560
-2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,World,World,8698050
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,4020,31.46242095,34.262716572130714,-16.85099460447687,133.4130365630627
+2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Eastern Asia,Asia,209380,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Eastern Europe,Europe,440,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,23410,31.46242095,34.262716572130714,17.925141963241547,-78.01492950057497
+2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Northern Africa,Africa,54410,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Northern America,Americas,265470,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Northern Europe,Europe,380880,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
+2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,South-eastern Asia,Asia,32240,31.46242095,34.262716572130714,10.528384761701911,103.08333472012376
+2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Southern Europe,Europe,1493380,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,7140,31.46242095,34.262716572130714,6.06272746187266,22.727528470146083
+2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Western Asia,Asia,167440,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
+2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,Western Europe,Europe,3313560,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2007,2007,Import,State of Palestine,38,Miscellaneous chemical products,World,World,8698050,31.46242095,34.262716572130714,,

@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Export,Jordan,26,"Ores, slag and ash",Eastern Asia,Asia,146501
-2019,2019,Export,Jordan,26,"Ores, slag and ash",Northern Europe,Europe,356152
-2019,2019,Export,Jordan,26,"Ores, slag and ash",Southern Europe,Europe,108839
-2019,2019,Export,Jordan,26,"Ores, slag and ash",Western Asia,Asia,90129
-2019,2019,Export,Jordan,26,"Ores, slag and ash",World,World,1249177
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Export,Jordan,26,"Ores, slag and ash",Eastern Asia,Asia,146501,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2019,2019,Export,Jordan,26,"Ores, slag and ash",Northern Europe,Europe,356152,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2019,2019,Export,Jordan,26,"Ores, slag and ash",Southern Europe,Europe,108839,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2019,2019,Export,Jordan,26,"Ores, slag and ash",Western Asia,Asia,90129,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2019,2019,Export,Jordan,26,"Ores, slag and ash",World,World,1249177,31.1667049,36.941628,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Jordan,54,Man-made filaments,Australia and New Zealand,Oceania,4704
-2002,2002,Import,Jordan,54,Man-made filaments,Eastern Asia,Asia,42888519
-2002,2002,Import,Jordan,54,Man-made filaments,Eastern Europe,Europe,4299
-2002,2002,Import,Jordan,54,Man-made filaments,Latin America and the Caribbean,Americas,3948
-2002,2002,Import,Jordan,54,Man-made filaments,Northern Africa,Africa,163937
-2002,2002,Import,Jordan,54,Man-made filaments,Northern America,Americas,372129
-2002,2002,Import,Jordan,54,Man-made filaments,Northern Europe,Europe,479605
-2002,2002,Import,Jordan,54,Man-made filaments,South-eastern Asia,Asia,2844910
-2002,2002,Import,Jordan,54,Man-made filaments,Southern Asia,Asia,1987
-2002,2002,Import,Jordan,54,Man-made filaments,Southern Europe,Europe,2290782
-2002,2002,Import,Jordan,54,Man-made filaments,Western Asia,Asia,8133421
-2002,2002,Import,Jordan,54,Man-made filaments,Western Europe,Europe,681054
-2002,2002,Import,Jordan,54,Man-made filaments,World,World,89623411
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Jordan,54,Man-made filaments,Australia and New Zealand,Oceania,4704,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2002,2002,Import,Jordan,54,Man-made filaments,Eastern Asia,Asia,42888519,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2002,2002,Import,Jordan,54,Man-made filaments,Eastern Europe,Europe,4299,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2002,2002,Import,Jordan,54,Man-made filaments,Latin America and the Caribbean,Americas,3948,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2002,2002,Import,Jordan,54,Man-made filaments,Northern Africa,Africa,163937,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2002,2002,Import,Jordan,54,Man-made filaments,Northern America,Americas,372129,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2002,2002,Import,Jordan,54,Man-made filaments,Northern Europe,Europe,479605,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2002,2002,Import,Jordan,54,Man-made filaments,South-eastern Asia,Asia,2844910,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2002,2002,Import,Jordan,54,Man-made filaments,Southern Asia,Asia,1987,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2002,2002,Import,Jordan,54,Man-made filaments,Southern Europe,Europe,2290782,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2002,2002,Import,Jordan,54,Man-made filaments,Western Asia,Asia,8133421,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2002,2002,Import,Jordan,54,Man-made filaments,Western Europe,Europe,681054,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2002,2002,Import,Jordan,54,Man-made filaments,World,World,89623411,31.1667049,36.941628,,

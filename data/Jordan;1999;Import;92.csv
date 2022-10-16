@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Eastern Asia,Asia,116420
-1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Eastern Europe,Europe,2115
-1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Latin America and the Caribbean,Americas,1042
-1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Northern America,Americas,60737
-1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Northern Europe,Europe,25035
-1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",South-eastern Asia,Asia,16289
-1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Southern Europe,Europe,41416
-1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Western Asia,Asia,48671
-1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Western Europe,Europe,17077
-1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",World,World,373134
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Eastern Asia,Asia,116420,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Eastern Europe,Europe,2115,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Latin America and the Caribbean,Americas,1042,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Northern America,Americas,60737,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Northern Europe,Europe,25035,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",South-eastern Asia,Asia,16289,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Southern Europe,Europe,41416,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Western Asia,Asia,48671,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",Western Europe,Europe,17077,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Import,Jordan,92,"Musical instruments, parts and accessories",World,World,373134,31.1667049,36.941628,,

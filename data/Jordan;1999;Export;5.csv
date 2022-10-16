@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Jordan,5,"Products of animal origin, nes",Northern Africa,Africa,70562
-1999,1999,Export,Jordan,5,"Products of animal origin, nes",Northern Europe,Europe,3569
-1999,1999,Export,Jordan,5,"Products of animal origin, nes",Western Asia,Asia,1205920
-1999,1999,Export,Jordan,5,"Products of animal origin, nes",Western Europe,Europe,50070
-1999,1999,Export,Jordan,5,"Products of animal origin, nes",World,World,1421951
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Jordan,5,"Products of animal origin, nes",Northern Africa,Africa,70562,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1999,1999,Export,Jordan,5,"Products of animal origin, nes",Northern Europe,Europe,3569,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1999,1999,Export,Jordan,5,"Products of animal origin, nes",Western Asia,Asia,1205920,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Export,Jordan,5,"Products of animal origin, nes",Western Europe,Europe,50070,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Export,Jordan,5,"Products of animal origin, nes",World,World,1421951,31.1667049,36.941628,,

@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Export,Lebanon,1,Animals; live,Northern America,Americas,2154
-2019,2019,Export,Lebanon,1,Animals; live,Western Asia,Asia,18678
-2019,2019,Export,Lebanon,1,Animals; live,Western Europe,Europe,16922
-2019,2019,Export,Lebanon,1,Animals; live,World,World,12079520
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Export,Lebanon,1,Animals; live,Northern America,Americas,2154,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2019,2019,Export,Lebanon,1,Animals; live,Western Asia,Asia,18678,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2019,2019,Export,Lebanon,1,Animals; live,Western Europe,Europe,16922,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2019,2019,Export,Lebanon,1,Animals; live,World,World,12079520,33.8750629,35.843409,,

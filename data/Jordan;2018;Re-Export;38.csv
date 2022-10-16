@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Eastern Asia,Asia,725956
-2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Eastern Europe,Europe,39805
-2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Northern Africa,Africa,1777695
-2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Northern America,Americas,15901
-2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Northern Europe,Europe,46295
-2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Southern Asia,Asia,15959
-2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Southern Europe,Europe,31636
-2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,5392
-2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Western Asia,Asia,211913
-2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Western Europe,Europe,74642
-2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,World,World,14439279
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Eastern Asia,Asia,725956,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Eastern Europe,Europe,39805,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Northern Africa,Africa,1777695,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Northern America,Americas,15901,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Northern Europe,Europe,46295,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Southern Asia,Asia,15959,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Southern Europe,Europe,31636,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,5392,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Western Asia,Asia,211913,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,Western Europe,Europe,74642,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2018,2018,Re-Export,Jordan,38,Chemical products n.e.c.,World,World,14439279,31.1667049,36.941628,,

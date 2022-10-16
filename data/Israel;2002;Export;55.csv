@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Israel,55,Man-made staple fibers,Australia and New Zealand,Oceania,76000
-2002,2002,Export,Israel,55,Man-made staple fibers,Eastern Asia,Asia,20000
-2002,2002,Export,Israel,55,Man-made staple fibers,Eastern Europe,Europe,215000
-2002,2002,Export,Israel,55,Man-made staple fibers,Latin America and the Caribbean,Americas,39000
-2002,2002,Export,Israel,55,Man-made staple fibers,Northern Africa,Africa,686000
-2002,2002,Export,Israel,55,Man-made staple fibers,Northern America,Americas,16531000
-2002,2002,Export,Israel,55,Man-made staple fibers,Northern Europe,Europe,5424000
-2002,2002,Export,Israel,55,Man-made staple fibers,South-eastern Asia,Asia,12000
-2002,2002,Export,Israel,55,Man-made staple fibers,Southern Europe,Europe,1384000
-2002,2002,Export,Israel,55,Man-made staple fibers,Western Asia,Asia,124000
-2002,2002,Export,Israel,55,Man-made staple fibers,Western Europe,Europe,6090000
-2002,2002,Export,Israel,55,Man-made staple fibers,World,World,31916000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Israel,55,Man-made staple fibers,Australia and New Zealand,Oceania,76000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2002,2002,Export,Israel,55,Man-made staple fibers,Eastern Asia,Asia,20000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2002,2002,Export,Israel,55,Man-made staple fibers,Eastern Europe,Europe,215000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2002,2002,Export,Israel,55,Man-made staple fibers,Latin America and the Caribbean,Americas,39000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2002,2002,Export,Israel,55,Man-made staple fibers,Northern Africa,Africa,686000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2002,2002,Export,Israel,55,Man-made staple fibers,Northern America,Americas,16531000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2002,2002,Export,Israel,55,Man-made staple fibers,Northern Europe,Europe,5424000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2002,2002,Export,Israel,55,Man-made staple fibers,South-eastern Asia,Asia,12000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2002,2002,Export,Israel,55,Man-made staple fibers,Southern Europe,Europe,1384000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2002,2002,Export,Israel,55,Man-made staple fibers,Western Asia,Asia,124000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2002,2002,Export,Israel,55,Man-made staple fibers,Western Europe,Europe,6090000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2002,2002,Export,Israel,55,Man-made staple fibers,World,World,31916000,30.8124247,34.8594762,,

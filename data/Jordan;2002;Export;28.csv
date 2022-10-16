@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Jordan,28,Inorganic chemicals,Eastern Europe,Europe,166447
-2002,2002,Export,Jordan,28,Inorganic chemicals,Latin America and the Caribbean,Americas,44401
-2002,2002,Export,Jordan,28,Inorganic chemicals,Northern Africa,Africa,2582696
-2002,2002,Export,Jordan,28,Inorganic chemicals,Northern America,Americas,7599
-2002,2002,Export,Jordan,28,Inorganic chemicals,Northern Europe,Europe,12760
-2002,2002,Export,Jordan,28,Inorganic chemicals,Southern Asia,Asia,2493235
-2002,2002,Export,Jordan,28,Inorganic chemicals,Sub-Saharan Africa,Africa,605575
-2002,2002,Export,Jordan,28,Inorganic chemicals,Western Asia,Asia,569746
-2002,2002,Export,Jordan,28,Inorganic chemicals,Western Europe,Europe,43695
-2002,2002,Export,Jordan,28,Inorganic chemicals,World,World,110572029
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Jordan,28,Inorganic chemicals,Eastern Europe,Europe,166447,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2002,2002,Export,Jordan,28,Inorganic chemicals,Latin America and the Caribbean,Americas,44401,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2002,2002,Export,Jordan,28,Inorganic chemicals,Northern Africa,Africa,2582696,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2002,2002,Export,Jordan,28,Inorganic chemicals,Northern America,Americas,7599,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2002,2002,Export,Jordan,28,Inorganic chemicals,Northern Europe,Europe,12760,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2002,2002,Export,Jordan,28,Inorganic chemicals,Southern Asia,Asia,2493235,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2002,2002,Export,Jordan,28,Inorganic chemicals,Sub-Saharan Africa,Africa,605575,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2002,2002,Export,Jordan,28,Inorganic chemicals,Western Asia,Asia,569746,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2002,2002,Export,Jordan,28,Inorganic chemicals,Western Europe,Europe,43695,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2002,2002,Export,Jordan,28,Inorganic chemicals,World,World,110572029,31.1667049,36.941628,,

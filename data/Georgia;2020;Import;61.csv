@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Central Asia,Asia,222915
-2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Eastern Asia,Asia,12488061
-2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Eastern Europe,Europe,3654141
-2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Latin America and the Caribbean,Americas,46
-2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Northern Africa,Africa,28
-2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Northern America,Americas,125966
-2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Northern Europe,Europe,2641808
-2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,South-eastern Asia,Asia,52355
-2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Southern Asia,Asia,1269718
-2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Southern Europe,Europe,14558351
-2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Western Asia,Asia,27459637
-2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Western Europe,Europe,7146368
-2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,World,World,70501554
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Central Asia,Asia,222915,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Eastern Asia,Asia,12488061,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Eastern Europe,Europe,3654141,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Latin America and the Caribbean,Americas,46,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Northern Africa,Africa,28,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Northern America,Americas,125966,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Northern Europe,Europe,2641808,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,South-eastern Asia,Asia,52355,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Southern Asia,Asia,1269718,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Southern Europe,Europe,14558351,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Western Asia,Asia,27459637,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,Western Europe,Europe,7146368,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2020,2020,Import,Georgia,61,Apparel and clothing accessories; knitted or crocheted,World,World,70501554,32.3293809,-83.1137366,,

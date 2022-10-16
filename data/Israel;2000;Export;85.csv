@@ -1,18 +1,18 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,48981000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Central Asia,Asia,13037000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Eastern Asia,Asia,484826000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Eastern Europe,Europe,202055000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,325489000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Melanesia,Oceania,23000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Northern Africa,Africa,774000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Northern America,Americas,2508710000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Northern Europe,Europe,611742000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Polynesia,Oceania,14000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",South-eastern Asia,Asia,1237948000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Southern Asia,Asia,2166000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Southern Europe,Europe,291974000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,101773000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Western Asia,Asia,32447000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",Western Europe,Europe,1243871000
-2000,2000,Export,Israel,85,"Electrical, electronic equipment",World,World,7379992000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,48981000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Central Asia,Asia,13037000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Eastern Asia,Asia,484826000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Eastern Europe,Europe,202055000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,325489000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Melanesia,Oceania,23000,30.8124247,34.8594762,1.0108650891006263,147.3257485906919
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Northern Africa,Africa,774000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Northern America,Americas,2508710000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Northern Europe,Europe,611742000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Polynesia,Oceania,14000,30.8124247,34.8594762,-5.109184731250752,167.40343615892436
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",South-eastern Asia,Asia,1237948000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Southern Asia,Asia,2166000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Southern Europe,Europe,291974000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,101773000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Western Asia,Asia,32447000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",Western Europe,Europe,1243871000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2000,2000,Export,Israel,85,"Electrical, electronic equipment",World,World,7379992000,30.8124247,34.8594762,,

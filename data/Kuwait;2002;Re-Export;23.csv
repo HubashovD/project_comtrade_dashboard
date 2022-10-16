@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Re-Export,Kuwait,23,"Residues, wastes of food industry, animal fodder",Northern Africa,Africa,3128
-2002,2002,Re-Export,Kuwait,23,"Residues, wastes of food industry, animal fodder",Southern Asia,Asia,49
-2002,2002,Re-Export,Kuwait,23,"Residues, wastes of food industry, animal fodder",World,World,26211
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Re-Export,Kuwait,23,"Residues, wastes of food industry, animal fodder",Northern Africa,Africa,3128,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2002,2002,Re-Export,Kuwait,23,"Residues, wastes of food industry, animal fodder",Southern Asia,Asia,49,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2002,2002,Re-Export,Kuwait,23,"Residues, wastes of food industry, animal fodder",World,World,26211,29.2733964,47.4979476,,

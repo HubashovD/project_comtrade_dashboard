@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Lebanon,50,Silk,Northern Europe,Europe,23408
-2006,2006,Export,Lebanon,50,Silk,Western Europe,Europe,68898
-2006,2006,Export,Lebanon,50,Silk,World,World,309934
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Lebanon,50,Silk,Northern Europe,Europe,23408,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2006,2006,Export,Lebanon,50,Silk,Western Europe,Europe,68898,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2006,2006,Export,Lebanon,50,Silk,World,World,309934,33.8750629,35.843409,,

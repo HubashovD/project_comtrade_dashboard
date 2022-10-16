@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Kuwait,52,Cotton,Australia and New Zealand,Oceania,9860
-2006,2006,Import,Kuwait,52,Cotton,Eastern Asia,Asia,3293998
-2006,2006,Import,Kuwait,52,Cotton,Eastern Europe,Europe,209369
-2006,2006,Import,Kuwait,52,Cotton,Latin America and the Caribbean,Americas,18442
-2006,2006,Import,Kuwait,52,Cotton,Northern Africa,Africa,111692
-2006,2006,Import,Kuwait,52,Cotton,Northern America,Americas,168292
-2006,2006,Import,Kuwait,52,Cotton,Northern Europe,Europe,257094
-2006,2006,Import,Kuwait,52,Cotton,South-eastern Asia,Asia,920387
-2006,2006,Import,Kuwait,52,Cotton,Southern Asia,Asia,53763
-2006,2006,Import,Kuwait,52,Cotton,Southern Europe,Europe,1278065
-2006,2006,Import,Kuwait,52,Cotton,Western Asia,Asia,201249
-2006,2006,Import,Kuwait,52,Cotton,Western Europe,Europe,948620
-2006,2006,Import,Kuwait,52,Cotton,World,World,14653876
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Kuwait,52,Cotton,Australia and New Zealand,Oceania,9860,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2006,2006,Import,Kuwait,52,Cotton,Eastern Asia,Asia,3293998,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2006,2006,Import,Kuwait,52,Cotton,Eastern Europe,Europe,209369,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2006,2006,Import,Kuwait,52,Cotton,Latin America and the Caribbean,Americas,18442,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2006,2006,Import,Kuwait,52,Cotton,Northern Africa,Africa,111692,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2006,2006,Import,Kuwait,52,Cotton,Northern America,Americas,168292,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2006,2006,Import,Kuwait,52,Cotton,Northern Europe,Europe,257094,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2006,2006,Import,Kuwait,52,Cotton,South-eastern Asia,Asia,920387,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2006,2006,Import,Kuwait,52,Cotton,Southern Asia,Asia,53763,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2006,2006,Import,Kuwait,52,Cotton,Southern Europe,Europe,1278065,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2006,2006,Import,Kuwait,52,Cotton,Western Asia,Asia,201249,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2006,2006,Import,Kuwait,52,Cotton,Western Europe,Europe,948620,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2006,2006,Import,Kuwait,52,Cotton,World,World,14653876,29.2733964,47.4979476,,

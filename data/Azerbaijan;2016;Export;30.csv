@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Azerbaijan,30,Pharmaceutical products,Central Asia,Asia,327
-2016,2016,Export,Azerbaijan,30,Pharmaceutical products,Eastern Europe,Europe,24289
-2016,2016,Export,Azerbaijan,30,Pharmaceutical products,Northern Europe,Europe,45235
-2016,2016,Export,Azerbaijan,30,Pharmaceutical products,Western Asia,Asia,244180
-2016,2016,Export,Azerbaijan,30,Pharmaceutical products,Western Europe,Europe,359013
-2016,2016,Export,Azerbaijan,30,Pharmaceutical products,World,World,1063578
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Azerbaijan,30,Pharmaceutical products,Central Asia,Asia,327,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2016,2016,Export,Azerbaijan,30,Pharmaceutical products,Eastern Europe,Europe,24289,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2016,2016,Export,Azerbaijan,30,Pharmaceutical products,Northern Europe,Europe,45235,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2016,2016,Export,Azerbaijan,30,Pharmaceutical products,Western Asia,Asia,244180,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2016,2016,Export,Azerbaijan,30,Pharmaceutical products,Western Europe,Europe,359013,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2016,2016,Export,Azerbaijan,30,Pharmaceutical products,World,World,1063578,40.3936294,47.7872508,,

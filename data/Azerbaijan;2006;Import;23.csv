@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,Eastern Europe,Europe,1993426
-2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,Latin America and the Caribbean,Americas,3349402
-2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,Northern America,Americas,10081
-2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,Northern Europe,Europe,160
-2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,South-eastern Asia,Asia,175
-2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,Southern Asia,Asia,700
-2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,Western Asia,Asia,20951
-2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,Western Europe,Europe,696860
-2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,World,World,6566533
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,Eastern Europe,Europe,1993426,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,Latin America and the Caribbean,Americas,3349402,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,Northern America,Americas,10081,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,Northern Europe,Europe,160,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,South-eastern Asia,Asia,175,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,Southern Asia,Asia,700,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,Western Asia,Asia,20951,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,Western Europe,Europe,696860,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2006,2006,Import,Azerbaijan,23,Residues and waste from the food industries,World,World,6566533,40.3936294,47.7872508,,

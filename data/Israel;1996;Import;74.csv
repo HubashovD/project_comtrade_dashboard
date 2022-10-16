@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Israel,74,Copper and articles thereof,Australia and New Zealand,Oceania,73000
-1996,1996,Import,Israel,74,Copper and articles thereof,Eastern Asia,Asia,2427000
-1996,1996,Import,Israel,74,Copper and articles thereof,Eastern Europe,Europe,2113000
-1996,1996,Import,Israel,74,Copper and articles thereof,Latin America and the Caribbean,Americas,64000
-1996,1996,Import,Israel,74,Copper and articles thereof,Northern America,Americas,22345000
-1996,1996,Import,Israel,74,Copper and articles thereof,Northern Europe,Europe,28852000
-1996,1996,Import,Israel,74,Copper and articles thereof,Southern Europe,Europe,35024000
-1996,1996,Import,Israel,74,Copper and articles thereof,Western Asia,Asia,4666000
-1996,1996,Import,Israel,74,Copper and articles thereof,Western Europe,Europe,74965000
-1996,1996,Import,Israel,74,Copper and articles thereof,World,World,207754000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Israel,74,Copper and articles thereof,Australia and New Zealand,Oceania,73000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1996,1996,Import,Israel,74,Copper and articles thereof,Eastern Asia,Asia,2427000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1996,1996,Import,Israel,74,Copper and articles thereof,Eastern Europe,Europe,2113000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1996,1996,Import,Israel,74,Copper and articles thereof,Latin America and the Caribbean,Americas,64000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1996,1996,Import,Israel,74,Copper and articles thereof,Northern America,Americas,22345000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1996,1996,Import,Israel,74,Copper and articles thereof,Northern Europe,Europe,28852000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1996,1996,Import,Israel,74,Copper and articles thereof,Southern Europe,Europe,35024000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1996,1996,Import,Israel,74,Copper and articles thereof,Western Asia,Asia,4666000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1996,1996,Import,Israel,74,Copper and articles thereof,Western Europe,Europe,74965000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1996,1996,Import,Israel,74,Copper and articles thereof,World,World,207754000,30.8124247,34.8594762,,

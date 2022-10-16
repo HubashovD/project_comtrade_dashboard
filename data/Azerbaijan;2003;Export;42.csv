@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Eastern Asia,Asia,1249
-2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Eastern Europe,Europe,96
-2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Northern Africa,Africa,30
-2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Northern America,Americas,60
-2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Northern Europe,Europe,150
-2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",South-eastern Asia,Asia,200
-2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Southern Europe,Europe,76
-2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Western Asia,Asia,170
-2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Western Europe,Europe,150
-2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",World,World,2342
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Eastern Asia,Asia,1249,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Eastern Europe,Europe,96,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Northern Africa,Africa,30,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Northern America,Americas,60,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Northern Europe,Europe,150,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",South-eastern Asia,Asia,200,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Southern Europe,Europe,76,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Western Asia,Asia,170,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",Western Europe,Europe,150,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2003,2003,Export,Azerbaijan,42,"Articles of leather, animal gut, harness, travel goods",World,World,2342,40.3936294,47.7872508,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Export,Jordan,95,"Toys, games, sports requisites",Eastern Asia,Asia,2647
-1994,1994,Export,Jordan,95,"Toys, games, sports requisites",Eastern Europe,Europe,13345
-1994,1994,Export,Jordan,95,"Toys, games, sports requisites",Northern Africa,Africa,19794
-1994,1994,Export,Jordan,95,"Toys, games, sports requisites",Northern Europe,Europe,1431
-1994,1994,Export,Jordan,95,"Toys, games, sports requisites",Southern Europe,Europe,4293
-1994,1994,Export,Jordan,95,"Toys, games, sports requisites",World,World,427885
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Export,Jordan,95,"Toys, games, sports requisites",Eastern Asia,Asia,2647,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1994,1994,Export,Jordan,95,"Toys, games, sports requisites",Eastern Europe,Europe,13345,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1994,1994,Export,Jordan,95,"Toys, games, sports requisites",Northern Africa,Africa,19794,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1994,1994,Export,Jordan,95,"Toys, games, sports requisites",Northern Europe,Europe,1431,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Export,Jordan,95,"Toys, games, sports requisites",Southern Europe,Europe,4293,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1994,1994,Export,Jordan,95,"Toys, games, sports requisites",World,World,427885,31.1667049,36.941628,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Eastern Asia,Asia,7693000
-2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Latin America and the Caribbean,Americas,7000
-2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Northern Africa,Africa,1000
-2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Northern America,Americas,517000
-2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Northern Europe,Europe,72000
-2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,South-eastern Asia,Asia,328000
-2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Southern Asia,Asia,9000
-2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Southern Europe,Europe,1323000
-2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Western Asia,Asia,11000
-2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Western Europe,Europe,21063000
-2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,World,World,31513000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Eastern Asia,Asia,7693000,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Latin America and the Caribbean,Americas,7000,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Northern Africa,Africa,1000,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Northern America,Americas,517000,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Northern Europe,Europe,72000,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,South-eastern Asia,Asia,328000,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Southern Asia,Asia,9000,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Southern Europe,Europe,1323000,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Western Asia,Asia,11000,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,Western Europe,Europe,21063000,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2004,2004,Import,Lebanon,91,Clocks and watches and parts thereof,World,World,31513000,33.8750629,35.843409,,

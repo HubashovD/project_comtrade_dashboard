@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,Eastern Asia,Asia,64858
-2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,Eastern Europe,Europe,42294
-2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,Northern America,Americas,265784
-2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,Northern Europe,Europe,245092
-2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,South-eastern Asia,Asia,2087
-2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,Southern Europe,Europe,111
-2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,Western Asia,Asia,13750
-2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,World,World,635342
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,Eastern Asia,Asia,64858,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,Eastern Europe,Europe,42294,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,Northern America,Americas,265784,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,Northern Europe,Europe,245092,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,South-eastern Asia,Asia,2087,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,Southern Europe,Europe,111,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,Western Asia,Asia,13750,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2012,2012,Import,Azerbaijan,75,Nickel and articles thereof,World,World,635342,40.3936294,47.7872508,,

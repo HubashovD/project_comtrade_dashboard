@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Export,Kuwait,5,"Products of animal origin, not elsewhere specified",Sub-Saharan Africa,Africa,89083
-2008,2008,Export,Kuwait,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,830936
-2008,2008,Export,Kuwait,5,"Products of animal origin, not elsewhere specified",World,World,1200682
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Export,Kuwait,5,"Products of animal origin, not elsewhere specified",Sub-Saharan Africa,Africa,89083,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2008,2008,Export,Kuwait,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,830936,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Export,Kuwait,5,"Products of animal origin, not elsewhere specified",World,World,1200682,29.2733964,47.4979476,,

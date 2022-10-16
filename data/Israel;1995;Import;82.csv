@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Eastern Asia,Asia,10707000
-1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Eastern Europe,Europe,287000
-1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Latin America and the Caribbean,Americas,164000
-1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Northern Africa,Africa,168000
-1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Northern America,Americas,23564000
-1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Northern Europe,Europe,16283000
-1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",South-eastern Asia,Asia,340000
-1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Southern Europe,Europe,17721000
-1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Western Asia,Asia,122000
-1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Western Europe,Europe,38330000
-1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",World,World,125565000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Eastern Asia,Asia,10707000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Eastern Europe,Europe,287000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Latin America and the Caribbean,Americas,164000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Northern Africa,Africa,168000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Northern America,Americas,23564000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Northern Europe,Europe,16283000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",South-eastern Asia,Asia,340000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Southern Europe,Europe,17721000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Western Asia,Asia,122000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",Western Europe,Europe,38330000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Import,Israel,82,"Tools, implements, cutlery, etc of base metal",World,World,125565000,30.8124247,34.8594762,,

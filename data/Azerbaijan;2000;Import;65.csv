@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Asia,Asia,1368
-2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Europe,Europe,15
-2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Latin America and the Caribbean,Americas,614
-2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Northern America,Americas,2626
-2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Northern Europe,Europe,20681
-2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,South-eastern Asia,Asia,2608
-2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Southern Asia,Asia,84
-2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Western Asia,Asia,14515
-2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Western Europe,Europe,10194
-2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,World,World,58432
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Asia,Asia,1368,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Europe,Europe,15,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Latin America and the Caribbean,Americas,614,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Northern America,Americas,2626,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Northern Europe,Europe,20681,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,South-eastern Asia,Asia,2608,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Southern Asia,Asia,84,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Western Asia,Asia,14515,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,Western Europe,Europe,10194,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Import,Azerbaijan,65,Headgear and parts thereof,World,World,58432,40.3936294,47.7872508,,

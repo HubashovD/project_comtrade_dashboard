@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Australia and New Zealand,Oceania,163192
-2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Eastern Asia,Asia,765346
-2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Eastern Europe,Europe,724946
-2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Latin America and the Caribbean,Americas,49253607
-2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Northern Africa,Africa,426190
-2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Northern America,Americas,11376939
-2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Northern Europe,Europe,233669
-2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,South-eastern Asia,Asia,355097
-2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Southern Europe,Europe,2504177
-2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Sub-Saharan Africa,Africa,27561
-2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Western Asia,Asia,1066952
-2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Western Europe,Europe,8706072
-2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,World,World,87065234
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Australia and New Zealand,Oceania,163192,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Eastern Asia,Asia,765346,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Eastern Europe,Europe,724946,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Latin America and the Caribbean,Americas,49253607,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Northern Africa,Africa,426190,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Northern America,Americas,11376939,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Northern Europe,Europe,233669,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,South-eastern Asia,Asia,355097,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Southern Europe,Europe,2504177,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Sub-Saharan Africa,Africa,27561,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Western Asia,Asia,1066952,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,Western Europe,Europe,8706072,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2007,2007,Import,Jordan,23,Residues and waste from the food industries; prepared animal fodder,World,World,87065234,31.1667049,36.941628,,

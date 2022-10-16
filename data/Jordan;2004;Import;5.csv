@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Eastern Asia,Asia,6063
-2004,2004,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Northern America,Americas,78408
-2004,2004,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Northern Europe,Europe,4980
-2004,2004,Import,Jordan,5,"Products of animal origin, not elsewhere specified",South-eastern Asia,Asia,2354
-2004,2004,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Sub-Saharan Africa,Africa,3017
-2004,2004,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,214050
-2004,2004,Import,Jordan,5,"Products of animal origin, not elsewhere specified",World,World,308872
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Eastern Asia,Asia,6063,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2004,2004,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Northern America,Americas,78408,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2004,2004,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Northern Europe,Europe,4980,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2004,2004,Import,Jordan,5,"Products of animal origin, not elsewhere specified",South-eastern Asia,Asia,2354,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2004,2004,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Sub-Saharan Africa,Africa,3017,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2004,2004,Import,Jordan,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,214050,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2004,2004,Import,Jordan,5,"Products of animal origin, not elsewhere specified",World,World,308872,31.1667049,36.941628,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Jordan,31,Fertilisers,Australia and New Zealand,Oceania,26367
-2007,2007,Import,Jordan,31,Fertilisers,Eastern Asia,Asia,1961897
-2007,2007,Import,Jordan,31,Fertilisers,Eastern Europe,Europe,360929
-2007,2007,Import,Jordan,31,Fertilisers,Latin America and the Caribbean,Americas,26277
-2007,2007,Import,Jordan,31,Fertilisers,Northern Africa,Africa,4606552
-2007,2007,Import,Jordan,31,Fertilisers,Northern America,Americas,846995
-2007,2007,Import,Jordan,31,Fertilisers,Northern Europe,Europe,61551
-2007,2007,Import,Jordan,31,Fertilisers,South-eastern Asia,Asia,35602
-2007,2007,Import,Jordan,31,Fertilisers,Southern Europe,Europe,2691043
-2007,2007,Import,Jordan,31,Fertilisers,Western Asia,Asia,209601
-2007,2007,Import,Jordan,31,Fertilisers,Western Europe,Europe,3949396
-2007,2007,Import,Jordan,31,Fertilisers,World,World,20689019
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Jordan,31,Fertilisers,Australia and New Zealand,Oceania,26367,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2007,2007,Import,Jordan,31,Fertilisers,Eastern Asia,Asia,1961897,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2007,2007,Import,Jordan,31,Fertilisers,Eastern Europe,Europe,360929,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2007,2007,Import,Jordan,31,Fertilisers,Latin America and the Caribbean,Americas,26277,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2007,2007,Import,Jordan,31,Fertilisers,Northern Africa,Africa,4606552,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2007,2007,Import,Jordan,31,Fertilisers,Northern America,Americas,846995,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2007,2007,Import,Jordan,31,Fertilisers,Northern Europe,Europe,61551,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2007,2007,Import,Jordan,31,Fertilisers,South-eastern Asia,Asia,35602,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2007,2007,Import,Jordan,31,Fertilisers,Southern Europe,Europe,2691043,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2007,2007,Import,Jordan,31,Fertilisers,Western Asia,Asia,209601,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2007,2007,Import,Jordan,31,Fertilisers,Western Europe,Europe,3949396,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2007,2007,Import,Jordan,31,Fertilisers,World,World,20689019,31.1667049,36.941628,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Jordan,78,Lead and articles thereof,Eastern Asia,Asia,46621
-2009,2009,Import,Jordan,78,Lead and articles thereof,Northern Europe,Europe,293
-2009,2009,Import,Jordan,78,Lead and articles thereof,South-eastern Asia,Asia,76703
-2009,2009,Import,Jordan,78,Lead and articles thereof,Southern Europe,Europe,10030
-2009,2009,Import,Jordan,78,Lead and articles thereof,Western Europe,Europe,3469
-2009,2009,Import,Jordan,78,Lead and articles thereof,World,World,771666
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Jordan,78,Lead and articles thereof,Eastern Asia,Asia,46621,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2009,2009,Import,Jordan,78,Lead and articles thereof,Northern Europe,Europe,293,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2009,2009,Import,Jordan,78,Lead and articles thereof,South-eastern Asia,Asia,76703,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2009,2009,Import,Jordan,78,Lead and articles thereof,Southern Europe,Europe,10030,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2009,2009,Import,Jordan,78,Lead and articles thereof,Western Europe,Europe,3469,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2009,2009,Import,Jordan,78,Lead and articles thereof,World,World,771666,31.1667049,36.941628,,

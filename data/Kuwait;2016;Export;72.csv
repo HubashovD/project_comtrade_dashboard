@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Kuwait,72,Iron and steel,Eastern Asia,Asia,138999
-2016,2016,Export,Kuwait,72,Iron and steel,Eastern Europe,Europe,13120
-2016,2016,Export,Kuwait,72,Iron and steel,Northern Africa,Africa,164555
-2016,2016,Export,Kuwait,72,Iron and steel,Northern America,Americas,296857
-2016,2016,Export,Kuwait,72,Iron and steel,Northern Europe,Europe,723503
-2016,2016,Export,Kuwait,72,Iron and steel,South-eastern Asia,Asia,480336
-2016,2016,Export,Kuwait,72,Iron and steel,Southern Asia,Asia,402898
-2016,2016,Export,Kuwait,72,Iron and steel,Southern Europe,Europe,50125
-2016,2016,Export,Kuwait,72,Iron and steel,Western Asia,Asia,140102
-2016,2016,Export,Kuwait,72,Iron and steel,Western Europe,Europe,36909
-2016,2016,Export,Kuwait,72,Iron and steel,World,World,68680757
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Kuwait,72,Iron and steel,Eastern Asia,Asia,138999,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2016,2016,Export,Kuwait,72,Iron and steel,Eastern Europe,Europe,13120,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2016,2016,Export,Kuwait,72,Iron and steel,Northern Africa,Africa,164555,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2016,2016,Export,Kuwait,72,Iron and steel,Northern America,Americas,296857,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2016,2016,Export,Kuwait,72,Iron and steel,Northern Europe,Europe,723503,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2016,2016,Export,Kuwait,72,Iron and steel,South-eastern Asia,Asia,480336,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2016,2016,Export,Kuwait,72,Iron and steel,Southern Asia,Asia,402898,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2016,2016,Export,Kuwait,72,Iron and steel,Southern Europe,Europe,50125,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2016,2016,Export,Kuwait,72,Iron and steel,Western Asia,Asia,140102,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2016,2016,Export,Kuwait,72,Iron and steel,Western Europe,Europe,36909,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2016,2016,Export,Kuwait,72,Iron and steel,World,World,68680757,29.2733964,47.4979476,,

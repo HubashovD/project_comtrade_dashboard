@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Australia and New Zealand,Oceania,17925
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Eastern Asia,Asia,2807157
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Eastern Europe,Europe,10363309
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,113720209
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Northern Africa,Africa,11525588
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Northern America,Americas,1883694
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Northern Europe,Europe,3741725
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Polynesia,Oceania,45
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,South-eastern Asia,Asia,1985188
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Southern Asia,Asia,83134
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Southern Europe,Europe,4857349
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,153143
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Western Asia,Asia,6516845
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Western Europe,Europe,26266993
-2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,World,World,202870154
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Australia and New Zealand,Oceania,17925,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Eastern Asia,Asia,2807157,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Eastern Europe,Europe,10363309,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,113720209,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Northern Africa,Africa,11525588,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Northern America,Americas,1883694,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Northern Europe,Europe,3741725,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Polynesia,Oceania,45,33.8750629,35.843409,-5.109184731250752,167.40343615892436
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,South-eastern Asia,Asia,1985188,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Southern Asia,Asia,83134,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Southern Europe,Europe,4857349,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,153143,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Western Asia,Asia,6516845,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,Western Europe,Europe,26266993,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2016,2016,Import,Lebanon,17,Sugars and sugar confectionery,World,World,202870154,33.8750629,35.843409,,

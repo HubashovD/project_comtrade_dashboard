@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Georgia,93,"Arms and ammunition, parts and accessories thereof",Eastern Europe,Europe,342728
-1997,1997,Import,Georgia,93,"Arms and ammunition, parts and accessories thereof",Northern Europe,Europe,963
-1997,1997,Import,Georgia,93,"Arms and ammunition, parts and accessories thereof",Southern Europe,Europe,117066
-1997,1997,Import,Georgia,93,"Arms and ammunition, parts and accessories thereof",Western Asia,Asia,586
-1997,1997,Import,Georgia,93,"Arms and ammunition, parts and accessories thereof",Western Europe,Europe,62382
-1997,1997,Import,Georgia,93,"Arms and ammunition, parts and accessories thereof",World,World,535862
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Georgia,93,"Arms and ammunition, parts and accessories thereof",Eastern Europe,Europe,342728,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1997,1997,Import,Georgia,93,"Arms and ammunition, parts and accessories thereof",Northern Europe,Europe,963,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1997,1997,Import,Georgia,93,"Arms and ammunition, parts and accessories thereof",Southern Europe,Europe,117066,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1997,1997,Import,Georgia,93,"Arms and ammunition, parts and accessories thereof",Western Asia,Asia,586,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1997,1997,Import,Georgia,93,"Arms and ammunition, parts and accessories thereof",Western Europe,Europe,62382,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1997,1997,Import,Georgia,93,"Arms and ammunition, parts and accessories thereof",World,World,535862,32.3293809,-83.1137366,,

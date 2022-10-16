@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Jordan,79,Zinc and articles thereof,Eastern Asia,Asia,555989
-2000,2000,Import,Jordan,79,Zinc and articles thereof,Eastern Europe,Europe,621884
-2000,2000,Import,Jordan,79,Zinc and articles thereof,Northern Europe,Europe,16930
-2000,2000,Import,Jordan,79,Zinc and articles thereof,Western Europe,Europe,214944
-2000,2000,Import,Jordan,79,Zinc and articles thereof,World,World,1587388
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Jordan,79,Zinc and articles thereof,Eastern Asia,Asia,555989,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Import,Jordan,79,Zinc and articles thereof,Eastern Europe,Europe,621884,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Import,Jordan,79,Zinc and articles thereof,Northern Europe,Europe,16930,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Import,Jordan,79,Zinc and articles thereof,Western Europe,Europe,214944,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Import,Jordan,79,Zinc and articles thereof,World,World,1587388,31.1667049,36.941628,,

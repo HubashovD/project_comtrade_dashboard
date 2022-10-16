@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Australia and New Zealand,Oceania,12000
-2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Asia,Asia,14315000
-2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Europe,Europe,8198000
-2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Latin America and the Caribbean,Americas,42033000
-2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Africa,Africa,474000
-2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern America,Americas,31563000
-2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Europe,Europe,1080000
-2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",South-eastern Asia,Asia,18241000
-2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Europe,Europe,15322000
-2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Sub-Saharan Africa,Africa,12536000
-2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Asia,Asia,8856000
-2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Europe,Europe,31741000
-2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,194113000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Australia and New Zealand,Oceania,12000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Asia,Asia,14315000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Europe,Europe,8198000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Latin America and the Caribbean,Americas,42033000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Africa,Africa,474000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern America,Americas,31563000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Europe,Europe,1080000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",South-eastern Asia,Asia,18241000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Europe,Europe,15322000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Sub-Saharan Africa,Africa,12536000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Asia,Asia,8856000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Europe,Europe,31741000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2010,2010,Import,Israel,20,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,194113000,30.8124247,34.8594762,,

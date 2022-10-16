@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,25488
-2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Central Asia,Asia,319904
-2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Eastern Asia,Asia,44178
-2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Eastern Europe,Europe,49274675
-2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,35685
-2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Northern America,Americas,54655
-2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Northern Europe,Europe,226342
-2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,713527
-2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Southern Asia,Asia,1005342
-2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Southern Europe,Europe,1776781
-2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,8449
-2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Western Asia,Asia,8211008
-2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Western Europe,Europe,2729305
-2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,World,World,64839635
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,25488,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Central Asia,Asia,319904,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Eastern Asia,Asia,44178,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Eastern Europe,Europe,49274675,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,35685,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Northern America,Americas,54655,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Northern Europe,Europe,226342,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,713527,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Southern Asia,Asia,1005342,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Southern Europe,Europe,1776781,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,8449,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Western Asia,Asia,8211008,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,Western Europe,Europe,2729305,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2018,2018,Import,Azerbaijan,18,Cocoa and cocoa preparations,World,World,64839635,40.3936294,47.7872508,,

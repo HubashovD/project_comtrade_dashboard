@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Libya,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,6123
-2018,2018,Import,Libya,38,Miscellaneous chemical products,Eastern Asia,Asia,3735650
-2018,2018,Import,Libya,38,Miscellaneous chemical products,Eastern Europe,Europe,1057007
-2018,2018,Import,Libya,38,Miscellaneous chemical products,Northern Africa,Africa,3920034
-2018,2018,Import,Libya,38,Miscellaneous chemical products,Northern America,Americas,4934219
-2018,2018,Import,Libya,38,Miscellaneous chemical products,Northern Europe,Europe,6162319
-2018,2018,Import,Libya,38,Miscellaneous chemical products,South-eastern Asia,Asia,253149
-2018,2018,Import,Libya,38,Miscellaneous chemical products,Southern Europe,Europe,12160635
-2018,2018,Import,Libya,38,Miscellaneous chemical products,Western Asia,Asia,5069024
-2018,2018,Import,Libya,38,Miscellaneous chemical products,Western Europe,Europe,17243177
-2018,2018,Import,Libya,38,Miscellaneous chemical products,World,World,62903279
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Libya,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,6123,26.8234472,18.1236723,-16.85099460447687,133.4130365630627
+2018,2018,Import,Libya,38,Miscellaneous chemical products,Eastern Asia,Asia,3735650,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2018,2018,Import,Libya,38,Miscellaneous chemical products,Eastern Europe,Europe,1057007,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2018,2018,Import,Libya,38,Miscellaneous chemical products,Northern Africa,Africa,3920034,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2018,2018,Import,Libya,38,Miscellaneous chemical products,Northern America,Americas,4934219,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2018,2018,Import,Libya,38,Miscellaneous chemical products,Northern Europe,Europe,6162319,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2018,2018,Import,Libya,38,Miscellaneous chemical products,South-eastern Asia,Asia,253149,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2018,2018,Import,Libya,38,Miscellaneous chemical products,Southern Europe,Europe,12160635,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2018,2018,Import,Libya,38,Miscellaneous chemical products,Western Asia,Asia,5069024,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2018,2018,Import,Libya,38,Miscellaneous chemical products,Western Europe,Europe,17243177,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2018,2018,Import,Libya,38,Miscellaneous chemical products,World,World,62903279,26.8234472,18.1236723,,

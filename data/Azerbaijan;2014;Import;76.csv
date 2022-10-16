@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,163
-2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Central Asia,Asia,185821
-2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Eastern Asia,Asia,11218776
-2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Eastern Europe,Europe,4878712
-2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,10385
-2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Northern America,Americas,378856
-2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Northern Europe,Europe,3402997
-2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,South-eastern Asia,Asia,44677
-2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Southern Asia,Asia,99153
-2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Southern Europe,Europe,2262198
-2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Western Asia,Asia,27137209
-2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Western Europe,Europe,6546291
-2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,World,World,56614620
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,163,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Central Asia,Asia,185821,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Eastern Asia,Asia,11218776,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Eastern Europe,Europe,4878712,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,10385,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Northern America,Americas,378856,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Northern Europe,Europe,3402997,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,South-eastern Asia,Asia,44677,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Southern Asia,Asia,99153,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Southern Europe,Europe,2262198,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Western Asia,Asia,27137209,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,Western Europe,Europe,6546291,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2014,2014,Import,Azerbaijan,76,Aluminium and articles thereof,World,World,56614620,40.3936294,47.7872508,,

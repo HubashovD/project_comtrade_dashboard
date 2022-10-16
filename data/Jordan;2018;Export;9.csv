@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Australia and New Zealand,Oceania,645316
-2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,49877
-2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Northern Africa,Africa,444007
-2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Northern America,Americas,2528601
-2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Northern Europe,Europe,65665
-2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,243751
-2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Southern Asia,Asia,7328
-2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,22369
-2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Western Asia,Asia,149033
-2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Western Europe,Europe,457269
-2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",World,World,46365790
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Australia and New Zealand,Oceania,645316,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,49877,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Northern Africa,Africa,444007,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Northern America,Americas,2528601,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Northern Europe,Europe,65665,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,243751,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Southern Asia,Asia,7328,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,22369,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Western Asia,Asia,149033,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",Western Europe,Europe,457269,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2018,2018,Export,Jordan,9,"Coffee, tea, mate and spices",World,World,46365790,31.1667049,36.941628,,

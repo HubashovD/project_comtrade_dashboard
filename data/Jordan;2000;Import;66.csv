@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Jordan,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Asia,Asia,26852
-2000,2000,Import,Jordan,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern Africa,Africa,1128
-2000,2000,Import,Jordan,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",South-eastern Asia,Asia,30576
-2000,2000,Import,Jordan,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Europe,Europe,17401
-2000,2000,Import,Jordan,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Europe,Europe,22389
-2000,2000,Import,Jordan,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",World,World,145355
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Jordan,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Asia,Asia,26852,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Import,Jordan,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern Africa,Africa,1128,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Import,Jordan,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",South-eastern Asia,Asia,30576,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2000,2000,Import,Jordan,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Europe,Europe,17401,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2000,2000,Import,Jordan,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Europe,Europe,22389,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Import,Jordan,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",World,World,145355,31.1667049,36.941628,,

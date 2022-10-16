@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Eastern Asia,Asia,123430
-2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Latin America and the Caribbean,Americas,31156
-2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Northern Africa,Africa,45038967
-2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Northern America,Americas,40550
-2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Northern Europe,Europe,22332
-2007,2007,Import,Libya,15,Animal or vegetable fats and oils,South-eastern Asia,Asia,576766
-2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Southern Europe,Europe,32105
-2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Western Asia,Asia,5865974
-2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Western Europe,Europe,5203404
-2007,2007,Import,Libya,15,Animal or vegetable fats and oils,World,World,57928444
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Eastern Asia,Asia,123430,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Latin America and the Caribbean,Americas,31156,26.8234472,18.1236723,17.925141963241547,-78.01492950057497
+2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Northern Africa,Africa,45038967,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Northern America,Americas,40550,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Northern Europe,Europe,22332,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2007,2007,Import,Libya,15,Animal or vegetable fats and oils,South-eastern Asia,Asia,576766,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Southern Europe,Europe,32105,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Western Asia,Asia,5865974,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2007,2007,Import,Libya,15,Animal or vegetable fats and oils,Western Europe,Europe,5203404,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2007,2007,Import,Libya,15,Animal or vegetable fats and oils,World,World,57928444,26.8234472,18.1236723,,

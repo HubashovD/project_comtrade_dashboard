@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,State of Palestine,1,Animals; live,Eastern Europe,Europe,2102356
-2020,2020,Import,State of Palestine,1,Animals; live,Northern Africa,Africa,9300244
-2020,2020,Import,State of Palestine,1,Animals; live,Northern America,Americas,404
-2020,2020,Import,State of Palestine,1,Animals; live,Southern Europe,Europe,7579051
-2020,2020,Import,State of Palestine,1,Animals; live,World,World,195196517
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,State of Palestine,1,Animals; live,Eastern Europe,Europe,2102356,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2020,2020,Import,State of Palestine,1,Animals; live,Northern Africa,Africa,9300244,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2020,2020,Import,State of Palestine,1,Animals; live,Northern America,Americas,404,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2020,2020,Import,State of Palestine,1,Animals; live,Southern Europe,Europe,7579051,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2020,2020,Import,State of Palestine,1,Animals; live,World,World,195196517,31.46242095,34.262716572130714,,

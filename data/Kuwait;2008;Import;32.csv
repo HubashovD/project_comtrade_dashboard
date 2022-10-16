@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Australia and New Zealand,Oceania,225516
-2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Eastern Asia,Asia,13852369
-2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Eastern Europe,Europe,686192
-2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Latin America and the Caribbean,Americas,911141
-2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Northern America,Americas,10426849
-2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Northern Europe,Europe,11455116
-2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,South-eastern Asia,Asia,5320086
-2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Southern Asia,Asia,1543
-2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Southern Europe,Europe,9245344
-2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Sub-Saharan Africa,Africa,118756
-2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Western Asia,Asia,467911
-2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Western Europe,Europe,16572059
-2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,World,World,110067411
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Australia and New Zealand,Oceania,225516,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Eastern Asia,Asia,13852369,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Eastern Europe,Europe,686192,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Latin America and the Caribbean,Americas,911141,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Northern America,Americas,10426849,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Northern Europe,Europe,11455116,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,South-eastern Asia,Asia,5320086,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Southern Asia,Asia,1543,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Southern Europe,Europe,9245344,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Sub-Saharan Africa,Africa,118756,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Western Asia,Asia,467911,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,Western Europe,Europe,16572059,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Import,Kuwait,32,Tanning or dyeing extracts,World,World,110067411,29.2733964,47.4979476,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Central Asia,Asia,129575
-2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Eastern Europe,Europe,1705551
-2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Latin America and the Caribbean,Americas,381709
-2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Northern America,Americas,2274761
-2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,104885
-2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Southern Asia,Asia,2247229
-2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Western Asia,Asia,991490
-2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,622216
-2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",World,World,8457415
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Central Asia,Asia,129575,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Eastern Europe,Europe,1705551,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Latin America and the Caribbean,Americas,381709,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Northern America,Americas,2274761,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,104885,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Southern Asia,Asia,2247229,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Western Asia,Asia,991490,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,622216,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2003,2003,Import,Azerbaijan,23,"Residues, wastes of food industry, animal fodder",World,World,8457415,40.3936294,47.7872508,,

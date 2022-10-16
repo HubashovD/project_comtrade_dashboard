@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Azerbaijan,9,"Coffee, tea, matΦ and spices",Central Asia,Asia,10004
-2006,2006,Export,Azerbaijan,9,"Coffee, tea, matΦ and spices",Eastern Europe,Europe,17080534
-2006,2006,Export,Azerbaijan,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,15912
-2006,2006,Export,Azerbaijan,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,16
-2006,2006,Export,Azerbaijan,9,"Coffee, tea, matΦ and spices",World,World,18182126
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Azerbaijan,9,"Coffee, tea, matΦ and spices",Central Asia,Asia,10004,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2006,2006,Export,Azerbaijan,9,"Coffee, tea, matΦ and spices",Eastern Europe,Europe,17080534,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2006,2006,Export,Azerbaijan,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,15912,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2006,2006,Export,Azerbaijan,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,16,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2006,2006,Export,Azerbaijan,9,"Coffee, tea, matΦ and spices",World,World,18182126,40.3936294,47.7872508,,

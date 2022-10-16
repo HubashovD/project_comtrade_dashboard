@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Australia and New Zealand,Oceania,1462
-2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Eastern Asia,Asia,2371
-2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Eastern Europe,Europe,372608
-2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Latin America and the Caribbean,Americas,12089
-2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Northern America,Americas,498443
-2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Northern Europe,Europe,60942
-2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,South-eastern Asia,Asia,168
-2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Southern Asia,Asia,488154
-2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Southern Europe,Europe,43287
-2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Western Asia,Asia,1440727
-2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Western Europe,Europe,97761
-2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,World,World,3284593
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Australia and New Zealand,Oceania,1462,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Eastern Asia,Asia,2371,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Eastern Europe,Europe,372608,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Latin America and the Caribbean,Americas,12089,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Northern America,Americas,498443,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Northern Europe,Europe,60942,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,South-eastern Asia,Asia,168,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Southern Asia,Asia,488154,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Southern Europe,Europe,43287,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Western Asia,Asia,1440727,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,Western Europe,Europe,97761,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Import,Azerbaijan,21,Miscellaneous edible preparations,World,World,3284593,40.3936294,47.7872508,,

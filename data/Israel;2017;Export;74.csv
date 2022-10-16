@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Israel,74,Copper and articles thereof,Australia and New Zealand,Oceania,50000
-2017,2017,Export,Israel,74,Copper and articles thereof,Eastern Asia,Asia,54317000
-2017,2017,Export,Israel,74,Copper and articles thereof,Eastern Europe,Europe,2113000
-2017,2017,Export,Israel,74,Copper and articles thereof,Latin America and the Caribbean,Americas,139000
-2017,2017,Export,Israel,74,Copper and articles thereof,Northern America,Americas,14045000
-2017,2017,Export,Israel,74,Copper and articles thereof,Northern Europe,Europe,1935000
-2017,2017,Export,Israel,74,Copper and articles thereof,South-eastern Asia,Asia,1929000
-2017,2017,Export,Israel,74,Copper and articles thereof,Southern Europe,Europe,16745000
-2017,2017,Export,Israel,74,Copper and articles thereof,Sub-Saharan Africa,Africa,326000
-2017,2017,Export,Israel,74,Copper and articles thereof,Western Asia,Asia,4819000
-2017,2017,Export,Israel,74,Copper and articles thereof,Western Europe,Europe,19613000
-2017,2017,Export,Israel,74,Copper and articles thereof,World,World,118894000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Israel,74,Copper and articles thereof,Australia and New Zealand,Oceania,50000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2017,2017,Export,Israel,74,Copper and articles thereof,Eastern Asia,Asia,54317000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2017,2017,Export,Israel,74,Copper and articles thereof,Eastern Europe,Europe,2113000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2017,2017,Export,Israel,74,Copper and articles thereof,Latin America and the Caribbean,Americas,139000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2017,2017,Export,Israel,74,Copper and articles thereof,Northern America,Americas,14045000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2017,2017,Export,Israel,74,Copper and articles thereof,Northern Europe,Europe,1935000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2017,2017,Export,Israel,74,Copper and articles thereof,South-eastern Asia,Asia,1929000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2017,2017,Export,Israel,74,Copper and articles thereof,Southern Europe,Europe,16745000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2017,2017,Export,Israel,74,Copper and articles thereof,Sub-Saharan Africa,Africa,326000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2017,2017,Export,Israel,74,Copper and articles thereof,Western Asia,Asia,4819000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2017,2017,Export,Israel,74,Copper and articles thereof,Western Europe,Europe,19613000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2017,2017,Export,Israel,74,Copper and articles thereof,World,World,118894000,30.8124247,34.8594762,,

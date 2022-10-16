@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Azerbaijan,72,Iron and steel,Central Asia,Asia,1890
-2016,2016,Export,Azerbaijan,72,Iron and steel,Northern Europe,Europe,62151
-2016,2016,Export,Azerbaijan,72,Iron and steel,Southern Asia,Asia,27683360
-2016,2016,Export,Azerbaijan,72,Iron and steel,Southern Europe,Europe,260010
-2016,2016,Export,Azerbaijan,72,Iron and steel,Western Asia,Asia,5274451
-2016,2016,Export,Azerbaijan,72,Iron and steel,Western Europe,Europe,862470
-2016,2016,Export,Azerbaijan,72,Iron and steel,World,World,38989965
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Azerbaijan,72,Iron and steel,Central Asia,Asia,1890,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2016,2016,Export,Azerbaijan,72,Iron and steel,Northern Europe,Europe,62151,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2016,2016,Export,Azerbaijan,72,Iron and steel,Southern Asia,Asia,27683360,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2016,2016,Export,Azerbaijan,72,Iron and steel,Southern Europe,Europe,260010,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2016,2016,Export,Azerbaijan,72,Iron and steel,Western Asia,Asia,5274451,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2016,2016,Export,Azerbaijan,72,Iron and steel,Western Europe,Europe,862470,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2016,2016,Export,Azerbaijan,72,Iron and steel,World,World,38989965,40.3936294,47.7872508,,

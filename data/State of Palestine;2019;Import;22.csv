@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,63
-2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,222460
-2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,10689564
-2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,461808
-2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Northern Africa,Africa,4433540
-2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Northern America,Americas,213499
-2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Northern Europe,Europe,2236826
-2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,1625553
-2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Southern Asia,Asia,479812
-2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Southern Europe,Europe,504783
-2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Western Asia,Asia,7559908
-2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Western Europe,Europe,5904350
-2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",World,World,175486790
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,63,31.46242095,34.262716572130714,-16.85099460447687,133.4130365630627
+2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,222460,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,10689564,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,461808,31.46242095,34.262716572130714,17.925141963241547,-78.01492950057497
+2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Northern Africa,Africa,4433540,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Northern America,Americas,213499,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Northern Europe,Europe,2236826,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
+2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,1625553,31.46242095,34.262716572130714,10.528384761701911,103.08333472012376
+2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Southern Asia,Asia,479812,31.46242095,34.262716572130714,25.499703063807168,75.5024015339642
+2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Southern Europe,Europe,504783,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Western Asia,Asia,7559908,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
+2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",Western Europe,Europe,5904350,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2019,2019,Import,State of Palestine,22,"Beverages, spirits and vinegar",World,World,175486790,31.46242095,34.262716572130714,,

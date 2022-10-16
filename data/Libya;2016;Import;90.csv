@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Australia and New Zealand,Oceania,96640
-2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Asia,Asia,13600309
-2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Europe,Europe,1322374
-2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Latin America and the Caribbean,Americas,95199
-2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Africa,Africa,3445430
-2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern America,Americas,2612705
-2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Europe,Europe,6384935
-2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",South-eastern Asia,Asia,172406
-2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Southern Europe,Europe,15090899
-2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Sub-Saharan Africa,Africa,9835
-2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Asia,Asia,4131463
-2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Europe,Europe,64197348
-2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",World,World,141311726
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Australia and New Zealand,Oceania,96640,26.8234472,18.1236723,-16.85099460447687,133.4130365630627
+2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Asia,Asia,13600309,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Europe,Europe,1322374,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Latin America and the Caribbean,Americas,95199,26.8234472,18.1236723,17.925141963241547,-78.01492950057497
+2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Africa,Africa,3445430,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern America,Americas,2612705,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Europe,Europe,6384935,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",South-eastern Asia,Asia,172406,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Southern Europe,Europe,15090899,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Sub-Saharan Africa,Africa,9835,26.8234472,18.1236723,6.06272746187266,22.727528470146083
+2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Asia,Asia,4131463,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Europe,Europe,64197348,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2016,2016,Import,Libya,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",World,World,141311726,26.8234472,18.1236723,,

@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Northern Africa,Africa,154362
-1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Northern America,Americas,1552
-1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Northern Europe,Europe,12775
-1999,1999,Re-Export,Jordan,73,Articles of iron or steel,South-eastern Asia,Asia,28208
-1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Southern Asia,Asia,76789
-1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Southern Europe,Europe,1410
-1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Sub-Saharan Africa,Africa,70521
-1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Western Asia,Asia,111826
-1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Western Europe,Europe,26480
-1999,1999,Re-Export,Jordan,73,Articles of iron or steel,World,World,5155776
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Northern Africa,Africa,154362,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Northern America,Americas,1552,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Northern Europe,Europe,12775,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1999,1999,Re-Export,Jordan,73,Articles of iron or steel,South-eastern Asia,Asia,28208,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Southern Asia,Asia,76789,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Southern Europe,Europe,1410,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Sub-Saharan Africa,Africa,70521,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Western Asia,Asia,111826,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Re-Export,Jordan,73,Articles of iron or steel,Western Europe,Europe,26480,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Re-Export,Jordan,73,Articles of iron or steel,World,World,5155776,31.1667049,36.941628,,

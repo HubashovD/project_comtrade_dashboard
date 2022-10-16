@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Re-Export,Kuwait,29,Organic chemicals,Northern Europe,Europe,15417
-2000,2000,Re-Export,Kuwait,29,Organic chemicals,Southern Asia,Asia,1727
-2000,2000,Re-Export,Kuwait,29,Organic chemicals,Western Europe,Europe,417
-2000,2000,Re-Export,Kuwait,29,Organic chemicals,World,World,213427
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Re-Export,Kuwait,29,Organic chemicals,Northern Europe,Europe,15417,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Re-Export,Kuwait,29,Organic chemicals,Southern Asia,Asia,1727,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Re-Export,Kuwait,29,Organic chemicals,Western Europe,Europe,417,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Re-Export,Kuwait,29,Organic chemicals,World,World,213427,29.2733964,47.4979476,,

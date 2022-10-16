@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Jordan,74,Copper and articles thereof,Australia and New Zealand,Oceania,79286
-2002,2002,Import,Jordan,74,Copper and articles thereof,Eastern Asia,Asia,416615
-2002,2002,Import,Jordan,74,Copper and articles thereof,Eastern Europe,Europe,1834
-2002,2002,Import,Jordan,74,Copper and articles thereof,Latin America and the Caribbean,Americas,6849
-2002,2002,Import,Jordan,74,Copper and articles thereof,Northern Africa,Africa,14041
-2002,2002,Import,Jordan,74,Copper and articles thereof,Northern America,Americas,350634
-2002,2002,Import,Jordan,74,Copper and articles thereof,Northern Europe,Europe,717418
-2002,2002,Import,Jordan,74,Copper and articles thereof,South-eastern Asia,Asia,407793
-2002,2002,Import,Jordan,74,Copper and articles thereof,Southern Europe,Europe,2052455
-2002,2002,Import,Jordan,74,Copper and articles thereof,Western Asia,Asia,1389044
-2002,2002,Import,Jordan,74,Copper and articles thereof,Western Europe,Europe,1314497
-2002,2002,Import,Jordan,74,Copper and articles thereof,World,World,14728135
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Jordan,74,Copper and articles thereof,Australia and New Zealand,Oceania,79286,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2002,2002,Import,Jordan,74,Copper and articles thereof,Eastern Asia,Asia,416615,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2002,2002,Import,Jordan,74,Copper and articles thereof,Eastern Europe,Europe,1834,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2002,2002,Import,Jordan,74,Copper and articles thereof,Latin America and the Caribbean,Americas,6849,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2002,2002,Import,Jordan,74,Copper and articles thereof,Northern Africa,Africa,14041,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2002,2002,Import,Jordan,74,Copper and articles thereof,Northern America,Americas,350634,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2002,2002,Import,Jordan,74,Copper and articles thereof,Northern Europe,Europe,717418,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2002,2002,Import,Jordan,74,Copper and articles thereof,South-eastern Asia,Asia,407793,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2002,2002,Import,Jordan,74,Copper and articles thereof,Southern Europe,Europe,2052455,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2002,2002,Import,Jordan,74,Copper and articles thereof,Western Asia,Asia,1389044,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2002,2002,Import,Jordan,74,Copper and articles thereof,Western Europe,Europe,1314497,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2002,2002,Import,Jordan,74,Copper and articles thereof,World,World,14728135,31.1667049,36.941628,,

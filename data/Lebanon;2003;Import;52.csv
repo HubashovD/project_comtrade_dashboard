@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Lebanon,52,Cotton,Australia and New Zealand,Oceania,234481
-2003,2003,Import,Lebanon,52,Cotton,Central Asia,Asia,20260
-2003,2003,Import,Lebanon,52,Cotton,Eastern Asia,Asia,7107283
-2003,2003,Import,Lebanon,52,Cotton,Eastern Europe,Europe,176270
-2003,2003,Import,Lebanon,52,Cotton,Latin America and the Caribbean,Americas,1174566
-2003,2003,Import,Lebanon,52,Cotton,Northern Africa,Africa,739241
-2003,2003,Import,Lebanon,52,Cotton,Northern America,Americas,2165715
-2003,2003,Import,Lebanon,52,Cotton,Northern Europe,Europe,136375
-2003,2003,Import,Lebanon,52,Cotton,South-eastern Asia,Asia,1265355
-2003,2003,Import,Lebanon,52,Cotton,Southern Asia,Asia,2604
-2003,2003,Import,Lebanon,52,Cotton,Southern Europe,Europe,4642054
-2003,2003,Import,Lebanon,52,Cotton,Sub-Saharan Africa,Africa,10726
-2003,2003,Import,Lebanon,52,Cotton,Western Asia,Asia,2865962
-2003,2003,Import,Lebanon,52,Cotton,Western Europe,Europe,2169060
-2003,2003,Import,Lebanon,52,Cotton,World,World,29977555
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Lebanon,52,Cotton,Australia and New Zealand,Oceania,234481,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2003,2003,Import,Lebanon,52,Cotton,Central Asia,Asia,20260,33.8750629,35.843409,39.89317229901691,61.060280637304274
+2003,2003,Import,Lebanon,52,Cotton,Eastern Asia,Asia,7107283,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2003,2003,Import,Lebanon,52,Cotton,Eastern Europe,Europe,176270,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2003,2003,Import,Lebanon,52,Cotton,Latin America and the Caribbean,Americas,1174566,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2003,2003,Import,Lebanon,52,Cotton,Northern Africa,Africa,739241,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2003,2003,Import,Lebanon,52,Cotton,Northern America,Americas,2165715,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2003,2003,Import,Lebanon,52,Cotton,Northern Europe,Europe,136375,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2003,2003,Import,Lebanon,52,Cotton,South-eastern Asia,Asia,1265355,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2003,2003,Import,Lebanon,52,Cotton,Southern Asia,Asia,2604,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2003,2003,Import,Lebanon,52,Cotton,Southern Europe,Europe,4642054,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2003,2003,Import,Lebanon,52,Cotton,Sub-Saharan Africa,Africa,10726,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2003,2003,Import,Lebanon,52,Cotton,Western Asia,Asia,2865962,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2003,2003,Import,Lebanon,52,Cotton,Western Europe,Europe,2169060,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2003,2003,Import,Lebanon,52,Cotton,World,World,29977555,33.8750629,35.843409,,

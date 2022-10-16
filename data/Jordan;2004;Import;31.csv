@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Import,Jordan,31,Fertilizers,Eastern Asia,Asia,449203
-2004,2004,Import,Jordan,31,Fertilizers,Eastern Europe,Europe,320384
-2004,2004,Import,Jordan,31,Fertilizers,Latin America and the Caribbean,Americas,34021
-2004,2004,Import,Jordan,31,Fertilizers,Northern Africa,Africa,2869489
-2004,2004,Import,Jordan,31,Fertilizers,Northern America,Americas,617441
-2004,2004,Import,Jordan,31,Fertilizers,Northern Europe,Europe,543861
-2004,2004,Import,Jordan,31,Fertilizers,Southern Europe,Europe,1966512
-2004,2004,Import,Jordan,31,Fertilizers,Sub-Saharan Africa,Africa,7460
-2004,2004,Import,Jordan,31,Fertilizers,Western Asia,Asia,6480
-2004,2004,Import,Jordan,31,Fertilizers,Western Europe,Europe,1959641
-2004,2004,Import,Jordan,31,Fertilizers,World,World,12947774
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Import,Jordan,31,Fertilizers,Eastern Asia,Asia,449203,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2004,2004,Import,Jordan,31,Fertilizers,Eastern Europe,Europe,320384,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2004,2004,Import,Jordan,31,Fertilizers,Latin America and the Caribbean,Americas,34021,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2004,2004,Import,Jordan,31,Fertilizers,Northern Africa,Africa,2869489,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2004,2004,Import,Jordan,31,Fertilizers,Northern America,Americas,617441,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2004,2004,Import,Jordan,31,Fertilizers,Northern Europe,Europe,543861,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2004,2004,Import,Jordan,31,Fertilizers,Southern Europe,Europe,1966512,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2004,2004,Import,Jordan,31,Fertilizers,Sub-Saharan Africa,Africa,7460,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2004,2004,Import,Jordan,31,Fertilizers,Western Asia,Asia,6480,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2004,2004,Import,Jordan,31,Fertilizers,Western Europe,Europe,1959641,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2004,2004,Import,Jordan,31,Fertilizers,World,World,12947774,31.1667049,36.941628,,

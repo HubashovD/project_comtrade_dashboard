@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Azerbaijan,29,Organic chemicals,Central Asia,Asia,443853
-2000,2000,Export,Azerbaijan,29,Organic chemicals,Eastern Europe,Europe,4172542
-2000,2000,Export,Azerbaijan,29,Organic chemicals,Northern Africa,Africa,8395
-2000,2000,Export,Azerbaijan,29,Organic chemicals,Northern America,Americas,4
-2000,2000,Export,Azerbaijan,29,Organic chemicals,Northern Europe,Europe,21895
-2000,2000,Export,Azerbaijan,29,Organic chemicals,Southern Asia,Asia,152198
-2000,2000,Export,Azerbaijan,29,Organic chemicals,Southern Europe,Europe,886427
-2000,2000,Export,Azerbaijan,29,Organic chemicals,Western Asia,Asia,630249
-2000,2000,Export,Azerbaijan,29,Organic chemicals,Western Europe,Europe,1581475
-2000,2000,Export,Azerbaijan,29,Organic chemicals,World,World,9902503
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Azerbaijan,29,Organic chemicals,Central Asia,Asia,443853,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2000,2000,Export,Azerbaijan,29,Organic chemicals,Eastern Europe,Europe,4172542,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Export,Azerbaijan,29,Organic chemicals,Northern Africa,Africa,8395,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2000,2000,Export,Azerbaijan,29,Organic chemicals,Northern America,Americas,4,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Export,Azerbaijan,29,Organic chemicals,Northern Europe,Europe,21895,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Export,Azerbaijan,29,Organic chemicals,Southern Asia,Asia,152198,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Export,Azerbaijan,29,Organic chemicals,Southern Europe,Europe,886427,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2000,2000,Export,Azerbaijan,29,Organic chemicals,Western Asia,Asia,630249,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Export,Azerbaijan,29,Organic chemicals,Western Europe,Europe,1581475,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Export,Azerbaijan,29,Organic chemicals,World,World,9902503,40.3936294,47.7872508,,

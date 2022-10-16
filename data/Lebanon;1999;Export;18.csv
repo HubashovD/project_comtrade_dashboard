@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,3928
-1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,3234
-1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Northern Africa,Africa,850
-1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Northern America,Americas,261301
-1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Northern Europe,Europe,23548
-1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,49469
-1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Southern Europe,Europe,3315
-1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,44976
-1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Western Asia,Asia,8455
-1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Western Europe,Europe,19950
-1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,World,World,2641597
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,3928,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,3234,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Northern Africa,Africa,850,33.8750629,35.843409,19.569604022535763,12.47761721199581
+1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Northern America,Americas,261301,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Northern Europe,Europe,23548,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,49469,33.8750629,35.843409,10.528384761701911,103.08333472012376
+1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Southern Europe,Europe,3315,33.8750629,35.843409,40.12399607988535,20.742583178432696
+1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,44976,33.8750629,35.843409,6.06272746187266,22.727528470146083
+1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Western Asia,Asia,8455,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,Western Europe,Europe,19950,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1999,1999,Export,Lebanon,18,Cocoa and cocoa preparations,World,World,2641597,33.8750629,35.843409,,

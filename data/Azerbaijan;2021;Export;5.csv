@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Central Asia,Asia,1024
-2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,1385696
-2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,105250
-2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern Africa,Africa,147634
-2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,393198
-2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,150
-2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,323398
-2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Sub-Saharan Africa,Africa,46385
-2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,1708414
-2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,World,World,4317975
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Central Asia,Asia,1024,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,1385696,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,105250,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern Africa,Africa,147634,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,393198,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,150,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,323398,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Sub-Saharan Africa,Africa,46385,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,1708414,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2021,2021,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,World,World,4317975,40.3936294,47.7872508,,

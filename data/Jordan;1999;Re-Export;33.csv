@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,617
-1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,289140
-1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,13753
-1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,13399
-1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,4077
-1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,35261
-1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,2054
-1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,4981765
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,617,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,289140,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,13753,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,13399,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,4077,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,35261,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,2054,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Re-Export,Jordan,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,4981765,31.1667049,36.941628,,

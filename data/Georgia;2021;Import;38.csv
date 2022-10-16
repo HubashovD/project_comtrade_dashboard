@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,Australia and New Zealand,Oceania,24735
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,Central Asia,Asia,247400
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,Eastern Asia,Asia,26610026
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,Eastern Europe,Europe,15653986
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,44574
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,Northern Africa,Africa,25795
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,Northern America,Americas,1955429
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,Northern Europe,Europe,4994734
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,South-eastern Asia,Asia,307689
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,Southern Asia,Asia,621720
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,Southern Europe,Europe,7152617
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,178237
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,Western Asia,Asia,29345679
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,Western Europe,Europe,41461050
-2021,2021,Import,Georgia,38,Chemical products n.e.c.,World,World,143967232
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,Australia and New Zealand,Oceania,24735,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,Central Asia,Asia,247400,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,Eastern Asia,Asia,26610026,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,Eastern Europe,Europe,15653986,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,44574,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,Northern Africa,Africa,25795,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,Northern America,Americas,1955429,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,Northern Europe,Europe,4994734,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,South-eastern Asia,Asia,307689,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,Southern Asia,Asia,621720,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,Southern Europe,Europe,7152617,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,178237,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,Western Asia,Asia,29345679,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,Western Europe,Europe,41461050,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2021,2021,Import,Georgia,38,Chemical products n.e.c.,World,World,143967232,32.3293809,-83.1137366,,

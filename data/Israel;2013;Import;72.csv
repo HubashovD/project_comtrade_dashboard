@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Israel,72,Iron and steel,Australia and New Zealand,Oceania,315000
-2013,2013,Import,Israel,72,Iron and steel,Eastern Asia,Asia,149125000
-2013,2013,Import,Israel,72,Iron and steel,Eastern Europe,Europe,54263000
-2013,2013,Import,Israel,72,Iron and steel,Latin America and the Caribbean,Americas,15335000
-2013,2013,Import,Israel,72,Iron and steel,Northern Africa,Africa,24000
-2013,2013,Import,Israel,72,Iron and steel,Northern America,Americas,31775000
-2013,2013,Import,Israel,72,Iron and steel,Northern Europe,Europe,27752000
-2013,2013,Import,Israel,72,Iron and steel,South-eastern Asia,Asia,3568000
-2013,2013,Import,Israel,72,Iron and steel,Southern Europe,Europe,173756000
-2013,2013,Import,Israel,72,Iron and steel,Sub-Saharan Africa,Africa,6135000
-2013,2013,Import,Israel,72,Iron and steel,Western Asia,Asia,380968000
-2013,2013,Import,Israel,72,Iron and steel,Western Europe,Europe,552367000
-2013,2013,Import,Israel,72,Iron and steel,World,World,1460021000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Israel,72,Iron and steel,Australia and New Zealand,Oceania,315000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2013,2013,Import,Israel,72,Iron and steel,Eastern Asia,Asia,149125000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2013,2013,Import,Israel,72,Iron and steel,Eastern Europe,Europe,54263000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2013,2013,Import,Israel,72,Iron and steel,Latin America and the Caribbean,Americas,15335000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2013,2013,Import,Israel,72,Iron and steel,Northern Africa,Africa,24000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2013,2013,Import,Israel,72,Iron and steel,Northern America,Americas,31775000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2013,2013,Import,Israel,72,Iron and steel,Northern Europe,Europe,27752000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2013,2013,Import,Israel,72,Iron and steel,South-eastern Asia,Asia,3568000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2013,2013,Import,Israel,72,Iron and steel,Southern Europe,Europe,173756000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2013,2013,Import,Israel,72,Iron and steel,Sub-Saharan Africa,Africa,6135000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2013,2013,Import,Israel,72,Iron and steel,Western Asia,Asia,380968000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2013,2013,Import,Israel,72,Iron and steel,Western Europe,Europe,552367000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2013,2013,Import,Israel,72,Iron and steel,World,World,1460021000,30.8124247,34.8594762,,

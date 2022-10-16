@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Eastern Asia,Asia,5822
-2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Northern Africa,Africa,66274
-2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Northern America,Americas,24333
-2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",South-eastern Asia,Asia,1998991
-2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Southern Asia,Asia,538443
-2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Southern Europe,Europe,2855
-2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,10586
-2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Western Asia,Asia,8116
-2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Western Europe,Europe,10056
-2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",World,World,16409581
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Eastern Asia,Asia,5822,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Northern Africa,Africa,66274,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Northern America,Americas,24333,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",South-eastern Asia,Asia,1998991,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Southern Asia,Asia,538443,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Southern Europe,Europe,2855,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,10586,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Western Asia,Asia,8116,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",Western Europe,Europe,10056,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2007,2007,Re-Export,Kuwait,89,"Ships, boats and floating structures",World,World,16409581,29.2733964,47.4979476,,

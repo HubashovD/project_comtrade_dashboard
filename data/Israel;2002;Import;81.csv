@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Central Asia,Asia,2000
-2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Eastern Asia,Asia,8009000
-2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Eastern Europe,Europe,5121000
-2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Northern America,Americas,86128000
-2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Northern Europe,Europe,10783000
-2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,South-eastern Asia,Asia,468000
-2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Southern Europe,Europe,461000
-2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Sub-Saharan Africa,Africa,18000
-2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Western Asia,Asia,18000
-2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Western Europe,Europe,7368000
-2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,World,World,118427000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Central Asia,Asia,2000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Eastern Asia,Asia,8009000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Eastern Europe,Europe,5121000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Northern America,Americas,86128000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Northern Europe,Europe,10783000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,South-eastern Asia,Asia,468000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Southern Europe,Europe,461000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Sub-Saharan Africa,Africa,18000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Western Asia,Asia,18000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,Western Europe,Europe,7368000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2002,2002,Import,Israel,81,Other base metals; cermets; articles thereof,World,World,118427000,30.8124247,34.8594762,,

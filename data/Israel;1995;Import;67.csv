@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",Eastern Asia,Asia,5623000
-1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",Northern America,Americas,1703000
-1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",Northern Europe,Europe,85000
-1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",South-eastern Asia,Asia,230000
-1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",Southern Asia,Asia,34000
-1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",Southern Europe,Europe,257000
-1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",Western Europe,Europe,154000
-1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",World,World,8587000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",Eastern Asia,Asia,5623000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",Northern America,Americas,1703000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",Northern Europe,Europe,85000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",South-eastern Asia,Asia,230000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",Southern Asia,Asia,34000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",Southern Europe,Europe,257000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",Western Europe,Europe,154000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Import,Israel,67,"Bird skin, feathers, artificial flowers, human hair",World,World,8587000,30.8124247,34.8594762,,

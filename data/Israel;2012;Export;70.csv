@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Export,Israel,70,Glass and glassware,Australia and New Zealand,Oceania,2130000
-2012,2012,Export,Israel,70,Glass and glassware,Central Asia,Asia,25000
-2012,2012,Export,Israel,70,Glass and glassware,Eastern Asia,Asia,674000
-2012,2012,Export,Israel,70,Glass and glassware,Eastern Europe,Europe,2288000
-2012,2012,Export,Israel,70,Glass and glassware,Latin America and the Caribbean,Americas,3129000
-2012,2012,Export,Israel,70,Glass and glassware,Northern America,Americas,17985000
-2012,2012,Export,Israel,70,Glass and glassware,Northern Europe,Europe,2225000
-2012,2012,Export,Israel,70,Glass and glassware,South-eastern Asia,Asia,1258000
-2012,2012,Export,Israel,70,Glass and glassware,Southern Asia,Asia,15000
-2012,2012,Export,Israel,70,Glass and glassware,Southern Europe,Europe,33622000
-2012,2012,Export,Israel,70,Glass and glassware,Sub-Saharan Africa,Africa,2820000
-2012,2012,Export,Israel,70,Glass and glassware,Western Asia,Asia,10562000
-2012,2012,Export,Israel,70,Glass and glassware,Western Europe,Europe,4918000
-2012,2012,Export,Israel,70,Glass and glassware,World,World,84051000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Export,Israel,70,Glass and glassware,Australia and New Zealand,Oceania,2130000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2012,2012,Export,Israel,70,Glass and glassware,Central Asia,Asia,25000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2012,2012,Export,Israel,70,Glass and glassware,Eastern Asia,Asia,674000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2012,2012,Export,Israel,70,Glass and glassware,Eastern Europe,Europe,2288000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2012,2012,Export,Israel,70,Glass and glassware,Latin America and the Caribbean,Americas,3129000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2012,2012,Export,Israel,70,Glass and glassware,Northern America,Americas,17985000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2012,2012,Export,Israel,70,Glass and glassware,Northern Europe,Europe,2225000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2012,2012,Export,Israel,70,Glass and glassware,South-eastern Asia,Asia,1258000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2012,2012,Export,Israel,70,Glass and glassware,Southern Asia,Asia,15000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2012,2012,Export,Israel,70,Glass and glassware,Southern Europe,Europe,33622000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2012,2012,Export,Israel,70,Glass and glassware,Sub-Saharan Africa,Africa,2820000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2012,2012,Export,Israel,70,Glass and glassware,Western Asia,Asia,10562000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2012,2012,Export,Israel,70,Glass and glassware,Western Europe,Europe,4918000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2012,2012,Export,Israel,70,Glass and glassware,World,World,84051000,30.8124247,34.8594762,,

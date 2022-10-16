@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Australia and New Zealand,Oceania,11849
-2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Eastern Asia,Asia,1512111
-2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Eastern Europe,Europe,815
-2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Northern America,Americas,2306752
-2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Northern Europe,Europe,59275
-2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Southern Asia,Asia,135279
-2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Southern Europe,Europe,355012
-2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Western Asia,Asia,2680
-2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Western Europe,Europe,1060170
-2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",World,World,8561414
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Australia and New Zealand,Oceania,11849,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Eastern Asia,Asia,1512111,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Eastern Europe,Europe,815,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Northern America,Americas,2306752,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Northern Europe,Europe,59275,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Southern Asia,Asia,135279,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Southern Europe,Europe,355012,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Western Asia,Asia,2680,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",Western Europe,Europe,1060170,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Import,Kuwait,89,"Ships, boats and other floating structures",World,World,8561414,29.2733964,47.4979476,,

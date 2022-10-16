@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Azerbaijan,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,3300
-1998,1998,Export,Azerbaijan,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,411207
-1998,1998,Export,Azerbaijan,87,"Vehicles other than railway, tramway",Northern America,Americas,569
-1998,1998,Export,Azerbaijan,87,"Vehicles other than railway, tramway",Northern Europe,Europe,2590
-1998,1998,Export,Azerbaijan,87,"Vehicles other than railway, tramway",Western Europe,Europe,3989
-1998,1998,Export,Azerbaijan,87,"Vehicles other than railway, tramway",World,World,746141
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Azerbaijan,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,3300,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+1998,1998,Export,Azerbaijan,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,411207,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1998,1998,Export,Azerbaijan,87,"Vehicles other than railway, tramway",Northern America,Americas,569,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1998,1998,Export,Azerbaijan,87,"Vehicles other than railway, tramway",Northern Europe,Europe,2590,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1998,1998,Export,Azerbaijan,87,"Vehicles other than railway, tramway",Western Europe,Europe,3989,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1998,1998,Export,Azerbaijan,87,"Vehicles other than railway, tramway",World,World,746141,40.3936294,47.7872508,,

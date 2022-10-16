@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Australia and New Zealand,Oceania,170099
-1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Central Asia,Asia,5637
-1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,391802
-1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,354063
-1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Latin America and the Caribbean,Americas,41233
-1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Africa,Africa,39507
-1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,813987
-1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,125548
-1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,253682
-1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,9176
-1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Sub-Saharan Africa,Africa,264347
-1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,177520
-1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,242189
-1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,6169036
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Australia and New Zealand,Oceania,170099,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Central Asia,Asia,5637,33.8750629,35.843409,39.89317229901691,61.060280637304274
+1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,391802,33.8750629,35.843409,37.977378106878206,73.97804075806764
+1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,354063,33.8750629,35.843409,51.67568633314729,27.673469819741847
+1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Latin America and the Caribbean,Americas,41233,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Africa,Africa,39507,33.8750629,35.843409,19.569604022535763,12.47761721199581
+1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,813987,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,125548,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,253682,33.8750629,35.843409,10.528384761701911,103.08333472012376
+1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,9176,33.8750629,35.843409,40.12399607988535,20.742583178432696
+1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Sub-Saharan Africa,Africa,264347,33.8750629,35.843409,6.06272746187266,22.727528470146083
+1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,177520,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,242189,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1997,1997,Export,Lebanon,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,6169036,33.8750629,35.843409,,

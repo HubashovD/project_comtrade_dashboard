@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Australia and New Zealand,Oceania,70511897
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Central Asia,Asia,12199
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,174520
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,11524163
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Latin America and the Caribbean,Americas,2475723
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Africa,Africa,17232462
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,15963109
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Europe,Europe,21549992
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Polynesia,Oceania,20723
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,5809912
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Asia,Asia,2604272
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Europe,Europe,5885110
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Asia,Asia,21043276
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Europe,Europe,111143613
-2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,539222237
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Australia and New Zealand,Oceania,70511897,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Central Asia,Asia,12199,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,174520,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,11524163,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Latin America and the Caribbean,Americas,2475723,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Africa,Africa,17232462,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,15963109,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Europe,Europe,21549992,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Polynesia,Oceania,20723,29.2733964,47.4979476,-5.109184731250752,167.40343615892436
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,5809912,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Asia,Asia,2604272,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Europe,Europe,5885110,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Asia,Asia,21043276,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Europe,Europe,111143613,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2015,2015,Import,Kuwait,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,539222237,29.2733964,47.4979476,,

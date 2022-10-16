@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Eastern Asia,Asia,21789
-2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Northern Africa,Africa,1431
-2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Northern America,Americas,323
-2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Northern Europe,Europe,7964
-2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",South-eastern Asia,Asia,3699
-2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Southern Asia,Asia,36519
-2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Southern Europe,Europe,6643
-2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Sub-Saharan Africa,Africa,26531
-2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Western Asia,Asia,407
-2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Western Europe,Europe,737
-2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",World,World,336575
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Eastern Asia,Asia,21789,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Northern Africa,Africa,1431,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Northern America,Americas,323,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Northern Europe,Europe,7964,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",South-eastern Asia,Asia,3699,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Southern Asia,Asia,36519,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Southern Europe,Europe,6643,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Sub-Saharan Africa,Africa,26531,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Western Asia,Asia,407,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",Western Europe,Europe,737,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Import,Kuwait,14,"Vegetable plaiting materials, vegetable products nes",World,World,336575,29.2733964,47.4979476,,

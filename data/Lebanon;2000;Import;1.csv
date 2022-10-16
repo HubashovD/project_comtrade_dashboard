@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Lebanon,1,Live animals,Australia and New Zealand,Oceania,2218368
-2000,2000,Import,Lebanon,1,Live animals,Eastern Europe,Europe,17168154
-2000,2000,Import,Lebanon,1,Live animals,Northern Africa,Africa,1393
-2000,2000,Import,Lebanon,1,Live animals,Northern America,Americas,106402
-2000,2000,Import,Lebanon,1,Live animals,Northern Europe,Europe,36409557
-2000,2000,Import,Lebanon,1,Live animals,South-eastern Asia,Asia,429
-2000,2000,Import,Lebanon,1,Live animals,Southern Asia,Asia,12950
-2000,2000,Import,Lebanon,1,Live animals,Southern Europe,Europe,1035063
-2000,2000,Import,Lebanon,1,Live animals,Sub-Saharan Africa,Africa,186885
-2000,2000,Import,Lebanon,1,Live animals,Western Asia,Asia,82965
-2000,2000,Import,Lebanon,1,Live animals,Western Europe,Europe,68355512
-2000,2000,Import,Lebanon,1,Live animals,World,World,125694280
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Lebanon,1,Live animals,Australia and New Zealand,Oceania,2218368,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2000,2000,Import,Lebanon,1,Live animals,Eastern Europe,Europe,17168154,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2000,2000,Import,Lebanon,1,Live animals,Northern Africa,Africa,1393,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2000,2000,Import,Lebanon,1,Live animals,Northern America,Americas,106402,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2000,2000,Import,Lebanon,1,Live animals,Northern Europe,Europe,36409557,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Import,Lebanon,1,Live animals,South-eastern Asia,Asia,429,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2000,2000,Import,Lebanon,1,Live animals,Southern Asia,Asia,12950,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2000,2000,Import,Lebanon,1,Live animals,Southern Europe,Europe,1035063,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Import,Lebanon,1,Live animals,Sub-Saharan Africa,Africa,186885,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Import,Lebanon,1,Live animals,Western Asia,Asia,82965,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Import,Lebanon,1,Live animals,Western Europe,Europe,68355512,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Import,Lebanon,1,Live animals,World,World,125694280,33.8750629,35.843409,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Central Asia,Asia,151875
-2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Eastern Asia,Asia,508071
-2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,30760
-2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,62673
-2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,64255
-2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,440404
-2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Western Asia,Asia,179992
-2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,999456
-2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,World,World,2530238
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Central Asia,Asia,151875,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Eastern Asia,Asia,508071,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,30760,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,62673,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,64255,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,440404,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Western Asia,Asia,179992,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,999456,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2020,2020,Export,Azerbaijan,99,Commodities not specified according to kind,World,World,2530238,40.3936294,47.7872508,,

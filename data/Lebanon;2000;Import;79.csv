@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Lebanon,79,Zinc and articles thereof,Eastern Asia,Asia,78776
-2000,2000,Import,Lebanon,79,Zinc and articles thereof,Eastern Europe,Europe,18
-2000,2000,Import,Lebanon,79,Zinc and articles thereof,Northern America,Americas,41378
-2000,2000,Import,Lebanon,79,Zinc and articles thereof,Northern Europe,Europe,3903
-2000,2000,Import,Lebanon,79,Zinc and articles thereof,Southern Europe,Europe,145477
-2000,2000,Import,Lebanon,79,Zinc and articles thereof,Western Asia,Asia,7296
-2000,2000,Import,Lebanon,79,Zinc and articles thereof,Western Europe,Europe,353479
-2000,2000,Import,Lebanon,79,Zinc and articles thereof,World,World,644035
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Lebanon,79,Zinc and articles thereof,Eastern Asia,Asia,78776,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2000,2000,Import,Lebanon,79,Zinc and articles thereof,Eastern Europe,Europe,18,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2000,2000,Import,Lebanon,79,Zinc and articles thereof,Northern America,Americas,41378,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2000,2000,Import,Lebanon,79,Zinc and articles thereof,Northern Europe,Europe,3903,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Import,Lebanon,79,Zinc and articles thereof,Southern Europe,Europe,145477,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Import,Lebanon,79,Zinc and articles thereof,Western Asia,Asia,7296,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Import,Lebanon,79,Zinc and articles thereof,Western Europe,Europe,353479,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Import,Lebanon,79,Zinc and articles thereof,World,World,644035,33.8750629,35.843409,,

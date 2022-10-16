@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Export,Kuwait,29,Organic chemicals,Northern Africa,Africa,15568
-2008,2008,Export,Kuwait,29,Organic chemicals,Northern America,Americas,1167284
-2008,2008,Export,Kuwait,29,Organic chemicals,Northern Europe,Europe,3762
-2008,2008,Export,Kuwait,29,Organic chemicals,South-eastern Asia,Asia,181107169
-2008,2008,Export,Kuwait,29,Organic chemicals,Southern Asia,Asia,143508
-2008,2008,Export,Kuwait,29,Organic chemicals,Southern Europe,Europe,16427064
-2008,2008,Export,Kuwait,29,Organic chemicals,Western Asia,Asia,109028701
-2008,2008,Export,Kuwait,29,Organic chemicals,Western Europe,Europe,22055
-2008,2008,Export,Kuwait,29,Organic chemicals,World,World,878158294
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Export,Kuwait,29,Organic chemicals,Northern Africa,Africa,15568,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2008,2008,Export,Kuwait,29,Organic chemicals,Northern America,Americas,1167284,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2008,2008,Export,Kuwait,29,Organic chemicals,Northern Europe,Europe,3762,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2008,2008,Export,Kuwait,29,Organic chemicals,South-eastern Asia,Asia,181107169,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2008,2008,Export,Kuwait,29,Organic chemicals,Southern Asia,Asia,143508,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2008,2008,Export,Kuwait,29,Organic chemicals,Southern Europe,Europe,16427064,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2008,2008,Export,Kuwait,29,Organic chemicals,Western Asia,Asia,109028701,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2008,2008,Export,Kuwait,29,Organic chemicals,Western Europe,Europe,22055,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Export,Kuwait,29,Organic chemicals,World,World,878158294,29.2733964,47.4979476,,

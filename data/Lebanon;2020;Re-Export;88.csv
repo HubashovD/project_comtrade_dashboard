@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Re-Export,Lebanon,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,2500
-2020,2020,Re-Export,Lebanon,88,"Aircraft, spacecraft and parts thereof",South-eastern Asia,Asia,34821
-2020,2020,Re-Export,Lebanon,88,"Aircraft, spacecraft and parts thereof",Southern Asia,Asia,2012732
-2020,2020,Re-Export,Lebanon,88,"Aircraft, spacecraft and parts thereof",Sub-Saharan Africa,Africa,133
-2020,2020,Re-Export,Lebanon,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,3617971
-2020,2020,Re-Export,Lebanon,88,"Aircraft, spacecraft and parts thereof",World,World,5668157
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Re-Export,Lebanon,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,2500,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2020,2020,Re-Export,Lebanon,88,"Aircraft, spacecraft and parts thereof",South-eastern Asia,Asia,34821,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2020,2020,Re-Export,Lebanon,88,"Aircraft, spacecraft and parts thereof",Southern Asia,Asia,2012732,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2020,2020,Re-Export,Lebanon,88,"Aircraft, spacecraft and parts thereof",Sub-Saharan Africa,Africa,133,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2020,2020,Re-Export,Lebanon,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,3617971,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2020,2020,Re-Export,Lebanon,88,"Aircraft, spacecraft and parts thereof",World,World,5668157,33.8750629,35.843409,,

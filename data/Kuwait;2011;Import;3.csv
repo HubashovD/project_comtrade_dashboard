@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Australia and New Zealand,Oceania,119599
-2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Eastern Asia,Asia,1103223
-2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Eastern Europe,Europe,32320
-2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Latin America and the Caribbean,Americas,73683
-2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern Africa,Africa,2545967
-2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern America,Americas,484260
-2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern Europe,Europe,1258400
-2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",South-eastern Asia,Asia,17129783
-2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Southern Asia,Asia,10690994
-2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Southern Europe,Europe,407219
-2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Sub-Saharan Africa,Africa,40119
-2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Western Asia,Asia,29204
-2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Western Europe,Europe,264268
-2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",World,World,83335622
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Australia and New Zealand,Oceania,119599,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Eastern Asia,Asia,1103223,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Eastern Europe,Europe,32320,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Latin America and the Caribbean,Americas,73683,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern Africa,Africa,2545967,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern America,Americas,484260,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Northern Europe,Europe,1258400,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",South-eastern Asia,Asia,17129783,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Southern Asia,Asia,10690994,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Southern Europe,Europe,407219,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Sub-Saharan Africa,Africa,40119,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Western Asia,Asia,29204,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",Western Europe,Europe,264268,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2011,2011,Import,Kuwait,3,"Fish and crustaceans, molluscs and other acquatic invertebrates",World,World,83335622,29.2733964,47.4979476,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,69889
-1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,30979
-1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Northern Europe,Europe,181139
-1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,8179
-1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Southern Asia,Asia,82627
-1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Western Asia,Asia,8096317
-1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Western Europe,Europe,14768
-1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",World,World,9055409
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,69889,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,30979,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Northern Europe,Europe,181139,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,8179,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Southern Asia,Asia,82627,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Western Asia,Asia,8096317,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",Western Europe,Europe,14768,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1997,1997,Import,Azerbaijan,9,"Coffee, tea, mate and spices",World,World,9055409,40.3936294,47.7872508,,

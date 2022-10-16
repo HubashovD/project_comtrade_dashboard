@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Australia and New Zealand,Oceania,1130000
-2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Central Asia,Asia,778000
-2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,5549000
-2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Eastern Europe,Europe,850000
-2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Latin America and the Caribbean,Americas,4813000
-2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Northern America,Americas,10532000
-2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,9830000
-2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,South-eastern Asia,Asia,48000
-2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Southern Asia,Asia,1000
-2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,31990000
-2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Sub-Saharan Africa,Africa,1891000
-2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Western Asia,Asia,7662000
-2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Western Europe,Europe,13710000
-2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,World,World,90693000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Australia and New Zealand,Oceania,1130000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Central Asia,Asia,778000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,5549000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Eastern Europe,Europe,850000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Latin America and the Caribbean,Americas,4813000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Northern America,Americas,10532000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,9830000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,South-eastern Asia,Asia,48000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Southern Asia,Asia,1000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,31990000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Sub-Saharan Africa,Africa,1891000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Western Asia,Asia,7662000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,Western Europe,Europe,13710000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2003,2003,Export,Israel,12,Oil seeds and oleaginous fruits,World,World,90693000,30.8124247,34.8594762,,

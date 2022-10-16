@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Eastern Asia,Asia,315173
-2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Eastern Europe,Europe,255
-2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Northern Africa,Africa,5255
-2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Northern America,Americas,820
-2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Southern Asia,Asia,75
-2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Southern Europe,Europe,925
-2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Western Asia,Asia,15113
-2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Western Europe,Europe,977
-2014,2014,Import,State of Palestine,65,Headgear and parts thereof,World,World,426026
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Eastern Asia,Asia,315173,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Eastern Europe,Europe,255,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Northern Africa,Africa,5255,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Northern America,Americas,820,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Southern Asia,Asia,75,31.46242095,34.262716572130714,25.499703063807168,75.5024015339642
+2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Southern Europe,Europe,925,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Western Asia,Asia,15113,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
+2014,2014,Import,State of Palestine,65,Headgear and parts thereof,Western Europe,Europe,977,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2014,2014,Import,State of Palestine,65,Headgear and parts thereof,World,World,426026,31.46242095,34.262716572130714,,

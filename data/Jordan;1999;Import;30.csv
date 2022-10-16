@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Jordan,30,Pharmaceutical products,Australia and New Zealand,Oceania,214840
-1999,1999,Import,Jordan,30,Pharmaceutical products,Eastern Asia,Asia,1774769
-1999,1999,Import,Jordan,30,Pharmaceutical products,Eastern Europe,Europe,571481
-1999,1999,Import,Jordan,30,Pharmaceutical products,Latin America and the Caribbean,Americas,460801
-1999,1999,Import,Jordan,30,Pharmaceutical products,Northern Africa,Africa,1289357
-1999,1999,Import,Jordan,30,Pharmaceutical products,Northern America,Americas,8442413
-1999,1999,Import,Jordan,30,Pharmaceutical products,Northern Europe,Europe,22762390
-1999,1999,Import,Jordan,30,Pharmaceutical products,South-eastern Asia,Asia,139514
-1999,1999,Import,Jordan,30,Pharmaceutical products,Southern Asia,Asia,198563
-1999,1999,Import,Jordan,30,Pharmaceutical products,Southern Europe,Europe,16533405
-1999,1999,Import,Jordan,30,Pharmaceutical products,Western Asia,Asia,358786
-1999,1999,Import,Jordan,30,Pharmaceutical products,Western Europe,Europe,55649196
-1999,1999,Import,Jordan,30,Pharmaceutical products,World,World,112519072
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Jordan,30,Pharmaceutical products,Australia and New Zealand,Oceania,214840,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1999,1999,Import,Jordan,30,Pharmaceutical products,Eastern Asia,Asia,1774769,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1999,1999,Import,Jordan,30,Pharmaceutical products,Eastern Europe,Europe,571481,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1999,1999,Import,Jordan,30,Pharmaceutical products,Latin America and the Caribbean,Americas,460801,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1999,1999,Import,Jordan,30,Pharmaceutical products,Northern Africa,Africa,1289357,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1999,1999,Import,Jordan,30,Pharmaceutical products,Northern America,Americas,8442413,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1999,1999,Import,Jordan,30,Pharmaceutical products,Northern Europe,Europe,22762390,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1999,1999,Import,Jordan,30,Pharmaceutical products,South-eastern Asia,Asia,139514,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1999,1999,Import,Jordan,30,Pharmaceutical products,Southern Asia,Asia,198563,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1999,1999,Import,Jordan,30,Pharmaceutical products,Southern Europe,Europe,16533405,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1999,1999,Import,Jordan,30,Pharmaceutical products,Western Asia,Asia,358786,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Import,Jordan,30,Pharmaceutical products,Western Europe,Europe,55649196,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Import,Jordan,30,Pharmaceutical products,World,World,112519072,31.1667049,36.941628,,

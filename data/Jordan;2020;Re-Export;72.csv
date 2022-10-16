@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Re-Export,Jordan,72,Iron and steel,Eastern Europe,Europe,19825
-2020,2020,Re-Export,Jordan,72,Iron and steel,Northern America,Americas,1498
-2020,2020,Re-Export,Jordan,72,Iron and steel,Southern Europe,Europe,87654
-2020,2020,Re-Export,Jordan,72,Iron and steel,Western Asia,Asia,3521
-2020,2020,Re-Export,Jordan,72,Iron and steel,World,World,5793164
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Re-Export,Jordan,72,Iron and steel,Eastern Europe,Europe,19825,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2020,2020,Re-Export,Jordan,72,Iron and steel,Northern America,Americas,1498,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2020,2020,Re-Export,Jordan,72,Iron and steel,Southern Europe,Europe,87654,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2020,2020,Re-Export,Jordan,72,Iron and steel,Western Asia,Asia,3521,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2020,2020,Re-Export,Jordan,72,Iron and steel,World,World,5793164,31.1667049,36.941628,,

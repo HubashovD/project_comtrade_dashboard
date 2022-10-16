@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Libya,54,Man-made filaments,Eastern Asia,Asia,17399667
-2016,2016,Import,Libya,54,Man-made filaments,Eastern Europe,Europe,1921783
-2016,2016,Import,Libya,54,Man-made filaments,Northern Africa,Africa,69122
-2016,2016,Import,Libya,54,Man-made filaments,Northern America,Americas,19628
-2016,2016,Import,Libya,54,Man-made filaments,Northern Europe,Europe,2028
-2016,2016,Import,Libya,54,Man-made filaments,South-eastern Asia,Asia,269757
-2016,2016,Import,Libya,54,Man-made filaments,Southern Europe,Europe,28212
-2016,2016,Import,Libya,54,Man-made filaments,Western Asia,Asia,8348543
-2016,2016,Import,Libya,54,Man-made filaments,Western Europe,Europe,987869
-2016,2016,Import,Libya,54,Man-made filaments,World,World,32682398
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Libya,54,Man-made filaments,Eastern Asia,Asia,17399667,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2016,2016,Import,Libya,54,Man-made filaments,Eastern Europe,Europe,1921783,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2016,2016,Import,Libya,54,Man-made filaments,Northern Africa,Africa,69122,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2016,2016,Import,Libya,54,Man-made filaments,Northern America,Americas,19628,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2016,2016,Import,Libya,54,Man-made filaments,Northern Europe,Europe,2028,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2016,2016,Import,Libya,54,Man-made filaments,South-eastern Asia,Asia,269757,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2016,2016,Import,Libya,54,Man-made filaments,Southern Europe,Europe,28212,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2016,2016,Import,Libya,54,Man-made filaments,Western Asia,Asia,8348543,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2016,2016,Import,Libya,54,Man-made filaments,Western Europe,Europe,987869,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2016,2016,Import,Libya,54,Man-made filaments,World,World,32682398,26.8234472,18.1236723,,

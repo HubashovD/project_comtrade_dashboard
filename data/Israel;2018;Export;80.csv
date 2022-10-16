@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Israel,80,Tin; articles thereof,Eastern Europe,Europe,368000
-2018,2018,Export,Israel,80,Tin; articles thereof,Western Europe,Europe,51000
-2018,2018,Export,Israel,80,Tin; articles thereof,World,World,421000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Israel,80,Tin; articles thereof,Eastern Europe,Europe,368000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2018,2018,Export,Israel,80,Tin; articles thereof,Western Europe,Europe,51000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2018,2018,Export,Israel,80,Tin; articles thereof,World,World,421000,30.8124247,34.8594762,,

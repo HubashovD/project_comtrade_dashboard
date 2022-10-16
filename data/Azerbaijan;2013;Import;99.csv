@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Asia,Asia,6155
-2013,2013,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,32643832
-2013,2013,Import,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,3109083
-2013,2013,Import,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,754796
-2013,2013,Import,Azerbaijan,99,Commodities not specified according to kind,Western Asia,Asia,19626956
-2013,2013,Import,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,146425
-2013,2013,Import,Azerbaijan,99,Commodities not specified according to kind,World,World,56630817
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Asia,Asia,6155,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2013,2013,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,32643832,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2013,2013,Import,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,3109083,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2013,2013,Import,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,754796,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2013,2013,Import,Azerbaijan,99,Commodities not specified according to kind,Western Asia,Asia,19626956,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2013,2013,Import,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,146425,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2013,2013,Import,Azerbaijan,99,Commodities not specified according to kind,World,World,56630817,40.3936294,47.7872508,,

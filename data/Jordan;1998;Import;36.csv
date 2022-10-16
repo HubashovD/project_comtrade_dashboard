@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Jordan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,93184
-1998,1998,Import,Jordan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,53753
-1998,1998,Import,Jordan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,1119
-1998,1998,Import,Jordan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,6904
-1998,1998,Import,Jordan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,5683
-1998,1998,Import,Jordan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,1006145
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Jordan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,93184,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1998,1998,Import,Jordan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,53753,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1998,1998,Import,Jordan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,1119,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1998,1998,Import,Jordan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,6904,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1998,1998,Import,Jordan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,5683,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1998,1998,Import,Jordan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,1006145,31.1667049,36.941628,,

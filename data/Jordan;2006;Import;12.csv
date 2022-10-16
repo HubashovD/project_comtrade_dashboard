@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Australia and New Zealand,Oceania,271981
-2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,6275107
-2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Eastern Europe,Europe,23767
-2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Latin America and the Caribbean,Americas,1640767
-2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Northern Africa,Africa,4757224
-2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Northern America,Americas,3142604
-2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,846244
-2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,South-eastern Asia,Asia,210442
-2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Southern Asia,Asia,359705
-2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,652826
-2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Sub-Saharan Africa,Africa,10982806
-2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Western Asia,Asia,2244289
-2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Western Europe,Europe,4370365
-2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,World,World,46669864
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Australia and New Zealand,Oceania,271981,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,6275107,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Eastern Europe,Europe,23767,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Latin America and the Caribbean,Americas,1640767,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Northern Africa,Africa,4757224,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Northern America,Americas,3142604,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,846244,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,South-eastern Asia,Asia,210442,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Southern Asia,Asia,359705,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,652826,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Sub-Saharan Africa,Africa,10982806,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Western Asia,Asia,2244289,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,Western Europe,Europe,4370365,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2006,2006,Import,Jordan,12,Oil seeds and oleaginous fruits,World,World,46669864,31.1667049,36.941628,,

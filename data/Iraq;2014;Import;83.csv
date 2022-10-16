@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,83,Miscellaneous articles of base metal,Eastern Asia,Asia,9081032
-2014,2014,Import,Iraq,83,Miscellaneous articles of base metal,Northern America,Americas,41135
-2014,2014,Import,Iraq,83,Miscellaneous articles of base metal,Northern Europe,Europe,625685
-2014,2014,Import,Iraq,83,Miscellaneous articles of base metal,South-eastern Asia,Asia,178626
-2014,2014,Import,Iraq,83,Miscellaneous articles of base metal,Western Asia,Asia,3900
-2014,2014,Import,Iraq,83,Miscellaneous articles of base metal,Western Europe,Europe,2053810
-2014,2014,Import,Iraq,83,Miscellaneous articles of base metal,World,World,12220685
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,83,Miscellaneous articles of base metal,Eastern Asia,Asia,9081032,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,83,Miscellaneous articles of base metal,Northern America,Americas,41135,33.0955793,44.1749775,43.897683433510366,-100.08947125585888
+2014,2014,Import,Iraq,83,Miscellaneous articles of base metal,Northern Europe,Europe,625685,33.0955793,44.1749775,59.36075159783851,25.01346951967388
+2014,2014,Import,Iraq,83,Miscellaneous articles of base metal,South-eastern Asia,Asia,178626,33.0955793,44.1749775,10.528384761701911,103.08333472012376
+2014,2014,Import,Iraq,83,Miscellaneous articles of base metal,Western Asia,Asia,3900,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,83,Miscellaneous articles of base metal,Western Europe,Europe,2053810,33.0955793,44.1749775,47.92172048214207,7.866753258497997
+2014,2014,Import,Iraq,83,Miscellaneous articles of base metal,World,World,12220685,33.0955793,44.1749775,,

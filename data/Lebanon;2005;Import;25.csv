@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Australia and New Zealand,Oceania,25000
-2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Eastern Asia,Asia,111000
-2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Eastern Europe,Europe,17543000
-2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Latin America and the Caribbean,Americas,657000
-2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Northern Africa,Africa,3612000
-2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Northern America,Americas,693000
-2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Northern Europe,Europe,1539000
-2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Southern Asia,Asia,122000
-2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Southern Europe,Europe,11423000
-2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Sub-Saharan Africa,Africa,225000
-2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Western Asia,Asia,30429000
-2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Western Europe,Europe,1513000
-2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,World,World,72306000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Australia and New Zealand,Oceania,25000,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Eastern Asia,Asia,111000,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Eastern Europe,Europe,17543000,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Latin America and the Caribbean,Americas,657000,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Northern Africa,Africa,3612000,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Northern America,Americas,693000,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Northern Europe,Europe,1539000,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Southern Asia,Asia,122000,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Southern Europe,Europe,11423000,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Sub-Saharan Africa,Africa,225000,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Western Asia,Asia,30429000,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,Western Europe,Europe,1513000,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2005,2005,Import,Lebanon,25,Salt; sulfur; earths and stone; plastering materials,World,World,72306000,33.8750629,35.843409,,

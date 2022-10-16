@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Azerbaijan,52,Cotton,Central Asia,Asia,24242
-2009,2009,Import,Azerbaijan,52,Cotton,Eastern Asia,Asia,8557
-2009,2009,Import,Azerbaijan,52,Cotton,Eastern Europe,Europe,250165
-2009,2009,Import,Azerbaijan,52,Cotton,Northern Europe,Europe,111950
-2009,2009,Import,Azerbaijan,52,Cotton,South-eastern Asia,Asia,1159
-2009,2009,Import,Azerbaijan,52,Cotton,Southern Europe,Europe,4173
-2009,2009,Import,Azerbaijan,52,Cotton,Western Asia,Asia,189918
-2009,2009,Import,Azerbaijan,52,Cotton,Western Europe,Europe,223
-2009,2009,Import,Azerbaijan,52,Cotton,World,World,621037
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Azerbaijan,52,Cotton,Central Asia,Asia,24242,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2009,2009,Import,Azerbaijan,52,Cotton,Eastern Asia,Asia,8557,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2009,2009,Import,Azerbaijan,52,Cotton,Eastern Europe,Europe,250165,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2009,2009,Import,Azerbaijan,52,Cotton,Northern Europe,Europe,111950,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2009,2009,Import,Azerbaijan,52,Cotton,South-eastern Asia,Asia,1159,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2009,2009,Import,Azerbaijan,52,Cotton,Southern Europe,Europe,4173,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2009,2009,Import,Azerbaijan,52,Cotton,Western Asia,Asia,189918,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2009,2009,Import,Azerbaijan,52,Cotton,Western Europe,Europe,223,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2009,2009,Import,Azerbaijan,52,Cotton,World,World,621037,40.3936294,47.7872508,,

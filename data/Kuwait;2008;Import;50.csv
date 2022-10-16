@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Kuwait,50,Silk,Eastern Asia,Asia,547488
-2008,2008,Import,Kuwait,50,Silk,Eastern Europe,Europe,558
-2008,2008,Import,Kuwait,50,Silk,Latin America and the Caribbean,Americas,144709
-2008,2008,Import,Kuwait,50,Silk,Northern Europe,Europe,276898
-2008,2008,Import,Kuwait,50,Silk,South-eastern Asia,Asia,177583
-2008,2008,Import,Kuwait,50,Silk,Southern Europe,Europe,243164
-2008,2008,Import,Kuwait,50,Silk,Sub-Saharan Africa,Africa,435
-2008,2008,Import,Kuwait,50,Silk,Western Asia,Asia,4
-2008,2008,Import,Kuwait,50,Silk,Western Europe,Europe,260154
-2008,2008,Import,Kuwait,50,Silk,World,World,2216914
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Kuwait,50,Silk,Eastern Asia,Asia,547488,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2008,2008,Import,Kuwait,50,Silk,Eastern Europe,Europe,558,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2008,2008,Import,Kuwait,50,Silk,Latin America and the Caribbean,Americas,144709,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2008,2008,Import,Kuwait,50,Silk,Northern Europe,Europe,276898,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2008,2008,Import,Kuwait,50,Silk,South-eastern Asia,Asia,177583,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2008,2008,Import,Kuwait,50,Silk,Southern Europe,Europe,243164,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2008,2008,Import,Kuwait,50,Silk,Sub-Saharan Africa,Africa,435,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2008,2008,Import,Kuwait,50,Silk,Western Asia,Asia,4,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2008,2008,Import,Kuwait,50,Silk,Western Europe,Europe,260154,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Import,Kuwait,50,Silk,World,World,2216914,29.2733964,47.4979476,,

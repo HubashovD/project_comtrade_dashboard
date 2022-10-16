@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Australia and New Zealand,Oceania,121
-2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Central Asia,Asia,507608
-2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Eastern Asia,Asia,3989555
-2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Eastern Europe,Europe,12380803
-2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Latin America and the Caribbean,Americas,306705
-2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Northern America,Americas,1665901
-2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Northern Europe,Europe,373189
-2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,South-eastern Asia,Asia,504
-2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Southern Asia,Asia,8872008
-2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Southern Europe,Europe,2587084
-2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Western Asia,Asia,10425245
-2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Western Europe,Europe,1396788
-2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,World,World,42615210
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Australia and New Zealand,Oceania,121,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Central Asia,Asia,507608,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Eastern Asia,Asia,3989555,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Eastern Europe,Europe,12380803,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Latin America and the Caribbean,Americas,306705,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Northern America,Americas,1665901,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Northern Europe,Europe,373189,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,South-eastern Asia,Asia,504,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Southern Asia,Asia,8872008,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Southern Europe,Europe,2587084,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Western Asia,Asia,10425245,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,Western Europe,Europe,1396788,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2007,2007,Import,Azerbaijan,76,Aluminum and articles thereof,World,World,42615210,40.3936294,47.7872508,,

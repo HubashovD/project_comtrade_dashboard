@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Australia and New Zealand,Oceania,1000
-2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,118000
-2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,2997000
-2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Latin America and the Caribbean,Americas,162000
-2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,24227000
-2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Europe,Europe,5419000
-2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,57000
-2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Europe,Europe,4734000
-2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Asia,Asia,1719000
-2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Europe,Europe,23211000
-2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,62774000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Australia and New Zealand,Oceania,1000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,118000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,2997000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Latin America and the Caribbean,Americas,162000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,24227000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Europe,Europe,5419000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,57000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Europe,Europe,4734000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Asia,Asia,1719000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Europe,Europe,23211000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2007,2007,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,62774000,30.8124247,34.8594762,,

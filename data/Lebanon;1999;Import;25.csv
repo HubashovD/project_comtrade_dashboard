@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Australia and New Zealand,Oceania,50460
-1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Asia,Asia,66912
-1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,4220060
-1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Latin America and the Caribbean,Americas,585901
-1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,1987789
-1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,973505
-1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,1508616
-1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,164589
-1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Asia,Asia,182686
-1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Europe,Europe,27210226
-1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Sub-Saharan Africa,Africa,154781
-1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,13019913
-1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,1388874
-1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,57063232
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Australia and New Zealand,Oceania,50460,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Asia,Asia,66912,33.8750629,35.843409,37.977378106878206,73.97804075806764
+1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,4220060,33.8750629,35.843409,51.67568633314729,27.673469819741847
+1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Latin America and the Caribbean,Americas,585901,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,1987789,33.8750629,35.843409,19.569604022535763,12.47761721199581
+1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,973505,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,1508616,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,164589,33.8750629,35.843409,10.528384761701911,103.08333472012376
+1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Asia,Asia,182686,33.8750629,35.843409,25.499703063807168,75.5024015339642
+1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Europe,Europe,27210226,33.8750629,35.843409,40.12399607988535,20.742583178432696
+1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Sub-Saharan Africa,Africa,154781,33.8750629,35.843409,6.06272746187266,22.727528470146083
+1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,13019913,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,1388874,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1999,1999,Import,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,57063232,33.8750629,35.843409,,

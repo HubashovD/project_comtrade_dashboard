@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Export,Iraq,5,"Products of animal origin, not elsewhere specified",Northern Africa,Africa,388800
-2012,2012,Export,Iraq,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,1778950
-2012,2012,Export,Iraq,5,"Products of animal origin, not elsewhere specified",World,World,4011917
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Export,Iraq,5,"Products of animal origin, not elsewhere specified",Northern Africa,Africa,388800,33.0955793,44.1749775,19.569604022535763,12.47761721199581
+2012,2012,Export,Iraq,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,1778950,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2012,2012,Export,Iraq,5,"Products of animal origin, not elsewhere specified",World,World,4011917,33.0955793,44.1749775,,

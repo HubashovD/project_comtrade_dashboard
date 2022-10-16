@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Jordan,75,Nickel and articles thereof,Eastern Asia,Asia,6926
-2018,2018,Import,Jordan,75,Nickel and articles thereof,Northern America,Americas,4376
-2018,2018,Import,Jordan,75,Nickel and articles thereof,Northern Europe,Europe,14946
-2018,2018,Import,Jordan,75,Nickel and articles thereof,Southern Europe,Europe,38961
-2018,2018,Import,Jordan,75,Nickel and articles thereof,Western Europe,Europe,791296
-2018,2018,Import,Jordan,75,Nickel and articles thereof,World,World,859322
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Jordan,75,Nickel and articles thereof,Eastern Asia,Asia,6926,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2018,2018,Import,Jordan,75,Nickel and articles thereof,Northern America,Americas,4376,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2018,2018,Import,Jordan,75,Nickel and articles thereof,Northern Europe,Europe,14946,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2018,2018,Import,Jordan,75,Nickel and articles thereof,Southern Europe,Europe,38961,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2018,2018,Import,Jordan,75,Nickel and articles thereof,Western Europe,Europe,791296,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2018,2018,Import,Jordan,75,Nickel and articles thereof,World,World,859322,31.1667049,36.941628,,

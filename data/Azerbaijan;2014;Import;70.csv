@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Azerbaijan,70,Glass and glassware,Australia and New Zealand,Oceania,8449
-2014,2014,Import,Azerbaijan,70,Glass and glassware,Central Asia,Asia,17182
-2014,2014,Import,Azerbaijan,70,Glass and glassware,Eastern Asia,Asia,2129165
-2014,2014,Import,Azerbaijan,70,Glass and glassware,Eastern Europe,Europe,33740938
-2014,2014,Import,Azerbaijan,70,Glass and glassware,Latin America and the Caribbean,Americas,40865
-2014,2014,Import,Azerbaijan,70,Glass and glassware,Northern Africa,Africa,525
-2014,2014,Import,Azerbaijan,70,Glass and glassware,Northern America,Americas,291689
-2014,2014,Import,Azerbaijan,70,Glass and glassware,Northern Europe,Europe,932596
-2014,2014,Import,Azerbaijan,70,Glass and glassware,South-eastern Asia,Asia,40815
-2014,2014,Import,Azerbaijan,70,Glass and glassware,Southern Asia,Asia,247450
-2014,2014,Import,Azerbaijan,70,Glass and glassware,Southern Europe,Europe,2262261
-2014,2014,Import,Azerbaijan,70,Glass and glassware,Western Asia,Asia,12287981
-2014,2014,Import,Azerbaijan,70,Glass and glassware,Western Europe,Europe,5240243
-2014,2014,Import,Azerbaijan,70,Glass and glassware,World,World,57867194
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Azerbaijan,70,Glass and glassware,Australia and New Zealand,Oceania,8449,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2014,2014,Import,Azerbaijan,70,Glass and glassware,Central Asia,Asia,17182,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2014,2014,Import,Azerbaijan,70,Glass and glassware,Eastern Asia,Asia,2129165,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2014,2014,Import,Azerbaijan,70,Glass and glassware,Eastern Europe,Europe,33740938,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2014,2014,Import,Azerbaijan,70,Glass and glassware,Latin America and the Caribbean,Americas,40865,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2014,2014,Import,Azerbaijan,70,Glass and glassware,Northern Africa,Africa,525,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2014,2014,Import,Azerbaijan,70,Glass and glassware,Northern America,Americas,291689,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2014,2014,Import,Azerbaijan,70,Glass and glassware,Northern Europe,Europe,932596,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2014,2014,Import,Azerbaijan,70,Glass and glassware,South-eastern Asia,Asia,40815,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2014,2014,Import,Azerbaijan,70,Glass and glassware,Southern Asia,Asia,247450,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2014,2014,Import,Azerbaijan,70,Glass and glassware,Southern Europe,Europe,2262261,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2014,2014,Import,Azerbaijan,70,Glass and glassware,Western Asia,Asia,12287981,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2014,2014,Import,Azerbaijan,70,Glass and glassware,Western Europe,Europe,5240243,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2014,2014,Import,Azerbaijan,70,Glass and glassware,World,World,57867194,40.3936294,47.7872508,,

@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Azerbaijan,5,"Products of animal origin, nes",Eastern Europe,Europe,5399
-1996,1996,Import,Azerbaijan,5,"Products of animal origin, nes",Southern Asia,Asia,13250
-1996,1996,Import,Azerbaijan,5,"Products of animal origin, nes",World,World,18649
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Azerbaijan,5,"Products of animal origin, nes",Eastern Europe,Europe,5399,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1996,1996,Import,Azerbaijan,5,"Products of animal origin, nes",Southern Asia,Asia,13250,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1996,1996,Import,Azerbaijan,5,"Products of animal origin, nes",World,World,18649,40.3936294,47.7872508,,

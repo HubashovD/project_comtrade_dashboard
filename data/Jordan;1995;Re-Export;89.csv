@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Re-Export,Jordan,89,"Ships, boats and other floating structures",Eastern Asia,Asia,1425
-1995,1995,Re-Export,Jordan,89,"Ships, boats and other floating structures",Northern Africa,Africa,334919
-1995,1995,Re-Export,Jordan,89,"Ships, boats and other floating structures",Western Europe,Europe,11401
-1995,1995,Re-Export,Jordan,89,"Ships, boats and other floating structures",World,World,376248
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Re-Export,Jordan,89,"Ships, boats and other floating structures",Eastern Asia,Asia,1425,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1995,1995,Re-Export,Jordan,89,"Ships, boats and other floating structures",Northern Africa,Africa,334919,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1995,1995,Re-Export,Jordan,89,"Ships, boats and other floating structures",Western Europe,Europe,11401,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Re-Export,Jordan,89,"Ships, boats and other floating structures",World,World,376248,31.1667049,36.941628,,

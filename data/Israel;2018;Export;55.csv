@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Israel,55,Man-made staple fibres,Australia and New Zealand,Oceania,531000
-2018,2018,Export,Israel,55,Man-made staple fibres,Eastern Asia,Asia,1000
-2018,2018,Export,Israel,55,Man-made staple fibres,Eastern Europe,Europe,87000
-2018,2018,Export,Israel,55,Man-made staple fibres,Latin America and the Caribbean,Americas,11000
-2018,2018,Export,Israel,55,Man-made staple fibres,Northern Africa,Africa,11865000
-2018,2018,Export,Israel,55,Man-made staple fibres,Northern America,Americas,1263000
-2018,2018,Export,Israel,55,Man-made staple fibres,Northern Europe,Europe,3570000
-2018,2018,Export,Israel,55,Man-made staple fibres,South-eastern Asia,Asia,121000
-2018,2018,Export,Israel,55,Man-made staple fibres,Southern Europe,Europe,127000
-2018,2018,Export,Israel,55,Man-made staple fibres,Sub-Saharan Africa,Africa,25000
-2018,2018,Export,Israel,55,Man-made staple fibres,Western Asia,Asia,162000
-2018,2018,Export,Israel,55,Man-made staple fibres,Western Europe,Europe,705000
-2018,2018,Export,Israel,55,Man-made staple fibres,World,World,18971000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Israel,55,Man-made staple fibres,Australia and New Zealand,Oceania,531000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2018,2018,Export,Israel,55,Man-made staple fibres,Eastern Asia,Asia,1000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2018,2018,Export,Israel,55,Man-made staple fibres,Eastern Europe,Europe,87000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2018,2018,Export,Israel,55,Man-made staple fibres,Latin America and the Caribbean,Americas,11000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2018,2018,Export,Israel,55,Man-made staple fibres,Northern Africa,Africa,11865000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2018,2018,Export,Israel,55,Man-made staple fibres,Northern America,Americas,1263000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2018,2018,Export,Israel,55,Man-made staple fibres,Northern Europe,Europe,3570000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2018,2018,Export,Israel,55,Man-made staple fibres,South-eastern Asia,Asia,121000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2018,2018,Export,Israel,55,Man-made staple fibres,Southern Europe,Europe,127000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2018,2018,Export,Israel,55,Man-made staple fibres,Sub-Saharan Africa,Africa,25000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2018,2018,Export,Israel,55,Man-made staple fibres,Western Asia,Asia,162000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2018,2018,Export,Israel,55,Man-made staple fibres,Western Europe,Europe,705000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2018,2018,Export,Israel,55,Man-made staple fibres,World,World,18971000,30.8124247,34.8594762,,

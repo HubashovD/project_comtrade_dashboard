@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Kuwait,31,Fertilisers,Australia and New Zealand,Oceania,43189227
-2010,2010,Export,Kuwait,31,Fertilisers,Latin America and the Caribbean,Americas,23427122
-2010,2010,Export,Kuwait,31,Fertilisers,Northern America,Americas,131228504
-2010,2010,Export,Kuwait,31,Fertilisers,South-eastern Asia,Asia,36398523
-2010,2010,Export,Kuwait,31,Fertilisers,Sub-Saharan Africa,Africa,5974667
-2010,2010,Export,Kuwait,31,Fertilisers,World,World,293317304
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Kuwait,31,Fertilisers,Australia and New Zealand,Oceania,43189227,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2010,2010,Export,Kuwait,31,Fertilisers,Latin America and the Caribbean,Americas,23427122,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2010,2010,Export,Kuwait,31,Fertilisers,Northern America,Americas,131228504,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2010,2010,Export,Kuwait,31,Fertilisers,South-eastern Asia,Asia,36398523,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2010,2010,Export,Kuwait,31,Fertilisers,Sub-Saharan Africa,Africa,5974667,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2010,2010,Export,Kuwait,31,Fertilisers,World,World,293317304,29.2733964,47.4979476,,

@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Kuwait,79,Zinc and articles thereof,Northern Africa,Africa,114
-2001,2001,Export,Kuwait,79,Zinc and articles thereof,South-eastern Asia,Asia,46
-2001,2001,Export,Kuwait,79,Zinc and articles thereof,World,World,64814
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Kuwait,79,Zinc and articles thereof,Northern Africa,Africa,114,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2001,2001,Export,Kuwait,79,Zinc and articles thereof,South-eastern Asia,Asia,46,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2001,2001,Export,Kuwait,79,Zinc and articles thereof,World,World,64814,29.2733964,47.4979476,,

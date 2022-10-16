@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Australia and New Zealand,Oceania,2629
-2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Eastern Asia,Asia,495842
-2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Eastern Europe,Europe,28243
-2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Latin America and the Caribbean,Americas,15125453
-2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Northern Africa,Africa,2804903
-2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Northern America,Americas,169808
-2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Northern Europe,Europe,386047
-2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,632831
-2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Southern Asia,Asia,4833652
-2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,398393
-2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,261400
-2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Western Asia,Asia,1005693
-2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Western Europe,Europe,253191
-2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",World,World,26781485
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Australia and New Zealand,Oceania,2629,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Eastern Asia,Asia,495842,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Eastern Europe,Europe,28243,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Latin America and the Caribbean,Americas,15125453,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Northern Africa,Africa,2804903,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Northern America,Americas,169808,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Northern Europe,Europe,386047,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,632831,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Southern Asia,Asia,4833652,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,398393,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,261400,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Western Asia,Asia,1005693,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",Western Europe,Europe,253191,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2002,2002,Import,Lebanon,9,"Coffee, tea, matΦ and spices",World,World,26781485,33.8750629,35.843409,,

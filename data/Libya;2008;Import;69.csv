@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Libya,69,Ceramic products,Eastern Asia,Asia,15598880
-2008,2008,Import,Libya,69,Ceramic products,Eastern Europe,Europe,55086
-2008,2008,Import,Libya,69,Ceramic products,Latin America and the Caribbean,Americas,1238724
-2008,2008,Import,Libya,69,Ceramic products,Northern Africa,Africa,2283209
-2008,2008,Import,Libya,69,Ceramic products,Northern America,Americas,302966
-2008,2008,Import,Libya,69,Ceramic products,Northern Europe,Europe,144788
-2008,2008,Import,Libya,69,Ceramic products,South-eastern Asia,Asia,115155
-2008,2008,Import,Libya,69,Ceramic products,Southern Europe,Europe,11929643
-2008,2008,Import,Libya,69,Ceramic products,Sub-Saharan Africa,Africa,4302
-2008,2008,Import,Libya,69,Ceramic products,Western Asia,Asia,4374306
-2008,2008,Import,Libya,69,Ceramic products,Western Europe,Europe,4097376
-2008,2008,Import,Libya,69,Ceramic products,World,World,47025123
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Libya,69,Ceramic products,Eastern Asia,Asia,15598880,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2008,2008,Import,Libya,69,Ceramic products,Eastern Europe,Europe,55086,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2008,2008,Import,Libya,69,Ceramic products,Latin America and the Caribbean,Americas,1238724,26.8234472,18.1236723,17.925141963241547,-78.01492950057497
+2008,2008,Import,Libya,69,Ceramic products,Northern Africa,Africa,2283209,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2008,2008,Import,Libya,69,Ceramic products,Northern America,Americas,302966,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2008,2008,Import,Libya,69,Ceramic products,Northern Europe,Europe,144788,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2008,2008,Import,Libya,69,Ceramic products,South-eastern Asia,Asia,115155,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2008,2008,Import,Libya,69,Ceramic products,Southern Europe,Europe,11929643,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2008,2008,Import,Libya,69,Ceramic products,Sub-Saharan Africa,Africa,4302,26.8234472,18.1236723,6.06272746187266,22.727528470146083
+2008,2008,Import,Libya,69,Ceramic products,Western Asia,Asia,4374306,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2008,2008,Import,Libya,69,Ceramic products,Western Europe,Europe,4097376,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2008,2008,Import,Libya,69,Ceramic products,World,World,47025123,26.8234472,18.1236723,,

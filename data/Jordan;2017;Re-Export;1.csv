@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Re-Export,Jordan,1,Animals; live,Eastern Asia,Asia,3407
-2017,2017,Re-Export,Jordan,1,Animals; live,Northern America,Americas,998
-2017,2017,Re-Export,Jordan,1,Animals; live,South-eastern Asia,Asia,5126
-2017,2017,Re-Export,Jordan,1,Animals; live,Western Asia,Asia,18463
-2017,2017,Re-Export,Jordan,1,Animals; live,Western Europe,Europe,22837
-2017,2017,Re-Export,Jordan,1,Animals; live,World,World,2832569
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Re-Export,Jordan,1,Animals; live,Eastern Asia,Asia,3407,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2017,2017,Re-Export,Jordan,1,Animals; live,Northern America,Americas,998,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2017,2017,Re-Export,Jordan,1,Animals; live,South-eastern Asia,Asia,5126,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2017,2017,Re-Export,Jordan,1,Animals; live,Western Asia,Asia,18463,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2017,2017,Re-Export,Jordan,1,Animals; live,Western Europe,Europe,22837,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2017,2017,Re-Export,Jordan,1,Animals; live,World,World,2832569,31.1667049,36.941628,,

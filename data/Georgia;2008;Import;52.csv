@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Georgia,52,Cotton,Eastern Asia,Asia,53921
-2008,2008,Import,Georgia,52,Cotton,Eastern Europe,Europe,310003
-2008,2008,Import,Georgia,52,Cotton,Northern America,Americas,899
-2008,2008,Import,Georgia,52,Cotton,Northern Europe,Europe,5100
-2008,2008,Import,Georgia,52,Cotton,Southern Asia,Asia,1254206
-2008,2008,Import,Georgia,52,Cotton,Southern Europe,Europe,14007
-2008,2008,Import,Georgia,52,Cotton,Western Asia,Asia,6049334
-2008,2008,Import,Georgia,52,Cotton,Western Europe,Europe,143033
-2008,2008,Import,Georgia,52,Cotton,World,World,8369928
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Georgia,52,Cotton,Eastern Asia,Asia,53921,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2008,2008,Import,Georgia,52,Cotton,Eastern Europe,Europe,310003,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2008,2008,Import,Georgia,52,Cotton,Northern America,Americas,899,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2008,2008,Import,Georgia,52,Cotton,Northern Europe,Europe,5100,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2008,2008,Import,Georgia,52,Cotton,Southern Asia,Asia,1254206,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2008,2008,Import,Georgia,52,Cotton,Southern Europe,Europe,14007,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2008,2008,Import,Georgia,52,Cotton,Western Asia,Asia,6049334,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2008,2008,Import,Georgia,52,Cotton,Western Europe,Europe,143033,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2008,2008,Import,Georgia,52,Cotton,World,World,8369928,32.3293809,-83.1137366,,

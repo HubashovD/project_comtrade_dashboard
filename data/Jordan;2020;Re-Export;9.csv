@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Australia and New Zealand,Oceania,6423
-2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,19361
-2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,126807
-2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Northern America,Americas,22558
-2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Northern Europe,Europe,500
-2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,12083
-2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Western Asia,Asia,113575
-2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",World,World,7087900
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Australia and New Zealand,Oceania,6423,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,19361,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,126807,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Northern America,Americas,22558,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Northern Europe,Europe,500,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,12083,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Western Asia,Asia,113575,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2020,2020,Re-Export,Jordan,9,"Coffee, tea, mate and spices",World,World,7087900,31.1667049,36.941628,,

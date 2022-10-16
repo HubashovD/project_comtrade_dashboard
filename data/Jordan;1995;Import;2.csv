@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Jordan,2,Meat and edible meat offal,Australia and New Zealand,Oceania,11463556
-1995,1995,Import,Jordan,2,Meat and edible meat offal,Central Asia,Asia,701626
-1995,1995,Import,Jordan,2,Meat and edible meat offal,Eastern Europe,Europe,5467111
-1995,1995,Import,Jordan,2,Meat and edible meat offal,Northern America,Americas,557925
-1995,1995,Import,Jordan,2,Meat and edible meat offal,Northern Europe,Europe,362145
-1995,1995,Import,Jordan,2,Meat and edible meat offal,Southern Europe,Europe,7078
-1995,1995,Import,Jordan,2,Meat and edible meat offal,Western Europe,Europe,17589341
-1995,1995,Import,Jordan,2,Meat and edible meat offal,World,World,41996708
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Jordan,2,Meat and edible meat offal,Australia and New Zealand,Oceania,11463556,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1995,1995,Import,Jordan,2,Meat and edible meat offal,Central Asia,Asia,701626,31.1667049,36.941628,39.89317229901691,61.060280637304274
+1995,1995,Import,Jordan,2,Meat and edible meat offal,Eastern Europe,Europe,5467111,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1995,1995,Import,Jordan,2,Meat and edible meat offal,Northern America,Americas,557925,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1995,1995,Import,Jordan,2,Meat and edible meat offal,Northern Europe,Europe,362145,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1995,1995,Import,Jordan,2,Meat and edible meat offal,Southern Europe,Europe,7078,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Import,Jordan,2,Meat and edible meat offal,Western Europe,Europe,17589341,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Import,Jordan,2,Meat and edible meat offal,World,World,41996708,31.1667049,36.941628,,

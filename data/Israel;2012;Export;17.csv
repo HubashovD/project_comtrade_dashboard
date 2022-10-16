@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Export,Israel,17,Sugars and sugar confectionery,Australia and New Zealand,Oceania,807000
-2012,2012,Export,Israel,17,Sugars and sugar confectionery,Eastern Asia,Asia,14973000
-2012,2012,Export,Israel,17,Sugars and sugar confectionery,Eastern Europe,Europe,4884000
-2012,2012,Export,Israel,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,765000
-2012,2012,Export,Israel,17,Sugars and sugar confectionery,Melanesia,Oceania,11000
-2012,2012,Export,Israel,17,Sugars and sugar confectionery,Northern America,Americas,9377000
-2012,2012,Export,Israel,17,Sugars and sugar confectionery,Northern Europe,Europe,5672000
-2012,2012,Export,Israel,17,Sugars and sugar confectionery,South-eastern Asia,Asia,1000000
-2012,2012,Export,Israel,17,Sugars and sugar confectionery,Southern Europe,Europe,14974000
-2012,2012,Export,Israel,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,2704000
-2012,2012,Export,Israel,17,Sugars and sugar confectionery,Western Asia,Asia,80000
-2012,2012,Export,Israel,17,Sugars and sugar confectionery,Western Europe,Europe,28371000
-2012,2012,Export,Israel,17,Sugars and sugar confectionery,World,World,86166000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Export,Israel,17,Sugars and sugar confectionery,Australia and New Zealand,Oceania,807000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2012,2012,Export,Israel,17,Sugars and sugar confectionery,Eastern Asia,Asia,14973000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2012,2012,Export,Israel,17,Sugars and sugar confectionery,Eastern Europe,Europe,4884000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2012,2012,Export,Israel,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,765000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2012,2012,Export,Israel,17,Sugars and sugar confectionery,Melanesia,Oceania,11000,30.8124247,34.8594762,1.0108650891006263,147.3257485906919
+2012,2012,Export,Israel,17,Sugars and sugar confectionery,Northern America,Americas,9377000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2012,2012,Export,Israel,17,Sugars and sugar confectionery,Northern Europe,Europe,5672000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2012,2012,Export,Israel,17,Sugars and sugar confectionery,South-eastern Asia,Asia,1000000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2012,2012,Export,Israel,17,Sugars and sugar confectionery,Southern Europe,Europe,14974000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2012,2012,Export,Israel,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,2704000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2012,2012,Export,Israel,17,Sugars and sugar confectionery,Western Asia,Asia,80000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2012,2012,Export,Israel,17,Sugars and sugar confectionery,Western Europe,Europe,28371000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2012,2012,Export,Israel,17,Sugars and sugar confectionery,World,World,86166000,30.8124247,34.8594762,,

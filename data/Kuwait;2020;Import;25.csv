@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Australia and New Zealand,Oceania,122065
-2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Eastern Asia,Asia,2171058
-2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Eastern Europe,Europe,41901
-2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Latin America and the Caribbean,Americas,8510
-2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Northern Africa,Africa,600209
-2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Northern America,Americas,1866367
-2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Northern Europe,Europe,1956815
-2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",South-eastern Asia,Asia,547811
-2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Southern Asia,Asia,78325443
-2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Southern Europe,Europe,4799230
-2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Sub-Saharan Africa,Africa,27025
-2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Western Asia,Asia,3000599
-2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Western Europe,Europe,2360938
-2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",World,World,423748339
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Australia and New Zealand,Oceania,122065,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Eastern Asia,Asia,2171058,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Eastern Europe,Europe,41901,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Latin America and the Caribbean,Americas,8510,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Northern Africa,Africa,600209,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Northern America,Americas,1866367,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Northern Europe,Europe,1956815,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",South-eastern Asia,Asia,547811,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Southern Asia,Asia,78325443,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Southern Europe,Europe,4799230,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Sub-Saharan Africa,Africa,27025,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Western Asia,Asia,3000599,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Western Europe,Europe,2360938,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2020,2020,Import,Kuwait,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",World,World,423748339,29.2733964,47.4979476,,

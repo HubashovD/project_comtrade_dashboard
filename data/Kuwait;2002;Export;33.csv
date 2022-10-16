@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Central Asia,Asia,95
-2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,585252
-2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,187261
-2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,329
-2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Asia,Asia,193392
-2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,263
-2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,27495
-2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,214395
-2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,6778182
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Central Asia,Asia,95,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,585252,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,187261,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,329,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Asia,Asia,193392,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,263,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,27495,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,214395,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2002,2002,Export,Kuwait,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,6778182,29.2733964,47.4979476,,

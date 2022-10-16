@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Central Asia,Asia,45346
-2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Eastern Asia,Asia,72751
-2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Eastern Europe,Europe,23667739
-2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,32428110
-2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Northern America,Americas,742
-2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Northern Europe,Europe,42429
-2021,2021,Import,Georgia,17,Sugars and sugar confectionery,South-eastern Asia,Asia,1
-2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Southern Asia,Asia,4069
-2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Southern Europe,Europe,1149728
-2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,11
-2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Western Asia,Asia,18272541
-2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Western Europe,Europe,6909766
-2021,2021,Import,Georgia,17,Sugars and sugar confectionery,World,World,83357969
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Central Asia,Asia,45346,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Eastern Asia,Asia,72751,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Eastern Europe,Europe,23667739,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,32428110,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Northern America,Americas,742,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Northern Europe,Europe,42429,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2021,2021,Import,Georgia,17,Sugars and sugar confectionery,South-eastern Asia,Asia,1,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Southern Asia,Asia,4069,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Southern Europe,Europe,1149728,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,11,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Western Asia,Asia,18272541,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2021,2021,Import,Georgia,17,Sugars and sugar confectionery,Western Europe,Europe,6909766,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2021,2021,Import,Georgia,17,Sugars and sugar confectionery,World,World,83357969,32.3293809,-83.1137366,,

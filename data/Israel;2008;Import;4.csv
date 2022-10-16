@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,139000
-2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,1800000
-2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Latin America and the Caribbean,Americas,647000
-2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,34498000
-2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Europe,Europe,5380000
-2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,28000
-2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Europe,Europe,7915000
-2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Asia,Asia,427000
-2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Europe,Europe,22398000
-2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,73237000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,139000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,1800000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Latin America and the Caribbean,Americas,647000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,34498000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Europe,Europe,5380000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,28000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Europe,Europe,7915000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Asia,Asia,427000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Europe,Europe,22398000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2008,2008,Import,Israel,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,73237000,30.8124247,34.8594762,,

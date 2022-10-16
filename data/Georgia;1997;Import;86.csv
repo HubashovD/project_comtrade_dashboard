@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",Eastern Europe,Europe,1360542
-1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",Northern America,Americas,65785
-1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",Northern Europe,Europe,1750
-1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",Southern Asia,Asia,4798
-1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",Southern Europe,Europe,7000
-1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",Western Asia,Asia,5299
-1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",Western Europe,Europe,2535
-1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",World,World,1542811
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",Eastern Europe,Europe,1360542,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",Northern America,Americas,65785,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",Northern Europe,Europe,1750,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",Southern Asia,Asia,4798,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",Southern Europe,Europe,7000,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",Western Asia,Asia,5299,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",Western Europe,Europe,2535,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1997,1997,Import,Georgia,86,"Railway, tramway locomotives, rolling stock, equipmen",World,World,1542811,32.3293809,-83.1137366,,

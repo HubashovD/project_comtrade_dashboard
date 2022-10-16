@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Kuwait,2,Meat and edible meat offal,Australia and New Zealand,Oceania,54433634
-2011,2011,Import,Kuwait,2,Meat and edible meat offal,Eastern Asia,Asia,18145767
-2011,2011,Import,Kuwait,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,263305459
-2011,2011,Import,Kuwait,2,Meat and edible meat offal,Northern Africa,Africa,481205
-2011,2011,Import,Kuwait,2,Meat and edible meat offal,Northern America,Americas,22043518
-2011,2011,Import,Kuwait,2,Meat and edible meat offal,Northern Europe,Europe,120
-2011,2011,Import,Kuwait,2,Meat and edible meat offal,South-eastern Asia,Asia,269330
-2011,2011,Import,Kuwait,2,Meat and edible meat offal,Southern Asia,Asia,89902
-2011,2011,Import,Kuwait,2,Meat and edible meat offal,Southern Europe,Europe,1598
-2011,2011,Import,Kuwait,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,1943572
-2011,2011,Import,Kuwait,2,Meat and edible meat offal,Western Asia,Asia,714641
-2011,2011,Import,Kuwait,2,Meat and edible meat offal,Western Europe,Europe,2613170
-2011,2011,Import,Kuwait,2,Meat and edible meat offal,World,World,447215606
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Kuwait,2,Meat and edible meat offal,Australia and New Zealand,Oceania,54433634,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2011,2011,Import,Kuwait,2,Meat and edible meat offal,Eastern Asia,Asia,18145767,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2011,2011,Import,Kuwait,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,263305459,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2011,2011,Import,Kuwait,2,Meat and edible meat offal,Northern Africa,Africa,481205,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2011,2011,Import,Kuwait,2,Meat and edible meat offal,Northern America,Americas,22043518,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2011,2011,Import,Kuwait,2,Meat and edible meat offal,Northern Europe,Europe,120,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2011,2011,Import,Kuwait,2,Meat and edible meat offal,South-eastern Asia,Asia,269330,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2011,2011,Import,Kuwait,2,Meat and edible meat offal,Southern Asia,Asia,89902,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2011,2011,Import,Kuwait,2,Meat and edible meat offal,Southern Europe,Europe,1598,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2011,2011,Import,Kuwait,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,1943572,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2011,2011,Import,Kuwait,2,Meat and edible meat offal,Western Asia,Asia,714641,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2011,2011,Import,Kuwait,2,Meat and edible meat offal,Western Europe,Europe,2613170,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2011,2011,Import,Kuwait,2,Meat and edible meat offal,World,World,447215606,29.2733964,47.4979476,,

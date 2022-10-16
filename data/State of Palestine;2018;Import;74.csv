@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,State of Palestine,74,Copper and articles thereof,Eastern Asia,Asia,1530557
-2018,2018,Import,State of Palestine,74,Copper and articles thereof,Eastern Europe,Europe,4
-2018,2018,Import,State of Palestine,74,Copper and articles thereof,Northern Africa,Africa,4476
-2018,2018,Import,State of Palestine,74,Copper and articles thereof,Northern America,Americas,33
-2018,2018,Import,State of Palestine,74,Copper and articles thereof,Northern Europe,Europe,89709
-2018,2018,Import,State of Palestine,74,Copper and articles thereof,South-eastern Asia,Asia,139
-2018,2018,Import,State of Palestine,74,Copper and articles thereof,Southern Europe,Europe,978552
-2018,2018,Import,State of Palestine,74,Copper and articles thereof,Sub-Saharan Africa,Africa,373
-2018,2018,Import,State of Palestine,74,Copper and articles thereof,Western Asia,Asia,187534
-2018,2018,Import,State of Palestine,74,Copper and articles thereof,Western Europe,Europe,64176
-2018,2018,Import,State of Palestine,74,Copper and articles thereof,World,World,14728858
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,State of Palestine,74,Copper and articles thereof,Eastern Asia,Asia,1530557,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2018,2018,Import,State of Palestine,74,Copper and articles thereof,Eastern Europe,Europe,4,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2018,2018,Import,State of Palestine,74,Copper and articles thereof,Northern Africa,Africa,4476,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2018,2018,Import,State of Palestine,74,Copper and articles thereof,Northern America,Americas,33,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2018,2018,Import,State of Palestine,74,Copper and articles thereof,Northern Europe,Europe,89709,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
+2018,2018,Import,State of Palestine,74,Copper and articles thereof,South-eastern Asia,Asia,139,31.46242095,34.262716572130714,10.528384761701911,103.08333472012376
+2018,2018,Import,State of Palestine,74,Copper and articles thereof,Southern Europe,Europe,978552,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2018,2018,Import,State of Palestine,74,Copper and articles thereof,Sub-Saharan Africa,Africa,373,31.46242095,34.262716572130714,6.06272746187266,22.727528470146083
+2018,2018,Import,State of Palestine,74,Copper and articles thereof,Western Asia,Asia,187534,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
+2018,2018,Import,State of Palestine,74,Copper and articles thereof,Western Europe,Europe,64176,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2018,2018,Import,State of Palestine,74,Copper and articles thereof,World,World,14728858,31.46242095,34.262716572130714,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Central Asia,Asia,248000
-2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,40324000
-2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,7418000
-2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Latin America and the Caribbean,Americas,123000
-2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,34439000
-2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern Europe,Europe,5926000
-2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",South-eastern Asia,Asia,6587000
-2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,732000
-2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Sub-Saharan Africa,Africa,33000
-2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Western Asia,Asia,46000
-2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,10862000
-2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",World,World,107607000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Central Asia,Asia,248000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,40324000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,7418000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Latin America and the Caribbean,Americas,123000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,34439000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern Europe,Europe,5926000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",South-eastern Asia,Asia,6587000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,732000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Sub-Saharan Africa,Africa,33000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Western Asia,Asia,46000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,10862000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2021,2021,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",World,World,107607000,30.8124247,34.8594762,,

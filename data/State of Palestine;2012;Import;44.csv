@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Eastern Asia,Asia,6790733
-2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Eastern Europe,Europe,317552
-2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Latin America and the Caribbean,Americas,132839
-2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Northern Africa,Africa,1436312
-2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Northern America,Americas,401416
-2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Northern Europe,Europe,210622
-2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,South-eastern Asia,Asia,112547
-2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Southern Europe,Europe,1934205
-2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Sub-Saharan Africa,Africa,218573
-2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Western Asia,Asia,256317
-2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Western Europe,Europe,1207258
-2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,World,World,105704220
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Eastern Asia,Asia,6790733,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Eastern Europe,Europe,317552,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Latin America and the Caribbean,Americas,132839,31.46242095,34.262716572130714,17.925141963241547,-78.01492950057497
+2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Northern Africa,Africa,1436312,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Northern America,Americas,401416,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Northern Europe,Europe,210622,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
+2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,South-eastern Asia,Asia,112547,31.46242095,34.262716572130714,10.528384761701911,103.08333472012376
+2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Southern Europe,Europe,1934205,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Sub-Saharan Africa,Africa,218573,31.46242095,34.262716572130714,6.06272746187266,22.727528470146083
+2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Western Asia,Asia,256317,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
+2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,Western Europe,Europe,1207258,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2012,2012,Import,State of Palestine,44,Wood and articles of wood; wood charcoal,World,World,105704220,31.46242095,34.262716572130714,,

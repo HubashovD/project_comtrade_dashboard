@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Kuwait,26,"Ores, slag and ash",Eastern Asia,Asia,44167
-2010,2010,Import,Kuwait,26,"Ores, slag and ash",Northern Europe,Europe,21
-2010,2010,Import,Kuwait,26,"Ores, slag and ash",Southern Asia,Asia,1397
-2010,2010,Import,Kuwait,26,"Ores, slag and ash",Western Europe,Europe,17972
-2010,2010,Import,Kuwait,26,"Ores, slag and ash",World,World,6418264
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Kuwait,26,"Ores, slag and ash",Eastern Asia,Asia,44167,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2010,2010,Import,Kuwait,26,"Ores, slag and ash",Northern Europe,Europe,21,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2010,2010,Import,Kuwait,26,"Ores, slag and ash",Southern Asia,Asia,1397,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2010,2010,Import,Kuwait,26,"Ores, slag and ash",Western Europe,Europe,17972,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2010,2010,Import,Kuwait,26,"Ores, slag and ash",World,World,6418264,29.2733964,47.4979476,,

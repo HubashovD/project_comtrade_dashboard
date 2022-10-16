@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Azerbaijan,60,Knitted or crocheted fabric,Central Asia,Asia,37250
-1999,1999,Import,Azerbaijan,60,Knitted or crocheted fabric,Eastern Asia,Asia,23539
-1999,1999,Import,Azerbaijan,60,Knitted or crocheted fabric,Eastern Europe,Europe,5910
-1999,1999,Import,Azerbaijan,60,Knitted or crocheted fabric,Northern America,Americas,31960
-1999,1999,Import,Azerbaijan,60,Knitted or crocheted fabric,Southern Asia,Asia,4429
-1999,1999,Import,Azerbaijan,60,Knitted or crocheted fabric,Western Asia,Asia,6897
-1999,1999,Import,Azerbaijan,60,Knitted or crocheted fabric,World,World,112082
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Azerbaijan,60,Knitted or crocheted fabric,Central Asia,Asia,37250,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1999,1999,Import,Azerbaijan,60,Knitted or crocheted fabric,Eastern Asia,Asia,23539,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+1999,1999,Import,Azerbaijan,60,Knitted or crocheted fabric,Eastern Europe,Europe,5910,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1999,1999,Import,Azerbaijan,60,Knitted or crocheted fabric,Northern America,Americas,31960,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1999,1999,Import,Azerbaijan,60,Knitted or crocheted fabric,Southern Asia,Asia,4429,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1999,1999,Import,Azerbaijan,60,Knitted or crocheted fabric,Western Asia,Asia,6897,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1999,1999,Import,Azerbaijan,60,Knitted or crocheted fabric,World,World,112082,40.3936294,47.7872508,,

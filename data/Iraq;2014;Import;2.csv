@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,2,Meat and edible meat offal,Australia and New Zealand,Oceania,1398560
-2014,2014,Import,Iraq,2,Meat and edible meat offal,Eastern Asia,Asia,524023
-2014,2014,Import,Iraq,2,Meat and edible meat offal,Eastern Europe,Europe,918636
-2014,2014,Import,Iraq,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,53545360
-2014,2014,Import,Iraq,2,Meat and edible meat offal,Northern Africa,Africa,148360
-2014,2014,Import,Iraq,2,Meat and edible meat offal,Northern America,Americas,25231526
-2014,2014,Import,Iraq,2,Meat and edible meat offal,Northern Europe,Europe,20600
-2014,2014,Import,Iraq,2,Meat and edible meat offal,South-eastern Asia,Asia,312759
-2014,2014,Import,Iraq,2,Meat and edible meat offal,Southern Asia,Asia,16414323
-2014,2014,Import,Iraq,2,Meat and edible meat offal,Southern Europe,Europe,33050
-2014,2014,Import,Iraq,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,70788
-2014,2014,Import,Iraq,2,Meat and edible meat offal,Western Asia,Asia,3416164
-2014,2014,Import,Iraq,2,Meat and edible meat offal,Western Europe,Europe,490676
-2014,2014,Import,Iraq,2,Meat and edible meat offal,World,World,166954401
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,2,Meat and edible meat offal,Australia and New Zealand,Oceania,1398560,33.0955793,44.1749775,-16.85099460447687,133.4130365630627
+2014,2014,Import,Iraq,2,Meat and edible meat offal,Eastern Asia,Asia,524023,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,2,Meat and edible meat offal,Eastern Europe,Europe,918636,33.0955793,44.1749775,51.67568633314729,27.673469819741847
+2014,2014,Import,Iraq,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,53545360,33.0955793,44.1749775,17.925141963241547,-78.01492950057497
+2014,2014,Import,Iraq,2,Meat and edible meat offal,Northern Africa,Africa,148360,33.0955793,44.1749775,19.569604022535763,12.47761721199581
+2014,2014,Import,Iraq,2,Meat and edible meat offal,Northern America,Americas,25231526,33.0955793,44.1749775,43.897683433510366,-100.08947125585888
+2014,2014,Import,Iraq,2,Meat and edible meat offal,Northern Europe,Europe,20600,33.0955793,44.1749775,59.36075159783851,25.01346951967388
+2014,2014,Import,Iraq,2,Meat and edible meat offal,South-eastern Asia,Asia,312759,33.0955793,44.1749775,10.528384761701911,103.08333472012376
+2014,2014,Import,Iraq,2,Meat and edible meat offal,Southern Asia,Asia,16414323,33.0955793,44.1749775,25.499703063807168,75.5024015339642
+2014,2014,Import,Iraq,2,Meat and edible meat offal,Southern Europe,Europe,33050,33.0955793,44.1749775,40.12399607988535,20.742583178432696
+2014,2014,Import,Iraq,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,70788,33.0955793,44.1749775,6.06272746187266,22.727528470146083
+2014,2014,Import,Iraq,2,Meat and edible meat offal,Western Asia,Asia,3416164,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,2,Meat and edible meat offal,Western Europe,Europe,490676,33.0955793,44.1749775,47.92172048214207,7.866753258497997
+2014,2014,Import,Iraq,2,Meat and edible meat offal,World,World,166954401,33.0955793,44.1749775,,

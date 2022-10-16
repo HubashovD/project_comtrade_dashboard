@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Eastern Asia,Asia,33790
-2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Latin America and the Caribbean,Americas,2550
-2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Northern Africa,Africa,98801
-2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Northern America,Americas,86708
-2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Northern Europe,Europe,38127
-2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,South-eastern Asia,Asia,313752
-2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Southern Europe,Europe,20176
-2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Sub-Saharan Africa,Africa,96587
-2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Western Asia,Asia,772746
-2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Western Europe,Europe,486579
-2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,World,World,63874165
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Eastern Asia,Asia,33790,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Latin America and the Caribbean,Americas,2550,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Northern Africa,Africa,98801,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Northern America,Americas,86708,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Northern Europe,Europe,38127,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,South-eastern Asia,Asia,313752,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Southern Europe,Europe,20176,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Sub-Saharan Africa,Africa,96587,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Western Asia,Asia,772746,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,Western Europe,Europe,486579,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2002,2002,Re-Export,Jordan,87,Vehicles other than railway or tramway rolling stock,World,World,63874165,31.1667049,36.941628,,

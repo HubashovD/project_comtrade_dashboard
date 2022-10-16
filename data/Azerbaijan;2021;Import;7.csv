@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Australia and New Zealand,Oceania,1800
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Central Asia,Asia,7296908
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Eastern Asia,Asia,262020
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Eastern Europe,Europe,16227707
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Latin America and the Caribbean,Americas,530103
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Northern Africa,Africa,25654
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Northern America,Americas,622738
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Northern Europe,Europe,5565
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,South-eastern Asia,Asia,1772
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Southern Asia,Asia,50624100
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Southern Europe,Europe,67578
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Sub-Saharan Africa,Africa,314244
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Western Asia,Asia,6414421
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Western Europe,Europe,1027979
-2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,World,World,87754735
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Australia and New Zealand,Oceania,1800,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Central Asia,Asia,7296908,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Eastern Asia,Asia,262020,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Eastern Europe,Europe,16227707,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Latin America and the Caribbean,Americas,530103,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Northern Africa,Africa,25654,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Northern America,Americas,622738,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Northern Europe,Europe,5565,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,South-eastern Asia,Asia,1772,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Southern Asia,Asia,50624100,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Southern Europe,Europe,67578,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Sub-Saharan Africa,Africa,314244,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Western Asia,Asia,6414421,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,Western Europe,Europe,1027979,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2021,2021,Import,Azerbaijan,7,Vegetables and certain roots and tubers; edible,World,World,87754735,40.3936294,47.7872508,,

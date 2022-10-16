@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Kuwait,89,"Ships, boats and floating structures",Northern Africa,Africa,59779
-2016,2016,Export,Kuwait,89,"Ships, boats and floating structures",Northern America,Americas,3308
-2016,2016,Export,Kuwait,89,"Ships, boats and floating structures",Southern Asia,Asia,661
-2016,2016,Export,Kuwait,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,658
-2016,2016,Export,Kuwait,89,"Ships, boats and floating structures",Western Europe,Europe,12541
-2016,2016,Export,Kuwait,89,"Ships, boats and floating structures",World,World,15851865
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Kuwait,89,"Ships, boats and floating structures",Northern Africa,Africa,59779,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2016,2016,Export,Kuwait,89,"Ships, boats and floating structures",Northern America,Americas,3308,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2016,2016,Export,Kuwait,89,"Ships, boats and floating structures",Southern Asia,Asia,661,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2016,2016,Export,Kuwait,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,658,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2016,2016,Export,Kuwait,89,"Ships, boats and floating structures",Western Europe,Europe,12541,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2016,2016,Export,Kuwait,89,"Ships, boats and floating structures",World,World,15851865,29.2733964,47.4979476,,

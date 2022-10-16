@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Asia,Asia,34912
-1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,2142
-1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,12425
-1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",Southern Europe,Europe,1294
-1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",Sub-Saharan Africa,Africa,22529
-1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",Western Asia,Asia,20000
-1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,73866
-1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,192435
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Asia,Asia,34912,33.8750629,35.843409,37.977378106878206,73.97804075806764
+1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,2142,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,12425,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",Southern Europe,Europe,1294,33.8750629,35.843409,40.12399607988535,20.742583178432696
+1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",Sub-Saharan Africa,Africa,22529,33.8750629,35.843409,6.06272746187266,22.727528470146083
+1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",Western Asia,Asia,20000,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,73866,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1997,1997,Export,Lebanon,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,192435,33.8750629,35.843409,,

@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Export,Azerbaijan,1,Animals; live,Eastern Europe,Europe,13300
-2012,2012,Export,Azerbaijan,1,Animals; live,Northern America,Americas,4135
-2012,2012,Export,Azerbaijan,1,Animals; live,World,World,26525
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Export,Azerbaijan,1,Animals; live,Eastern Europe,Europe,13300,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2012,2012,Export,Azerbaijan,1,Animals; live,Northern America,Americas,4135,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2012,2012,Export,Azerbaijan,1,Animals; live,World,World,26525,40.3936294,47.7872508,,

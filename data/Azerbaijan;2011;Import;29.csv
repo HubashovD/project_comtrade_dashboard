@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Azerbaijan,29,Organic chemicals,Australia and New Zealand,Oceania,266170
-2011,2011,Import,Azerbaijan,29,Organic chemicals,Eastern Asia,Asia,3326782
-2011,2011,Import,Azerbaijan,29,Organic chemicals,Eastern Europe,Europe,6636444
-2011,2011,Import,Azerbaijan,29,Organic chemicals,Latin America and the Caribbean,Americas,72448
-2011,2011,Import,Azerbaijan,29,Organic chemicals,Northern America,Americas,711062
-2011,2011,Import,Azerbaijan,29,Organic chemicals,Northern Europe,Europe,3677312
-2011,2011,Import,Azerbaijan,29,Organic chemicals,South-eastern Asia,Asia,74049
-2011,2011,Import,Azerbaijan,29,Organic chemicals,Southern Asia,Asia,824723
-2011,2011,Import,Azerbaijan,29,Organic chemicals,Southern Europe,Europe,179353
-2011,2011,Import,Azerbaijan,29,Organic chemicals,Sub-Saharan Africa,Africa,152810
-2011,2011,Import,Azerbaijan,29,Organic chemicals,Western Asia,Asia,7237002
-2011,2011,Import,Azerbaijan,29,Organic chemicals,Western Europe,Europe,7419771
-2011,2011,Import,Azerbaijan,29,Organic chemicals,World,World,33407888
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Azerbaijan,29,Organic chemicals,Australia and New Zealand,Oceania,266170,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2011,2011,Import,Azerbaijan,29,Organic chemicals,Eastern Asia,Asia,3326782,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2011,2011,Import,Azerbaijan,29,Organic chemicals,Eastern Europe,Europe,6636444,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2011,2011,Import,Azerbaijan,29,Organic chemicals,Latin America and the Caribbean,Americas,72448,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2011,2011,Import,Azerbaijan,29,Organic chemicals,Northern America,Americas,711062,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2011,2011,Import,Azerbaijan,29,Organic chemicals,Northern Europe,Europe,3677312,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2011,2011,Import,Azerbaijan,29,Organic chemicals,South-eastern Asia,Asia,74049,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2011,2011,Import,Azerbaijan,29,Organic chemicals,Southern Asia,Asia,824723,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2011,2011,Import,Azerbaijan,29,Organic chemicals,Southern Europe,Europe,179353,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2011,2011,Import,Azerbaijan,29,Organic chemicals,Sub-Saharan Africa,Africa,152810,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2011,2011,Import,Azerbaijan,29,Organic chemicals,Western Asia,Asia,7237002,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2011,2011,Import,Azerbaijan,29,Organic chemicals,Western Europe,Europe,7419771,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2011,2011,Import,Azerbaijan,29,Organic chemicals,World,World,33407888,40.3936294,47.7872508,,

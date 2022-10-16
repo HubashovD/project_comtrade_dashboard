@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Asia,Asia,83388
-2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,24226012
-2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,74419
-2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Micronesia,Oceania,14748
-2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,414871118
-2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,411728
-2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,South-eastern Asia,Asia,319
-2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,94300982
-2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Western Asia,Asia,2244195
-2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,1434347
-2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,World,World,539212656
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Asia,Asia,83388,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,24226012,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,74419,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Micronesia,Oceania,14748,40.3936294,47.7872508,6.418559504495792,157.6364476938912
+2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,414871118,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,411728,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,South-eastern Asia,Asia,319,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,94300982,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Western Asia,Asia,2244195,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,1434347,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2015,2015,Import,Azerbaijan,99,Commodities not specified according to kind,World,World,539212656,40.3936294,47.7872508,,

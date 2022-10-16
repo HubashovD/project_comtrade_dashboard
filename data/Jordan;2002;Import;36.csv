@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Eastern Asia,Asia,161612
-2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Northern Africa,Africa,10151
-2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Northern America,Americas,66062
-2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Northern Europe,Europe,22469
-2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Southern Europe,Europe,47618
-2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Sub-Saharan Africa,Africa,4874
-2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Western Asia,Asia,6640
-2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Western Europe,Europe,2554
-2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,World,World,920024
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Eastern Asia,Asia,161612,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Northern Africa,Africa,10151,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Northern America,Americas,66062,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Northern Europe,Europe,22469,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Southern Europe,Europe,47618,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Sub-Saharan Africa,Africa,4874,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Western Asia,Asia,6640,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,Western Europe,Europe,2554,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2002,2002,Import,Jordan,36,Explosives; pyrotechnic products; matches,World,World,920024,31.1667049,36.941628,,

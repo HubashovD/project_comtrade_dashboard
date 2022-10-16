@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Kuwait,79,Zinc and articles thereof,Australia and New Zealand,Oceania,660
-2020,2020,Export,Kuwait,79,Zinc and articles thereof,Eastern Europe,Europe,165
-2020,2020,Export,Kuwait,79,Zinc and articles thereof,Northern America,Americas,648
-2020,2020,Export,Kuwait,79,Zinc and articles thereof,Northern Europe,Europe,1648
-2020,2020,Export,Kuwait,79,Zinc and articles thereof,South-eastern Asia,Asia,165
-2020,2020,Export,Kuwait,79,Zinc and articles thereof,Sub-Saharan Africa,Africa,264
-2020,2020,Export,Kuwait,79,Zinc and articles thereof,Western Asia,Asia,165
-2020,2020,Export,Kuwait,79,Zinc and articles thereof,Western Europe,Europe,165
-2020,2020,Export,Kuwait,79,Zinc and articles thereof,World,World,207301
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Kuwait,79,Zinc and articles thereof,Australia and New Zealand,Oceania,660,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2020,2020,Export,Kuwait,79,Zinc and articles thereof,Eastern Europe,Europe,165,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2020,2020,Export,Kuwait,79,Zinc and articles thereof,Northern America,Americas,648,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2020,2020,Export,Kuwait,79,Zinc and articles thereof,Northern Europe,Europe,1648,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2020,2020,Export,Kuwait,79,Zinc and articles thereof,South-eastern Asia,Asia,165,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2020,2020,Export,Kuwait,79,Zinc and articles thereof,Sub-Saharan Africa,Africa,264,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2020,2020,Export,Kuwait,79,Zinc and articles thereof,Western Asia,Asia,165,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2020,2020,Export,Kuwait,79,Zinc and articles thereof,Western Europe,Europe,165,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2020,2020,Export,Kuwait,79,Zinc and articles thereof,World,World,207301,29.2733964,47.4979476,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Kuwait,43,"Furskins and artificial fur, manufactures thereof",Eastern Asia,Asia,5962
-2003,2003,Import,Kuwait,43,"Furskins and artificial fur, manufactures thereof",Eastern Europe,Europe,6379
-2003,2003,Import,Kuwait,43,"Furskins and artificial fur, manufactures thereof",Northern America,Americas,4304
-2003,2003,Import,Kuwait,43,"Furskins and artificial fur, manufactures thereof",Southern Europe,Europe,88879
-2003,2003,Import,Kuwait,43,"Furskins and artificial fur, manufactures thereof",Western Asia,Asia,17528
-2003,2003,Import,Kuwait,43,"Furskins and artificial fur, manufactures thereof",Western Europe,Europe,87858
-2003,2003,Import,Kuwait,43,"Furskins and artificial fur, manufactures thereof",World,World,211111
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Kuwait,43,"Furskins and artificial fur, manufactures thereof",Eastern Asia,Asia,5962,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2003,2003,Import,Kuwait,43,"Furskins and artificial fur, manufactures thereof",Eastern Europe,Europe,6379,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2003,2003,Import,Kuwait,43,"Furskins and artificial fur, manufactures thereof",Northern America,Americas,4304,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2003,2003,Import,Kuwait,43,"Furskins and artificial fur, manufactures thereof",Southern Europe,Europe,88879,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2003,2003,Import,Kuwait,43,"Furskins and artificial fur, manufactures thereof",Western Asia,Asia,17528,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2003,2003,Import,Kuwait,43,"Furskins and artificial fur, manufactures thereof",Western Europe,Europe,87858,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2003,2003,Import,Kuwait,43,"Furskins and artificial fur, manufactures thereof",World,World,211111,29.2733964,47.4979476,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",Eastern Asia,Asia,10604
-1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",Eastern Europe,Europe,8710
-1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",Northern America,Americas,7000
-1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",Northern Europe,Europe,10197
-1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",Southern Europe,Europe,33229
-1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",Western Asia,Asia,26434
-1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",Western Europe,Europe,21281
-1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",World,World,122342
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",Eastern Asia,Asia,10604,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",Eastern Europe,Europe,8710,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",Northern America,Americas,7000,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",Northern Europe,Europe,10197,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",Southern Europe,Europe,33229,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",Western Asia,Asia,26434,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",Western Europe,Europe,21281,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1997,1997,Import,Georgia,42,"Articles of leather, animal gut, harness, travel good",World,World,122342,32.3293809,-83.1137366,,

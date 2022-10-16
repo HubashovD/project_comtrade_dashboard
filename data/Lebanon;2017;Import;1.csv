@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Lebanon,1,Animals; live,Australia and New Zealand,Oceania,3814
-2017,2017,Import,Lebanon,1,Animals; live,Eastern Europe,Europe,96284546
-2017,2017,Import,Lebanon,1,Animals; live,Latin America and the Caribbean,Americas,75892749
-2017,2017,Import,Lebanon,1,Animals; live,Melanesia,Oceania,8590
-2017,2017,Import,Lebanon,1,Animals; live,Northern Africa,Africa,531039
-2017,2017,Import,Lebanon,1,Animals; live,Northern America,Americas,224247
-2017,2017,Import,Lebanon,1,Animals; live,Northern Europe,Europe,2409621
-2017,2017,Import,Lebanon,1,Animals; live,Southern Europe,Europe,101055633
-2017,2017,Import,Lebanon,1,Animals; live,Sub-Saharan Africa,Africa,3217
-2017,2017,Import,Lebanon,1,Animals; live,Western Asia,Asia,108145
-2017,2017,Import,Lebanon,1,Animals; live,Western Europe,Europe,33834200
-2017,2017,Import,Lebanon,1,Animals; live,World,World,311028976
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Lebanon,1,Animals; live,Australia and New Zealand,Oceania,3814,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2017,2017,Import,Lebanon,1,Animals; live,Eastern Europe,Europe,96284546,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2017,2017,Import,Lebanon,1,Animals; live,Latin America and the Caribbean,Americas,75892749,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2017,2017,Import,Lebanon,1,Animals; live,Melanesia,Oceania,8590,33.8750629,35.843409,1.0108650891006263,147.3257485906919
+2017,2017,Import,Lebanon,1,Animals; live,Northern Africa,Africa,531039,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2017,2017,Import,Lebanon,1,Animals; live,Northern America,Americas,224247,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2017,2017,Import,Lebanon,1,Animals; live,Northern Europe,Europe,2409621,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2017,2017,Import,Lebanon,1,Animals; live,Southern Europe,Europe,101055633,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2017,2017,Import,Lebanon,1,Animals; live,Sub-Saharan Africa,Africa,3217,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2017,2017,Import,Lebanon,1,Animals; live,Western Asia,Asia,108145,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2017,2017,Import,Lebanon,1,Animals; live,Western Europe,Europe,33834200,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2017,2017,Import,Lebanon,1,Animals; live,World,World,311028976,33.8750629,35.843409,,

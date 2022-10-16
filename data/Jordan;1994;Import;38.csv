@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Jordan,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,5010
-1994,1994,Import,Jordan,38,Miscellaneous chemical products,Eastern Asia,Asia,1943607
-1994,1994,Import,Jordan,38,Miscellaneous chemical products,Eastern Europe,Europe,97403
-1994,1994,Import,Jordan,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,39983
-1994,1994,Import,Jordan,38,Miscellaneous chemical products,Northern Africa,Africa,485390
-1994,1994,Import,Jordan,38,Miscellaneous chemical products,Northern America,Americas,2320887
-1994,1994,Import,Jordan,38,Miscellaneous chemical products,Northern Europe,Europe,4499136
-1994,1994,Import,Jordan,38,Miscellaneous chemical products,South-eastern Asia,Asia,1282490
-1994,1994,Import,Jordan,38,Miscellaneous chemical products,Southern Asia,Asia,35475
-1994,1994,Import,Jordan,38,Miscellaneous chemical products,Southern Europe,Europe,2348870
-1994,1994,Import,Jordan,38,Miscellaneous chemical products,Western Asia,Asia,630684
-1994,1994,Import,Jordan,38,Miscellaneous chemical products,Western Europe,Europe,9850650
-1994,1994,Import,Jordan,38,Miscellaneous chemical products,World,World,37720992
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Jordan,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,5010,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1994,1994,Import,Jordan,38,Miscellaneous chemical products,Eastern Asia,Asia,1943607,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1994,1994,Import,Jordan,38,Miscellaneous chemical products,Eastern Europe,Europe,97403,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1994,1994,Import,Jordan,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,39983,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1994,1994,Import,Jordan,38,Miscellaneous chemical products,Northern Africa,Africa,485390,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1994,1994,Import,Jordan,38,Miscellaneous chemical products,Northern America,Americas,2320887,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1994,1994,Import,Jordan,38,Miscellaneous chemical products,Northern Europe,Europe,4499136,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Import,Jordan,38,Miscellaneous chemical products,South-eastern Asia,Asia,1282490,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1994,1994,Import,Jordan,38,Miscellaneous chemical products,Southern Asia,Asia,35475,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1994,1994,Import,Jordan,38,Miscellaneous chemical products,Southern Europe,Europe,2348870,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1994,1994,Import,Jordan,38,Miscellaneous chemical products,Western Asia,Asia,630684,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1994,1994,Import,Jordan,38,Miscellaneous chemical products,Western Europe,Europe,9850650,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1994,1994,Import,Jordan,38,Miscellaneous chemical products,World,World,37720992,31.1667049,36.941628,,

@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Export,Azerbaijan,10,Cereals,Central Asia,Asia,496
-2009,2009,Export,Azerbaijan,10,Cereals,Southern Asia,Asia,6080
-2009,2009,Export,Azerbaijan,10,Cereals,World,World,117713
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Export,Azerbaijan,10,Cereals,Central Asia,Asia,496,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2009,2009,Export,Azerbaijan,10,Cereals,Southern Asia,Asia,6080,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2009,2009,Export,Azerbaijan,10,Cereals,World,World,117713,40.3936294,47.7872508,,

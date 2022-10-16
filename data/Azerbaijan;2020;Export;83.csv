@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Australia and New Zealand,Oceania,298
-2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Central Asia,Asia,1141
-2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,3106
-2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,4112
-2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,231
-2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Northern America,Americas,111719
-2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,10826
-2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,5799
-2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,1195
-2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Sub-Saharan Africa,Africa,163
-2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Western Asia,Asia,164491
-2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Western Europe,Europe,31418
-2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,World,World,368003
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Australia and New Zealand,Oceania,298,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Central Asia,Asia,1141,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,3106,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,4112,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,231,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Northern America,Americas,111719,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,10826,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,5799,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,1195,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Sub-Saharan Africa,Africa,163,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Western Asia,Asia,164491,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,Western Europe,Europe,31418,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2020,2020,Export,Azerbaijan,83,Metal; miscellaneous products of base metal,World,World,368003,40.3936294,47.7872508,,

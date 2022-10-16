@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,1363
-2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,2116
-2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,34353
-2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",Northern America,Americas,3226
-2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,30466
-2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,1135
-2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,10428
-2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",World,World,1409593
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,1363,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,2116,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,34353,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",Northern America,Americas,3226,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,30466,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,1135,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,10428,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Re-Export,Jordan,49,"Printed books, newspapers, pictures etc",World,World,1409593,31.1667049,36.941628,,

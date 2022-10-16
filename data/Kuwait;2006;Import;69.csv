@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Kuwait,69,Ceramic products,Australia and New Zealand,Oceania,43441
-2006,2006,Import,Kuwait,69,Ceramic products,Eastern Asia,Asia,57615966
-2006,2006,Import,Kuwait,69,Ceramic products,Eastern Europe,Europe,1023663
-2006,2006,Import,Kuwait,69,Ceramic products,Latin America and the Caribbean,Americas,704288
-2006,2006,Import,Kuwait,69,Ceramic products,Northern Africa,Africa,3742371
-2006,2006,Import,Kuwait,69,Ceramic products,Northern America,Americas,4487908
-2006,2006,Import,Kuwait,69,Ceramic products,Northern Europe,Europe,1346401
-2006,2006,Import,Kuwait,69,Ceramic products,Polynesia,Oceania,3899
-2006,2006,Import,Kuwait,69,Ceramic products,South-eastern Asia,Asia,3107879
-2006,2006,Import,Kuwait,69,Ceramic products,Southern Asia,Asia,814225
-2006,2006,Import,Kuwait,69,Ceramic products,Southern Europe,Europe,48009339
-2006,2006,Import,Kuwait,69,Ceramic products,Sub-Saharan Africa,Africa,8250
-2006,2006,Import,Kuwait,69,Ceramic products,Western Asia,Asia,2031066
-2006,2006,Import,Kuwait,69,Ceramic products,Western Europe,Europe,7425588
-2006,2006,Import,Kuwait,69,Ceramic products,World,World,146012276
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Kuwait,69,Ceramic products,Australia and New Zealand,Oceania,43441,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2006,2006,Import,Kuwait,69,Ceramic products,Eastern Asia,Asia,57615966,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2006,2006,Import,Kuwait,69,Ceramic products,Eastern Europe,Europe,1023663,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2006,2006,Import,Kuwait,69,Ceramic products,Latin America and the Caribbean,Americas,704288,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2006,2006,Import,Kuwait,69,Ceramic products,Northern Africa,Africa,3742371,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2006,2006,Import,Kuwait,69,Ceramic products,Northern America,Americas,4487908,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2006,2006,Import,Kuwait,69,Ceramic products,Northern Europe,Europe,1346401,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2006,2006,Import,Kuwait,69,Ceramic products,Polynesia,Oceania,3899,29.2733964,47.4979476,-5.109184731250752,167.40343615892436
+2006,2006,Import,Kuwait,69,Ceramic products,South-eastern Asia,Asia,3107879,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2006,2006,Import,Kuwait,69,Ceramic products,Southern Asia,Asia,814225,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2006,2006,Import,Kuwait,69,Ceramic products,Southern Europe,Europe,48009339,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2006,2006,Import,Kuwait,69,Ceramic products,Sub-Saharan Africa,Africa,8250,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2006,2006,Import,Kuwait,69,Ceramic products,Western Asia,Asia,2031066,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2006,2006,Import,Kuwait,69,Ceramic products,Western Europe,Europe,7425588,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2006,2006,Import,Kuwait,69,Ceramic products,World,World,146012276,29.2733964,47.4979476,,

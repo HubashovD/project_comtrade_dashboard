@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Australia and New Zealand,Oceania,3436000
-2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Central Asia,Asia,144000
-2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,673000
-2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,175000
-2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Latin America and the Caribbean,Americas,373000
-2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,295000
-2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,252000
-2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,2000
-2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,1377000
-2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Sub-Saharan Africa,Africa,377000
-2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,11000
-2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,2332000
-2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,World,World,9732000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Australia and New Zealand,Oceania,3436000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Central Asia,Asia,144000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,673000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,175000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Latin America and the Caribbean,Americas,373000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,295000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,252000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,2000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,1377000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Sub-Saharan Africa,Africa,377000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,11000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,2332000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2012,2012,Import,Israel,5,Animal originated products; not elsewhere specified or included,World,World,9732000,30.8124247,34.8594762,,

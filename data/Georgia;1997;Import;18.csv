@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,Eastern Europe,Europe,1827580
-1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,Northern America,Americas,8379
-1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,Northern Europe,Europe,8481
-1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,Southern Asia,Asia,7945
-1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,Southern Europe,Europe,343968
-1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,Western Asia,Asia,470644
-1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,Western Europe,Europe,244833
-1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,World,World,3168574
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,Eastern Europe,Europe,1827580,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,Northern America,Americas,8379,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,Northern Europe,Europe,8481,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,Southern Asia,Asia,7945,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,Southern Europe,Europe,343968,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,Western Asia,Asia,470644,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,Western Europe,Europe,244833,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1997,1997,Import,Georgia,18,Cocoa and cocoa preparations,World,World,3168574,32.3293809,-83.1137366,,

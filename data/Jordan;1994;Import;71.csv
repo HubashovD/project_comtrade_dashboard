@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,256359
-1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,14416
-1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Northern Africa,Africa,48998
-1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,983177
-1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,10060133
-1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,41310
-1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,5356797
-1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Sub-Saharan Africa,Africa,1288
-1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,144538
-1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,3221223
-1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",World,World,21299280
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,256359,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,14416,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Northern Africa,Africa,48998,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,983177,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,10060133,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,41310,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,5356797,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Sub-Saharan Africa,Africa,1288,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,144538,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,3221223,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1994,1994,Import,Jordan,71,"Pearls, precious stones, metals, coins, etc",World,World,21299280,31.1667049,36.941628,,

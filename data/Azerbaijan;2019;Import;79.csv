@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Australia and New Zealand,Oceania,147
-2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Central Asia,Asia,875161
-2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Eastern Asia,Asia,30033
-2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Eastern Europe,Europe,12243
-2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Northern Africa,Africa,114082
-2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Northern America,Americas,19477
-2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Northern Europe,Europe,72804
-2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Southern Asia,Asia,59948
-2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Southern Europe,Europe,277978
-2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Western Asia,Asia,182432
-2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Western Europe,Europe,60733
-2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,World,World,1797510
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Australia and New Zealand,Oceania,147,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Central Asia,Asia,875161,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Eastern Asia,Asia,30033,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Eastern Europe,Europe,12243,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Northern Africa,Africa,114082,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Northern America,Americas,19477,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Northern Europe,Europe,72804,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Southern Asia,Asia,59948,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Southern Europe,Europe,277978,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Western Asia,Asia,182432,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,Western Europe,Europe,60733,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2019,2019,Import,Azerbaijan,79,Zinc and articles thereof,World,World,1797510,40.3936294,47.7872508,,

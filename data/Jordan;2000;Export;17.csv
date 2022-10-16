@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,5799
-2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Northern Africa,Africa,5322
-2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Northern America,Americas,145953
-2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Northern Europe,Europe,7027
-2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Southern Europe,Europe,2601
-2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,2863
-2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Western Asia,Asia,173709
-2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Western Europe,Europe,3568
-2000,2000,Export,Jordan,17,Sugars and sugar confectionery,World,World,3343474
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,5799,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Northern Africa,Africa,5322,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Northern America,Americas,145953,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Northern Europe,Europe,7027,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Southern Europe,Europe,2601,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,2863,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Western Asia,Asia,173709,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Export,Jordan,17,Sugars and sugar confectionery,Western Europe,Europe,3568,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Export,Jordan,17,Sugars and sugar confectionery,World,World,3343474,31.1667049,36.941628,,

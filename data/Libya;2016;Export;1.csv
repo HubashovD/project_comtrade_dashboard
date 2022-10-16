@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Export,Libya,1,Live animals,Northern Africa,Africa,3213
-2016,2016,Export,Libya,1,Live animals,Western Asia,Asia,11184
-2016,2016,Export,Libya,1,Live animals,World,World,14397
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Export,Libya,1,Live animals,Northern Africa,Africa,3213,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2016,2016,Export,Libya,1,Live animals,Western Asia,Asia,11184,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2016,2016,Export,Libya,1,Live animals,World,World,14397,26.8234472,18.1236723,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Georgia,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,22
-2021,2021,Export,Georgia,76,Aluminium and articles thereof,Central Asia,Asia,141866
-2021,2021,Export,Georgia,76,Aluminium and articles thereof,Eastern Asia,Asia,13351114
-2021,2021,Export,Georgia,76,Aluminium and articles thereof,Eastern Europe,Europe,156063
-2021,2021,Export,Georgia,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,25494
-2021,2021,Export,Georgia,76,Aluminium and articles thereof,Northern America,Americas,65
-2021,2021,Export,Georgia,76,Aluminium and articles thereof,Southern Asia,Asia,2030
-2021,2021,Export,Georgia,76,Aluminium and articles thereof,Southern Europe,Europe,59
-2021,2021,Export,Georgia,76,Aluminium and articles thereof,Western Asia,Asia,14806627
-2021,2021,Export,Georgia,76,Aluminium and articles thereof,Western Europe,Europe,281466
-2021,2021,Export,Georgia,76,Aluminium and articles thereof,World,World,33630438
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Georgia,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,22,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2021,2021,Export,Georgia,76,Aluminium and articles thereof,Central Asia,Asia,141866,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2021,2021,Export,Georgia,76,Aluminium and articles thereof,Eastern Asia,Asia,13351114,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2021,2021,Export,Georgia,76,Aluminium and articles thereof,Eastern Europe,Europe,156063,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2021,2021,Export,Georgia,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,25494,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2021,2021,Export,Georgia,76,Aluminium and articles thereof,Northern America,Americas,65,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2021,2021,Export,Georgia,76,Aluminium and articles thereof,Southern Asia,Asia,2030,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2021,2021,Export,Georgia,76,Aluminium and articles thereof,Southern Europe,Europe,59,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2021,2021,Export,Georgia,76,Aluminium and articles thereof,Western Asia,Asia,14806627,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2021,2021,Export,Georgia,76,Aluminium and articles thereof,Western Europe,Europe,281466,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2021,2021,Export,Georgia,76,Aluminium and articles thereof,World,World,33630438,32.3293809,-83.1137366,,

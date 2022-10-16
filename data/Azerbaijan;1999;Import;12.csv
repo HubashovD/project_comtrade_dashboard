@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Australia and New Zealand,Oceania,3780
-1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Central Asia,Asia,193258
-1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Eastern Europe,Europe,78488
-1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern America,Americas,1071090
-1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern Europe,Europe,4359
-1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Asia,Asia,192228
-1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Europe,Europe,31369
-1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",World,World,1579487
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Australia and New Zealand,Oceania,3780,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Central Asia,Asia,193258,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Eastern Europe,Europe,78488,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern America,Americas,1071090,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern Europe,Europe,4359,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Asia,Asia,192228,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Europe,Europe,31369,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1999,1999,Import,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",World,World,1579487,40.3936294,47.7872508,,

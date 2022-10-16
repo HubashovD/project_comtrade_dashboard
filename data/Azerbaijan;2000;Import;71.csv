@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,2079
-2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,5394
-2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,380
-2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,383
-2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,53
-2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,24872
-2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,2974
-2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,30310
-2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",World,World,67220
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,2079,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,5394,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,380,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,383,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,53,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,24872,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,2974,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,30310,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Import,Azerbaijan,71,"Pearls, precious stones, metals, coins, etc",World,World,67220,40.3936294,47.7872508,,

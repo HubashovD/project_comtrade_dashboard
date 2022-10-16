@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Lebanon,54,Man-made filaments,Eastern Europe,Europe,34615
-2006,2006,Export,Lebanon,54,Man-made filaments,Latin America and the Caribbean,Americas,405294
-2006,2006,Export,Lebanon,54,Man-made filaments,Northern Africa,Africa,86468
-2006,2006,Export,Lebanon,54,Man-made filaments,Northern Europe,Europe,16891
-2006,2006,Export,Lebanon,54,Man-made filaments,Sub-Saharan Africa,Africa,559243
-2006,2006,Export,Lebanon,54,Man-made filaments,Western Asia,Asia,610556
-2006,2006,Export,Lebanon,54,Man-made filaments,World,World,1933860
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Lebanon,54,Man-made filaments,Eastern Europe,Europe,34615,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2006,2006,Export,Lebanon,54,Man-made filaments,Latin America and the Caribbean,Americas,405294,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2006,2006,Export,Lebanon,54,Man-made filaments,Northern Africa,Africa,86468,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2006,2006,Export,Lebanon,54,Man-made filaments,Northern Europe,Europe,16891,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2006,2006,Export,Lebanon,54,Man-made filaments,Sub-Saharan Africa,Africa,559243,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2006,2006,Export,Lebanon,54,Man-made filaments,Western Asia,Asia,610556,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2006,2006,Export,Lebanon,54,Man-made filaments,World,World,1933860,33.8750629,35.843409,,

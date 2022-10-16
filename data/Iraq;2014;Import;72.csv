@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,72,Iron and steel,Eastern Asia,Asia,226795127
-2014,2014,Import,Iraq,72,Iron and steel,Eastern Europe,Europe,299709351
-2014,2014,Import,Iraq,72,Iron and steel,Latin America and the Caribbean,Americas,31500
-2014,2014,Import,Iraq,72,Iron and steel,Northern America,Americas,2718073
-2014,2014,Import,Iraq,72,Iron and steel,Northern Europe,Europe,12600
-2014,2014,Import,Iraq,72,Iron and steel,South-eastern Asia,Asia,794396
-2014,2014,Import,Iraq,72,Iron and steel,Southern Asia,Asia,5038546
-2014,2014,Import,Iraq,72,Iron and steel,Southern Europe,Europe,7863895
-2014,2014,Import,Iraq,72,Iron and steel,Western Asia,Asia,5870105
-2014,2014,Import,Iraq,72,Iron and steel,Western Europe,Europe,177730885
-2014,2014,Import,Iraq,72,Iron and steel,World,World,775206274
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,72,Iron and steel,Eastern Asia,Asia,226795127,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,72,Iron and steel,Eastern Europe,Europe,299709351,33.0955793,44.1749775,51.67568633314729,27.673469819741847
+2014,2014,Import,Iraq,72,Iron and steel,Latin America and the Caribbean,Americas,31500,33.0955793,44.1749775,17.925141963241547,-78.01492950057497
+2014,2014,Import,Iraq,72,Iron and steel,Northern America,Americas,2718073,33.0955793,44.1749775,43.897683433510366,-100.08947125585888
+2014,2014,Import,Iraq,72,Iron and steel,Northern Europe,Europe,12600,33.0955793,44.1749775,59.36075159783851,25.01346951967388
+2014,2014,Import,Iraq,72,Iron and steel,South-eastern Asia,Asia,794396,33.0955793,44.1749775,10.528384761701911,103.08333472012376
+2014,2014,Import,Iraq,72,Iron and steel,Southern Asia,Asia,5038546,33.0955793,44.1749775,25.499703063807168,75.5024015339642
+2014,2014,Import,Iraq,72,Iron and steel,Southern Europe,Europe,7863895,33.0955793,44.1749775,40.12399607988535,20.742583178432696
+2014,2014,Import,Iraq,72,Iron and steel,Western Asia,Asia,5870105,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,72,Iron and steel,Western Europe,Europe,177730885,33.0955793,44.1749775,47.92172048214207,7.866753258497997
+2014,2014,Import,Iraq,72,Iron and steel,World,World,775206274,33.0955793,44.1749775,,

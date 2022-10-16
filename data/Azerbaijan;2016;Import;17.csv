@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Australia and New Zealand,Oceania,21530
-2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Central Asia,Asia,1162582
-2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Eastern Asia,Asia,183573
-2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Eastern Europe,Europe,41915189
-2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,138046333
-2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Northern America,Americas,27679
-2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Northern Europe,Europe,230808
-2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,South-eastern Asia,Asia,3524
-2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Southern Asia,Asia,871117
-2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Southern Europe,Europe,185233
-2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,9257
-2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Western Asia,Asia,4428460
-2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Western Europe,Europe,376921
-2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,World,World,187593089
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Australia and New Zealand,Oceania,21530,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Central Asia,Asia,1162582,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Eastern Asia,Asia,183573,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Eastern Europe,Europe,41915189,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,138046333,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Northern America,Americas,27679,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Northern Europe,Europe,230808,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,South-eastern Asia,Asia,3524,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Southern Asia,Asia,871117,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Southern Europe,Europe,185233,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,9257,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Western Asia,Asia,4428460,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,Western Europe,Europe,376921,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2016,2016,Import,Azerbaijan,17,Sugars and sugar confectionery,World,World,187593089,40.3936294,47.7872508,,

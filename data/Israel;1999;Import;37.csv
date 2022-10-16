@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Israel,37,Photographic or cinematographic goods,Australia and New Zealand,Oceania,3000
-1999,1999,Import,Israel,37,Photographic or cinematographic goods,Eastern Asia,Asia,14453000
-1999,1999,Import,Israel,37,Photographic or cinematographic goods,Eastern Europe,Europe,51000
-1999,1999,Import,Israel,37,Photographic or cinematographic goods,Latin America and the Caribbean,Americas,1000
-1999,1999,Import,Israel,37,Photographic or cinematographic goods,Northern America,Americas,17868000
-1999,1999,Import,Israel,37,Photographic or cinematographic goods,Northern Europe,Europe,16086000
-1999,1999,Import,Israel,37,Photographic or cinematographic goods,South-eastern Asia,Asia,163000
-1999,1999,Import,Israel,37,Photographic or cinematographic goods,Southern Europe,Europe,3291000
-1999,1999,Import,Israel,37,Photographic or cinematographic goods,Sub-Saharan Africa,Africa,1000
-1999,1999,Import,Israel,37,Photographic or cinematographic goods,Western Asia,Asia,1000
-1999,1999,Import,Israel,37,Photographic or cinematographic goods,Western Europe,Europe,43045000
-1999,1999,Import,Israel,37,Photographic or cinematographic goods,World,World,96808000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Israel,37,Photographic or cinematographic goods,Australia and New Zealand,Oceania,3000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1999,1999,Import,Israel,37,Photographic or cinematographic goods,Eastern Asia,Asia,14453000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1999,1999,Import,Israel,37,Photographic or cinematographic goods,Eastern Europe,Europe,51000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1999,1999,Import,Israel,37,Photographic or cinematographic goods,Latin America and the Caribbean,Americas,1000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1999,1999,Import,Israel,37,Photographic or cinematographic goods,Northern America,Americas,17868000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1999,1999,Import,Israel,37,Photographic or cinematographic goods,Northern Europe,Europe,16086000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1999,1999,Import,Israel,37,Photographic or cinematographic goods,South-eastern Asia,Asia,163000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1999,1999,Import,Israel,37,Photographic or cinematographic goods,Southern Europe,Europe,3291000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1999,1999,Import,Israel,37,Photographic or cinematographic goods,Sub-Saharan Africa,Africa,1000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1999,1999,Import,Israel,37,Photographic or cinematographic goods,Western Asia,Asia,1000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1999,1999,Import,Israel,37,Photographic or cinematographic goods,Western Europe,Europe,43045000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1999,1999,Import,Israel,37,Photographic or cinematographic goods,World,World,96808000,30.8124247,34.8594762,,

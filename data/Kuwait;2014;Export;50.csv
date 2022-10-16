@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Export,Kuwait,50,Silk,Australia and New Zealand,Oceania,1417
-2014,2014,Export,Kuwait,50,Silk,Southern Asia,Asia,1057
-2014,2014,Export,Kuwait,50,Silk,World,World,11922
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Export,Kuwait,50,Silk,Australia and New Zealand,Oceania,1417,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2014,2014,Export,Kuwait,50,Silk,Southern Asia,Asia,1057,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2014,2014,Export,Kuwait,50,Silk,World,World,11922,29.2733964,47.4979476,,

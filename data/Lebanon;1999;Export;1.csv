@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Lebanon,1,Live animals,Western Asia,Asia,2055
-1999,1999,Export,Lebanon,1,Live animals,Western Europe,Europe,29367
-1999,1999,Export,Lebanon,1,Live animals,World,World,154328
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Lebanon,1,Live animals,Western Asia,Asia,2055,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1999,1999,Export,Lebanon,1,Live animals,Western Europe,Europe,29367,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1999,1999,Export,Lebanon,1,Live animals,World,World,154328,33.8750629,35.843409,,

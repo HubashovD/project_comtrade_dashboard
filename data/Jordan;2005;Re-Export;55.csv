@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Re-Export,Jordan,55,Man-made staple fibers,Eastern Asia,Asia,4510
-2005,2005,Re-Export,Jordan,55,Man-made staple fibers,Northern Africa,Africa,33250
-2005,2005,Re-Export,Jordan,55,Man-made staple fibers,Northern America,Americas,102
-2005,2005,Re-Export,Jordan,55,Man-made staple fibers,Northern Europe,Europe,310394
-2005,2005,Re-Export,Jordan,55,Man-made staple fibers,Southern Europe,Europe,1149
-2005,2005,Re-Export,Jordan,55,Man-made staple fibers,Western Europe,Europe,2814
-2005,2005,Re-Export,Jordan,55,Man-made staple fibers,World,World,3173357
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Re-Export,Jordan,55,Man-made staple fibers,Eastern Asia,Asia,4510,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2005,2005,Re-Export,Jordan,55,Man-made staple fibers,Northern Africa,Africa,33250,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2005,2005,Re-Export,Jordan,55,Man-made staple fibers,Northern America,Americas,102,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2005,2005,Re-Export,Jordan,55,Man-made staple fibers,Northern Europe,Europe,310394,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2005,2005,Re-Export,Jordan,55,Man-made staple fibers,Southern Europe,Europe,1149,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2005,2005,Re-Export,Jordan,55,Man-made staple fibers,Western Europe,Europe,2814,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2005,2005,Re-Export,Jordan,55,Man-made staple fibers,World,World,3173357,31.1667049,36.941628,,

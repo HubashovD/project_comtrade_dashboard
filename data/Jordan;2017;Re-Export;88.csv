@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Australia and New Zealand,Oceania,99450
-2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Central Asia,Asia,5633
-2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Eastern Asia,Asia,1015706
-2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,1919118
-2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Latin America and the Caribbean,Americas,42962344
-2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Northern Africa,Africa,154952
-2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,29089070
-2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Northern Europe,Europe,8159617
-2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",South-eastern Asia,Asia,19237657
-2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Southern Europe,Europe,213324
-2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Western Asia,Asia,54511
-2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,21756308
-2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",World,World,253093272
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Australia and New Zealand,Oceania,99450,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Central Asia,Asia,5633,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Eastern Asia,Asia,1015706,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Eastern Europe,Europe,1919118,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Latin America and the Caribbean,Americas,42962344,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Northern Africa,Africa,154952,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Northern America,Americas,29089070,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Northern Europe,Europe,8159617,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",South-eastern Asia,Asia,19237657,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Southern Europe,Europe,213324,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Western Asia,Asia,54511,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",Western Europe,Europe,21756308,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2017,2017,Re-Export,Jordan,88,"Aircraft, spacecraft and parts thereof",World,World,253093272,31.1667049,36.941628,,

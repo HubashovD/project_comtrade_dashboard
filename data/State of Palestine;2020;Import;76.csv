@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Central Asia,Asia,1174
-2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Eastern Asia,Asia,18818110
-2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Eastern Europe,Europe,3976554
-2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Northern Africa,Africa,265018
-2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Northern America,Americas,36812
-2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Northern Europe,Europe,12130
-2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,South-eastern Asia,Asia,758675
-2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Southern Asia,Asia,5519
-2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Southern Europe,Europe,2437783
-2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,605
-2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Western Asia,Asia,12880823
-2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Western Europe,Europe,637880
-2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,World,World,84628177
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Central Asia,Asia,1174,31.46242095,34.262716572130714,39.89317229901691,61.060280637304274
+2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Eastern Asia,Asia,18818110,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Eastern Europe,Europe,3976554,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Northern Africa,Africa,265018,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Northern America,Americas,36812,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Northern Europe,Europe,12130,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
+2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,South-eastern Asia,Asia,758675,31.46242095,34.262716572130714,10.528384761701911,103.08333472012376
+2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Southern Asia,Asia,5519,31.46242095,34.262716572130714,25.499703063807168,75.5024015339642
+2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Southern Europe,Europe,2437783,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,605,31.46242095,34.262716572130714,6.06272746187266,22.727528470146083
+2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Western Asia,Asia,12880823,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
+2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,Western Europe,Europe,637880,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2020,2020,Import,State of Palestine,76,Aluminium and articles thereof,World,World,84628177,31.46242095,34.262716572130714,,

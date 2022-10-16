@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Azerbaijan,69,Ceramic products,Australia and New Zealand,Oceania,131
-2006,2006,Export,Azerbaijan,69,Ceramic products,Central Asia,Asia,248
-2006,2006,Export,Azerbaijan,69,Ceramic products,Eastern Europe,Europe,72832
-2006,2006,Export,Azerbaijan,69,Ceramic products,Latin America and the Caribbean,Americas,276
-2006,2006,Export,Azerbaijan,69,Ceramic products,Northern Africa,Africa,563
-2006,2006,Export,Azerbaijan,69,Ceramic products,Northern America,Americas,874
-2006,2006,Export,Azerbaijan,69,Ceramic products,Northern Europe,Europe,9527
-2006,2006,Export,Azerbaijan,69,Ceramic products,South-eastern Asia,Asia,873
-2006,2006,Export,Azerbaijan,69,Ceramic products,Southern Europe,Europe,255
-2006,2006,Export,Azerbaijan,69,Ceramic products,Sub-Saharan Africa,Africa,12
-2006,2006,Export,Azerbaijan,69,Ceramic products,Western Asia,Asia,5705
-2006,2006,Export,Azerbaijan,69,Ceramic products,Western Europe,Europe,1097
-2006,2006,Export,Azerbaijan,69,Ceramic products,World,World,372854
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Azerbaijan,69,Ceramic products,Australia and New Zealand,Oceania,131,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2006,2006,Export,Azerbaijan,69,Ceramic products,Central Asia,Asia,248,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2006,2006,Export,Azerbaijan,69,Ceramic products,Eastern Europe,Europe,72832,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2006,2006,Export,Azerbaijan,69,Ceramic products,Latin America and the Caribbean,Americas,276,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2006,2006,Export,Azerbaijan,69,Ceramic products,Northern Africa,Africa,563,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2006,2006,Export,Azerbaijan,69,Ceramic products,Northern America,Americas,874,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2006,2006,Export,Azerbaijan,69,Ceramic products,Northern Europe,Europe,9527,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2006,2006,Export,Azerbaijan,69,Ceramic products,South-eastern Asia,Asia,873,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2006,2006,Export,Azerbaijan,69,Ceramic products,Southern Europe,Europe,255,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2006,2006,Export,Azerbaijan,69,Ceramic products,Sub-Saharan Africa,Africa,12,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2006,2006,Export,Azerbaijan,69,Ceramic products,Western Asia,Asia,5705,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2006,2006,Export,Azerbaijan,69,Ceramic products,Western Europe,Europe,1097,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2006,2006,Export,Azerbaijan,69,Ceramic products,World,World,372854,40.3936294,47.7872508,,

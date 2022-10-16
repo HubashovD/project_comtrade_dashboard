@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Israel,69,Ceramic products,Australia and New Zealand,Oceania,9000
-2002,2002,Export,Israel,69,Ceramic products,Eastern Asia,Asia,331000
-2002,2002,Export,Israel,69,Ceramic products,Eastern Europe,Europe,82000
-2002,2002,Export,Israel,69,Ceramic products,Latin America and the Caribbean,Americas,198000
-2002,2002,Export,Israel,69,Ceramic products,Northern America,Americas,2771000
-2002,2002,Export,Israel,69,Ceramic products,Northern Europe,Europe,252000
-2002,2002,Export,Israel,69,Ceramic products,South-eastern Asia,Asia,45000
-2002,2002,Export,Israel,69,Ceramic products,Southern Asia,Asia,153000
-2002,2002,Export,Israel,69,Ceramic products,Southern Europe,Europe,246000
-2002,2002,Export,Israel,69,Ceramic products,Sub-Saharan Africa,Africa,55000
-2002,2002,Export,Israel,69,Ceramic products,Western Asia,Asia,32000
-2002,2002,Export,Israel,69,Ceramic products,Western Europe,Europe,1925000
-2002,2002,Export,Israel,69,Ceramic products,World,World,7464000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Israel,69,Ceramic products,Australia and New Zealand,Oceania,9000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2002,2002,Export,Israel,69,Ceramic products,Eastern Asia,Asia,331000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2002,2002,Export,Israel,69,Ceramic products,Eastern Europe,Europe,82000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2002,2002,Export,Israel,69,Ceramic products,Latin America and the Caribbean,Americas,198000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2002,2002,Export,Israel,69,Ceramic products,Northern America,Americas,2771000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2002,2002,Export,Israel,69,Ceramic products,Northern Europe,Europe,252000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2002,2002,Export,Israel,69,Ceramic products,South-eastern Asia,Asia,45000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2002,2002,Export,Israel,69,Ceramic products,Southern Asia,Asia,153000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2002,2002,Export,Israel,69,Ceramic products,Southern Europe,Europe,246000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2002,2002,Export,Israel,69,Ceramic products,Sub-Saharan Africa,Africa,55000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2002,2002,Export,Israel,69,Ceramic products,Western Asia,Asia,32000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2002,2002,Export,Israel,69,Ceramic products,Western Europe,Europe,1925000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2002,2002,Export,Israel,69,Ceramic products,World,World,7464000,30.8124247,34.8594762,,

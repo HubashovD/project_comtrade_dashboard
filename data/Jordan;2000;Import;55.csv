@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Jordan,55,Manmade staple fibres,Eastern Asia,Asia,7965519
-2000,2000,Import,Jordan,55,Manmade staple fibres,Eastern Europe,Europe,76069
-2000,2000,Import,Jordan,55,Manmade staple fibres,Latin America and the Caribbean,Americas,180790
-2000,2000,Import,Jordan,55,Manmade staple fibres,Northern Africa,Africa,117338
-2000,2000,Import,Jordan,55,Manmade staple fibres,Northern America,Americas,2782103
-2000,2000,Import,Jordan,55,Manmade staple fibres,Northern Europe,Europe,477416
-2000,2000,Import,Jordan,55,Manmade staple fibres,South-eastern Asia,Asia,1915221
-2000,2000,Import,Jordan,55,Manmade staple fibres,Southern Asia,Asia,10127
-2000,2000,Import,Jordan,55,Manmade staple fibres,Southern Europe,Europe,2963031
-2000,2000,Import,Jordan,55,Manmade staple fibres,Sub-Saharan Africa,Africa,16340
-2000,2000,Import,Jordan,55,Manmade staple fibres,Western Asia,Asia,3042250
-2000,2000,Import,Jordan,55,Manmade staple fibres,Western Europe,Europe,3439563
-2000,2000,Import,Jordan,55,Manmade staple fibres,World,World,27150629
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Jordan,55,Manmade staple fibres,Eastern Asia,Asia,7965519,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Import,Jordan,55,Manmade staple fibres,Eastern Europe,Europe,76069,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Import,Jordan,55,Manmade staple fibres,Latin America and the Caribbean,Americas,180790,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2000,2000,Import,Jordan,55,Manmade staple fibres,Northern Africa,Africa,117338,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Import,Jordan,55,Manmade staple fibres,Northern America,Americas,2782103,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Import,Jordan,55,Manmade staple fibres,Northern Europe,Europe,477416,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Import,Jordan,55,Manmade staple fibres,South-eastern Asia,Asia,1915221,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2000,2000,Import,Jordan,55,Manmade staple fibres,Southern Asia,Asia,10127,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2000,2000,Import,Jordan,55,Manmade staple fibres,Southern Europe,Europe,2963031,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2000,2000,Import,Jordan,55,Manmade staple fibres,Sub-Saharan Africa,Africa,16340,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2000,2000,Import,Jordan,55,Manmade staple fibres,Western Asia,Asia,3042250,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Import,Jordan,55,Manmade staple fibres,Western Europe,Europe,3439563,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Import,Jordan,55,Manmade staple fibres,World,World,27150629,31.1667049,36.941628,,

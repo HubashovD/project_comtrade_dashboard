@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Jordan,72,Iron and steel,Northern Africa,Africa,32355
-2003,2003,Export,Jordan,72,Iron and steel,Western Asia,Asia,480865
-2003,2003,Export,Jordan,72,Iron and steel,Western Europe,Europe,476454
-2003,2003,Export,Jordan,72,Iron and steel,World,World,14152063
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Jordan,72,Iron and steel,Northern Africa,Africa,32355,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2003,2003,Export,Jordan,72,Iron and steel,Western Asia,Asia,480865,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2003,2003,Export,Jordan,72,Iron and steel,Western Europe,Europe,476454,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2003,2003,Export,Jordan,72,Iron and steel,World,World,14152063,31.1667049,36.941628,,

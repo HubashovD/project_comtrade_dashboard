@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Australia and New Zealand,Oceania,16494
-2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Eastern Asia,Asia,21013072
-2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Eastern Europe,Europe,170735
-2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Latin America and the Caribbean,Americas,224134
-2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Northern Africa,Africa,17414
-2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Northern America,Americas,5391256
-2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Northern Europe,Europe,1492077
-2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",South-eastern Asia,Asia,1701080
-2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Southern Asia,Asia,100100
-2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Southern Europe,Europe,3076847
-2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Sub-Saharan Africa,Africa,20846
-2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Western Asia,Asia,71512
-2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Western Europe,Europe,1690699
-2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",World,World,40090537
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Australia and New Zealand,Oceania,16494,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Eastern Asia,Asia,21013072,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Eastern Europe,Europe,170735,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Latin America and the Caribbean,Americas,224134,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Northern Africa,Africa,17414,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Northern America,Americas,5391256,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Northern Europe,Europe,1492077,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",South-eastern Asia,Asia,1701080,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Southern Asia,Asia,100100,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Southern Europe,Europe,3076847,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Sub-Saharan Africa,Africa,20846,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Western Asia,Asia,71512,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",Western Europe,Europe,1690699,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Import,Kuwait,95,"Toys, games, sports requisites",World,World,40090537,29.2733964,47.4979476,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Australia and New Zealand,Oceania,2580
-1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,63134
-1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,799593
-1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Latin America and the Caribbean,Americas,14068
-1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Northern America,Americas,229945
-1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,544510
-1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",South-eastern Asia,Asia,8709
-1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Southern Asia,Asia,1479
-1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,8937
-1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Sub-Saharan Africa,Africa,1598
-1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,689404
-1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,79789
-1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",World,World,2504853
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Australia and New Zealand,Oceania,2580,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,63134,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,799593,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Latin America and the Caribbean,Americas,14068,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Northern America,Americas,229945,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,544510,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",South-eastern Asia,Asia,8709,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Southern Asia,Asia,1479,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,8937,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Sub-Saharan Africa,Africa,1598,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,689404,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,79789,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1999,1999,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",World,World,2504853,40.3936294,47.7872508,,

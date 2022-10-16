@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Australia and New Zealand,Oceania,11263
-2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Eastern Asia,Asia,154534
-2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Latin America and the Caribbean,Americas,3342537
-2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Northern Africa,Africa,445825
-2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Northern America,Americas,168505
-2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Northern Europe,Europe,285319
-2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",South-eastern Asia,Asia,11425550
-2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Southern Asia,Asia,6100
-2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Southern Europe,Europe,139998
-2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Western Asia,Asia,126965
-2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Western Europe,Europe,1050928
-2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",World,World,25759290
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Australia and New Zealand,Oceania,11263,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Eastern Asia,Asia,154534,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Latin America and the Caribbean,Americas,3342537,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Northern Africa,Africa,445825,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Northern America,Americas,168505,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Northern Europe,Europe,285319,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",South-eastern Asia,Asia,11425550,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Southern Asia,Asia,6100,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Southern Europe,Europe,139998,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Western Asia,Asia,126965,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",Western Europe,Europe,1050928,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2005,2005,Import,Jordan,16,"Preparations of meat, of fish or of crustaceans",World,World,25759290,31.1667049,36.941628,,

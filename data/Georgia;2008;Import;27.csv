@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Central Asia,Asia,133617782
-2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Eastern Asia,Asia,249734
-2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Eastern Europe,Europe,315993527
-2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Northern Africa,Africa,1140923
-2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Northern America,Americas,1247858
-2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Northern Europe,Europe,7615616
-2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",South-eastern Asia,Asia,34331
-2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Southern Asia,Asia,10559086
-2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Southern Europe,Europe,74381793
-2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Sub-Saharan Africa,Africa,501
-2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Western Asia,Asia,27912027
-2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Western Europe,Europe,8860722
-2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",World,World,1091775115
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Central Asia,Asia,133617782,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Eastern Asia,Asia,249734,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Eastern Europe,Europe,315993527,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Northern Africa,Africa,1140923,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Northern America,Americas,1247858,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Northern Europe,Europe,7615616,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",South-eastern Asia,Asia,34331,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Southern Asia,Asia,10559086,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Southern Europe,Europe,74381793,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Sub-Saharan Africa,Africa,501,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Western Asia,Asia,27912027,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",Western Europe,Europe,8860722,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2008,2008,Import,Georgia,27,"Mineral fuels, mineral oils and products of their distillation",World,World,1091775115,32.3293809,-83.1137366,,

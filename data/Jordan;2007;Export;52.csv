@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Export,Jordan,52,Cotton,Eastern Asia,Asia,68847
-2007,2007,Export,Jordan,52,Cotton,Northern Africa,Africa,827686
-2007,2007,Export,Jordan,52,Cotton,Southern Asia,Asia,80395
-2007,2007,Export,Jordan,52,Cotton,Southern Europe,Europe,580
-2007,2007,Export,Jordan,52,Cotton,Sub-Saharan Africa,Africa,78478
-2007,2007,Export,Jordan,52,Cotton,Western Asia,Asia,21216
-2007,2007,Export,Jordan,52,Cotton,World,World,2149441
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Export,Jordan,52,Cotton,Eastern Asia,Asia,68847,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2007,2007,Export,Jordan,52,Cotton,Northern Africa,Africa,827686,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2007,2007,Export,Jordan,52,Cotton,Southern Asia,Asia,80395,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2007,2007,Export,Jordan,52,Cotton,Southern Europe,Europe,580,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2007,2007,Export,Jordan,52,Cotton,Sub-Saharan Africa,Africa,78478,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2007,2007,Export,Jordan,52,Cotton,Western Asia,Asia,21216,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2007,2007,Export,Jordan,52,Cotton,World,World,2149441,31.1667049,36.941628,,

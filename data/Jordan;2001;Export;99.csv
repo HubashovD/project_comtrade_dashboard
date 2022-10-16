@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Australia and New Zealand,Oceania,7468
-2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Eastern Asia,Asia,34104
-2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Eastern Europe,Europe,1727
-2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Melanesia,Oceania,3526
-2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Northern Africa,Africa,46545
-2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Northern America,Americas,31094
-2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Northern Europe,Europe,99454
-2001,2001,Export,Jordan,99,Commodities not elsewhere specified,South-eastern Asia,Asia,17631
-2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Southern Asia,Asia,7052
-2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Southern Europe,Europe,12693
-2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Sub-Saharan Africa,Africa,35262
-2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Western Asia,Asia,29619
-2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Western Europe,Europe,17828
-2001,2001,Export,Jordan,99,Commodities not elsewhere specified,World,World,477126
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Australia and New Zealand,Oceania,7468,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Eastern Asia,Asia,34104,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Eastern Europe,Europe,1727,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Melanesia,Oceania,3526,31.1667049,36.941628,1.0108650891006263,147.3257485906919
+2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Northern Africa,Africa,46545,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Northern America,Americas,31094,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Northern Europe,Europe,99454,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2001,2001,Export,Jordan,99,Commodities not elsewhere specified,South-eastern Asia,Asia,17631,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Southern Asia,Asia,7052,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Southern Europe,Europe,12693,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Sub-Saharan Africa,Africa,35262,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Western Asia,Asia,29619,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2001,2001,Export,Jordan,99,Commodities not elsewhere specified,Western Europe,Europe,17828,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2001,2001,Export,Jordan,99,Commodities not elsewhere specified,World,World,477126,31.1667049,36.941628,,

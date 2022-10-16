@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Jordan,6,Live trees and other plants;,Eastern Asia,Asia,82996
-2006,2006,Import,Jordan,6,Live trees and other plants;,Latin America and the Caribbean,Americas,21320
-2006,2006,Import,Jordan,6,Live trees and other plants;,Northern Africa,Africa,115224
-2006,2006,Import,Jordan,6,Live trees and other plants;,Northern America,Americas,307253
-2006,2006,Import,Jordan,6,Live trees and other plants;,Northern Europe,Europe,6767
-2006,2006,Import,Jordan,6,Live trees and other plants;,South-eastern Asia,Asia,143737
-2006,2006,Import,Jordan,6,Live trees and other plants;,Southern Asia,Asia,57385
-2006,2006,Import,Jordan,6,Live trees and other plants;,Southern Europe,Europe,1075847
-2006,2006,Import,Jordan,6,Live trees and other plants;,Sub-Saharan Africa,Africa,3979
-2006,2006,Import,Jordan,6,Live trees and other plants;,Western Asia,Asia,843775
-2006,2006,Import,Jordan,6,Live trees and other plants;,Western Europe,Europe,1500752
-2006,2006,Import,Jordan,6,Live trees and other plants;,World,World,4777090
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Jordan,6,Live trees and other plants;,Eastern Asia,Asia,82996,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2006,2006,Import,Jordan,6,Live trees and other plants;,Latin America and the Caribbean,Americas,21320,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2006,2006,Import,Jordan,6,Live trees and other plants;,Northern Africa,Africa,115224,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2006,2006,Import,Jordan,6,Live trees and other plants;,Northern America,Americas,307253,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2006,2006,Import,Jordan,6,Live trees and other plants;,Northern Europe,Europe,6767,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2006,2006,Import,Jordan,6,Live trees and other plants;,South-eastern Asia,Asia,143737,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2006,2006,Import,Jordan,6,Live trees and other plants;,Southern Asia,Asia,57385,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2006,2006,Import,Jordan,6,Live trees and other plants;,Southern Europe,Europe,1075847,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2006,2006,Import,Jordan,6,Live trees and other plants;,Sub-Saharan Africa,Africa,3979,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2006,2006,Import,Jordan,6,Live trees and other plants;,Western Asia,Asia,843775,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2006,2006,Import,Jordan,6,Live trees and other plants;,Western Europe,Europe,1500752,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2006,2006,Import,Jordan,6,Live trees and other plants;,World,World,4777090,31.1667049,36.941628,,

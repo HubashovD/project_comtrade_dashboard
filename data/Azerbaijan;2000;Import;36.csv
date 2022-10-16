@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,2650426
-2000,2000,Import,Azerbaijan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,810285
-2000,2000,Import,Azerbaijan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,12727
-2000,2000,Import,Azerbaijan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Asia,Asia,103742
-2000,2000,Import,Azerbaijan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,1257
-2000,2000,Import,Azerbaijan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,3596913
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,2650426,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Import,Azerbaijan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,810285,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Import,Azerbaijan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,12727,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Import,Azerbaijan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Asia,Asia,103742,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Import,Azerbaijan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,1257,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Import,Azerbaijan,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,3596913,40.3936294,47.7872508,,

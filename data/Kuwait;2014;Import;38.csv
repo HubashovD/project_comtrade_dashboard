@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Australia and New Zealand,Oceania,26293
-2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Eastern Asia,Asia,18775620
-2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Eastern Europe,Europe,643373
-2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,596929
-2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Northern Africa,Africa,429944
-2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Northern America,Americas,125415593
-2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Northern Europe,Europe,28171557
-2014,2014,Import,Kuwait,38,Chemical products n.e.c.,South-eastern Asia,Asia,1232246
-2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Southern Asia,Asia,63535
-2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Southern Europe,Europe,15731953
-2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,1100017
-2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Western Asia,Asia,822476
-2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Western Europe,Europe,55320773
-2014,2014,Import,Kuwait,38,Chemical products n.e.c.,World,World,357262535
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Australia and New Zealand,Oceania,26293,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Eastern Asia,Asia,18775620,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Eastern Europe,Europe,643373,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,596929,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Northern Africa,Africa,429944,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Northern America,Americas,125415593,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Northern Europe,Europe,28171557,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2014,2014,Import,Kuwait,38,Chemical products n.e.c.,South-eastern Asia,Asia,1232246,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Southern Asia,Asia,63535,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Southern Europe,Europe,15731953,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,1100017,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Western Asia,Asia,822476,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2014,2014,Import,Kuwait,38,Chemical products n.e.c.,Western Europe,Europe,55320773,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2014,2014,Import,Kuwait,38,Chemical products n.e.c.,World,World,357262535,29.2733964,47.4979476,,

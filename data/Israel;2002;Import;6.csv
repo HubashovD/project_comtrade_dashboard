@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Israel,6,Live trees and other plants;,Australia and New Zealand,Oceania,19000
-2002,2002,Import,Israel,6,Live trees and other plants;,Central Asia,Asia,3000
-2002,2002,Import,Israel,6,Live trees and other plants;,Eastern Asia,Asia,204000
-2002,2002,Import,Israel,6,Live trees and other plants;,Eastern Europe,Europe,55000
-2002,2002,Import,Israel,6,Live trees and other plants;,Latin America and the Caribbean,Americas,17000
-2002,2002,Import,Israel,6,Live trees and other plants;,Northern Africa,Africa,477000
-2002,2002,Import,Israel,6,Live trees and other plants;,Northern America,Americas,49000
-2002,2002,Import,Israel,6,Live trees and other plants;,Northern Europe,Europe,94000
-2002,2002,Import,Israel,6,Live trees and other plants;,South-eastern Asia,Asia,39000
-2002,2002,Import,Israel,6,Live trees and other plants;,Southern Europe,Europe,214000
-2002,2002,Import,Israel,6,Live trees and other plants;,Sub-Saharan Africa,Africa,116000
-2002,2002,Import,Israel,6,Live trees and other plants;,Western Europe,Europe,6243000
-2002,2002,Import,Israel,6,Live trees and other plants;,World,World,7649000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Israel,6,Live trees and other plants;,Australia and New Zealand,Oceania,19000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2002,2002,Import,Israel,6,Live trees and other plants;,Central Asia,Asia,3000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2002,2002,Import,Israel,6,Live trees and other plants;,Eastern Asia,Asia,204000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2002,2002,Import,Israel,6,Live trees and other plants;,Eastern Europe,Europe,55000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2002,2002,Import,Israel,6,Live trees and other plants;,Latin America and the Caribbean,Americas,17000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2002,2002,Import,Israel,6,Live trees and other plants;,Northern Africa,Africa,477000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2002,2002,Import,Israel,6,Live trees and other plants;,Northern America,Americas,49000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2002,2002,Import,Israel,6,Live trees and other plants;,Northern Europe,Europe,94000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2002,2002,Import,Israel,6,Live trees and other plants;,South-eastern Asia,Asia,39000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2002,2002,Import,Israel,6,Live trees and other plants;,Southern Europe,Europe,214000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2002,2002,Import,Israel,6,Live trees and other plants;,Sub-Saharan Africa,Africa,116000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2002,2002,Import,Israel,6,Live trees and other plants;,Western Europe,Europe,6243000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2002,2002,Import,Israel,6,Live trees and other plants;,World,World,7649000,30.8124247,34.8594762,,

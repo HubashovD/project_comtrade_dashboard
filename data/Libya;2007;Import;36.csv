@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Libya,36,Explosives; pyrotechnic products; matches,Eastern Asia,Asia,18837
-2007,2007,Import,Libya,36,Explosives; pyrotechnic products; matches,Northern Africa,Africa,705532
-2007,2007,Import,Libya,36,Explosives; pyrotechnic products; matches,Northern America,Americas,96434
-2007,2007,Import,Libya,36,Explosives; pyrotechnic products; matches,Southern Europe,Europe,1065980
-2007,2007,Import,Libya,36,Explosives; pyrotechnic products; matches,Western Europe,Europe,582703
-2007,2007,Import,Libya,36,Explosives; pyrotechnic products; matches,World,World,3014257
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Libya,36,Explosives; pyrotechnic products; matches,Eastern Asia,Asia,18837,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2007,2007,Import,Libya,36,Explosives; pyrotechnic products; matches,Northern Africa,Africa,705532,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2007,2007,Import,Libya,36,Explosives; pyrotechnic products; matches,Northern America,Americas,96434,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2007,2007,Import,Libya,36,Explosives; pyrotechnic products; matches,Southern Europe,Europe,1065980,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2007,2007,Import,Libya,36,Explosives; pyrotechnic products; matches,Western Europe,Europe,582703,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2007,2007,Import,Libya,36,Explosives; pyrotechnic products; matches,World,World,3014257,26.8234472,18.1236723,,

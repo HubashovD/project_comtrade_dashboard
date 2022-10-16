@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Re-Export,Jordan,29,Organic chemicals,Northern Africa,Africa,60789
-1997,1997,Re-Export,Jordan,29,Organic chemicals,Southern Europe,Europe,74956
-1997,1997,Re-Export,Jordan,29,Organic chemicals,Western Asia,Asia,748149
-1997,1997,Re-Export,Jordan,29,Organic chemicals,Western Europe,Europe,23272
-1997,1997,Re-Export,Jordan,29,Organic chemicals,World,World,6370551
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Re-Export,Jordan,29,Organic chemicals,Northern Africa,Africa,60789,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1997,1997,Re-Export,Jordan,29,Organic chemicals,Southern Europe,Europe,74956,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1997,1997,Re-Export,Jordan,29,Organic chemicals,Western Asia,Asia,748149,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1997,1997,Re-Export,Jordan,29,Organic chemicals,Western Europe,Europe,23272,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1997,1997,Re-Export,Jordan,29,Organic chemicals,World,World,6370551,31.1667049,36.941628,,

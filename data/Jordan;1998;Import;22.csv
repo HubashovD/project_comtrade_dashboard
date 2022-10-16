@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,25782
-1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,52459
-1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,23889
-1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Northern Africa,Africa,22260
-1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Northern America,Americas,419220
-1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Northern Europe,Europe,2485296
-1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Southern Europe,Europe,68928
-1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Western Asia,Asia,83405
-1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Western Europe,Europe,885379
-1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",World,World,5445140
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,25782,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,52459,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,23889,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Northern Africa,Africa,22260,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Northern America,Americas,419220,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Northern Europe,Europe,2485296,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Southern Europe,Europe,68928,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Western Asia,Asia,83405,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",Western Europe,Europe,885379,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1998,1998,Import,Jordan,22,"Beverages, spirits and vinegar",World,World,5445140,31.1667049,36.941628,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Australia and New Zealand,Oceania,68209
-2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Central Asia,Asia,275435
-2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Eastern Asia,Asia,35928502
-2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Eastern Europe,Europe,96864002
-2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Latin America and the Caribbean,Americas,6207935
-2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Northern America,Americas,36381526
-2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Northern Europe,Europe,42818723
-2009,2009,Import,Azerbaijan,73,Articles of iron or steel,South-eastern Asia,Asia,1005637
-2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Southern Asia,Asia,1219746
-2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Southern Europe,Europe,6365052
-2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Sub-Saharan Africa,Africa,415120
-2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Western Asia,Asia,140393611
-2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Western Europe,Europe,22432690
-2009,2009,Import,Azerbaijan,73,Articles of iron or steel,World,World,393863153
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Australia and New Zealand,Oceania,68209,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Central Asia,Asia,275435,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Eastern Asia,Asia,35928502,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Eastern Europe,Europe,96864002,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Latin America and the Caribbean,Americas,6207935,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Northern America,Americas,36381526,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Northern Europe,Europe,42818723,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2009,2009,Import,Azerbaijan,73,Articles of iron or steel,South-eastern Asia,Asia,1005637,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Southern Asia,Asia,1219746,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Southern Europe,Europe,6365052,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Sub-Saharan Africa,Africa,415120,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Western Asia,Asia,140393611,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2009,2009,Import,Azerbaijan,73,Articles of iron or steel,Western Europe,Europe,22432690,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2009,2009,Import,Azerbaijan,73,Articles of iron or steel,World,World,393863153,40.3936294,47.7872508,,

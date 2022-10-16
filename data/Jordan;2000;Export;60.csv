@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Jordan,60,Knitted or crocheted fabric,Northern Africa,Africa,45585
-2000,2000,Export,Jordan,60,Knitted or crocheted fabric,Northern America,Americas,30626
-2000,2000,Export,Jordan,60,Knitted or crocheted fabric,Northern Europe,Europe,32581
-2000,2000,Export,Jordan,60,Knitted or crocheted fabric,South-eastern Asia,Asia,23816
-2000,2000,Export,Jordan,60,Knitted or crocheted fabric,Southern Asia,Asia,302053
-2000,2000,Export,Jordan,60,Knitted or crocheted fabric,Southern Europe,Europe,11436
-2000,2000,Export,Jordan,60,Knitted or crocheted fabric,Sub-Saharan Africa,Africa,11284
-2000,2000,Export,Jordan,60,Knitted or crocheted fabric,World,World,3744093
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Jordan,60,Knitted or crocheted fabric,Northern Africa,Africa,45585,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Export,Jordan,60,Knitted or crocheted fabric,Northern America,Americas,30626,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Export,Jordan,60,Knitted or crocheted fabric,Northern Europe,Europe,32581,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Export,Jordan,60,Knitted or crocheted fabric,South-eastern Asia,Asia,23816,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2000,2000,Export,Jordan,60,Knitted or crocheted fabric,Southern Asia,Asia,302053,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2000,2000,Export,Jordan,60,Knitted or crocheted fabric,Southern Europe,Europe,11436,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2000,2000,Export,Jordan,60,Knitted or crocheted fabric,Sub-Saharan Africa,Africa,11284,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2000,2000,Export,Jordan,60,Knitted or crocheted fabric,World,World,3744093,31.1667049,36.941628,,

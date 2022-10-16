@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Australia and New Zealand,Oceania,72163
-2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Central Asia,Asia,180507
-2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,4316298
-2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Eastern Europe,Europe,37303489
-2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Latin America and the Caribbean,Americas,178053
-2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,42588636
-2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,19097787
-2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,3582176
-2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Southern Asia,Asia,417582
-2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,11814884
-2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,238
-2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Western Asia,Asia,11553685
-2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,67504368
-2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",World,World,207139186
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Australia and New Zealand,Oceania,72163,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Central Asia,Asia,180507,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,4316298,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Eastern Europe,Europe,37303489,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Latin America and the Caribbean,Americas,178053,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,42588636,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,19097787,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,3582176,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Southern Asia,Asia,417582,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,11814884,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,238,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Western Asia,Asia,11553685,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,67504368,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Import,Azerbaijan,84,"Nuclear reactors, boilers, machinery, etc",World,World,207139186,40.3936294,47.7872508,,

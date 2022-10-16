@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Central Asia,Asia,10456
-2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Asia,Asia,23
-2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,13
-2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Northern Africa,Africa,3919
-2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,124
-2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Southern Asia,Asia,37664
-2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,104
-2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,20775
-2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",World,World,4653093
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Central Asia,Asia,10456,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Asia,Asia,23,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,13,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Northern Africa,Africa,3919,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,124,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Southern Asia,Asia,37664,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,104,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,20775,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2001,2001,Export,Kuwait,4,"Dairy products, eggs, honey, edible animal product nes",World,World,4653093,29.2733964,47.4979476,,

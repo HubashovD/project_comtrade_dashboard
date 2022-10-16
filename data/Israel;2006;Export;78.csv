@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Israel,78,Lead and articles thereof,Eastern Asia,Asia,1761000
-2006,2006,Export,Israel,78,Lead and articles thereof,Eastern Europe,Europe,291000
-2006,2006,Export,Israel,78,Lead and articles thereof,Northern America,Americas,16000
-2006,2006,Export,Israel,78,Lead and articles thereof,Northern Europe,Europe,7229000
-2006,2006,Export,Israel,78,Lead and articles thereof,Southern Europe,Europe,12704000
-2006,2006,Export,Israel,78,Lead and articles thereof,Western Europe,Europe,3414000
-2006,2006,Export,Israel,78,Lead and articles thereof,World,World,25674000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Israel,78,Lead and articles thereof,Eastern Asia,Asia,1761000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2006,2006,Export,Israel,78,Lead and articles thereof,Eastern Europe,Europe,291000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2006,2006,Export,Israel,78,Lead and articles thereof,Northern America,Americas,16000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2006,2006,Export,Israel,78,Lead and articles thereof,Northern Europe,Europe,7229000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2006,2006,Export,Israel,78,Lead and articles thereof,Southern Europe,Europe,12704000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2006,2006,Export,Israel,78,Lead and articles thereof,Western Europe,Europe,3414000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2006,2006,Export,Israel,78,Lead and articles thereof,World,World,25674000,30.8124247,34.8594762,,

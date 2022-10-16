@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Australia and New Zealand,Oceania,111883
-2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Eastern Europe,Europe,2726059
-2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern Africa,Africa,169631
-2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern America,Americas,8779746
-2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern Europe,Europe,453869
-2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",South-eastern Asia,Asia,34717897
-2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Southern Europe,Europe,502754
-2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Asia,Asia,629498
-2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Europe,Europe,2865691
-2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",World,World,56006102
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Australia and New Zealand,Oceania,111883,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Eastern Europe,Europe,2726059,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern Africa,Africa,169631,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern America,Americas,8779746,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Northern Europe,Europe,453869,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",South-eastern Asia,Asia,34717897,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Southern Europe,Europe,502754,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Asia,Asia,629498,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",Western Europe,Europe,2865691,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Import,Jordan,15,"Animal,vegetable fats and oils, cleavage products, etc",World,World,56006102,31.1667049,36.941628,,

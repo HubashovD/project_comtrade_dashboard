@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Lebanon,50,Silk,Eastern Asia,Asia,541705
-2020,2020,Import,Lebanon,50,Silk,Southern Europe,Europe,179221
-2020,2020,Import,Lebanon,50,Silk,Western Asia,Asia,84509
-2020,2020,Import,Lebanon,50,Silk,Western Europe,Europe,28215
-2020,2020,Import,Lebanon,50,Silk,World,World,883398
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Lebanon,50,Silk,Eastern Asia,Asia,541705,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2020,2020,Import,Lebanon,50,Silk,Southern Europe,Europe,179221,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2020,2020,Import,Lebanon,50,Silk,Western Asia,Asia,84509,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2020,2020,Import,Lebanon,50,Silk,Western Europe,Europe,28215,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2020,2020,Import,Lebanon,50,Silk,World,World,883398,33.8750629,35.843409,,

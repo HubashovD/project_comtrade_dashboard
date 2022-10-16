@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Jordan,72,Iron and steel,Central Asia,Asia,61183
-2017,2017,Import,Jordan,72,Iron and steel,Eastern Asia,Asia,86221879
-2017,2017,Import,Jordan,72,Iron and steel,Eastern Europe,Europe,77201921
-2017,2017,Import,Jordan,72,Iron and steel,Latin America and the Caribbean,Americas,2362101
-2017,2017,Import,Jordan,72,Iron and steel,Northern Africa,Africa,41385745
-2017,2017,Import,Jordan,72,Iron and steel,Northern America,Americas,871976
-2017,2017,Import,Jordan,72,Iron and steel,Northern Europe,Europe,1569591
-2017,2017,Import,Jordan,72,Iron and steel,South-eastern Asia,Asia,398031
-2017,2017,Import,Jordan,72,Iron and steel,Southern Asia,Asia,75075084
-2017,2017,Import,Jordan,72,Iron and steel,Southern Europe,Europe,7422443
-2017,2017,Import,Jordan,72,Iron and steel,Sub-Saharan Africa,Africa,32083
-2017,2017,Import,Jordan,72,Iron and steel,Western Asia,Asia,21582466
-2017,2017,Import,Jordan,72,Iron and steel,Western Europe,Europe,4392137
-2017,2017,Import,Jordan,72,Iron and steel,World,World,422731294
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Jordan,72,Iron and steel,Central Asia,Asia,61183,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2017,2017,Import,Jordan,72,Iron and steel,Eastern Asia,Asia,86221879,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2017,2017,Import,Jordan,72,Iron and steel,Eastern Europe,Europe,77201921,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2017,2017,Import,Jordan,72,Iron and steel,Latin America and the Caribbean,Americas,2362101,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2017,2017,Import,Jordan,72,Iron and steel,Northern Africa,Africa,41385745,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2017,2017,Import,Jordan,72,Iron and steel,Northern America,Americas,871976,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2017,2017,Import,Jordan,72,Iron and steel,Northern Europe,Europe,1569591,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2017,2017,Import,Jordan,72,Iron and steel,South-eastern Asia,Asia,398031,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2017,2017,Import,Jordan,72,Iron and steel,Southern Asia,Asia,75075084,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2017,2017,Import,Jordan,72,Iron and steel,Southern Europe,Europe,7422443,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2017,2017,Import,Jordan,72,Iron and steel,Sub-Saharan Africa,Africa,32083,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2017,2017,Import,Jordan,72,Iron and steel,Western Asia,Asia,21582466,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2017,2017,Import,Jordan,72,Iron and steel,Western Europe,Europe,4392137,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2017,2017,Import,Jordan,72,Iron and steel,World,World,422731294,31.1667049,36.941628,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Australia and New Zealand,Oceania,5053
-2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Eastern Asia,Asia,1766915
-2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Eastern Europe,Europe,149763
-2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Latin America and the Caribbean,Americas,33849
-2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Northern Africa,Africa,1620
-2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Northern America,Americas,2743368
-2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Northern Europe,Europe,1446397
-2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",South-eastern Asia,Asia,377726
-2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Southern Asia,Asia,272479
-2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Southern Europe,Europe,798090
-2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Sub-Saharan Africa,Africa,437669
-2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Western Asia,Asia,9887
-2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Western Europe,Europe,3943060
-2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",World,World,20597559
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Australia and New Zealand,Oceania,5053,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Eastern Asia,Asia,1766915,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Eastern Europe,Europe,149763,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Latin America and the Caribbean,Americas,33849,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Northern Africa,Africa,1620,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Northern America,Americas,2743368,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Northern Europe,Europe,1446397,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",South-eastern Asia,Asia,377726,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Southern Asia,Asia,272479,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Southern Europe,Europe,798090,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Sub-Saharan Africa,Africa,437669,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Western Asia,Asia,9887,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",Western Europe,Europe,3943060,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Import,Kuwait,28,"Inorganic chemicals, precious metal compound, isotope",World,World,20597559,29.2733964,47.4979476,,

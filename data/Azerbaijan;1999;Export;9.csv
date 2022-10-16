@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Central Asia,Asia,2245698
-1999,1999,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,1424949
-1999,1999,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Southern Asia,Asia,30600
-1999,1999,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Western Asia,Asia,45000
-1999,1999,Export,Azerbaijan,9,"Coffee, tea, mate and spices",World,World,4095724
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Central Asia,Asia,2245698,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1999,1999,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,1424949,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1999,1999,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Southern Asia,Asia,30600,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1999,1999,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Western Asia,Asia,45000,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1999,1999,Export,Azerbaijan,9,"Coffee, tea, mate and spices",World,World,4095724,40.3936294,47.7872508,,

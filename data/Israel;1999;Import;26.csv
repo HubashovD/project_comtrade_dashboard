@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Israel,26,"Ores, slag and ash",Australia and New Zealand,Oceania,55000
-1999,1999,Import,Israel,26,"Ores, slag and ash",Northern America,Americas,162000
-1999,1999,Import,Israel,26,"Ores, slag and ash",Northern Europe,Europe,318000
-1999,1999,Import,Israel,26,"Ores, slag and ash",Southern Europe,Europe,5599000
-1999,1999,Import,Israel,26,"Ores, slag and ash",Western Europe,Europe,1267000
-1999,1999,Import,Israel,26,"Ores, slag and ash",World,World,7676000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Israel,26,"Ores, slag and ash",Australia and New Zealand,Oceania,55000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1999,1999,Import,Israel,26,"Ores, slag and ash",Northern America,Americas,162000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1999,1999,Import,Israel,26,"Ores, slag and ash",Northern Europe,Europe,318000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1999,1999,Import,Israel,26,"Ores, slag and ash",Southern Europe,Europe,5599000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1999,1999,Import,Israel,26,"Ores, slag and ash",Western Europe,Europe,1267000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1999,1999,Import,Israel,26,"Ores, slag and ash",World,World,7676000,30.8124247,34.8594762,,

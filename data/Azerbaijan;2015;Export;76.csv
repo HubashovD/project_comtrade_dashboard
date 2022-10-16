@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,Central Asia,Asia,72395
-2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,Eastern Europe,Europe,7792274
-2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,865
-2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,Northern Europe,Europe,40019
-2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,Southern Europe,Europe,2717777
-2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,Western Asia,Asia,75316335
-2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,Western Europe,Europe,86834
-2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,World,World,86147962
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,Central Asia,Asia,72395,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,Eastern Europe,Europe,7792274,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,865,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,Northern Europe,Europe,40019,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,Southern Europe,Europe,2717777,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,Western Asia,Asia,75316335,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,Western Europe,Europe,86834,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2015,2015,Export,Azerbaijan,76,Aluminium and articles thereof,World,World,86147962,40.3936294,47.7872508,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Australia and New Zealand,Oceania,52098
-2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Eastern Asia,Asia,263506
-2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Eastern Europe,Europe,1298
-2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Latin America and the Caribbean,Americas,24733
-2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Northern Africa,Africa,31853
-2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Northern America,Americas,1009398
-2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Northern Europe,Europe,94531
-2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",South-eastern Asia,Asia,8545
-2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Southern Asia,Asia,97019
-2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Southern Europe,Europe,1780764
-2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Sub-Saharan Africa,Africa,36411
-2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Western Asia,Asia,487137
-2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Western Europe,Europe,776187
-2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",World,World,6057211
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Australia and New Zealand,Oceania,52098,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Eastern Asia,Asia,263506,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Eastern Europe,Europe,1298,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Latin America and the Caribbean,Americas,24733,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Northern Africa,Africa,31853,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Northern America,Americas,1009398,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Northern Europe,Europe,94531,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",South-eastern Asia,Asia,8545,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Southern Asia,Asia,97019,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Southern Europe,Europe,1780764,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Sub-Saharan Africa,Africa,36411,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Western Asia,Asia,487137,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Western Europe,Europe,776187,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2018,2018,Export,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",World,World,6057211,33.8750629,35.843409,,

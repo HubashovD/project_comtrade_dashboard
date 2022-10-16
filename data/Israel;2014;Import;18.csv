@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Eastern Asia,Asia,1185000
-2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Eastern Europe,Europe,8771000
-2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,4461000
-2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Northern Africa,Africa,120000
-2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Northern America,Americas,2725000
-2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Northern Europe,Europe,9745000
-2014,2014,Import,Israel,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,19705000
-2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Southern Europe,Europe,14577000
-2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,6228000
-2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Western Asia,Asia,12359000
-2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Western Europe,Europe,102249000
-2014,2014,Import,Israel,18,Cocoa and cocoa preparations,World,World,182872000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Eastern Asia,Asia,1185000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Eastern Europe,Europe,8771000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,4461000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Northern Africa,Africa,120000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Northern America,Americas,2725000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Northern Europe,Europe,9745000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2014,2014,Import,Israel,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,19705000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Southern Europe,Europe,14577000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,6228000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Western Asia,Asia,12359000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2014,2014,Import,Israel,18,Cocoa and cocoa preparations,Western Europe,Europe,102249000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2014,2014,Import,Israel,18,Cocoa and cocoa preparations,World,World,182872000,30.8124247,34.8594762,,

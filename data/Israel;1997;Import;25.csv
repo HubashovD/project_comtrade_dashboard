@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Australia and New Zealand,Oceania,20000
-1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Asia,Asia,873000
-1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,9563000
-1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Latin America and the Caribbean,Americas,364000
-1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,1002000
-1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,26720000
-1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,8624000
-1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,16000
-1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Europe,Europe,35559000
-1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Sub-Saharan Africa,Africa,16000
-1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,24531000
-1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,15462000
-1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,138467000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Australia and New Zealand,Oceania,20000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Asia,Asia,873000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,9563000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Latin America and the Caribbean,Americas,364000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,1002000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,26720000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,8624000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,16000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Europe,Europe,35559000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Sub-Saharan Africa,Africa,16000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,24531000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,15462000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1997,1997,Import,Israel,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,138467000,30.8124247,34.8594762,,

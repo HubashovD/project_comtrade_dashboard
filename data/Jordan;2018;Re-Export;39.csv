@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Eastern Asia,Asia,1720487
-2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Eastern Europe,Europe,3750
-2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Northern Africa,Africa,3481609
-2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Northern America,Americas,136623
-2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Northern Europe,Europe,26020
-2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,South-eastern Asia,Asia,50129
-2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Southern Europe,Europe,64038
-2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,500507
-2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Western Asia,Asia,2009772
-2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Western Europe,Europe,7119
-2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,World,World,102776448
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Eastern Asia,Asia,1720487,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Eastern Europe,Europe,3750,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Northern Africa,Africa,3481609,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Northern America,Americas,136623,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Northern Europe,Europe,26020,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,South-eastern Asia,Asia,50129,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Southern Europe,Europe,64038,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,500507,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Western Asia,Asia,2009772,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,Western Europe,Europe,7119,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2018,2018,Re-Export,Jordan,39,Plastics and articles thereof,World,World,102776448,31.1667049,36.941628,,

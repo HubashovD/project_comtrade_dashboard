@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Jordan,65,Headgear and parts thereof,Eastern Asia,Asia,305566
-2002,2002,Import,Jordan,65,Headgear and parts thereof,Northern America,Americas,11409
-2002,2002,Import,Jordan,65,Headgear and parts thereof,Northern Europe,Europe,1835
-2002,2002,Import,Jordan,65,Headgear and parts thereof,South-eastern Asia,Asia,8519
-2002,2002,Import,Jordan,65,Headgear and parts thereof,Southern Europe,Europe,17460
-2002,2002,Import,Jordan,65,Headgear and parts thereof,Western Asia,Asia,10422
-2002,2002,Import,Jordan,65,Headgear and parts thereof,Western Europe,Europe,11940
-2002,2002,Import,Jordan,65,Headgear and parts thereof,World,World,369654
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Jordan,65,Headgear and parts thereof,Eastern Asia,Asia,305566,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2002,2002,Import,Jordan,65,Headgear and parts thereof,Northern America,Americas,11409,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2002,2002,Import,Jordan,65,Headgear and parts thereof,Northern Europe,Europe,1835,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2002,2002,Import,Jordan,65,Headgear and parts thereof,South-eastern Asia,Asia,8519,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2002,2002,Import,Jordan,65,Headgear and parts thereof,Southern Europe,Europe,17460,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2002,2002,Import,Jordan,65,Headgear and parts thereof,Western Asia,Asia,10422,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2002,2002,Import,Jordan,65,Headgear and parts thereof,Western Europe,Europe,11940,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2002,2002,Import,Jordan,65,Headgear and parts thereof,World,World,369654,31.1667049,36.941628,,

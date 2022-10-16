@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Lebanon,80,Tin; articles thereof,Eastern Asia,Asia,108595
-2012,2012,Import,Lebanon,80,Tin; articles thereof,Eastern Europe,Europe,117
-2012,2012,Import,Lebanon,80,Tin; articles thereof,South-eastern Asia,Asia,16532
-2012,2012,Import,Lebanon,80,Tin; articles thereof,Southern Europe,Europe,2247
-2012,2012,Import,Lebanon,80,Tin; articles thereof,Western Asia,Asia,13456
-2012,2012,Import,Lebanon,80,Tin; articles thereof,Western Europe,Europe,172612
-2012,2012,Import,Lebanon,80,Tin; articles thereof,World,World,376748
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Lebanon,80,Tin; articles thereof,Eastern Asia,Asia,108595,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2012,2012,Import,Lebanon,80,Tin; articles thereof,Eastern Europe,Europe,117,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2012,2012,Import,Lebanon,80,Tin; articles thereof,South-eastern Asia,Asia,16532,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2012,2012,Import,Lebanon,80,Tin; articles thereof,Southern Europe,Europe,2247,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2012,2012,Import,Lebanon,80,Tin; articles thereof,Western Asia,Asia,13456,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2012,2012,Import,Lebanon,80,Tin; articles thereof,Western Europe,Europe,172612,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2012,2012,Import,Lebanon,80,Tin; articles thereof,World,World,376748,33.8750629,35.843409,,

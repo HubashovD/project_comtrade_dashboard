@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Kuwait,5,"Products of animal origin, nes",Northern Africa,Africa,28421
-2003,2003,Export,Kuwait,5,"Products of animal origin, nes",Northern Europe,Europe,14593
-2003,2003,Export,Kuwait,5,"Products of animal origin, nes",Western Europe,Europe,664828
-2003,2003,Export,Kuwait,5,"Products of animal origin, nes",World,World,942738
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Kuwait,5,"Products of animal origin, nes",Northern Africa,Africa,28421,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2003,2003,Export,Kuwait,5,"Products of animal origin, nes",Northern Europe,Europe,14593,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2003,2003,Export,Kuwait,5,"Products of animal origin, nes",Western Europe,Europe,664828,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2003,2003,Export,Kuwait,5,"Products of animal origin, nes",World,World,942738,29.2733964,47.4979476,,

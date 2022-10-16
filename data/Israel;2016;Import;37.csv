@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Israel,37,Photographic or cinematographic goods,Eastern Asia,Asia,34250000
-2016,2016,Import,Israel,37,Photographic or cinematographic goods,Eastern Europe,Europe,127000
-2016,2016,Import,Israel,37,Photographic or cinematographic goods,Northern America,Americas,26310000
-2016,2016,Import,Israel,37,Photographic or cinematographic goods,Northern Europe,Europe,4324000
-2016,2016,Import,Israel,37,Photographic or cinematographic goods,South-eastern Asia,Asia,100000
-2016,2016,Import,Israel,37,Photographic or cinematographic goods,Southern Europe,Europe,2172000
-2016,2016,Import,Israel,37,Photographic or cinematographic goods,Western Asia,Asia,32000
-2016,2016,Import,Israel,37,Photographic or cinematographic goods,Western Europe,Europe,22915000
-2016,2016,Import,Israel,37,Photographic or cinematographic goods,World,World,90874000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Israel,37,Photographic or cinematographic goods,Eastern Asia,Asia,34250000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2016,2016,Import,Israel,37,Photographic or cinematographic goods,Eastern Europe,Europe,127000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2016,2016,Import,Israel,37,Photographic or cinematographic goods,Northern America,Americas,26310000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2016,2016,Import,Israel,37,Photographic or cinematographic goods,Northern Europe,Europe,4324000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2016,2016,Import,Israel,37,Photographic or cinematographic goods,South-eastern Asia,Asia,100000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2016,2016,Import,Israel,37,Photographic or cinematographic goods,Southern Europe,Europe,2172000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2016,2016,Import,Israel,37,Photographic or cinematographic goods,Western Asia,Asia,32000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2016,2016,Import,Israel,37,Photographic or cinematographic goods,Western Europe,Europe,22915000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2016,2016,Import,Israel,37,Photographic or cinematographic goods,World,World,90874000,30.8124247,34.8594762,,

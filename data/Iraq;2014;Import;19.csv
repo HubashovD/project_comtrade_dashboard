@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Eastern Asia,Asia,250292
-2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Eastern Europe,Europe,3800
-2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Latin America and the Caribbean,Americas,15258
-2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Northern Africa,Africa,690412
-2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Northern America,Americas,58435
-2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Northern Europe,Europe,51605
-2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",South-eastern Asia,Asia,1356774
-2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Southern Asia,Asia,3419570
-2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Southern Europe,Europe,247757
-2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Western Asia,Asia,1188811
-2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Western Europe,Europe,182917
-2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",World,World,36807425
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Eastern Asia,Asia,250292,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Eastern Europe,Europe,3800,33.0955793,44.1749775,51.67568633314729,27.673469819741847
+2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Latin America and the Caribbean,Americas,15258,33.0955793,44.1749775,17.925141963241547,-78.01492950057497
+2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Northern Africa,Africa,690412,33.0955793,44.1749775,19.569604022535763,12.47761721199581
+2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Northern America,Americas,58435,33.0955793,44.1749775,43.897683433510366,-100.08947125585888
+2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Northern Europe,Europe,51605,33.0955793,44.1749775,59.36075159783851,25.01346951967388
+2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",South-eastern Asia,Asia,1356774,33.0955793,44.1749775,10.528384761701911,103.08333472012376
+2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Southern Asia,Asia,3419570,33.0955793,44.1749775,25.499703063807168,75.5024015339642
+2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Southern Europe,Europe,247757,33.0955793,44.1749775,40.12399607988535,20.742583178432696
+2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Western Asia,Asia,1188811,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",Western Europe,Europe,182917,33.0955793,44.1749775,47.92172048214207,7.866753258497997
+2014,2014,Import,Iraq,19,"Preparations of cereals, flour, starch or milk; bakers' wares",World,World,36807425,33.0955793,44.1749775,,

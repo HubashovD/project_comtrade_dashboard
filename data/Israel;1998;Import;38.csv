@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Israel,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,236000
-1998,1998,Import,Israel,38,Miscellaneous chemical products,Eastern Asia,Asia,6031000
-1998,1998,Import,Israel,38,Miscellaneous chemical products,Eastern Europe,Europe,2333000
-1998,1998,Import,Israel,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,92000
-1998,1998,Import,Israel,38,Miscellaneous chemical products,Northern Africa,Africa,513000
-1998,1998,Import,Israel,38,Miscellaneous chemical products,Northern America,Americas,71208000
-1998,1998,Import,Israel,38,Miscellaneous chemical products,Northern Europe,Europe,36303000
-1998,1998,Import,Israel,38,Miscellaneous chemical products,South-eastern Asia,Asia,2136000
-1998,1998,Import,Israel,38,Miscellaneous chemical products,Southern Europe,Europe,42272000
-1998,1998,Import,Israel,38,Miscellaneous chemical products,Western Asia,Asia,1973000
-1998,1998,Import,Israel,38,Miscellaneous chemical products,Western Europe,Europe,111323000
-1998,1998,Import,Israel,38,Miscellaneous chemical products,World,World,306968000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Israel,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,236000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1998,1998,Import,Israel,38,Miscellaneous chemical products,Eastern Asia,Asia,6031000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1998,1998,Import,Israel,38,Miscellaneous chemical products,Eastern Europe,Europe,2333000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1998,1998,Import,Israel,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,92000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1998,1998,Import,Israel,38,Miscellaneous chemical products,Northern Africa,Africa,513000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1998,1998,Import,Israel,38,Miscellaneous chemical products,Northern America,Americas,71208000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1998,1998,Import,Israel,38,Miscellaneous chemical products,Northern Europe,Europe,36303000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1998,1998,Import,Israel,38,Miscellaneous chemical products,South-eastern Asia,Asia,2136000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1998,1998,Import,Israel,38,Miscellaneous chemical products,Southern Europe,Europe,42272000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1998,1998,Import,Israel,38,Miscellaneous chemical products,Western Asia,Asia,1973000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1998,1998,Import,Israel,38,Miscellaneous chemical products,Western Europe,Europe,111323000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1998,1998,Import,Israel,38,Miscellaneous chemical products,World,World,306968000,30.8124247,34.8594762,,

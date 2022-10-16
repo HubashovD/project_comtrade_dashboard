@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Azerbaijan,72,Iron and steel,Central Asia,Asia,2203714
-1997,1997,Import,Azerbaijan,72,Iron and steel,Eastern Europe,Europe,30343492
-1997,1997,Import,Azerbaijan,72,Iron and steel,Melanesia,Oceania,107860
-1997,1997,Import,Azerbaijan,72,Iron and steel,Northern America,Americas,137589
-1997,1997,Import,Azerbaijan,72,Iron and steel,Southern Asia,Asia,2600
-1997,1997,Import,Azerbaijan,72,Iron and steel,Southern Europe,Europe,25210
-1997,1997,Import,Azerbaijan,72,Iron and steel,Western Asia,Asia,1045086
-1997,1997,Import,Azerbaijan,72,Iron and steel,Western Europe,Europe,1759967
-1997,1997,Import,Azerbaijan,72,Iron and steel,World,World,36270544
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Azerbaijan,72,Iron and steel,Central Asia,Asia,2203714,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1997,1997,Import,Azerbaijan,72,Iron and steel,Eastern Europe,Europe,30343492,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1997,1997,Import,Azerbaijan,72,Iron and steel,Melanesia,Oceania,107860,40.3936294,47.7872508,1.0108650891006263,147.3257485906919
+1997,1997,Import,Azerbaijan,72,Iron and steel,Northern America,Americas,137589,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1997,1997,Import,Azerbaijan,72,Iron and steel,Southern Asia,Asia,2600,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1997,1997,Import,Azerbaijan,72,Iron and steel,Southern Europe,Europe,25210,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+1997,1997,Import,Azerbaijan,72,Iron and steel,Western Asia,Asia,1045086,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1997,1997,Import,Azerbaijan,72,Iron and steel,Western Europe,Europe,1759967,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1997,1997,Import,Azerbaijan,72,Iron and steel,World,World,36270544,40.3936294,47.7872508,,

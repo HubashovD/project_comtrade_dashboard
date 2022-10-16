@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Export,Lebanon,1,Live animals; animal products,Northern America,Americas,4000
-2009,2009,Export,Lebanon,1,Live animals; animal products,Northern Europe,Europe,663
-2009,2009,Export,Lebanon,1,Live animals; animal products,Southern Europe,Europe,39044
-2009,2009,Export,Lebanon,1,Live animals; animal products,Western Asia,Asia,4792
-2009,2009,Export,Lebanon,1,Live animals; animal products,Western Europe,Europe,23600
-2009,2009,Export,Lebanon,1,Live animals; animal products,World,World,1432148
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Export,Lebanon,1,Live animals; animal products,Northern America,Americas,4000,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2009,2009,Export,Lebanon,1,Live animals; animal products,Northern Europe,Europe,663,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2009,2009,Export,Lebanon,1,Live animals; animal products,Southern Europe,Europe,39044,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2009,2009,Export,Lebanon,1,Live animals; animal products,Western Asia,Asia,4792,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2009,2009,Export,Lebanon,1,Live animals; animal products,Western Europe,Europe,23600,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2009,2009,Export,Lebanon,1,Live animals; animal products,World,World,1432148,33.8750629,35.843409,,

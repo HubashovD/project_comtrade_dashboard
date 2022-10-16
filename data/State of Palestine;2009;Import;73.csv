@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,State of Palestine,73,Articles of iron or steel,Eastern Asia,Asia,5525724
-2009,2009,Import,State of Palestine,73,Articles of iron or steel,Eastern Europe,Europe,110171
-2009,2009,Import,State of Palestine,73,Articles of iron or steel,Latin America and the Caribbean,Americas,424
-2009,2009,Import,State of Palestine,73,Articles of iron or steel,Northern Africa,Africa,1295475
-2009,2009,Import,State of Palestine,73,Articles of iron or steel,Northern America,Americas,342440
-2009,2009,Import,State of Palestine,73,Articles of iron or steel,Northern Europe,Europe,73982
-2009,2009,Import,State of Palestine,73,Articles of iron or steel,South-eastern Asia,Asia,17322
-2009,2009,Import,State of Palestine,73,Articles of iron or steel,Southern Asia,Asia,11
-2009,2009,Import,State of Palestine,73,Articles of iron or steel,Southern Europe,Europe,1238762
-2009,2009,Import,State of Palestine,73,Articles of iron or steel,Sub-Saharan Africa,Africa,1611
-2009,2009,Import,State of Palestine,73,Articles of iron or steel,Western Asia,Asia,1547316
-2009,2009,Import,State of Palestine,73,Articles of iron or steel,Western Europe,Europe,127748
-2009,2009,Import,State of Palestine,73,Articles of iron or steel,World,World,37363110
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,State of Palestine,73,Articles of iron or steel,Eastern Asia,Asia,5525724,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2009,2009,Import,State of Palestine,73,Articles of iron or steel,Eastern Europe,Europe,110171,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2009,2009,Import,State of Palestine,73,Articles of iron or steel,Latin America and the Caribbean,Americas,424,31.46242095,34.262716572130714,17.925141963241547,-78.01492950057497
+2009,2009,Import,State of Palestine,73,Articles of iron or steel,Northern Africa,Africa,1295475,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2009,2009,Import,State of Palestine,73,Articles of iron or steel,Northern America,Americas,342440,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2009,2009,Import,State of Palestine,73,Articles of iron or steel,Northern Europe,Europe,73982,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
+2009,2009,Import,State of Palestine,73,Articles of iron or steel,South-eastern Asia,Asia,17322,31.46242095,34.262716572130714,10.528384761701911,103.08333472012376
+2009,2009,Import,State of Palestine,73,Articles of iron or steel,Southern Asia,Asia,11,31.46242095,34.262716572130714,25.499703063807168,75.5024015339642
+2009,2009,Import,State of Palestine,73,Articles of iron or steel,Southern Europe,Europe,1238762,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2009,2009,Import,State of Palestine,73,Articles of iron or steel,Sub-Saharan Africa,Africa,1611,31.46242095,34.262716572130714,6.06272746187266,22.727528470146083
+2009,2009,Import,State of Palestine,73,Articles of iron or steel,Western Asia,Asia,1547316,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
+2009,2009,Import,State of Palestine,73,Articles of iron or steel,Western Europe,Europe,127748,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2009,2009,Import,State of Palestine,73,Articles of iron or steel,World,World,37363110,31.46242095,34.262716572130714,,

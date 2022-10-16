@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Re-Export,Kuwait,89,"Ships, boats and other floating structures",Latin America and the Caribbean,Americas,512
-2000,2000,Re-Export,Kuwait,89,"Ships, boats and other floating structures",Northern Europe,Europe,6519
-2000,2000,Re-Export,Kuwait,89,"Ships, boats and other floating structures",Southern Asia,Asia,55734
-2000,2000,Re-Export,Kuwait,89,"Ships, boats and other floating structures",World,World,400147
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Re-Export,Kuwait,89,"Ships, boats and other floating structures",Latin America and the Caribbean,Americas,512,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2000,2000,Re-Export,Kuwait,89,"Ships, boats and other floating structures",Northern Europe,Europe,6519,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Re-Export,Kuwait,89,"Ships, boats and other floating structures",Southern Asia,Asia,55734,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Re-Export,Kuwait,89,"Ships, boats and other floating structures",World,World,400147,29.2733964,47.4979476,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Israel,10,Cereals,Australia and New Zealand,Oceania,6000
-2017,2017,Export,Israel,10,Cereals,Eastern Asia,Asia,83000
-2017,2017,Export,Israel,10,Cereals,Eastern Europe,Europe,235000
-2017,2017,Export,Israel,10,Cereals,Latin America and the Caribbean,Americas,23000
-2017,2017,Export,Israel,10,Cereals,Northern America,Americas,368000
-2017,2017,Export,Israel,10,Cereals,Northern Europe,Europe,26000
-2017,2017,Export,Israel,10,Cereals,South-eastern Asia,Asia,39000
-2017,2017,Export,Israel,10,Cereals,Southern Asia,Asia,3000
-2017,2017,Export,Israel,10,Cereals,Southern Europe,Europe,28000
-2017,2017,Export,Israel,10,Cereals,Sub-Saharan Africa,Africa,4000
-2017,2017,Export,Israel,10,Cereals,Western Europe,Europe,141000
-2017,2017,Export,Israel,10,Cereals,World,World,5413000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Israel,10,Cereals,Australia and New Zealand,Oceania,6000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2017,2017,Export,Israel,10,Cereals,Eastern Asia,Asia,83000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2017,2017,Export,Israel,10,Cereals,Eastern Europe,Europe,235000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2017,2017,Export,Israel,10,Cereals,Latin America and the Caribbean,Americas,23000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2017,2017,Export,Israel,10,Cereals,Northern America,Americas,368000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2017,2017,Export,Israel,10,Cereals,Northern Europe,Europe,26000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2017,2017,Export,Israel,10,Cereals,South-eastern Asia,Asia,39000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2017,2017,Export,Israel,10,Cereals,Southern Asia,Asia,3000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2017,2017,Export,Israel,10,Cereals,Southern Europe,Europe,28000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2017,2017,Export,Israel,10,Cereals,Sub-Saharan Africa,Africa,4000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2017,2017,Export,Israel,10,Cereals,Western Europe,Europe,141000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2017,2017,Export,Israel,10,Cereals,World,World,5413000,30.8124247,34.8594762,,

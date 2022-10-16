@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Australia and New Zealand,Oceania,17000
-2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Central Asia,Asia,52000
-2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Eastern Asia,Asia,165000
-2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Eastern Europe,Europe,640000
-2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Latin America and the Caribbean,Americas,78000
-2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Northern America,Americas,879000
-2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Northern Europe,Europe,1283000
-2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,37000
-2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,426000
-2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,40000
-2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Western Asia,Asia,52000
-2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Western Europe,Europe,515000
-2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",World,World,4231000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Australia and New Zealand,Oceania,17000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Central Asia,Asia,52000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Eastern Asia,Asia,165000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Eastern Europe,Europe,640000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Latin America and the Caribbean,Americas,78000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Northern America,Americas,879000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Northern Europe,Europe,1283000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,37000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,426000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,40000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Western Asia,Asia,52000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",Western Europe,Europe,515000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2002,2002,Export,Israel,9,"Coffee, tea, matΦ and spices",World,World,4231000,30.8124247,34.8594762,,

@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Georgia,29,Organic chemicals,Central Asia,Asia,24
-2020,2020,Export,Georgia,29,Organic chemicals,Eastern Europe,Europe,500500
-2020,2020,Export,Georgia,29,Organic chemicals,Northern America,Americas,1
-2020,2020,Export,Georgia,29,Organic chemicals,Northern Europe,Europe,15028
-2020,2020,Export,Georgia,29,Organic chemicals,South-eastern Asia,Asia,35400
-2020,2020,Export,Georgia,29,Organic chemicals,Southern Asia,Asia,807268
-2020,2020,Export,Georgia,29,Organic chemicals,Sub-Saharan Africa,Africa,3
-2020,2020,Export,Georgia,29,Organic chemicals,Western Asia,Asia,31127
-2020,2020,Export,Georgia,29,Organic chemicals,Western Europe,Europe,1
-2020,2020,Export,Georgia,29,Organic chemicals,World,World,2004506
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Georgia,29,Organic chemicals,Central Asia,Asia,24,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2020,2020,Export,Georgia,29,Organic chemicals,Eastern Europe,Europe,500500,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2020,2020,Export,Georgia,29,Organic chemicals,Northern America,Americas,1,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2020,2020,Export,Georgia,29,Organic chemicals,Northern Europe,Europe,15028,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2020,2020,Export,Georgia,29,Organic chemicals,South-eastern Asia,Asia,35400,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2020,2020,Export,Georgia,29,Organic chemicals,Southern Asia,Asia,807268,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2020,2020,Export,Georgia,29,Organic chemicals,Sub-Saharan Africa,Africa,3,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2020,2020,Export,Georgia,29,Organic chemicals,Western Asia,Asia,31127,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2020,2020,Export,Georgia,29,Organic chemicals,Western Europe,Europe,1,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2020,2020,Export,Georgia,29,Organic chemicals,World,World,2004506,32.3293809,-83.1137366,,

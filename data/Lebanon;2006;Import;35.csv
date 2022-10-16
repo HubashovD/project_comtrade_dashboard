@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Australia and New Zealand,Oceania,73238
-2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Asia,Asia,747432
-2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Europe,Europe,177253
-2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Latin America and the Caribbean,Americas,226530
-2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Africa,Africa,117163
-2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Northern America,Americas,937933
-2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Europe,Europe,784044
-2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,South-eastern Asia,Asia,1117134
-2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Asia,Asia,67410
-2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Europe,Europe,2035200
-2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Sub-Saharan Africa,Africa,1856
-2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Western Asia,Asia,644360
-2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Western Europe,Europe,2398906
-2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,World,World,11865127
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Australia and New Zealand,Oceania,73238,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Asia,Asia,747432,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Europe,Europe,177253,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Latin America and the Caribbean,Americas,226530,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Africa,Africa,117163,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Northern America,Americas,937933,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Europe,Europe,784044,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,South-eastern Asia,Asia,1117134,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Asia,Asia,67410,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Europe,Europe,2035200,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Sub-Saharan Africa,Africa,1856,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Western Asia,Asia,644360,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,Western Europe,Europe,2398906,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2006,2006,Import,Lebanon,35,Albuminoidal substances; modified starches; glues; enzymes,World,World,11865127,33.8750629,35.843409,,

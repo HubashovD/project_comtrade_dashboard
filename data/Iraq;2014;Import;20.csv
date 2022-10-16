@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Eastern Asia,Asia,4665467
-2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Eastern Europe,Europe,21992
-2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Latin America and the Caribbean,Americas,138826
-2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Northern Africa,Africa,2879260
-2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Northern America,Americas,211498
-2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Northern Europe,Europe,342215
-2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",South-eastern Asia,Asia,579963
-2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Southern Asia,Asia,2803082
-2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Southern Europe,Europe,819477
-2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Sub-Saharan Africa,Africa,19442
-2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Western Asia,Asia,7765412
-2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Western Europe,Europe,1758948
-2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",World,World,82432557
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Eastern Asia,Asia,4665467,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Eastern Europe,Europe,21992,33.0955793,44.1749775,51.67568633314729,27.673469819741847
+2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Latin America and the Caribbean,Americas,138826,33.0955793,44.1749775,17.925141963241547,-78.01492950057497
+2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Northern Africa,Africa,2879260,33.0955793,44.1749775,19.569604022535763,12.47761721199581
+2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Northern America,Americas,211498,33.0955793,44.1749775,43.897683433510366,-100.08947125585888
+2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Northern Europe,Europe,342215,33.0955793,44.1749775,59.36075159783851,25.01346951967388
+2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",South-eastern Asia,Asia,579963,33.0955793,44.1749775,10.528384761701911,103.08333472012376
+2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Southern Asia,Asia,2803082,33.0955793,44.1749775,25.499703063807168,75.5024015339642
+2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Southern Europe,Europe,819477,33.0955793,44.1749775,40.12399607988535,20.742583178432696
+2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Sub-Saharan Africa,Africa,19442,33.0955793,44.1749775,6.06272746187266,22.727528470146083
+2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Western Asia,Asia,7765412,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",Western Europe,Europe,1758948,33.0955793,44.1749775,47.92172048214207,7.866753258497997
+2014,2014,Import,Iraq,20,"Preparations of vegetables, fruit or nuts",World,World,82432557,33.0955793,44.1749775,,

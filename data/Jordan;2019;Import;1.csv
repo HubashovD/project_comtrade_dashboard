@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Jordan,1,Animals; live,Australia and New Zealand,Oceania,2217983
-2019,2019,Import,Jordan,1,Animals; live,Central Asia,Asia,33739
-2019,2019,Import,Jordan,1,Animals; live,Eastern Europe,Europe,101306755
-2019,2019,Import,Jordan,1,Animals; live,Latin America and the Caribbean,Americas,38861639
-2019,2019,Import,Jordan,1,Animals; live,Northern Africa,Africa,1408
-2019,2019,Import,Jordan,1,Animals; live,Northern America,Americas,276436
-2019,2019,Import,Jordan,1,Animals; live,Northern Europe,Europe,7911945
-2019,2019,Import,Jordan,1,Animals; live,Southern Europe,Europe,10951
-2019,2019,Import,Jordan,1,Animals; live,Sub-Saharan Africa,Africa,92772
-2019,2019,Import,Jordan,1,Animals; live,Western Asia,Asia,88345
-2019,2019,Import,Jordan,1,Animals; live,Western Europe,Europe,1572165
-2019,2019,Import,Jordan,1,Animals; live,World,World,152825626
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Jordan,1,Animals; live,Australia and New Zealand,Oceania,2217983,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2019,2019,Import,Jordan,1,Animals; live,Central Asia,Asia,33739,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2019,2019,Import,Jordan,1,Animals; live,Eastern Europe,Europe,101306755,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2019,2019,Import,Jordan,1,Animals; live,Latin America and the Caribbean,Americas,38861639,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2019,2019,Import,Jordan,1,Animals; live,Northern Africa,Africa,1408,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2019,2019,Import,Jordan,1,Animals; live,Northern America,Americas,276436,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2019,2019,Import,Jordan,1,Animals; live,Northern Europe,Europe,7911945,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2019,2019,Import,Jordan,1,Animals; live,Southern Europe,Europe,10951,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2019,2019,Import,Jordan,1,Animals; live,Sub-Saharan Africa,Africa,92772,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2019,2019,Import,Jordan,1,Animals; live,Western Asia,Asia,88345,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2019,2019,Import,Jordan,1,Animals; live,Western Europe,Europe,1572165,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2019,2019,Import,Jordan,1,Animals; live,World,World,152825626,31.1667049,36.941628,,

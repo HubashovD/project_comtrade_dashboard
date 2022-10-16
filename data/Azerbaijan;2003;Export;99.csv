@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Azerbaijan,99,Commodities not elsewhere specified,Eastern Asia,Asia,193
-2003,2003,Export,Azerbaijan,99,Commodities not elsewhere specified,Eastern Europe,Europe,3116050
-2003,2003,Export,Azerbaijan,99,Commodities not elsewhere specified,Northern Europe,Europe,41
-2003,2003,Export,Azerbaijan,99,Commodities not elsewhere specified,World,World,3116284
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Azerbaijan,99,Commodities not elsewhere specified,Eastern Asia,Asia,193,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2003,2003,Export,Azerbaijan,99,Commodities not elsewhere specified,Eastern Europe,Europe,3116050,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2003,2003,Export,Azerbaijan,99,Commodities not elsewhere specified,Northern Europe,Europe,41,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2003,2003,Export,Azerbaijan,99,Commodities not elsewhere specified,World,World,3116284,40.3936294,47.7872508,,

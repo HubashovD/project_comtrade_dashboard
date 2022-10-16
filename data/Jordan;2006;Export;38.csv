@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Jordan,38,Miscellaneous chemical products,Central Asia,Asia,2970
-2006,2006,Export,Jordan,38,Miscellaneous chemical products,Eastern Asia,Asia,2000
-2006,2006,Export,Jordan,38,Miscellaneous chemical products,Eastern Europe,Europe,117566
-2006,2006,Export,Jordan,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,678701
-2006,2006,Export,Jordan,38,Miscellaneous chemical products,Northern Africa,Africa,3622402
-2006,2006,Export,Jordan,38,Miscellaneous chemical products,Northern America,Americas,5410
-2006,2006,Export,Jordan,38,Miscellaneous chemical products,Northern Europe,Europe,1075161
-2006,2006,Export,Jordan,38,Miscellaneous chemical products,Southern Asia,Asia,88831
-2006,2006,Export,Jordan,38,Miscellaneous chemical products,Southern Europe,Europe,45212
-2006,2006,Export,Jordan,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,1008874
-2006,2006,Export,Jordan,38,Miscellaneous chemical products,Western Asia,Asia,2361193
-2006,2006,Export,Jordan,38,Miscellaneous chemical products,Western Europe,Europe,79417
-2006,2006,Export,Jordan,38,Miscellaneous chemical products,World,World,34796332
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Jordan,38,Miscellaneous chemical products,Central Asia,Asia,2970,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2006,2006,Export,Jordan,38,Miscellaneous chemical products,Eastern Asia,Asia,2000,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2006,2006,Export,Jordan,38,Miscellaneous chemical products,Eastern Europe,Europe,117566,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2006,2006,Export,Jordan,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,678701,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2006,2006,Export,Jordan,38,Miscellaneous chemical products,Northern Africa,Africa,3622402,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2006,2006,Export,Jordan,38,Miscellaneous chemical products,Northern America,Americas,5410,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2006,2006,Export,Jordan,38,Miscellaneous chemical products,Northern Europe,Europe,1075161,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2006,2006,Export,Jordan,38,Miscellaneous chemical products,Southern Asia,Asia,88831,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2006,2006,Export,Jordan,38,Miscellaneous chemical products,Southern Europe,Europe,45212,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2006,2006,Export,Jordan,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,1008874,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2006,2006,Export,Jordan,38,Miscellaneous chemical products,Western Asia,Asia,2361193,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2006,2006,Export,Jordan,38,Miscellaneous chemical products,Western Europe,Europe,79417,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2006,2006,Export,Jordan,38,Miscellaneous chemical products,World,World,34796332,31.1667049,36.941628,,

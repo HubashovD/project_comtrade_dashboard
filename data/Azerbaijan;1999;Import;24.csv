@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Central Asia,Asia,19199
-1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Eastern Asia,Asia,276840
-1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,302748
-1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,1121608
-1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,3159510
-1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,149689
-1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,348340
-1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,614879
-1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,World,World,6500373
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Central Asia,Asia,19199,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Eastern Asia,Asia,276840,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,302748,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,1121608,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,3159510,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,149689,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,348340,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,614879,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1999,1999,Import,Azerbaijan,24,Tobacco and manufactured tobacco substitutes,World,World,6500373,40.3936294,47.7872508,,

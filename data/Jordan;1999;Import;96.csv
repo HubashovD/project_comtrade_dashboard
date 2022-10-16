@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,16062
-1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Eastern Asia,Asia,4085409
-1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Eastern Europe,Europe,7467
-1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Northern Africa,Africa,198103
-1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Northern America,Americas,346686
-1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Northern Europe,Europe,429998
-1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,173753
-1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Southern Europe,Europe,507596
-1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Western Asia,Asia,503850
-1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Western Europe,Europe,1145169
-1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,World,World,8750020
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,16062,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Eastern Asia,Asia,4085409,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Eastern Europe,Europe,7467,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Northern Africa,Africa,198103,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Northern America,Americas,346686,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Northern Europe,Europe,429998,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,173753,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Southern Europe,Europe,507596,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Western Asia,Asia,503850,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,Western Europe,Europe,1145169,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Import,Jordan,96,Miscellaneous manufactured articles,World,World,8750020,31.1667049,36.941628,,

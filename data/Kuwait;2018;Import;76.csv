@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,74380
-2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Eastern Asia,Asia,76941244
-2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Eastern Europe,Europe,1265799
-2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,193317
-2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Northern Africa,Africa,2672971
-2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Northern America,Americas,6303409
-2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Northern Europe,Europe,1600176
-2018,2018,Import,Kuwait,76,Aluminium and articles thereof,South-eastern Asia,Asia,5515867
-2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Southern Asia,Asia,63522
-2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Southern Europe,Europe,15672707
-2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,17663
-2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Western Asia,Asia,7362232
-2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Western Europe,Europe,17228954
-2018,2018,Import,Kuwait,76,Aluminium and articles thereof,World,World,649014731
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,74380,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Eastern Asia,Asia,76941244,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Eastern Europe,Europe,1265799,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,193317,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Northern Africa,Africa,2672971,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Northern America,Americas,6303409,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Northern Europe,Europe,1600176,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2018,2018,Import,Kuwait,76,Aluminium and articles thereof,South-eastern Asia,Asia,5515867,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Southern Asia,Asia,63522,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Southern Europe,Europe,15672707,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,17663,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Western Asia,Asia,7362232,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2018,2018,Import,Kuwait,76,Aluminium and articles thereof,Western Europe,Europe,17228954,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2018,2018,Import,Kuwait,76,Aluminium and articles thereof,World,World,649014731,29.2733964,47.4979476,,

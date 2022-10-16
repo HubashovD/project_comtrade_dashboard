@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Jordan,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,2112
-2020,2020,Import,Jordan,81,"Metals; n.e.c., cermets and articles thereof",Latin America and the Caribbean,Americas,28169
-2020,2020,Import,Jordan,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,67212
-2020,2020,Import,Jordan,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,31094
-2020,2020,Import,Jordan,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,62990
-2020,2020,Import,Jordan,81,"Metals; n.e.c., cermets and articles thereof",World,World,197883
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Jordan,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,2112,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2020,2020,Import,Jordan,81,"Metals; n.e.c., cermets and articles thereof",Latin America and the Caribbean,Americas,28169,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2020,2020,Import,Jordan,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,67212,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2020,2020,Import,Jordan,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,31094,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2020,2020,Import,Jordan,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,62990,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2020,2020,Import,Jordan,81,"Metals; n.e.c., cermets and articles thereof",World,World,197883,31.1667049,36.941628,,

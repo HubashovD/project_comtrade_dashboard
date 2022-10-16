@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Kuwait,2,Meat and edible meat offal,Eastern Europe,Europe,182654
-2020,2020,Export,Kuwait,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,38700
-2020,2020,Export,Kuwait,2,Meat and edible meat offal,Northern Africa,Africa,111776
-2020,2020,Export,Kuwait,2,Meat and edible meat offal,Southern Europe,Europe,217
-2020,2020,Export,Kuwait,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,81628
-2020,2020,Export,Kuwait,2,Meat and edible meat offal,Western Asia,Asia,118440
-2020,2020,Export,Kuwait,2,Meat and edible meat offal,World,World,20221461
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Kuwait,2,Meat and edible meat offal,Eastern Europe,Europe,182654,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2020,2020,Export,Kuwait,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,38700,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2020,2020,Export,Kuwait,2,Meat and edible meat offal,Northern Africa,Africa,111776,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2020,2020,Export,Kuwait,2,Meat and edible meat offal,Southern Europe,Europe,217,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2020,2020,Export,Kuwait,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,81628,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2020,2020,Export,Kuwait,2,Meat and edible meat offal,Western Asia,Asia,118440,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2020,2020,Export,Kuwait,2,Meat and edible meat offal,World,World,20221461,29.2733964,47.4979476,,

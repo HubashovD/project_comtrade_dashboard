@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Libya,17,Sugars and sugar confectionery,Eastern Asia,Asia,103646
-2018,2018,Import,Libya,17,Sugars and sugar confectionery,Eastern Europe,Europe,19759214
-2018,2018,Import,Libya,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,8580517
-2018,2018,Import,Libya,17,Sugars and sugar confectionery,Northern Africa,Africa,66840869
-2018,2018,Import,Libya,17,Sugars and sugar confectionery,Northern America,Americas,73720
-2018,2018,Import,Libya,17,Sugars and sugar confectionery,Northern Europe,Europe,19369
-2018,2018,Import,Libya,17,Sugars and sugar confectionery,South-eastern Asia,Asia,708426
-2018,2018,Import,Libya,17,Sugars and sugar confectionery,Southern Europe,Europe,1890324
-2018,2018,Import,Libya,17,Sugars and sugar confectionery,Western Asia,Asia,8461000
-2018,2018,Import,Libya,17,Sugars and sugar confectionery,Western Europe,Europe,31020117
-2018,2018,Import,Libya,17,Sugars and sugar confectionery,World,World,172076126
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Libya,17,Sugars and sugar confectionery,Eastern Asia,Asia,103646,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2018,2018,Import,Libya,17,Sugars and sugar confectionery,Eastern Europe,Europe,19759214,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2018,2018,Import,Libya,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,8580517,26.8234472,18.1236723,17.925141963241547,-78.01492950057497
+2018,2018,Import,Libya,17,Sugars and sugar confectionery,Northern Africa,Africa,66840869,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2018,2018,Import,Libya,17,Sugars and sugar confectionery,Northern America,Americas,73720,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2018,2018,Import,Libya,17,Sugars and sugar confectionery,Northern Europe,Europe,19369,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2018,2018,Import,Libya,17,Sugars and sugar confectionery,South-eastern Asia,Asia,708426,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2018,2018,Import,Libya,17,Sugars and sugar confectionery,Southern Europe,Europe,1890324,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2018,2018,Import,Libya,17,Sugars and sugar confectionery,Western Asia,Asia,8461000,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2018,2018,Import,Libya,17,Sugars and sugar confectionery,Western Europe,Europe,31020117,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2018,2018,Import,Libya,17,Sugars and sugar confectionery,World,World,172076126,26.8234472,18.1236723,,

@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Export,Libya,26,"Ores, slag and ash",Northern Africa,Africa,97747
-2007,2007,Export,Libya,26,"Ores, slag and ash",Southern Europe,Europe,2975
-2007,2007,Export,Libya,26,"Ores, slag and ash",World,World,100722
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Export,Libya,26,"Ores, slag and ash",Northern Africa,Africa,97747,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2007,2007,Export,Libya,26,"Ores, slag and ash",Southern Europe,Europe,2975,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2007,2007,Export,Libya,26,"Ores, slag and ash",World,World,100722,26.8234472,18.1236723,,

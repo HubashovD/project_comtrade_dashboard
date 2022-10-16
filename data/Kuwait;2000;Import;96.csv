@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,29311
-2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Eastern Asia,Asia,7979820
-2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Eastern Europe,Europe,224035
-2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,168175
-2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Northern Africa,Africa,455960
-2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Northern America,Americas,1541755
-2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Northern Europe,Europe,1285105
-2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,1331092
-2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Southern Asia,Asia,175101
-2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Southern Europe,Europe,2022213
-2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,72523
-2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Western Asia,Asia,278637
-2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Western Europe,Europe,3665511
-2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,World,World,23344940
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,29311,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Eastern Asia,Asia,7979820,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Eastern Europe,Europe,224035,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,168175,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Northern Africa,Africa,455960,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Northern America,Americas,1541755,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Northern Europe,Europe,1285105,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,1331092,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Southern Asia,Asia,175101,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Southern Europe,Europe,2022213,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,72523,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Western Asia,Asia,278637,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,Western Europe,Europe,3665511,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Import,Kuwait,96,Miscellaneous manufactured articles,World,World,23344940,29.2733964,47.4979476,,

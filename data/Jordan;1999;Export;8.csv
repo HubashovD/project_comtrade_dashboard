@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",Eastern Europe,Europe,122847
-1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern America,Americas,4851
-1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern Europe,Europe,852362
-1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",South-eastern Asia,Asia,9100
-1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",Southern Europe,Europe,23169
-1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",Sub-Saharan Africa,Africa,2107
-1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Asia,Asia,168786
-1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Europe,Europe,74877
-1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",World,World,17315282
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",Eastern Europe,Europe,122847,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern America,Americas,4851,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern Europe,Europe,852362,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",South-eastern Asia,Asia,9100,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",Southern Europe,Europe,23169,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",Sub-Saharan Africa,Africa,2107,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Asia,Asia,168786,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Europe,Europe,74877,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Export,Jordan,8,"Edible fruit, nuts, peel of citrus fruit, melons",World,World,17315282,31.1667049,36.941628,,

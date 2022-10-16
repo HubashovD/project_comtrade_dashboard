@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Re-Export,Kuwait,38,Chemical products n.e.c.,Central Asia,Asia,159
-2015,2015,Re-Export,Kuwait,38,Chemical products n.e.c.,Eastern Asia,Asia,321000
-2015,2015,Re-Export,Kuwait,38,Chemical products n.e.c.,Northern Africa,Africa,14459
-2015,2015,Re-Export,Kuwait,38,Chemical products n.e.c.,Northern America,Americas,17289641
-2015,2015,Re-Export,Kuwait,38,Chemical products n.e.c.,Northern Europe,Europe,279
-2015,2015,Re-Export,Kuwait,38,Chemical products n.e.c.,South-eastern Asia,Asia,56485
-2015,2015,Re-Export,Kuwait,38,Chemical products n.e.c.,World,World,19976826
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Re-Export,Kuwait,38,Chemical products n.e.c.,Central Asia,Asia,159,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2015,2015,Re-Export,Kuwait,38,Chemical products n.e.c.,Eastern Asia,Asia,321000,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2015,2015,Re-Export,Kuwait,38,Chemical products n.e.c.,Northern Africa,Africa,14459,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2015,2015,Re-Export,Kuwait,38,Chemical products n.e.c.,Northern America,Americas,17289641,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2015,2015,Re-Export,Kuwait,38,Chemical products n.e.c.,Northern Europe,Europe,279,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2015,2015,Re-Export,Kuwait,38,Chemical products n.e.c.,South-eastern Asia,Asia,56485,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2015,2015,Re-Export,Kuwait,38,Chemical products n.e.c.,World,World,19976826,29.2733964,47.4979476,,

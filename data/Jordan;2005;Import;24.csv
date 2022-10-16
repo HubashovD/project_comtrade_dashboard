@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Eastern Asia,Asia,1043374
-2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,7351
-2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,2738428
-2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Northern Africa,Africa,686932
-2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,448251
-2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,845879
-2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,South-eastern Asia,Asia,10185
-2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,52893
-2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Sub-Saharan Africa,Africa,39561041
-2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,3209001
-2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,14357388
-2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,World,World,63832749
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Eastern Asia,Asia,1043374,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,7351,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Latin America and the Caribbean,Americas,2738428,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Northern Africa,Africa,686932,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,448251,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,845879,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,South-eastern Asia,Asia,10185,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,52893,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Sub-Saharan Africa,Africa,39561041,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,3209001,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,14357388,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2005,2005,Import,Jordan,24,Tobacco and manufactured tobacco substitutes,World,World,63832749,31.1667049,36.941628,,

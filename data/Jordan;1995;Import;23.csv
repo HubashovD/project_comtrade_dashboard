@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Australia and New Zealand,Oceania,39222
-1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Eastern Asia,Asia,86649
-1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Eastern Europe,Europe,32465
-1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Latin America and the Caribbean,Americas,13381536
-1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Northern America,Americas,138640
-1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,1596168
-1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,887061
-1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,14384426
-1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",World,World,53794672
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Australia and New Zealand,Oceania,39222,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Eastern Asia,Asia,86649,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Eastern Europe,Europe,32465,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Latin America and the Caribbean,Americas,13381536,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Northern America,Americas,138640,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Northern Europe,Europe,1596168,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Southern Europe,Europe,887061,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",Western Europe,Europe,14384426,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Import,Jordan,23,"Residues, wastes of food industry, animal fodder",World,World,53794672,31.1667049,36.941628,,

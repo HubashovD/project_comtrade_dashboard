@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,493009
-2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,5557
-2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,6282351
-2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Northern Africa,Africa,1316049
-2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Northern America,Americas,67332
-2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Northern Europe,Europe,389348
-2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,2320872
-2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Southern Asia,Asia,14906518
-2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Southern Europe,Europe,9205
-2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,2712938
-2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Western Asia,Asia,647383
-2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Western Europe,Europe,314466
-2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",World,World,36097878
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,493009,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,5557,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,6282351,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Northern Africa,Africa,1316049,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Northern America,Americas,67332,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Northern Europe,Europe,389348,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,2320872,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Southern Asia,Asia,14906518,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Southern Europe,Europe,9205,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Sub-Saharan Africa,Africa,2712938,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Western Asia,Asia,647383,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",Western Europe,Europe,314466,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Import,Jordan,9,"Coffee, tea, mate and spices",World,World,36097878,31.1667049,36.941628,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Eastern Europe,Europe,1000
-2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Latin America and the Caribbean,Americas,5000
-2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Northern Africa,Africa,385000
-2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Northern America,Americas,8000
-2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Southern Asia,Asia,31000
-2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Southern Europe,Europe,51000
-2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Sub-Saharan Africa,Africa,36000
-2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Western Asia,Asia,13000
-2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,World,World,1224000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Eastern Europe,Europe,1000,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Latin America and the Caribbean,Americas,5000,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Northern Africa,Africa,385000,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Northern America,Americas,8000,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Southern Asia,Asia,31000,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Southern Europe,Europe,51000,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Sub-Saharan Africa,Africa,36000,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,Western Asia,Asia,13000,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2005,2005,Export,Lebanon,60,Knitted or crocheted fabrics,World,World,1224000,33.8750629,35.843409,,

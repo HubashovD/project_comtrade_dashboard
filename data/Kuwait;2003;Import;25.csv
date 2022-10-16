@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Australia and New Zealand,Oceania,1816811
-2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Asia,Asia,122766
-2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,7842
-2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Latin America and the Caribbean,Americas,26166
-2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,3232665
-2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,505471
-2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,620562
-2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,7050684
-2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Asia,Asia,18538148
-2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Europe,Europe,593239
-2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Sub-Saharan Africa,Africa,5891
-2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,286064
-2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,1408793
-2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,190606428
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Australia and New Zealand,Oceania,1816811,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Asia,Asia,122766,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,7842,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Latin America and the Caribbean,Americas,26166,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,3232665,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,505471,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,620562,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,7050684,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Asia,Asia,18538148,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Europe,Europe,593239,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Sub-Saharan Africa,Africa,5891,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,286064,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,1408793,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2003,2003,Import,Kuwait,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,190606428,29.2733964,47.4979476,,

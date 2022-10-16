@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",Australia and New Zealand,Oceania,87000
-1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",Latin America and the Caribbean,Americas,1123000
-1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",Northern America,Americas,22497000
-1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",Northern Europe,Europe,5503000
-1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",South-eastern Asia,Asia,8009000
-1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Europe,Europe,11015000
-1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",Western Asia,Asia,5118000
-1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",Western Europe,Europe,40573000
-1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",World,World,98440000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",Australia and New Zealand,Oceania,87000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",Latin America and the Caribbean,Americas,1123000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",Northern America,Americas,22497000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",Northern Europe,Europe,5503000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",South-eastern Asia,Asia,8009000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Europe,Europe,11015000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",Western Asia,Asia,5118000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",Western Europe,Europe,40573000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Import,Israel,15,"Animal,vegetable fats and oils, cleavage products, et",World,World,98440000,30.8124247,34.8594762,,

@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Jordan,80,Tin and articles thereof,Northern America,Americas,8377
-1998,1998,Import,Jordan,80,Tin and articles thereof,Northern Europe,Europe,3411
-1998,1998,Import,Jordan,80,Tin and articles thereof,Western Asia,Asia,4662
-1998,1998,Import,Jordan,80,Tin and articles thereof,Western Europe,Europe,6339
-1998,1998,Import,Jordan,80,Tin and articles thereof,World,World,23882
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Jordan,80,Tin and articles thereof,Northern America,Americas,8377,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1998,1998,Import,Jordan,80,Tin and articles thereof,Northern Europe,Europe,3411,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1998,1998,Import,Jordan,80,Tin and articles thereof,Western Asia,Asia,4662,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1998,1998,Import,Jordan,80,Tin and articles thereof,Western Europe,Europe,6339,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1998,1998,Import,Jordan,80,Tin and articles thereof,World,World,23882,31.1667049,36.941628,,

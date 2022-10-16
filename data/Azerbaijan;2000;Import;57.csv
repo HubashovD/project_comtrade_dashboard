@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Central Asia,Asia,229
-2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Eastern Asia,Asia,2902
-2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Eastern Europe,Europe,1909
-2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,71
-2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Northern America,Americas,45513
-2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Northern Europe,Europe,35294
-2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Polynesia,Oceania,984
-2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,South-eastern Asia,Asia,16941
-2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Southern Asia,Asia,30949
-2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Southern Europe,Europe,2366
-2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Western Asia,Asia,1555080
-2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Western Europe,Europe,88485
-2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,World,World,1796539
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Central Asia,Asia,229,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Eastern Asia,Asia,2902,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Eastern Europe,Europe,1909,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,71,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Northern America,Americas,45513,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Northern Europe,Europe,35294,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Polynesia,Oceania,984,40.3936294,47.7872508,-5.109184731250752,167.40343615892436
+2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,South-eastern Asia,Asia,16941,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Southern Asia,Asia,30949,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Southern Europe,Europe,2366,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Western Asia,Asia,1555080,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,Western Europe,Europe,88485,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Import,Azerbaijan,57,Carpets and other textile floor coverings,World,World,1796539,40.3936294,47.7872508,,

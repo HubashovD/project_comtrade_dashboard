@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Jordan,81,Other base metals; cermets; articles thereof,Eastern Asia,Asia,1220
-2007,2007,Import,Jordan,81,Other base metals; cermets; articles thereof,Latin America and the Caribbean,Americas,8456
-2007,2007,Import,Jordan,81,Other base metals; cermets; articles thereof,Northern America,Americas,9429
-2007,2007,Import,Jordan,81,Other base metals; cermets; articles thereof,Northern Europe,Europe,6243
-2007,2007,Import,Jordan,81,Other base metals; cermets; articles thereof,Western Europe,Europe,128942
-2007,2007,Import,Jordan,81,Other base metals; cermets; articles thereof,World,World,154289
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Jordan,81,Other base metals; cermets; articles thereof,Eastern Asia,Asia,1220,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2007,2007,Import,Jordan,81,Other base metals; cermets; articles thereof,Latin America and the Caribbean,Americas,8456,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2007,2007,Import,Jordan,81,Other base metals; cermets; articles thereof,Northern America,Americas,9429,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2007,2007,Import,Jordan,81,Other base metals; cermets; articles thereof,Northern Europe,Europe,6243,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2007,2007,Import,Jordan,81,Other base metals; cermets; articles thereof,Western Europe,Europe,128942,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2007,2007,Import,Jordan,81,Other base metals; cermets; articles thereof,World,World,154289,31.1667049,36.941628,,

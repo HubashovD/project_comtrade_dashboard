@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Eastern Asia,Asia,21954204
-2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Eastern Europe,Europe,1442364
-2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,24036
-2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Northern America,Americas,717346
-2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Northern Europe,Europe,835657
-2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",South-eastern Asia,Asia,103272
-2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Southern Europe,Europe,40873109
-2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Western Asia,Asia,133744
-2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Western Europe,Europe,10147339
-2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",World,World,76760132
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Eastern Asia,Asia,21954204,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Eastern Europe,Europe,1442364,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,24036,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Northern America,Americas,717346,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Northern Europe,Europe,835657,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",South-eastern Asia,Asia,103272,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Southern Europe,Europe,40873109,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Western Asia,Asia,133744,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",Western Europe,Europe,10147339,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2020,2020,Import,Azerbaijan,89,"Ships, boats and floating structures",World,World,76760132,40.3936294,47.7872508,,

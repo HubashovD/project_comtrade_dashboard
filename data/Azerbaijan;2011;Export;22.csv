@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Central Asia,Asia,72821
-2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,97155
-2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,13313343
-2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,1451
-2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Northern America,Americas,40
-2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Northern Europe,Europe,626430
-2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Southern Europe,Europe,816
-2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Western Europe,Europe,373
-2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",World,World,15727027
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Central Asia,Asia,72821,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,97155,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,13313343,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,1451,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Northern America,Americas,40,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Northern Europe,Europe,626430,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Southern Europe,Europe,816,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",Western Europe,Europe,373,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2011,2011,Export,Azerbaijan,22,"Beverages, spirits and vinegar",World,World,15727027,40.3936294,47.7872508,,

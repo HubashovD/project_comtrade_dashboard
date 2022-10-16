@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Australia and New Zealand,Oceania,15309
-2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Eastern Asia,Asia,14394265
-2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Eastern Europe,Europe,56145
-2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Northern Africa,Africa,198178
-2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Northern America,Americas,14875
-2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Northern Europe,Europe,151940
-2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,South-eastern Asia,Asia,278138
-2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Southern Asia,Asia,2895
-2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Southern Europe,Europe,319534
-2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Sub-Saharan Africa,Africa,14392
-2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Western Asia,Asia,665583
-2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Western Europe,Europe,242894
-2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,World,World,18227858
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Australia and New Zealand,Oceania,15309,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Eastern Asia,Asia,14394265,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Eastern Europe,Europe,56145,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Northern Africa,Africa,198178,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Northern America,Americas,14875,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Northern Europe,Europe,151940,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,South-eastern Asia,Asia,278138,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Southern Asia,Asia,2895,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Southern Europe,Europe,319534,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Sub-Saharan Africa,Africa,14392,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Western Asia,Asia,665583,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,Western Europe,Europe,242894,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2018,2018,Import,Kuwait,60,Fabrics; knitted or crocheted,World,World,18227858,29.2733964,47.4979476,,

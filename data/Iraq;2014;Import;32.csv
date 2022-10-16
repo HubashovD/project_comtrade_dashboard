@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Australia and New Zealand,Oceania,34950
-2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Eastern Asia,Asia,7353475
-2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Northern Africa,Africa,6720
-2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Northern America,Americas,145134
-2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Southern Asia,Asia,13215
-2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Southern Europe,Europe,3975
-2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Sub-Saharan Africa,Africa,15006
-2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Western Asia,Asia,75262
-2014,2014,Import,Iraq,32,Tanning or dyeing extracts,World,World,22999229
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Australia and New Zealand,Oceania,34950,33.0955793,44.1749775,-16.85099460447687,133.4130365630627
+2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Eastern Asia,Asia,7353475,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Northern Africa,Africa,6720,33.0955793,44.1749775,19.569604022535763,12.47761721199581
+2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Northern America,Americas,145134,33.0955793,44.1749775,43.897683433510366,-100.08947125585888
+2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Southern Asia,Asia,13215,33.0955793,44.1749775,25.499703063807168,75.5024015339642
+2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Southern Europe,Europe,3975,33.0955793,44.1749775,40.12399607988535,20.742583178432696
+2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Sub-Saharan Africa,Africa,15006,33.0955793,44.1749775,6.06272746187266,22.727528470146083
+2014,2014,Import,Iraq,32,Tanning or dyeing extracts,Western Asia,Asia,75262,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,32,Tanning or dyeing extracts,World,World,22999229,33.0955793,44.1749775,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Australia and New Zealand,Oceania,6965
-1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Eastern Europe,Europe,81256
-1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Latin America and the Caribbean,Americas,956
-1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Northern Africa,Africa,6618
-1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Northern America,Americas,168326
-1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Northern Europe,Europe,36769
-1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",South-eastern Asia,Asia,744
-1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Southern Europe,Europe,61860
-1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Sub-Saharan Africa,Africa,56695
-1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Western Asia,Asia,2638
-1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Western Europe,Europe,124217
-1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",World,World,3042998
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Australia and New Zealand,Oceania,6965,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Eastern Europe,Europe,81256,33.8750629,35.843409,51.67568633314729,27.673469819741847
+1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Latin America and the Caribbean,Americas,956,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Northern Africa,Africa,6618,33.8750629,35.843409,19.569604022535763,12.47761721199581
+1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Northern America,Americas,168326,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Northern Europe,Europe,36769,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",South-eastern Asia,Asia,744,33.8750629,35.843409,10.528384761701911,103.08333472012376
+1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Southern Europe,Europe,61860,33.8750629,35.843409,40.12399607988535,20.742583178432696
+1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Sub-Saharan Africa,Africa,56695,33.8750629,35.843409,6.06272746187266,22.727528470146083
+1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Western Asia,Asia,2638,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",Western Europe,Europe,124217,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1997,1997,Export,Lebanon,42,"Articles of leather, animal gut, harness, travel goods",World,World,3042998,33.8750629,35.843409,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Jordan,72,Iron and steel,Eastern Asia,Asia,3557302
-1994,1994,Import,Jordan,72,Iron and steel,Eastern Europe,Europe,88963662
-1994,1994,Import,Jordan,72,Iron and steel,Latin America and the Caribbean,Americas,390463
-1994,1994,Import,Jordan,72,Iron and steel,Northern Africa,Africa,1847410
-1994,1994,Import,Jordan,72,Iron and steel,Northern America,Americas,378666
-1994,1994,Import,Jordan,72,Iron and steel,Northern Europe,Europe,2585599
-1994,1994,Import,Jordan,72,Iron and steel,South-eastern Asia,Asia,217321
-1994,1994,Import,Jordan,72,Iron and steel,Southern Europe,Europe,3557217
-1994,1994,Import,Jordan,72,Iron and steel,Sub-Saharan Africa,Africa,6275660
-1994,1994,Import,Jordan,72,Iron and steel,Western Asia,Asia,6446783
-1994,1994,Import,Jordan,72,Iron and steel,Western Europe,Europe,20531037
-1994,1994,Import,Jordan,72,Iron and steel,World,World,166446384
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Jordan,72,Iron and steel,Eastern Asia,Asia,3557302,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1994,1994,Import,Jordan,72,Iron and steel,Eastern Europe,Europe,88963662,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1994,1994,Import,Jordan,72,Iron and steel,Latin America and the Caribbean,Americas,390463,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1994,1994,Import,Jordan,72,Iron and steel,Northern Africa,Africa,1847410,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1994,1994,Import,Jordan,72,Iron and steel,Northern America,Americas,378666,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1994,1994,Import,Jordan,72,Iron and steel,Northern Europe,Europe,2585599,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Import,Jordan,72,Iron and steel,South-eastern Asia,Asia,217321,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1994,1994,Import,Jordan,72,Iron and steel,Southern Europe,Europe,3557217,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1994,1994,Import,Jordan,72,Iron and steel,Sub-Saharan Africa,Africa,6275660,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1994,1994,Import,Jordan,72,Iron and steel,Western Asia,Asia,6446783,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1994,1994,Import,Jordan,72,Iron and steel,Western Europe,Europe,20531037,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1994,1994,Import,Jordan,72,Iron and steel,World,World,166446384,31.1667049,36.941628,,

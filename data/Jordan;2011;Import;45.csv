@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Jordan,45,Cork and articles of cork,Eastern Asia,Asia,9535
-2011,2011,Import,Jordan,45,Cork and articles of cork,Northern Africa,Africa,207
-2011,2011,Import,Jordan,45,Cork and articles of cork,Northern America,Americas,434
-2011,2011,Import,Jordan,45,Cork and articles of cork,Southern Europe,Europe,113179
-2011,2011,Import,Jordan,45,Cork and articles of cork,Western Asia,Asia,1007
-2011,2011,Import,Jordan,45,Cork and articles of cork,Western Europe,Europe,23593
-2011,2011,Import,Jordan,45,Cork and articles of cork,World,World,149216
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Jordan,45,Cork and articles of cork,Eastern Asia,Asia,9535,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2011,2011,Import,Jordan,45,Cork and articles of cork,Northern Africa,Africa,207,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2011,2011,Import,Jordan,45,Cork and articles of cork,Northern America,Americas,434,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2011,2011,Import,Jordan,45,Cork and articles of cork,Southern Europe,Europe,113179,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2011,2011,Import,Jordan,45,Cork and articles of cork,Western Asia,Asia,1007,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2011,2011,Import,Jordan,45,Cork and articles of cork,Western Europe,Europe,23593,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2011,2011,Import,Jordan,45,Cork and articles of cork,World,World,149216,31.1667049,36.941628,,

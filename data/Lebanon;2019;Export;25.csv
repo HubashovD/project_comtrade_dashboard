@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Australia and New Zealand,Oceania,4582
-2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Eastern Asia,Asia,259091
-2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Latin America and the Caribbean,Americas,2570
-2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Northern Africa,Africa,16199
-2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Northern America,Americas,8115
-2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Northern Europe,Europe,5609
-2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",South-eastern Asia,Asia,84
-2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Southern Europe,Europe,334695
-2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Sub-Saharan Africa,Africa,116150
-2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Western Asia,Asia,1417574
-2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Western Europe,Europe,7929
-2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",World,World,3556882
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Australia and New Zealand,Oceania,4582,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Eastern Asia,Asia,259091,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Latin America and the Caribbean,Americas,2570,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Northern Africa,Africa,16199,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Northern America,Americas,8115,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Northern Europe,Europe,5609,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",South-eastern Asia,Asia,84,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Southern Europe,Europe,334695,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Sub-Saharan Africa,Africa,116150,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Western Asia,Asia,1417574,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Western Europe,Europe,7929,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2019,2019,Export,Lebanon,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",World,World,3556882,33.8750629,35.843409,,

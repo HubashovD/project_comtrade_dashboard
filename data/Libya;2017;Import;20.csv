@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Eastern Asia,Asia,2303402
-2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Eastern Europe,Europe,292270
-2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Latin America and the Caribbean,Americas,1258049
-2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Northern Africa,Africa,49764758
-2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Northern America,Americas,6075759
-2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Northern Europe,Europe,308944
-2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",South-eastern Asia,Asia,3268904
-2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Southern Europe,Europe,70641006
-2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Sub-Saharan Africa,Africa,820774
-2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Western Asia,Asia,3162423
-2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Western Europe,Europe,2376873
-2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",World,World,163961429
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Eastern Asia,Asia,2303402,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Eastern Europe,Europe,292270,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Latin America and the Caribbean,Americas,1258049,26.8234472,18.1236723,17.925141963241547,-78.01492950057497
+2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Northern Africa,Africa,49764758,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Northern America,Americas,6075759,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Northern Europe,Europe,308944,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",South-eastern Asia,Asia,3268904,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Southern Europe,Europe,70641006,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Sub-Saharan Africa,Africa,820774,26.8234472,18.1236723,6.06272746187266,22.727528470146083
+2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Western Asia,Asia,3162423,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",Western Europe,Europe,2376873,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2017,2017,Import,Libya,20,"Preparations of vegetables, fruit or nuts",World,World,163961429,26.8234472,18.1236723,,

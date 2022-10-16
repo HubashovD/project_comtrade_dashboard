@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Australia and New Zealand,Oceania,7563
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Central Asia,Asia,15053615
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Eastern Asia,Asia,37799177
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Eastern Europe,Europe,19566857
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,565455
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Northern Africa,Africa,220393
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Northern America,Americas,4817897
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Northern Europe,Europe,13518181
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,South-eastern Asia,Asia,6027326
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Southern Asia,Asia,28263922
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Southern Europe,Europe,4770326
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,6922
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Western Asia,Asia,115548278
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Western Europe,Europe,78386144
-2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,World,World,360984412
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Australia and New Zealand,Oceania,7563,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Central Asia,Asia,15053615,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Eastern Asia,Asia,37799177,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Eastern Europe,Europe,19566857,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,565455,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Northern Africa,Africa,220393,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Northern America,Americas,4817897,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Northern Europe,Europe,13518181,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,South-eastern Asia,Asia,6027326,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Southern Asia,Asia,28263922,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Southern Europe,Europe,4770326,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,6922,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Western Asia,Asia,115548278,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,Western Europe,Europe,78386144,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2012,2012,Import,Azerbaijan,39,Plastics and articles thereof,World,World,360984412,40.3936294,47.7872508,,

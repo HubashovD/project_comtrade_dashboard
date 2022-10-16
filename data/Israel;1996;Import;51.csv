@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Israel,51,"Wool, animal hair, horsehair yarn and fabric thereof",Australia and New Zealand,Oceania,2155000
-1996,1996,Import,Israel,51,"Wool, animal hair, horsehair yarn and fabric thereof",Latin America and the Caribbean,Americas,128000
-1996,1996,Import,Israel,51,"Wool, animal hair, horsehair yarn and fabric thereof",Northern America,Americas,405000
-1996,1996,Import,Israel,51,"Wool, animal hair, horsehair yarn and fabric thereof",Northern Europe,Europe,2046000
-1996,1996,Import,Israel,51,"Wool, animal hair, horsehair yarn and fabric thereof",Southern Europe,Europe,8417000
-1996,1996,Import,Israel,51,"Wool, animal hair, horsehair yarn and fabric thereof",Western Europe,Europe,12338000
-1996,1996,Import,Israel,51,"Wool, animal hair, horsehair yarn and fabric thereof",World,World,26541000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Israel,51,"Wool, animal hair, horsehair yarn and fabric thereof",Australia and New Zealand,Oceania,2155000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1996,1996,Import,Israel,51,"Wool, animal hair, horsehair yarn and fabric thereof",Latin America and the Caribbean,Americas,128000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1996,1996,Import,Israel,51,"Wool, animal hair, horsehair yarn and fabric thereof",Northern America,Americas,405000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1996,1996,Import,Israel,51,"Wool, animal hair, horsehair yarn and fabric thereof",Northern Europe,Europe,2046000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1996,1996,Import,Israel,51,"Wool, animal hair, horsehair yarn and fabric thereof",Southern Europe,Europe,8417000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1996,1996,Import,Israel,51,"Wool, animal hair, horsehair yarn and fabric thereof",Western Europe,Europe,12338000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1996,1996,Import,Israel,51,"Wool, animal hair, horsehair yarn and fabric thereof",World,World,26541000,30.8124247,34.8594762,,

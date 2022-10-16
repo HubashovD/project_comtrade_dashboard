@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Australia and New Zealand,Oceania,45
-2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Central Asia,Asia,1445664
-2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Asia,Asia,12711
-2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Europe,Europe,1934028
-2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Africa,Africa,246
-2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern America,Americas,678
-2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Europe,Europe,66315
-2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Southern Asia,Asia,8722
-2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Southern Europe,Europe,15
-2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Asia,Asia,102650
-2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Europe,Europe,196461
-2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",World,World,4609261
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Australia and New Zealand,Oceania,45,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Central Asia,Asia,1445664,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Asia,Asia,12711,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Europe,Europe,1934028,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Africa,Africa,246,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern America,Americas,678,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Europe,Europe,66315,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Southern Asia,Asia,8722,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Southern Europe,Europe,15,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Asia,Asia,102650,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Europe,Europe,196461,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2006,2006,Export,Azerbaijan,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",World,World,4609261,40.3936294,47.7872508,,

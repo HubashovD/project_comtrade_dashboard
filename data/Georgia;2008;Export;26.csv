@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Export,Georgia,26,"Ores, slag and ash",Central Asia,Asia,497884
-2008,2008,Export,Georgia,26,"Ores, slag and ash",Eastern Asia,Asia,1945
-2008,2008,Export,Georgia,26,"Ores, slag and ash",Eastern Europe,Europe,90934086
-2008,2008,Export,Georgia,26,"Ores, slag and ash",Northern Europe,Europe,11851854
-2008,2008,Export,Georgia,26,"Ores, slag and ash",Southern Europe,Europe,8985392
-2008,2008,Export,Georgia,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,12
-2008,2008,Export,Georgia,26,"Ores, slag and ash",Western Asia,Asia,27610
-2008,2008,Export,Georgia,26,"Ores, slag and ash",Western Europe,Europe,7301280
-2008,2008,Export,Georgia,26,"Ores, slag and ash",World,World,123468907
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Export,Georgia,26,"Ores, slag and ash",Central Asia,Asia,497884,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2008,2008,Export,Georgia,26,"Ores, slag and ash",Eastern Asia,Asia,1945,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2008,2008,Export,Georgia,26,"Ores, slag and ash",Eastern Europe,Europe,90934086,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2008,2008,Export,Georgia,26,"Ores, slag and ash",Northern Europe,Europe,11851854,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2008,2008,Export,Georgia,26,"Ores, slag and ash",Southern Europe,Europe,8985392,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2008,2008,Export,Georgia,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,12,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2008,2008,Export,Georgia,26,"Ores, slag and ash",Western Asia,Asia,27610,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2008,2008,Export,Georgia,26,"Ores, slag and ash",Western Europe,Europe,7301280,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2008,2008,Export,Georgia,26,"Ores, slag and ash",World,World,123468907,32.3293809,-83.1137366,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Israel,45,Cork and articles of cork,Australia and New Zealand,Oceania,2000
-2021,2021,Export,Israel,45,Cork and articles of cork,Eastern Asia,Asia,4000
-2021,2021,Export,Israel,45,Cork and articles of cork,Northern America,Americas,17000
-2021,2021,Export,Israel,45,Cork and articles of cork,Southern Europe,Europe,71000
-2021,2021,Export,Israel,45,Cork and articles of cork,Western Europe,Europe,4000
-2021,2021,Export,Israel,45,Cork and articles of cork,World,World,141000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Israel,45,Cork and articles of cork,Australia and New Zealand,Oceania,2000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2021,2021,Export,Israel,45,Cork and articles of cork,Eastern Asia,Asia,4000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2021,2021,Export,Israel,45,Cork and articles of cork,Northern America,Americas,17000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2021,2021,Export,Israel,45,Cork and articles of cork,Southern Europe,Europe,71000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2021,2021,Export,Israel,45,Cork and articles of cork,Western Europe,Europe,4000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2021,2021,Export,Israel,45,Cork and articles of cork,World,World,141000,30.8124247,34.8594762,,

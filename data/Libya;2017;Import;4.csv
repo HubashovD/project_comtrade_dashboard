@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Australia and New Zealand,Oceania,30189378
-2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Eastern Europe,Europe,12715078
-2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Latin America and the Caribbean,Americas,2035702
-2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Northern Africa,Africa,43532144
-2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Northern America,Americas,183829
-2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Northern Europe,Europe,20256671
-2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,South-eastern Asia,Asia,1111173
-2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Southern Europe,Europe,46198124
-2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Western Asia,Asia,5488804
-2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Western Europe,Europe,90104408
-2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,World,World,301010800
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Australia and New Zealand,Oceania,30189378,26.8234472,18.1236723,-16.85099460447687,133.4130365630627
+2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Eastern Europe,Europe,12715078,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Latin America and the Caribbean,Americas,2035702,26.8234472,18.1236723,17.925141963241547,-78.01492950057497
+2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Northern Africa,Africa,43532144,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Northern America,Americas,183829,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Northern Europe,Europe,20256671,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,South-eastern Asia,Asia,1111173,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Southern Europe,Europe,46198124,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Western Asia,Asia,5488804,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,Western Europe,Europe,90104408,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2017,2017,Import,Libya,4,Dairy produce; birds eggs; natural honey;,World,World,301010800,26.8234472,18.1236723,,

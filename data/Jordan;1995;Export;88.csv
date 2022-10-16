@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,31156212
-1995,1995,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,7894378
-1995,1995,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,968839
-1995,1995,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Western Asia,Asia,28503
-1995,1995,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,20891284
-1995,1995,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",World,World,62927356
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,31156212,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1995,1995,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,7894378,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1995,1995,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,968839,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Western Asia,Asia,28503,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1995,1995,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,20891284,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",World,World,62927356,31.1667049,36.941628,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Australia and New Zealand,Oceania,49000
-2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Eastern Asia,Asia,124000
-2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Eastern Europe,Europe,96000
-2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Northern America,Americas,4710000
-2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Northern Europe,Europe,5473000
-2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",South-eastern Asia,Asia,155000
-2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Southern Asia,Asia,3000
-2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Southern Europe,Europe,2112000
-2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Sub-Saharan Africa,Africa,1255000
-2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Western Europe,Europe,16625000
-2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",World,World,31056000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Australia and New Zealand,Oceania,49000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Eastern Asia,Asia,124000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Eastern Europe,Europe,96000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Northern America,Americas,4710000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Northern Europe,Europe,5473000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",South-eastern Asia,Asia,155000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Southern Asia,Asia,3000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Southern Europe,Europe,2112000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Sub-Saharan Africa,Africa,1255000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",Western Europe,Europe,16625000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2001,2001,Export,Israel,16,"Meat, fish and seafood food preparations nes",World,World,31056000,30.8124247,34.8594762,,

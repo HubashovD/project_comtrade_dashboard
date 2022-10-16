@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Kuwait,5,"Products of animal origin, not elsewhere specified",Eastern Asia,Asia,67374
-2008,2008,Import,Kuwait,5,"Products of animal origin, not elsewhere specified",Eastern Europe,Europe,27976
-2008,2008,Import,Kuwait,5,"Products of animal origin, not elsewhere specified",Latin America and the Caribbean,Americas,2153
-2008,2008,Import,Kuwait,5,"Products of animal origin, not elsewhere specified",Northern America,Americas,4043
-2008,2008,Import,Kuwait,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,11
-2008,2008,Import,Kuwait,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,1714
-2008,2008,Import,Kuwait,5,"Products of animal origin, not elsewhere specified",World,World,104414
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Kuwait,5,"Products of animal origin, not elsewhere specified",Eastern Asia,Asia,67374,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2008,2008,Import,Kuwait,5,"Products of animal origin, not elsewhere specified",Eastern Europe,Europe,27976,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2008,2008,Import,Kuwait,5,"Products of animal origin, not elsewhere specified",Latin America and the Caribbean,Americas,2153,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2008,2008,Import,Kuwait,5,"Products of animal origin, not elsewhere specified",Northern America,Americas,4043,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2008,2008,Import,Kuwait,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,11,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2008,2008,Import,Kuwait,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,1714,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Import,Kuwait,5,"Products of animal origin, not elsewhere specified",World,World,104414,29.2733964,47.4979476,,

@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Israel,38,Chemical products n.e.c.,Australia and New Zealand,Oceania,34223000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,Central Asia,Asia,112000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,Eastern Asia,Asia,134107000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,Eastern Europe,Europe,181228000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,317543000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,Melanesia,Oceania,21000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,Northern Africa,Africa,10386000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,Northern America,Americas,118219000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,Northern Europe,Europe,26503000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,South-eastern Asia,Asia,33303000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,Southern Asia,Asia,1095000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,Southern Europe,Europe,488821000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,27146000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,Western Asia,Asia,870003000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,Western Europe,Europe,254547000
-2021,2021,Export,Israel,38,Chemical products n.e.c.,World,World,3240947000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Israel,38,Chemical products n.e.c.,Australia and New Zealand,Oceania,34223000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2021,2021,Export,Israel,38,Chemical products n.e.c.,Central Asia,Asia,112000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2021,2021,Export,Israel,38,Chemical products n.e.c.,Eastern Asia,Asia,134107000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2021,2021,Export,Israel,38,Chemical products n.e.c.,Eastern Europe,Europe,181228000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2021,2021,Export,Israel,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,317543000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2021,2021,Export,Israel,38,Chemical products n.e.c.,Melanesia,Oceania,21000,30.8124247,34.8594762,1.0108650891006263,147.3257485906919
+2021,2021,Export,Israel,38,Chemical products n.e.c.,Northern Africa,Africa,10386000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2021,2021,Export,Israel,38,Chemical products n.e.c.,Northern America,Americas,118219000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2021,2021,Export,Israel,38,Chemical products n.e.c.,Northern Europe,Europe,26503000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2021,2021,Export,Israel,38,Chemical products n.e.c.,South-eastern Asia,Asia,33303000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2021,2021,Export,Israel,38,Chemical products n.e.c.,Southern Asia,Asia,1095000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2021,2021,Export,Israel,38,Chemical products n.e.c.,Southern Europe,Europe,488821000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2021,2021,Export,Israel,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,27146000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2021,2021,Export,Israel,38,Chemical products n.e.c.,Western Asia,Asia,870003000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2021,2021,Export,Israel,38,Chemical products n.e.c.,Western Europe,Europe,254547000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2021,2021,Export,Israel,38,Chemical products n.e.c.,World,World,3240947000,30.8124247,34.8594762,,

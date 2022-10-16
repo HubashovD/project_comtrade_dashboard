@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Export,Israel,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,37000
-2008,2008,Export,Israel,99,Commodities not specified according to kind,Central Asia,Asia,6000
-2008,2008,Export,Israel,99,Commodities not specified according to kind,Eastern Asia,Asia,792000
-2008,2008,Export,Israel,99,Commodities not specified according to kind,Eastern Europe,Europe,33000
-2008,2008,Export,Israel,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,84000
-2008,2008,Export,Israel,99,Commodities not specified according to kind,Northern Africa,Africa,505000
-2008,2008,Export,Israel,99,Commodities not specified according to kind,Northern America,Americas,3046000
-2008,2008,Export,Israel,99,Commodities not specified according to kind,Northern Europe,Europe,1308000
-2008,2008,Export,Israel,99,Commodities not specified according to kind,South-eastern Asia,Asia,90000
-2008,2008,Export,Israel,99,Commodities not specified according to kind,Southern Europe,Europe,497000
-2008,2008,Export,Israel,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,215000
-2008,2008,Export,Israel,99,Commodities not specified according to kind,Western Asia,Asia,554000
-2008,2008,Export,Israel,99,Commodities not specified according to kind,Western Europe,Europe,2962000
-2008,2008,Export,Israel,99,Commodities not specified according to kind,World,World,11127000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Export,Israel,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,37000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2008,2008,Export,Israel,99,Commodities not specified according to kind,Central Asia,Asia,6000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2008,2008,Export,Israel,99,Commodities not specified according to kind,Eastern Asia,Asia,792000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2008,2008,Export,Israel,99,Commodities not specified according to kind,Eastern Europe,Europe,33000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2008,2008,Export,Israel,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,84000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2008,2008,Export,Israel,99,Commodities not specified according to kind,Northern Africa,Africa,505000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2008,2008,Export,Israel,99,Commodities not specified according to kind,Northern America,Americas,3046000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2008,2008,Export,Israel,99,Commodities not specified according to kind,Northern Europe,Europe,1308000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2008,2008,Export,Israel,99,Commodities not specified according to kind,South-eastern Asia,Asia,90000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2008,2008,Export,Israel,99,Commodities not specified according to kind,Southern Europe,Europe,497000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2008,2008,Export,Israel,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,215000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2008,2008,Export,Israel,99,Commodities not specified according to kind,Western Asia,Asia,554000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2008,2008,Export,Israel,99,Commodities not specified according to kind,Western Europe,Europe,2962000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2008,2008,Export,Israel,99,Commodities not specified according to kind,World,World,11127000,30.8124247,34.8594762,,

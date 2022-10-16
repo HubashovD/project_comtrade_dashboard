@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,40643
-2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Central Asia,Asia,158730
-2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,316
-2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,1020503
-2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,49151
-2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,20162
-2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,1182
-2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,2201
-2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,1551
-2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,3882
-2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,17955
-2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,1471462
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Australia and New Zealand,Oceania,40643,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Central Asia,Asia,158730,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,316,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,1020503,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,49151,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,20162,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,1182,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,2201,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Asia,Asia,1551,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,3882,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,17955,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2006,2006,Import,Azerbaijan,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,1471462,40.3936294,47.7872508,,

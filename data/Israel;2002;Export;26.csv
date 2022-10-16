@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Israel,26,"Ores, slag and ash",Eastern Asia,Asia,85000
-2002,2002,Export,Israel,26,"Ores, slag and ash",Northern America,Americas,277000
-2002,2002,Export,Israel,26,"Ores, slag and ash",Northern Europe,Europe,2000
-2002,2002,Export,Israel,26,"Ores, slag and ash",South-eastern Asia,Asia,51000
-2002,2002,Export,Israel,26,"Ores, slag and ash",Southern Europe,Europe,438000
-2002,2002,Export,Israel,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,129000
-2002,2002,Export,Israel,26,"Ores, slag and ash",Western Asia,Asia,23000
-2002,2002,Export,Israel,26,"Ores, slag and ash",Western Europe,Europe,98000
-2002,2002,Export,Israel,26,"Ores, slag and ash",World,World,1153000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Israel,26,"Ores, slag and ash",Eastern Asia,Asia,85000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2002,2002,Export,Israel,26,"Ores, slag and ash",Northern America,Americas,277000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2002,2002,Export,Israel,26,"Ores, slag and ash",Northern Europe,Europe,2000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2002,2002,Export,Israel,26,"Ores, slag and ash",South-eastern Asia,Asia,51000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2002,2002,Export,Israel,26,"Ores, slag and ash",Southern Europe,Europe,438000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2002,2002,Export,Israel,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,129000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2002,2002,Export,Israel,26,"Ores, slag and ash",Western Asia,Asia,23000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2002,2002,Export,Israel,26,"Ores, slag and ash",Western Europe,Europe,98000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2002,2002,Export,Israel,26,"Ores, slag and ash",World,World,1153000,30.8124247,34.8594762,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Libya,1,Live animals,Australia and New Zealand,Oceania,2453783
-2008,2008,Import,Libya,1,Live animals,Eastern Europe,Europe,2210686
-2008,2008,Import,Libya,1,Live animals,Latin America and the Caribbean,Americas,76261
-2008,2008,Import,Libya,1,Live animals,Northern Africa,Africa,14658
-2008,2008,Import,Libya,1,Live animals,Sub-Saharan Africa,Africa,599471
-2008,2008,Import,Libya,1,Live animals,Western Asia,Asia,520812
-2008,2008,Import,Libya,1,Live animals,World,World,5875672
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Libya,1,Live animals,Australia and New Zealand,Oceania,2453783,26.8234472,18.1236723,-16.85099460447687,133.4130365630627
+2008,2008,Import,Libya,1,Live animals,Eastern Europe,Europe,2210686,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2008,2008,Import,Libya,1,Live animals,Latin America and the Caribbean,Americas,76261,26.8234472,18.1236723,17.925141963241547,-78.01492950057497
+2008,2008,Import,Libya,1,Live animals,Northern Africa,Africa,14658,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2008,2008,Import,Libya,1,Live animals,Sub-Saharan Africa,Africa,599471,26.8234472,18.1236723,6.06272746187266,22.727528470146083
+2008,2008,Import,Libya,1,Live animals,Western Asia,Asia,520812,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2008,2008,Import,Libya,1,Live animals,World,World,5875672,26.8234472,18.1236723,,

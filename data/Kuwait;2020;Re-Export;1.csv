@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Re-Export,Kuwait,1,Animals; live,Northern America,Americas,1375
-2020,2020,Re-Export,Kuwait,1,Animals; live,Northern Europe,Europe,29810
-2020,2020,Re-Export,Kuwait,1,Animals; live,South-eastern Asia,Asia,7220
-2020,2020,Re-Export,Kuwait,1,Animals; live,Sub-Saharan Africa,Africa,3253
-2020,2020,Re-Export,Kuwait,1,Animals; live,World,World,157011
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Re-Export,Kuwait,1,Animals; live,Northern America,Americas,1375,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2020,2020,Re-Export,Kuwait,1,Animals; live,Northern Europe,Europe,29810,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2020,2020,Re-Export,Kuwait,1,Animals; live,South-eastern Asia,Asia,7220,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2020,2020,Re-Export,Kuwait,1,Animals; live,Sub-Saharan Africa,Africa,3253,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2020,2020,Re-Export,Kuwait,1,Animals; live,World,World,157011,29.2733964,47.4979476,,

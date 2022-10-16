@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Australia and New Zealand,Oceania,78515
-2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Eastern Asia,Asia,261190
-2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Eastern Europe,Europe,3663834
-2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,2893833
-2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Northern America,Americas,4175606
-2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Northern Europe,Europe,353183
-2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Southern Europe,Europe,656266
-2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Western Asia,Asia,1062648
-2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Western Europe,Europe,810068
-2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,World,World,19460509
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Australia and New Zealand,Oceania,78515,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Eastern Asia,Asia,261190,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Eastern Europe,Europe,3663834,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,2893833,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Northern America,Americas,4175606,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Northern Europe,Europe,353183,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Southern Europe,Europe,656266,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Western Asia,Asia,1062648,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,Western Europe,Europe,810068,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2014,2014,Import,Azerbaijan,2,Meat and edible meat offal,World,World,19460509,40.3936294,47.7872508,,

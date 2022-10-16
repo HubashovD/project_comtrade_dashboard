@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Re-Export,Kuwait,11,"Milling products, malt, starches, inulin, wheat glute",Eastern Europe,Europe,65
-2001,2001,Re-Export,Kuwait,11,"Milling products, malt, starches, inulin, wheat glute",Northern Europe,Europe,10
-2001,2001,Re-Export,Kuwait,11,"Milling products, malt, starches, inulin, wheat glute",South-eastern Asia,Asia,170
-2001,2001,Re-Export,Kuwait,11,"Milling products, malt, starches, inulin, wheat glute",Southern Asia,Asia,7496
-2001,2001,Re-Export,Kuwait,11,"Milling products, malt, starches, inulin, wheat glute",World,World,18011
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Re-Export,Kuwait,11,"Milling products, malt, starches, inulin, wheat glute",Eastern Europe,Europe,65,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2001,2001,Re-Export,Kuwait,11,"Milling products, malt, starches, inulin, wheat glute",Northern Europe,Europe,10,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2001,2001,Re-Export,Kuwait,11,"Milling products, malt, starches, inulin, wheat glute",South-eastern Asia,Asia,170,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2001,2001,Re-Export,Kuwait,11,"Milling products, malt, starches, inulin, wheat glute",Southern Asia,Asia,7496,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2001,2001,Re-Export,Kuwait,11,"Milling products, malt, starches, inulin, wheat glute",World,World,18011,29.2733964,47.4979476,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Re-Export,Jordan,69,Ceramic products,Central Asia,Asia,5059
-2017,2017,Re-Export,Jordan,69,Ceramic products,Eastern Asia,Asia,158805
-2017,2017,Re-Export,Jordan,69,Ceramic products,Eastern Europe,Europe,2161
-2017,2017,Re-Export,Jordan,69,Ceramic products,Latin America and the Caribbean,Americas,1000
-2017,2017,Re-Export,Jordan,69,Ceramic products,Northern Africa,Africa,148346
-2017,2017,Re-Export,Jordan,69,Ceramic products,Northern America,Americas,32630
-2017,2017,Re-Export,Jordan,69,Ceramic products,Northern Europe,Europe,1997
-2017,2017,Re-Export,Jordan,69,Ceramic products,Southern Asia,Asia,18984
-2017,2017,Re-Export,Jordan,69,Ceramic products,Southern Europe,Europe,111012
-2017,2017,Re-Export,Jordan,69,Ceramic products,Western Asia,Asia,8330
-2017,2017,Re-Export,Jordan,69,Ceramic products,Western Europe,Europe,51860
-2017,2017,Re-Export,Jordan,69,Ceramic products,World,World,1988510
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Re-Export,Jordan,69,Ceramic products,Central Asia,Asia,5059,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2017,2017,Re-Export,Jordan,69,Ceramic products,Eastern Asia,Asia,158805,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2017,2017,Re-Export,Jordan,69,Ceramic products,Eastern Europe,Europe,2161,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2017,2017,Re-Export,Jordan,69,Ceramic products,Latin America and the Caribbean,Americas,1000,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2017,2017,Re-Export,Jordan,69,Ceramic products,Northern Africa,Africa,148346,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2017,2017,Re-Export,Jordan,69,Ceramic products,Northern America,Americas,32630,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2017,2017,Re-Export,Jordan,69,Ceramic products,Northern Europe,Europe,1997,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2017,2017,Re-Export,Jordan,69,Ceramic products,Southern Asia,Asia,18984,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2017,2017,Re-Export,Jordan,69,Ceramic products,Southern Europe,Europe,111012,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2017,2017,Re-Export,Jordan,69,Ceramic products,Western Asia,Asia,8330,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2017,2017,Re-Export,Jordan,69,Ceramic products,Western Europe,Europe,51860,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2017,2017,Re-Export,Jordan,69,Ceramic products,World,World,1988510,31.1667049,36.941628,,

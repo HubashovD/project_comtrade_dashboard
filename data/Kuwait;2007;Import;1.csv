@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Kuwait,1,Live animals,Australia and New Zealand,Oceania,64900143
-2007,2007,Import,Kuwait,1,Live animals,Eastern Asia,Asia,66522
-2007,2007,Import,Kuwait,1,Live animals,Eastern Europe,Europe,322703
-2007,2007,Import,Kuwait,1,Live animals,Latin America and the Caribbean,Americas,2428
-2007,2007,Import,Kuwait,1,Live animals,Northern Africa,Africa,741404
-2007,2007,Import,Kuwait,1,Live animals,Northern America,Americas,601051
-2007,2007,Import,Kuwait,1,Live animals,Northern Europe,Europe,1017159
-2007,2007,Import,Kuwait,1,Live animals,South-eastern Asia,Asia,17565
-2007,2007,Import,Kuwait,1,Live animals,Southern Asia,Asia,41950204
-2007,2007,Import,Kuwait,1,Live animals,Southern Europe,Europe,9273
-2007,2007,Import,Kuwait,1,Live animals,Sub-Saharan Africa,Africa,3667739
-2007,2007,Import,Kuwait,1,Live animals,Western Asia,Asia,4731718
-2007,2007,Import,Kuwait,1,Live animals,Western Europe,Europe,2013300
-2007,2007,Import,Kuwait,1,Live animals,World,World,137142762
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Kuwait,1,Live animals,Australia and New Zealand,Oceania,64900143,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2007,2007,Import,Kuwait,1,Live animals,Eastern Asia,Asia,66522,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2007,2007,Import,Kuwait,1,Live animals,Eastern Europe,Europe,322703,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2007,2007,Import,Kuwait,1,Live animals,Latin America and the Caribbean,Americas,2428,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2007,2007,Import,Kuwait,1,Live animals,Northern Africa,Africa,741404,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2007,2007,Import,Kuwait,1,Live animals,Northern America,Americas,601051,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2007,2007,Import,Kuwait,1,Live animals,Northern Europe,Europe,1017159,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2007,2007,Import,Kuwait,1,Live animals,South-eastern Asia,Asia,17565,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2007,2007,Import,Kuwait,1,Live animals,Southern Asia,Asia,41950204,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2007,2007,Import,Kuwait,1,Live animals,Southern Europe,Europe,9273,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2007,2007,Import,Kuwait,1,Live animals,Sub-Saharan Africa,Africa,3667739,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2007,2007,Import,Kuwait,1,Live animals,Western Asia,Asia,4731718,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2007,2007,Import,Kuwait,1,Live animals,Western Europe,Europe,2013300,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2007,2007,Import,Kuwait,1,Live animals,World,World,137142762,29.2733964,47.4979476,,

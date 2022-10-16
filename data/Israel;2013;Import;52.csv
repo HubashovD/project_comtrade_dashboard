@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Israel,52,Cotton,Eastern Asia,Asia,33541000
-2013,2013,Import,Israel,52,Cotton,Eastern Europe,Europe,271000
-2013,2013,Import,Israel,52,Cotton,Latin America and the Caribbean,Americas,262000
-2013,2013,Import,Israel,52,Cotton,Northern Africa,Africa,280000
-2013,2013,Import,Israel,52,Cotton,Northern America,Americas,3254000
-2013,2013,Import,Israel,52,Cotton,Northern Europe,Europe,705000
-2013,2013,Import,Israel,52,Cotton,South-eastern Asia,Asia,4471000
-2013,2013,Import,Israel,52,Cotton,Southern Asia,Asia,3000
-2013,2013,Import,Israel,52,Cotton,Southern Europe,Europe,3393000
-2013,2013,Import,Israel,52,Cotton,Sub-Saharan Africa,Africa,287000
-2013,2013,Import,Israel,52,Cotton,Western Asia,Asia,6709000
-2013,2013,Import,Israel,52,Cotton,Western Europe,Europe,2066000
-2013,2013,Import,Israel,52,Cotton,World,World,76017000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Israel,52,Cotton,Eastern Asia,Asia,33541000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2013,2013,Import,Israel,52,Cotton,Eastern Europe,Europe,271000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2013,2013,Import,Israel,52,Cotton,Latin America and the Caribbean,Americas,262000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2013,2013,Import,Israel,52,Cotton,Northern Africa,Africa,280000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2013,2013,Import,Israel,52,Cotton,Northern America,Americas,3254000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2013,2013,Import,Israel,52,Cotton,Northern Europe,Europe,705000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2013,2013,Import,Israel,52,Cotton,South-eastern Asia,Asia,4471000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2013,2013,Import,Israel,52,Cotton,Southern Asia,Asia,3000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2013,2013,Import,Israel,52,Cotton,Southern Europe,Europe,3393000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2013,2013,Import,Israel,52,Cotton,Sub-Saharan Africa,Africa,287000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2013,2013,Import,Israel,52,Cotton,Western Asia,Asia,6709000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2013,2013,Import,Israel,52,Cotton,Western Europe,Europe,2066000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2013,2013,Import,Israel,52,Cotton,World,World,76017000,30.8124247,34.8594762,,

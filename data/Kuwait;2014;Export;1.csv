@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Export,Kuwait,1,Animals; live,Australia and New Zealand,Oceania,355
-2014,2014,Export,Kuwait,1,Animals; live,Eastern Asia,Asia,777
-2014,2014,Export,Kuwait,1,Animals; live,Eastern Europe,Europe,623
-2014,2014,Export,Kuwait,1,Animals; live,Latin America and the Caribbean,Americas,343
-2014,2014,Export,Kuwait,1,Animals; live,Northern Africa,Africa,1549
-2014,2014,Export,Kuwait,1,Animals; live,Northern America,Americas,25446
-2014,2014,Export,Kuwait,1,Animals; live,Northern Europe,Europe,7202
-2014,2014,Export,Kuwait,1,Animals; live,South-eastern Asia,Asia,20906
-2014,2014,Export,Kuwait,1,Animals; live,Southern Asia,Asia,222782
-2014,2014,Export,Kuwait,1,Animals; live,Southern Europe,Europe,2110
-2014,2014,Export,Kuwait,1,Animals; live,Sub-Saharan Africa,Africa,16451
-2014,2014,Export,Kuwait,1,Animals; live,Western Europe,Europe,182233
-2014,2014,Export,Kuwait,1,Animals; live,World,World,6037888
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Export,Kuwait,1,Animals; live,Australia and New Zealand,Oceania,355,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2014,2014,Export,Kuwait,1,Animals; live,Eastern Asia,Asia,777,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2014,2014,Export,Kuwait,1,Animals; live,Eastern Europe,Europe,623,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2014,2014,Export,Kuwait,1,Animals; live,Latin America and the Caribbean,Americas,343,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2014,2014,Export,Kuwait,1,Animals; live,Northern Africa,Africa,1549,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2014,2014,Export,Kuwait,1,Animals; live,Northern America,Americas,25446,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2014,2014,Export,Kuwait,1,Animals; live,Northern Europe,Europe,7202,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2014,2014,Export,Kuwait,1,Animals; live,South-eastern Asia,Asia,20906,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2014,2014,Export,Kuwait,1,Animals; live,Southern Asia,Asia,222782,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2014,2014,Export,Kuwait,1,Animals; live,Southern Europe,Europe,2110,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2014,2014,Export,Kuwait,1,Animals; live,Sub-Saharan Africa,Africa,16451,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2014,2014,Export,Kuwait,1,Animals; live,Western Europe,Europe,182233,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2014,2014,Export,Kuwait,1,Animals; live,World,World,6037888,29.2733964,47.4979476,,

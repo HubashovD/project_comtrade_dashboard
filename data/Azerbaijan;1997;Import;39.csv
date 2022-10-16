@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Central Asia,Asia,5448
-1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Eastern Asia,Asia,43878
-1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Eastern Europe,Europe,3062201
-1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,14669
-1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Northern America,Americas,9968
-1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Northern Europe,Europe,138062
-1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,South-eastern Asia,Asia,4000
-1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Southern Asia,Asia,1182423
-1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Southern Europe,Europe,967257
-1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Western Asia,Asia,6122005
-1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Western Europe,Europe,1432642
-1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,World,World,13562827
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Central Asia,Asia,5448,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Eastern Asia,Asia,43878,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Eastern Europe,Europe,3062201,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,14669,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Northern America,Americas,9968,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Northern Europe,Europe,138062,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,South-eastern Asia,Asia,4000,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Southern Asia,Asia,1182423,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Southern Europe,Europe,967257,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Western Asia,Asia,6122005,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,Western Europe,Europe,1432642,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1997,1997,Import,Azerbaijan,39,Plastics and articles thereof,World,World,13562827,40.3936294,47.7872508,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,1544
-2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Eastern Asia,Asia,9499
-2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Eastern Europe,Europe,22433
-2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,12976
-2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Northern Africa,Africa,9231
-2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Northern America,Americas,87320
-2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Northern Europe,Europe,1086
-2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,6572
-2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Southern Europe,Europe,1391
-2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,39172
-2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Western Asia,Asia,6614
-2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Western Europe,Europe,37550
-2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,World,World,598720
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,1544,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Eastern Asia,Asia,9499,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Eastern Europe,Europe,22433,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,12976,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Northern Africa,Africa,9231,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Northern America,Americas,87320,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Northern Europe,Europe,1086,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,6572,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Southern Europe,Europe,1391,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,39172,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Western Asia,Asia,6614,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,Western Europe,Europe,37550,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Export,Lebanon,96,Miscellaneous manufactured articles,World,World,598720,33.8750629,35.843409,,

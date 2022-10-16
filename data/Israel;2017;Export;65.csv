@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Israel,65,Headgear and parts thereof,Australia and New Zealand,Oceania,14000
-2017,2017,Export,Israel,65,Headgear and parts thereof,Central Asia,Asia,2000
-2017,2017,Export,Israel,65,Headgear and parts thereof,Eastern Asia,Asia,67000
-2017,2017,Export,Israel,65,Headgear and parts thereof,Eastern Europe,Europe,8000
-2017,2017,Export,Israel,65,Headgear and parts thereof,Latin America and the Caribbean,Americas,55000
-2017,2017,Export,Israel,65,Headgear and parts thereof,Northern America,Americas,5231000
-2017,2017,Export,Israel,65,Headgear and parts thereof,Northern Europe,Europe,191000
-2017,2017,Export,Israel,65,Headgear and parts thereof,South-eastern Asia,Asia,95000
-2017,2017,Export,Israel,65,Headgear and parts thereof,Southern Europe,Europe,325000
-2017,2017,Export,Israel,65,Headgear and parts thereof,Sub-Saharan Africa,Africa,64000
-2017,2017,Export,Israel,65,Headgear and parts thereof,Western Asia,Asia,23000
-2017,2017,Export,Israel,65,Headgear and parts thereof,Western Europe,Europe,131000
-2017,2017,Export,Israel,65,Headgear and parts thereof,World,World,6705000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Israel,65,Headgear and parts thereof,Australia and New Zealand,Oceania,14000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2017,2017,Export,Israel,65,Headgear and parts thereof,Central Asia,Asia,2000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2017,2017,Export,Israel,65,Headgear and parts thereof,Eastern Asia,Asia,67000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2017,2017,Export,Israel,65,Headgear and parts thereof,Eastern Europe,Europe,8000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2017,2017,Export,Israel,65,Headgear and parts thereof,Latin America and the Caribbean,Americas,55000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2017,2017,Export,Israel,65,Headgear and parts thereof,Northern America,Americas,5231000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2017,2017,Export,Israel,65,Headgear and parts thereof,Northern Europe,Europe,191000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2017,2017,Export,Israel,65,Headgear and parts thereof,South-eastern Asia,Asia,95000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2017,2017,Export,Israel,65,Headgear and parts thereof,Southern Europe,Europe,325000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2017,2017,Export,Israel,65,Headgear and parts thereof,Sub-Saharan Africa,Africa,64000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2017,2017,Export,Israel,65,Headgear and parts thereof,Western Asia,Asia,23000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2017,2017,Export,Israel,65,Headgear and parts thereof,Western Europe,Europe,131000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2017,2017,Export,Israel,65,Headgear and parts thereof,World,World,6705000,30.8124247,34.8594762,,

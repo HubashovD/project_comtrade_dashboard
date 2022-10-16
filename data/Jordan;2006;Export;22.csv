@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,1623
-2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",Northern Africa,Africa,34562
-2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",Northern America,Americas,25972
-2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",Northern Europe,Europe,392
-2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,10255
-2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",Western Asia,Asia,7441255
-2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",Western Europe,Europe,262
-2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",World,World,31682150
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,1623,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",Northern Africa,Africa,34562,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",Northern America,Americas,25972,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",Northern Europe,Europe,392,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,10255,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",Western Asia,Asia,7441255,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",Western Europe,Europe,262,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2006,2006,Export,Jordan,22,"Beverages, spirits and vinegar",World,World,31682150,31.1667049,36.941628,,

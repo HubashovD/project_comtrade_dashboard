@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Australia and New Zealand,Oceania,148158
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Central Asia,Asia,6300
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Eastern Asia,Asia,1805
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Eastern Europe,Europe,38385
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Latin America and the Caribbean,Americas,148077
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Northern Africa,Africa,72326
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Northern America,Americas,1590686
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Northern Europe,Europe,791865
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,258
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Southern Asia,Asia,87666
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,46952
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,979015
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Western Asia,Asia,591637
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Western Europe,Europe,751475
-2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",World,World,9072344
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Australia and New Zealand,Oceania,148158,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Central Asia,Asia,6300,33.8750629,35.843409,39.89317229901691,61.060280637304274
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Eastern Asia,Asia,1805,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Eastern Europe,Europe,38385,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Latin America and the Caribbean,Americas,148077,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Northern Africa,Africa,72326,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Northern America,Americas,1590686,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Northern Europe,Europe,791865,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,258,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Southern Asia,Asia,87666,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,46952,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,979015,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Western Asia,Asia,591637,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",Western Europe,Europe,751475,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2006,2006,Export,Lebanon,9,"Coffee, tea, matΦ and spices",World,World,9072344,33.8750629,35.843409,,

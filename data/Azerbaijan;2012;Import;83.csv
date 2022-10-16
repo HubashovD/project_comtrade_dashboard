@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Australia and New Zealand,Oceania,705
-2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Central Asia,Asia,50422
-2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,1021486
-2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,3131203
-2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,48533
-2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Northern America,Americas,1014894
-2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,2944753
-2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,165315
-2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Southern Asia,Asia,46370
-2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,1106754
-2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Western Asia,Asia,9036974
-2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Western Europe,Europe,7018687
-2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,World,World,26154133
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Australia and New Zealand,Oceania,705,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Central Asia,Asia,50422,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,1021486,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,3131203,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,48533,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Northern America,Americas,1014894,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,2944753,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,165315,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Southern Asia,Asia,46370,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,1106754,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Western Asia,Asia,9036974,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,Western Europe,Europe,7018687,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2012,2012,Import,Azerbaijan,83,Metal; miscellaneous products of base metal,World,World,26154133,40.3936294,47.7872508,,

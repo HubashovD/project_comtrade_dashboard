@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Export,Jordan,30,Pharmaceutical products,Australia and New Zealand,Oceania,34524
-2013,2013,Export,Jordan,30,Pharmaceutical products,Central Asia,Asia,666217
-2013,2013,Export,Jordan,30,Pharmaceutical products,Eastern Asia,Asia,255635
-2013,2013,Export,Jordan,30,Pharmaceutical products,Eastern Europe,Europe,10071355
-2013,2013,Export,Jordan,30,Pharmaceutical products,Northern Africa,Africa,71326026
-2013,2013,Export,Jordan,30,Pharmaceutical products,Northern America,Americas,19485993
-2013,2013,Export,Jordan,30,Pharmaceutical products,Northern Europe,Europe,1079382
-2013,2013,Export,Jordan,30,Pharmaceutical products,South-eastern Asia,Asia,542470
-2013,2013,Export,Jordan,30,Pharmaceutical products,Southern Asia,Asia,255753
-2013,2013,Export,Jordan,30,Pharmaceutical products,Southern Europe,Europe,1525225
-2013,2013,Export,Jordan,30,Pharmaceutical products,Sub-Saharan Africa,Africa,11737624
-2013,2013,Export,Jordan,30,Pharmaceutical products,Western Asia,Asia,2807393
-2013,2013,Export,Jordan,30,Pharmaceutical products,Western Europe,Europe,2131209
-2013,2013,Export,Jordan,30,Pharmaceutical products,World,World,720894584
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Export,Jordan,30,Pharmaceutical products,Australia and New Zealand,Oceania,34524,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2013,2013,Export,Jordan,30,Pharmaceutical products,Central Asia,Asia,666217,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2013,2013,Export,Jordan,30,Pharmaceutical products,Eastern Asia,Asia,255635,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2013,2013,Export,Jordan,30,Pharmaceutical products,Eastern Europe,Europe,10071355,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2013,2013,Export,Jordan,30,Pharmaceutical products,Northern Africa,Africa,71326026,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2013,2013,Export,Jordan,30,Pharmaceutical products,Northern America,Americas,19485993,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2013,2013,Export,Jordan,30,Pharmaceutical products,Northern Europe,Europe,1079382,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2013,2013,Export,Jordan,30,Pharmaceutical products,South-eastern Asia,Asia,542470,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2013,2013,Export,Jordan,30,Pharmaceutical products,Southern Asia,Asia,255753,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2013,2013,Export,Jordan,30,Pharmaceutical products,Southern Europe,Europe,1525225,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2013,2013,Export,Jordan,30,Pharmaceutical products,Sub-Saharan Africa,Africa,11737624,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2013,2013,Export,Jordan,30,Pharmaceutical products,Western Asia,Asia,2807393,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2013,2013,Export,Jordan,30,Pharmaceutical products,Western Europe,Europe,2131209,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2013,2013,Export,Jordan,30,Pharmaceutical products,World,World,720894584,31.1667049,36.941628,,

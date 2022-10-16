@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,635
-2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Central Asia,Asia,6455514
-2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Eastern Asia,Asia,15146961
-2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Eastern Europe,Europe,16255921
-2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,825
-2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Northern America,Americas,55592310
-2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Northern Europe,Europe,5967054
-2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,South-eastern Asia,Asia,273
-2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Southern Europe,Europe,2350045
-2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,829
-2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Western Asia,Asia,86444017
-2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Western Europe,Europe,6176
-2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,World,World,188529235
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,635,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Central Asia,Asia,6455514,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Eastern Asia,Asia,15146961,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Eastern Europe,Europe,16255921,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,825,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Northern America,Americas,55592310,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Northern Europe,Europe,5967054,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,South-eastern Asia,Asia,273,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Southern Europe,Europe,2350045,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,829,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Western Asia,Asia,86444017,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,Western Europe,Europe,6176,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2021,2021,Export,Azerbaijan,76,Aluminium and articles thereof,World,World,188529235,40.3936294,47.7872508,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Australia and New Zealand,Oceania,7643
-2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,21794511
-2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,590675
-2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,175810
-2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Northern Africa,Africa,251727
-2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Northern America,Americas,1103394
-2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,1054943
-2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,698494
-2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Southern Asia,Asia,4616
-2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,10976261
-2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Sub-Saharan Africa,Africa,2787
-2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Western Asia,Asia,10408269
-2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Western Europe,Europe,5482159
-2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,World,World,86637235
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Australia and New Zealand,Oceania,7643,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,21794511,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,590675,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Latin America and the Caribbean,Americas,175810,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Northern Africa,Africa,251727,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Northern America,Americas,1103394,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,1054943,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,698494,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Southern Asia,Asia,4616,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Southern Europe,Europe,10976261,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Sub-Saharan Africa,Africa,2787,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Western Asia,Asia,10408269,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,Western Europe,Europe,5482159,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2017,2017,Import,Jordan,83,Metal; miscellaneous products of base metal,World,World,86637235,31.1667049,36.941628,,

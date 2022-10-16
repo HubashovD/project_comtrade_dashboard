@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Libya,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,1697
-2017,2017,Import,Libya,99,Commodities not specified according to kind,Eastern Asia,Asia,774754
-2017,2017,Import,Libya,99,Commodities not specified according to kind,Eastern Europe,Europe,669124
-2017,2017,Import,Libya,99,Commodities not specified according to kind,Northern Africa,Africa,12221803
-2017,2017,Import,Libya,99,Commodities not specified according to kind,Northern America,Americas,5164609
-2017,2017,Import,Libya,99,Commodities not specified according to kind,Northern Europe,Europe,289267
-2017,2017,Import,Libya,99,Commodities not specified according to kind,South-eastern Asia,Asia,8929342
-2017,2017,Import,Libya,99,Commodities not specified according to kind,Southern Europe,Europe,4098136
-2017,2017,Import,Libya,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,113340
-2017,2017,Import,Libya,99,Commodities not specified according to kind,Western Asia,Asia,1169010
-2017,2017,Import,Libya,99,Commodities not specified according to kind,Western Europe,Europe,9894943
-2017,2017,Import,Libya,99,Commodities not specified according to kind,World,World,44117425
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Libya,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,1697,26.8234472,18.1236723,-16.85099460447687,133.4130365630627
+2017,2017,Import,Libya,99,Commodities not specified according to kind,Eastern Asia,Asia,774754,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2017,2017,Import,Libya,99,Commodities not specified according to kind,Eastern Europe,Europe,669124,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2017,2017,Import,Libya,99,Commodities not specified according to kind,Northern Africa,Africa,12221803,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2017,2017,Import,Libya,99,Commodities not specified according to kind,Northern America,Americas,5164609,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2017,2017,Import,Libya,99,Commodities not specified according to kind,Northern Europe,Europe,289267,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2017,2017,Import,Libya,99,Commodities not specified according to kind,South-eastern Asia,Asia,8929342,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2017,2017,Import,Libya,99,Commodities not specified according to kind,Southern Europe,Europe,4098136,26.8234472,18.1236723,40.12399607988535,20.742583178432696
+2017,2017,Import,Libya,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,113340,26.8234472,18.1236723,6.06272746187266,22.727528470146083
+2017,2017,Import,Libya,99,Commodities not specified according to kind,Western Asia,Asia,1169010,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2017,2017,Import,Libya,99,Commodities not specified according to kind,Western Europe,Europe,9894943,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2017,2017,Import,Libya,99,Commodities not specified according to kind,World,World,44117425,26.8234472,18.1236723,,

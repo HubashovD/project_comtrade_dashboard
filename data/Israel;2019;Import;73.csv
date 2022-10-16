@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Israel,73,Iron or steel articles,Australia and New Zealand,Oceania,347000
-2019,2019,Import,Israel,73,Iron or steel articles,Central Asia,Asia,23000
-2019,2019,Import,Israel,73,Iron or steel articles,Eastern Asia,Asia,313870000
-2019,2019,Import,Israel,73,Iron or steel articles,Eastern Europe,Europe,39639000
-2019,2019,Import,Israel,73,Iron or steel articles,Latin America and the Caribbean,Americas,6781000
-2019,2019,Import,Israel,73,Iron or steel articles,Micronesia,Oceania,6000
-2019,2019,Import,Israel,73,Iron or steel articles,Northern Africa,Africa,142000
-2019,2019,Import,Israel,73,Iron or steel articles,Northern America,Americas,442718000
-2019,2019,Import,Israel,73,Iron or steel articles,Northern Europe,Europe,32332000
-2019,2019,Import,Israel,73,Iron or steel articles,South-eastern Asia,Asia,12526000
-2019,2019,Import,Israel,73,Iron or steel articles,Southern Asia,Asia,10000
-2019,2019,Import,Israel,73,Iron or steel articles,Southern Europe,Europe,99528000
-2019,2019,Import,Israel,73,Iron or steel articles,Sub-Saharan Africa,Africa,2735000
-2019,2019,Import,Israel,73,Iron or steel articles,Western Asia,Asia,171038000
-2019,2019,Import,Israel,73,Iron or steel articles,Western Europe,Europe,189610000
-2019,2019,Import,Israel,73,Iron or steel articles,World,World,1356154000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Israel,73,Iron or steel articles,Australia and New Zealand,Oceania,347000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2019,2019,Import,Israel,73,Iron or steel articles,Central Asia,Asia,23000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2019,2019,Import,Israel,73,Iron or steel articles,Eastern Asia,Asia,313870000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2019,2019,Import,Israel,73,Iron or steel articles,Eastern Europe,Europe,39639000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2019,2019,Import,Israel,73,Iron or steel articles,Latin America and the Caribbean,Americas,6781000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2019,2019,Import,Israel,73,Iron or steel articles,Micronesia,Oceania,6000,30.8124247,34.8594762,6.418559504495792,157.6364476938912
+2019,2019,Import,Israel,73,Iron or steel articles,Northern Africa,Africa,142000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2019,2019,Import,Israel,73,Iron or steel articles,Northern America,Americas,442718000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2019,2019,Import,Israel,73,Iron or steel articles,Northern Europe,Europe,32332000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2019,2019,Import,Israel,73,Iron or steel articles,South-eastern Asia,Asia,12526000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2019,2019,Import,Israel,73,Iron or steel articles,Southern Asia,Asia,10000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2019,2019,Import,Israel,73,Iron or steel articles,Southern Europe,Europe,99528000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2019,2019,Import,Israel,73,Iron or steel articles,Sub-Saharan Africa,Africa,2735000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2019,2019,Import,Israel,73,Iron or steel articles,Western Asia,Asia,171038000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2019,2019,Import,Israel,73,Iron or steel articles,Western Europe,Europe,189610000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2019,2019,Import,Israel,73,Iron or steel articles,World,World,1356154000,30.8124247,34.8594762,,

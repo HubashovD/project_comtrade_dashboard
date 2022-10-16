@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,1913500
-2005,2005,Export,Azerbaijan,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,17
-2005,2005,Export,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,137
-2005,2005,Export,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,461
-2005,2005,Export,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,1158
-2005,2005,Export,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,1333
-2005,2005,Export,Azerbaijan,99,Commodities not specified according to kind,World,World,1918095
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Azerbaijan,99,Commodities not specified according to kind,Eastern Europe,Europe,1913500,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2005,2005,Export,Azerbaijan,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,17,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2005,2005,Export,Azerbaijan,99,Commodities not specified according to kind,Northern America,Americas,137,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2005,2005,Export,Azerbaijan,99,Commodities not specified according to kind,Northern Europe,Europe,461,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2005,2005,Export,Azerbaijan,99,Commodities not specified according to kind,Southern Europe,Europe,1158,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2005,2005,Export,Azerbaijan,99,Commodities not specified according to kind,Western Europe,Europe,1333,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2005,2005,Export,Azerbaijan,99,Commodities not specified according to kind,World,World,1918095,40.3936294,47.7872508,,

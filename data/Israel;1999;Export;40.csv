@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Israel,40,Rubber and articles thereof,Australia and New Zealand,Oceania,2439000
-1999,1999,Export,Israel,40,Rubber and articles thereof,Central Asia,Asia,4000
-1999,1999,Export,Israel,40,Rubber and articles thereof,Eastern Asia,Asia,745000
-1999,1999,Export,Israel,40,Rubber and articles thereof,Eastern Europe,Europe,416000
-1999,1999,Export,Israel,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,4009000
-1999,1999,Export,Israel,40,Rubber and articles thereof,Melanesia,Oceania,40000
-1999,1999,Export,Israel,40,Rubber and articles thereof,Northern Africa,Africa,2958000
-1999,1999,Export,Israel,40,Rubber and articles thereof,Northern America,Americas,21676000
-1999,1999,Export,Israel,40,Rubber and articles thereof,Northern Europe,Europe,13710000
-1999,1999,Export,Israel,40,Rubber and articles thereof,South-eastern Asia,Asia,586000
-1999,1999,Export,Israel,40,Rubber and articles thereof,Southern Asia,Asia,144000
-1999,1999,Export,Israel,40,Rubber and articles thereof,Southern Europe,Europe,14473000
-1999,1999,Export,Israel,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,632000
-1999,1999,Export,Israel,40,Rubber and articles thereof,Western Asia,Asia,1958000
-1999,1999,Export,Israel,40,Rubber and articles thereof,Western Europe,Europe,35762000
-1999,1999,Export,Israel,40,Rubber and articles thereof,World,World,103097000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Israel,40,Rubber and articles thereof,Australia and New Zealand,Oceania,2439000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1999,1999,Export,Israel,40,Rubber and articles thereof,Central Asia,Asia,4000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+1999,1999,Export,Israel,40,Rubber and articles thereof,Eastern Asia,Asia,745000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1999,1999,Export,Israel,40,Rubber and articles thereof,Eastern Europe,Europe,416000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1999,1999,Export,Israel,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,4009000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1999,1999,Export,Israel,40,Rubber and articles thereof,Melanesia,Oceania,40000,30.8124247,34.8594762,1.0108650891006263,147.3257485906919
+1999,1999,Export,Israel,40,Rubber and articles thereof,Northern Africa,Africa,2958000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1999,1999,Export,Israel,40,Rubber and articles thereof,Northern America,Americas,21676000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1999,1999,Export,Israel,40,Rubber and articles thereof,Northern Europe,Europe,13710000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1999,1999,Export,Israel,40,Rubber and articles thereof,South-eastern Asia,Asia,586000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1999,1999,Export,Israel,40,Rubber and articles thereof,Southern Asia,Asia,144000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+1999,1999,Export,Israel,40,Rubber and articles thereof,Southern Europe,Europe,14473000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1999,1999,Export,Israel,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,632000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1999,1999,Export,Israel,40,Rubber and articles thereof,Western Asia,Asia,1958000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1999,1999,Export,Israel,40,Rubber and articles thereof,Western Europe,Europe,35762000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1999,1999,Export,Israel,40,Rubber and articles thereof,World,World,103097000,30.8124247,34.8594762,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Eastern Asia,Asia,4881
-2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Eastern Europe,Europe,9434
-2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Latin America and the Caribbean,Americas,520
-2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Northern Europe,Europe,6816
-2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Southern Asia,Asia,2256
-2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Western Asia,Asia,650
-2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Western Europe,Europe,80
-2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",World,World,31800
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Eastern Asia,Asia,4881,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Eastern Europe,Europe,9434,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Latin America and the Caribbean,Americas,520,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Northern Europe,Europe,6816,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Southern Asia,Asia,2256,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Western Asia,Asia,650,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",Western Europe,Europe,80,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Import,Azerbaijan,92,"Musical instruments, parts and accessories",World,World,31800,40.3936294,47.7872508,,

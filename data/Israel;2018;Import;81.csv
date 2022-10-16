@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Central Asia,Asia,1250000
-2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,46187000
-2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,14101000
-2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,51741000
-2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern Europe,Europe,9175000
-2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",South-eastern Asia,Asia,3901000
-2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,810000
-2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Sub-Saharan Africa,Africa,33000
-2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Western Asia,Asia,577000
-2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,18456000
-2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",World,World,146512000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Central Asia,Asia,1250000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,46187000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,14101000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,51741000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern Europe,Europe,9175000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",South-eastern Asia,Asia,3901000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,810000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Sub-Saharan Africa,Africa,33000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Western Asia,Asia,577000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,18456000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2018,2018,Import,Israel,81,"Metals; n.e.c., cermets and articles thereof",World,World,146512000,30.8124247,34.8594762,,

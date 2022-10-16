@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Lebanon,52,Cotton,Australia and New Zealand,Oceania,12193
-2002,2002,Export,Lebanon,52,Cotton,Central Asia,Asia,289
-2002,2002,Export,Lebanon,52,Cotton,Eastern Asia,Asia,3796
-2002,2002,Export,Lebanon,52,Cotton,Latin America and the Caribbean,Americas,20093
-2002,2002,Export,Lebanon,52,Cotton,Northern Africa,Africa,378089
-2002,2002,Export,Lebanon,52,Cotton,South-eastern Asia,Asia,2653
-2002,2002,Export,Lebanon,52,Cotton,Sub-Saharan Africa,Africa,117483
-2002,2002,Export,Lebanon,52,Cotton,Western Asia,Asia,135126
-2002,2002,Export,Lebanon,52,Cotton,Western Europe,Europe,11899
-2002,2002,Export,Lebanon,52,Cotton,World,World,962142
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Lebanon,52,Cotton,Australia and New Zealand,Oceania,12193,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2002,2002,Export,Lebanon,52,Cotton,Central Asia,Asia,289,33.8750629,35.843409,39.89317229901691,61.060280637304274
+2002,2002,Export,Lebanon,52,Cotton,Eastern Asia,Asia,3796,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2002,2002,Export,Lebanon,52,Cotton,Latin America and the Caribbean,Americas,20093,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2002,2002,Export,Lebanon,52,Cotton,Northern Africa,Africa,378089,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2002,2002,Export,Lebanon,52,Cotton,South-eastern Asia,Asia,2653,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2002,2002,Export,Lebanon,52,Cotton,Sub-Saharan Africa,Africa,117483,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2002,2002,Export,Lebanon,52,Cotton,Western Asia,Asia,135126,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2002,2002,Export,Lebanon,52,Cotton,Western Europe,Europe,11899,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2002,2002,Export,Lebanon,52,Cotton,World,World,962142,33.8750629,35.843409,,

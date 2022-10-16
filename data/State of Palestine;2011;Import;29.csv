@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,State of Palestine,29,Organic chemicals,Australia and New Zealand,Oceania,31459
-2011,2011,Import,State of Palestine,29,Organic chemicals,Eastern Asia,Asia,5245852
-2011,2011,Import,State of Palestine,29,Organic chemicals,Eastern Europe,Europe,3252689
-2011,2011,Import,State of Palestine,29,Organic chemicals,Latin America and the Caribbean,Americas,128525
-2011,2011,Import,State of Palestine,29,Organic chemicals,Northern America,Americas,408833
-2011,2011,Import,State of Palestine,29,Organic chemicals,Northern Europe,Europe,173320
-2011,2011,Import,State of Palestine,29,Organic chemicals,South-eastern Asia,Asia,34757
-2011,2011,Import,State of Palestine,29,Organic chemicals,Southern Europe,Europe,276913
-2011,2011,Import,State of Palestine,29,Organic chemicals,Western Asia,Asia,245860
-2011,2011,Import,State of Palestine,29,Organic chemicals,Western Europe,Europe,988373
-2011,2011,Import,State of Palestine,29,Organic chemicals,World,World,30145011
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,State of Palestine,29,Organic chemicals,Australia and New Zealand,Oceania,31459,31.46242095,34.262716572130714,-16.85099460447687,133.4130365630627
+2011,2011,Import,State of Palestine,29,Organic chemicals,Eastern Asia,Asia,5245852,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2011,2011,Import,State of Palestine,29,Organic chemicals,Eastern Europe,Europe,3252689,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2011,2011,Import,State of Palestine,29,Organic chemicals,Latin America and the Caribbean,Americas,128525,31.46242095,34.262716572130714,17.925141963241547,-78.01492950057497
+2011,2011,Import,State of Palestine,29,Organic chemicals,Northern America,Americas,408833,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2011,2011,Import,State of Palestine,29,Organic chemicals,Northern Europe,Europe,173320,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
+2011,2011,Import,State of Palestine,29,Organic chemicals,South-eastern Asia,Asia,34757,31.46242095,34.262716572130714,10.528384761701911,103.08333472012376
+2011,2011,Import,State of Palestine,29,Organic chemicals,Southern Europe,Europe,276913,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2011,2011,Import,State of Palestine,29,Organic chemicals,Western Asia,Asia,245860,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
+2011,2011,Import,State of Palestine,29,Organic chemicals,Western Europe,Europe,988373,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2011,2011,Import,State of Palestine,29,Organic chemicals,World,World,30145011,31.46242095,34.262716572130714,,

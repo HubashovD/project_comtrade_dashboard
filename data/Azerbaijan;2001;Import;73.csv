@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Australia and New Zealand,Oceania,6190
-2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Central Asia,Asia,32036
-2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Eastern Asia,Asia,11143156
-2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Eastern Europe,Europe,18854310
-2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Latin America and the Caribbean,Americas,2332011
-2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Northern America,Americas,7873816
-2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Northern Europe,Europe,7491283
-2001,2001,Import,Azerbaijan,73,Articles of iron or steel,South-eastern Asia,Asia,841400
-2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Southern Asia,Asia,329474
-2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Southern Europe,Europe,2516006
-2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Sub-Saharan Africa,Africa,2360
-2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Western Asia,Asia,4418489
-2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Western Europe,Europe,29761115
-2001,2001,Import,Azerbaijan,73,Articles of iron or steel,World,World,87462314
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Australia and New Zealand,Oceania,6190,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Central Asia,Asia,32036,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Eastern Asia,Asia,11143156,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Eastern Europe,Europe,18854310,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Latin America and the Caribbean,Americas,2332011,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Northern America,Americas,7873816,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Northern Europe,Europe,7491283,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2001,2001,Import,Azerbaijan,73,Articles of iron or steel,South-eastern Asia,Asia,841400,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Southern Asia,Asia,329474,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Southern Europe,Europe,2516006,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Sub-Saharan Africa,Africa,2360,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Western Asia,Asia,4418489,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2001,2001,Import,Azerbaijan,73,Articles of iron or steel,Western Europe,Europe,29761115,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2001,2001,Import,Azerbaijan,73,Articles of iron or steel,World,World,87462314,40.3936294,47.7872508,,

@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Australia and New Zealand,Oceania,1838325
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Eastern Asia,Asia,36484
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Eastern Europe,Europe,241726
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Latin America and the Caribbean,Americas,989849
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Melanesia,Oceania,20014
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Northern Africa,Africa,192393
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Northern America,Americas,21982579
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Northern Europe,Europe,5397365
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,South-eastern Asia,Asia,41100
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Southern Asia,Asia,11188
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Southern Europe,Europe,581193
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Sub-Saharan Africa,Africa,10687702
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Western Asia,Asia,470808
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Western Europe,Europe,9326633
-2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,World,World,67761194
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Australia and New Zealand,Oceania,1838325,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Eastern Asia,Asia,36484,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Eastern Europe,Europe,241726,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Latin America and the Caribbean,Americas,989849,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Melanesia,Oceania,20014,33.8750629,35.843409,1.0108650891006263,147.3257485906919
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Northern Africa,Africa,192393,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Northern America,Americas,21982579,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Northern Europe,Europe,5397365,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,South-eastern Asia,Asia,41100,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Southern Asia,Asia,11188,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Southern Europe,Europe,581193,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Sub-Saharan Africa,Africa,10687702,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Western Asia,Asia,470808,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,Western Europe,Europe,9326633,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2021,2021,Export,Lebanon,21,Miscellaneous edible preparations,World,World,67761194,33.8750629,35.843409,,

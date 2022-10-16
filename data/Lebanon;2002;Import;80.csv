@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Lebanon,80,Tin and articles thereof,Eastern Asia,Asia,15245
-2002,2002,Import,Lebanon,80,Tin and articles thereof,Northern America,Americas,2661
-2002,2002,Import,Lebanon,80,Tin and articles thereof,Northern Europe,Europe,57825
-2002,2002,Import,Lebanon,80,Tin and articles thereof,Southern Europe,Europe,34458
-2002,2002,Import,Lebanon,80,Tin and articles thereof,Western Asia,Asia,423
-2002,2002,Import,Lebanon,80,Tin and articles thereof,Western Europe,Europe,12011
-2002,2002,Import,Lebanon,80,Tin and articles thereof,World,World,190165
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Lebanon,80,Tin and articles thereof,Eastern Asia,Asia,15245,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2002,2002,Import,Lebanon,80,Tin and articles thereof,Northern America,Americas,2661,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2002,2002,Import,Lebanon,80,Tin and articles thereof,Northern Europe,Europe,57825,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2002,2002,Import,Lebanon,80,Tin and articles thereof,Southern Europe,Europe,34458,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2002,2002,Import,Lebanon,80,Tin and articles thereof,Western Asia,Asia,423,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2002,2002,Import,Lebanon,80,Tin and articles thereof,Western Europe,Europe,12011,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2002,2002,Import,Lebanon,80,Tin and articles thereof,World,World,190165,33.8750629,35.843409,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Export,Kuwait,30,Pharmaceutical products,Eastern Asia,Asia,74976
-2014,2014,Export,Kuwait,30,Pharmaceutical products,Eastern Europe,Europe,18780
-2014,2014,Export,Kuwait,30,Pharmaceutical products,Northern Africa,Africa,1318
-2014,2014,Export,Kuwait,30,Pharmaceutical products,Northern America,Americas,323
-2014,2014,Export,Kuwait,30,Pharmaceutical products,Northern Europe,Europe,1168
-2014,2014,Export,Kuwait,30,Pharmaceutical products,South-eastern Asia,Asia,67234
-2014,2014,Export,Kuwait,30,Pharmaceutical products,Southern Asia,Asia,54652
-2014,2014,Export,Kuwait,30,Pharmaceutical products,Sub-Saharan Africa,Africa,692308
-2014,2014,Export,Kuwait,30,Pharmaceutical products,Western Asia,Asia,247
-2014,2014,Export,Kuwait,30,Pharmaceutical products,Western Europe,Europe,263723
-2014,2014,Export,Kuwait,30,Pharmaceutical products,World,World,25850622
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Export,Kuwait,30,Pharmaceutical products,Eastern Asia,Asia,74976,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2014,2014,Export,Kuwait,30,Pharmaceutical products,Eastern Europe,Europe,18780,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2014,2014,Export,Kuwait,30,Pharmaceutical products,Northern Africa,Africa,1318,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2014,2014,Export,Kuwait,30,Pharmaceutical products,Northern America,Americas,323,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2014,2014,Export,Kuwait,30,Pharmaceutical products,Northern Europe,Europe,1168,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2014,2014,Export,Kuwait,30,Pharmaceutical products,South-eastern Asia,Asia,67234,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2014,2014,Export,Kuwait,30,Pharmaceutical products,Southern Asia,Asia,54652,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2014,2014,Export,Kuwait,30,Pharmaceutical products,Sub-Saharan Africa,Africa,692308,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2014,2014,Export,Kuwait,30,Pharmaceutical products,Western Asia,Asia,247,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2014,2014,Export,Kuwait,30,Pharmaceutical products,Western Europe,Europe,263723,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2014,2014,Export,Kuwait,30,Pharmaceutical products,World,World,25850622,29.2733964,47.4979476,,

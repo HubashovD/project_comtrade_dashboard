@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Asia,Asia,3629
-1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Europe,Europe,2079
-1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,Northern America,Americas,9319
-1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,Northern Europe,Europe,13359
-1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,South-eastern Asia,Asia,5989
-1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,Western Asia,Asia,30238
-1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,Western Europe,Europe,3678
-1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,World,World,76202
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Asia,Asia,3629,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Europe,Europe,2079,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,Northern America,Americas,9319,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,Northern Europe,Europe,13359,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,South-eastern Asia,Asia,5989,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,Western Asia,Asia,30238,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,Western Europe,Europe,3678,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1999,1999,Import,Azerbaijan,65,Headgear and parts thereof,World,World,76202,40.3936294,47.7872508,,

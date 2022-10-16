@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Azerbaijan,31,Fertilizers,Eastern Europe,Europe,27251617
-2021,2021,Export,Azerbaijan,31,Fertilizers,Latin America and the Caribbean,Americas,71452864
-2021,2021,Export,Azerbaijan,31,Fertilizers,Northern Europe,Europe,9592
-2021,2021,Export,Azerbaijan,31,Fertilizers,Southern Europe,Europe,6854919
-2021,2021,Export,Azerbaijan,31,Fertilizers,Western Asia,Asia,13260285
-2021,2021,Export,Azerbaijan,31,Fertilizers,Western Europe,Europe,1481052
-2021,2021,Export,Azerbaijan,31,Fertilizers,World,World,121289050
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Azerbaijan,31,Fertilizers,Eastern Europe,Europe,27251617,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2021,2021,Export,Azerbaijan,31,Fertilizers,Latin America and the Caribbean,Americas,71452864,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2021,2021,Export,Azerbaijan,31,Fertilizers,Northern Europe,Europe,9592,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2021,2021,Export,Azerbaijan,31,Fertilizers,Southern Europe,Europe,6854919,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2021,2021,Export,Azerbaijan,31,Fertilizers,Western Asia,Asia,13260285,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2021,2021,Export,Azerbaijan,31,Fertilizers,Western Europe,Europe,1481052,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2021,2021,Export,Azerbaijan,31,Fertilizers,World,World,121289050,40.3936294,47.7872508,,

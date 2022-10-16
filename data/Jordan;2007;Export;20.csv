@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Australia and New Zealand,Oceania,20027
-2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Asia,Asia,23850
-2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Europe,Europe,31667
-2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Africa,Africa,46980
-2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern America,Americas,1485002
-2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Europe,Europe,39907
-2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",South-eastern Asia,Asia,36812
-2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Sub-Saharan Africa,Africa,7776
-2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Asia,Asia,148464
-2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Europe,Europe,162913
-2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,28323001
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Australia and New Zealand,Oceania,20027,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Asia,Asia,23850,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Europe,Europe,31667,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Africa,Africa,46980,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern America,Americas,1485002,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Europe,Europe,39907,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",South-eastern Asia,Asia,36812,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Sub-Saharan Africa,Africa,7776,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Asia,Asia,148464,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Europe,Europe,162913,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2007,2007,Export,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,28323001,31.1667049,36.941628,,

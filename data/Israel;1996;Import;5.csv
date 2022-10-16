@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Israel,5,"Products of animal origin, nes",Eastern Asia,Asia,1257000
-1996,1996,Import,Israel,5,"Products of animal origin, nes",Northern America,Americas,111000
-1996,1996,Import,Israel,5,"Products of animal origin, nes",Northern Europe,Europe,1162000
-1996,1996,Import,Israel,5,"Products of animal origin, nes",South-eastern Asia,Asia,76000
-1996,1996,Import,Israel,5,"Products of animal origin, nes",Western Europe,Europe,1810000
-1996,1996,Import,Israel,5,"Products of animal origin, nes",World,World,5175000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Israel,5,"Products of animal origin, nes",Eastern Asia,Asia,1257000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1996,1996,Import,Israel,5,"Products of animal origin, nes",Northern America,Americas,111000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1996,1996,Import,Israel,5,"Products of animal origin, nes",Northern Europe,Europe,1162000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1996,1996,Import,Israel,5,"Products of animal origin, nes",South-eastern Asia,Asia,76000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1996,1996,Import,Israel,5,"Products of animal origin, nes",Western Europe,Europe,1810000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1996,1996,Import,Israel,5,"Products of animal origin, nes",World,World,5175000,30.8124247,34.8594762,,

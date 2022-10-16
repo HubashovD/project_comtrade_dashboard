@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Australia and New Zealand,Oceania,734850
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,72682820
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Eastern Europe,Europe,3080372
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Latin America and the Caribbean,Americas,1919471
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Micronesia,Oceania,2432
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Northern Africa,Africa,497790
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,58277516
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,46170376
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Polynesia,Oceania,117
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,41807874
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Southern Asia,Asia,896509
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,77763401
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,428404
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Western Asia,Asia,7047527
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,97350749
-2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",World,World,433163423
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Australia and New Zealand,Oceania,734850,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Eastern Asia,Asia,72682820,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Eastern Europe,Europe,3080372,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Latin America and the Caribbean,Americas,1919471,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Micronesia,Oceania,2432,33.8750629,35.843409,6.418559504495792,157.6364476938912
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Northern Africa,Africa,497790,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Northern America,Americas,58277516,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Northern Europe,Europe,46170376,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Polynesia,Oceania,117,33.8750629,35.843409,-5.109184731250752,167.40343615892436
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",South-eastern Asia,Asia,41807874,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Southern Asia,Asia,896509,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Southern Europe,Europe,77763401,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Sub-Saharan Africa,Africa,428404,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Western Asia,Asia,7047527,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",Western Europe,Europe,97350749,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Import,Lebanon,84,"Nuclear reactors, boilers, machinery, etc",World,World,433163423,33.8750629,35.843409,,

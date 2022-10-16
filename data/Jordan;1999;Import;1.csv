@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Jordan,1,Live animals,Australia and New Zealand,Oceania,20963437
-1999,1999,Import,Jordan,1,Live animals,Eastern Europe,Europe,4864007
-1999,1999,Import,Jordan,1,Live animals,Latin America and the Caribbean,Americas,1648
-1999,1999,Import,Jordan,1,Live animals,Northern Africa,Africa,13788
-1999,1999,Import,Jordan,1,Live animals,Northern America,Americas,143432
-1999,1999,Import,Jordan,1,Live animals,Northern Europe,Europe,719422
-1999,1999,Import,Jordan,1,Live animals,South-eastern Asia,Asia,9158
-1999,1999,Import,Jordan,1,Live animals,Southern Europe,Europe,3954
-1999,1999,Import,Jordan,1,Live animals,Western Asia,Asia,134227
-1999,1999,Import,Jordan,1,Live animals,Western Europe,Europe,7223321
-1999,1999,Import,Jordan,1,Live animals,World,World,34258088
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Jordan,1,Live animals,Australia and New Zealand,Oceania,20963437,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1999,1999,Import,Jordan,1,Live animals,Eastern Europe,Europe,4864007,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1999,1999,Import,Jordan,1,Live animals,Latin America and the Caribbean,Americas,1648,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1999,1999,Import,Jordan,1,Live animals,Northern Africa,Africa,13788,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1999,1999,Import,Jordan,1,Live animals,Northern America,Americas,143432,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1999,1999,Import,Jordan,1,Live animals,Northern Europe,Europe,719422,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1999,1999,Import,Jordan,1,Live animals,South-eastern Asia,Asia,9158,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1999,1999,Import,Jordan,1,Live animals,Southern Europe,Europe,3954,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1999,1999,Import,Jordan,1,Live animals,Western Asia,Asia,134227,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Import,Jordan,1,Live animals,Western Europe,Europe,7223321,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Import,Jordan,1,Live animals,World,World,34258088,31.1667049,36.941628,,

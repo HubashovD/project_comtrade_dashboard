@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Central Asia,Asia,1122087
-1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Eastern Asia,Asia,29098
-1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Eastern Europe,Europe,14879387
-1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Northern America,Americas,355830
-1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Northern Europe,Europe,1016587
-1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Southern Asia,Asia,1410384
-1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Southern Europe,Europe,421909
-1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Western Asia,Asia,16891356
-1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Western Europe,Europe,57329
-1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",World,World,43060356
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Central Asia,Asia,1122087,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Eastern Asia,Asia,29098,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Eastern Europe,Europe,14879387,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Northern America,Americas,355830,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Northern Europe,Europe,1016587,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Southern Asia,Asia,1410384,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Southern Europe,Europe,421909,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Western Asia,Asia,16891356,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",Western Europe,Europe,57329,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1997,1997,Import,Azerbaijan,11,"Milling products, malt, starches, inulin, wheat glute",World,World,43060356,40.3936294,47.7872508,,

@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Libya,5,"Products of animal origin, not elsewhere specified",Eastern Asia,Asia,130586
-2009,2009,Import,Libya,5,"Products of animal origin, not elsewhere specified",Northern Europe,Europe,50770
-2009,2009,Import,Libya,5,"Products of animal origin, not elsewhere specified",World,World,188306
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Libya,5,"Products of animal origin, not elsewhere specified",Eastern Asia,Asia,130586,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2009,2009,Import,Libya,5,"Products of animal origin, not elsewhere specified",Northern Europe,Europe,50770,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2009,2009,Import,Libya,5,"Products of animal origin, not elsewhere specified",World,World,188306,26.8234472,18.1236723,,

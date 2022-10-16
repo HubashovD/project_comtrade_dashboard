@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Jordan,40,Rubber and articles thereof,Eastern Asia,Asia,64340
-2018,2018,Export,Jordan,40,Rubber and articles thereof,Northern America,Americas,15046
-2018,2018,Export,Jordan,40,Rubber and articles thereof,South-eastern Asia,Asia,1215
-2018,2018,Export,Jordan,40,Rubber and articles thereof,Southern Asia,Asia,3645
-2018,2018,Export,Jordan,40,Rubber and articles thereof,Western Asia,Asia,71209
-2018,2018,Export,Jordan,40,Rubber and articles thereof,Western Europe,Europe,940
-2018,2018,Export,Jordan,40,Rubber and articles thereof,World,World,4679896
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Jordan,40,Rubber and articles thereof,Eastern Asia,Asia,64340,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2018,2018,Export,Jordan,40,Rubber and articles thereof,Northern America,Americas,15046,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2018,2018,Export,Jordan,40,Rubber and articles thereof,South-eastern Asia,Asia,1215,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2018,2018,Export,Jordan,40,Rubber and articles thereof,Southern Asia,Asia,3645,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2018,2018,Export,Jordan,40,Rubber and articles thereof,Western Asia,Asia,71209,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2018,2018,Export,Jordan,40,Rubber and articles thereof,Western Europe,Europe,940,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2018,2018,Export,Jordan,40,Rubber and articles thereof,World,World,4679896,31.1667049,36.941628,,

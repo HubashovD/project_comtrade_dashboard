@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Eastern Asia,Asia,2623000
-2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Northern America,Americas,2425000
-2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Northern Europe,Europe,450000
-2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Southern Europe,Europe,2000
-2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Sub-Saharan Africa,Africa,12000
-2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Western Asia,Asia,297000
-2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Western Europe,Europe,1120000
-2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,World,World,7196000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Eastern Asia,Asia,2623000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Northern America,Americas,2425000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Northern Europe,Europe,450000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Southern Europe,Europe,2000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Sub-Saharan Africa,Africa,12000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Western Asia,Asia,297000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Western Europe,Europe,1120000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2018,2018,Import,Israel,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,World,World,7196000,30.8124247,34.8594762,,

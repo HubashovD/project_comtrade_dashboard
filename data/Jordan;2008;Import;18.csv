@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,378707
-2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Eastern Asia,Asia,57146
-2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Eastern Europe,Europe,1420009
-2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,198848
-2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Northern Africa,Africa,4870506
-2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Northern America,Americas,1237376
-2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Northern Europe,Europe,2411747
-2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,1076162
-2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Southern Europe,Europe,2514087
-2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,10394
-2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Western Asia,Asia,7360261
-2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Western Europe,Europe,9584888
-2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,World,World,37932175
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,378707,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Eastern Asia,Asia,57146,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Eastern Europe,Europe,1420009,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,198848,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Northern Africa,Africa,4870506,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Northern America,Americas,1237376,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Northern Europe,Europe,2411747,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,1076162,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Southern Europe,Europe,2514087,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,10394,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Western Asia,Asia,7360261,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,Western Europe,Europe,9584888,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2008,2008,Import,Jordan,18,Cocoa and cocoa preparations,World,World,37932175,31.1667049,36.941628,,

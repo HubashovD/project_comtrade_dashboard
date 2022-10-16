@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Australia and New Zealand,Oceania,723
-2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Eastern Asia,Asia,126
-2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Eastern Europe,Europe,1159
-2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Latin America and the Caribbean,Americas,8984
-2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Northern Africa,Africa,299
-2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Northern America,Americas,30951
-2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Northern Europe,Europe,14331
-2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,South-eastern Asia,Asia,1000
-2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Southern Europe,Europe,27741
-2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Sub-Saharan Africa,Africa,38581
-2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Western Asia,Asia,53183
-2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Western Europe,Europe,5662
-2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,World,World,5088845
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Australia and New Zealand,Oceania,723,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Eastern Asia,Asia,126,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Eastern Europe,Europe,1159,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Latin America and the Caribbean,Americas,8984,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Northern Africa,Africa,299,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Northern America,Americas,30951,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Northern Europe,Europe,14331,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,South-eastern Asia,Asia,1000,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Southern Europe,Europe,27741,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Sub-Saharan Africa,Africa,38581,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Western Asia,Asia,53183,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,Western Europe,Europe,5662,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2003,2003,Export,Lebanon,11,Products of the milling industry; malt; starches; inulin,World,World,5088845,33.8750629,35.843409,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Lebanon,26,"Ores, slag and ash",Australia and New Zealand,Oceania,1934
-2006,2006,Import,Lebanon,26,"Ores, slag and ash",Eastern Europe,Europe,14721
-2006,2006,Import,Lebanon,26,"Ores, slag and ash",Northern America,Americas,336
-2006,2006,Import,Lebanon,26,"Ores, slag and ash",Northern Europe,Europe,102845
-2006,2006,Import,Lebanon,26,"Ores, slag and ash",Southern Europe,Europe,9613
-2006,2006,Import,Lebanon,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,35875
-2006,2006,Import,Lebanon,26,"Ores, slag and ash",Western Asia,Asia,4939509
-2006,2006,Import,Lebanon,26,"Ores, slag and ash",Western Europe,Europe,754057
-2006,2006,Import,Lebanon,26,"Ores, slag and ash",World,World,5864398
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Lebanon,26,"Ores, slag and ash",Australia and New Zealand,Oceania,1934,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2006,2006,Import,Lebanon,26,"Ores, slag and ash",Eastern Europe,Europe,14721,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2006,2006,Import,Lebanon,26,"Ores, slag and ash",Northern America,Americas,336,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2006,2006,Import,Lebanon,26,"Ores, slag and ash",Northern Europe,Europe,102845,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2006,2006,Import,Lebanon,26,"Ores, slag and ash",Southern Europe,Europe,9613,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2006,2006,Import,Lebanon,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,35875,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2006,2006,Import,Lebanon,26,"Ores, slag and ash",Western Asia,Asia,4939509,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2006,2006,Import,Lebanon,26,"Ores, slag and ash",Western Europe,Europe,754057,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2006,2006,Import,Lebanon,26,"Ores, slag and ash",World,World,5864398,33.8750629,35.843409,,

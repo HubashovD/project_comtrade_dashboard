@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Central Asia,Asia,28503
-1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,136199
-1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,1232029
-1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Northern America,Americas,654764
-1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,239432
-1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Southern Europe,Europe,156771
-1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Western Asia,Asia,79097
-1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",World,World,6937381
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Central Asia,Asia,28503,31.1667049,36.941628,39.89317229901691,61.060280637304274
+1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,136199,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,1232029,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Northern America,Americas,654764,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,239432,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Southern Europe,Europe,156771,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",Western Asia,Asia,79097,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1995,1995,Re-Export,Jordan,9,"Coffee, tea, mate and spices",World,World,6937381,31.1667049,36.941628,,

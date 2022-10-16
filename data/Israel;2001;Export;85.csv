@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,56654000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",Central Asia,Asia,16862000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",Eastern Asia,Asia,506139000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",Eastern Europe,Europe,209657000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,453983000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",Northern Africa,Africa,215000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",Northern America,Americas,1986013000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",Northern Europe,Europe,428180000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",Polynesia,Oceania,1025000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",South-eastern Asia,Asia,978515000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",Southern Asia,Asia,6417000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",Southern Europe,Europe,286449000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,87007000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",Western Asia,Asia,24932000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",Western Europe,Europe,899833000
-2001,2001,Export,Israel,85,"Electrical, electronic equipment",World,World,6269842000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",Australia and New Zealand,Oceania,56654000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",Central Asia,Asia,16862000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",Eastern Asia,Asia,506139000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",Eastern Europe,Europe,209657000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,453983000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",Northern Africa,Africa,215000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",Northern America,Americas,1986013000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",Northern Europe,Europe,428180000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",Polynesia,Oceania,1025000,30.8124247,34.8594762,-5.109184731250752,167.40343615892436
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",South-eastern Asia,Asia,978515000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",Southern Asia,Asia,6417000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",Southern Europe,Europe,286449000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,87007000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",Western Asia,Asia,24932000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",Western Europe,Europe,899833000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2001,2001,Export,Israel,85,"Electrical, electronic equipment",World,World,6269842000,30.8124247,34.8594762,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Israel,54,Manmade filaments,Australia and New Zealand,Oceania,851000
-1999,1999,Export,Israel,54,Manmade filaments,Central Asia,Asia,6000
-1999,1999,Export,Israel,54,Manmade filaments,Eastern Asia,Asia,3350000
-1999,1999,Export,Israel,54,Manmade filaments,Eastern Europe,Europe,3182000
-1999,1999,Export,Israel,54,Manmade filaments,Latin America and the Caribbean,Americas,9164000
-1999,1999,Export,Israel,54,Manmade filaments,Northern Africa,Africa,396000
-1999,1999,Export,Israel,54,Manmade filaments,Northern America,Americas,55549000
-1999,1999,Export,Israel,54,Manmade filaments,Northern Europe,Europe,12766000
-1999,1999,Export,Israel,54,Manmade filaments,South-eastern Asia,Asia,94000
-1999,1999,Export,Israel,54,Manmade filaments,Southern Europe,Europe,21362000
-1999,1999,Export,Israel,54,Manmade filaments,Sub-Saharan Africa,Africa,251000
-1999,1999,Export,Israel,54,Manmade filaments,Western Asia,Asia,2191000
-1999,1999,Export,Israel,54,Manmade filaments,Western Europe,Europe,27898000
-1999,1999,Export,Israel,54,Manmade filaments,World,World,138229000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Israel,54,Manmade filaments,Australia and New Zealand,Oceania,851000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1999,1999,Export,Israel,54,Manmade filaments,Central Asia,Asia,6000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+1999,1999,Export,Israel,54,Manmade filaments,Eastern Asia,Asia,3350000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1999,1999,Export,Israel,54,Manmade filaments,Eastern Europe,Europe,3182000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1999,1999,Export,Israel,54,Manmade filaments,Latin America and the Caribbean,Americas,9164000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1999,1999,Export,Israel,54,Manmade filaments,Northern Africa,Africa,396000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1999,1999,Export,Israel,54,Manmade filaments,Northern America,Americas,55549000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1999,1999,Export,Israel,54,Manmade filaments,Northern Europe,Europe,12766000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1999,1999,Export,Israel,54,Manmade filaments,South-eastern Asia,Asia,94000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1999,1999,Export,Israel,54,Manmade filaments,Southern Europe,Europe,21362000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1999,1999,Export,Israel,54,Manmade filaments,Sub-Saharan Africa,Africa,251000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1999,1999,Export,Israel,54,Manmade filaments,Western Asia,Asia,2191000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1999,1999,Export,Israel,54,Manmade filaments,Western Europe,Europe,27898000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1999,1999,Export,Israel,54,Manmade filaments,World,World,138229000,30.8124247,34.8594762,,

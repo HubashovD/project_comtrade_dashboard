@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Central Asia,Asia,28312
-2000,2000,Export,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Eastern Europe,Europe,2229538
-2000,2000,Export,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Northern America,Americas,45838
-2000,2000,Export,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Northern Europe,Europe,21534
-2000,2000,Export,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Western Asia,Asia,25343
-2000,2000,Export,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Western Europe,Europe,179097
-2000,2000,Export,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",World,World,2630223
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Central Asia,Asia,28312,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2000,2000,Export,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Eastern Europe,Europe,2229538,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Export,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Northern America,Americas,45838,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Export,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Northern Europe,Europe,21534,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Export,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Western Asia,Asia,25343,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Export,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",Western Europe,Europe,179097,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Export,Azerbaijan,20,"Vegetable, fruit, nut, etc food preparations",World,World,2630223,40.3936294,47.7872508,,

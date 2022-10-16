@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,1323902
-2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,25536
-2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern Africa,Africa,10920
-2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,163963
-2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,218
-2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,440118
-2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,524354
-2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,World,World,2617171
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,1323902,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,25536,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern Africa,Africa,10920,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,163963,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,218,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,440118,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,524354,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2020,2020,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,World,World,2617171,40.3936294,47.7872508,,

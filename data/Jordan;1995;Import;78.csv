@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Jordan,78,Lead and articles thereof,Australia and New Zealand,Oceania,929391
-1995,1995,Import,Jordan,78,Lead and articles thereof,Central Asia,Asia,81776
-1995,1995,Import,Jordan,78,Lead and articles thereof,Northern Europe,Europe,166811
-1995,1995,Import,Jordan,78,Lead and articles thereof,Southern Europe,Europe,834
-1995,1995,Import,Jordan,78,Lead and articles thereof,Western Europe,Europe,34876
-1995,1995,Import,Jordan,78,Lead and articles thereof,World,World,1550696
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Jordan,78,Lead and articles thereof,Australia and New Zealand,Oceania,929391,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1995,1995,Import,Jordan,78,Lead and articles thereof,Central Asia,Asia,81776,31.1667049,36.941628,39.89317229901691,61.060280637304274
+1995,1995,Import,Jordan,78,Lead and articles thereof,Northern Europe,Europe,166811,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1995,1995,Import,Jordan,78,Lead and articles thereof,Southern Europe,Europe,834,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Import,Jordan,78,Lead and articles thereof,Western Europe,Europe,34876,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Import,Jordan,78,Lead and articles thereof,World,World,1550696,31.1667049,36.941628,,

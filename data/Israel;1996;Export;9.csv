@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Australia and New Zealand,Oceania,257000
-1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Central Asia,Asia,790000
-1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,42000
-1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,4182000
-1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,56000
-1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Northern Africa,Africa,15000
-1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Northern America,Americas,2612000
-1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Northern Europe,Europe,8532000
-1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Southern Europe,Europe,272000
-1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Western Asia,Asia,37000
-1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Western Europe,Europe,5159000
-1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",World,World,22258000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Australia and New Zealand,Oceania,257000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Central Asia,Asia,790000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,42000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,4182000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,56000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Northern Africa,Africa,15000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Northern America,Americas,2612000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Northern Europe,Europe,8532000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Southern Europe,Europe,272000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Western Asia,Asia,37000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",Western Europe,Europe,5159000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1996,1996,Export,Israel,9,"Coffee, tea, mate and spices",World,World,22258000,30.8124247,34.8594762,,

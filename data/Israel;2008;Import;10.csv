@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Israel,10,Cereals,Australia and New Zealand,Oceania,24588000
-2008,2008,Import,Israel,10,Cereals,Eastern Asia,Asia,6532000
-2008,2008,Import,Israel,10,Cereals,Eastern Europe,Europe,44674000
-2008,2008,Import,Israel,10,Cereals,Latin America and the Caribbean,Americas,11205000
-2008,2008,Import,Israel,10,Cereals,Northern America,Americas,197823000
-2008,2008,Import,Israel,10,Cereals,Northern Europe,Europe,5766000
-2008,2008,Import,Israel,10,Cereals,South-eastern Asia,Asia,44298000
-2008,2008,Import,Israel,10,Cereals,Southern Europe,Europe,3475000
-2008,2008,Import,Israel,10,Cereals,Sub-Saharan Africa,Africa,1252000
-2008,2008,Import,Israel,10,Cereals,Western Asia,Asia,744000
-2008,2008,Import,Israel,10,Cereals,Western Europe,Europe,619560000
-2008,2008,Import,Israel,10,Cereals,World,World,974152000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Israel,10,Cereals,Australia and New Zealand,Oceania,24588000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2008,2008,Import,Israel,10,Cereals,Eastern Asia,Asia,6532000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2008,2008,Import,Israel,10,Cereals,Eastern Europe,Europe,44674000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2008,2008,Import,Israel,10,Cereals,Latin America and the Caribbean,Americas,11205000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2008,2008,Import,Israel,10,Cereals,Northern America,Americas,197823000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2008,2008,Import,Israel,10,Cereals,Northern Europe,Europe,5766000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2008,2008,Import,Israel,10,Cereals,South-eastern Asia,Asia,44298000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2008,2008,Import,Israel,10,Cereals,Southern Europe,Europe,3475000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2008,2008,Import,Israel,10,Cereals,Sub-Saharan Africa,Africa,1252000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2008,2008,Import,Israel,10,Cereals,Western Asia,Asia,744000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2008,2008,Import,Israel,10,Cereals,Western Europe,Europe,619560000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2008,2008,Import,Israel,10,Cereals,World,World,974152000,30.8124247,34.8594762,,

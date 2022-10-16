@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,6530
-2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Eastern Asia,Asia,65658
-2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Northern Africa,Africa,7001515
-2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Northern America,Americas,73068
-2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Northern Europe,Europe,55417
-2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,16690
-2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Southern Asia,Asia,12125
-2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Southern Europe,Europe,10829
-2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,6873
-2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Western Asia,Asia,146524
-2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Western Europe,Europe,21094
-2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,World,World,15753025
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,6530,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Eastern Asia,Asia,65658,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Northern Africa,Africa,7001515,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Northern America,Americas,73068,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Northern Europe,Europe,55417,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,16690,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Southern Asia,Asia,12125,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Southern Europe,Europe,10829,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,6873,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Western Asia,Asia,146524,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,Western Europe,Europe,21094,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2018,2018,Re-Export,Jordan,96,Miscellaneous manufactured articles,World,World,15753025,31.1667049,36.941628,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Azerbaijan,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,1741
-2000,2000,Export,Azerbaijan,38,Miscellaneous chemical products,Central Asia,Asia,51643
-2000,2000,Export,Azerbaijan,38,Miscellaneous chemical products,Eastern Europe,Europe,767325
-2000,2000,Export,Azerbaijan,38,Miscellaneous chemical products,Northern America,Americas,40
-2000,2000,Export,Azerbaijan,38,Miscellaneous chemical products,South-eastern Asia,Asia,1715
-2000,2000,Export,Azerbaijan,38,Miscellaneous chemical products,Western Europe,Europe,18
-2000,2000,Export,Azerbaijan,38,Miscellaneous chemical products,World,World,1138705
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Azerbaijan,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,1741,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2000,2000,Export,Azerbaijan,38,Miscellaneous chemical products,Central Asia,Asia,51643,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2000,2000,Export,Azerbaijan,38,Miscellaneous chemical products,Eastern Europe,Europe,767325,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Export,Azerbaijan,38,Miscellaneous chemical products,Northern America,Americas,40,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Export,Azerbaijan,38,Miscellaneous chemical products,South-eastern Asia,Asia,1715,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Export,Azerbaijan,38,Miscellaneous chemical products,Western Europe,Europe,18,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Export,Azerbaijan,38,Miscellaneous chemical products,World,World,1138705,40.3936294,47.7872508,,

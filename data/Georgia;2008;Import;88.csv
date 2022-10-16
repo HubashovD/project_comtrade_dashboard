@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",Central Asia,Asia,214240
-2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,1182674
-2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,150610
-2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,4301
-2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,24990
-2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",Sub-Saharan Africa,Africa,1697060
-2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,238956
-2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",World,World,3523410
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",Central Asia,Asia,214240,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,1182674,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,150610,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,4301,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,24990,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",Sub-Saharan Africa,Africa,1697060,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,238956,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2008,2008,Import,Georgia,88,"Aircraft, spacecraft, and parts thereof",World,World,3523410,32.3293809,-83.1137366,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Australia and New Zealand,Oceania,135506
-2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Eastern Asia,Asia,13658099
-2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,5904393
-2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Northern Africa,Africa,2198422
-2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Northern America,Americas,79125
-2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Northern Europe,Europe,4129229
-2014,2014,Import,Iraq,17,Sugars and sugar confectionery,South-eastern Asia,Asia,25976074
-2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Southern Asia,Asia,8250
-2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Southern Europe,Europe,2125085
-2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,59020
-2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Western Asia,Asia,16230
-2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Western Europe,Europe,1093175
-2014,2014,Import,Iraq,17,Sugars and sugar confectionery,World,World,388223361
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Australia and New Zealand,Oceania,135506,33.0955793,44.1749775,-16.85099460447687,133.4130365630627
+2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Eastern Asia,Asia,13658099,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,5904393,33.0955793,44.1749775,17.925141963241547,-78.01492950057497
+2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Northern Africa,Africa,2198422,33.0955793,44.1749775,19.569604022535763,12.47761721199581
+2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Northern America,Americas,79125,33.0955793,44.1749775,43.897683433510366,-100.08947125585888
+2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Northern Europe,Europe,4129229,33.0955793,44.1749775,59.36075159783851,25.01346951967388
+2014,2014,Import,Iraq,17,Sugars and sugar confectionery,South-eastern Asia,Asia,25976074,33.0955793,44.1749775,10.528384761701911,103.08333472012376
+2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Southern Asia,Asia,8250,33.0955793,44.1749775,25.499703063807168,75.5024015339642
+2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Southern Europe,Europe,2125085,33.0955793,44.1749775,40.12399607988535,20.742583178432696
+2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,59020,33.0955793,44.1749775,6.06272746187266,22.727528470146083
+2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Western Asia,Asia,16230,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,17,Sugars and sugar confectionery,Western Europe,Europe,1093175,33.0955793,44.1749775,47.92172048214207,7.866753258497997
+2014,2014,Import,Iraq,17,Sugars and sugar confectionery,World,World,388223361,33.0955793,44.1749775,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Australia and New Zealand,Oceania,508411
-2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Central Asia,Asia,3983900
-2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Eastern Asia,Asia,497517
-2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Eastern Europe,Europe,42234101
-2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Latin America and the Caribbean,Americas,5028
-2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Northern America,Americas,173769
-2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Northern Europe,Europe,611870
-2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Southern Asia,Asia,5722540
-2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Southern Europe,Europe,171207
-2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Western Asia,Asia,4662132
-2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Western Europe,Europe,557991
-2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,World,World,90591367
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Australia and New Zealand,Oceania,508411,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Central Asia,Asia,3983900,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Eastern Asia,Asia,497517,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Eastern Europe,Europe,42234101,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Latin America and the Caribbean,Americas,5028,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Northern America,Americas,173769,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Northern Europe,Europe,611870,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Southern Asia,Asia,5722540,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Southern Europe,Europe,171207,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Western Asia,Asia,4662132,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,Western Europe,Europe,557991,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2006,2006,Import,Azerbaijan,25,Salt; sulfur; earths and stone; plastering materials,World,World,90591367,40.3936294,47.7872508,,

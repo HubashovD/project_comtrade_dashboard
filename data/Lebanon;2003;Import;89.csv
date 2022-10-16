@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Australia and New Zealand,Oceania,12540
-2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Eastern Asia,Asia,182059
-2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Eastern Europe,Europe,12228
-2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,1558
-2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Northern Africa,Africa,232
-2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Northern America,Americas,5791991
-2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Northern Europe,Europe,6156203
-2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Southern Europe,Europe,14674350
-2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,49808
-2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Western Asia,Asia,269610
-2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Western Europe,Europe,64385899
-2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",World,World,91867269
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Australia and New Zealand,Oceania,12540,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Eastern Asia,Asia,182059,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Eastern Europe,Europe,12228,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,1558,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Northern Africa,Africa,232,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Northern America,Americas,5791991,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Northern Europe,Europe,6156203,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Southern Europe,Europe,14674350,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,49808,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Western Asia,Asia,269610,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",Western Europe,Europe,64385899,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2003,2003,Import,Lebanon,89,"Ships, boats and floating structures",World,World,91867269,33.8750629,35.843409,,

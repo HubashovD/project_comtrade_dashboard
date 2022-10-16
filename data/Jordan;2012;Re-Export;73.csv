@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Re-Export,Jordan,73,Iron or steel articles,Eastern Asia,Asia,3547
-2012,2012,Re-Export,Jordan,73,Iron or steel articles,Northern Africa,Africa,908504
-2012,2012,Re-Export,Jordan,73,Iron or steel articles,Northern America,Americas,287792
-2012,2012,Re-Export,Jordan,73,Iron or steel articles,South-eastern Asia,Asia,45628
-2012,2012,Re-Export,Jordan,73,Iron or steel articles,Southern Europe,Europe,22229
-2012,2012,Re-Export,Jordan,73,Iron or steel articles,Sub-Saharan Africa,Africa,40941
-2012,2012,Re-Export,Jordan,73,Iron or steel articles,Western Asia,Asia,669403
-2012,2012,Re-Export,Jordan,73,Iron or steel articles,Western Europe,Europe,97970
-2012,2012,Re-Export,Jordan,73,Iron or steel articles,World,World,27619373
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Re-Export,Jordan,73,Iron or steel articles,Eastern Asia,Asia,3547,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2012,2012,Re-Export,Jordan,73,Iron or steel articles,Northern Africa,Africa,908504,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2012,2012,Re-Export,Jordan,73,Iron or steel articles,Northern America,Americas,287792,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2012,2012,Re-Export,Jordan,73,Iron or steel articles,South-eastern Asia,Asia,45628,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2012,2012,Re-Export,Jordan,73,Iron or steel articles,Southern Europe,Europe,22229,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2012,2012,Re-Export,Jordan,73,Iron or steel articles,Sub-Saharan Africa,Africa,40941,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2012,2012,Re-Export,Jordan,73,Iron or steel articles,Western Asia,Asia,669403,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2012,2012,Re-Export,Jordan,73,Iron or steel articles,Western Europe,Europe,97970,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2012,2012,Re-Export,Jordan,73,Iron or steel articles,World,World,27619373,31.1667049,36.941628,,

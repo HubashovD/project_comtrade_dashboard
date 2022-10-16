@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,5026
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Central Asia,Asia,1204
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Eastern Asia,Asia,35016087
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Eastern Europe,Europe,7214192
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,436997
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Northern Africa,Africa,3707516
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Northern America,Americas,4333848
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Northern Europe,Europe,10139674
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,4351026
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Southern Asia,Asia,205150
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Southern Europe,Europe,9288272
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,299240
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Western Asia,Asia,3451238
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Western Europe,Europe,16540857
-2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,World,World,139450962
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Australia and New Zealand,Oceania,5026,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Central Asia,Asia,1204,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Eastern Asia,Asia,35016087,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Eastern Europe,Europe,7214192,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,436997,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Northern Africa,Africa,3707516,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Northern America,Americas,4333848,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Northern Europe,Europe,10139674,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,4351026,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Southern Asia,Asia,205150,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Southern Europe,Europe,9288272,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Sub-Saharan Africa,Africa,299240,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Western Asia,Asia,3451238,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,Western Europe,Europe,16540857,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2016,2016,Import,Kuwait,96,Miscellaneous manufactured articles,World,World,139450962,29.2733964,47.4979476,,

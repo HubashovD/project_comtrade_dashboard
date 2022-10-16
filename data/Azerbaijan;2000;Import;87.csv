@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,196
-2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Central Asia,Asia,318831
-2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,3149897
-2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,36609472
-2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Northern America,Americas,592987
-2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Northern Europe,Europe,664526
-2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,43468
-2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Southern Asia,Asia,848376
-2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Southern Europe,Europe,2396381
-2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Western Asia,Asia,1080946
-2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Western Europe,Europe,5538573
-2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",World,World,51519307
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,196,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Central Asia,Asia,318831,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,3149897,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,36609472,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Northern America,Americas,592987,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Northern Europe,Europe,664526,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,43468,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Southern Asia,Asia,848376,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Southern Europe,Europe,2396381,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Western Asia,Asia,1080946,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",Western Europe,Europe,5538573,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Import,Azerbaijan,87,"Vehicles other than railway, tramway",World,World,51519307,40.3936294,47.7872508,,

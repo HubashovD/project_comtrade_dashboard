@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Azerbaijan,31,Fertilizers,Eastern Europe,Europe,11939
-1997,1997,Import,Azerbaijan,31,Fertilizers,Western Asia,Asia,327450
-1997,1997,Import,Azerbaijan,31,Fertilizers,Western Europe,Europe,1110
-1997,1997,Import,Azerbaijan,31,Fertilizers,World,World,2500037
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Azerbaijan,31,Fertilizers,Eastern Europe,Europe,11939,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1997,1997,Import,Azerbaijan,31,Fertilizers,Western Asia,Asia,327450,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1997,1997,Import,Azerbaijan,31,Fertilizers,Western Europe,Europe,1110,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1997,1997,Import,Azerbaijan,31,Fertilizers,World,World,2500037,40.3936294,47.7872508,,

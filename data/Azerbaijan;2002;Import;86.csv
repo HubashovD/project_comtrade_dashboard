@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",Central Asia,Asia,49970
-2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Europe,Europe,23394478
-2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,25018
-2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,38006
-2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",South-eastern Asia,Asia,1577
-2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",Southern Europe,Europe,5775
-2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",Western Asia,Asia,84359
-2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,180615
-2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,23779800
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",Central Asia,Asia,49970,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",Eastern Europe,Europe,23394478,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,25018,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,38006,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",South-eastern Asia,Asia,1577,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",Southern Europe,Europe,5775,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",Western Asia,Asia,84359,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",Western Europe,Europe,180615,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2002,2002,Import,Azerbaijan,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,23779800,40.3936294,47.7872508,,

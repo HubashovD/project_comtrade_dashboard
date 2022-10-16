@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,Israel,72,Iron and steel,Australia and New Zealand,Oceania,3018000
-2010,2010,Export,Israel,72,Iron and steel,Central Asia,Asia,14000
-2010,2010,Export,Israel,72,Iron and steel,Eastern Asia,Asia,10260000
-2010,2010,Export,Israel,72,Iron and steel,Eastern Europe,Europe,2300000
-2010,2010,Export,Israel,72,Iron and steel,Latin America and the Caribbean,Americas,3472000
-2010,2010,Export,Israel,72,Iron and steel,Northern Africa,Africa,697000
-2010,2010,Export,Israel,72,Iron and steel,Northern America,Americas,127495000
-2010,2010,Export,Israel,72,Iron and steel,Northern Europe,Europe,11958000
-2010,2010,Export,Israel,72,Iron and steel,South-eastern Asia,Asia,623000
-2010,2010,Export,Israel,72,Iron and steel,Southern Asia,Asia,25000
-2010,2010,Export,Israel,72,Iron and steel,Southern Europe,Europe,10578000
-2010,2010,Export,Israel,72,Iron and steel,Sub-Saharan Africa,Africa,1581000
-2010,2010,Export,Israel,72,Iron and steel,Western Asia,Asia,124411000
-2010,2010,Export,Israel,72,Iron and steel,Western Europe,Europe,28430000
-2010,2010,Export,Israel,72,Iron and steel,World,World,330328000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,Israel,72,Iron and steel,Australia and New Zealand,Oceania,3018000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2010,2010,Export,Israel,72,Iron and steel,Central Asia,Asia,14000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2010,2010,Export,Israel,72,Iron and steel,Eastern Asia,Asia,10260000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2010,2010,Export,Israel,72,Iron and steel,Eastern Europe,Europe,2300000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2010,2010,Export,Israel,72,Iron and steel,Latin America and the Caribbean,Americas,3472000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2010,2010,Export,Israel,72,Iron and steel,Northern Africa,Africa,697000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2010,2010,Export,Israel,72,Iron and steel,Northern America,Americas,127495000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2010,2010,Export,Israel,72,Iron and steel,Northern Europe,Europe,11958000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2010,2010,Export,Israel,72,Iron and steel,South-eastern Asia,Asia,623000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2010,2010,Export,Israel,72,Iron and steel,Southern Asia,Asia,25000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2010,2010,Export,Israel,72,Iron and steel,Southern Europe,Europe,10578000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2010,2010,Export,Israel,72,Iron and steel,Sub-Saharan Africa,Africa,1581000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2010,2010,Export,Israel,72,Iron and steel,Western Asia,Asia,124411000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2010,2010,Export,Israel,72,Iron and steel,Western Europe,Europe,28430000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2010,2010,Export,Israel,72,Iron and steel,World,World,330328000,30.8124247,34.8594762,,

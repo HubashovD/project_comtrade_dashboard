@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Australia and New Zealand,Oceania,146516
-2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Eastern Asia,Asia,19196021
-2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Eastern Europe,Europe,1656123
-2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Latin America and the Caribbean,Americas,2436804
-2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Northern Africa,Africa,5064097
-2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Northern America,Americas,2743856
-2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Northern Europe,Europe,923100
-2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",South-eastern Asia,Asia,306628
-2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Southern Asia,Asia,151436
-2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Southern Europe,Europe,1514371
-2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Sub-Saharan Africa,Africa,8311724
-2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Western Asia,Asia,308816
-2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Western Europe,Europe,3899255
-2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",World,World,70530459
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Australia and New Zealand,Oceania,146516,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Eastern Asia,Asia,19196021,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Eastern Europe,Europe,1656123,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Latin America and the Caribbean,Americas,2436804,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Northern Africa,Africa,5064097,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Northern America,Americas,2743856,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Northern Europe,Europe,923100,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",South-eastern Asia,Asia,306628,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Southern Asia,Asia,151436,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Southern Europe,Europe,1514371,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Sub-Saharan Africa,Africa,8311724,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Western Asia,Asia,308816,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",Western Europe,Europe,3899255,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2009,2009,Import,Lebanon,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",World,World,70530459,33.8750629,35.843409,,

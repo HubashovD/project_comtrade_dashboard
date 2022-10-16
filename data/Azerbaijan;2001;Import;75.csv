@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Azerbaijan,75,Nickel and articles thereof,Eastern Europe,Europe,212351
-2001,2001,Import,Azerbaijan,75,Nickel and articles thereof,Northern Europe,Europe,36720
-2001,2001,Import,Azerbaijan,75,Nickel and articles thereof,South-eastern Asia,Asia,1550
-2001,2001,Import,Azerbaijan,75,Nickel and articles thereof,Western Europe,Europe,146000
-2001,2001,Import,Azerbaijan,75,Nickel and articles thereof,World,World,396621
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Azerbaijan,75,Nickel and articles thereof,Eastern Europe,Europe,212351,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2001,2001,Import,Azerbaijan,75,Nickel and articles thereof,Northern Europe,Europe,36720,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2001,2001,Import,Azerbaijan,75,Nickel and articles thereof,South-eastern Asia,Asia,1550,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2001,2001,Import,Azerbaijan,75,Nickel and articles thereof,Western Europe,Europe,146000,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2001,2001,Import,Azerbaijan,75,Nickel and articles thereof,World,World,396621,40.3936294,47.7872508,,

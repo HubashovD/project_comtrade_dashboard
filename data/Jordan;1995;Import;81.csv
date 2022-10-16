@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Jordan,81,"Other base metals, cermets, articles thereof",Eastern Asia,Asia,33178
-1995,1995,Import,Jordan,81,"Other base metals, cermets, articles thereof",Southern Europe,Europe,9389
-1995,1995,Import,Jordan,81,"Other base metals, cermets, articles thereof",Western Europe,Europe,78358
-1995,1995,Import,Jordan,81,"Other base metals, cermets, articles thereof",World,World,126320
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Jordan,81,"Other base metals, cermets, articles thereof",Eastern Asia,Asia,33178,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1995,1995,Import,Jordan,81,"Other base metals, cermets, articles thereof",Southern Europe,Europe,9389,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Import,Jordan,81,"Other base metals, cermets, articles thereof",Western Europe,Europe,78358,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Import,Jordan,81,"Other base metals, cermets, articles thereof",World,World,126320,31.1667049,36.941628,,

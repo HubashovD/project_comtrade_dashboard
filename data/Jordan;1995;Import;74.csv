@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Jordan,74,Copper and articles thereof,Australia and New Zealand,Oceania,96794
-1995,1995,Import,Jordan,74,Copper and articles thereof,Eastern Asia,Asia,319018
-1995,1995,Import,Jordan,74,Copper and articles thereof,Eastern Europe,Europe,104707
-1995,1995,Import,Jordan,74,Copper and articles thereof,Northern Africa,Africa,52611
-1995,1995,Import,Jordan,74,Copper and articles thereof,Northern America,Americas,374649
-1995,1995,Import,Jordan,74,Copper and articles thereof,Northern Europe,Europe,616002
-1995,1995,Import,Jordan,74,Copper and articles thereof,Southern Europe,Europe,3606763
-1995,1995,Import,Jordan,74,Copper and articles thereof,Western Asia,Asia,547775
-1995,1995,Import,Jordan,74,Copper and articles thereof,Western Europe,Europe,1185026
-1995,1995,Import,Jordan,74,Copper and articles thereof,World,World,23918008
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Jordan,74,Copper and articles thereof,Australia and New Zealand,Oceania,96794,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1995,1995,Import,Jordan,74,Copper and articles thereof,Eastern Asia,Asia,319018,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1995,1995,Import,Jordan,74,Copper and articles thereof,Eastern Europe,Europe,104707,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1995,1995,Import,Jordan,74,Copper and articles thereof,Northern Africa,Africa,52611,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1995,1995,Import,Jordan,74,Copper and articles thereof,Northern America,Americas,374649,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1995,1995,Import,Jordan,74,Copper and articles thereof,Northern Europe,Europe,616002,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1995,1995,Import,Jordan,74,Copper and articles thereof,Southern Europe,Europe,3606763,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Import,Jordan,74,Copper and articles thereof,Western Asia,Asia,547775,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1995,1995,Import,Jordan,74,Copper and articles thereof,Western Europe,Europe,1185026,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Import,Jordan,74,Copper and articles thereof,World,World,23918008,31.1667049,36.941628,,

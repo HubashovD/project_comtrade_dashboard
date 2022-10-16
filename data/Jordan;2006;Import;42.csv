@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Australia and New Zealand,Oceania,289
-2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Eastern Asia,Asia,8449083
-2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Eastern Europe,Europe,16361
-2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Latin America and the Caribbean,Americas,25389
-2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Northern Africa,Africa,185639
-2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Northern America,Americas,253869
-2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Northern Europe,Europe,168956
-2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,South-eastern Asia,Asia,159012
-2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Southern Asia,Asia,2388
-2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Southern Europe,Europe,379934
-2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Sub-Saharan Africa,Africa,7415
-2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Western Asia,Asia,317414
-2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Western Europe,Europe,418939
-2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,World,World,10773028
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Australia and New Zealand,Oceania,289,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Eastern Asia,Asia,8449083,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Eastern Europe,Europe,16361,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Latin America and the Caribbean,Americas,25389,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Northern Africa,Africa,185639,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Northern America,Americas,253869,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Northern Europe,Europe,168956,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,South-eastern Asia,Asia,159012,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Southern Asia,Asia,2388,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Southern Europe,Europe,379934,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Sub-Saharan Africa,Africa,7415,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Western Asia,Asia,317414,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,Western Europe,Europe,418939,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2006,2006,Import,Jordan,42,Articles of leather; saddlery and harness,World,World,10773028,31.1667049,36.941628,,

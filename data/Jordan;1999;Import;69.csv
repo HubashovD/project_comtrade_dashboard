@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Jordan,69,Ceramic products,Australia and New Zealand,Oceania,10366
-1999,1999,Import,Jordan,69,Ceramic products,Eastern Asia,Asia,4662330
-1999,1999,Import,Jordan,69,Ceramic products,Eastern Europe,Europe,29040
-1999,1999,Import,Jordan,69,Ceramic products,Northern Africa,Africa,564409
-1999,1999,Import,Jordan,69,Ceramic products,Northern America,Americas,122161
-1999,1999,Import,Jordan,69,Ceramic products,Northern Europe,Europe,636645
-1999,1999,Import,Jordan,69,Ceramic products,South-eastern Asia,Asia,395955
-1999,1999,Import,Jordan,69,Ceramic products,Southern Asia,Asia,90761
-1999,1999,Import,Jordan,69,Ceramic products,Southern Europe,Europe,8515497
-1999,1999,Import,Jordan,69,Ceramic products,Western Asia,Asia,681696
-1999,1999,Import,Jordan,69,Ceramic products,Western Europe,Europe,1636226
-1999,1999,Import,Jordan,69,Ceramic products,World,World,19262148
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Jordan,69,Ceramic products,Australia and New Zealand,Oceania,10366,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1999,1999,Import,Jordan,69,Ceramic products,Eastern Asia,Asia,4662330,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1999,1999,Import,Jordan,69,Ceramic products,Eastern Europe,Europe,29040,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1999,1999,Import,Jordan,69,Ceramic products,Northern Africa,Africa,564409,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1999,1999,Import,Jordan,69,Ceramic products,Northern America,Americas,122161,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1999,1999,Import,Jordan,69,Ceramic products,Northern Europe,Europe,636645,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1999,1999,Import,Jordan,69,Ceramic products,South-eastern Asia,Asia,395955,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1999,1999,Import,Jordan,69,Ceramic products,Southern Asia,Asia,90761,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1999,1999,Import,Jordan,69,Ceramic products,Southern Europe,Europe,8515497,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1999,1999,Import,Jordan,69,Ceramic products,Western Asia,Asia,681696,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Import,Jordan,69,Ceramic products,Western Europe,Europe,1636226,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Import,Jordan,69,Ceramic products,World,World,19262148,31.1667049,36.941628,,

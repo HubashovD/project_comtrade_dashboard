@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Re-Export,Jordan,10,Cereals,Eastern Europe,Europe,67394
-2016,2016,Re-Export,Jordan,10,Cereals,Northern America,Americas,65579
-2016,2016,Re-Export,Jordan,10,Cereals,Western Asia,Asia,1231362
-2016,2016,Re-Export,Jordan,10,Cereals,World,World,3004072
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Re-Export,Jordan,10,Cereals,Eastern Europe,Europe,67394,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2016,2016,Re-Export,Jordan,10,Cereals,Northern America,Americas,65579,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2016,2016,Re-Export,Jordan,10,Cereals,Western Asia,Asia,1231362,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2016,2016,Re-Export,Jordan,10,Cereals,World,World,3004072,31.1667049,36.941628,,

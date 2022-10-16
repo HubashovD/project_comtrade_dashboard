@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Israel,26,"Ores, slag and ash",Australia and New Zealand,Oceania,47000
-1997,1997,Import,Israel,26,"Ores, slag and ash",Eastern Asia,Asia,196000
-1997,1997,Import,Israel,26,"Ores, slag and ash",Northern Africa,Africa,2000
-1997,1997,Import,Israel,26,"Ores, slag and ash",Northern America,Americas,318000
-1997,1997,Import,Israel,26,"Ores, slag and ash",Northern Europe,Europe,719000
-1997,1997,Import,Israel,26,"Ores, slag and ash",Southern Europe,Europe,8848000
-1997,1997,Import,Israel,26,"Ores, slag and ash",Western Asia,Asia,590000
-1997,1997,Import,Israel,26,"Ores, slag and ash",Western Europe,Europe,5696000
-1997,1997,Import,Israel,26,"Ores, slag and ash",World,World,17620000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Israel,26,"Ores, slag and ash",Australia and New Zealand,Oceania,47000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1997,1997,Import,Israel,26,"Ores, slag and ash",Eastern Asia,Asia,196000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1997,1997,Import,Israel,26,"Ores, slag and ash",Northern Africa,Africa,2000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1997,1997,Import,Israel,26,"Ores, slag and ash",Northern America,Americas,318000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1997,1997,Import,Israel,26,"Ores, slag and ash",Northern Europe,Europe,719000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1997,1997,Import,Israel,26,"Ores, slag and ash",Southern Europe,Europe,8848000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1997,1997,Import,Israel,26,"Ores, slag and ash",Western Asia,Asia,590000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1997,1997,Import,Israel,26,"Ores, slag and ash",Western Europe,Europe,5696000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1997,1997,Import,Israel,26,"Ores, slag and ash",World,World,17620000,30.8124247,34.8594762,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,55,Man-made staple fibers,Eastern Asia,Asia,2036332
-2014,2014,Import,Iraq,55,Man-made staple fibers,Eastern Europe,Europe,1200
-2014,2014,Import,Iraq,55,Man-made staple fibers,South-eastern Asia,Asia,36711
-2014,2014,Import,Iraq,55,Man-made staple fibers,Southern Asia,Asia,3764
-2014,2014,Import,Iraq,55,Man-made staple fibers,Western Asia,Asia,67654
-2014,2014,Import,Iraq,55,Man-made staple fibers,World,World,2425400
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,55,Man-made staple fibers,Eastern Asia,Asia,2036332,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,55,Man-made staple fibers,Eastern Europe,Europe,1200,33.0955793,44.1749775,51.67568633314729,27.673469819741847
+2014,2014,Import,Iraq,55,Man-made staple fibers,South-eastern Asia,Asia,36711,33.0955793,44.1749775,10.528384761701911,103.08333472012376
+2014,2014,Import,Iraq,55,Man-made staple fibers,Southern Asia,Asia,3764,33.0955793,44.1749775,25.499703063807168,75.5024015339642
+2014,2014,Import,Iraq,55,Man-made staple fibers,Western Asia,Asia,67654,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,55,Man-made staple fibers,World,World,2425400,33.0955793,44.1749775,,

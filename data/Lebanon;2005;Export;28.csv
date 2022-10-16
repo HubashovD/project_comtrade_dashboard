@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Lebanon,28,Inorganic chemicals,Northern America,Americas,8000
-2005,2005,Export,Lebanon,28,Inorganic chemicals,Northern Europe,Europe,1000
-2005,2005,Export,Lebanon,28,Inorganic chemicals,Southern Asia,Asia,2000
-2005,2005,Export,Lebanon,28,Inorganic chemicals,Southern Europe,Europe,10888000
-2005,2005,Export,Lebanon,28,Inorganic chemicals,Sub-Saharan Africa,Africa,125000
-2005,2005,Export,Lebanon,28,Inorganic chemicals,Western Asia,Asia,27100000
-2005,2005,Export,Lebanon,28,Inorganic chemicals,World,World,50363000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Lebanon,28,Inorganic chemicals,Northern America,Americas,8000,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2005,2005,Export,Lebanon,28,Inorganic chemicals,Northern Europe,Europe,1000,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2005,2005,Export,Lebanon,28,Inorganic chemicals,Southern Asia,Asia,2000,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2005,2005,Export,Lebanon,28,Inorganic chemicals,Southern Europe,Europe,10888000,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2005,2005,Export,Lebanon,28,Inorganic chemicals,Sub-Saharan Africa,Africa,125000,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2005,2005,Export,Lebanon,28,Inorganic chemicals,Western Asia,Asia,27100000,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2005,2005,Export,Lebanon,28,Inorganic chemicals,World,World,50363000,33.8750629,35.843409,,

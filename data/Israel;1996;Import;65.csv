@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Israel,65,Headgear and parts thereof,Eastern Asia,Asia,5283000
-1996,1996,Import,Israel,65,Headgear and parts thereof,Eastern Europe,Europe,157000
-1996,1996,Import,Israel,65,Headgear and parts thereof,Northern America,Americas,1767000
-1996,1996,Import,Israel,65,Headgear and parts thereof,Northern Europe,Europe,825000
-1996,1996,Import,Israel,65,Headgear and parts thereof,South-eastern Asia,Asia,162000
-1996,1996,Import,Israel,65,Headgear and parts thereof,Southern Asia,Asia,60000
-1996,1996,Import,Israel,65,Headgear and parts thereof,Southern Europe,Europe,4347000
-1996,1996,Import,Israel,65,Headgear and parts thereof,Western Asia,Asia,39000
-1996,1996,Import,Israel,65,Headgear and parts thereof,Western Europe,Europe,488000
-1996,1996,Import,Israel,65,Headgear and parts thereof,World,World,14936000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Israel,65,Headgear and parts thereof,Eastern Asia,Asia,5283000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1996,1996,Import,Israel,65,Headgear and parts thereof,Eastern Europe,Europe,157000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1996,1996,Import,Israel,65,Headgear and parts thereof,Northern America,Americas,1767000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1996,1996,Import,Israel,65,Headgear and parts thereof,Northern Europe,Europe,825000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1996,1996,Import,Israel,65,Headgear and parts thereof,South-eastern Asia,Asia,162000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1996,1996,Import,Israel,65,Headgear and parts thereof,Southern Asia,Asia,60000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+1996,1996,Import,Israel,65,Headgear and parts thereof,Southern Europe,Europe,4347000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1996,1996,Import,Israel,65,Headgear and parts thereof,Western Asia,Asia,39000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1996,1996,Import,Israel,65,Headgear and parts thereof,Western Europe,Europe,488000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1996,1996,Import,Israel,65,Headgear and parts thereof,World,World,14936000,30.8124247,34.8594762,,

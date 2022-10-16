@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Export,Kuwait,26,"Ores, slag and ash",Northern Europe,Europe,501
-2019,2019,Export,Kuwait,26,"Ores, slag and ash",Southern Europe,Europe,521
-2019,2019,Export,Kuwait,26,"Ores, slag and ash",World,World,364131
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Export,Kuwait,26,"Ores, slag and ash",Northern Europe,Europe,501,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2019,2019,Export,Kuwait,26,"Ores, slag and ash",Southern Europe,Europe,521,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2019,2019,Export,Kuwait,26,"Ores, slag and ash",World,World,364131,29.2733964,47.4979476,,

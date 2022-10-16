@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Jordan,26,"Ores, slag and ash",Eastern Asia,Asia,18250
-2020,2020,Import,Jordan,26,"Ores, slag and ash",Northern Africa,Africa,580239
-2020,2020,Import,Jordan,26,"Ores, slag and ash",World,World,697508
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Jordan,26,"Ores, slag and ash",Eastern Asia,Asia,18250,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2020,2020,Import,Jordan,26,"Ores, slag and ash",Northern Africa,Africa,580239,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2020,2020,Import,Jordan,26,"Ores, slag and ash",World,World,697508,31.1667049,36.941628,,

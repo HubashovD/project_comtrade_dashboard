@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Jordan,79,Zinc and articles thereof,Eastern Asia,Asia,197524
-2016,2016,Import,Jordan,79,Zinc and articles thereof,Latin America and the Caribbean,Americas,302247
-2016,2016,Import,Jordan,79,Zinc and articles thereof,Northern America,Americas,3585
-2016,2016,Import,Jordan,79,Zinc and articles thereof,Northern Europe,Europe,182983
-2016,2016,Import,Jordan,79,Zinc and articles thereof,Southern Europe,Europe,625827
-2016,2016,Import,Jordan,79,Zinc and articles thereof,Sub-Saharan Africa,Africa,155151
-2016,2016,Import,Jordan,79,Zinc and articles thereof,Western Asia,Asia,51599
-2016,2016,Import,Jordan,79,Zinc and articles thereof,Western Europe,Europe,1294160
-2016,2016,Import,Jordan,79,Zinc and articles thereof,World,World,2818685
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Jordan,79,Zinc and articles thereof,Eastern Asia,Asia,197524,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2016,2016,Import,Jordan,79,Zinc and articles thereof,Latin America and the Caribbean,Americas,302247,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2016,2016,Import,Jordan,79,Zinc and articles thereof,Northern America,Americas,3585,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2016,2016,Import,Jordan,79,Zinc and articles thereof,Northern Europe,Europe,182983,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2016,2016,Import,Jordan,79,Zinc and articles thereof,Southern Europe,Europe,625827,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2016,2016,Import,Jordan,79,Zinc and articles thereof,Sub-Saharan Africa,Africa,155151,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2016,2016,Import,Jordan,79,Zinc and articles thereof,Western Asia,Asia,51599,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2016,2016,Import,Jordan,79,Zinc and articles thereof,Western Europe,Europe,1294160,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2016,2016,Import,Jordan,79,Zinc and articles thereof,World,World,2818685,31.1667049,36.941628,,

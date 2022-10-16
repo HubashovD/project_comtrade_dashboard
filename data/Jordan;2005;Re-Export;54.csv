@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Re-Export,Jordan,54,Man-made filaments,Eastern Asia,Asia,117875
-2005,2005,Re-Export,Jordan,54,Man-made filaments,Latin America and the Caribbean,Americas,29619
-2005,2005,Re-Export,Jordan,54,Man-made filaments,Northern Africa,Africa,9388
-2005,2005,Re-Export,Jordan,54,Man-made filaments,South-eastern Asia,Asia,967
-2005,2005,Re-Export,Jordan,54,Man-made filaments,Western Asia,Asia,69516
-2005,2005,Re-Export,Jordan,54,Man-made filaments,Western Europe,Europe,2196
-2005,2005,Re-Export,Jordan,54,Man-made filaments,World,World,1365588
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Re-Export,Jordan,54,Man-made filaments,Eastern Asia,Asia,117875,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2005,2005,Re-Export,Jordan,54,Man-made filaments,Latin America and the Caribbean,Americas,29619,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2005,2005,Re-Export,Jordan,54,Man-made filaments,Northern Africa,Africa,9388,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2005,2005,Re-Export,Jordan,54,Man-made filaments,South-eastern Asia,Asia,967,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2005,2005,Re-Export,Jordan,54,Man-made filaments,Western Asia,Asia,69516,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2005,2005,Re-Export,Jordan,54,Man-made filaments,Western Europe,Europe,2196,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2005,2005,Re-Export,Jordan,54,Man-made filaments,World,World,1365588,31.1667049,36.941628,,

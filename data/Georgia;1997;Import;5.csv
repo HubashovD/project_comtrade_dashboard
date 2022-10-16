@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Georgia,5,"Products of animal origin, nes",Eastern Europe,Europe,530
-1997,1997,Import,Georgia,5,"Products of animal origin, nes",Southern Asia,Asia,6513
-1997,1997,Import,Georgia,5,"Products of animal origin, nes",Western Asia,Asia,8099
-1997,1997,Import,Georgia,5,"Products of animal origin, nes",World,World,15142
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Georgia,5,"Products of animal origin, nes",Eastern Europe,Europe,530,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1997,1997,Import,Georgia,5,"Products of animal origin, nes",Southern Asia,Asia,6513,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1997,1997,Import,Georgia,5,"Products of animal origin, nes",Western Asia,Asia,8099,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1997,1997,Import,Georgia,5,"Products of animal origin, nes",World,World,15142,32.3293809,-83.1137366,,

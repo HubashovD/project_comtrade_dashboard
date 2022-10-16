@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Re-Export,Kuwait,30,Pharmaceutical products,Southern Asia,Asia,3020
-2003,2003,Re-Export,Kuwait,30,Pharmaceutical products,Western Europe,Europe,11372
-2003,2003,Re-Export,Kuwait,30,Pharmaceutical products,World,World,1423432
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Re-Export,Kuwait,30,Pharmaceutical products,Southern Asia,Asia,3020,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2003,2003,Re-Export,Kuwait,30,Pharmaceutical products,Western Europe,Europe,11372,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2003,2003,Re-Export,Kuwait,30,Pharmaceutical products,World,World,1423432,29.2733964,47.4979476,,

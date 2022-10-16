@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Australia and New Zealand,Oceania,38000
-2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Eastern Asia,Asia,81169000
-2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Eastern Europe,Europe,3856000
-2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Latin America and the Caribbean,Americas,971000
-2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Northern Africa,Africa,8000
-2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Northern America,Americas,14395000
-2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Northern Europe,Europe,7671000
-2011,2011,Import,Israel,83,Miscellaneous articles of base metal,South-eastern Asia,Asia,1362000
-2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Southern Europe,Europe,36114000
-2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Sub-Saharan Africa,Africa,82000
-2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Western Asia,Asia,6407000
-2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Western Europe,Europe,60408000
-2011,2011,Import,Israel,83,Miscellaneous articles of base metal,World,World,221942000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Australia and New Zealand,Oceania,38000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Eastern Asia,Asia,81169000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Eastern Europe,Europe,3856000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Latin America and the Caribbean,Americas,971000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Northern Africa,Africa,8000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Northern America,Americas,14395000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Northern Europe,Europe,7671000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2011,2011,Import,Israel,83,Miscellaneous articles of base metal,South-eastern Asia,Asia,1362000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Southern Europe,Europe,36114000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Sub-Saharan Africa,Africa,82000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Western Asia,Asia,6407000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2011,2011,Import,Israel,83,Miscellaneous articles of base metal,Western Europe,Europe,60408000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2011,2011,Import,Israel,83,Miscellaneous articles of base metal,World,World,221942000,30.8124247,34.8594762,,

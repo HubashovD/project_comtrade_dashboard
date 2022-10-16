@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Georgia,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,315691
-1997,1997,Export,Georgia,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,8800
-1997,1997,Export,Georgia,49,"Printed books, newspapers, pictures etc",World,World,411963
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Georgia,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,315691,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1997,1997,Export,Georgia,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,8800,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1997,1997,Export,Georgia,49,"Printed books, newspapers, pictures etc",World,World,411963,32.3293809,-83.1137366,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Lebanon,1,Animals; live,Eastern Europe,Europe,16710
-2021,2021,Export,Lebanon,1,Animals; live,Northern Africa,Africa,1580
-2021,2021,Export,Lebanon,1,Animals; live,South-eastern Asia,Asia,17578
-2021,2021,Export,Lebanon,1,Animals; live,Southern Asia,Asia,2068
-2021,2021,Export,Lebanon,1,Animals; live,Sub-Saharan Africa,Africa,8200
-2021,2021,Export,Lebanon,1,Animals; live,Western Asia,Asia,17294
-2021,2021,Export,Lebanon,1,Animals; live,Western Europe,Europe,15362
-2021,2021,Export,Lebanon,1,Animals; live,World,World,31130814
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Lebanon,1,Animals; live,Eastern Europe,Europe,16710,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2021,2021,Export,Lebanon,1,Animals; live,Northern Africa,Africa,1580,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2021,2021,Export,Lebanon,1,Animals; live,South-eastern Asia,Asia,17578,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2021,2021,Export,Lebanon,1,Animals; live,Southern Asia,Asia,2068,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2021,2021,Export,Lebanon,1,Animals; live,Sub-Saharan Africa,Africa,8200,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2021,2021,Export,Lebanon,1,Animals; live,Western Asia,Asia,17294,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2021,2021,Export,Lebanon,1,Animals; live,Western Europe,Europe,15362,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2021,2021,Export,Lebanon,1,Animals; live,World,World,31130814,33.8750629,35.843409,,

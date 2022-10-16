@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,24543
-1998,1998,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Latin America and the Caribbean,Americas,1259
-1998,1998,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,15062
-1998,1998,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,3777
-1998,1998,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,80849
-1998,1998,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,3913
-1998,1998,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",World,World,381219
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,24543,33.8750629,35.843409,51.67568633314729,27.673469819741847
+1998,1998,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Latin America and the Caribbean,Americas,1259,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+1998,1998,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,15062,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1998,1998,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,3777,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1998,1998,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,80849,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1998,1998,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,3913,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1998,1998,Export,Lebanon,27,"Mineral fuels, oils, distillation products, etc",World,World,381219,33.8750629,35.843409,,

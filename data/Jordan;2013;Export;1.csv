@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Export,Jordan,1,Animals; live,Northern Africa,Africa,320614
-2013,2013,Export,Jordan,1,Animals; live,Northern Europe,Europe,8261
-2013,2013,Export,Jordan,1,Animals; live,Western Asia,Asia,606633
-2013,2013,Export,Jordan,1,Animals; live,Western Europe,Europe,297068
-2013,2013,Export,Jordan,1,Animals; live,World,World,231769894
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Export,Jordan,1,Animals; live,Northern Africa,Africa,320614,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2013,2013,Export,Jordan,1,Animals; live,Northern Europe,Europe,8261,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2013,2013,Export,Jordan,1,Animals; live,Western Asia,Asia,606633,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2013,2013,Export,Jordan,1,Animals; live,Western Europe,Europe,297068,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2013,2013,Export,Jordan,1,Animals; live,World,World,231769894,31.1667049,36.941628,,

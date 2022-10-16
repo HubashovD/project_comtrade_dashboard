@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Australia and New Zealand,Oceania,68291
-2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Asia,Asia,6023227
-2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Europe,Europe,1564345
-2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Latin America and the Caribbean,Americas,2789789
-2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Africa,Africa,25292422
-2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern America,Americas,3761696
-2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Europe,Europe,270636
-2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",South-eastern Asia,Asia,9351872
-2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Asia,Asia,151175
-2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Europe,Europe,5325899
-2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Asia,Asia,5895705
-2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Europe,Europe,38142987
-2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,121695386
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Australia and New Zealand,Oceania,68291,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Asia,Asia,6023227,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Eastern Europe,Europe,1564345,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Latin America and the Caribbean,Americas,2789789,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Africa,Africa,25292422,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern America,Americas,3761696,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Northern Europe,Europe,270636,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",South-eastern Asia,Asia,9351872,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Asia,Asia,151175,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Southern Europe,Europe,5325899,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Asia,Asia,5895705,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",Western Europe,Europe,38142987,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2017,2017,Import,Jordan,20,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,121695386,31.1667049,36.941628,,

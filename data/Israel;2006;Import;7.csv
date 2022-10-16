@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Australia and New Zealand,Oceania,443000
-2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Eastern Asia,Asia,7959000
-2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Eastern Europe,Europe,643000
-2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Latin America and the Caribbean,Americas,2325000
-2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Northern Africa,Africa,3268000
-2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Northern America,Americas,6561000
-2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Northern Europe,Europe,4545000
-2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,South-eastern Asia,Asia,129000
-2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Southern Europe,Europe,319000
-2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Sub-Saharan Africa,Africa,95000
-2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Western Asia,Asia,1639000
-2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Western Europe,Europe,22052000
-2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,World,World,52511000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Australia and New Zealand,Oceania,443000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Eastern Asia,Asia,7959000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Eastern Europe,Europe,643000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Latin America and the Caribbean,Americas,2325000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Northern Africa,Africa,3268000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Northern America,Americas,6561000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Northern Europe,Europe,4545000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,South-eastern Asia,Asia,129000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Southern Europe,Europe,319000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Sub-Saharan Africa,Africa,95000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Western Asia,Asia,1639000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,Western Europe,Europe,22052000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2006,2006,Import,Israel,7,Edible vegetables and certain roots and tubers,World,World,52511000,30.8124247,34.8594762,,

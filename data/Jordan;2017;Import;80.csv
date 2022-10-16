@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Jordan,80,Tin; articles thereof,Eastern Asia,Asia,1601
-2017,2017,Import,Jordan,80,Tin; articles thereof,Northern America,Americas,15811
-2017,2017,Import,Jordan,80,Tin; articles thereof,Northern Europe,Europe,1915
-2017,2017,Import,Jordan,80,Tin; articles thereof,Western Asia,Asia,13108
-2017,2017,Import,Jordan,80,Tin; articles thereof,World,World,47709
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Jordan,80,Tin; articles thereof,Eastern Asia,Asia,1601,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2017,2017,Import,Jordan,80,Tin; articles thereof,Northern America,Americas,15811,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2017,2017,Import,Jordan,80,Tin; articles thereof,Northern Europe,Europe,1915,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2017,2017,Import,Jordan,80,Tin; articles thereof,Western Asia,Asia,13108,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2017,2017,Import,Jordan,80,Tin; articles thereof,World,World,47709,31.1667049,36.941628,,

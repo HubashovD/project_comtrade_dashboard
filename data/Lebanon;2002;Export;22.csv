@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,198223
-2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,64698
-2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,20922
-2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,53059
-2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Northern Africa,Africa,23864
-2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Northern America,Americas,1424777
-2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Northern Europe,Europe,4499573
-2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,3218
-2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Southern Europe,Europe,122072
-2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,729136
-2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Western Asia,Asia,2242130
-2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Western Europe,Europe,2799896
-2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",World,World,16593459
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,198223,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,64698,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,20922,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,53059,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Northern Africa,Africa,23864,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Northern America,Americas,1424777,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Northern Europe,Europe,4499573,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,3218,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Southern Europe,Europe,122072,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Sub-Saharan Africa,Africa,729136,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Western Asia,Asia,2242130,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",Western Europe,Europe,2799896,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2002,2002,Export,Lebanon,22,"Beverages, spirits and vinegar",World,World,16593459,33.8750629,35.843409,,

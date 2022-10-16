@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,453818
-2012,2012,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Northern Africa,Africa,1241949
-2012,2012,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,2801
-2012,2012,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,68441
-2012,2012,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,432449
-2012,2012,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,1672397
-2012,2012,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,World,World,3937073
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,453818,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2012,2012,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Northern Africa,Africa,1241949,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2012,2012,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,2801,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2012,2012,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,68441,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2012,2012,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,432449,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2012,2012,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,1672397,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2012,2012,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,World,World,3937073,33.8750629,35.843409,,

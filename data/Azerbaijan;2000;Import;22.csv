@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,9240
-2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Central Asia,Asia,1716
-2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,8489725
-2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,25125
-2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Northern America,Americas,1055
-2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Northern Europe,Europe,52117
-2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,424
-2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Southern Asia,Asia,446981
-2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Southern Europe,Europe,12915
-2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Western Asia,Asia,31260
-2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Western Europe,Europe,257270
-2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",World,World,9752194
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,9240,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Central Asia,Asia,1716,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,8489725,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,25125,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Northern America,Americas,1055,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Northern Europe,Europe,52117,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,424,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Southern Asia,Asia,446981,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Southern Europe,Europe,12915,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Western Asia,Asia,31260,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Western Europe,Europe,257270,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Import,Azerbaijan,22,"Beverages, spirits and vinegar",World,World,9752194,40.3936294,47.7872508,,

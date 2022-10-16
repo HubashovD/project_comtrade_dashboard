@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Central Asia,Asia,1205000
-2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,1001000
-2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,300000
-2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Latin America and the Caribbean,Americas,11059000
-2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,52531000
-2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern Europe,Europe,5648000
-2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",South-eastern Asia,Asia,701000
-2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,4181000
-2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Sub-Saharan Africa,Africa,211000
-2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,6625000
-2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",World,World,85781000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Central Asia,Asia,1205000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,1001000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,300000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Latin America and the Caribbean,Americas,11059000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,52531000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Northern Europe,Europe,5648000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",South-eastern Asia,Asia,701000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,4181000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Sub-Saharan Africa,Africa,211000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,6625000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2017,2017,Export,Israel,81,"Metals; n.e.c., cermets and articles thereof",World,World,85781000,30.8124247,34.8594762,,

@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Eastern Asia,Asia,646473
-1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Latin America and the Caribbean,Americas,11271
-1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Northern Africa,Africa,70065
-1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Northern America,Americas,286910
-1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Northern Europe,Europe,18658
-1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",South-eastern Asia,Asia,480886
-1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Southern Europe,Europe,88757
-1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Western Asia,Asia,232940
-1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Western Europe,Europe,103409
-1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",World,World,2307182
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Eastern Asia,Asia,646473,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Latin America and the Caribbean,Americas,11271,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Northern Africa,Africa,70065,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Northern America,Americas,286910,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Northern Europe,Europe,18658,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",South-eastern Asia,Asia,480886,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Southern Europe,Europe,88757,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Western Asia,Asia,232940,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",Western Europe,Europe,103409,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1994,1994,Import,Jordan,42,"Articles of leather, animal gut, harness, travel good",World,World,2307182,31.1667049,36.941628,,

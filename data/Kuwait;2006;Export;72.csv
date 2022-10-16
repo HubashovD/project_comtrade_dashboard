@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Kuwait,72,Iron and steel,Eastern Asia,Asia,286538
-2006,2006,Export,Kuwait,72,Iron and steel,Eastern Europe,Europe,21
-2006,2006,Export,Kuwait,72,Iron and steel,Northern Africa,Africa,157378
-2006,2006,Export,Kuwait,72,Iron and steel,Northern America,Americas,24901
-2006,2006,Export,Kuwait,72,Iron and steel,South-eastern Asia,Asia,131
-2006,2006,Export,Kuwait,72,Iron and steel,Southern Asia,Asia,107341
-2006,2006,Export,Kuwait,72,Iron and steel,Sub-Saharan Africa,Africa,131070
-2006,2006,Export,Kuwait,72,Iron and steel,Western Asia,Asia,314649
-2006,2006,Export,Kuwait,72,Iron and steel,Western Europe,Europe,5776
-2006,2006,Export,Kuwait,72,Iron and steel,World,World,91625108
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Kuwait,72,Iron and steel,Eastern Asia,Asia,286538,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2006,2006,Export,Kuwait,72,Iron and steel,Eastern Europe,Europe,21,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2006,2006,Export,Kuwait,72,Iron and steel,Northern Africa,Africa,157378,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2006,2006,Export,Kuwait,72,Iron and steel,Northern America,Americas,24901,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2006,2006,Export,Kuwait,72,Iron and steel,South-eastern Asia,Asia,131,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2006,2006,Export,Kuwait,72,Iron and steel,Southern Asia,Asia,107341,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2006,2006,Export,Kuwait,72,Iron and steel,Sub-Saharan Africa,Africa,131070,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2006,2006,Export,Kuwait,72,Iron and steel,Western Asia,Asia,314649,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2006,2006,Export,Kuwait,72,Iron and steel,Western Europe,Europe,5776,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2006,2006,Export,Kuwait,72,Iron and steel,World,World,91625108,29.2733964,47.4979476,,

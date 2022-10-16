@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Australia and New Zealand,Oceania,301
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Central Asia,Asia,19799415
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Asia,Asia,1870059
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Europe,Europe,531361870
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Latin America and the Caribbean,Americas,14697689
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Africa,Africa,12688522
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern America,Americas,444517491
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Europe,Europe,23832969
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",South-eastern Asia,Asia,797040
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Asia,Asia,175864
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Europe,Europe,2268556002
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Sub-Saharan Africa,Africa,11272
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Asia,Asia,6605939
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Europe,Europe,78168318
-2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",World,World,4068172057
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Australia and New Zealand,Oceania,301,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Central Asia,Asia,19799415,33.8750629,35.843409,39.89317229901691,61.060280637304274
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Asia,Asia,1870059,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Eastern Europe,Europe,531361870,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Latin America and the Caribbean,Americas,14697689,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Africa,Africa,12688522,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern America,Americas,444517491,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Northern Europe,Europe,23832969,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",South-eastern Asia,Asia,797040,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Asia,Asia,175864,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Southern Europe,Europe,2268556002,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Sub-Saharan Africa,Africa,11272,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Asia,Asia,6605939,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Western Europe,Europe,78168318,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2018,2018,Import,Lebanon,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",World,World,4068172057,33.8750629,35.843409,,

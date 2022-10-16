@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Central Asia,Asia,160907
-2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,972
-2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,68631609
-2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,1690573
-2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,456376
-2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,9979
-2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Southern Asia,Asia,644
-2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,3277321
-2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",World,World,74824686
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Central Asia,Asia,160907,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,972,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,68631609,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,1690573,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,456376,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,9979,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Southern Asia,Asia,644,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,3277321,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2008,2008,Import,Azerbaijan,88,"Aircraft, spacecraft, and parts thereof",World,World,74824686,40.3936294,47.7872508,,

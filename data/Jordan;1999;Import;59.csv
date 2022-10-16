@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Eastern Asia,Asia,630044
-1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Eastern Europe,Europe,49251
-1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Northern Africa,Africa,4620
-1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Northern America,Americas,276022
-1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Northern Europe,Europe,344614
-1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",South-eastern Asia,Asia,24442
-1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Southern Europe,Europe,147262
-1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Western Asia,Asia,104922
-1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Western Europe,Europe,682691
-1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",World,World,3439327
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Eastern Asia,Asia,630044,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Eastern Europe,Europe,49251,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Northern Africa,Africa,4620,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Northern America,Americas,276022,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Northern Europe,Europe,344614,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",South-eastern Asia,Asia,24442,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Southern Europe,Europe,147262,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Western Asia,Asia,104922,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Western Europe,Europe,682691,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",World,World,3439327,31.1667049,36.941628,,

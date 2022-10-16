@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Eastern Asia,Asia,55886
-2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Eastern Europe,Europe,565576
-2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Latin America and the Caribbean,Americas,1185
-2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Northern America,Americas,792481
-2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Northern Europe,Europe,68325
-2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",South-eastern Asia,Asia,165
-2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Southern Europe,Europe,2119515
-2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Sub-Saharan Africa,Africa,63616
-2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Western Asia,Asia,81826
-2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Western Europe,Europe,972170
-2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",World,World,5100149
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Eastern Asia,Asia,55886,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Eastern Europe,Europe,565576,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Latin America and the Caribbean,Americas,1185,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Northern America,Americas,792481,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Northern Europe,Europe,68325,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",South-eastern Asia,Asia,165,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Southern Europe,Europe,2119515,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Sub-Saharan Africa,Africa,63616,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Western Asia,Asia,81826,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",Western Europe,Europe,972170,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2002,2002,Import,Kuwait,93,"Arms and ammunition, parts and accessories thereof",World,World,5100149,29.2733964,47.4979476,,

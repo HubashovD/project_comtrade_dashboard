@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Azerbaijan,50,Silk,Eastern Asia,Asia,154069
-2005,2005,Export,Azerbaijan,50,Silk,Southern Asia,Asia,451010
-2005,2005,Export,Azerbaijan,50,Silk,World,World,605079
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Azerbaijan,50,Silk,Eastern Asia,Asia,154069,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2005,2005,Export,Azerbaijan,50,Silk,Southern Asia,Asia,451010,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2005,2005,Export,Azerbaijan,50,Silk,World,World,605079,40.3936294,47.7872508,,

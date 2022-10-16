@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Eastern Asia,Asia,1272
-2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Eastern Europe,Europe,21261609
-2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,109700
-2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Northern America,Americas,913
-2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Northern Europe,Europe,67353
-2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,36985
-2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Southern Europe,Europe,4303048
-2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Western Asia,Asia,1387030
-2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Western Europe,Europe,1999246
-2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,World,World,29210541
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Eastern Asia,Asia,1272,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Eastern Europe,Europe,21261609,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,109700,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Northern America,Americas,913,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Northern Europe,Europe,67353,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,36985,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Southern Europe,Europe,4303048,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Western Asia,Asia,1387030,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,Western Europe,Europe,1999246,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2010,2010,Import,Azerbaijan,18,Cocoa and cocoa preparations,World,World,29210541,40.3936294,47.7872508,,

@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Eastern Asia,Asia,1540038
-2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Eastern Europe,Europe,19313
-2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Northern America,Americas,21238
-2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Northern Europe,Europe,162641
-2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",South-eastern Asia,Asia,763
-2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Southern Asia,Asia,54
-2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Southern Europe,Europe,1577571
-2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Western Asia,Asia,68016
-2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Western Europe,Europe,49429
-2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",World,World,3824833
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Eastern Asia,Asia,1540038,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Eastern Europe,Europe,19313,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Northern America,Americas,21238,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Northern Europe,Europe,162641,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",South-eastern Asia,Asia,763,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Southern Asia,Asia,54,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Southern Europe,Europe,1577571,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Western Asia,Asia,68016,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Western Europe,Europe,49429,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2007,2007,Import,Lebanon,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",World,World,3824833,33.8750629,35.843409,,

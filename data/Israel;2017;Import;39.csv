@@ -1,19 +1,19 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Israel,39,Plastics and articles thereof,Australia and New Zealand,Oceania,14857000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Central Asia,Asia,4743000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Eastern Asia,Asia,501511000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Eastern Europe,Europe,34985000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,19290000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Melanesia,Oceania,3000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Micronesia,Oceania,8000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Northern Africa,Africa,4541000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Northern America,Americas,327225000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Northern Europe,Europe,82782000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Polynesia,Oceania,683000
-2017,2017,Import,Israel,39,Plastics and articles thereof,South-eastern Asia,Asia,99838000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Southern Asia,Asia,79000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Southern Europe,Europe,269708000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,722000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Western Asia,Asia,214411000
-2017,2017,Import,Israel,39,Plastics and articles thereof,Western Europe,Europe,743524000
-2017,2017,Import,Israel,39,Plastics and articles thereof,World,World,2614241000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Israel,39,Plastics and articles thereof,Australia and New Zealand,Oceania,14857000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2017,2017,Import,Israel,39,Plastics and articles thereof,Central Asia,Asia,4743000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2017,2017,Import,Israel,39,Plastics and articles thereof,Eastern Asia,Asia,501511000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2017,2017,Import,Israel,39,Plastics and articles thereof,Eastern Europe,Europe,34985000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2017,2017,Import,Israel,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,19290000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2017,2017,Import,Israel,39,Plastics and articles thereof,Melanesia,Oceania,3000,30.8124247,34.8594762,1.0108650891006263,147.3257485906919
+2017,2017,Import,Israel,39,Plastics and articles thereof,Micronesia,Oceania,8000,30.8124247,34.8594762,6.418559504495792,157.6364476938912
+2017,2017,Import,Israel,39,Plastics and articles thereof,Northern Africa,Africa,4541000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2017,2017,Import,Israel,39,Plastics and articles thereof,Northern America,Americas,327225000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2017,2017,Import,Israel,39,Plastics and articles thereof,Northern Europe,Europe,82782000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2017,2017,Import,Israel,39,Plastics and articles thereof,Polynesia,Oceania,683000,30.8124247,34.8594762,-5.109184731250752,167.40343615892436
+2017,2017,Import,Israel,39,Plastics and articles thereof,South-eastern Asia,Asia,99838000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2017,2017,Import,Israel,39,Plastics and articles thereof,Southern Asia,Asia,79000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2017,2017,Import,Israel,39,Plastics and articles thereof,Southern Europe,Europe,269708000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2017,2017,Import,Israel,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,722000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2017,2017,Import,Israel,39,Plastics and articles thereof,Western Asia,Asia,214411000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2017,2017,Import,Israel,39,Plastics and articles thereof,Western Europe,Europe,743524000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2017,2017,Import,Israel,39,Plastics and articles thereof,World,World,2614241000,30.8124247,34.8594762,,

@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Australia and New Zealand,Oceania,282
-2003,2003,Export,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,1224360
-2003,2003,Export,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,383
-2003,2003,Export,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,184637
-2003,2003,Export,Kuwait,88,"Aircraft, spacecraft, and parts thereof",World,World,3960193
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Australia and New Zealand,Oceania,282,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2003,2003,Export,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,1224360,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2003,2003,Export,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,383,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2003,2003,Export,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,184637,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2003,2003,Export,Kuwait,88,"Aircraft, spacecraft, and parts thereof",World,World,3960193,29.2733964,47.4979476,,

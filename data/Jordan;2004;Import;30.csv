@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Import,Jordan,30,Pharmaceutical products,Australia and New Zealand,Oceania,646564
-2004,2004,Import,Jordan,30,Pharmaceutical products,Eastern Asia,Asia,8204348
-2004,2004,Import,Jordan,30,Pharmaceutical products,Eastern Europe,Europe,945853
-2004,2004,Import,Jordan,30,Pharmaceutical products,Latin America and the Caribbean,Americas,1852719
-2004,2004,Import,Jordan,30,Pharmaceutical products,Northern Africa,Africa,2298851
-2004,2004,Import,Jordan,30,Pharmaceutical products,Northern America,Americas,14823616
-2004,2004,Import,Jordan,30,Pharmaceutical products,Northern Europe,Europe,42183439
-2004,2004,Import,Jordan,30,Pharmaceutical products,South-eastern Asia,Asia,285750
-2004,2004,Import,Jordan,30,Pharmaceutical products,Southern Asia,Asia,304830
-2004,2004,Import,Jordan,30,Pharmaceutical products,Southern Europe,Europe,21994641
-2004,2004,Import,Jordan,30,Pharmaceutical products,Sub-Saharan Africa,Africa,42968
-2004,2004,Import,Jordan,30,Pharmaceutical products,Western Asia,Asia,1878496
-2004,2004,Import,Jordan,30,Pharmaceutical products,Western Europe,Europe,108831616
-2004,2004,Import,Jordan,30,Pharmaceutical products,World,World,214886204
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Import,Jordan,30,Pharmaceutical products,Australia and New Zealand,Oceania,646564,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2004,2004,Import,Jordan,30,Pharmaceutical products,Eastern Asia,Asia,8204348,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2004,2004,Import,Jordan,30,Pharmaceutical products,Eastern Europe,Europe,945853,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2004,2004,Import,Jordan,30,Pharmaceutical products,Latin America and the Caribbean,Americas,1852719,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2004,2004,Import,Jordan,30,Pharmaceutical products,Northern Africa,Africa,2298851,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2004,2004,Import,Jordan,30,Pharmaceutical products,Northern America,Americas,14823616,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2004,2004,Import,Jordan,30,Pharmaceutical products,Northern Europe,Europe,42183439,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2004,2004,Import,Jordan,30,Pharmaceutical products,South-eastern Asia,Asia,285750,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2004,2004,Import,Jordan,30,Pharmaceutical products,Southern Asia,Asia,304830,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2004,2004,Import,Jordan,30,Pharmaceutical products,Southern Europe,Europe,21994641,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2004,2004,Import,Jordan,30,Pharmaceutical products,Sub-Saharan Africa,Africa,42968,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2004,2004,Import,Jordan,30,Pharmaceutical products,Western Asia,Asia,1878496,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2004,2004,Import,Jordan,30,Pharmaceutical products,Western Europe,Europe,108831616,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2004,2004,Import,Jordan,30,Pharmaceutical products,World,World,214886204,31.1667049,36.941628,,

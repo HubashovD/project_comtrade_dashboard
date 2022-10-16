@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Central Asia,Asia,12520
-2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Eastern Asia,Asia,36986
-2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Eastern Europe,Europe,46148
-2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Latin America and the Caribbean,Americas,960570
-2006,2006,Import,Azerbaijan,6,Live trees and other plants;,South-eastern Asia,Asia,3815
-2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Southern Asia,Asia,659509
-2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Southern Europe,Europe,58024
-2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Sub-Saharan Africa,Africa,2067
-2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Western Asia,Asia,265824
-2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Western Europe,Europe,1555650
-2006,2006,Import,Azerbaijan,6,Live trees and other plants;,World,World,4064537
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Central Asia,Asia,12520,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Eastern Asia,Asia,36986,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Eastern Europe,Europe,46148,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Latin America and the Caribbean,Americas,960570,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2006,2006,Import,Azerbaijan,6,Live trees and other plants;,South-eastern Asia,Asia,3815,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Southern Asia,Asia,659509,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Southern Europe,Europe,58024,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Sub-Saharan Africa,Africa,2067,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Western Asia,Asia,265824,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2006,2006,Import,Azerbaijan,6,Live trees and other plants;,Western Europe,Europe,1555650,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2006,2006,Import,Azerbaijan,6,Live trees and other plants;,World,World,4064537,40.3936294,47.7872508,,

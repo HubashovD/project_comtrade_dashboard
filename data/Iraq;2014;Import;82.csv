@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Eastern Asia,Asia,39933826
-2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Eastern Europe,Europe,8567
-2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Northern Africa,Africa,6750
-2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Northern America,Americas,142920
-2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Northern Europe,Europe,35868
-2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",South-eastern Asia,Asia,7722
-2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Southern Europe,Europe,2886217
-2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Western Asia,Asia,6000
-2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Western Europe,Europe,77800
-2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",World,World,43604675
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Eastern Asia,Asia,39933826,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Eastern Europe,Europe,8567,33.0955793,44.1749775,51.67568633314729,27.673469819741847
+2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Northern Africa,Africa,6750,33.0955793,44.1749775,19.569604022535763,12.47761721199581
+2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Northern America,Americas,142920,33.0955793,44.1749775,43.897683433510366,-100.08947125585888
+2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Northern Europe,Europe,35868,33.0955793,44.1749775,59.36075159783851,25.01346951967388
+2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",South-eastern Asia,Asia,7722,33.0955793,44.1749775,10.528384761701911,103.08333472012376
+2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Southern Europe,Europe,2886217,33.0955793,44.1749775,40.12399607988535,20.742583178432696
+2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Western Asia,Asia,6000,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",Western Europe,Europe,77800,33.0955793,44.1749775,47.92172048214207,7.866753258497997
+2014,2014,Import,Iraq,82,"Tools, implements, cutlery, spoons and forks, of base metal",World,World,43604675,33.0955793,44.1749775,,

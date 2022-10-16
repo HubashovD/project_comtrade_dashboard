@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Kuwait,75,Nickel and articles thereof,Australia and New Zealand,Oceania,14661
-2001,2001,Import,Kuwait,75,Nickel and articles thereof,Eastern Asia,Asia,312098
-2001,2001,Import,Kuwait,75,Nickel and articles thereof,Eastern Europe,Europe,14758
-2001,2001,Import,Kuwait,75,Nickel and articles thereof,Latin America and the Caribbean,Americas,261
-2001,2001,Import,Kuwait,75,Nickel and articles thereof,Northern Africa,Africa,2133
-2001,2001,Import,Kuwait,75,Nickel and articles thereof,Northern America,Americas,477733
-2001,2001,Import,Kuwait,75,Nickel and articles thereof,Northern Europe,Europe,164413
-2001,2001,Import,Kuwait,75,Nickel and articles thereof,South-eastern Asia,Asia,45705
-2001,2001,Import,Kuwait,75,Nickel and articles thereof,Southern Asia,Asia,1132
-2001,2001,Import,Kuwait,75,Nickel and articles thereof,Southern Europe,Europe,731036
-2001,2001,Import,Kuwait,75,Nickel and articles thereof,Western Asia,Asia,22357
-2001,2001,Import,Kuwait,75,Nickel and articles thereof,Western Europe,Europe,1450885
-2001,2001,Import,Kuwait,75,Nickel and articles thereof,World,World,3327915
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Kuwait,75,Nickel and articles thereof,Australia and New Zealand,Oceania,14661,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2001,2001,Import,Kuwait,75,Nickel and articles thereof,Eastern Asia,Asia,312098,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2001,2001,Import,Kuwait,75,Nickel and articles thereof,Eastern Europe,Europe,14758,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2001,2001,Import,Kuwait,75,Nickel and articles thereof,Latin America and the Caribbean,Americas,261,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2001,2001,Import,Kuwait,75,Nickel and articles thereof,Northern Africa,Africa,2133,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2001,2001,Import,Kuwait,75,Nickel and articles thereof,Northern America,Americas,477733,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2001,2001,Import,Kuwait,75,Nickel and articles thereof,Northern Europe,Europe,164413,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2001,2001,Import,Kuwait,75,Nickel and articles thereof,South-eastern Asia,Asia,45705,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2001,2001,Import,Kuwait,75,Nickel and articles thereof,Southern Asia,Asia,1132,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2001,2001,Import,Kuwait,75,Nickel and articles thereof,Southern Europe,Europe,731036,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2001,2001,Import,Kuwait,75,Nickel and articles thereof,Western Asia,Asia,22357,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2001,2001,Import,Kuwait,75,Nickel and articles thereof,Western Europe,Europe,1450885,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2001,2001,Import,Kuwait,75,Nickel and articles thereof,World,World,3327915,29.2733964,47.4979476,,

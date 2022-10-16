@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,95966
-1997,1997,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Latin America and the Caribbean,Americas,245208
-1997,1997,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,525645
-1997,1997,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,4139
-1997,1997,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,705206
-1997,1997,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",World,World,1606619
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,95966,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1997,1997,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Latin America and the Caribbean,Americas,245208,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+1997,1997,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,525645,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1997,1997,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,4139,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1997,1997,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,705206,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1997,1997,Import,Georgia,71,"Pearls, precious stones, metals, coins, etc",World,World,1606619,32.3293809,-83.1137366,,

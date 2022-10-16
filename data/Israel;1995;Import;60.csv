@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Israel,60,Knitted or crocheted fabric,Eastern Asia,Asia,8326000
-1995,1995,Import,Israel,60,Knitted or crocheted fabric,Latin America and the Caribbean,Americas,196000
-1995,1995,Import,Israel,60,Knitted or crocheted fabric,Northern Africa,Africa,2337000
-1995,1995,Import,Israel,60,Knitted or crocheted fabric,Northern America,Americas,7965000
-1995,1995,Import,Israel,60,Knitted or crocheted fabric,Northern Europe,Europe,4690000
-1995,1995,Import,Israel,60,Knitted or crocheted fabric,Southern Europe,Europe,36999000
-1995,1995,Import,Israel,60,Knitted or crocheted fabric,Western Asia,Asia,7377000
-1995,1995,Import,Israel,60,Knitted or crocheted fabric,Western Europe,Europe,13940000
-1995,1995,Import,Israel,60,Knitted or crocheted fabric,World,World,90248000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Israel,60,Knitted or crocheted fabric,Eastern Asia,Asia,8326000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1995,1995,Import,Israel,60,Knitted or crocheted fabric,Latin America and the Caribbean,Americas,196000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1995,1995,Import,Israel,60,Knitted or crocheted fabric,Northern Africa,Africa,2337000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1995,1995,Import,Israel,60,Knitted or crocheted fabric,Northern America,Americas,7965000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1995,1995,Import,Israel,60,Knitted or crocheted fabric,Northern Europe,Europe,4690000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1995,1995,Import,Israel,60,Knitted or crocheted fabric,Southern Europe,Europe,36999000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1995,1995,Import,Israel,60,Knitted or crocheted fabric,Western Asia,Asia,7377000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1995,1995,Import,Israel,60,Knitted or crocheted fabric,Western Europe,Europe,13940000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Import,Israel,60,Knitted or crocheted fabric,World,World,90248000,30.8124247,34.8594762,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Lebanon,51,"Wool, animal hair, horsehair yarn and fabric thereof",Northern Europe,Europe,12268
-2001,2001,Export,Lebanon,51,"Wool, animal hair, horsehair yarn and fabric thereof",Southern Europe,Europe,126412
-2001,2001,Export,Lebanon,51,"Wool, animal hair, horsehair yarn and fabric thereof",Sub-Saharan Africa,Africa,360
-2001,2001,Export,Lebanon,51,"Wool, animal hair, horsehair yarn and fabric thereof",Western Asia,Asia,15000
-2001,2001,Export,Lebanon,51,"Wool, animal hair, horsehair yarn and fabric thereof",Western Europe,Europe,11120
-2001,2001,Export,Lebanon,51,"Wool, animal hair, horsehair yarn and fabric thereof",World,World,210958
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Lebanon,51,"Wool, animal hair, horsehair yarn and fabric thereof",Northern Europe,Europe,12268,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2001,2001,Export,Lebanon,51,"Wool, animal hair, horsehair yarn and fabric thereof",Southern Europe,Europe,126412,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2001,2001,Export,Lebanon,51,"Wool, animal hair, horsehair yarn and fabric thereof",Sub-Saharan Africa,Africa,360,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2001,2001,Export,Lebanon,51,"Wool, animal hair, horsehair yarn and fabric thereof",Western Asia,Asia,15000,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2001,2001,Export,Lebanon,51,"Wool, animal hair, horsehair yarn and fabric thereof",Western Europe,Europe,11120,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2001,2001,Export,Lebanon,51,"Wool, animal hair, horsehair yarn and fabric thereof",World,World,210958,33.8750629,35.843409,,

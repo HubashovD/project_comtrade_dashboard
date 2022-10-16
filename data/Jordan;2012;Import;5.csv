@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,Australia and New Zealand,Oceania,181459
-2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,4300
-2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,Latin America and the Caribbean,Americas,14002
-2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,321036
-2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,2149
-2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,Sub-Saharan Africa,Africa,12866
-2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,9603
-2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,World,World,545414
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,Australia and New Zealand,Oceania,181459,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,4300,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,Latin America and the Caribbean,Americas,14002,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,321036,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,2149,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,Sub-Saharan Africa,Africa,12866,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,9603,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2012,2012,Import,Jordan,5,Animal originated products; not elsewhere specified or included,World,World,545414,31.1667049,36.941628,,

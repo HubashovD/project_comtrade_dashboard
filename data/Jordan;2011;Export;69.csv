@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,Jordan,69,Ceramic products,Australia and New Zealand,Oceania,41968
-2011,2011,Export,Jordan,69,Ceramic products,Central Asia,Asia,6777
-2011,2011,Export,Jordan,69,Ceramic products,Eastern Asia,Asia,2086
-2011,2011,Export,Jordan,69,Ceramic products,Eastern Europe,Europe,12042
-2011,2011,Export,Jordan,69,Ceramic products,Latin America and the Caribbean,Americas,20260
-2011,2011,Export,Jordan,69,Ceramic products,Northern Africa,Africa,137923
-2011,2011,Export,Jordan,69,Ceramic products,Northern America,Americas,411441
-2011,2011,Export,Jordan,69,Ceramic products,Northern Europe,Europe,29765
-2011,2011,Export,Jordan,69,Ceramic products,South-eastern Asia,Asia,9054
-2011,2011,Export,Jordan,69,Ceramic products,Southern Asia,Asia,1041
-2011,2011,Export,Jordan,69,Ceramic products,Southern Europe,Europe,85364
-2011,2011,Export,Jordan,69,Ceramic products,Sub-Saharan Africa,Africa,4424
-2011,2011,Export,Jordan,69,Ceramic products,Western Asia,Asia,320211
-2011,2011,Export,Jordan,69,Ceramic products,Western Europe,Europe,65425
-2011,2011,Export,Jordan,69,Ceramic products,World,World,6824370
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,Jordan,69,Ceramic products,Australia and New Zealand,Oceania,41968,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2011,2011,Export,Jordan,69,Ceramic products,Central Asia,Asia,6777,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2011,2011,Export,Jordan,69,Ceramic products,Eastern Asia,Asia,2086,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2011,2011,Export,Jordan,69,Ceramic products,Eastern Europe,Europe,12042,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2011,2011,Export,Jordan,69,Ceramic products,Latin America and the Caribbean,Americas,20260,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2011,2011,Export,Jordan,69,Ceramic products,Northern Africa,Africa,137923,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2011,2011,Export,Jordan,69,Ceramic products,Northern America,Americas,411441,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2011,2011,Export,Jordan,69,Ceramic products,Northern Europe,Europe,29765,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2011,2011,Export,Jordan,69,Ceramic products,South-eastern Asia,Asia,9054,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2011,2011,Export,Jordan,69,Ceramic products,Southern Asia,Asia,1041,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2011,2011,Export,Jordan,69,Ceramic products,Southern Europe,Europe,85364,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2011,2011,Export,Jordan,69,Ceramic products,Sub-Saharan Africa,Africa,4424,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2011,2011,Export,Jordan,69,Ceramic products,Western Asia,Asia,320211,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2011,2011,Export,Jordan,69,Ceramic products,Western Europe,Europe,65425,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2011,2011,Export,Jordan,69,Ceramic products,World,World,6824370,31.1667049,36.941628,,

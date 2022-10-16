@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Re-Export,Kuwait,30,Pharmaceutical products,Northern Africa,Africa,114225
-2016,2016,Re-Export,Kuwait,30,Pharmaceutical products,South-eastern Asia,Asia,70484
-2016,2016,Re-Export,Kuwait,30,Pharmaceutical products,Southern Asia,Asia,1849
-2016,2016,Re-Export,Kuwait,30,Pharmaceutical products,Western Europe,Europe,360649
-2016,2016,Re-Export,Kuwait,30,Pharmaceutical products,World,World,2364094
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Re-Export,Kuwait,30,Pharmaceutical products,Northern Africa,Africa,114225,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2016,2016,Re-Export,Kuwait,30,Pharmaceutical products,South-eastern Asia,Asia,70484,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2016,2016,Re-Export,Kuwait,30,Pharmaceutical products,Southern Asia,Asia,1849,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2016,2016,Re-Export,Kuwait,30,Pharmaceutical products,Western Europe,Europe,360649,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2016,2016,Re-Export,Kuwait,30,Pharmaceutical products,World,World,2364094,29.2733964,47.4979476,,

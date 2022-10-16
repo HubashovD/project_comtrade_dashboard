@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Eastern Europe,Europe,2073682
-1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Latin America and the Caribbean,Americas,25005
-1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Northern America,Americas,27795
-1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Northern Europe,Europe,113789
-1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Southern Asia,Asia,19825
-1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Southern Europe,Europe,17895
-1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Western Asia,Asia,164969
-1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Western Europe,Europe,88860
-1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",World,World,2546661
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Eastern Europe,Europe,2073682,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Latin America and the Caribbean,Americas,25005,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Northern America,Americas,27795,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Northern Europe,Europe,113789,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Southern Asia,Asia,19825,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Southern Europe,Europe,17895,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Western Asia,Asia,164969,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",Western Europe,Europe,88860,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1997,1997,Import,Georgia,44,"Wood and articles of wood, wood charcoal",World,World,2546661,32.3293809,-83.1137366,,

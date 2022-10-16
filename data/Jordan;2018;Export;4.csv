@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Australia and New Zealand,Oceania,20116
-2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,35266
-2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Africa,Africa,128627
-2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,1636373
-2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Asia,Asia,2454
-2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Sub-Saharan Africa,Africa,19221
-2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Asia,Asia,42061
-2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Europe,Europe,53694
-2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,60212057
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Australia and New Zealand,Oceania,20116,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Eastern Europe,Europe,35266,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern Africa,Africa,128627,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Northern America,Americas,1636373,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Southern Asia,Asia,2454,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Sub-Saharan Africa,Africa,19221,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Asia,Asia,42061,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Western Europe,Europe,53694,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2018,2018,Export,Jordan,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,60212057,31.1667049,36.941628,,

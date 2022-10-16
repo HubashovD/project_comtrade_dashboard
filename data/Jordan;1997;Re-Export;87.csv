@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,564
-1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,69954
-1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,191293
-1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Latin America and the Caribbean,Americas,55349
-1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Northern Africa,Africa,3411141
-1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Northern America,Americas,547506
-1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Northern Europe,Europe,344991
-1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,91677
-1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Southern Asia,Asia,70521
-1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Southern Europe,Europe,161718
-1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Sub-Saharan Africa,Africa,242591
-1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Western Asia,Asia,1406671
-1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Western Europe,Europe,3651498
-1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",World,World,44334220
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Australia and New Zealand,Oceania,564,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Eastern Asia,Asia,69954,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Eastern Europe,Europe,191293,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Latin America and the Caribbean,Americas,55349,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Northern Africa,Africa,3411141,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Northern America,Americas,547506,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Northern Europe,Europe,344991,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",South-eastern Asia,Asia,91677,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Southern Asia,Asia,70521,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Southern Europe,Europe,161718,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Sub-Saharan Africa,Africa,242591,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Western Asia,Asia,1406671,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",Western Europe,Europe,3651498,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1997,1997,Re-Export,Jordan,87,"Vehicles other than railway, tramway",World,World,44334220,31.1667049,36.941628,,

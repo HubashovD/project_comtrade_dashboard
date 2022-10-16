@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Lebanon,67,"Bird skin, feathers, artificial flowers, human hair",Eastern Asia,Asia,5050
-1997,1997,Export,Lebanon,67,"Bird skin, feathers, artificial flowers, human hair",Northern America,Americas,6200
-1997,1997,Export,Lebanon,67,"Bird skin, feathers, artificial flowers, human hair",Sub-Saharan Africa,Africa,31059
-1997,1997,Export,Lebanon,67,"Bird skin, feathers, artificial flowers, human hair",Western Asia,Asia,1032
-1997,1997,Export,Lebanon,67,"Bird skin, feathers, artificial flowers, human hair",Western Europe,Europe,2257
-1997,1997,Export,Lebanon,67,"Bird skin, feathers, artificial flowers, human hair",World,World,216187
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Lebanon,67,"Bird skin, feathers, artificial flowers, human hair",Eastern Asia,Asia,5050,33.8750629,35.843409,37.977378106878206,73.97804075806764
+1997,1997,Export,Lebanon,67,"Bird skin, feathers, artificial flowers, human hair",Northern America,Americas,6200,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1997,1997,Export,Lebanon,67,"Bird skin, feathers, artificial flowers, human hair",Sub-Saharan Africa,Africa,31059,33.8750629,35.843409,6.06272746187266,22.727528470146083
+1997,1997,Export,Lebanon,67,"Bird skin, feathers, artificial flowers, human hair",Western Asia,Asia,1032,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1997,1997,Export,Lebanon,67,"Bird skin, feathers, artificial flowers, human hair",Western Europe,Europe,2257,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1997,1997,Export,Lebanon,67,"Bird skin, feathers, artificial flowers, human hair",World,World,216187,33.8750629,35.843409,,

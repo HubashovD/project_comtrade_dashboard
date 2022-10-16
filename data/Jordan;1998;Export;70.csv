@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Jordan,70,Glass and glassware,Australia and New Zealand,Oceania,21156
-1998,1998,Export,Jordan,70,Glass and glassware,Latin America and the Caribbean,Americas,705
-1998,1998,Export,Jordan,70,Glass and glassware,Northern Africa,Africa,2115
-1998,1998,Export,Jordan,70,Glass and glassware,Northern Europe,Europe,7052
-1998,1998,Export,Jordan,70,Glass and glassware,World,World,842293
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Jordan,70,Glass and glassware,Australia and New Zealand,Oceania,21156,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1998,1998,Export,Jordan,70,Glass and glassware,Latin America and the Caribbean,Americas,705,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1998,1998,Export,Jordan,70,Glass and glassware,Northern Africa,Africa,2115,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1998,1998,Export,Jordan,70,Glass and glassware,Northern Europe,Europe,7052,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1998,1998,Export,Jordan,70,Glass and glassware,World,World,842293,31.1667049,36.941628,,

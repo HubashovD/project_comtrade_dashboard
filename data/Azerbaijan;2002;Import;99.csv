@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,Eastern Asia,Asia,12498
-2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,Eastern Europe,Europe,5343151
-2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,Northern America,Americas,1072
-2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,Northern Europe,Europe,860
-2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,Southern Europe,Europe,65719
-2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,Western Asia,Asia,26808
-2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,Western Europe,Europe,144932
-2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,World,World,5596210
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,Eastern Asia,Asia,12498,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,Eastern Europe,Europe,5343151,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,Northern America,Americas,1072,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,Northern Europe,Europe,860,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,Southern Europe,Europe,65719,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,Western Asia,Asia,26808,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,Western Europe,Europe,144932,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2002,2002,Import,Azerbaijan,99,Commodities not elsewhere specified,World,World,5596210,40.3936294,47.7872508,,

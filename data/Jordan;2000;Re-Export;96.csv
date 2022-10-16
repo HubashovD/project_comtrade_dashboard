@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Re-Export,Jordan,96,Miscellaneous manufactured articles,Eastern Asia,Asia,4372
-2000,2000,Re-Export,Jordan,96,Miscellaneous manufactured articles,Northern Africa,Africa,17801
-2000,2000,Re-Export,Jordan,96,Miscellaneous manufactured articles,Northern America,Americas,2362
-2000,2000,Re-Export,Jordan,96,Miscellaneous manufactured articles,Northern Europe,Europe,1164
-2000,2000,Re-Export,Jordan,96,Miscellaneous manufactured articles,Western Asia,Asia,938
-2000,2000,Re-Export,Jordan,96,Miscellaneous manufactured articles,World,World,2047428
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Re-Export,Jordan,96,Miscellaneous manufactured articles,Eastern Asia,Asia,4372,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Re-Export,Jordan,96,Miscellaneous manufactured articles,Northern Africa,Africa,17801,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Re-Export,Jordan,96,Miscellaneous manufactured articles,Northern America,Americas,2362,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Re-Export,Jordan,96,Miscellaneous manufactured articles,Northern Europe,Europe,1164,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Re-Export,Jordan,96,Miscellaneous manufactured articles,Western Asia,Asia,938,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Re-Export,Jordan,96,Miscellaneous manufactured articles,World,World,2047428,31.1667049,36.941628,,

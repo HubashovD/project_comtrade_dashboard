@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,3466
-2018,2018,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern Africa,Africa,57036
-2018,2018,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,577750
-2018,2018,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,515515
-2018,2018,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,9248
-2018,2018,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,World,World,1246506
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,3466,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2018,2018,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Northern Africa,Africa,57036,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2018,2018,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,577750,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2018,2018,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,515515,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2018,2018,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,9248,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2018,2018,Export,Azerbaijan,5,Animal originated products; not elsewhere specified or included,World,World,1246506,40.3936294,47.7872508,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Azerbaijan,1,Live animals,Eastern Europe,Europe,723980
-2003,2003,Import,Azerbaijan,1,Live animals,Northern America,Americas,14431
-2003,2003,Import,Azerbaijan,1,Live animals,Southern Asia,Asia,255421
-2003,2003,Import,Azerbaijan,1,Live animals,Western Asia,Asia,513910
-2003,2003,Import,Azerbaijan,1,Live animals,Western Europe,Europe,1135
-2003,2003,Import,Azerbaijan,1,Live animals,World,World,1511576
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Azerbaijan,1,Live animals,Eastern Europe,Europe,723980,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2003,2003,Import,Azerbaijan,1,Live animals,Northern America,Americas,14431,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2003,2003,Import,Azerbaijan,1,Live animals,Southern Asia,Asia,255421,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2003,2003,Import,Azerbaijan,1,Live animals,Western Asia,Asia,513910,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2003,2003,Import,Azerbaijan,1,Live animals,Western Europe,Europe,1135,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2003,2003,Import,Azerbaijan,1,Live animals,World,World,1511576,40.3936294,47.7872508,,

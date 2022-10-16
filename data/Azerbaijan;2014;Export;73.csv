@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,Australia and New Zealand,Oceania,149
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,Central Asia,Asia,4365414
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,Eastern Asia,Asia,700
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,Eastern Europe,Europe,27539297
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,Latin America and the Caribbean,Americas,4117
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,Northern Africa,Africa,998
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,Northern America,Americas,61502
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,Northern Europe,Europe,1502338
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,South-eastern Asia,Asia,252991
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,Southern Asia,Asia,182080
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,Southern Europe,Europe,95725
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,Sub-Saharan Africa,Africa,61877
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,Western Asia,Asia,46191
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,Western Europe,Europe,58469
-2014,2014,Export,Azerbaijan,73,Iron or steel articles,World,World,34844326
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,Australia and New Zealand,Oceania,149,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,Central Asia,Asia,4365414,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,Eastern Asia,Asia,700,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,Eastern Europe,Europe,27539297,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,Latin America and the Caribbean,Americas,4117,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,Northern Africa,Africa,998,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,Northern America,Americas,61502,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,Northern Europe,Europe,1502338,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,South-eastern Asia,Asia,252991,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,Southern Asia,Asia,182080,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,Southern Europe,Europe,95725,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,Sub-Saharan Africa,Africa,61877,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,Western Asia,Asia,46191,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,Western Europe,Europe,58469,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2014,2014,Export,Azerbaijan,73,Iron or steel articles,World,World,34844326,40.3936294,47.7872508,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Jordan,89,"Ships, boats and floating structures",Eastern Asia,Asia,8954
-2018,2018,Import,Jordan,89,"Ships, boats and floating structures",Eastern Europe,Europe,39436
-2018,2018,Import,Jordan,89,"Ships, boats and floating structures",Northern America,Americas,383978
-2018,2018,Import,Jordan,89,"Ships, boats and floating structures",Northern Europe,Europe,10468
-2018,2018,Import,Jordan,89,"Ships, boats and floating structures",Southern Europe,Europe,480000
-2018,2018,Import,Jordan,89,"Ships, boats and floating structures",Western Asia,Asia,9156
-2018,2018,Import,Jordan,89,"Ships, boats and floating structures",Western Europe,Europe,122992
-2018,2018,Import,Jordan,89,"Ships, boats and floating structures",World,World,1054988
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Jordan,89,"Ships, boats and floating structures",Eastern Asia,Asia,8954,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2018,2018,Import,Jordan,89,"Ships, boats and floating structures",Eastern Europe,Europe,39436,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2018,2018,Import,Jordan,89,"Ships, boats and floating structures",Northern America,Americas,383978,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2018,2018,Import,Jordan,89,"Ships, boats and floating structures",Northern Europe,Europe,10468,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2018,2018,Import,Jordan,89,"Ships, boats and floating structures",Southern Europe,Europe,480000,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2018,2018,Import,Jordan,89,"Ships, boats and floating structures",Western Asia,Asia,9156,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2018,2018,Import,Jordan,89,"Ships, boats and floating structures",Western Europe,Europe,122992,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2018,2018,Import,Jordan,89,"Ships, boats and floating structures",World,World,1054988,31.1667049,36.941628,,

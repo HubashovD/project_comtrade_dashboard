@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Israel,2,Meat and edible meat offal,Eastern Asia,Asia,3477000
-1995,1995,Export,Israel,2,Meat and edible meat offal,Eastern Europe,Europe,1769000
-1995,1995,Export,Israel,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,11000
-1995,1995,Export,Israel,2,Meat and edible meat offal,Northern America,Americas,28000
-1995,1995,Export,Israel,2,Meat and edible meat offal,Northern Europe,Europe,625000
-1995,1995,Export,Israel,2,Meat and edible meat offal,South-eastern Asia,Asia,38000
-1995,1995,Export,Israel,2,Meat and edible meat offal,Southern Europe,Europe,313000
-1995,1995,Export,Israel,2,Meat and edible meat offal,Western Europe,Europe,19047000
-1995,1995,Export,Israel,2,Meat and edible meat offal,World,World,27618000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Israel,2,Meat and edible meat offal,Eastern Asia,Asia,3477000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1995,1995,Export,Israel,2,Meat and edible meat offal,Eastern Europe,Europe,1769000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1995,1995,Export,Israel,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,11000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1995,1995,Export,Israel,2,Meat and edible meat offal,Northern America,Americas,28000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1995,1995,Export,Israel,2,Meat and edible meat offal,Northern Europe,Europe,625000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1995,1995,Export,Israel,2,Meat and edible meat offal,South-eastern Asia,Asia,38000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1995,1995,Export,Israel,2,Meat and edible meat offal,Southern Europe,Europe,313000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1995,1995,Export,Israel,2,Meat and edible meat offal,Western Europe,Europe,19047000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Export,Israel,2,Meat and edible meat offal,World,World,27618000,30.8124247,34.8594762,,

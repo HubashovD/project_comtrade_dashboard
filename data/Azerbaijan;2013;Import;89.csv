@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Eastern Asia,Asia,26787
-2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Eastern Europe,Europe,869004
-2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,12132
-2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Northern America,Americas,2402555
-2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Northern Europe,Europe,2407493
-2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Southern Asia,Asia,15892
-2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Southern Europe,Europe,263528
-2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Western Asia,Asia,36257034
-2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Western Europe,Europe,4292894
-2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",World,World,46957699
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Eastern Asia,Asia,26787,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Eastern Europe,Europe,869004,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,12132,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Northern America,Americas,2402555,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Northern Europe,Europe,2407493,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Southern Asia,Asia,15892,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Southern Europe,Europe,263528,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Western Asia,Asia,36257034,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",Western Europe,Europe,4292894,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2013,2013,Import,Azerbaijan,89,"Ships, boats and floating structures",World,World,46957699,40.3936294,47.7872508,,

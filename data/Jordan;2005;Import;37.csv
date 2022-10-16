@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Australia and New Zealand,Oceania,439
-2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Eastern Asia,Asia,2640917
-2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Eastern Europe,Europe,179090
-2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Latin America and the Caribbean,Americas,153060
-2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Northern Africa,Africa,8011
-2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Northern America,Americas,1091067
-2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Northern Europe,Europe,864971
-2005,2005,Import,Jordan,37,Photographic or cinematographic goods,South-eastern Asia,Asia,141600
-2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Southern Europe,Europe,392247
-2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Western Asia,Asia,19752
-2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Western Europe,Europe,3940632
-2005,2005,Import,Jordan,37,Photographic or cinematographic goods,World,World,9891017
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Australia and New Zealand,Oceania,439,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Eastern Asia,Asia,2640917,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Eastern Europe,Europe,179090,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Latin America and the Caribbean,Americas,153060,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Northern Africa,Africa,8011,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Northern America,Americas,1091067,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Northern Europe,Europe,864971,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2005,2005,Import,Jordan,37,Photographic or cinematographic goods,South-eastern Asia,Asia,141600,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Southern Europe,Europe,392247,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Western Asia,Asia,19752,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2005,2005,Import,Jordan,37,Photographic or cinematographic goods,Western Europe,Europe,3940632,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2005,2005,Import,Jordan,37,Photographic or cinematographic goods,World,World,9891017,31.1667049,36.941628,,

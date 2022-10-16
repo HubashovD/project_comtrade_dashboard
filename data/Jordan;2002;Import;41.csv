@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,Eastern Asia,Asia,389
-2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,Northern Africa,Africa,719535
-2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,Northern Europe,Europe,21052
-2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,South-eastern Asia,Asia,7757
-2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,Southern Europe,Europe,73965
-2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,Sub-Saharan Africa,Africa,408891
-2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,Western Asia,Asia,18968
-2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,World,World,1256633
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,Eastern Asia,Asia,389,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,Northern Africa,Africa,719535,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,Northern Europe,Europe,21052,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,South-eastern Asia,Asia,7757,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,Southern Europe,Europe,73965,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,Sub-Saharan Africa,Africa,408891,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,Western Asia,Asia,18968,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2002,2002,Import,Jordan,41,Raw hides and skins (other than fur skins) and leather,World,World,1256633,31.1667049,36.941628,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Kuwait,30,Pharmaceutical products,Eastern Asia,Asia,556
-2020,2020,Export,Kuwait,30,Pharmaceutical products,Eastern Europe,Europe,327
-2020,2020,Export,Kuwait,30,Pharmaceutical products,Northern America,Americas,2125736
-2020,2020,Export,Kuwait,30,Pharmaceutical products,Northern Europe,Europe,125260
-2020,2020,Export,Kuwait,30,Pharmaceutical products,Western Asia,Asia,241
-2020,2020,Export,Kuwait,30,Pharmaceutical products,Western Europe,Europe,120197
-2020,2020,Export,Kuwait,30,Pharmaceutical products,World,World,35172472
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Kuwait,30,Pharmaceutical products,Eastern Asia,Asia,556,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2020,2020,Export,Kuwait,30,Pharmaceutical products,Eastern Europe,Europe,327,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2020,2020,Export,Kuwait,30,Pharmaceutical products,Northern America,Americas,2125736,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2020,2020,Export,Kuwait,30,Pharmaceutical products,Northern Europe,Europe,125260,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2020,2020,Export,Kuwait,30,Pharmaceutical products,Western Asia,Asia,241,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2020,2020,Export,Kuwait,30,Pharmaceutical products,Western Europe,Europe,120197,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2020,2020,Export,Kuwait,30,Pharmaceutical products,World,World,35172472,29.2733964,47.4979476,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Jordan,78,Lead and articles thereof,Australia and New Zealand,Oceania,799434
-1994,1994,Import,Jordan,78,Lead and articles thereof,Eastern Asia,Asia,7996
-1994,1994,Import,Jordan,78,Lead and articles thereof,Northern America,Americas,6377
-1994,1994,Import,Jordan,78,Lead and articles thereof,Northern Europe,Europe,183825
-1994,1994,Import,Jordan,78,Lead and articles thereof,Western Europe,Europe,27139
-1994,1994,Import,Jordan,78,Lead and articles thereof,World,World,1080299
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Jordan,78,Lead and articles thereof,Australia and New Zealand,Oceania,799434,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1994,1994,Import,Jordan,78,Lead and articles thereof,Eastern Asia,Asia,7996,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1994,1994,Import,Jordan,78,Lead and articles thereof,Northern America,Americas,6377,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1994,1994,Import,Jordan,78,Lead and articles thereof,Northern Europe,Europe,183825,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Import,Jordan,78,Lead and articles thereof,Western Europe,Europe,27139,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1994,1994,Import,Jordan,78,Lead and articles thereof,World,World,1080299,31.1667049,36.941628,,

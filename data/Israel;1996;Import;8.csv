@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Eastern Asia,Asia,1052000
-1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Eastern Europe,Europe,435000
-1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Latin America and the Caribbean,Americas,209000
-1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern America,Americas,39918000
-1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern Europe,Europe,12482000
-1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",South-eastern Asia,Asia,1667000
-1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Southern Asia,Asia,491000
-1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Southern Europe,Europe,4035000
-1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Asia,Asia,10893000
-1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Europe,Europe,7874000
-1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",World,World,84474000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Eastern Asia,Asia,1052000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Eastern Europe,Europe,435000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Latin America and the Caribbean,Americas,209000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern America,Americas,39918000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Northern Europe,Europe,12482000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",South-eastern Asia,Asia,1667000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Southern Asia,Asia,491000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Southern Europe,Europe,4035000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Asia,Asia,10893000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",Western Europe,Europe,7874000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1996,1996,Import,Israel,8,"Edible fruit, nuts, peel of citrus fruit, melons",World,World,84474000,30.8124247,34.8594762,,

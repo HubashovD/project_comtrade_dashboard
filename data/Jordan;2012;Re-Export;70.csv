@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Re-Export,Jordan,70,Glass and glassware,Eastern Asia,Asia,10320
-2012,2012,Re-Export,Jordan,70,Glass and glassware,Northern Africa,Africa,1504
-2012,2012,Re-Export,Jordan,70,Glass and glassware,Northern America,Americas,8632
-2012,2012,Re-Export,Jordan,70,Glass and glassware,Northern Europe,Europe,4378
-2012,2012,Re-Export,Jordan,70,Glass and glassware,South-eastern Asia,Asia,1468
-2012,2012,Re-Export,Jordan,70,Glass and glassware,Sub-Saharan Africa,Africa,1393
-2012,2012,Re-Export,Jordan,70,Glass and glassware,Western Asia,Asia,80
-2012,2012,Re-Export,Jordan,70,Glass and glassware,Western Europe,Europe,158353
-2012,2012,Re-Export,Jordan,70,Glass and glassware,World,World,2530895
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Re-Export,Jordan,70,Glass and glassware,Eastern Asia,Asia,10320,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2012,2012,Re-Export,Jordan,70,Glass and glassware,Northern Africa,Africa,1504,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2012,2012,Re-Export,Jordan,70,Glass and glassware,Northern America,Americas,8632,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2012,2012,Re-Export,Jordan,70,Glass and glassware,Northern Europe,Europe,4378,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2012,2012,Re-Export,Jordan,70,Glass and glassware,South-eastern Asia,Asia,1468,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2012,2012,Re-Export,Jordan,70,Glass and glassware,Sub-Saharan Africa,Africa,1393,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2012,2012,Re-Export,Jordan,70,Glass and glassware,Western Asia,Asia,80,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2012,2012,Re-Export,Jordan,70,Glass and glassware,Western Europe,Europe,158353,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2012,2012,Re-Export,Jordan,70,Glass and glassware,World,World,2530895,31.1667049,36.941628,,

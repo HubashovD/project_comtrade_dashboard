@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Lebanon,74,Copper and articles thereof,Eastern Asia,Asia,702091
-2000,2000,Import,Lebanon,74,Copper and articles thereof,Eastern Europe,Europe,30687
-2000,2000,Import,Lebanon,74,Copper and articles thereof,Latin America and the Caribbean,Americas,35682
-2000,2000,Import,Lebanon,74,Copper and articles thereof,Northern Africa,Africa,953621
-2000,2000,Import,Lebanon,74,Copper and articles thereof,Northern America,Americas,397638
-2000,2000,Import,Lebanon,74,Copper and articles thereof,Northern Europe,Europe,681308
-2000,2000,Import,Lebanon,74,Copper and articles thereof,South-eastern Asia,Asia,1245
-2000,2000,Import,Lebanon,74,Copper and articles thereof,Southern Asia,Asia,123
-2000,2000,Import,Lebanon,74,Copper and articles thereof,Southern Europe,Europe,8977136
-2000,2000,Import,Lebanon,74,Copper and articles thereof,Sub-Saharan Africa,Africa,225990
-2000,2000,Import,Lebanon,74,Copper and articles thereof,Western Asia,Asia,7220270
-2000,2000,Import,Lebanon,74,Copper and articles thereof,Western Europe,Europe,3458802
-2000,2000,Import,Lebanon,74,Copper and articles thereof,World,World,27864435
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Lebanon,74,Copper and articles thereof,Eastern Asia,Asia,702091,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2000,2000,Import,Lebanon,74,Copper and articles thereof,Eastern Europe,Europe,30687,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2000,2000,Import,Lebanon,74,Copper and articles thereof,Latin America and the Caribbean,Americas,35682,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2000,2000,Import,Lebanon,74,Copper and articles thereof,Northern Africa,Africa,953621,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2000,2000,Import,Lebanon,74,Copper and articles thereof,Northern America,Americas,397638,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2000,2000,Import,Lebanon,74,Copper and articles thereof,Northern Europe,Europe,681308,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Import,Lebanon,74,Copper and articles thereof,South-eastern Asia,Asia,1245,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2000,2000,Import,Lebanon,74,Copper and articles thereof,Southern Asia,Asia,123,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2000,2000,Import,Lebanon,74,Copper and articles thereof,Southern Europe,Europe,8977136,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Import,Lebanon,74,Copper and articles thereof,Sub-Saharan Africa,Africa,225990,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Import,Lebanon,74,Copper and articles thereof,Western Asia,Asia,7220270,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Import,Lebanon,74,Copper and articles thereof,Western Europe,Europe,3458802,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Import,Lebanon,74,Copper and articles thereof,World,World,27864435,33.8750629,35.843409,,

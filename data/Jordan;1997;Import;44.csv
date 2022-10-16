@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Australia and New Zealand,Oceania,36713
-1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Eastern Asia,Asia,229106
-1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Eastern Europe,Europe,4581876
-1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Latin America and the Caribbean,Americas,618379
-1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Northern Africa,Africa,436510
-1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Northern America,Americas,1422861
-1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Northern Europe,Europe,758836
-1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",South-eastern Asia,Asia,17394083
-1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Southern Europe,Europe,1031656
-1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Sub-Saharan Africa,Africa,200573
-1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Western Asia,Asia,1049684
-1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Western Europe,Europe,415785
-1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",World,World,29472006
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Australia and New Zealand,Oceania,36713,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Eastern Asia,Asia,229106,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Eastern Europe,Europe,4581876,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Latin America and the Caribbean,Americas,618379,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Northern Africa,Africa,436510,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Northern America,Americas,1422861,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Northern Europe,Europe,758836,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",South-eastern Asia,Asia,17394083,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Southern Europe,Europe,1031656,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Sub-Saharan Africa,Africa,200573,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Western Asia,Asia,1049684,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",Western Europe,Europe,415785,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1997,1997,Import,Jordan,44,"Wood and articles of wood, wood charcoal",World,World,29472006,31.1667049,36.941628,,

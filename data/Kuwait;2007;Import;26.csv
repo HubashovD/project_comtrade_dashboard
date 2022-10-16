@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Kuwait,26,"Ores, slag and ash",Australia and New Zealand,Oceania,106548
-2007,2007,Import,Kuwait,26,"Ores, slag and ash",Eastern Asia,Asia,124370
-2007,2007,Import,Kuwait,26,"Ores, slag and ash",Eastern Europe,Europe,160082
-2007,2007,Import,Kuwait,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,916
-2007,2007,Import,Kuwait,26,"Ores, slag and ash",Northern Africa,Africa,28244
-2007,2007,Import,Kuwait,26,"Ores, slag and ash",Northern America,Americas,46053
-2007,2007,Import,Kuwait,26,"Ores, slag and ash",Northern Europe,Europe,40547
-2007,2007,Import,Kuwait,26,"Ores, slag and ash",South-eastern Asia,Asia,66443
-2007,2007,Import,Kuwait,26,"Ores, slag and ash",Southern Asia,Asia,1152902
-2007,2007,Import,Kuwait,26,"Ores, slag and ash",Southern Europe,Europe,26281
-2007,2007,Import,Kuwait,26,"Ores, slag and ash",Western Asia,Asia,22971
-2007,2007,Import,Kuwait,26,"Ores, slag and ash",Western Europe,Europe,309007
-2007,2007,Import,Kuwait,26,"Ores, slag and ash",World,World,13183515
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Kuwait,26,"Ores, slag and ash",Australia and New Zealand,Oceania,106548,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2007,2007,Import,Kuwait,26,"Ores, slag and ash",Eastern Asia,Asia,124370,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2007,2007,Import,Kuwait,26,"Ores, slag and ash",Eastern Europe,Europe,160082,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2007,2007,Import,Kuwait,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,916,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2007,2007,Import,Kuwait,26,"Ores, slag and ash",Northern Africa,Africa,28244,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2007,2007,Import,Kuwait,26,"Ores, slag and ash",Northern America,Americas,46053,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2007,2007,Import,Kuwait,26,"Ores, slag and ash",Northern Europe,Europe,40547,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2007,2007,Import,Kuwait,26,"Ores, slag and ash",South-eastern Asia,Asia,66443,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2007,2007,Import,Kuwait,26,"Ores, slag and ash",Southern Asia,Asia,1152902,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2007,2007,Import,Kuwait,26,"Ores, slag and ash",Southern Europe,Europe,26281,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2007,2007,Import,Kuwait,26,"Ores, slag and ash",Western Asia,Asia,22971,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2007,2007,Import,Kuwait,26,"Ores, slag and ash",Western Europe,Europe,309007,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2007,2007,Import,Kuwait,26,"Ores, slag and ash",World,World,13183515,29.2733964,47.4979476,,

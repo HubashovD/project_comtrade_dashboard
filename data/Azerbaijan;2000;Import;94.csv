@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Australia and New Zealand,Oceania,19480
-2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Central Asia,Asia,1288
-2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Asia,Asia,1736469
-2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Europe,Europe,2918168
-2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Latin America and the Caribbean,Americas,10110
-2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Northern America,Americas,1003151
-2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Northern Europe,Europe,489484
-2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",South-eastern Asia,Asia,522576
-2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Southern Asia,Asia,392650
-2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Southern Europe,Europe,995920
-2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Western Asia,Asia,2873815
-2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Western Europe,Europe,1675099
-2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",World,World,13700408
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Australia and New Zealand,Oceania,19480,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Central Asia,Asia,1288,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Asia,Asia,1736469,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Europe,Europe,2918168,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Latin America and the Caribbean,Americas,10110,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Northern America,Americas,1003151,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Northern Europe,Europe,489484,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",South-eastern Asia,Asia,522576,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Southern Asia,Asia,392650,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Southern Europe,Europe,995920,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Western Asia,Asia,2873815,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Western Europe,Europe,1675099,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Import,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",World,World,13700408,40.3936294,47.7872508,,

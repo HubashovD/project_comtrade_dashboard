@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Israel,40,Rubber and articles thereof,Australia and New Zealand,Oceania,172000
-2014,2014,Import,Israel,40,Rubber and articles thereof,Eastern Asia,Asia,162152000
-2014,2014,Import,Israel,40,Rubber and articles thereof,Eastern Europe,Europe,7094000
-2014,2014,Import,Israel,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,469000
-2014,2014,Import,Israel,40,Rubber and articles thereof,Northern America,Americas,30247000
-2014,2014,Import,Israel,40,Rubber and articles thereof,Northern Europe,Europe,27441000
-2014,2014,Import,Israel,40,Rubber and articles thereof,South-eastern Asia,Asia,53175000
-2014,2014,Import,Israel,40,Rubber and articles thereof,Southern Asia,Asia,2022000
-2014,2014,Import,Israel,40,Rubber and articles thereof,Southern Europe,Europe,24130000
-2014,2014,Import,Israel,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,969000
-2014,2014,Import,Israel,40,Rubber and articles thereof,Western Asia,Asia,24073000
-2014,2014,Import,Israel,40,Rubber and articles thereof,Western Europe,Europe,122879000
-2014,2014,Import,Israel,40,Rubber and articles thereof,World,World,475277000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Israel,40,Rubber and articles thereof,Australia and New Zealand,Oceania,172000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2014,2014,Import,Israel,40,Rubber and articles thereof,Eastern Asia,Asia,162152000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2014,2014,Import,Israel,40,Rubber and articles thereof,Eastern Europe,Europe,7094000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2014,2014,Import,Israel,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,469000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2014,2014,Import,Israel,40,Rubber and articles thereof,Northern America,Americas,30247000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2014,2014,Import,Israel,40,Rubber and articles thereof,Northern Europe,Europe,27441000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2014,2014,Import,Israel,40,Rubber and articles thereof,South-eastern Asia,Asia,53175000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2014,2014,Import,Israel,40,Rubber and articles thereof,Southern Asia,Asia,2022000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2014,2014,Import,Israel,40,Rubber and articles thereof,Southern Europe,Europe,24130000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2014,2014,Import,Israel,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,969000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2014,2014,Import,Israel,40,Rubber and articles thereof,Western Asia,Asia,24073000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2014,2014,Import,Israel,40,Rubber and articles thereof,Western Europe,Europe,122879000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2014,2014,Import,Israel,40,Rubber and articles thereof,World,World,475277000,30.8124247,34.8594762,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Export,Kuwait,71,"Natural or cultured pearls, precious or semi-precious stones",Eastern Asia,Asia,8656
-2008,2008,Export,Kuwait,71,"Natural or cultured pearls, precious or semi-precious stones",Eastern Europe,Europe,8175
-2008,2008,Export,Kuwait,71,"Natural or cultured pearls, precious or semi-precious stones",Northern Europe,Europe,2824331
-2008,2008,Export,Kuwait,71,"Natural or cultured pearls, precious or semi-precious stones",South-eastern Asia,Asia,175
-2008,2008,Export,Kuwait,71,"Natural or cultured pearls, precious or semi-precious stones",Southern Europe,Europe,416092
-2008,2008,Export,Kuwait,71,"Natural or cultured pearls, precious or semi-precious stones",Western Europe,Europe,733439
-2008,2008,Export,Kuwait,71,"Natural or cultured pearls, precious or semi-precious stones",World,World,49014601
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Export,Kuwait,71,"Natural or cultured pearls, precious or semi-precious stones",Eastern Asia,Asia,8656,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2008,2008,Export,Kuwait,71,"Natural or cultured pearls, precious or semi-precious stones",Eastern Europe,Europe,8175,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2008,2008,Export,Kuwait,71,"Natural or cultured pearls, precious or semi-precious stones",Northern Europe,Europe,2824331,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2008,2008,Export,Kuwait,71,"Natural or cultured pearls, precious or semi-precious stones",South-eastern Asia,Asia,175,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2008,2008,Export,Kuwait,71,"Natural or cultured pearls, precious or semi-precious stones",Southern Europe,Europe,416092,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2008,2008,Export,Kuwait,71,"Natural or cultured pearls, precious or semi-precious stones",Western Europe,Europe,733439,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Export,Kuwait,71,"Natural or cultured pearls, precious or semi-precious stones",World,World,49014601,29.2733964,47.4979476,,

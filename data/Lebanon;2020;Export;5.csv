@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,108685
-2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,23408
-2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Northern Africa,Africa,216049
-2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,7522
-2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,80703
-2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,20955
-2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,60212
-2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,1493468
-2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,World,World,2067642
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,108685,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Eastern Europe,Europe,23408,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Northern Africa,Africa,216049,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,7522,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,80703,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,20955,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Western Asia,Asia,60212,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,1493468,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2020,2020,Export,Lebanon,5,Animal originated products; not elsewhere specified or included,World,World,2067642,33.8750629,35.843409,,

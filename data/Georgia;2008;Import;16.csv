@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Central Asia,Asia,208794
-2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Eastern Asia,Asia,498796
-2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Eastern Europe,Europe,8647411
-2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Latin America and the Caribbean,Americas,1689477
-2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Northern America,Americas,126554
-2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Northern Europe,Europe,2802539
-2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",South-eastern Asia,Asia,810611
-2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Southern Europe,Europe,368273
-2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Western Asia,Asia,41132
-2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Western Europe,Europe,13059890
-2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",World,World,30169475
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Central Asia,Asia,208794,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Eastern Asia,Asia,498796,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Eastern Europe,Europe,8647411,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Latin America and the Caribbean,Americas,1689477,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Northern America,Americas,126554,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Northern Europe,Europe,2802539,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",South-eastern Asia,Asia,810611,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Southern Europe,Europe,368273,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Western Asia,Asia,41132,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",Western Europe,Europe,13059890,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2008,2008,Import,Georgia,16,"Preparations of meat, of fish or of crustaceans",World,World,30169475,32.3293809,-83.1137366,,

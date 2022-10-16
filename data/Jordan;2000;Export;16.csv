@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Jordan,16,"Meat, fish and seafood food preparations nes",Australia and New Zealand,Oceania,42313
-2000,2000,Export,Jordan,16,"Meat, fish and seafood food preparations nes",Eastern Asia,Asia,70522
-2000,2000,Export,Jordan,16,"Meat, fish and seafood food preparations nes",Latin America and the Caribbean,Americas,84626
-2000,2000,Export,Jordan,16,"Meat, fish and seafood food preparations nes",Northern Africa,Africa,169026
-2000,2000,Export,Jordan,16,"Meat, fish and seafood food preparations nes",Southern Europe,Europe,7052
-2000,2000,Export,Jordan,16,"Meat, fish and seafood food preparations nes",Western Asia,Asia,77903
-2000,2000,Export,Jordan,16,"Meat, fish and seafood food preparations nes",World,World,2896603
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Jordan,16,"Meat, fish and seafood food preparations nes",Australia and New Zealand,Oceania,42313,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2000,2000,Export,Jordan,16,"Meat, fish and seafood food preparations nes",Eastern Asia,Asia,70522,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Export,Jordan,16,"Meat, fish and seafood food preparations nes",Latin America and the Caribbean,Americas,84626,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2000,2000,Export,Jordan,16,"Meat, fish and seafood food preparations nes",Northern Africa,Africa,169026,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Export,Jordan,16,"Meat, fish and seafood food preparations nes",Southern Europe,Europe,7052,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2000,2000,Export,Jordan,16,"Meat, fish and seafood food preparations nes",Western Asia,Asia,77903,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Export,Jordan,16,"Meat, fish and seafood food preparations nes",World,World,2896603,31.1667049,36.941628,,

@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Israel,5,"Products of animal origin, nes",Latin America and the Caribbean,Americas,11000
-1999,1999,Export,Israel,5,"Products of animal origin, nes",Northern Africa,Africa,24000
-1999,1999,Export,Israel,5,"Products of animal origin, nes",Western Europe,Europe,7000
-1999,1999,Export,Israel,5,"Products of animal origin, nes",World,World,42000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Israel,5,"Products of animal origin, nes",Latin America and the Caribbean,Americas,11000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1999,1999,Export,Israel,5,"Products of animal origin, nes",Northern Africa,Africa,24000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1999,1999,Export,Israel,5,"Products of animal origin, nes",Western Europe,Europe,7000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1999,1999,Export,Israel,5,"Products of animal origin, nes",World,World,42000,30.8124247,34.8594762,,

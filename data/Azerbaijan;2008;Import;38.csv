@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,3774
-2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Central Asia,Asia,16875
-2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Eastern Asia,Asia,1762821
-2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Eastern Europe,Europe,10653810
-2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,105
-2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Northern Africa,Africa,731
-2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Northern America,Americas,14267393
-2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Northern Europe,Europe,4320994
-2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,South-eastern Asia,Asia,889255
-2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Southern Asia,Asia,274898
-2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Southern Europe,Europe,3393318
-2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Western Asia,Asia,7800546
-2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Western Europe,Europe,12898652
-2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,World,World,58214581
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,3774,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Central Asia,Asia,16875,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Eastern Asia,Asia,1762821,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Eastern Europe,Europe,10653810,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,105,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Northern Africa,Africa,731,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Northern America,Americas,14267393,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Northern Europe,Europe,4320994,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,South-eastern Asia,Asia,889255,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Southern Asia,Asia,274898,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Southern Europe,Europe,3393318,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Western Asia,Asia,7800546,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,Western Europe,Europe,12898652,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2008,2008,Import,Azerbaijan,38,Miscellaneous chemical products,World,World,58214581,40.3936294,47.7872508,,

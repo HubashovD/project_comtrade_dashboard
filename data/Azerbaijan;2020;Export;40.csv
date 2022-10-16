@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Central Asia,Asia,90764
-2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Eastern Asia,Asia,100287
-2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Eastern Europe,Europe,10081
-2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,524
-2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Northern America,Americas,49681
-2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Northern Europe,Europe,111357
-2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,South-eastern Asia,Asia,1127
-2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Southern Asia,Asia,4610
-2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,67379
-2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Western Asia,Asia,32536
-2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Western Europe,Europe,348884
-2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,World,World,1042892
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Central Asia,Asia,90764,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Eastern Asia,Asia,100287,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Eastern Europe,Europe,10081,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,524,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Northern America,Americas,49681,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Northern Europe,Europe,111357,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,South-eastern Asia,Asia,1127,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Southern Asia,Asia,4610,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,67379,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Western Asia,Asia,32536,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,Western Europe,Europe,348884,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2020,2020,Export,Azerbaijan,40,Rubber and articles thereof,World,World,1042892,40.3936294,47.7872508,,

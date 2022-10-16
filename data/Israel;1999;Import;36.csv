@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,1268000
-1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,223000
-1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,1015000
-1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,347000
-1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,326000
-1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Asia,Asia,274000
-1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,445000
-1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,4005000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,1268000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,223000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,1015000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,347000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,326000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Asia,Asia,274000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,445000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1999,1999,Import,Israel,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,4005000,30.8124247,34.8594762,,

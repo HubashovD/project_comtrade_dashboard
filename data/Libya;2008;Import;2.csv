@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Libya,2,Meat and edible meat offal,Australia and New Zealand,Oceania,10279563
-2008,2008,Import,Libya,2,Meat and edible meat offal,Eastern Asia,Asia,723713
-2008,2008,Import,Libya,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,33529604
-2008,2008,Import,Libya,2,Meat and edible meat offal,Northern America,Americas,1506234
-2008,2008,Import,Libya,2,Meat and edible meat offal,Northern Europe,Europe,170899
-2008,2008,Import,Libya,2,Meat and edible meat offal,South-eastern Asia,Asia,874023
-2008,2008,Import,Libya,2,Meat and edible meat offal,Western Europe,Europe,2273580
-2008,2008,Import,Libya,2,Meat and edible meat offal,World,World,49357617
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Libya,2,Meat and edible meat offal,Australia and New Zealand,Oceania,10279563,26.8234472,18.1236723,-16.85099460447687,133.4130365630627
+2008,2008,Import,Libya,2,Meat and edible meat offal,Eastern Asia,Asia,723713,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2008,2008,Import,Libya,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,33529604,26.8234472,18.1236723,17.925141963241547,-78.01492950057497
+2008,2008,Import,Libya,2,Meat and edible meat offal,Northern America,Americas,1506234,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2008,2008,Import,Libya,2,Meat and edible meat offal,Northern Europe,Europe,170899,26.8234472,18.1236723,59.36075159783851,25.01346951967388
+2008,2008,Import,Libya,2,Meat and edible meat offal,South-eastern Asia,Asia,874023,26.8234472,18.1236723,10.528384761701911,103.08333472012376
+2008,2008,Import,Libya,2,Meat and edible meat offal,Western Europe,Europe,2273580,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2008,2008,Import,Libya,2,Meat and edible meat offal,World,World,49357617,26.8234472,18.1236723,,

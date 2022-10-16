@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,37594
-2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Central Asia,Asia,63912
-2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,7110
-2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,13886122
-2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,19928
-2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Northern America,Americas,280
-2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Northern Europe,Europe,185566
-2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Southern Asia,Asia,12190
-2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Southern Europe,Europe,481659
-2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Western Asia,Asia,504171
-2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Western Europe,Europe,2675518
-2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",World,World,20004937
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,37594,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Central Asia,Asia,63912,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,7110,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,13886122,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,19928,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Northern America,Americas,280,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Northern Europe,Europe,185566,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Southern Asia,Asia,12190,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Southern Europe,Europe,481659,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Western Asia,Asia,504171,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",Western Europe,Europe,2675518,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2006,2006,Import,Azerbaijan,22,"Beverages, spirits and vinegar",World,World,20004937,40.3936294,47.7872508,,

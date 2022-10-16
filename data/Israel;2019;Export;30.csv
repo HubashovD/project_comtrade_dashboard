@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Export,Israel,30,Pharmaceutical products,Australia and New Zealand,Oceania,19778000
-2019,2019,Export,Israel,30,Pharmaceutical products,Central Asia,Asia,2683000
-2019,2019,Export,Israel,30,Pharmaceutical products,Eastern Asia,Asia,32898000
-2019,2019,Export,Israel,30,Pharmaceutical products,Eastern Europe,Europe,275531000
-2019,2019,Export,Israel,30,Pharmaceutical products,Latin America and the Caribbean,Americas,39377000
-2019,2019,Export,Israel,30,Pharmaceutical products,Northern America,Americas,1524686000
-2019,2019,Export,Israel,30,Pharmaceutical products,Northern Europe,Europe,632018000
-2019,2019,Export,Israel,30,Pharmaceutical products,South-eastern Asia,Asia,12716000
-2019,2019,Export,Israel,30,Pharmaceutical products,Southern Europe,Europe,37733000
-2019,2019,Export,Israel,30,Pharmaceutical products,Sub-Saharan Africa,Africa,8350000
-2019,2019,Export,Israel,30,Pharmaceutical products,Western Asia,Asia,7551000
-2019,2019,Export,Israel,30,Pharmaceutical products,Western Europe,Europe,361769000
-2019,2019,Export,Israel,30,Pharmaceutical products,World,World,2982768000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Export,Israel,30,Pharmaceutical products,Australia and New Zealand,Oceania,19778000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2019,2019,Export,Israel,30,Pharmaceutical products,Central Asia,Asia,2683000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2019,2019,Export,Israel,30,Pharmaceutical products,Eastern Asia,Asia,32898000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2019,2019,Export,Israel,30,Pharmaceutical products,Eastern Europe,Europe,275531000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2019,2019,Export,Israel,30,Pharmaceutical products,Latin America and the Caribbean,Americas,39377000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2019,2019,Export,Israel,30,Pharmaceutical products,Northern America,Americas,1524686000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2019,2019,Export,Israel,30,Pharmaceutical products,Northern Europe,Europe,632018000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2019,2019,Export,Israel,30,Pharmaceutical products,South-eastern Asia,Asia,12716000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2019,2019,Export,Israel,30,Pharmaceutical products,Southern Europe,Europe,37733000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2019,2019,Export,Israel,30,Pharmaceutical products,Sub-Saharan Africa,Africa,8350000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2019,2019,Export,Israel,30,Pharmaceutical products,Western Asia,Asia,7551000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2019,2019,Export,Israel,30,Pharmaceutical products,Western Europe,Europe,361769000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2019,2019,Export,Israel,30,Pharmaceutical products,World,World,2982768000,30.8124247,34.8594762,,

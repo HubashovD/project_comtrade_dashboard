@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Australia and New Zealand,Oceania,695
-2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Central Asia,Asia,175
-2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,12174
-2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,10360
-2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,275
-2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Northern America,Americas,12857
-2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,10933
-2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",South-eastern Asia,Asia,850
-2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,3718
-2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,745
-2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,6603
-2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",World,World,178281
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Australia and New Zealand,Oceania,695,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Central Asia,Asia,175,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,12174,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,10360,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,275,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Northern America,Americas,12857,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,10933,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",South-eastern Asia,Asia,850,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,3718,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,745,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,6603,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2003,2003,Export,Azerbaijan,49,"Printed books, newspapers, pictures etc",World,World,178281,40.3936294,47.7872508,,

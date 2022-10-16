@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Jordan,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,1424355
-2006,2006,Import,Jordan,99,Commodities not specified according to kind,Eastern Asia,Asia,46635745
-2006,2006,Import,Jordan,99,Commodities not specified according to kind,Eastern Europe,Europe,787005
-2006,2006,Import,Jordan,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,477378
-2006,2006,Import,Jordan,99,Commodities not specified according to kind,Northern Africa,Africa,732059
-2006,2006,Import,Jordan,99,Commodities not specified according to kind,Northern America,Americas,52251166
-2006,2006,Import,Jordan,99,Commodities not specified according to kind,Northern Europe,Europe,29070761
-2006,2006,Import,Jordan,99,Commodities not specified according to kind,South-eastern Asia,Asia,4334992
-2006,2006,Import,Jordan,99,Commodities not specified according to kind,Southern Asia,Asia,123344
-2006,2006,Import,Jordan,99,Commodities not specified according to kind,Southern Europe,Europe,8857929
-2006,2006,Import,Jordan,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,315567
-2006,2006,Import,Jordan,99,Commodities not specified according to kind,Western Asia,Asia,4890606
-2006,2006,Import,Jordan,99,Commodities not specified according to kind,Western Europe,Europe,50029085
-2006,2006,Import,Jordan,99,Commodities not specified according to kind,World,World,207051003
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Jordan,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,1424355,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2006,2006,Import,Jordan,99,Commodities not specified according to kind,Eastern Asia,Asia,46635745,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2006,2006,Import,Jordan,99,Commodities not specified according to kind,Eastern Europe,Europe,787005,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2006,2006,Import,Jordan,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,477378,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2006,2006,Import,Jordan,99,Commodities not specified according to kind,Northern Africa,Africa,732059,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2006,2006,Import,Jordan,99,Commodities not specified according to kind,Northern America,Americas,52251166,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2006,2006,Import,Jordan,99,Commodities not specified according to kind,Northern Europe,Europe,29070761,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2006,2006,Import,Jordan,99,Commodities not specified according to kind,South-eastern Asia,Asia,4334992,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2006,2006,Import,Jordan,99,Commodities not specified according to kind,Southern Asia,Asia,123344,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2006,2006,Import,Jordan,99,Commodities not specified according to kind,Southern Europe,Europe,8857929,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2006,2006,Import,Jordan,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,315567,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2006,2006,Import,Jordan,99,Commodities not specified according to kind,Western Asia,Asia,4890606,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2006,2006,Import,Jordan,99,Commodities not specified according to kind,Western Europe,Europe,50029085,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2006,2006,Import,Jordan,99,Commodities not specified according to kind,World,World,207051003,31.1667049,36.941628,,

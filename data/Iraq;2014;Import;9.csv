@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Eastern Asia,Asia,2127601
-2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Latin America and the Caribbean,Americas,576508
-2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Northern Africa,Africa,508254
-2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Northern America,Americas,10000
-2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Northern Europe,Europe,282733
-2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,2742995
-2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Southern Asia,Asia,44945441
-2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,9130
-2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,161242
-2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Western Asia,Asia,122200
-2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Western Europe,Europe,98707
-2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",World,World,56117901
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Eastern Asia,Asia,2127601,33.0955793,44.1749775,37.977378106878206,73.97804075806764
+2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Latin America and the Caribbean,Americas,576508,33.0955793,44.1749775,17.925141963241547,-78.01492950057497
+2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Northern Africa,Africa,508254,33.0955793,44.1749775,19.569604022535763,12.47761721199581
+2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Northern America,Americas,10000,33.0955793,44.1749775,43.897683433510366,-100.08947125585888
+2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Northern Europe,Europe,282733,33.0955793,44.1749775,59.36075159783851,25.01346951967388
+2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",South-eastern Asia,Asia,2742995,33.0955793,44.1749775,10.528384761701911,103.08333472012376
+2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Southern Asia,Asia,44945441,33.0955793,44.1749775,25.499703063807168,75.5024015339642
+2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Southern Europe,Europe,9130,33.0955793,44.1749775,40.12399607988535,20.742583178432696
+2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Sub-Saharan Africa,Africa,161242,33.0955793,44.1749775,6.06272746187266,22.727528470146083
+2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Western Asia,Asia,122200,33.0955793,44.1749775,26.42921218083572,52.86847103284948
+2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",Western Europe,Europe,98707,33.0955793,44.1749775,47.92172048214207,7.866753258497997
+2014,2014,Import,Iraq,9,"Coffee, tea, matΦ and spices",World,World,56117901,33.0955793,44.1749775,,

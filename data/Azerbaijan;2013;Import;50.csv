@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Azerbaijan,50,Silk,Central Asia,Asia,1240332
-2013,2013,Import,Azerbaijan,50,Silk,Eastern Asia,Asia,2568
-2013,2013,Import,Azerbaijan,50,Silk,Southern Europe,Europe,7823
-2013,2013,Import,Azerbaijan,50,Silk,Western Asia,Asia,105
-2013,2013,Import,Azerbaijan,50,Silk,World,World,1255997
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Azerbaijan,50,Silk,Central Asia,Asia,1240332,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2013,2013,Import,Azerbaijan,50,Silk,Eastern Asia,Asia,2568,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2013,2013,Import,Azerbaijan,50,Silk,Southern Europe,Europe,7823,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2013,2013,Import,Azerbaijan,50,Silk,Western Asia,Asia,105,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2013,2013,Import,Azerbaijan,50,Silk,World,World,1255997,40.3936294,47.7872508,,

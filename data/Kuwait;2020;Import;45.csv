@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Kuwait,45,Cork and articles of cork,Eastern Asia,Asia,221998
-2020,2020,Import,Kuwait,45,Cork and articles of cork,Eastern Europe,Europe,8250
-2020,2020,Import,Kuwait,45,Cork and articles of cork,Latin America and the Caribbean,Americas,394
-2020,2020,Import,Kuwait,45,Cork and articles of cork,Northern Africa,Africa,247
-2020,2020,Import,Kuwait,45,Cork and articles of cork,Northern America,Americas,36488
-2020,2020,Import,Kuwait,45,Cork and articles of cork,Northern Europe,Europe,137380
-2020,2020,Import,Kuwait,45,Cork and articles of cork,South-eastern Asia,Asia,18741
-2020,2020,Import,Kuwait,45,Cork and articles of cork,Southern Asia,Asia,2026
-2020,2020,Import,Kuwait,45,Cork and articles of cork,Southern Europe,Europe,612433
-2020,2020,Import,Kuwait,45,Cork and articles of cork,Sub-Saharan Africa,Africa,459
-2020,2020,Import,Kuwait,45,Cork and articles of cork,Western Asia,Asia,14274
-2020,2020,Import,Kuwait,45,Cork and articles of cork,Western Europe,Europe,13862
-2020,2020,Import,Kuwait,45,Cork and articles of cork,World,World,1161698
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Kuwait,45,Cork and articles of cork,Eastern Asia,Asia,221998,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2020,2020,Import,Kuwait,45,Cork and articles of cork,Eastern Europe,Europe,8250,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2020,2020,Import,Kuwait,45,Cork and articles of cork,Latin America and the Caribbean,Americas,394,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2020,2020,Import,Kuwait,45,Cork and articles of cork,Northern Africa,Africa,247,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2020,2020,Import,Kuwait,45,Cork and articles of cork,Northern America,Americas,36488,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2020,2020,Import,Kuwait,45,Cork and articles of cork,Northern Europe,Europe,137380,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2020,2020,Import,Kuwait,45,Cork and articles of cork,South-eastern Asia,Asia,18741,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2020,2020,Import,Kuwait,45,Cork and articles of cork,Southern Asia,Asia,2026,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2020,2020,Import,Kuwait,45,Cork and articles of cork,Southern Europe,Europe,612433,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2020,2020,Import,Kuwait,45,Cork and articles of cork,Sub-Saharan Africa,Africa,459,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2020,2020,Import,Kuwait,45,Cork and articles of cork,Western Asia,Asia,14274,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2020,2020,Import,Kuwait,45,Cork and articles of cork,Western Europe,Europe,13862,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2020,2020,Import,Kuwait,45,Cork and articles of cork,World,World,1161698,29.2733964,47.4979476,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Azerbaijan,52,Cotton,Eastern Asia,Asia,133518
-2000,2000,Export,Azerbaijan,52,Cotton,Eastern Europe,Europe,1667690
-2000,2000,Export,Azerbaijan,52,Cotton,Northern Europe,Europe,12308737
-2000,2000,Export,Azerbaijan,52,Cotton,Southern Asia,Asia,150000
-2000,2000,Export,Azerbaijan,52,Cotton,Southern Europe,Europe,77800
-2000,2000,Export,Azerbaijan,52,Cotton,Western Asia,Asia,11925522
-2000,2000,Export,Azerbaijan,52,Cotton,Western Europe,Europe,10040584
-2000,2000,Export,Azerbaijan,52,Cotton,World,World,36541735
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Azerbaijan,52,Cotton,Eastern Asia,Asia,133518,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Export,Azerbaijan,52,Cotton,Eastern Europe,Europe,1667690,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Export,Azerbaijan,52,Cotton,Northern Europe,Europe,12308737,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Export,Azerbaijan,52,Cotton,Southern Asia,Asia,150000,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Export,Azerbaijan,52,Cotton,Southern Europe,Europe,77800,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2000,2000,Export,Azerbaijan,52,Cotton,Western Asia,Asia,11925522,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Export,Azerbaijan,52,Cotton,Western Europe,Europe,10040584,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Export,Azerbaijan,52,Cotton,World,World,36541735,40.3936294,47.7872508,,

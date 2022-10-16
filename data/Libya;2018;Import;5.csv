@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Libya,5,"Products of animal origin, not elsewhere specified",Eastern Asia,Asia,39643
-2018,2018,Import,Libya,5,"Products of animal origin, not elsewhere specified",Eastern Europe,Europe,28604
-2018,2018,Import,Libya,5,"Products of animal origin, not elsewhere specified",Northern Africa,Africa,28648
-2018,2018,Import,Libya,5,"Products of animal origin, not elsewhere specified",Northern America,Americas,6405
-2018,2018,Import,Libya,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,35827
-2018,2018,Import,Libya,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,3292
-2018,2018,Import,Libya,5,"Products of animal origin, not elsewhere specified",World,World,160065
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Libya,5,"Products of animal origin, not elsewhere specified",Eastern Asia,Asia,39643,26.8234472,18.1236723,37.977378106878206,73.97804075806764
+2018,2018,Import,Libya,5,"Products of animal origin, not elsewhere specified",Eastern Europe,Europe,28604,26.8234472,18.1236723,51.67568633314729,27.673469819741847
+2018,2018,Import,Libya,5,"Products of animal origin, not elsewhere specified",Northern Africa,Africa,28648,26.8234472,18.1236723,19.569604022535763,12.47761721199581
+2018,2018,Import,Libya,5,"Products of animal origin, not elsewhere specified",Northern America,Americas,6405,26.8234472,18.1236723,43.897683433510366,-100.08947125585888
+2018,2018,Import,Libya,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,35827,26.8234472,18.1236723,26.42921218083572,52.86847103284948
+2018,2018,Import,Libya,5,"Products of animal origin, not elsewhere specified",Western Europe,Europe,3292,26.8234472,18.1236723,47.92172048214207,7.866753258497997
+2018,2018,Import,Libya,5,"Products of animal origin, not elsewhere specified",World,World,160065,26.8234472,18.1236723,,

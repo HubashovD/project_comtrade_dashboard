@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Georgia,80,Tin; articles thereof,Eastern Asia,Asia,5397
-2021,2021,Import,Georgia,80,Tin; articles thereof,Eastern Europe,Europe,55251
-2021,2021,Import,Georgia,80,Tin; articles thereof,Southern Europe,Europe,22043
-2021,2021,Import,Georgia,80,Tin; articles thereof,Western Asia,Asia,1918
-2021,2021,Import,Georgia,80,Tin; articles thereof,Western Europe,Europe,526
-2021,2021,Import,Georgia,80,Tin; articles thereof,World,World,85768
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Georgia,80,Tin; articles thereof,Eastern Asia,Asia,5397,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2021,2021,Import,Georgia,80,Tin; articles thereof,Eastern Europe,Europe,55251,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2021,2021,Import,Georgia,80,Tin; articles thereof,Southern Europe,Europe,22043,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2021,2021,Import,Georgia,80,Tin; articles thereof,Western Asia,Asia,1918,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2021,2021,Import,Georgia,80,Tin; articles thereof,Western Europe,Europe,526,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2021,2021,Import,Georgia,80,Tin; articles thereof,World,World,85768,32.3293809,-83.1137366,,

@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Eastern Asia,Asia,145420
-2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Eastern Europe,Europe,4467
-2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Latin America and the Caribbean,Americas,380
-2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Northern America,Americas,28608
-2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Northern Europe,Europe,4318
-2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Southern Europe,Europe,110825
-2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Sub-Saharan Africa,Africa,726
-2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Western Asia,Asia,10190
-2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Western Europe,Europe,81907
-2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",World,World,401797
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Eastern Asia,Asia,145420,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Eastern Europe,Europe,4467,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Latin America and the Caribbean,Americas,380,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Northern America,Americas,28608,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Northern Europe,Europe,4318,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Southern Europe,Europe,110825,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Sub-Saharan Africa,Africa,726,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Western Asia,Asia,10190,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",Western Europe,Europe,81907,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2001,2001,Import,Lebanon,43,"Furskins and artificial fur, manufactures thereof",World,World,401797,33.8750629,35.843409,,

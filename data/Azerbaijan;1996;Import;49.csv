@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,7360
-1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,469457
-1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Northern America,Americas,2821050
-1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,128858
-1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,8610
-1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,1468193
-1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,11034144
-1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",World,World,16441624
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,7360,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Eastern Europe,Europe,469457,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Northern America,Americas,2821050,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,128858,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Southern Europe,Europe,8610,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,1468193,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,11034144,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1996,1996,Import,Azerbaijan,49,"Printed books, newspapers, pictures etc",World,World,16441624,40.3936294,47.7872508,,

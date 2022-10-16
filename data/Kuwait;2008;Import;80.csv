@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Kuwait,80,Tin and articles thereof,Eastern Asia,Asia,74221
-2008,2008,Import,Kuwait,80,Tin and articles thereof,Eastern Europe,Europe,335
-2008,2008,Import,Kuwait,80,Tin and articles thereof,Latin America and the Caribbean,Americas,5567
-2008,2008,Import,Kuwait,80,Tin and articles thereof,Northern America,Americas,195272
-2008,2008,Import,Kuwait,80,Tin and articles thereof,Northern Europe,Europe,20772
-2008,2008,Import,Kuwait,80,Tin and articles thereof,South-eastern Asia,Asia,62715
-2008,2008,Import,Kuwait,80,Tin and articles thereof,Southern Asia,Asia,7569
-2008,2008,Import,Kuwait,80,Tin and articles thereof,Southern Europe,Europe,54896
-2008,2008,Import,Kuwait,80,Tin and articles thereof,Sub-Saharan Africa,Africa,1860
-2008,2008,Import,Kuwait,80,Tin and articles thereof,Western Asia,Asia,5066
-2008,2008,Import,Kuwait,80,Tin and articles thereof,Western Europe,Europe,35332
-2008,2008,Import,Kuwait,80,Tin and articles thereof,World,World,539042
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Kuwait,80,Tin and articles thereof,Eastern Asia,Asia,74221,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2008,2008,Import,Kuwait,80,Tin and articles thereof,Eastern Europe,Europe,335,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2008,2008,Import,Kuwait,80,Tin and articles thereof,Latin America and the Caribbean,Americas,5567,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2008,2008,Import,Kuwait,80,Tin and articles thereof,Northern America,Americas,195272,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2008,2008,Import,Kuwait,80,Tin and articles thereof,Northern Europe,Europe,20772,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2008,2008,Import,Kuwait,80,Tin and articles thereof,South-eastern Asia,Asia,62715,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2008,2008,Import,Kuwait,80,Tin and articles thereof,Southern Asia,Asia,7569,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2008,2008,Import,Kuwait,80,Tin and articles thereof,Southern Europe,Europe,54896,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2008,2008,Import,Kuwait,80,Tin and articles thereof,Sub-Saharan Africa,Africa,1860,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2008,2008,Import,Kuwait,80,Tin and articles thereof,Western Asia,Asia,5066,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2008,2008,Import,Kuwait,80,Tin and articles thereof,Western Europe,Europe,35332,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Import,Kuwait,80,Tin and articles thereof,World,World,539042,29.2733964,47.4979476,,

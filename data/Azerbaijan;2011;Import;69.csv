@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Azerbaijan,69,Ceramic products,Central Asia,Asia,349
-2011,2011,Import,Azerbaijan,69,Ceramic products,Eastern Asia,Asia,4097958
-2011,2011,Import,Azerbaijan,69,Ceramic products,Eastern Europe,Europe,9679188
-2011,2011,Import,Azerbaijan,69,Ceramic products,Latin America and the Caribbean,Americas,5160
-2011,2011,Import,Azerbaijan,69,Ceramic products,Northern America,Americas,102809
-2011,2011,Import,Azerbaijan,69,Ceramic products,Northern Europe,Europe,77837
-2011,2011,Import,Azerbaijan,69,Ceramic products,South-eastern Asia,Asia,1379
-2011,2011,Import,Azerbaijan,69,Ceramic products,Southern Asia,Asia,3326133
-2011,2011,Import,Azerbaijan,69,Ceramic products,Southern Europe,Europe,4217713
-2011,2011,Import,Azerbaijan,69,Ceramic products,Western Asia,Asia,12996095
-2011,2011,Import,Azerbaijan,69,Ceramic products,Western Europe,Europe,1593362
-2011,2011,Import,Azerbaijan,69,Ceramic products,World,World,36393016
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Azerbaijan,69,Ceramic products,Central Asia,Asia,349,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2011,2011,Import,Azerbaijan,69,Ceramic products,Eastern Asia,Asia,4097958,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2011,2011,Import,Azerbaijan,69,Ceramic products,Eastern Europe,Europe,9679188,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2011,2011,Import,Azerbaijan,69,Ceramic products,Latin America and the Caribbean,Americas,5160,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2011,2011,Import,Azerbaijan,69,Ceramic products,Northern America,Americas,102809,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2011,2011,Import,Azerbaijan,69,Ceramic products,Northern Europe,Europe,77837,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2011,2011,Import,Azerbaijan,69,Ceramic products,South-eastern Asia,Asia,1379,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2011,2011,Import,Azerbaijan,69,Ceramic products,Southern Asia,Asia,3326133,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2011,2011,Import,Azerbaijan,69,Ceramic products,Southern Europe,Europe,4217713,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2011,2011,Import,Azerbaijan,69,Ceramic products,Western Asia,Asia,12996095,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2011,2011,Import,Azerbaijan,69,Ceramic products,Western Europe,Europe,1593362,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2011,2011,Import,Azerbaijan,69,Ceramic products,World,World,36393016,40.3936294,47.7872508,,

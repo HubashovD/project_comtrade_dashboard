@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,998216
-2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,818126
-2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,42602
-2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,81352
-2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",South-eastern Asia,Asia,27394
-2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,520314
-2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Sub-Saharan Africa,Africa,14456
-2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Asia,Asia,256432
-2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,786548
-2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,3723332
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,998216,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,818126,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,42602,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,81352,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",South-eastern Asia,Asia,27394,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,520314,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Sub-Saharan Africa,Africa,14456,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Asia,Asia,256432,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,786548,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Import,Lebanon,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,3723332,33.8750629,35.843409,,

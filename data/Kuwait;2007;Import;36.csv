@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Kuwait,36,Explosives; pyrotechnic products; matches,Eastern Asia,Asia,176632
-2007,2007,Import,Kuwait,36,Explosives; pyrotechnic products; matches,Northern America,Americas,3088035
-2007,2007,Import,Kuwait,36,Explosives; pyrotechnic products; matches,Northern Europe,Europe,407590
-2007,2007,Import,Kuwait,36,Explosives; pyrotechnic products; matches,South-eastern Asia,Asia,171427
-2007,2007,Import,Kuwait,36,Explosives; pyrotechnic products; matches,Western Asia,Asia,88990
-2007,2007,Import,Kuwait,36,Explosives; pyrotechnic products; matches,Western Europe,Europe,122722
-2007,2007,Import,Kuwait,36,Explosives; pyrotechnic products; matches,World,World,4075963
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Kuwait,36,Explosives; pyrotechnic products; matches,Eastern Asia,Asia,176632,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2007,2007,Import,Kuwait,36,Explosives; pyrotechnic products; matches,Northern America,Americas,3088035,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2007,2007,Import,Kuwait,36,Explosives; pyrotechnic products; matches,Northern Europe,Europe,407590,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2007,2007,Import,Kuwait,36,Explosives; pyrotechnic products; matches,South-eastern Asia,Asia,171427,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2007,2007,Import,Kuwait,36,Explosives; pyrotechnic products; matches,Western Asia,Asia,88990,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2007,2007,Import,Kuwait,36,Explosives; pyrotechnic products; matches,Western Europe,Europe,122722,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2007,2007,Import,Kuwait,36,Explosives; pyrotechnic products; matches,World,World,4075963,29.2733964,47.4979476,,

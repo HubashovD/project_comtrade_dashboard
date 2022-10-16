@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Re-Export,Kuwait,10,Cereals,Northern Europe,Europe,249
-2015,2015,Re-Export,Kuwait,10,Cereals,South-eastern Asia,Asia,116
-2015,2015,Re-Export,Kuwait,10,Cereals,Southern Asia,Asia,502218
-2015,2015,Re-Export,Kuwait,10,Cereals,Western Asia,Asia,199839
-2015,2015,Re-Export,Kuwait,10,Cereals,Western Europe,Europe,664
-2015,2015,Re-Export,Kuwait,10,Cereals,World,World,2288746
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Re-Export,Kuwait,10,Cereals,Northern Europe,Europe,249,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2015,2015,Re-Export,Kuwait,10,Cereals,South-eastern Asia,Asia,116,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2015,2015,Re-Export,Kuwait,10,Cereals,Southern Asia,Asia,502218,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2015,2015,Re-Export,Kuwait,10,Cereals,Western Asia,Asia,199839,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2015,2015,Re-Export,Kuwait,10,Cereals,Western Europe,Europe,664,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2015,2015,Re-Export,Kuwait,10,Cereals,World,World,2288746,29.2733964,47.4979476,,

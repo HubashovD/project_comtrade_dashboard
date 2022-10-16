@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Export,Kuwait,73,Articles of iron or steel,Australia and New Zealand,Oceania,53176
-2008,2008,Export,Kuwait,73,Articles of iron or steel,Central Asia,Asia,816
-2008,2008,Export,Kuwait,73,Articles of iron or steel,Eastern Asia,Asia,199495
-2008,2008,Export,Kuwait,73,Articles of iron or steel,Eastern Europe,Europe,21377
-2008,2008,Export,Kuwait,73,Articles of iron or steel,Northern Africa,Africa,823458
-2008,2008,Export,Kuwait,73,Articles of iron or steel,Northern America,Americas,305778
-2008,2008,Export,Kuwait,73,Articles of iron or steel,Northern Europe,Europe,37790
-2008,2008,Export,Kuwait,73,Articles of iron or steel,South-eastern Asia,Asia,325399
-2008,2008,Export,Kuwait,73,Articles of iron or steel,Southern Asia,Asia,461999
-2008,2008,Export,Kuwait,73,Articles of iron or steel,Southern Europe,Europe,1038549
-2008,2008,Export,Kuwait,73,Articles of iron or steel,Sub-Saharan Africa,Africa,29029826
-2008,2008,Export,Kuwait,73,Articles of iron or steel,Western Asia,Asia,3240185
-2008,2008,Export,Kuwait,73,Articles of iron or steel,Western Europe,Europe,33221
-2008,2008,Export,Kuwait,73,Articles of iron or steel,World,World,173041857
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Export,Kuwait,73,Articles of iron or steel,Australia and New Zealand,Oceania,53176,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2008,2008,Export,Kuwait,73,Articles of iron or steel,Central Asia,Asia,816,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2008,2008,Export,Kuwait,73,Articles of iron or steel,Eastern Asia,Asia,199495,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2008,2008,Export,Kuwait,73,Articles of iron or steel,Eastern Europe,Europe,21377,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2008,2008,Export,Kuwait,73,Articles of iron or steel,Northern Africa,Africa,823458,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2008,2008,Export,Kuwait,73,Articles of iron or steel,Northern America,Americas,305778,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2008,2008,Export,Kuwait,73,Articles of iron or steel,Northern Europe,Europe,37790,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2008,2008,Export,Kuwait,73,Articles of iron or steel,South-eastern Asia,Asia,325399,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2008,2008,Export,Kuwait,73,Articles of iron or steel,Southern Asia,Asia,461999,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2008,2008,Export,Kuwait,73,Articles of iron or steel,Southern Europe,Europe,1038549,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2008,2008,Export,Kuwait,73,Articles of iron or steel,Sub-Saharan Africa,Africa,29029826,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2008,2008,Export,Kuwait,73,Articles of iron or steel,Western Asia,Asia,3240185,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2008,2008,Export,Kuwait,73,Articles of iron or steel,Western Europe,Europe,33221,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Export,Kuwait,73,Articles of iron or steel,World,World,173041857,29.2733964,47.4979476,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",Eastern Europe,Europe,871
-2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",Northern Africa,Africa,336381
-2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",Northern America,Americas,751
-2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",Northern Europe,Europe,782
-2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",Sub-Saharan Africa,Africa,31576
-2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",Western Asia,Asia,1339
-2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",Western Europe,Europe,416
-2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",World,World,523573
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",Eastern Europe,Europe,871,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",Northern Africa,Africa,336381,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",Northern America,Americas,751,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",Northern Europe,Europe,782,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",Sub-Saharan Africa,Africa,31576,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",Western Asia,Asia,1339,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",Western Europe,Europe,416,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2001,2001,Export,Lebanon,35,"Albuminoids, modified starches, glues, enzymes",World,World,523573,33.8750629,35.843409,,

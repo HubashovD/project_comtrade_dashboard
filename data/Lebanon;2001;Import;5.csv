@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Australia and New Zealand,Oceania,57029
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Central Asia,Asia,425810
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Eastern Asia,Asia,1075147
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Eastern Europe,Europe,17507
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Northern Africa,Africa,1724
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Northern America,Americas,13440
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Northern Europe,Europe,110015
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",South-eastern Asia,Asia,200
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Southern Asia,Asia,316
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Southern Europe,Europe,112201
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Sub-Saharan Africa,Africa,344917
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Western Asia,Asia,1258555
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Western Europe,Europe,174900
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",World,World,5576686
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Australia and New Zealand,Oceania,57029,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Central Asia,Asia,425810,33.8750629,35.843409,39.89317229901691,61.060280637304274
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Eastern Asia,Asia,1075147,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Eastern Europe,Europe,17507,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Northern Africa,Africa,1724,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Northern America,Americas,13440,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Northern Europe,Europe,110015,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",South-eastern Asia,Asia,200,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Southern Asia,Asia,316,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Southern Europe,Europe,112201,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Sub-Saharan Africa,Africa,344917,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Western Asia,Asia,1258555,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Western Europe,Europe,174900,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",World,World,5576686,33.8750629,35.843409,,

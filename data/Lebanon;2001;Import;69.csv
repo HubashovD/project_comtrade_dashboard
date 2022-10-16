@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Lebanon,69,Ceramic products,Australia and New Zealand,Oceania,1255
-2001,2001,Import,Lebanon,69,Ceramic products,Eastern Asia,Asia,17051323
-2001,2001,Import,Lebanon,69,Ceramic products,Eastern Europe,Europe,683534
-2001,2001,Import,Lebanon,69,Ceramic products,Latin America and the Caribbean,Americas,94792
-2001,2001,Import,Lebanon,69,Ceramic products,Northern Africa,Africa,316918
-2001,2001,Import,Lebanon,69,Ceramic products,Northern America,Americas,192520
-2001,2001,Import,Lebanon,69,Ceramic products,Northern Europe,Europe,483823
-2001,2001,Import,Lebanon,69,Ceramic products,South-eastern Asia,Asia,359449
-2001,2001,Import,Lebanon,69,Ceramic products,Southern Asia,Asia,686410
-2001,2001,Import,Lebanon,69,Ceramic products,Southern Europe,Europe,24733424
-2001,2001,Import,Lebanon,69,Ceramic products,Sub-Saharan Africa,Africa,10693
-2001,2001,Import,Lebanon,69,Ceramic products,Western Asia,Asia,1974642
-2001,2001,Import,Lebanon,69,Ceramic products,Western Europe,Europe,8401143
-2001,2001,Import,Lebanon,69,Ceramic products,World,World,59154089
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Lebanon,69,Ceramic products,Australia and New Zealand,Oceania,1255,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2001,2001,Import,Lebanon,69,Ceramic products,Eastern Asia,Asia,17051323,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2001,2001,Import,Lebanon,69,Ceramic products,Eastern Europe,Europe,683534,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2001,2001,Import,Lebanon,69,Ceramic products,Latin America and the Caribbean,Americas,94792,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2001,2001,Import,Lebanon,69,Ceramic products,Northern Africa,Africa,316918,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2001,2001,Import,Lebanon,69,Ceramic products,Northern America,Americas,192520,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2001,2001,Import,Lebanon,69,Ceramic products,Northern Europe,Europe,483823,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2001,2001,Import,Lebanon,69,Ceramic products,South-eastern Asia,Asia,359449,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2001,2001,Import,Lebanon,69,Ceramic products,Southern Asia,Asia,686410,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2001,2001,Import,Lebanon,69,Ceramic products,Southern Europe,Europe,24733424,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2001,2001,Import,Lebanon,69,Ceramic products,Sub-Saharan Africa,Africa,10693,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2001,2001,Import,Lebanon,69,Ceramic products,Western Asia,Asia,1974642,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2001,2001,Import,Lebanon,69,Ceramic products,Western Europe,Europe,8401143,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2001,2001,Import,Lebanon,69,Ceramic products,World,World,59154089,33.8750629,35.843409,,

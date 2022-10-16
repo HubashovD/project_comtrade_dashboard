@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Eastern Asia,Asia,19741
-2000,2000,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Eastern Europe,Europe,13739
-2000,2000,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern America,Americas,3260
-2000,2000,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Southern Asia,Asia,17393
-2000,2000,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Asia,Asia,2436217
-2000,2000,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Europe,Europe,54000
-2000,2000,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",World,World,2555630
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Eastern Asia,Asia,19741,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Eastern Europe,Europe,13739,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Northern America,Americas,3260,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Southern Asia,Asia,17393,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Asia,Asia,2436217,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",Western Europe,Europe,54000,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Export,Azerbaijan,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",World,World,2555630,40.3936294,47.7872508,,

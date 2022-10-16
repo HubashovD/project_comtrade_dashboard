@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Eastern Asia,Asia,200282
-1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Eastern Europe,Europe,1641573
-1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,90268
-1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Northern Africa,Africa,195875
-1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Northern America,Americas,7052
-1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Northern Europe,Europe,30388
-1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Southern Europe,Europe,81382
-1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,350253
-1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Western Asia,Asia,942597
-1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Western Europe,Europe,63468
-1998,1998,Export,Jordan,85,"Electrical, electronic equipment",World,World,19980484
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Eastern Asia,Asia,200282,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Eastern Europe,Europe,1641573,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Latin America and the Caribbean,Americas,90268,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Northern Africa,Africa,195875,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Northern America,Americas,7052,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Northern Europe,Europe,30388,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Southern Europe,Europe,81382,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Sub-Saharan Africa,Africa,350253,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Western Asia,Asia,942597,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1998,1998,Export,Jordan,85,"Electrical, electronic equipment",Western Europe,Europe,63468,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1998,1998,Export,Jordan,85,"Electrical, electronic equipment",World,World,19980484,31.1667049,36.941628,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Jordan,26,"Ores, slag and ash",Australia and New Zealand,Oceania,6192
-2000,2000,Import,Jordan,26,"Ores, slag and ash",Eastern Europe,Europe,13766
-2000,2000,Import,Jordan,26,"Ores, slag and ash",Northern America,Americas,599945
-2000,2000,Import,Jordan,26,"Ores, slag and ash",Northern Europe,Europe,9415
-2000,2000,Import,Jordan,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,29993
-2000,2000,Import,Jordan,26,"Ores, slag and ash",Western Asia,Asia,619
-2000,2000,Import,Jordan,26,"Ores, slag and ash",Western Europe,Europe,1425
-2000,2000,Import,Jordan,26,"Ores, slag and ash",World,World,700151
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Jordan,26,"Ores, slag and ash",Australia and New Zealand,Oceania,6192,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2000,2000,Import,Jordan,26,"Ores, slag and ash",Eastern Europe,Europe,13766,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Import,Jordan,26,"Ores, slag and ash",Northern America,Americas,599945,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2000,2000,Import,Jordan,26,"Ores, slag and ash",Northern Europe,Europe,9415,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Import,Jordan,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,29993,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2000,2000,Import,Jordan,26,"Ores, slag and ash",Western Asia,Asia,619,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Import,Jordan,26,"Ores, slag and ash",Western Europe,Europe,1425,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2000,2000,Import,Jordan,26,"Ores, slag and ash",World,World,700151,31.1667049,36.941628,,

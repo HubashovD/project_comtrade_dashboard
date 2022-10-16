@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Kuwait,93,Arms and ammunition; parts and accessories thereof,Northern America,Americas,514939
-2018,2018,Export,Kuwait,93,Arms and ammunition; parts and accessories thereof,Northern Europe,Europe,29151
-2018,2018,Export,Kuwait,93,Arms and ammunition; parts and accessories thereof,Southern Europe,Europe,587
-2018,2018,Export,Kuwait,93,Arms and ammunition; parts and accessories thereof,Western Asia,Asia,723818
-2018,2018,Export,Kuwait,93,Arms and ammunition; parts and accessories thereof,Western Europe,Europe,140858
-2018,2018,Export,Kuwait,93,Arms and ammunition; parts and accessories thereof,World,World,2642075
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Kuwait,93,Arms and ammunition; parts and accessories thereof,Northern America,Americas,514939,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2018,2018,Export,Kuwait,93,Arms and ammunition; parts and accessories thereof,Northern Europe,Europe,29151,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2018,2018,Export,Kuwait,93,Arms and ammunition; parts and accessories thereof,Southern Europe,Europe,587,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2018,2018,Export,Kuwait,93,Arms and ammunition; parts and accessories thereof,Western Asia,Asia,723818,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2018,2018,Export,Kuwait,93,Arms and ammunition; parts and accessories thereof,Western Europe,Europe,140858,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2018,2018,Export,Kuwait,93,Arms and ammunition; parts and accessories thereof,World,World,2642075,29.2733964,47.4979476,,

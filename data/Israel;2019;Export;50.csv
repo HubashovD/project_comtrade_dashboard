@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Export,Israel,50,Silk,Australia and New Zealand,Oceania,1000
-2019,2019,Export,Israel,50,Silk,Northern America,Americas,38000
-2019,2019,Export,Israel,50,Silk,Southern Europe,Europe,10000
-2019,2019,Export,Israel,50,Silk,Sub-Saharan Africa,Africa,13000
-2019,2019,Export,Israel,50,Silk,World,World,62000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Export,Israel,50,Silk,Australia and New Zealand,Oceania,1000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2019,2019,Export,Israel,50,Silk,Northern America,Americas,38000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2019,2019,Export,Israel,50,Silk,Southern Europe,Europe,10000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2019,2019,Export,Israel,50,Silk,Sub-Saharan Africa,Africa,13000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2019,2019,Export,Israel,50,Silk,World,World,62000,30.8124247,34.8594762,,

@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Israel,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,774000
-1995,1995,Export,Israel,38,Miscellaneous chemical products,Central Asia,Asia,83000
-1995,1995,Export,Israel,38,Miscellaneous chemical products,Eastern Asia,Asia,16518000
-1995,1995,Export,Israel,38,Miscellaneous chemical products,Eastern Europe,Europe,19919000
-1995,1995,Export,Israel,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,23946000
-1995,1995,Export,Israel,38,Miscellaneous chemical products,Northern Africa,Africa,550000
-1995,1995,Export,Israel,38,Miscellaneous chemical products,Northern America,Americas,26290000
-1995,1995,Export,Israel,38,Miscellaneous chemical products,Northern Europe,Europe,12672000
-1995,1995,Export,Israel,38,Miscellaneous chemical products,South-eastern Asia,Asia,7286000
-1995,1995,Export,Israel,38,Miscellaneous chemical products,Southern Asia,Asia,839000
-1995,1995,Export,Israel,38,Miscellaneous chemical products,Southern Europe,Europe,98162000
-1995,1995,Export,Israel,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,3285000
-1995,1995,Export,Israel,38,Miscellaneous chemical products,Western Asia,Asia,6351000
-1995,1995,Export,Israel,38,Miscellaneous chemical products,Western Europe,Europe,50694000
-1995,1995,Export,Israel,38,Miscellaneous chemical products,World,World,380035008
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Israel,38,Miscellaneous chemical products,Australia and New Zealand,Oceania,774000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1995,1995,Export,Israel,38,Miscellaneous chemical products,Central Asia,Asia,83000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+1995,1995,Export,Israel,38,Miscellaneous chemical products,Eastern Asia,Asia,16518000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1995,1995,Export,Israel,38,Miscellaneous chemical products,Eastern Europe,Europe,19919000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1995,1995,Export,Israel,38,Miscellaneous chemical products,Latin America and the Caribbean,Americas,23946000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1995,1995,Export,Israel,38,Miscellaneous chemical products,Northern Africa,Africa,550000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1995,1995,Export,Israel,38,Miscellaneous chemical products,Northern America,Americas,26290000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1995,1995,Export,Israel,38,Miscellaneous chemical products,Northern Europe,Europe,12672000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1995,1995,Export,Israel,38,Miscellaneous chemical products,South-eastern Asia,Asia,7286000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1995,1995,Export,Israel,38,Miscellaneous chemical products,Southern Asia,Asia,839000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+1995,1995,Export,Israel,38,Miscellaneous chemical products,Southern Europe,Europe,98162000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1995,1995,Export,Israel,38,Miscellaneous chemical products,Sub-Saharan Africa,Africa,3285000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1995,1995,Export,Israel,38,Miscellaneous chemical products,Western Asia,Asia,6351000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1995,1995,Export,Israel,38,Miscellaneous chemical products,Western Europe,Europe,50694000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Export,Israel,38,Miscellaneous chemical products,World,World,380035008,30.8124247,34.8594762,,

@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Eastern Asia,Asia,732
-2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Eastern Europe,Europe,8045971
-2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Northern America,Americas,52820
-2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Northern Europe,Europe,101599
-2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Southern Asia,Asia,125905
-2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Southern Europe,Europe,901128
-2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,4680
-2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Western Asia,Asia,11243638
-2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Western Europe,Europe,132367
-2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,World,World,20726346
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Eastern Asia,Asia,732,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Eastern Europe,Europe,8045971,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Northern America,Americas,52820,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Northern Europe,Europe,101599,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Southern Asia,Asia,125905,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Southern Europe,Europe,901128,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Sub-Saharan Africa,Africa,4680,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Western Asia,Asia,11243638,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,Western Europe,Europe,132367,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Import,Azerbaijan,17,Sugars and sugar confectionery,World,World,20726346,40.3936294,47.7872508,,

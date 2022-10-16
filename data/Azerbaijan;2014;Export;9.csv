@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Central Asia,Asia,386269
-2014,2014,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,40733
-2014,2014,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,6835624
-2014,2014,Export,Azerbaijan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,42
-2014,2014,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Western Europe,Europe,14624
-2014,2014,Export,Azerbaijan,9,"Coffee, tea, mate and spices",World,World,31263368
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Central Asia,Asia,386269,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2014,2014,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,40733,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2014,2014,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,6835624,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2014,2014,Export,Azerbaijan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,42,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2014,2014,Export,Azerbaijan,9,"Coffee, tea, mate and spices",Western Europe,Europe,14624,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2014,2014,Export,Azerbaijan,9,"Coffee, tea, mate and spices",World,World,31263368,40.3936294,47.7872508,,

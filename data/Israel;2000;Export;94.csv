@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Australia and New Zealand,Oceania,246000
-2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Central Asia,Asia,49000
-2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Asia,Asia,341000
-2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Europe,Europe,1351000
-2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Latin America and the Caribbean,Americas,324000
-2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Northern Africa,Africa,54000
-2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Northern America,Americas,7195000
-2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Northern Europe,Europe,3461000
-2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",South-eastern Asia,Asia,122000
-2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Southern Europe,Europe,4623000
-2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Sub-Saharan Africa,Africa,333000
-2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Western Asia,Asia,20891000
-2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Western Europe,Europe,13716000
-2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",World,World,54420000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Australia and New Zealand,Oceania,246000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Central Asia,Asia,49000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Asia,Asia,341000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Europe,Europe,1351000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Latin America and the Caribbean,Americas,324000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Northern Africa,Africa,54000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Northern America,Americas,7195000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Northern Europe,Europe,3461000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",South-eastern Asia,Asia,122000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Southern Europe,Europe,4623000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Sub-Saharan Africa,Africa,333000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Western Asia,Asia,20891000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",Western Europe,Europe,13716000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2000,2000,Export,Israel,94,"Furniture, lighting, signs, prefabricated buildings",World,World,54420000,30.8124247,34.8594762,,

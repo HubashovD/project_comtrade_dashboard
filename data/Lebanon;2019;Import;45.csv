@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Lebanon,45,Cork and articles of cork,Eastern Asia,Asia,58777
-2019,2019,Import,Lebanon,45,Cork and articles of cork,Eastern Europe,Europe,337
-2019,2019,Import,Lebanon,45,Cork and articles of cork,Northern America,Americas,427
-2019,2019,Import,Lebanon,45,Cork and articles of cork,Southern Europe,Europe,1121527
-2019,2019,Import,Lebanon,45,Cork and articles of cork,Western Asia,Asia,8135
-2019,2019,Import,Lebanon,45,Cork and articles of cork,Western Europe,Europe,245595
-2019,2019,Import,Lebanon,45,Cork and articles of cork,World,World,1439715
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Lebanon,45,Cork and articles of cork,Eastern Asia,Asia,58777,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2019,2019,Import,Lebanon,45,Cork and articles of cork,Eastern Europe,Europe,337,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2019,2019,Import,Lebanon,45,Cork and articles of cork,Northern America,Americas,427,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2019,2019,Import,Lebanon,45,Cork and articles of cork,Southern Europe,Europe,1121527,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2019,2019,Import,Lebanon,45,Cork and articles of cork,Western Asia,Asia,8135,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2019,2019,Import,Lebanon,45,Cork and articles of cork,Western Europe,Europe,245595,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2019,2019,Import,Lebanon,45,Cork and articles of cork,World,World,1439715,33.8750629,35.843409,,

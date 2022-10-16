@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Australia and New Zealand,Oceania,14212
-2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Eastern Asia,Asia,1923182
-2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Eastern Europe,Europe,40041
-2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Latin America and the Caribbean,Americas,225103
-2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Northern Africa,Africa,87682
-2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Northern America,Americas,141281
-2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Northern Europe,Europe,472535
-2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",South-eastern Asia,Asia,18518189
-2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Southern Asia,Asia,8668
-2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Southern Europe,Europe,9896759
-2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Sub-Saharan Africa,Africa,419
-2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Western Asia,Asia,5683458
-2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Western Europe,Europe,2934253
-2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",World,World,47577693
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Australia and New Zealand,Oceania,14212,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Eastern Asia,Asia,1923182,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Eastern Europe,Europe,40041,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Latin America and the Caribbean,Americas,225103,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Northern Africa,Africa,87682,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Northern America,Americas,141281,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Northern Europe,Europe,472535,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",South-eastern Asia,Asia,18518189,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Southern Asia,Asia,8668,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Southern Europe,Europe,9896759,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Sub-Saharan Africa,Africa,419,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Western Asia,Asia,5683458,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Western Europe,Europe,2934253,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2021,2021,Import,Lebanon,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",World,World,47577693,33.8750629,35.843409,,

@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Azerbaijan,2,Meat and edible meat offal,Eastern Europe,Europe,14000
-1998,1998,Export,Azerbaijan,2,Meat and edible meat offal,Western Asia,Asia,4330
-1998,1998,Export,Azerbaijan,2,Meat and edible meat offal,World,World,18330
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Azerbaijan,2,Meat and edible meat offal,Eastern Europe,Europe,14000,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1998,1998,Export,Azerbaijan,2,Meat and edible meat offal,Western Asia,Asia,4330,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1998,1998,Export,Azerbaijan,2,Meat and edible meat offal,World,World,18330,40.3936294,47.7872508,,

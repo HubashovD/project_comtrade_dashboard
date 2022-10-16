@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Eastern Asia,Asia,3428000
-2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Eastern Europe,Europe,8000
-2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Northern America,Americas,30000
-2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Northern Europe,Europe,51000
-2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",South-eastern Asia,Asia,96000
-2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Southern Europe,Europe,106000
-2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Sub-Saharan Africa,Africa,123000
-2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Western Asia,Asia,14000
-2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Western Europe,Europe,258000
-2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",World,World,4310000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Eastern Asia,Asia,3428000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Eastern Europe,Europe,8000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Northern America,Americas,30000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Northern Europe,Europe,51000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",South-eastern Asia,Asia,96000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Southern Europe,Europe,106000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Sub-Saharan Africa,Africa,123000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Western Asia,Asia,14000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",Western Europe,Europe,258000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2006,2006,Import,Israel,66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops",World,World,4310000,30.8124247,34.8594762,,

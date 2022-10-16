@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Australia and New Zealand,Oceania,949000
-2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Asia,Asia,2273000
-2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Europe,Europe,12000
-2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Latin America and the Caribbean,Americas,1544000
-2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Africa,Africa,19000
-2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Northern America,Americas,2119000
-2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Europe,Europe,5175000
-2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",South-eastern Asia,Asia,959000
-2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Southern Europe,Europe,4876000
-2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Western Asia,Asia,236000
-2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Western Europe,Europe,7805000
-2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",World,World,28067000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Australia and New Zealand,Oceania,949000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Asia,Asia,2273000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Eastern Europe,Europe,12000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Latin America and the Caribbean,Americas,1544000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Africa,Africa,19000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Northern America,Americas,2119000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Northern Europe,Europe,5175000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",South-eastern Asia,Asia,959000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Southern Europe,Europe,4876000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Western Asia,Asia,236000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",Western Europe,Europe,7805000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2020,2020,Import,Israel,13,"Lac; gums, resins and other vegetable saps and extracts",World,World,28067000,30.8124247,34.8594762,,

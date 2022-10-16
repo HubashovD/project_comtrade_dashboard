@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Australia and New Zealand,Oceania,1848483
-1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,54074867
-1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Latin America and the Caribbean,Americas,162801
-1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Melanesia,Oceania,53671
-1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Northern Africa,Africa,198554
-1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,858086
-1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,31587715
-1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",South-eastern Asia,Asia,16677
-1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Southern Asia,Asia,37527
-1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,3959992
-1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,3334613
-1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,73046405
-1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",World,World,173533184
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Australia and New Zealand,Oceania,1848483,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,54074867,33.8750629,35.843409,51.67568633314729,27.673469819741847
+1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Latin America and the Caribbean,Americas,162801,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Melanesia,Oceania,53671,33.8750629,35.843409,1.0108650891006263,147.3257485906919
+1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Northern Africa,Africa,198554,33.8750629,35.843409,19.569604022535763,12.47761721199581
+1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,858086,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,31587715,33.8750629,35.843409,59.36075159783851,25.01346951967388
+1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",South-eastern Asia,Asia,16677,33.8750629,35.843409,10.528384761701911,103.08333472012376
+1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Southern Asia,Asia,37527,33.8750629,35.843409,25.499703063807168,75.5024015339642
+1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,3959992,33.8750629,35.843409,40.12399607988535,20.742583178432696
+1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,3334613,33.8750629,35.843409,26.42921218083572,52.86847103284948
+1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,73046405,33.8750629,35.843409,47.92172048214207,7.866753258497997
+1997,1997,Import,Lebanon,4,"Dairy products, eggs, honey, edible animal product nes",World,World,173533184,33.8750629,35.843409,,

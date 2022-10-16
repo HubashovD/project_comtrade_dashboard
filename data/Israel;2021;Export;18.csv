@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,235000
-2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Eastern Europe,Europe,135000
-2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,611000
-2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Melanesia,Oceania,1000
-2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Northern America,Americas,20149000
-2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Northern Europe,Europe,1662000
-2021,2021,Export,Israel,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,16000
-2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Southern Europe,Europe,96000
-2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,71000
-2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Western Europe,Europe,1328000
-2021,2021,Export,Israel,18,Cocoa and cocoa preparations,World,World,25439000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,235000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Eastern Europe,Europe,135000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,611000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Melanesia,Oceania,1000,30.8124247,34.8594762,1.0108650891006263,147.3257485906919
+2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Northern America,Americas,20149000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Northern Europe,Europe,1662000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2021,2021,Export,Israel,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,16000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Southern Europe,Europe,96000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,71000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2021,2021,Export,Israel,18,Cocoa and cocoa preparations,Western Europe,Europe,1328000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2021,2021,Export,Israel,18,Cocoa and cocoa preparations,World,World,25439000,30.8124247,34.8594762,,

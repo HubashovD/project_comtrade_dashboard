@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Azerbaijan,13,"Lac, gums, resins, vegetable saps and extracts nes",Central Asia,Asia,115
-2003,2003,Import,Azerbaijan,13,"Lac, gums, resins, vegetable saps and extracts nes",Northern Europe,Europe,13690
-2003,2003,Import,Azerbaijan,13,"Lac, gums, resins, vegetable saps and extracts nes",Southern Europe,Europe,4800
-2003,2003,Import,Azerbaijan,13,"Lac, gums, resins, vegetable saps and extracts nes",Western Asia,Asia,10
-2003,2003,Import,Azerbaijan,13,"Lac, gums, resins, vegetable saps and extracts nes",Western Europe,Europe,44264
-2003,2003,Import,Azerbaijan,13,"Lac, gums, resins, vegetable saps and extracts nes",World,World,103946
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Azerbaijan,13,"Lac, gums, resins, vegetable saps and extracts nes",Central Asia,Asia,115,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2003,2003,Import,Azerbaijan,13,"Lac, gums, resins, vegetable saps and extracts nes",Northern Europe,Europe,13690,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2003,2003,Import,Azerbaijan,13,"Lac, gums, resins, vegetable saps and extracts nes",Southern Europe,Europe,4800,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2003,2003,Import,Azerbaijan,13,"Lac, gums, resins, vegetable saps and extracts nes",Western Asia,Asia,10,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2003,2003,Import,Azerbaijan,13,"Lac, gums, resins, vegetable saps and extracts nes",Western Europe,Europe,44264,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2003,2003,Import,Azerbaijan,13,"Lac, gums, resins, vegetable saps and extracts nes",World,World,103946,40.3936294,47.7872508,,

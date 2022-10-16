@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Israel,45,Cork and articles of cork,Southern Europe,Europe,5000
-2001,2001,Export,Israel,45,Cork and articles of cork,Western Asia,Asia,2000
-2001,2001,Export,Israel,45,Cork and articles of cork,World,World,7000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Israel,45,Cork and articles of cork,Southern Europe,Europe,5000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2001,2001,Export,Israel,45,Cork and articles of cork,Western Asia,Asia,2000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2001,2001,Export,Israel,45,Cork and articles of cork,World,World,7000,30.8124247,34.8594762,,

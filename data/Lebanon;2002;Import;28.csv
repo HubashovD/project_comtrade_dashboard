@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Lebanon,28,Inorganic chemicals,Australia and New Zealand,Oceania,2586
-2002,2002,Import,Lebanon,28,Inorganic chemicals,Eastern Asia,Asia,1726812
-2002,2002,Import,Lebanon,28,Inorganic chemicals,Eastern Europe,Europe,1442484
-2002,2002,Import,Lebanon,28,Inorganic chemicals,Latin America and the Caribbean,Americas,140341
-2002,2002,Import,Lebanon,28,Inorganic chemicals,Northern Africa,Africa,2860603
-2002,2002,Import,Lebanon,28,Inorganic chemicals,Northern America,Americas,380672
-2002,2002,Import,Lebanon,28,Inorganic chemicals,Northern Europe,Europe,1390751
-2002,2002,Import,Lebanon,28,Inorganic chemicals,Southern Europe,Europe,1825015
-2002,2002,Import,Lebanon,28,Inorganic chemicals,Sub-Saharan Africa,Africa,250763
-2002,2002,Import,Lebanon,28,Inorganic chemicals,Western Asia,Asia,2430061
-2002,2002,Import,Lebanon,28,Inorganic chemicals,Western Europe,Europe,5570287
-2002,2002,Import,Lebanon,28,Inorganic chemicals,World,World,19473260
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Lebanon,28,Inorganic chemicals,Australia and New Zealand,Oceania,2586,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2002,2002,Import,Lebanon,28,Inorganic chemicals,Eastern Asia,Asia,1726812,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2002,2002,Import,Lebanon,28,Inorganic chemicals,Eastern Europe,Europe,1442484,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2002,2002,Import,Lebanon,28,Inorganic chemicals,Latin America and the Caribbean,Americas,140341,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2002,2002,Import,Lebanon,28,Inorganic chemicals,Northern Africa,Africa,2860603,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2002,2002,Import,Lebanon,28,Inorganic chemicals,Northern America,Americas,380672,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2002,2002,Import,Lebanon,28,Inorganic chemicals,Northern Europe,Europe,1390751,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2002,2002,Import,Lebanon,28,Inorganic chemicals,Southern Europe,Europe,1825015,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2002,2002,Import,Lebanon,28,Inorganic chemicals,Sub-Saharan Africa,Africa,250763,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2002,2002,Import,Lebanon,28,Inorganic chemicals,Western Asia,Asia,2430061,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2002,2002,Import,Lebanon,28,Inorganic chemicals,Western Europe,Europe,5570287,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2002,2002,Import,Lebanon,28,Inorganic chemicals,World,World,19473260,33.8750629,35.843409,,

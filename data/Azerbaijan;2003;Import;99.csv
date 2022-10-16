@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,Eastern Asia,Asia,1762
-2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,Eastern Europe,Europe,1308052
-2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,Northern America,Americas,3305
-2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,Northern Europe,Europe,2247
-2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,South-eastern Asia,Asia,570
-2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,Southern Europe,Europe,80173
-2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,Western Asia,Asia,18565
-2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,Western Europe,Europe,172361
-2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,World,World,1600542
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,Eastern Asia,Asia,1762,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,Eastern Europe,Europe,1308052,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,Northern America,Americas,3305,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,Northern Europe,Europe,2247,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,South-eastern Asia,Asia,570,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,Southern Europe,Europe,80173,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,Western Asia,Asia,18565,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,Western Europe,Europe,172361,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2003,2003,Import,Azerbaijan,99,Commodities not elsewhere specified,World,World,1600542,40.3936294,47.7872508,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Australia and New Zealand,Oceania,43164
-1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Eastern Asia,Asia,13680
-1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Eastern Europe,Europe,130531
-1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,20951
-1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Northern Africa,Africa,17287
-1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Northern America,Americas,346351
-1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Northern Europe,Europe,39443
-1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Southern Asia,Asia,6833
-1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Southern Europe,Europe,87321
-1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Western Asia,Asia,2593
-1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Western Europe,Europe,61449
-1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,World,World,5907715
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Australia and New Zealand,Oceania,43164,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Eastern Asia,Asia,13680,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Eastern Europe,Europe,130531,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,20951,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Northern Africa,Africa,17287,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Northern America,Americas,346351,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Northern Europe,Europe,39443,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Southern Asia,Asia,6833,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Southern Europe,Europe,87321,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Western Asia,Asia,2593,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,Western Europe,Europe,61449,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Export,Jordan,57,Carpets and other textile floor coverings,World,World,5907715,31.1667049,36.941628,,

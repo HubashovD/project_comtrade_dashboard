@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Jordan,1,Live animals,Sub-Saharan Africa,Africa,918
-2001,2001,Export,Jordan,1,Live animals,Western Asia,Asia,106207
-2001,2001,Export,Jordan,1,Live animals,World,World,6295729
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Jordan,1,Live animals,Sub-Saharan Africa,Africa,918,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2001,2001,Export,Jordan,1,Live animals,Western Asia,Asia,106207,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2001,2001,Export,Jordan,1,Live animals,World,World,6295729,31.1667049,36.941628,,

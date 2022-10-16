@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Australia and New Zealand,Oceania,1809000
-2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Eastern Asia,Asia,6491000
-2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Eastern Europe,Europe,35235000
-2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Latin America and the Caribbean,Americas,3096000
-2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern Africa,Africa,187000
-2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern America,Americas,25703000
-2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern Europe,Europe,24488000
-2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",South-eastern Asia,Asia,24489000
-2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Southern Europe,Europe,105683000
-2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Sub-Saharan Africa,Africa,628000
-2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Western Asia,Asia,28771000
-2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Western Europe,Europe,109719000
-2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",World,World,414820000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Australia and New Zealand,Oceania,1809000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Eastern Asia,Asia,6491000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Eastern Europe,Europe,35235000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Latin America and the Caribbean,Americas,3096000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern Africa,Africa,187000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern America,Americas,25703000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern Europe,Europe,24488000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",South-eastern Asia,Asia,24489000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Southern Europe,Europe,105683000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Sub-Saharan Africa,Africa,628000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Western Asia,Asia,28771000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Western Europe,Europe,109719000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2020,2020,Import,Israel,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",World,World,414820000,30.8124247,34.8594762,,

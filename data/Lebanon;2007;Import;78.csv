@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Lebanon,78,Lead and articles thereof,Eastern Asia,Asia,15677
-2007,2007,Import,Lebanon,78,Lead and articles thereof,Eastern Europe,Europe,14779
-2007,2007,Import,Lebanon,78,Lead and articles thereof,Northern America,Americas,12866
-2007,2007,Import,Lebanon,78,Lead and articles thereof,Northern Europe,Europe,1182792
-2007,2007,Import,Lebanon,78,Lead and articles thereof,Southern Europe,Europe,90606
-2007,2007,Import,Lebanon,78,Lead and articles thereof,Western Asia,Asia,8045288
-2007,2007,Import,Lebanon,78,Lead and articles thereof,Western Europe,Europe,39050
-2007,2007,Import,Lebanon,78,Lead and articles thereof,World,World,9729937
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Lebanon,78,Lead and articles thereof,Eastern Asia,Asia,15677,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2007,2007,Import,Lebanon,78,Lead and articles thereof,Eastern Europe,Europe,14779,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2007,2007,Import,Lebanon,78,Lead and articles thereof,Northern America,Americas,12866,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2007,2007,Import,Lebanon,78,Lead and articles thereof,Northern Europe,Europe,1182792,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2007,2007,Import,Lebanon,78,Lead and articles thereof,Southern Europe,Europe,90606,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2007,2007,Import,Lebanon,78,Lead and articles thereof,Western Asia,Asia,8045288,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2007,2007,Import,Lebanon,78,Lead and articles thereof,Western Europe,Europe,39050,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2007,2007,Import,Lebanon,78,Lead and articles thereof,World,World,9729937,33.8750629,35.843409,,

@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Export,Lebanon,89,"Ships, boats and floating structures",Eastern Europe,Europe,60020
-2013,2013,Export,Lebanon,89,"Ships, boats and floating structures",Northern Africa,Africa,3317
-2013,2013,Export,Lebanon,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,29713
-2013,2013,Export,Lebanon,89,"Ships, boats and floating structures",Western Asia,Asia,180060
-2013,2013,Export,Lebanon,89,"Ships, boats and floating structures",Western Europe,Europe,10083
-2013,2013,Export,Lebanon,89,"Ships, boats and floating structures",World,World,409054
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Export,Lebanon,89,"Ships, boats and floating structures",Eastern Europe,Europe,60020,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2013,2013,Export,Lebanon,89,"Ships, boats and floating structures",Northern Africa,Africa,3317,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2013,2013,Export,Lebanon,89,"Ships, boats and floating structures",Sub-Saharan Africa,Africa,29713,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2013,2013,Export,Lebanon,89,"Ships, boats and floating structures",Western Asia,Asia,180060,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2013,2013,Export,Lebanon,89,"Ships, boats and floating structures",Western Europe,Europe,10083,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2013,2013,Export,Lebanon,89,"Ships, boats and floating structures",World,World,409054,33.8750629,35.843409,,

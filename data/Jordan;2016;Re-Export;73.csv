@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Re-Export,Jordan,73,Iron or steel articles,Eastern Asia,Asia,82283
-2016,2016,Re-Export,Jordan,73,Iron or steel articles,Eastern Europe,Europe,134420
-2016,2016,Re-Export,Jordan,73,Iron or steel articles,Northern Africa,Africa,334717
-2016,2016,Re-Export,Jordan,73,Iron or steel articles,Northern America,Americas,6483
-2016,2016,Re-Export,Jordan,73,Iron or steel articles,Northern Europe,Europe,128021
-2016,2016,Re-Export,Jordan,73,Iron or steel articles,Southern Europe,Europe,123010
-2016,2016,Re-Export,Jordan,73,Iron or steel articles,Western Asia,Asia,384741
-2016,2016,Re-Export,Jordan,73,Iron or steel articles,Western Europe,Europe,144512
-2016,2016,Re-Export,Jordan,73,Iron or steel articles,World,World,15463603
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Re-Export,Jordan,73,Iron or steel articles,Eastern Asia,Asia,82283,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2016,2016,Re-Export,Jordan,73,Iron or steel articles,Eastern Europe,Europe,134420,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2016,2016,Re-Export,Jordan,73,Iron or steel articles,Northern Africa,Africa,334717,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2016,2016,Re-Export,Jordan,73,Iron or steel articles,Northern America,Americas,6483,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2016,2016,Re-Export,Jordan,73,Iron or steel articles,Northern Europe,Europe,128021,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2016,2016,Re-Export,Jordan,73,Iron or steel articles,Southern Europe,Europe,123010,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2016,2016,Re-Export,Jordan,73,Iron or steel articles,Western Asia,Asia,384741,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2016,2016,Re-Export,Jordan,73,Iron or steel articles,Western Europe,Europe,144512,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2016,2016,Re-Export,Jordan,73,Iron or steel articles,World,World,15463603,31.1667049,36.941628,,

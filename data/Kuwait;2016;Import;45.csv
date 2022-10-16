@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Kuwait,45,Cork and articles of cork,Eastern Asia,Asia,324136
-2016,2016,Import,Kuwait,45,Cork and articles of cork,Eastern Europe,Europe,2249
-2016,2016,Import,Kuwait,45,Cork and articles of cork,Latin America and the Caribbean,Americas,2696
-2016,2016,Import,Kuwait,45,Cork and articles of cork,Northern Africa,Africa,284
-2016,2016,Import,Kuwait,45,Cork and articles of cork,Northern America,Americas,30325
-2016,2016,Import,Kuwait,45,Cork and articles of cork,Northern Europe,Europe,197245
-2016,2016,Import,Kuwait,45,Cork and articles of cork,South-eastern Asia,Asia,20462
-2016,2016,Import,Kuwait,45,Cork and articles of cork,Southern Asia,Asia,19923
-2016,2016,Import,Kuwait,45,Cork and articles of cork,Southern Europe,Europe,466952
-2016,2016,Import,Kuwait,45,Cork and articles of cork,Western Asia,Asia,658
-2016,2016,Import,Kuwait,45,Cork and articles of cork,Western Europe,Europe,41433
-2016,2016,Import,Kuwait,45,Cork and articles of cork,World,World,1347885
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Kuwait,45,Cork and articles of cork,Eastern Asia,Asia,324136,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2016,2016,Import,Kuwait,45,Cork and articles of cork,Eastern Europe,Europe,2249,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2016,2016,Import,Kuwait,45,Cork and articles of cork,Latin America and the Caribbean,Americas,2696,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2016,2016,Import,Kuwait,45,Cork and articles of cork,Northern Africa,Africa,284,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2016,2016,Import,Kuwait,45,Cork and articles of cork,Northern America,Americas,30325,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2016,2016,Import,Kuwait,45,Cork and articles of cork,Northern Europe,Europe,197245,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2016,2016,Import,Kuwait,45,Cork and articles of cork,South-eastern Asia,Asia,20462,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2016,2016,Import,Kuwait,45,Cork and articles of cork,Southern Asia,Asia,19923,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2016,2016,Import,Kuwait,45,Cork and articles of cork,Southern Europe,Europe,466952,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2016,2016,Import,Kuwait,45,Cork and articles of cork,Western Asia,Asia,658,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2016,2016,Import,Kuwait,45,Cork and articles of cork,Western Europe,Europe,41433,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2016,2016,Import,Kuwait,45,Cork and articles of cork,World,World,1347885,29.2733964,47.4979476,,

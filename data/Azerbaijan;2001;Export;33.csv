@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,170
-2001,2001,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,191
-2001,2001,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,4
-2001,2001,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,135
-2001,2001,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,92024
-2001,2001,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,105579
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Asia,Asia,170,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2001,2001,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,191,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2001,2001,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,4,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2001,2001,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,135,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2001,2001,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Europe,Europe,92024,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2001,2001,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,105579,40.3936294,47.7872508,,

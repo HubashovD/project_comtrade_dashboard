@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Jordan,80,Tin; articles thereof,Eastern Asia,Asia,12004
-2019,2019,Import,Jordan,80,Tin; articles thereof,Eastern Europe,Europe,17100
-2019,2019,Import,Jordan,80,Tin; articles thereof,Northern Europe,Europe,3040
-2019,2019,Import,Jordan,80,Tin; articles thereof,Western Asia,Asia,102177
-2019,2019,Import,Jordan,80,Tin; articles thereof,Western Europe,Europe,2666
-2019,2019,Import,Jordan,80,Tin; articles thereof,World,World,136988
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Jordan,80,Tin; articles thereof,Eastern Asia,Asia,12004,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2019,2019,Import,Jordan,80,Tin; articles thereof,Eastern Europe,Europe,17100,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2019,2019,Import,Jordan,80,Tin; articles thereof,Northern Europe,Europe,3040,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2019,2019,Import,Jordan,80,Tin; articles thereof,Western Asia,Asia,102177,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2019,2019,Import,Jordan,80,Tin; articles thereof,Western Europe,Europe,2666,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2019,2019,Import,Jordan,80,Tin; articles thereof,World,World,136988,31.1667049,36.941628,,

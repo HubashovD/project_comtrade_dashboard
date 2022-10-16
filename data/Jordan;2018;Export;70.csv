@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Jordan,70,Glass and glassware,Australia and New Zealand,Oceania,1860
-2018,2018,Export,Jordan,70,Glass and glassware,Eastern Asia,Asia,99108
-2018,2018,Export,Jordan,70,Glass and glassware,Eastern Europe,Europe,49887
-2018,2018,Export,Jordan,70,Glass and glassware,Northern Africa,Africa,224167
-2018,2018,Export,Jordan,70,Glass and glassware,Northern America,Americas,39250
-2018,2018,Export,Jordan,70,Glass and glassware,Western Asia,Asia,22307
-2018,2018,Export,Jordan,70,Glass and glassware,Western Europe,Europe,19956
-2018,2018,Export,Jordan,70,Glass and glassware,World,World,5909885
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Jordan,70,Glass and glassware,Australia and New Zealand,Oceania,1860,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2018,2018,Export,Jordan,70,Glass and glassware,Eastern Asia,Asia,99108,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2018,2018,Export,Jordan,70,Glass and glassware,Eastern Europe,Europe,49887,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2018,2018,Export,Jordan,70,Glass and glassware,Northern Africa,Africa,224167,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2018,2018,Export,Jordan,70,Glass and glassware,Northern America,Americas,39250,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2018,2018,Export,Jordan,70,Glass and glassware,Western Asia,Asia,22307,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2018,2018,Export,Jordan,70,Glass and glassware,Western Europe,Europe,19956,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2018,2018,Export,Jordan,70,Glass and glassware,World,World,5909885,31.1667049,36.941628,,

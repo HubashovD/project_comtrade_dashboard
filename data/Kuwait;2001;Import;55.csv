@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Kuwait,55,manmade staple fibres,Australia and New Zealand,Oceania,11830
-2001,2001,Import,Kuwait,55,manmade staple fibres,Eastern Asia,Asia,38814930
-2001,2001,Import,Kuwait,55,manmade staple fibres,Eastern Europe,Europe,220997
-2001,2001,Import,Kuwait,55,manmade staple fibres,Latin America and the Caribbean,Americas,86500
-2001,2001,Import,Kuwait,55,manmade staple fibres,Northern Africa,Africa,16308
-2001,2001,Import,Kuwait,55,manmade staple fibres,Northern America,Americas,1775726
-2001,2001,Import,Kuwait,55,manmade staple fibres,Northern Europe,Europe,1932929
-2001,2001,Import,Kuwait,55,manmade staple fibres,South-eastern Asia,Asia,8193962
-2001,2001,Import,Kuwait,55,manmade staple fibres,Southern Asia,Asia,121952
-2001,2001,Import,Kuwait,55,manmade staple fibres,Southern Europe,Europe,7339749
-2001,2001,Import,Kuwait,55,manmade staple fibres,Sub-Saharan Africa,Africa,33399
-2001,2001,Import,Kuwait,55,manmade staple fibres,Western Asia,Asia,10236320
-2001,2001,Import,Kuwait,55,manmade staple fibres,Western Europe,Europe,5550947
-2001,2001,Import,Kuwait,55,manmade staple fibres,World,World,95722175
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Kuwait,55,manmade staple fibres,Australia and New Zealand,Oceania,11830,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2001,2001,Import,Kuwait,55,manmade staple fibres,Eastern Asia,Asia,38814930,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2001,2001,Import,Kuwait,55,manmade staple fibres,Eastern Europe,Europe,220997,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2001,2001,Import,Kuwait,55,manmade staple fibres,Latin America and the Caribbean,Americas,86500,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2001,2001,Import,Kuwait,55,manmade staple fibres,Northern Africa,Africa,16308,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2001,2001,Import,Kuwait,55,manmade staple fibres,Northern America,Americas,1775726,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2001,2001,Import,Kuwait,55,manmade staple fibres,Northern Europe,Europe,1932929,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2001,2001,Import,Kuwait,55,manmade staple fibres,South-eastern Asia,Asia,8193962,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2001,2001,Import,Kuwait,55,manmade staple fibres,Southern Asia,Asia,121952,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2001,2001,Import,Kuwait,55,manmade staple fibres,Southern Europe,Europe,7339749,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2001,2001,Import,Kuwait,55,manmade staple fibres,Sub-Saharan Africa,Africa,33399,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2001,2001,Import,Kuwait,55,manmade staple fibres,Western Asia,Asia,10236320,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2001,2001,Import,Kuwait,55,manmade staple fibres,Western Europe,Europe,5550947,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2001,2001,Import,Kuwait,55,manmade staple fibres,World,World,95722175,29.2733964,47.4979476,,

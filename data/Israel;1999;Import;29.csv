@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Israel,29,Organic chemicals,Australia and New Zealand,Oceania,290000
-1999,1999,Import,Israel,29,Organic chemicals,Eastern Asia,Asia,57687000
-1999,1999,Import,Israel,29,Organic chemicals,Eastern Europe,Europe,6695000
-1999,1999,Import,Israel,29,Organic chemicals,Latin America and the Caribbean,Americas,12158000
-1999,1999,Import,Israel,29,Organic chemicals,Northern Africa,Africa,317000
-1999,1999,Import,Israel,29,Organic chemicals,Northern America,Americas,103658000
-1999,1999,Import,Israel,29,Organic chemicals,Northern Europe,Europe,45380000
-1999,1999,Import,Israel,29,Organic chemicals,South-eastern Asia,Asia,2435000
-1999,1999,Import,Israel,29,Organic chemicals,Southern Europe,Europe,59079000
-1999,1999,Import,Israel,29,Organic chemicals,Sub-Saharan Africa,Africa,27000
-1999,1999,Import,Israel,29,Organic chemicals,Western Asia,Asia,209000
-1999,1999,Import,Israel,29,Organic chemicals,Western Europe,Europe,315045000
-1999,1999,Import,Israel,29,Organic chemicals,World,World,634597000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Israel,29,Organic chemicals,Australia and New Zealand,Oceania,290000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1999,1999,Import,Israel,29,Organic chemicals,Eastern Asia,Asia,57687000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1999,1999,Import,Israel,29,Organic chemicals,Eastern Europe,Europe,6695000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1999,1999,Import,Israel,29,Organic chemicals,Latin America and the Caribbean,Americas,12158000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1999,1999,Import,Israel,29,Organic chemicals,Northern Africa,Africa,317000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1999,1999,Import,Israel,29,Organic chemicals,Northern America,Americas,103658000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1999,1999,Import,Israel,29,Organic chemicals,Northern Europe,Europe,45380000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1999,1999,Import,Israel,29,Organic chemicals,South-eastern Asia,Asia,2435000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1999,1999,Import,Israel,29,Organic chemicals,Southern Europe,Europe,59079000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1999,1999,Import,Israel,29,Organic chemicals,Sub-Saharan Africa,Africa,27000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1999,1999,Import,Israel,29,Organic chemicals,Western Asia,Asia,209000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1999,1999,Import,Israel,29,Organic chemicals,Western Europe,Europe,315045000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1999,1999,Import,Israel,29,Organic chemicals,World,World,634597000,30.8124247,34.8594762,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Israel,72,Iron and steel,Australia and New Zealand,Oceania,2747000
-1999,1999,Import,Israel,72,Iron and steel,Central Asia,Asia,155000
-1999,1999,Import,Israel,72,Iron and steel,Eastern Asia,Asia,13323000
-1999,1999,Import,Israel,72,Iron and steel,Eastern Europe,Europe,102278000
-1999,1999,Import,Israel,72,Iron and steel,Latin America and the Caribbean,Americas,630000
-1999,1999,Import,Israel,72,Iron and steel,Northern America,Americas,21320000
-1999,1999,Import,Israel,72,Iron and steel,Northern Europe,Europe,46261000
-1999,1999,Import,Israel,72,Iron and steel,South-eastern Asia,Asia,201000
-1999,1999,Import,Israel,72,Iron and steel,Southern Europe,Europe,41902000
-1999,1999,Import,Israel,72,Iron and steel,Western Asia,Asia,104648000
-1999,1999,Import,Israel,72,Iron and steel,Western Europe,Europe,128646000
-1999,1999,Import,Israel,72,Iron and steel,World,World,512166000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Israel,72,Iron and steel,Australia and New Zealand,Oceania,2747000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+1999,1999,Import,Israel,72,Iron and steel,Central Asia,Asia,155000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+1999,1999,Import,Israel,72,Iron and steel,Eastern Asia,Asia,13323000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1999,1999,Import,Israel,72,Iron and steel,Eastern Europe,Europe,102278000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1999,1999,Import,Israel,72,Iron and steel,Latin America and the Caribbean,Americas,630000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1999,1999,Import,Israel,72,Iron and steel,Northern America,Americas,21320000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1999,1999,Import,Israel,72,Iron and steel,Northern Europe,Europe,46261000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1999,1999,Import,Israel,72,Iron and steel,South-eastern Asia,Asia,201000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1999,1999,Import,Israel,72,Iron and steel,Southern Europe,Europe,41902000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1999,1999,Import,Israel,72,Iron and steel,Western Asia,Asia,104648000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1999,1999,Import,Israel,72,Iron and steel,Western Europe,Europe,128646000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1999,1999,Import,Israel,72,Iron and steel,World,World,512166000,30.8124247,34.8594762,,

@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Azerbaijan,54,Manmade filaments,Eastern Asia,Asia,21705
-2003,2003,Import,Azerbaijan,54,Manmade filaments,Eastern Europe,Europe,109492
-2003,2003,Import,Azerbaijan,54,Manmade filaments,Northern America,Americas,197
-2003,2003,Import,Azerbaijan,54,Manmade filaments,Northern Europe,Europe,314
-2003,2003,Import,Azerbaijan,54,Manmade filaments,South-eastern Asia,Asia,73
-2003,2003,Import,Azerbaijan,54,Manmade filaments,Southern Asia,Asia,1760145
-2003,2003,Import,Azerbaijan,54,Manmade filaments,Western Asia,Asia,138935
-2003,2003,Import,Azerbaijan,54,Manmade filaments,Western Europe,Europe,1731
-2003,2003,Import,Azerbaijan,54,Manmade filaments,World,World,2044422
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Azerbaijan,54,Manmade filaments,Eastern Asia,Asia,21705,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2003,2003,Import,Azerbaijan,54,Manmade filaments,Eastern Europe,Europe,109492,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2003,2003,Import,Azerbaijan,54,Manmade filaments,Northern America,Americas,197,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2003,2003,Import,Azerbaijan,54,Manmade filaments,Northern Europe,Europe,314,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2003,2003,Import,Azerbaijan,54,Manmade filaments,South-eastern Asia,Asia,73,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2003,2003,Import,Azerbaijan,54,Manmade filaments,Southern Asia,Asia,1760145,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2003,2003,Import,Azerbaijan,54,Manmade filaments,Western Asia,Asia,138935,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2003,2003,Import,Azerbaijan,54,Manmade filaments,Western Europe,Europe,1731,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2003,2003,Import,Azerbaijan,54,Manmade filaments,World,World,2044422,40.3936294,47.7872508,,

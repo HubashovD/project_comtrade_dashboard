@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Central Asia,Asia,24030
-2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Asia,Asia,680
-2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Europe,Europe,8725
-2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Northern America,Americas,878720
-2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Northern Europe,Europe,8703
-2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",South-eastern Asia,Asia,3651
-2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Southern Asia,Asia,6700
-2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Southern Europe,Europe,400
-2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Sub-Saharan Africa,Africa,1329
-2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Western Asia,Asia,22085
-2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Western Europe,Europe,6957
-2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",World,World,1029691
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Central Asia,Asia,24030,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Asia,Asia,680,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Eastern Europe,Europe,8725,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Northern America,Americas,878720,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Northern Europe,Europe,8703,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",South-eastern Asia,Asia,3651,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Southern Asia,Asia,6700,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Southern Europe,Europe,400,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Sub-Saharan Africa,Africa,1329,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Western Asia,Asia,22085,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",Western Europe,Europe,6957,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Export,Azerbaijan,94,"Furniture, lighting, signs, prefabricated buildings",World,World,1029691,40.3936294,47.7872508,,

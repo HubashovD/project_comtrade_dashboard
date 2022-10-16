@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Central Asia,Asia,312517
-2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,28782
-2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Eastern Europe,Europe,2939880
-2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Latin America and the Caribbean,Americas,406606
-2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Northern America,Americas,1137
-2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,56033
-2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Southern Asia,Asia,92300
-2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,3776
-2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Western Asia,Asia,572230
-2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Western Europe,Europe,410483
-2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,World,World,4834550
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Central Asia,Asia,312517,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,28782,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Eastern Europe,Europe,2939880,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Latin America and the Caribbean,Americas,406606,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Northern America,Americas,1137,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,56033,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Southern Asia,Asia,92300,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,3776,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Western Asia,Asia,572230,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,Western Europe,Europe,410483,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2006,2006,Import,Azerbaijan,12,Oil seeds and oleaginous fruits,World,World,4834550,40.3936294,47.7872508,,

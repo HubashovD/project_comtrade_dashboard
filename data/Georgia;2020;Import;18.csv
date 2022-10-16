@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Central Asia,Asia,66995
-2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Eastern Asia,Asia,30803
-2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Eastern Europe,Europe,31709229
-2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,48451
-2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Northern America,Americas,102
-2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Northern Europe,Europe,173832
-2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,64019
-2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Southern Asia,Asia,59477
-2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Southern Europe,Europe,1820147
-2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,125
-2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Western Asia,Asia,4525961
-2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Western Europe,Europe,6142595
-2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,World,World,46421401
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Central Asia,Asia,66995,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Eastern Asia,Asia,30803,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Eastern Europe,Europe,31709229,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,48451,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Northern America,Americas,102,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Northern Europe,Europe,173832,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,64019,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Southern Asia,Asia,59477,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Southern Europe,Europe,1820147,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,125,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Western Asia,Asia,4525961,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,Western Europe,Europe,6142595,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2020,2020,Import,Georgia,18,Cocoa and cocoa preparations,World,World,46421401,32.3293809,-83.1137366,,

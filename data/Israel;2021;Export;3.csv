@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,68000
-2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,888000
-2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,117000
-2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,1186000
-2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,2721000
-2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,72000
-2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,1671000
-2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,251000
-2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,1000
-2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,5914000
-2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,13518000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Asia,Asia,68000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Eastern Europe,Europe,888000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Latin America and the Caribbean,Americas,117000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern America,Americas,1186000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Northern Europe,Europe,2721000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",South-eastern Asia,Asia,72000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Southern Europe,Europe,1671000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Sub-Saharan Africa,Africa,251000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Asia,Asia,1000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",Western Europe,Europe,5914000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2021,2021,Export,Israel,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,13518000,30.8124247,34.8594762,,

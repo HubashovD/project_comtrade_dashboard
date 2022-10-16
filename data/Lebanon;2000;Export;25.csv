@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Asia,Asia,134377
-2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,691
-2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Latin America and the Caribbean,Americas,775199
-2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,35917
-2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,5109563
-2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,227588
-2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,29509
-2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Europe,Europe,11393841
-2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Sub-Saharan Africa,Africa,5473795
-2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,5012112
-2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,296814
-2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,31753274
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Asia,Asia,134377,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,691,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Latin America and the Caribbean,Americas,775199,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,35917,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,5109563,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,227588,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,29509,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Europe,Europe,11393841,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Sub-Saharan Africa,Africa,5473795,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,5012112,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,296814,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Export,Lebanon,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,31753274,33.8750629,35.843409,,

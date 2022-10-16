@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Australia and New Zealand,Oceania,1379295
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Eastern Asia,Asia,250992215
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Eastern Europe,Europe,8155547
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Latin America and the Caribbean,Americas,2753242
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Micronesia,Oceania,745
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Northern Africa,Africa,131171
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Northern America,Americas,94023506
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Northern Europe,Europe,39436519
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Polynesia,Oceania,2520
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,South-eastern Asia,Asia,7479832
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Southern Asia,Asia,1994818
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Southern Europe,Europe,19099535
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Sub-Saharan Africa,Africa,214111
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Western Asia,Asia,10959857
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Western Europe,Europe,290849664
-2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,World,World,733890133
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Australia and New Zealand,Oceania,1379295,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Eastern Asia,Asia,250992215,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Eastern Europe,Europe,8155547,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Latin America and the Caribbean,Americas,2753242,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Micronesia,Oceania,745,33.8750629,35.843409,6.418559504495792,157.6364476938912
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Northern Africa,Africa,131171,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Northern America,Americas,94023506,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Northern Europe,Europe,39436519,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Polynesia,Oceania,2520,33.8750629,35.843409,-5.109184731250752,167.40343615892436
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,South-eastern Asia,Asia,7479832,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Southern Asia,Asia,1994818,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Southern Europe,Europe,19099535,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Sub-Saharan Africa,Africa,214111,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Western Asia,Asia,10959857,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,Western Europe,Europe,290849664,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2006,2006,Import,Lebanon,87,Vehicles other than railway or tramway rolling stock,World,World,733890133,33.8750629,35.843409,,

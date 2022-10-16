@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,3000830
-2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,4528
-2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Latin America and the Caribbean,Americas,2839
-2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,738322
-2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Northern Europe,Europe,413337
-2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",South-eastern Asia,Asia,14403
-2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,1094262
-2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Western Asia,Asia,71881
-2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,269436
-2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",World,World,5632590
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Eastern Asia,Asia,3000830,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Eastern Europe,Europe,4528,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Latin America and the Caribbean,Americas,2839,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Northern America,Americas,738322,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Northern Europe,Europe,413337,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",South-eastern Asia,Asia,14403,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Southern Europe,Europe,1094262,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Western Asia,Asia,71881,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",Western Europe,Europe,269436,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2013,2013,Import,Kuwait,81,"Metals; n.e.c., cermets and articles thereof",World,World,5632590,29.2733964,47.4979476,,

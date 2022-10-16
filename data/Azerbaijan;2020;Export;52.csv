@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Export,Azerbaijan,52,Cotton,Eastern Europe,Europe,10275050
-2020,2020,Export,Azerbaijan,52,Cotton,Northern Europe,Europe,10
-2020,2020,Export,Azerbaijan,52,Cotton,Southern Asia,Asia,10062383
-2020,2020,Export,Azerbaijan,52,Cotton,Western Asia,Asia,135143091
-2020,2020,Export,Azerbaijan,52,Cotton,World,World,156842456
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Export,Azerbaijan,52,Cotton,Eastern Europe,Europe,10275050,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2020,2020,Export,Azerbaijan,52,Cotton,Northern Europe,Europe,10,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2020,2020,Export,Azerbaijan,52,Cotton,Southern Asia,Asia,10062383,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2020,2020,Export,Azerbaijan,52,Cotton,Western Asia,Asia,135143091,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2020,2020,Export,Azerbaijan,52,Cotton,World,World,156842456,40.3936294,47.7872508,,

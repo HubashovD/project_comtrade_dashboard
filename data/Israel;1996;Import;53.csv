@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Eastern Asia,Asia,86000
-1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Eastern Europe,Europe,107000
-1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Northern Africa,Africa,68000
-1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Northern America,Americas,55000
-1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Southern Asia,Asia,382000
-1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Southern Europe,Europe,617000
-1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Western Europe,Europe,91000
-1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",World,World,3292000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Eastern Asia,Asia,86000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Eastern Europe,Europe,107000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Northern Africa,Africa,68000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Northern America,Americas,55000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Southern Asia,Asia,382000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Southern Europe,Europe,617000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Western Europe,Europe,91000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1996,1996,Import,Israel,53,"Vegetable textile fibres nes, paper yarn, woven fabric",World,World,3292000,30.8124247,34.8594762,,

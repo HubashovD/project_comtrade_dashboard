@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Jordan,73,Iron or steel articles,Eastern Asia,Asia,216128
-2018,2018,Export,Jordan,73,Iron or steel articles,Eastern Europe,Europe,754
-2018,2018,Export,Jordan,73,Iron or steel articles,Latin America and the Caribbean,Americas,51370
-2018,2018,Export,Jordan,73,Iron or steel articles,Northern Africa,Africa,723628
-2018,2018,Export,Jordan,73,Iron or steel articles,Northern America,Americas,2806804
-2018,2018,Export,Jordan,73,Iron or steel articles,Northern Europe,Europe,48830
-2018,2018,Export,Jordan,73,Iron or steel articles,South-eastern Asia,Asia,389252
-2018,2018,Export,Jordan,73,Iron or steel articles,Southern Asia,Asia,10211
-2018,2018,Export,Jordan,73,Iron or steel articles,Southern Europe,Europe,338211
-2018,2018,Export,Jordan,73,Iron or steel articles,Sub-Saharan Africa,Africa,1027790
-2018,2018,Export,Jordan,73,Iron or steel articles,Western Asia,Asia,5074031
-2018,2018,Export,Jordan,73,Iron or steel articles,Western Europe,Europe,894350
-2018,2018,Export,Jordan,73,Iron or steel articles,World,World,73383843
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Jordan,73,Iron or steel articles,Eastern Asia,Asia,216128,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2018,2018,Export,Jordan,73,Iron or steel articles,Eastern Europe,Europe,754,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2018,2018,Export,Jordan,73,Iron or steel articles,Latin America and the Caribbean,Americas,51370,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2018,2018,Export,Jordan,73,Iron or steel articles,Northern Africa,Africa,723628,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2018,2018,Export,Jordan,73,Iron or steel articles,Northern America,Americas,2806804,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2018,2018,Export,Jordan,73,Iron or steel articles,Northern Europe,Europe,48830,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2018,2018,Export,Jordan,73,Iron or steel articles,South-eastern Asia,Asia,389252,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2018,2018,Export,Jordan,73,Iron or steel articles,Southern Asia,Asia,10211,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2018,2018,Export,Jordan,73,Iron or steel articles,Southern Europe,Europe,338211,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2018,2018,Export,Jordan,73,Iron or steel articles,Sub-Saharan Africa,Africa,1027790,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2018,2018,Export,Jordan,73,Iron or steel articles,Western Asia,Asia,5074031,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2018,2018,Export,Jordan,73,Iron or steel articles,Western Europe,Europe,894350,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2018,2018,Export,Jordan,73,Iron or steel articles,World,World,73383843,31.1667049,36.941628,,

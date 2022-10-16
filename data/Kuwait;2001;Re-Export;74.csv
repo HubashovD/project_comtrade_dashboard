@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Re-Export,Kuwait,74,Copper and articles thereof,Eastern Asia,Asia,82
-2001,2001,Re-Export,Kuwait,74,Copper and articles thereof,Northern America,Americas,652
-2001,2001,Re-Export,Kuwait,74,Copper and articles thereof,South-eastern Asia,Asia,13391
-2001,2001,Re-Export,Kuwait,74,Copper and articles thereof,Southern Asia,Asia,1849
-2001,2001,Re-Export,Kuwait,74,Copper and articles thereof,Sub-Saharan Africa,Africa,1001
-2001,2001,Re-Export,Kuwait,74,Copper and articles thereof,Western Europe,Europe,378
-2001,2001,Re-Export,Kuwait,74,Copper and articles thereof,World,World,34603
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Re-Export,Kuwait,74,Copper and articles thereof,Eastern Asia,Asia,82,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2001,2001,Re-Export,Kuwait,74,Copper and articles thereof,Northern America,Americas,652,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2001,2001,Re-Export,Kuwait,74,Copper and articles thereof,South-eastern Asia,Asia,13391,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2001,2001,Re-Export,Kuwait,74,Copper and articles thereof,Southern Asia,Asia,1849,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2001,2001,Re-Export,Kuwait,74,Copper and articles thereof,Sub-Saharan Africa,Africa,1001,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2001,2001,Re-Export,Kuwait,74,Copper and articles thereof,Western Europe,Europe,378,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2001,2001,Re-Export,Kuwait,74,Copper and articles thereof,World,World,34603,29.2733964,47.4979476,,

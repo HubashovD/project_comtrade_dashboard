@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,73456
-2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,6633
-2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Africa,Africa,160
-2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,1145704
-2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,304252
-2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",South-eastern Asia,Asia,8107
-2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Asia,Asia,4647
-2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,4435
-2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Sub-Saharan Africa,Africa,23
-2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,11165
-2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,1612180
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Asia,Asia,73456,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Eastern Europe,Europe,6633,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Africa,Africa,160,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern America,Americas,1145704,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Northern Europe,Europe,304252,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",South-eastern Asia,Asia,8107,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Asia,Asia,4647,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Southern Europe,Europe,4435,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Sub-Saharan Africa,Africa,23,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",Western Europe,Europe,11165,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2001,2001,Import,Kuwait,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",World,World,1612180,29.2733964,47.4979476,,

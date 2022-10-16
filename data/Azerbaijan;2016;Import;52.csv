@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Azerbaijan,52,Cotton,Central Asia,Asia,1157196
-2016,2016,Import,Azerbaijan,52,Cotton,Eastern Asia,Asia,267654
-2016,2016,Import,Azerbaijan,52,Cotton,Eastern Europe,Europe,314356
-2016,2016,Import,Azerbaijan,52,Cotton,Northern America,Americas,132
-2016,2016,Import,Azerbaijan,52,Cotton,Northern Europe,Europe,8943
-2016,2016,Import,Azerbaijan,52,Cotton,South-eastern Asia,Asia,1197
-2016,2016,Import,Azerbaijan,52,Cotton,Southern Asia,Asia,81448
-2016,2016,Import,Azerbaijan,52,Cotton,Southern Europe,Europe,79034
-2016,2016,Import,Azerbaijan,52,Cotton,Western Asia,Asia,2406049
-2016,2016,Import,Azerbaijan,52,Cotton,Western Europe,Europe,10250
-2016,2016,Import,Azerbaijan,52,Cotton,World,World,4793165
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Azerbaijan,52,Cotton,Central Asia,Asia,1157196,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2016,2016,Import,Azerbaijan,52,Cotton,Eastern Asia,Asia,267654,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2016,2016,Import,Azerbaijan,52,Cotton,Eastern Europe,Europe,314356,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2016,2016,Import,Azerbaijan,52,Cotton,Northern America,Americas,132,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2016,2016,Import,Azerbaijan,52,Cotton,Northern Europe,Europe,8943,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2016,2016,Import,Azerbaijan,52,Cotton,South-eastern Asia,Asia,1197,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2016,2016,Import,Azerbaijan,52,Cotton,Southern Asia,Asia,81448,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2016,2016,Import,Azerbaijan,52,Cotton,Southern Europe,Europe,79034,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2016,2016,Import,Azerbaijan,52,Cotton,Western Asia,Asia,2406049,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2016,2016,Import,Azerbaijan,52,Cotton,Western Europe,Europe,10250,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2016,2016,Import,Azerbaijan,52,Cotton,World,World,4793165,40.3936294,47.7872508,,

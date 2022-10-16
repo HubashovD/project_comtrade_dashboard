@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Azerbaijan,5,"Products of animal origin, not elsewhere specified",Central Asia,Asia,40500
-2005,2005,Export,Azerbaijan,5,"Products of animal origin, not elsewhere specified",Eastern Europe,Europe,67699
-2005,2005,Export,Azerbaijan,5,"Products of animal origin, not elsewhere specified",Northern Africa,Africa,26811
-2005,2005,Export,Azerbaijan,5,"Products of animal origin, not elsewhere specified",Northern America,Americas,66
-2005,2005,Export,Azerbaijan,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,78794
-2005,2005,Export,Azerbaijan,5,"Products of animal origin, not elsewhere specified",World,World,242631
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Azerbaijan,5,"Products of animal origin, not elsewhere specified",Central Asia,Asia,40500,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2005,2005,Export,Azerbaijan,5,"Products of animal origin, not elsewhere specified",Eastern Europe,Europe,67699,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2005,2005,Export,Azerbaijan,5,"Products of animal origin, not elsewhere specified",Northern Africa,Africa,26811,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2005,2005,Export,Azerbaijan,5,"Products of animal origin, not elsewhere specified",Northern America,Americas,66,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2005,2005,Export,Azerbaijan,5,"Products of animal origin, not elsewhere specified",Western Asia,Asia,78794,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2005,2005,Export,Azerbaijan,5,"Products of animal origin, not elsewhere specified",World,World,242631,40.3936294,47.7872508,,

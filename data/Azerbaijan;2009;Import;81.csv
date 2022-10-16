@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Import,Azerbaijan,81,Other base metals; cermets; articles thereof,Eastern Europe,Europe,66092
-2009,2009,Import,Azerbaijan,81,Other base metals; cermets; articles thereof,Northern America,Americas,5366
-2009,2009,Import,Azerbaijan,81,Other base metals; cermets; articles thereof,Northern Europe,Europe,788
-2009,2009,Import,Azerbaijan,81,Other base metals; cermets; articles thereof,Western Asia,Asia,14409
-2009,2009,Import,Azerbaijan,81,Other base metals; cermets; articles thereof,Western Europe,Europe,5614
-2009,2009,Import,Azerbaijan,81,Other base metals; cermets; articles thereof,World,World,92364
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Import,Azerbaijan,81,Other base metals; cermets; articles thereof,Eastern Europe,Europe,66092,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2009,2009,Import,Azerbaijan,81,Other base metals; cermets; articles thereof,Northern America,Americas,5366,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2009,2009,Import,Azerbaijan,81,Other base metals; cermets; articles thereof,Northern Europe,Europe,788,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2009,2009,Import,Azerbaijan,81,Other base metals; cermets; articles thereof,Western Asia,Asia,14409,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2009,2009,Import,Azerbaijan,81,Other base metals; cermets; articles thereof,Western Europe,Europe,5614,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2009,2009,Import,Azerbaijan,81,Other base metals; cermets; articles thereof,World,World,92364,40.3936294,47.7872508,,

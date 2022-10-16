@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Export,State of Palestine,30,Pharmaceutical products,Eastern Asia,Asia,40
-2010,2010,Export,State of Palestine,30,Pharmaceutical products,Eastern Europe,Europe,4
-2010,2010,Export,State of Palestine,30,Pharmaceutical products,Latin America and the Caribbean,Americas,964
-2010,2010,Export,State of Palestine,30,Pharmaceutical products,Northern Africa,Africa,67
-2010,2010,Export,State of Palestine,30,Pharmaceutical products,Western Europe,Europe,1934219
-2010,2010,Export,State of Palestine,30,Pharmaceutical products,World,World,17095648
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Export,State of Palestine,30,Pharmaceutical products,Eastern Asia,Asia,40,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2010,2010,Export,State of Palestine,30,Pharmaceutical products,Eastern Europe,Europe,4,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2010,2010,Export,State of Palestine,30,Pharmaceutical products,Latin America and the Caribbean,Americas,964,31.46242095,34.262716572130714,17.925141963241547,-78.01492950057497
+2010,2010,Export,State of Palestine,30,Pharmaceutical products,Northern Africa,Africa,67,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2010,2010,Export,State of Palestine,30,Pharmaceutical products,Western Europe,Europe,1934219,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2010,2010,Export,State of Palestine,30,Pharmaceutical products,World,World,17095648,31.46242095,34.262716572130714,,

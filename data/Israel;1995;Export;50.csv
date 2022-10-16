@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Israel,50,Silk,Northern America,Americas,75000
-1995,1995,Export,Israel,50,Silk,Western Asia,Asia,5000
-1995,1995,Export,Israel,50,Silk,Western Europe,Europe,47000
-1995,1995,Export,Israel,50,Silk,World,World,128000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Israel,50,Silk,Northern America,Americas,75000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1995,1995,Export,Israel,50,Silk,Western Asia,Asia,5000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1995,1995,Export,Israel,50,Silk,Western Europe,Europe,47000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Export,Israel,50,Silk,World,World,128000,30.8124247,34.8594762,,

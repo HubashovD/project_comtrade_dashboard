@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Import,Lebanon,72,Iron and steel,Central Asia,Asia,1943441
-2017,2017,Import,Lebanon,72,Iron and steel,Eastern Asia,Asia,105775166
-2017,2017,Import,Lebanon,72,Iron and steel,Eastern Europe,Europe,306385912
-2017,2017,Import,Lebanon,72,Iron and steel,Latin America and the Caribbean,Americas,94528
-2017,2017,Import,Lebanon,72,Iron and steel,Northern Africa,Africa,14694824
-2017,2017,Import,Lebanon,72,Iron and steel,Northern America,Americas,251229
-2017,2017,Import,Lebanon,72,Iron and steel,Northern Europe,Europe,2026090
-2017,2017,Import,Lebanon,72,Iron and steel,South-eastern Asia,Asia,379043
-2017,2017,Import,Lebanon,72,Iron and steel,Southern Asia,Asia,13028
-2017,2017,Import,Lebanon,72,Iron and steel,Southern Europe,Europe,56928763
-2017,2017,Import,Lebanon,72,Iron and steel,Sub-Saharan Africa,Africa,143881
-2017,2017,Import,Lebanon,72,Iron and steel,Western Asia,Asia,109706160
-2017,2017,Import,Lebanon,72,Iron and steel,Western Europe,Europe,17682170
-2017,2017,Import,Lebanon,72,Iron and steel,World,World,637523737
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Import,Lebanon,72,Iron and steel,Central Asia,Asia,1943441,33.8750629,35.843409,39.89317229901691,61.060280637304274
+2017,2017,Import,Lebanon,72,Iron and steel,Eastern Asia,Asia,105775166,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2017,2017,Import,Lebanon,72,Iron and steel,Eastern Europe,Europe,306385912,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2017,2017,Import,Lebanon,72,Iron and steel,Latin America and the Caribbean,Americas,94528,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2017,2017,Import,Lebanon,72,Iron and steel,Northern Africa,Africa,14694824,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2017,2017,Import,Lebanon,72,Iron and steel,Northern America,Americas,251229,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2017,2017,Import,Lebanon,72,Iron and steel,Northern Europe,Europe,2026090,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2017,2017,Import,Lebanon,72,Iron and steel,South-eastern Asia,Asia,379043,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2017,2017,Import,Lebanon,72,Iron and steel,Southern Asia,Asia,13028,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2017,2017,Import,Lebanon,72,Iron and steel,Southern Europe,Europe,56928763,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2017,2017,Import,Lebanon,72,Iron and steel,Sub-Saharan Africa,Africa,143881,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2017,2017,Import,Lebanon,72,Iron and steel,Western Asia,Asia,109706160,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2017,2017,Import,Lebanon,72,Iron and steel,Western Europe,Europe,17682170,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2017,2017,Import,Lebanon,72,Iron and steel,World,World,637523737,33.8750629,35.843409,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,3679
-1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,36885
-1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",Northern America,Americas,126506
-1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",Northern Europe,Europe,2117998
-1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",Southern Europe,Europe,80889
-1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",Western Asia,Asia,11495
-1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",Western Europe,Europe,626909
-1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",World,World,3846167
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,3679,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",Latin America and the Caribbean,Americas,36885,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",Northern America,Americas,126506,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",Northern Europe,Europe,2117998,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",Southern Europe,Europe,80889,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",Western Asia,Asia,11495,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",Western Europe,Europe,626909,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1997,1997,Import,Jordan,22,"Beverages, spirits and vinegar",World,World,3846167,31.1667049,36.941628,,

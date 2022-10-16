@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Jordan,50,Silk,Eastern Asia,Asia,8823
-2011,2011,Import,Jordan,50,Silk,Northern America,Americas,339
-2011,2011,Import,Jordan,50,Silk,Northern Europe,Europe,648
-2011,2011,Import,Jordan,50,Silk,South-eastern Asia,Asia,4025
-2011,2011,Import,Jordan,50,Silk,Southern Europe,Europe,1069
-2011,2011,Import,Jordan,50,Silk,Western Europe,Europe,33295
-2011,2011,Import,Jordan,50,Silk,World,World,221370
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Jordan,50,Silk,Eastern Asia,Asia,8823,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2011,2011,Import,Jordan,50,Silk,Northern America,Americas,339,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2011,2011,Import,Jordan,50,Silk,Northern Europe,Europe,648,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2011,2011,Import,Jordan,50,Silk,South-eastern Asia,Asia,4025,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2011,2011,Import,Jordan,50,Silk,Southern Europe,Europe,1069,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2011,2011,Import,Jordan,50,Silk,Western Europe,Europe,33295,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2011,2011,Import,Jordan,50,Silk,World,World,221370,31.1667049,36.941628,,

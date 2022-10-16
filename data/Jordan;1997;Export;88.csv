@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern Africa,Africa,14104
-1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,22422491
-1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,2950425
-1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,80395
-1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,944259
-1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Western Asia,Asia,4236253
-1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,5988188
-1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",World,World,37625924
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern Africa,Africa,14104,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,22422491,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,2950425,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,80395,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,944259,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Western Asia,Asia,4236253,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,5988188,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1997,1997,Export,Jordan,88,"Aircraft, spacecraft, and parts thereof",World,World,37625924,31.1667049,36.941628,,

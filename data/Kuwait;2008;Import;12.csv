@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Australia and New Zealand,Oceania,498781
-2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,3105145
-2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Eastern Europe,Europe,1789
-2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Latin America and the Caribbean,Americas,1207956
-2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Northern Africa,Africa,827786
-2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Northern America,Americas,2598802
-2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,198396
-2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,South-eastern Asia,Asia,2257204
-2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Southern Asia,Asia,11929611
-2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,2561729
-2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Sub-Saharan Africa,Africa,782176
-2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Western Asia,Asia,119094
-2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Western Europe,Europe,2631677
-2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,World,World,35693275
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Australia and New Zealand,Oceania,498781,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,3105145,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Eastern Europe,Europe,1789,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Latin America and the Caribbean,Americas,1207956,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Northern Africa,Africa,827786,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Northern America,Americas,2598802,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,198396,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,South-eastern Asia,Asia,2257204,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Southern Asia,Asia,11929611,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Southern Europe,Europe,2561729,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Sub-Saharan Africa,Africa,782176,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Western Asia,Asia,119094,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,Western Europe,Europe,2631677,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Import,Kuwait,12,Oil seeds and oleaginous fruits,World,World,35693275,29.2733964,47.4979476,,

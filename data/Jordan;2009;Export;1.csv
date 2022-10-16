@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Export,Jordan,1,Live animals; animal products,Northern Africa,Africa,1841444
-2009,2009,Export,Jordan,1,Live animals; animal products,Northern America,Americas,608
-2009,2009,Export,Jordan,1,Live animals; animal products,Western Asia,Asia,373907
-2009,2009,Export,Jordan,1,Live animals; animal products,Western Europe,Europe,11267
-2009,2009,Export,Jordan,1,Live animals; animal products,World,World,31232510
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Export,Jordan,1,Live animals; animal products,Northern Africa,Africa,1841444,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2009,2009,Export,Jordan,1,Live animals; animal products,Northern America,Americas,608,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2009,2009,Export,Jordan,1,Live animals; animal products,Western Asia,Asia,373907,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2009,2009,Export,Jordan,1,Live animals; animal products,Western Europe,Europe,11267,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2009,2009,Export,Jordan,1,Live animals; animal products,World,World,31232510,31.1667049,36.941628,,

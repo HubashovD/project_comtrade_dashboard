@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Central Asia,Asia,712806
-2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Eastern Asia,Asia,1012661
-2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Eastern Europe,Europe,7245774
-2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Latin America and the Caribbean,Americas,48903
-2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Micronesia,Oceania,125
-2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Northern America,Americas,430232
-2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Northern Europe,Europe,1452848
-2016,2016,Import,Azerbaijan,74,Copper and articles thereof,South-eastern Asia,Asia,470676
-2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Southern Asia,Asia,244563
-2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Southern Europe,Europe,3379517
-2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Western Asia,Asia,11987993
-2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Western Europe,Europe,2499316
-2016,2016,Import,Azerbaijan,74,Copper and articles thereof,World,World,30704916
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Central Asia,Asia,712806,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Eastern Asia,Asia,1012661,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Eastern Europe,Europe,7245774,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Latin America and the Caribbean,Americas,48903,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Micronesia,Oceania,125,40.3936294,47.7872508,6.418559504495792,157.6364476938912
+2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Northern America,Americas,430232,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Northern Europe,Europe,1452848,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2016,2016,Import,Azerbaijan,74,Copper and articles thereof,South-eastern Asia,Asia,470676,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Southern Asia,Asia,244563,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Southern Europe,Europe,3379517,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Western Asia,Asia,11987993,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2016,2016,Import,Azerbaijan,74,Copper and articles thereof,Western Europe,Europe,2499316,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2016,2016,Import,Azerbaijan,74,Copper and articles thereof,World,World,30704916,40.3936294,47.7872508,,

@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Eastern Europe,Europe,15063287
-1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,4760000
-1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Northern America,Americas,9920
-1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Northern Europe,Europe,3709396
-1997,1997,Import,Georgia,17,Sugars and sugar confectionery,South-eastern Asia,Asia,5000
-1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Southern Asia,Asia,122042
-1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Southern Europe,Europe,3535865
-1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Western Asia,Asia,2878505
-1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Western Europe,Europe,4930725
-1997,1997,Import,Georgia,17,Sugars and sugar confectionery,World,World,43589824
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Eastern Europe,Europe,15063287,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Latin America and the Caribbean,Americas,4760000,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Northern America,Americas,9920,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Northern Europe,Europe,3709396,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+1997,1997,Import,Georgia,17,Sugars and sugar confectionery,South-eastern Asia,Asia,5000,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Southern Asia,Asia,122042,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Southern Europe,Europe,3535865,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Western Asia,Asia,2878505,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+1997,1997,Import,Georgia,17,Sugars and sugar confectionery,Western Europe,Europe,4930725,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+1997,1997,Import,Georgia,17,Sugars and sugar confectionery,World,World,43589824,32.3293809,-83.1137366,,

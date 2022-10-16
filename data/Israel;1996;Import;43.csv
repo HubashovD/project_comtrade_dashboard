@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Israel,43,"Furskins and artificial fur, manufactures thereof",Eastern Asia,Asia,109000
-1996,1996,Import,Israel,43,"Furskins and artificial fur, manufactures thereof",Eastern Europe,Europe,29000
-1996,1996,Import,Israel,43,"Furskins and artificial fur, manufactures thereof",Latin America and the Caribbean,Americas,38000
-1996,1996,Import,Israel,43,"Furskins and artificial fur, manufactures thereof",Northern Europe,Europe,55000
-1996,1996,Import,Israel,43,"Furskins and artificial fur, manufactures thereof",Western Europe,Europe,172000
-1996,1996,Import,Israel,43,"Furskins and artificial fur, manufactures thereof",World,World,454000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Israel,43,"Furskins and artificial fur, manufactures thereof",Eastern Asia,Asia,109000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1996,1996,Import,Israel,43,"Furskins and artificial fur, manufactures thereof",Eastern Europe,Europe,29000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1996,1996,Import,Israel,43,"Furskins and artificial fur, manufactures thereof",Latin America and the Caribbean,Americas,38000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1996,1996,Import,Israel,43,"Furskins and artificial fur, manufactures thereof",Northern Europe,Europe,55000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1996,1996,Import,Israel,43,"Furskins and artificial fur, manufactures thereof",Western Europe,Europe,172000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1996,1996,Import,Israel,43,"Furskins and artificial fur, manufactures thereof",World,World,454000,30.8124247,34.8594762,,

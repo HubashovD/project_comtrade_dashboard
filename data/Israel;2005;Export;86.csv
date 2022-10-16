@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Central Asia,Asia,19000
-2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Eastern Asia,Asia,77000
-2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Eastern Europe,Europe,67000
-2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Northern America,Americas,985000
-2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Northern Europe,Europe,417000
-2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",South-eastern Asia,Asia,58000
-2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Southern Europe,Europe,2787000
-2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Sub-Saharan Africa,Africa,5000
-2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Western Asia,Asia,22000
-2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Western Europe,Europe,8731000
-2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",World,World,16409000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Central Asia,Asia,19000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Eastern Asia,Asia,77000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Eastern Europe,Europe,67000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Northern America,Americas,985000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Northern Europe,Europe,417000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",South-eastern Asia,Asia,58000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Southern Europe,Europe,2787000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Sub-Saharan Africa,Africa,5000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Western Asia,Asia,22000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",Western Europe,Europe,8731000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2005,2005,Export,Israel,86,"Railway or tramway locomotives, rolling-stock and parts thereof",World,World,16409000,30.8124247,34.8594762,,

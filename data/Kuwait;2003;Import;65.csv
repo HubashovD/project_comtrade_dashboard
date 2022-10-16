@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,Australia and New Zealand,Oceania,24501
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,Central Asia,Asia,336
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,Eastern Asia,Asia,2529478
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,Eastern Europe,Europe,531080
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,Latin America and the Caribbean,Americas,16484
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,Northern Africa,Africa,38336
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,Northern America,Americas,677389
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,Northern Europe,Europe,1400692
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,South-eastern Asia,Asia,592863
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,Southern Asia,Asia,71528
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,Southern Europe,Europe,756236
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,Sub-Saharan Africa,Africa,55329
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,Western Asia,Asia,365093
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,Western Europe,Europe,1390547
-2003,2003,Import,Kuwait,65,Headgear and parts thereof,World,World,9357198
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,Australia and New Zealand,Oceania,24501,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,Central Asia,Asia,336,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,Eastern Asia,Asia,2529478,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,Eastern Europe,Europe,531080,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,Latin America and the Caribbean,Americas,16484,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,Northern Africa,Africa,38336,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,Northern America,Americas,677389,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,Northern Europe,Europe,1400692,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,South-eastern Asia,Asia,592863,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,Southern Asia,Asia,71528,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,Southern Europe,Europe,756236,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,Sub-Saharan Africa,Africa,55329,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,Western Asia,Asia,365093,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,Western Europe,Europe,1390547,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2003,2003,Import,Kuwait,65,Headgear and parts thereof,World,World,9357198,29.2733964,47.4979476,,

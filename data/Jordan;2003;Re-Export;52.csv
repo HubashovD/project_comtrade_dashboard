@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Re-Export,Jordan,52,Cotton,Eastern Asia,Asia,16578
-2003,2003,Re-Export,Jordan,52,Cotton,Latin America and the Caribbean,Americas,46545
-2003,2003,Re-Export,Jordan,52,Cotton,Northern Africa,Africa,8463
-2003,2003,Re-Export,Jordan,52,Cotton,Northern America,Americas,6911
-2003,2003,Re-Export,Jordan,52,Cotton,Western Asia,Asia,559
-2003,2003,Re-Export,Jordan,52,Cotton,World,World,4352946
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Re-Export,Jordan,52,Cotton,Eastern Asia,Asia,16578,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2003,2003,Re-Export,Jordan,52,Cotton,Latin America and the Caribbean,Americas,46545,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2003,2003,Re-Export,Jordan,52,Cotton,Northern Africa,Africa,8463,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2003,2003,Re-Export,Jordan,52,Cotton,Northern America,Americas,6911,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2003,2003,Re-Export,Jordan,52,Cotton,Western Asia,Asia,559,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2003,2003,Re-Export,Jordan,52,Cotton,World,World,4352946,31.1667049,36.941628,,

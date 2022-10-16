@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Australia and New Zealand,Oceania,67
-2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Eastern Asia,Asia,90240
-2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Eastern Europe,Europe,43721
-2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Northern America,Americas,194400
-2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Northern Europe,Europe,129600
-2012,2012,Export,Azerbaijan,74,Copper and articles thereof,South-eastern Asia,Asia,2
-2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Southern Asia,Asia,32400
-2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Western Asia,Asia,4768718
-2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Western Europe,Europe,63000
-2012,2012,Export,Azerbaijan,74,Copper and articles thereof,World,World,5718901
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Australia and New Zealand,Oceania,67,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Eastern Asia,Asia,90240,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Eastern Europe,Europe,43721,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Northern America,Americas,194400,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Northern Europe,Europe,129600,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2012,2012,Export,Azerbaijan,74,Copper and articles thereof,South-eastern Asia,Asia,2,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Southern Asia,Asia,32400,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Western Asia,Asia,4768718,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2012,2012,Export,Azerbaijan,74,Copper and articles thereof,Western Europe,Europe,63000,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2012,2012,Export,Azerbaijan,74,Copper and articles thereof,World,World,5718901,40.3936294,47.7872508,,

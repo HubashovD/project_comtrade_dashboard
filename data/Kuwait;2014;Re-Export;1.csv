@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Re-Export,Kuwait,1,Animals; live,Northern America,Americas,5698
-2014,2014,Re-Export,Kuwait,1,Animals; live,Northern Europe,Europe,705
-2014,2014,Re-Export,Kuwait,1,Animals; live,South-eastern Asia,Asia,1549
-2014,2014,Re-Export,Kuwait,1,Animals; live,Southern Asia,Asia,15588
-2014,2014,Re-Export,Kuwait,1,Animals; live,Sub-Saharan Africa,Africa,654
-2014,2014,Re-Export,Kuwait,1,Animals; live,World,World,1102818
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Re-Export,Kuwait,1,Animals; live,Northern America,Americas,5698,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2014,2014,Re-Export,Kuwait,1,Animals; live,Northern Europe,Europe,705,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2014,2014,Re-Export,Kuwait,1,Animals; live,South-eastern Asia,Asia,1549,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2014,2014,Re-Export,Kuwait,1,Animals; live,Southern Asia,Asia,15588,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2014,2014,Re-Export,Kuwait,1,Animals; live,Sub-Saharan Africa,Africa,654,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2014,2014,Re-Export,Kuwait,1,Animals; live,World,World,1102818,29.2733964,47.4979476,,

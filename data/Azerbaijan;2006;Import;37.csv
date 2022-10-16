@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,Eastern Asia,Asia,126795
-2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,Eastern Europe,Europe,34241
-2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,Northern America,Americas,14182
-2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,Northern Europe,Europe,75234
-2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,Southern Europe,Europe,2613
-2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,Western Asia,Asia,69595
-2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,Western Europe,Europe,778562
-2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,World,World,1110030
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,Eastern Asia,Asia,126795,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,Eastern Europe,Europe,34241,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,Northern America,Americas,14182,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,Northern Europe,Europe,75234,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,Southern Europe,Europe,2613,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,Western Asia,Asia,69595,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,Western Europe,Europe,778562,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2006,2006,Import,Azerbaijan,37,Photographic or cinematographic goods,World,World,1110030,40.3936294,47.7872508,,

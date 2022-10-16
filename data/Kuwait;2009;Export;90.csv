@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Australia and New Zealand,Oceania,3
-2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Asia,Asia,590575
-2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Europe,Europe,119480
-2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Africa,Africa,23161
-2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern America,Americas,311528
-2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Europe,Europe,177556
-2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",South-eastern Asia,Asia,285992
-2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Southern Asia,Asia,434396
-2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Southern Europe,Europe,592489
-2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Sub-Saharan Africa,Africa,42549
-2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Asia,Asia,32478
-2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Europe,Europe,1986302
-2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",World,World,13798441
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Australia and New Zealand,Oceania,3,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Asia,Asia,590575,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Eastern Europe,Europe,119480,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Africa,Africa,23161,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern America,Americas,311528,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Northern Europe,Europe,177556,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",South-eastern Asia,Asia,285992,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Southern Asia,Asia,434396,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Southern Europe,Europe,592489,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Sub-Saharan Africa,Africa,42549,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Asia,Asia,32478,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",Western Europe,Europe,1986302,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2009,2009,Export,Kuwait,90,"Optical, photographic, cinematographic, measuring, checking, precision, med ...",World,World,13798441,29.2733964,47.4979476,,

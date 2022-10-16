@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Export,Azerbaijan,72,Iron and steel,Central Asia,Asia,38394
-2007,2007,Export,Azerbaijan,72,Iron and steel,Eastern Europe,Europe,856210
-2007,2007,Export,Azerbaijan,72,Iron and steel,Northern Europe,Europe,95408
-2007,2007,Export,Azerbaijan,72,Iron and steel,Southern Asia,Asia,41606658
-2007,2007,Export,Azerbaijan,72,Iron and steel,Western Asia,Asia,504000
-2007,2007,Export,Azerbaijan,72,Iron and steel,Western Europe,Europe,171958
-2007,2007,Export,Azerbaijan,72,Iron and steel,World,World,44743933
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Export,Azerbaijan,72,Iron and steel,Central Asia,Asia,38394,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2007,2007,Export,Azerbaijan,72,Iron and steel,Eastern Europe,Europe,856210,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2007,2007,Export,Azerbaijan,72,Iron and steel,Northern Europe,Europe,95408,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2007,2007,Export,Azerbaijan,72,Iron and steel,Southern Asia,Asia,41606658,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2007,2007,Export,Azerbaijan,72,Iron and steel,Western Asia,Asia,504000,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2007,2007,Export,Azerbaijan,72,Iron and steel,Western Europe,Europe,171958,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2007,2007,Export,Azerbaijan,72,Iron and steel,World,World,44743933,40.3936294,47.7872508,,

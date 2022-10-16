@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Israel,31,Fertilizers,Eastern Asia,Asia,4465000
-2014,2014,Import,Israel,31,Fertilizers,Eastern Europe,Europe,6087000
-2014,2014,Import,Israel,31,Fertilizers,Northern Africa,Africa,187000
-2014,2014,Import,Israel,31,Fertilizers,Northern America,Americas,787000
-2014,2014,Import,Israel,31,Fertilizers,Northern Europe,Europe,8166000
-2014,2014,Import,Israel,31,Fertilizers,South-eastern Asia,Asia,1070000
-2014,2014,Import,Israel,31,Fertilizers,Southern Europe,Europe,6777000
-2014,2014,Import,Israel,31,Fertilizers,Sub-Saharan Africa,Africa,61000
-2014,2014,Import,Israel,31,Fertilizers,Western Europe,Europe,40522000
-2014,2014,Import,Israel,31,Fertilizers,World,World,69466000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Israel,31,Fertilizers,Eastern Asia,Asia,4465000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2014,2014,Import,Israel,31,Fertilizers,Eastern Europe,Europe,6087000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2014,2014,Import,Israel,31,Fertilizers,Northern Africa,Africa,187000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2014,2014,Import,Israel,31,Fertilizers,Northern America,Americas,787000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2014,2014,Import,Israel,31,Fertilizers,Northern Europe,Europe,8166000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2014,2014,Import,Israel,31,Fertilizers,South-eastern Asia,Asia,1070000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2014,2014,Import,Israel,31,Fertilizers,Southern Europe,Europe,6777000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2014,2014,Import,Israel,31,Fertilizers,Sub-Saharan Africa,Africa,61000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2014,2014,Import,Israel,31,Fertilizers,Western Europe,Europe,40522000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2014,2014,Import,Israel,31,Fertilizers,World,World,69466000,30.8124247,34.8594762,,

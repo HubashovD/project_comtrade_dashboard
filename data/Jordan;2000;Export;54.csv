@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Jordan,54,Manmade filaments,Eastern Asia,Asia,45003
-2000,2000,Export,Jordan,54,Manmade filaments,Eastern Europe,Europe,4231
-2000,2000,Export,Jordan,54,Manmade filaments,Latin America and the Caribbean,Americas,38082
-2000,2000,Export,Jordan,54,Manmade filaments,Northern Europe,Europe,572
-2000,2000,Export,Jordan,54,Manmade filaments,South-eastern Asia,Asia,36876
-2000,2000,Export,Jordan,54,Manmade filaments,Southern Asia,Asia,153220
-2000,2000,Export,Jordan,54,Manmade filaments,Southern Europe,Europe,42313
-2000,2000,Export,Jordan,54,Manmade filaments,Western Asia,Asia,542581
-2000,2000,Export,Jordan,54,Manmade filaments,World,World,10163366
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Jordan,54,Manmade filaments,Eastern Asia,Asia,45003,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2000,2000,Export,Jordan,54,Manmade filaments,Eastern Europe,Europe,4231,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Export,Jordan,54,Manmade filaments,Latin America and the Caribbean,Americas,38082,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2000,2000,Export,Jordan,54,Manmade filaments,Northern Europe,Europe,572,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2000,2000,Export,Jordan,54,Manmade filaments,South-eastern Asia,Asia,36876,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2000,2000,Export,Jordan,54,Manmade filaments,Southern Asia,Asia,153220,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2000,2000,Export,Jordan,54,Manmade filaments,Southern Europe,Europe,42313,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2000,2000,Export,Jordan,54,Manmade filaments,Western Asia,Asia,542581,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2000,2000,Export,Jordan,54,Manmade filaments,World,World,10163366,31.1667049,36.941628,,

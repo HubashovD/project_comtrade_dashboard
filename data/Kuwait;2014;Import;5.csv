@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Australia and New Zealand,Oceania,824
-2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,5701
-2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Latin America and the Caribbean,Americas,1042029
-2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,48391
-2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,4905
-2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,19967
-2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,17217
-2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Sub-Saharan Africa,Africa,11686
-2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,14333
-2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,World,World,1167145
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Australia and New Zealand,Oceania,824,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Eastern Asia,Asia,5701,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Latin America and the Caribbean,Americas,1042029,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Northern America,Americas,48391,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Northern Europe,Europe,4905,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,South-eastern Asia,Asia,19967,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Southern Europe,Europe,17217,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Sub-Saharan Africa,Africa,11686,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,Western Europe,Europe,14333,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2014,2014,Import,Kuwait,5,Animal originated products; not elsewhere specified or included,World,World,1167145,29.2733964,47.4979476,,

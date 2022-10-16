@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Central Asia,Asia,2577760
-2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Eastern Asia,Asia,2972672
-2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Eastern Europe,Europe,10647344
-2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Latin America and the Caribbean,Americas,23959
-2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Northern America,Americas,260335
-2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Northern Europe,Europe,710740
-2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,South-eastern Asia,Asia,5461
-2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Southern Asia,Asia,96709
-2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Southern Europe,Europe,3182495
-2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Western Asia,Asia,31420946
-2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Western Europe,Europe,2756869
-2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,World,World,57276564
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Central Asia,Asia,2577760,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Eastern Asia,Asia,2972672,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Eastern Europe,Europe,10647344,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Latin America and the Caribbean,Americas,23959,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Northern America,Americas,260335,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Northern Europe,Europe,710740,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,South-eastern Asia,Asia,5461,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Southern Asia,Asia,96709,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Southern Europe,Europe,3182495,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Western Asia,Asia,31420946,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,Western Europe,Europe,2756869,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2011,2011,Import,Azerbaijan,76,Aluminum and articles thereof,World,World,57276564,40.3936294,47.7872508,,

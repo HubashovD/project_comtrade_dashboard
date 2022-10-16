@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Israel,79,Zinc and articles thereof,Australia and New Zealand,Oceania,183000
-2018,2018,Export,Israel,79,Zinc and articles thereof,Eastern Asia,Asia,665000
-2018,2018,Export,Israel,79,Zinc and articles thereof,Latin America and the Caribbean,Americas,868000
-2018,2018,Export,Israel,79,Zinc and articles thereof,Northern America,Americas,212000
-2018,2018,Export,Israel,79,Zinc and articles thereof,Northern Europe,Europe,69000
-2018,2018,Export,Israel,79,Zinc and articles thereof,Southern Europe,Europe,54000
-2018,2018,Export,Israel,79,Zinc and articles thereof,Western Asia,Asia,88000
-2018,2018,Export,Israel,79,Zinc and articles thereof,Western Europe,Europe,20000
-2018,2018,Export,Israel,79,Zinc and articles thereof,World,World,4932000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Israel,79,Zinc and articles thereof,Australia and New Zealand,Oceania,183000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2018,2018,Export,Israel,79,Zinc and articles thereof,Eastern Asia,Asia,665000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2018,2018,Export,Israel,79,Zinc and articles thereof,Latin America and the Caribbean,Americas,868000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2018,2018,Export,Israel,79,Zinc and articles thereof,Northern America,Americas,212000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2018,2018,Export,Israel,79,Zinc and articles thereof,Northern Europe,Europe,69000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2018,2018,Export,Israel,79,Zinc and articles thereof,Southern Europe,Europe,54000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2018,2018,Export,Israel,79,Zinc and articles thereof,Western Asia,Asia,88000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2018,2018,Export,Israel,79,Zinc and articles thereof,Western Europe,Europe,20000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2018,2018,Export,Israel,79,Zinc and articles thereof,World,World,4932000,30.8124247,34.8594762,,

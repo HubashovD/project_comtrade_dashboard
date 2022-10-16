@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Export,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,203261
-2001,2001,Export,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,36663
-2001,2001,Export,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",Sub-Saharan Africa,Africa,705
-2001,2001,Export,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",Western Asia,Asia,4231
-2001,2001,Export,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,1065585
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Export,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",Northern America,Americas,203261,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2001,2001,Export,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",Northern Europe,Europe,36663,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2001,2001,Export,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",Sub-Saharan Africa,Africa,705,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2001,2001,Export,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",Western Asia,Asia,4231,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2001,2001,Export,Jordan,86,"Railway, tramway locomotives, rolling stock, equipment",World,World,1065585,31.1667049,36.941628,,

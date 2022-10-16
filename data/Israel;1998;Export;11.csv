@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Export,Israel,11,"Milling products, malt, starches, inulin, wheat gluten",Eastern Europe,Europe,1000
-1998,1998,Export,Israel,11,"Milling products, malt, starches, inulin, wheat gluten",Northern America,Americas,4000
-1998,1998,Export,Israel,11,"Milling products, malt, starches, inulin, wheat gluten",Northern Europe,Europe,102000
-1998,1998,Export,Israel,11,"Milling products, malt, starches, inulin, wheat gluten",South-eastern Asia,Asia,25000
-1998,1998,Export,Israel,11,"Milling products, malt, starches, inulin, wheat gluten",Sub-Saharan Africa,Africa,25000
-1998,1998,Export,Israel,11,"Milling products, malt, starches, inulin, wheat gluten",Western Europe,Europe,549000
-1998,1998,Export,Israel,11,"Milling products, malt, starches, inulin, wheat gluten",World,World,887000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Export,Israel,11,"Milling products, malt, starches, inulin, wheat gluten",Eastern Europe,Europe,1000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1998,1998,Export,Israel,11,"Milling products, malt, starches, inulin, wheat gluten",Northern America,Americas,4000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1998,1998,Export,Israel,11,"Milling products, malt, starches, inulin, wheat gluten",Northern Europe,Europe,102000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1998,1998,Export,Israel,11,"Milling products, malt, starches, inulin, wheat gluten",South-eastern Asia,Asia,25000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1998,1998,Export,Israel,11,"Milling products, malt, starches, inulin, wheat gluten",Sub-Saharan Africa,Africa,25000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1998,1998,Export,Israel,11,"Milling products, malt, starches, inulin, wheat gluten",Western Europe,Europe,549000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1998,1998,Export,Israel,11,"Milling products, malt, starches, inulin, wheat gluten",World,World,887000,30.8124247,34.8594762,,

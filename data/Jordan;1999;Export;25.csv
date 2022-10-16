@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Australia and New Zealand,Oceania,3598984
-1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Asia,Asia,8253887
-1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,3322600
-1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,4391123
-1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,312710
-1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,5558899
-1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,35198586
-1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Asia,Asia,2761344
-1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Europe,Europe,2859719
-1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Sub-Saharan Africa,Africa,2354303
-1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,12657215
-1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,14841227
-1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,206648512
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Australia and New Zealand,Oceania,3598984,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Asia,Asia,8253887,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,3322600,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,4391123,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,312710,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,5558899,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,35198586,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Asia,Asia,2761344,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Europe,Europe,2859719,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Sub-Saharan Africa,Africa,2354303,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,12657215,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,14841227,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Export,Jordan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,206648512,31.1667049,36.941628,,

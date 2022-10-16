@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Central Asia,Asia,229422
-2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Eastern Asia,Asia,706337
-2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Eastern Europe,Europe,1384707
-2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,201782
-2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Northern Africa,Africa,10151
-2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Northern America,Americas,31402
-2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Northern Europe,Europe,5828
-2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,South-eastern Asia,Asia,57968
-2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Southern Europe,Europe,425540
-2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Western Asia,Asia,41629
-2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Western Europe,Europe,167054
-2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,World,World,3473823
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Central Asia,Asia,229422,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Eastern Asia,Asia,706337,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Eastern Europe,Europe,1384707,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,201782,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Northern Africa,Africa,10151,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Northern America,Americas,31402,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Northern Europe,Europe,5828,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,South-eastern Asia,Asia,57968,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Southern Europe,Europe,425540,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Western Asia,Asia,41629,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,Western Europe,Europe,167054,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2018,2018,Export,Azerbaijan,38,Chemical products n.e.c.,World,World,3473823,40.3936294,47.7872508,,

@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Israel,45,Cork and articles of cork,Eastern Asia,Asia,36000
-1996,1996,Import,Israel,45,Cork and articles of cork,Northern America,Americas,44000
-1996,1996,Import,Israel,45,Cork and articles of cork,Southern Europe,Europe,2452000
-1996,1996,Import,Israel,45,Cork and articles of cork,Western Europe,Europe,173000
-1996,1996,Import,Israel,45,Cork and articles of cork,World,World,2896000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Israel,45,Cork and articles of cork,Eastern Asia,Asia,36000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1996,1996,Import,Israel,45,Cork and articles of cork,Northern America,Americas,44000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1996,1996,Import,Israel,45,Cork and articles of cork,Southern Europe,Europe,2452000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1996,1996,Import,Israel,45,Cork and articles of cork,Western Europe,Europe,173000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1996,1996,Import,Israel,45,Cork and articles of cork,World,World,2896000,30.8124247,34.8594762,,

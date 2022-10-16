@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Australia and New Zealand,Oceania,7312
-2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Eastern Asia,Asia,110146047
-2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Eastern Europe,Europe,12171
-2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Latin America and the Caribbean,Americas,1303
-2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Northern Africa,Africa,86546
-2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Northern America,Americas,860188
-2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Northern Europe,Europe,232455
-2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,South-eastern Asia,Asia,3187309
-2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Southern Europe,Europe,753962
-2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Sub-Saharan Africa,Africa,3008
-2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Western Asia,Asia,2887203
-2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Western Europe,Europe,71785
-2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,World,World,224546921
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Australia and New Zealand,Oceania,7312,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Eastern Asia,Asia,110146047,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Eastern Europe,Europe,12171,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Latin America and the Caribbean,Americas,1303,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Northern Africa,Africa,86546,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Northern America,Americas,860188,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Northern Europe,Europe,232455,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,South-eastern Asia,Asia,3187309,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Southern Europe,Europe,753962,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Sub-Saharan Africa,Africa,3008,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Western Asia,Asia,2887203,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,Western Europe,Europe,71785,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2003,2003,Import,Jordan,60,Knitted or crocheted fabrics,World,World,224546921,31.1667049,36.941628,,

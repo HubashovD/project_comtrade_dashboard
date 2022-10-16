@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Australia and New Zealand,Oceania,3234
-2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Central Asia,Asia,984336
-2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Eastern Asia,Asia,318479
-2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Eastern Europe,Europe,14526814
-2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Latin America and the Caribbean,Americas,2147
-2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Northern America,Americas,169414
-2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Northern Europe,Europe,880051
-2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Southern Asia,Asia,1119610
-2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Southern Europe,Europe,54067
-2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Sub-Saharan Africa,Africa,327
-2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Western Asia,Asia,619360
-2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Western Europe,Europe,1139042
-2005,2005,Import,Azerbaijan,28,Inorganic chemicals,World,World,22767305
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Australia and New Zealand,Oceania,3234,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Central Asia,Asia,984336,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Eastern Asia,Asia,318479,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Eastern Europe,Europe,14526814,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Latin America and the Caribbean,Americas,2147,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Northern America,Americas,169414,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Northern Europe,Europe,880051,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Southern Asia,Asia,1119610,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Southern Europe,Europe,54067,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Sub-Saharan Africa,Africa,327,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Western Asia,Asia,619360,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2005,2005,Import,Azerbaijan,28,Inorganic chemicals,Western Europe,Europe,1139042,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2005,2005,Import,Azerbaijan,28,Inorganic chemicals,World,World,22767305,40.3936294,47.7872508,,

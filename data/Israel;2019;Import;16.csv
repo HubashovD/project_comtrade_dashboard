@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Australia and New Zealand,Oceania,215000
-2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Eastern Asia,Asia,25074000
-2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Eastern Europe,Europe,816000
-2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Latin America and the Caribbean,Americas,609000
-2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Northern Africa,Africa,59000
-2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Northern America,Americas,10912000
-2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Northern Europe,Europe,3442000
-2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",South-eastern Asia,Asia,78576000
-2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Southern Europe,Europe,9033000
-2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Sub-Saharan Africa,Africa,1000
-2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Western Asia,Asia,3577000
-2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Western Europe,Europe,608000
-2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",World,World,139042000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Australia and New Zealand,Oceania,215000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Eastern Asia,Asia,25074000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Eastern Europe,Europe,816000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Latin America and the Caribbean,Americas,609000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Northern Africa,Africa,59000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Northern America,Americas,10912000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Northern Europe,Europe,3442000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",South-eastern Asia,Asia,78576000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Southern Europe,Europe,9033000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Sub-Saharan Africa,Africa,1000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Western Asia,Asia,3577000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",Western Europe,Europe,608000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2019,2019,Import,Israel,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",World,World,139042000,30.8124247,34.8594762,,

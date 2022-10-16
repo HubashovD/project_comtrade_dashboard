@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Kuwait,5,"Products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,36977
-2010,2010,Import,Kuwait,5,"Products of animal origin, not elsewhere specified or included",Northern America,Americas,10604
-2010,2010,Import,Kuwait,5,"Products of animal origin, not elsewhere specified or included",Northern Europe,Europe,189
-2010,2010,Import,Kuwait,5,"Products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,3408
-2010,2010,Import,Kuwait,5,"Products of animal origin, not elsewhere specified or included",World,World,69957
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Kuwait,5,"Products of animal origin, not elsewhere specified or included",Eastern Asia,Asia,36977,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2010,2010,Import,Kuwait,5,"Products of animal origin, not elsewhere specified or included",Northern America,Americas,10604,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2010,2010,Import,Kuwait,5,"Products of animal origin, not elsewhere specified or included",Northern Europe,Europe,189,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2010,2010,Import,Kuwait,5,"Products of animal origin, not elsewhere specified or included",South-eastern Asia,Asia,3408,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2010,2010,Import,Kuwait,5,"Products of animal origin, not elsewhere specified or included",World,World,69957,29.2733964,47.4979476,,

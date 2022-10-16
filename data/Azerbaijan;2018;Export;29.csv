@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Azerbaijan,29,Organic chemicals,Australia and New Zealand,Oceania,16423
-2018,2018,Export,Azerbaijan,29,Organic chemicals,Central Asia,Asia,211299
-2018,2018,Export,Azerbaijan,29,Organic chemicals,Eastern Europe,Europe,15279266
-2018,2018,Export,Azerbaijan,29,Organic chemicals,Southern Europe,Europe,8536073
-2018,2018,Export,Azerbaijan,29,Organic chemicals,Western Asia,Asia,29693569
-2018,2018,Export,Azerbaijan,29,Organic chemicals,Western Europe,Europe,9541246
-2018,2018,Export,Azerbaijan,29,Organic chemicals,World,World,64588612
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Azerbaijan,29,Organic chemicals,Australia and New Zealand,Oceania,16423,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2018,2018,Export,Azerbaijan,29,Organic chemicals,Central Asia,Asia,211299,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2018,2018,Export,Azerbaijan,29,Organic chemicals,Eastern Europe,Europe,15279266,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2018,2018,Export,Azerbaijan,29,Organic chemicals,Southern Europe,Europe,8536073,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2018,2018,Export,Azerbaijan,29,Organic chemicals,Western Asia,Asia,29693569,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2018,2018,Export,Azerbaijan,29,Organic chemicals,Western Europe,Europe,9541246,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2018,2018,Export,Azerbaijan,29,Organic chemicals,World,World,64588612,40.3936294,47.7872508,,

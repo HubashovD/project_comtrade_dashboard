@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Australia and New Zealand,Oceania,569
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Central Asia,Asia,192
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Asia,Asia,2173954
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Europe,Europe,610407
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Latin America and the Caribbean,Americas,169
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Northern Africa,Africa,2857
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Northern America,Americas,105532
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Northern Europe,Europe,26437
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,South-eastern Asia,Asia,84922
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Southern Asia,Asia,79215
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Southern Europe,Europe,177896
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Sub-Saharan Africa,Africa,3513
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Western Asia,Asia,707897
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Western Europe,Europe,127009
-2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,World,World,4220165
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Australia and New Zealand,Oceania,569,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Central Asia,Asia,192,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Asia,Asia,2173954,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Eastern Europe,Europe,610407,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Latin America and the Caribbean,Americas,169,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Northern Africa,Africa,2857,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Northern America,Americas,105532,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Northern Europe,Europe,26437,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,South-eastern Asia,Asia,84922,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Southern Asia,Asia,79215,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Southern Europe,Europe,177896,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Sub-Saharan Africa,Africa,3513,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Western Asia,Asia,707897,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,Western Europe,Europe,127009,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2019,2019,Import,Azerbaijan,65,Headgear and parts thereof,World,World,4220165,40.3936294,47.7872508,,

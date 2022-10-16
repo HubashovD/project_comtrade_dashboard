@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Australia and New Zealand,Oceania,34204
-1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,66998
-1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,17205
-1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,94773
-1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,4988
-1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,329934
-1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,845920
-1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",World,World,9093260
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Australia and New Zealand,Oceania,34204,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Eastern Europe,Europe,66998,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Northern America,Americas,17205,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Northern Europe,Europe,94773,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Southern Europe,Europe,4988,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Western Asia,Asia,329934,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",Western Europe,Europe,845920,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Export,Jordan,4,"Dairy products, eggs, honey, edible animal product nes",World,World,9093260,31.1667049,36.941628,,

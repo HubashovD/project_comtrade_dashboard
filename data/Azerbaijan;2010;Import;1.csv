@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Azerbaijan,1,Live animals; animal products,Eastern Europe,Europe,308932
-2010,2010,Import,Azerbaijan,1,Live animals; animal products,Northern America,Americas,39945
-2010,2010,Import,Azerbaijan,1,Live animals; animal products,Northern Europe,Europe,76083
-2010,2010,Import,Azerbaijan,1,Live animals; animal products,Southern Asia,Asia,173146
-2010,2010,Import,Azerbaijan,1,Live animals; animal products,Southern Europe,Europe,76650
-2010,2010,Import,Azerbaijan,1,Live animals; animal products,Western Asia,Asia,280712
-2010,2010,Import,Azerbaijan,1,Live animals; animal products,Western Europe,Europe,3146811
-2010,2010,Import,Azerbaijan,1,Live animals; animal products,World,World,4119667
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Azerbaijan,1,Live animals; animal products,Eastern Europe,Europe,308932,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2010,2010,Import,Azerbaijan,1,Live animals; animal products,Northern America,Americas,39945,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2010,2010,Import,Azerbaijan,1,Live animals; animal products,Northern Europe,Europe,76083,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2010,2010,Import,Azerbaijan,1,Live animals; animal products,Southern Asia,Asia,173146,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2010,2010,Import,Azerbaijan,1,Live animals; animal products,Southern Europe,Europe,76650,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2010,2010,Import,Azerbaijan,1,Live animals; animal products,Western Asia,Asia,280712,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2010,2010,Import,Azerbaijan,1,Live animals; animal products,Western Europe,Europe,3146811,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2010,2010,Import,Azerbaijan,1,Live animals; animal products,World,World,4119667,40.3936294,47.7872508,,

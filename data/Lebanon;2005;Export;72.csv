@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2005,2005,Export,Lebanon,72,Iron and steel,Eastern Asia,Asia,310000
-2005,2005,Export,Lebanon,72,Iron and steel,Northern Africa,Africa,2995000
-2005,2005,Export,Lebanon,72,Iron and steel,Northern Europe,Europe,1030000
-2005,2005,Export,Lebanon,72,Iron and steel,Southern Asia,Asia,5368000
-2005,2005,Export,Lebanon,72,Iron and steel,Southern Europe,Europe,8575000
-2005,2005,Export,Lebanon,72,Iron and steel,Sub-Saharan Africa,Africa,2144000
-2005,2005,Export,Lebanon,72,Iron and steel,Western Asia,Asia,78284000
-2005,2005,Export,Lebanon,72,Iron and steel,Western Europe,Europe,1956000
-2005,2005,Export,Lebanon,72,Iron and steel,World,World,109213000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2005,2005,Export,Lebanon,72,Iron and steel,Eastern Asia,Asia,310000,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2005,2005,Export,Lebanon,72,Iron and steel,Northern Africa,Africa,2995000,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2005,2005,Export,Lebanon,72,Iron and steel,Northern Europe,Europe,1030000,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2005,2005,Export,Lebanon,72,Iron and steel,Southern Asia,Asia,5368000,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2005,2005,Export,Lebanon,72,Iron and steel,Southern Europe,Europe,8575000,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2005,2005,Export,Lebanon,72,Iron and steel,Sub-Saharan Africa,Africa,2144000,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2005,2005,Export,Lebanon,72,Iron and steel,Western Asia,Asia,78284000,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2005,2005,Export,Lebanon,72,Iron and steel,Western Europe,Europe,1956000,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2005,2005,Export,Lebanon,72,Iron and steel,World,World,109213000,33.8750629,35.843409,,

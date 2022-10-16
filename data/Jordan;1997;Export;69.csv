@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Jordan,69,Ceramic products,Australia and New Zealand,Oceania,8478
-1997,1997,Export,Jordan,69,Ceramic products,Northern America,Americas,25387
-1997,1997,Export,Jordan,69,Ceramic products,Northern Europe,Europe,7119
-1997,1997,Export,Jordan,69,Ceramic products,Western Asia,Asia,3526
-1997,1997,Export,Jordan,69,Ceramic products,Western Europe,Europe,187164
-1997,1997,Export,Jordan,69,Ceramic products,World,World,1553992
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Jordan,69,Ceramic products,Australia and New Zealand,Oceania,8478,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1997,1997,Export,Jordan,69,Ceramic products,Northern America,Americas,25387,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1997,1997,Export,Jordan,69,Ceramic products,Northern Europe,Europe,7119,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1997,1997,Export,Jordan,69,Ceramic products,Western Asia,Asia,3526,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1997,1997,Export,Jordan,69,Ceramic products,Western Europe,Europe,187164,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1997,1997,Export,Jordan,69,Ceramic products,World,World,1553992,31.1667049,36.941628,,

@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Azerbaijan,72,Iron and steel,Central Asia,Asia,8396044
-2010,2010,Import,Azerbaijan,72,Iron and steel,Eastern Asia,Asia,7249934
-2010,2010,Import,Azerbaijan,72,Iron and steel,Eastern Europe,Europe,140311936
-2010,2010,Import,Azerbaijan,72,Iron and steel,Latin America and the Caribbean,Americas,2005
-2010,2010,Import,Azerbaijan,72,Iron and steel,Northern Africa,Africa,32804
-2010,2010,Import,Azerbaijan,72,Iron and steel,Northern America,Americas,82060
-2010,2010,Import,Azerbaijan,72,Iron and steel,Northern Europe,Europe,2764887
-2010,2010,Import,Azerbaijan,72,Iron and steel,South-eastern Asia,Asia,165504
-2010,2010,Import,Azerbaijan,72,Iron and steel,Southern Asia,Asia,710789
-2010,2010,Import,Azerbaijan,72,Iron and steel,Southern Europe,Europe,428679
-2010,2010,Import,Azerbaijan,72,Iron and steel,Western Asia,Asia,19704481
-2010,2010,Import,Azerbaijan,72,Iron and steel,Western Europe,Europe,28828039
-2010,2010,Import,Azerbaijan,72,Iron and steel,World,World,226996235
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Azerbaijan,72,Iron and steel,Central Asia,Asia,8396044,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2010,2010,Import,Azerbaijan,72,Iron and steel,Eastern Asia,Asia,7249934,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2010,2010,Import,Azerbaijan,72,Iron and steel,Eastern Europe,Europe,140311936,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2010,2010,Import,Azerbaijan,72,Iron and steel,Latin America and the Caribbean,Americas,2005,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2010,2010,Import,Azerbaijan,72,Iron and steel,Northern Africa,Africa,32804,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2010,2010,Import,Azerbaijan,72,Iron and steel,Northern America,Americas,82060,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2010,2010,Import,Azerbaijan,72,Iron and steel,Northern Europe,Europe,2764887,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2010,2010,Import,Azerbaijan,72,Iron and steel,South-eastern Asia,Asia,165504,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2010,2010,Import,Azerbaijan,72,Iron and steel,Southern Asia,Asia,710789,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2010,2010,Import,Azerbaijan,72,Iron and steel,Southern Europe,Europe,428679,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2010,2010,Import,Azerbaijan,72,Iron and steel,Western Asia,Asia,19704481,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2010,2010,Import,Azerbaijan,72,Iron and steel,Western Europe,Europe,28828039,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2010,2010,Import,Azerbaijan,72,Iron and steel,World,World,226996235,40.3936294,47.7872508,,

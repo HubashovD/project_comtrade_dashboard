@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Israel,79,Zinc and articles thereof,Eastern Asia,Asia,32000
-1995,1995,Export,Israel,79,Zinc and articles thereof,Eastern Europe,Europe,266000
-1995,1995,Export,Israel,79,Zinc and articles thereof,Northern America,Americas,1307000
-1995,1995,Export,Israel,79,Zinc and articles thereof,Northern Europe,Europe,1063000
-1995,1995,Export,Israel,79,Zinc and articles thereof,Southern Europe,Europe,1809000
-1995,1995,Export,Israel,79,Zinc and articles thereof,Western Europe,Europe,17612000
-1995,1995,Export,Israel,79,Zinc and articles thereof,World,World,22778000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Israel,79,Zinc and articles thereof,Eastern Asia,Asia,32000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1995,1995,Export,Israel,79,Zinc and articles thereof,Eastern Europe,Europe,266000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1995,1995,Export,Israel,79,Zinc and articles thereof,Northern America,Americas,1307000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1995,1995,Export,Israel,79,Zinc and articles thereof,Northern Europe,Europe,1063000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1995,1995,Export,Israel,79,Zinc and articles thereof,Southern Europe,Europe,1809000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1995,1995,Export,Israel,79,Zinc and articles thereof,Western Europe,Europe,17612000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Export,Israel,79,Zinc and articles thereof,World,World,22778000,30.8124247,34.8594762,,

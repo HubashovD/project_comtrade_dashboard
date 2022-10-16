@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Export,Jordan,72,Iron and steel,Eastern Asia,Asia,3666
-2008,2008,Export,Jordan,72,Iron and steel,Northern Africa,Africa,3563857
-2008,2008,Export,Jordan,72,Iron and steel,Northern America,Americas,136476
-2008,2008,Export,Jordan,72,Iron and steel,Northern Europe,Europe,31196
-2008,2008,Export,Jordan,72,Iron and steel,Southern Asia,Asia,283027
-2008,2008,Export,Jordan,72,Iron and steel,Southern Europe,Europe,1242
-2008,2008,Export,Jordan,72,Iron and steel,Sub-Saharan Africa,Africa,61252
-2008,2008,Export,Jordan,72,Iron and steel,Western Asia,Asia,1555631
-2008,2008,Export,Jordan,72,Iron and steel,Western Europe,Europe,1186565
-2008,2008,Export,Jordan,72,Iron and steel,World,World,84531660
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Export,Jordan,72,Iron and steel,Eastern Asia,Asia,3666,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2008,2008,Export,Jordan,72,Iron and steel,Northern Africa,Africa,3563857,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2008,2008,Export,Jordan,72,Iron and steel,Northern America,Americas,136476,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2008,2008,Export,Jordan,72,Iron and steel,Northern Europe,Europe,31196,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2008,2008,Export,Jordan,72,Iron and steel,Southern Asia,Asia,283027,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2008,2008,Export,Jordan,72,Iron and steel,Southern Europe,Europe,1242,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2008,2008,Export,Jordan,72,Iron and steel,Sub-Saharan Africa,Africa,61252,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2008,2008,Export,Jordan,72,Iron and steel,Western Asia,Asia,1555631,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2008,2008,Export,Jordan,72,Iron and steel,Western Europe,Europe,1186565,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2008,2008,Export,Jordan,72,Iron and steel,World,World,84531660,31.1667049,36.941628,,

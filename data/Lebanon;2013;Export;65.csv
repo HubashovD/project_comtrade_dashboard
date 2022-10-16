@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Export,Lebanon,65,Headgear and parts thereof,Northern Africa,Africa,210
-2013,2013,Export,Lebanon,65,Headgear and parts thereof,Northern America,Americas,746
-2013,2013,Export,Lebanon,65,Headgear and parts thereof,Northern Europe,Europe,431
-2013,2013,Export,Lebanon,65,Headgear and parts thereof,Southern Asia,Asia,401
-2013,2013,Export,Lebanon,65,Headgear and parts thereof,Southern Europe,Europe,221
-2013,2013,Export,Lebanon,65,Headgear and parts thereof,Sub-Saharan Africa,Africa,85719
-2013,2013,Export,Lebanon,65,Headgear and parts thereof,Western Asia,Asia,57225
-2013,2013,Export,Lebanon,65,Headgear and parts thereof,Western Europe,Europe,7375
-2013,2013,Export,Lebanon,65,Headgear and parts thereof,World,World,271908
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Export,Lebanon,65,Headgear and parts thereof,Northern Africa,Africa,210,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2013,2013,Export,Lebanon,65,Headgear and parts thereof,Northern America,Americas,746,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2013,2013,Export,Lebanon,65,Headgear and parts thereof,Northern Europe,Europe,431,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2013,2013,Export,Lebanon,65,Headgear and parts thereof,Southern Asia,Asia,401,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2013,2013,Export,Lebanon,65,Headgear and parts thereof,Southern Europe,Europe,221,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2013,2013,Export,Lebanon,65,Headgear and parts thereof,Sub-Saharan Africa,Africa,85719,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2013,2013,Export,Lebanon,65,Headgear and parts thereof,Western Asia,Asia,57225,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2013,2013,Export,Lebanon,65,Headgear and parts thereof,Western Europe,Europe,7375,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2013,2013,Export,Lebanon,65,Headgear and parts thereof,World,World,271908,33.8750629,35.843409,,

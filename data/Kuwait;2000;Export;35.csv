@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Kuwait,35,"Albuminoids, modified starches, glues, enzymes",South-eastern Asia,Asia,23
-2000,2000,Export,Kuwait,35,"Albuminoids, modified starches, glues, enzymes",Southern Asia,Asia,13657
-2000,2000,Export,Kuwait,35,"Albuminoids, modified starches, glues, enzymes",World,World,45034
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Kuwait,35,"Albuminoids, modified starches, glues, enzymes",South-eastern Asia,Asia,23,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2000,2000,Export,Kuwait,35,"Albuminoids, modified starches, glues, enzymes",Southern Asia,Asia,13657,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Export,Kuwait,35,"Albuminoids, modified starches, glues, enzymes",World,World,45034,29.2733964,47.4979476,,

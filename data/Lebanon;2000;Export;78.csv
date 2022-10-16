@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Lebanon,78,Lead and articles thereof,Northern Africa,Africa,43767
-2000,2000,Export,Lebanon,78,Lead and articles thereof,Southern Asia,Asia,39521
-2000,2000,Export,Lebanon,78,Lead and articles thereof,Southern Europe,Europe,318
-2000,2000,Export,Lebanon,78,Lead and articles thereof,Sub-Saharan Africa,Africa,50
-2000,2000,Export,Lebanon,78,Lead and articles thereof,Western Asia,Asia,5637
-2000,2000,Export,Lebanon,78,Lead and articles thereof,World,World,1050506
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Lebanon,78,Lead and articles thereof,Northern Africa,Africa,43767,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2000,2000,Export,Lebanon,78,Lead and articles thereof,Southern Asia,Asia,39521,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2000,2000,Export,Lebanon,78,Lead and articles thereof,Southern Europe,Europe,318,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Export,Lebanon,78,Lead and articles thereof,Sub-Saharan Africa,Africa,50,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Export,Lebanon,78,Lead and articles thereof,Western Asia,Asia,5637,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Export,Lebanon,78,Lead and articles thereof,World,World,1050506,33.8750629,35.843409,,

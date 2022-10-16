@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Kuwait,79,Zinc and articles thereof,Eastern Asia,Asia,4824
-2000,2000,Export,Kuwait,79,Zinc and articles thereof,Northern Europe,Europe,326
-2000,2000,Export,Kuwait,79,Zinc and articles thereof,Southern Asia,Asia,1222
-2000,2000,Export,Kuwait,79,Zinc and articles thereof,Western Asia,Asia,4511
-2000,2000,Export,Kuwait,79,Zinc and articles thereof,World,World,58720
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Kuwait,79,Zinc and articles thereof,Eastern Asia,Asia,4824,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2000,2000,Export,Kuwait,79,Zinc and articles thereof,Northern Europe,Europe,326,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Export,Kuwait,79,Zinc and articles thereof,Southern Asia,Asia,1222,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Export,Kuwait,79,Zinc and articles thereof,Western Asia,Asia,4511,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2000,2000,Export,Kuwait,79,Zinc and articles thereof,World,World,58720,29.2733964,47.4979476,,

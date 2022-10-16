@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Central Asia,Asia,8000
-1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Eastern Europe,Europe,371585
-1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Northern America,Americas,42639
-1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Northern Europe,Europe,3360
-1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Asia,Asia,1310819
-1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Europe,Europe,50178
-1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Western Asia,Asia,1505859
-1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Western Europe,Europe,370442
-1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",World,World,4881704
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Central Asia,Asia,8000,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Eastern Europe,Europe,371585,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Northern America,Americas,42639,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Northern Europe,Europe,3360,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Asia,Asia,1310819,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Europe,Europe,50178,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Western Asia,Asia,1505859,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",Western Europe,Europe,370442,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1998,1998,Import,Azerbaijan,15,"Animal,vegetable fats and oils, cleavage products, et",World,World,4881704,40.3936294,47.7872508,,

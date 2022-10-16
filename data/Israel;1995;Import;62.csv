@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",Eastern Asia,Asia,2001000
-1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",Eastern Europe,Europe,53000
-1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",Northern America,Americas,16163000
-1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",Northern Europe,Europe,22261000
-1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",South-eastern Asia,Asia,83000
-1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",Southern Europe,Europe,54341000
-1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",Western Asia,Asia,77000
-1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",Western Europe,Europe,61337000
-1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",World,World,164320992
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",Eastern Asia,Asia,2001000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",Eastern Europe,Europe,53000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",Northern America,Americas,16163000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",Northern Europe,Europe,22261000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",South-eastern Asia,Asia,83000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",Southern Europe,Europe,54341000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",Western Asia,Asia,77000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",Western Europe,Europe,61337000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Import,Israel,62,"Articles of apparel, accessories, not knit or crochet",World,World,164320992,30.8124247,34.8594762,,

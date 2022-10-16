@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Kuwait,26,"Ores, slag and ash",Eastern Asia,Asia,7002593
-2015,2015,Import,Kuwait,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,374777
-2015,2015,Import,Kuwait,26,"Ores, slag and ash",Northern America,Americas,27509
-2015,2015,Import,Kuwait,26,"Ores, slag and ash",Northern Europe,Europe,129192
-2015,2015,Import,Kuwait,26,"Ores, slag and ash",South-eastern Asia,Asia,3758
-2015,2015,Import,Kuwait,26,"Ores, slag and ash",Southern Europe,Europe,4984
-2015,2015,Import,Kuwait,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,51954
-2015,2015,Import,Kuwait,26,"Ores, slag and ash",Western Europe,Europe,181150
-2015,2015,Import,Kuwait,26,"Ores, slag and ash",World,World,22970546
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Kuwait,26,"Ores, slag and ash",Eastern Asia,Asia,7002593,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2015,2015,Import,Kuwait,26,"Ores, slag and ash",Latin America and the Caribbean,Americas,374777,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2015,2015,Import,Kuwait,26,"Ores, slag and ash",Northern America,Americas,27509,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2015,2015,Import,Kuwait,26,"Ores, slag and ash",Northern Europe,Europe,129192,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2015,2015,Import,Kuwait,26,"Ores, slag and ash",South-eastern Asia,Asia,3758,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2015,2015,Import,Kuwait,26,"Ores, slag and ash",Southern Europe,Europe,4984,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2015,2015,Import,Kuwait,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,51954,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2015,2015,Import,Kuwait,26,"Ores, slag and ash",Western Europe,Europe,181150,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2015,2015,Import,Kuwait,26,"Ores, slag and ash",World,World,22970546,29.2733964,47.4979476,,

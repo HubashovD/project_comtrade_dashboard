@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Export,Israel,29,Organic chemicals,Australia and New Zealand,Oceania,4424000
-2015,2015,Export,Israel,29,Organic chemicals,Central Asia,Asia,126000
-2015,2015,Export,Israel,29,Organic chemicals,Eastern Asia,Asia,101896000
-2015,2015,Export,Israel,29,Organic chemicals,Eastern Europe,Europe,59479000
-2015,2015,Export,Israel,29,Organic chemicals,Latin America and the Caribbean,Americas,76834000
-2015,2015,Export,Israel,29,Organic chemicals,Melanesia,Oceania,3000
-2015,2015,Export,Israel,29,Organic chemicals,Northern Africa,Africa,216000
-2015,2015,Export,Israel,29,Organic chemicals,Northern America,Americas,267166000
-2015,2015,Export,Israel,29,Organic chemicals,Northern Europe,Europe,45439000
-2015,2015,Export,Israel,29,Organic chemicals,South-eastern Asia,Asia,20966000
-2015,2015,Export,Israel,29,Organic chemicals,Southern Europe,Europe,213824000
-2015,2015,Export,Israel,29,Organic chemicals,Sub-Saharan Africa,Africa,5004000
-2015,2015,Export,Israel,29,Organic chemicals,Western Asia,Asia,79641000
-2015,2015,Export,Israel,29,Organic chemicals,Western Europe,Europe,167555000
-2015,2015,Export,Israel,29,Organic chemicals,World,World,1137030000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Export,Israel,29,Organic chemicals,Australia and New Zealand,Oceania,4424000,30.8124247,34.8594762,-16.85099460447687,133.4130365630627
+2015,2015,Export,Israel,29,Organic chemicals,Central Asia,Asia,126000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+2015,2015,Export,Israel,29,Organic chemicals,Eastern Asia,Asia,101896000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2015,2015,Export,Israel,29,Organic chemicals,Eastern Europe,Europe,59479000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2015,2015,Export,Israel,29,Organic chemicals,Latin America and the Caribbean,Americas,76834000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2015,2015,Export,Israel,29,Organic chemicals,Melanesia,Oceania,3000,30.8124247,34.8594762,1.0108650891006263,147.3257485906919
+2015,2015,Export,Israel,29,Organic chemicals,Northern Africa,Africa,216000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2015,2015,Export,Israel,29,Organic chemicals,Northern America,Americas,267166000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2015,2015,Export,Israel,29,Organic chemicals,Northern Europe,Europe,45439000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2015,2015,Export,Israel,29,Organic chemicals,South-eastern Asia,Asia,20966000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2015,2015,Export,Israel,29,Organic chemicals,Southern Europe,Europe,213824000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2015,2015,Export,Israel,29,Organic chemicals,Sub-Saharan Africa,Africa,5004000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2015,2015,Export,Israel,29,Organic chemicals,Western Asia,Asia,79641000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2015,2015,Export,Israel,29,Organic chemicals,Western Europe,Europe,167555000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2015,2015,Export,Israel,29,Organic chemicals,World,World,1137030000,30.8124247,34.8594762,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Export,Israel,10,Cereals,Central Asia,Asia,30000
-1997,1997,Export,Israel,10,Cereals,Eastern Europe,Europe,46000
-1997,1997,Export,Israel,10,Cereals,Northern America,Americas,5000
-1997,1997,Export,Israel,10,Cereals,Southern Europe,Europe,7000
-1997,1997,Export,Israel,10,Cereals,Western Asia,Asia,9000
-1997,1997,Export,Israel,10,Cereals,Western Europe,Europe,20000
-1997,1997,Export,Israel,10,Cereals,World,World,156000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Export,Israel,10,Cereals,Central Asia,Asia,30000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+1997,1997,Export,Israel,10,Cereals,Eastern Europe,Europe,46000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1997,1997,Export,Israel,10,Cereals,Northern America,Americas,5000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1997,1997,Export,Israel,10,Cereals,Southern Europe,Europe,7000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1997,1997,Export,Israel,10,Cereals,Western Asia,Asia,9000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1997,1997,Export,Israel,10,Cereals,Western Europe,Europe,20000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1997,1997,Export,Israel,10,Cereals,World,World,156000,30.8124247,34.8594762,,

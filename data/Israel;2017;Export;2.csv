@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Israel,2,Meat and edible meat offal,Eastern Asia,Asia,9000
-2017,2017,Export,Israel,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,135000
-2017,2017,Export,Israel,2,Meat and edible meat offal,Western Europe,Europe,64000
-2017,2017,Export,Israel,2,Meat and edible meat offal,World,World,208000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Israel,2,Meat and edible meat offal,Eastern Asia,Asia,9000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2017,2017,Export,Israel,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,135000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2017,2017,Export,Israel,2,Meat and edible meat offal,Western Europe,Europe,64000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2017,2017,Export,Israel,2,Meat and edible meat offal,World,World,208000,30.8124247,34.8594762,,

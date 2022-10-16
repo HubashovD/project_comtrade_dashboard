@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2013,2013,Export,Kuwait,2,Meat and edible meat offal,Australia and New Zealand,Oceania,60450
-2013,2013,Export,Kuwait,2,Meat and edible meat offal,Eastern Asia,Asia,17637
-2013,2013,Export,Kuwait,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,2622396
-2013,2013,Export,Kuwait,2,Meat and edible meat offal,Northern Africa,Africa,8875
-2013,2013,Export,Kuwait,2,Meat and edible meat offal,Northern America,Americas,577588
-2013,2013,Export,Kuwait,2,Meat and edible meat offal,South-eastern Asia,Asia,11027
-2013,2013,Export,Kuwait,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,432462
-2013,2013,Export,Kuwait,2,Meat and edible meat offal,Western Asia,Asia,68333
-2013,2013,Export,Kuwait,2,Meat and edible meat offal,Western Europe,Europe,210062
-2013,2013,Export,Kuwait,2,Meat and edible meat offal,World,World,16402024
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2013,2013,Export,Kuwait,2,Meat and edible meat offal,Australia and New Zealand,Oceania,60450,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2013,2013,Export,Kuwait,2,Meat and edible meat offal,Eastern Asia,Asia,17637,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2013,2013,Export,Kuwait,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,2622396,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2013,2013,Export,Kuwait,2,Meat and edible meat offal,Northern Africa,Africa,8875,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2013,2013,Export,Kuwait,2,Meat and edible meat offal,Northern America,Americas,577588,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2013,2013,Export,Kuwait,2,Meat and edible meat offal,South-eastern Asia,Asia,11027,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2013,2013,Export,Kuwait,2,Meat and edible meat offal,Sub-Saharan Africa,Africa,432462,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2013,2013,Export,Kuwait,2,Meat and edible meat offal,Western Asia,Asia,68333,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2013,2013,Export,Kuwait,2,Meat and edible meat offal,Western Europe,Europe,210062,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2013,2013,Export,Kuwait,2,Meat and edible meat offal,World,World,16402024,29.2733964,47.4979476,,

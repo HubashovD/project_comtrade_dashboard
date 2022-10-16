@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2017,2017,Export,Israel,99,Commodities not specified according to kind,Northern America,Americas,15000
-2017,2017,Export,Israel,99,Commodities not specified according to kind,Western Europe,Europe,4000
-2017,2017,Export,Israel,99,Commodities not specified according to kind,World,World,30000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2017,2017,Export,Israel,99,Commodities not specified according to kind,Northern America,Americas,15000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2017,2017,Export,Israel,99,Commodities not specified according to kind,Western Europe,Europe,4000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2017,2017,Export,Israel,99,Commodities not specified according to kind,World,World,30000,30.8124247,34.8594762,,

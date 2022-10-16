@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Central Asia,Asia,500
-2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,335
-2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,500
-2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,65
-2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,390
-2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,2966
-2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Sub-Saharan Africa,Africa,150
-2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,468
-2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,14959
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Central Asia,Asia,500,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Eastern Europe,Europe,335,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern America,Americas,500,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Northern Europe,Europe,65,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",South-eastern Asia,Asia,390,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Southern Europe,Europe,2966,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Sub-Saharan Africa,Africa,150,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",Western Asia,Asia,468,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Export,Azerbaijan,33,"Essential oils, perfumes, cosmetics, toileteries",World,World,14959,40.3936294,47.7872508,,

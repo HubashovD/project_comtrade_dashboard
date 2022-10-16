@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Lebanon,40,Rubber and articles thereof,Eastern Asia,Asia,696
-2003,2003,Export,Lebanon,40,Rubber and articles thereof,Eastern Europe,Europe,35328
-2003,2003,Export,Lebanon,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,1147
-2003,2003,Export,Lebanon,40,Rubber and articles thereof,Northern Africa,Africa,365282
-2003,2003,Export,Lebanon,40,Rubber and articles thereof,Northern America,Americas,15486
-2003,2003,Export,Lebanon,40,Rubber and articles thereof,Northern Europe,Europe,6421
-2003,2003,Export,Lebanon,40,Rubber and articles thereof,Southern Asia,Asia,310
-2003,2003,Export,Lebanon,40,Rubber and articles thereof,Southern Europe,Europe,9108
-2003,2003,Export,Lebanon,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,580814
-2003,2003,Export,Lebanon,40,Rubber and articles thereof,Western Asia,Asia,30469
-2003,2003,Export,Lebanon,40,Rubber and articles thereof,Western Europe,Europe,18175
-2003,2003,Export,Lebanon,40,Rubber and articles thereof,World,World,2632571
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Lebanon,40,Rubber and articles thereof,Eastern Asia,Asia,696,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2003,2003,Export,Lebanon,40,Rubber and articles thereof,Eastern Europe,Europe,35328,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2003,2003,Export,Lebanon,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,1147,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2003,2003,Export,Lebanon,40,Rubber and articles thereof,Northern Africa,Africa,365282,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2003,2003,Export,Lebanon,40,Rubber and articles thereof,Northern America,Americas,15486,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2003,2003,Export,Lebanon,40,Rubber and articles thereof,Northern Europe,Europe,6421,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2003,2003,Export,Lebanon,40,Rubber and articles thereof,Southern Asia,Asia,310,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2003,2003,Export,Lebanon,40,Rubber and articles thereof,Southern Europe,Europe,9108,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2003,2003,Export,Lebanon,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,580814,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2003,2003,Export,Lebanon,40,Rubber and articles thereof,Western Asia,Asia,30469,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2003,2003,Export,Lebanon,40,Rubber and articles thereof,Western Europe,Europe,18175,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2003,2003,Export,Lebanon,40,Rubber and articles thereof,World,World,2632571,33.8750629,35.843409,,

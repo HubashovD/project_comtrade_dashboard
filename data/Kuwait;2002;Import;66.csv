@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Australia and New Zealand,Oceania,1359
-2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Asia,Asia,306134
-2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Europe,Europe,16370
-2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern Africa,Africa,646
-2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern America,Americas,27110
-2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern Europe,Europe,35831
-2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",South-eastern Asia,Asia,37352
-2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Asia,Asia,3948
-2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Europe,Europe,55319
-2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Sub-Saharan Africa,Africa,73381
-2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Asia,Asia,6894
-2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Europe,Europe,51428
-2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",World,World,822231
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Australia and New Zealand,Oceania,1359,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Asia,Asia,306134,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Eastern Europe,Europe,16370,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern Africa,Africa,646,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern America,Americas,27110,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Northern Europe,Europe,35831,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",South-eastern Asia,Asia,37352,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Asia,Asia,3948,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Southern Europe,Europe,55319,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Sub-Saharan Africa,Africa,73381,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Asia,Asia,6894,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",Western Europe,Europe,51428,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2002,2002,Import,Kuwait,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",World,World,822231,29.2733964,47.4979476,,

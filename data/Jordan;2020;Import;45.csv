@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Jordan,45,Cork and articles of cork,Eastern Asia,Asia,16164
-2020,2020,Import,Jordan,45,Cork and articles of cork,Eastern Europe,Europe,1401
-2020,2020,Import,Jordan,45,Cork and articles of cork,Southern Europe,Europe,114950
-2020,2020,Import,Jordan,45,Cork and articles of cork,Western Asia,Asia,9745
-2020,2020,Import,Jordan,45,Cork and articles of cork,Western Europe,Europe,52742
-2020,2020,Import,Jordan,45,Cork and articles of cork,World,World,195005
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Jordan,45,Cork and articles of cork,Eastern Asia,Asia,16164,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2020,2020,Import,Jordan,45,Cork and articles of cork,Eastern Europe,Europe,1401,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2020,2020,Import,Jordan,45,Cork and articles of cork,Southern Europe,Europe,114950,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2020,2020,Import,Jordan,45,Cork and articles of cork,Western Asia,Asia,9745,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2020,2020,Import,Jordan,45,Cork and articles of cork,Western Europe,Europe,52742,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2020,2020,Import,Jordan,45,Cork and articles of cork,World,World,195005,31.1667049,36.941628,,

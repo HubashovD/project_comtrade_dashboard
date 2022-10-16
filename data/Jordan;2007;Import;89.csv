@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Jordan,89,"Ships, boats and floating structures",Eastern Europe,Europe,633272
-2007,2007,Import,Jordan,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,12243
-2007,2007,Import,Jordan,89,"Ships, boats and floating structures",Northern Africa,Africa,711
-2007,2007,Import,Jordan,89,"Ships, boats and floating structures",Northern America,Americas,27130
-2007,2007,Import,Jordan,89,"Ships, boats and floating structures",Western Asia,Asia,15464
-2007,2007,Import,Jordan,89,"Ships, boats and floating structures",Western Europe,Europe,1595
-2007,2007,Import,Jordan,89,"Ships, boats and floating structures",World,World,695743
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Jordan,89,"Ships, boats and floating structures",Eastern Europe,Europe,633272,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2007,2007,Import,Jordan,89,"Ships, boats and floating structures",Latin America and the Caribbean,Americas,12243,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2007,2007,Import,Jordan,89,"Ships, boats and floating structures",Northern Africa,Africa,711,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2007,2007,Import,Jordan,89,"Ships, boats and floating structures",Northern America,Americas,27130,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2007,2007,Import,Jordan,89,"Ships, boats and floating structures",Western Asia,Asia,15464,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2007,2007,Import,Jordan,89,"Ships, boats and floating structures",Western Europe,Europe,1595,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2007,2007,Import,Jordan,89,"Ships, boats and floating structures",World,World,695743,31.1667049,36.941628,,

@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Central Asia,Asia,16000
-1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Eastern Asia,Asia,3200000
-1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Latin America and the Caribbean,Americas,5000
-1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Northern America,Americas,8000
-1995,1995,Export,Israel,89,"Ships, boats and other floating structures",South-eastern Asia,Asia,2599000
-1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Southern Asia,Asia,3437000
-1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Southern Europe,Europe,5002000
-1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Sub-Saharan Africa,Africa,2500000
-1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Western Europe,Europe,120000
-1995,1995,Export,Israel,89,"Ships, boats and other floating structures",World,World,20061000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Central Asia,Asia,16000,30.8124247,34.8594762,39.89317229901691,61.060280637304274
+1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Eastern Asia,Asia,3200000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Latin America and the Caribbean,Americas,5000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Northern America,Americas,8000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1995,1995,Export,Israel,89,"Ships, boats and other floating structures",South-eastern Asia,Asia,2599000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Southern Asia,Asia,3437000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Southern Europe,Europe,5002000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Sub-Saharan Africa,Africa,2500000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+1995,1995,Export,Israel,89,"Ships, boats and other floating structures",Western Europe,Europe,120000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Export,Israel,89,"Ships, boats and other floating structures",World,World,20061000,30.8124247,34.8594762,,

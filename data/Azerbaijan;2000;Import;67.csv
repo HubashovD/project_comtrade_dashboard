@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Azerbaijan,67,"Bird skin, feathers, artificial flowers, human hair",Eastern Asia,Asia,164385
-2000,2000,Import,Azerbaijan,67,"Bird skin, feathers, artificial flowers, human hair",Northern Europe,Europe,94
-2000,2000,Import,Azerbaijan,67,"Bird skin, feathers, artificial flowers, human hair",South-eastern Asia,Asia,138
-2000,2000,Import,Azerbaijan,67,"Bird skin, feathers, artificial flowers, human hair",Western Asia,Asia,502
-2000,2000,Import,Azerbaijan,67,"Bird skin, feathers, artificial flowers, human hair",Western Europe,Europe,179
-2000,2000,Import,Azerbaijan,67,"Bird skin, feathers, artificial flowers, human hair",World,World,165936
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Azerbaijan,67,"Bird skin, feathers, artificial flowers, human hair",Eastern Asia,Asia,164385,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2000,2000,Import,Azerbaijan,67,"Bird skin, feathers, artificial flowers, human hair",Northern Europe,Europe,94,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2000,2000,Import,Azerbaijan,67,"Bird skin, feathers, artificial flowers, human hair",South-eastern Asia,Asia,138,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2000,2000,Import,Azerbaijan,67,"Bird skin, feathers, artificial flowers, human hair",Western Asia,Asia,502,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2000,2000,Import,Azerbaijan,67,"Bird skin, feathers, artificial flowers, human hair",Western Europe,Europe,179,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2000,2000,Import,Azerbaijan,67,"Bird skin, feathers, artificial flowers, human hair",World,World,165936,40.3936294,47.7872508,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Kuwait,50,Silk,Eastern Asia,Asia,26068
-2020,2020,Import,Kuwait,50,Silk,South-eastern Asia,Asia,10727
-2020,2020,Import,Kuwait,50,Silk,Southern Asia,Asia,29078
-2020,2020,Import,Kuwait,50,Silk,Southern Europe,Europe,77186
-2020,2020,Import,Kuwait,50,Silk,Western Asia,Asia,8843
-2020,2020,Import,Kuwait,50,Silk,Western Europe,Europe,2598
-2020,2020,Import,Kuwait,50,Silk,World,World,267652
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Kuwait,50,Silk,Eastern Asia,Asia,26068,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2020,2020,Import,Kuwait,50,Silk,South-eastern Asia,Asia,10727,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2020,2020,Import,Kuwait,50,Silk,Southern Asia,Asia,29078,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2020,2020,Import,Kuwait,50,Silk,Southern Europe,Europe,77186,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2020,2020,Import,Kuwait,50,Silk,Western Asia,Asia,8843,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2020,2020,Import,Kuwait,50,Silk,Western Europe,Europe,2598,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2020,2020,Import,Kuwait,50,Silk,World,World,267652,29.2733964,47.4979476,,

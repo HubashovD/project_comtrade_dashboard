@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Re-Export,Kuwait,9,"Coffee, tea, mate and spices",Northern America,Americas,4747
-2020,2020,Re-Export,Kuwait,9,"Coffee, tea, mate and spices",Southern Asia,Asia,641932
-2020,2020,Re-Export,Kuwait,9,"Coffee, tea, mate and spices",Southern Europe,Europe,10341
-2020,2020,Re-Export,Kuwait,9,"Coffee, tea, mate and spices",Western Europe,Europe,35314
-2020,2020,Re-Export,Kuwait,9,"Coffee, tea, mate and spices",World,World,8609067
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Re-Export,Kuwait,9,"Coffee, tea, mate and spices",Northern America,Americas,4747,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2020,2020,Re-Export,Kuwait,9,"Coffee, tea, mate and spices",Southern Asia,Asia,641932,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2020,2020,Re-Export,Kuwait,9,"Coffee, tea, mate and spices",Southern Europe,Europe,10341,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2020,2020,Re-Export,Kuwait,9,"Coffee, tea, mate and spices",Western Europe,Europe,35314,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2020,2020,Re-Export,Kuwait,9,"Coffee, tea, mate and spices",World,World,8609067,29.2733964,47.4979476,,

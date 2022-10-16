@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,Eastern Asia,Asia,101873
-2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,Northern America,Americas,3445947
-2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,Northern Europe,Europe,476
-2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,South-eastern Asia,Asia,3020
-2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,Southern Asia,Asia,16731
-2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,Southern Europe,Europe,15029
-2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,Western Asia,Asia,18710
-2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,Western Europe,Europe,21240
-2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,World,World,3787824
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,Eastern Asia,Asia,101873,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,Northern America,Americas,3445947,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,Northern Europe,Europe,476,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,South-eastern Asia,Asia,3020,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,Southern Asia,Asia,16731,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,Southern Europe,Europe,15029,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,Western Asia,Asia,18710,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,Western Europe,Europe,21240,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2003,2003,Re-Export,Kuwait,38,Miscellaneous chemical products,World,World,3787824,29.2733964,47.4979476,,

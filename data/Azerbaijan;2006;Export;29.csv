@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Azerbaijan,29,Organic chemicals,Central Asia,Asia,132158
-2006,2006,Export,Azerbaijan,29,Organic chemicals,Eastern Europe,Europe,13985237
-2006,2006,Export,Azerbaijan,29,Organic chemicals,Northern Europe,Europe,78000
-2006,2006,Export,Azerbaijan,29,Organic chemicals,Southern Asia,Asia,1254282
-2006,2006,Export,Azerbaijan,29,Organic chemicals,Southern Europe,Europe,5634041
-2006,2006,Export,Azerbaijan,29,Organic chemicals,Western Asia,Asia,5516410
-2006,2006,Export,Azerbaijan,29,Organic chemicals,Western Europe,Europe,1362464
-2006,2006,Export,Azerbaijan,29,Organic chemicals,World,World,28283357
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Azerbaijan,29,Organic chemicals,Central Asia,Asia,132158,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2006,2006,Export,Azerbaijan,29,Organic chemicals,Eastern Europe,Europe,13985237,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2006,2006,Export,Azerbaijan,29,Organic chemicals,Northern Europe,Europe,78000,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2006,2006,Export,Azerbaijan,29,Organic chemicals,Southern Asia,Asia,1254282,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2006,2006,Export,Azerbaijan,29,Organic chemicals,Southern Europe,Europe,5634041,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2006,2006,Export,Azerbaijan,29,Organic chemicals,Western Asia,Asia,5516410,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2006,2006,Export,Azerbaijan,29,Organic chemicals,Western Europe,Europe,1362464,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2006,2006,Export,Azerbaijan,29,Organic chemicals,World,World,28283357,40.3936294,47.7872508,,

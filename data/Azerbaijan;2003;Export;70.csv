@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Export,Azerbaijan,70,Glass and glassware,Australia and New Zealand,Oceania,1495
-2003,2003,Export,Azerbaijan,70,Glass and glassware,Central Asia,Asia,839
-2003,2003,Export,Azerbaijan,70,Glass and glassware,Eastern Asia,Asia,735
-2003,2003,Export,Azerbaijan,70,Glass and glassware,Eastern Europe,Europe,79405
-2003,2003,Export,Azerbaijan,70,Glass and glassware,Northern Africa,Africa,160
-2003,2003,Export,Azerbaijan,70,Glass and glassware,Northern America,Americas,4191
-2003,2003,Export,Azerbaijan,70,Glass and glassware,Northern Europe,Europe,5110
-2003,2003,Export,Azerbaijan,70,Glass and glassware,South-eastern Asia,Asia,500
-2003,2003,Export,Azerbaijan,70,Glass and glassware,Southern Europe,Europe,619
-2003,2003,Export,Azerbaijan,70,Glass and glassware,Western Asia,Asia,1815
-2003,2003,Export,Azerbaijan,70,Glass and glassware,Western Europe,Europe,3182
-2003,2003,Export,Azerbaijan,70,Glass and glassware,World,World,102835
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Export,Azerbaijan,70,Glass and glassware,Australia and New Zealand,Oceania,1495,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2003,2003,Export,Azerbaijan,70,Glass and glassware,Central Asia,Asia,839,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2003,2003,Export,Azerbaijan,70,Glass and glassware,Eastern Asia,Asia,735,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2003,2003,Export,Azerbaijan,70,Glass and glassware,Eastern Europe,Europe,79405,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2003,2003,Export,Azerbaijan,70,Glass and glassware,Northern Africa,Africa,160,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2003,2003,Export,Azerbaijan,70,Glass and glassware,Northern America,Americas,4191,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2003,2003,Export,Azerbaijan,70,Glass and glassware,Northern Europe,Europe,5110,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2003,2003,Export,Azerbaijan,70,Glass and glassware,South-eastern Asia,Asia,500,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2003,2003,Export,Azerbaijan,70,Glass and glassware,Southern Europe,Europe,619,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2003,2003,Export,Azerbaijan,70,Glass and glassware,Western Asia,Asia,1815,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2003,2003,Export,Azerbaijan,70,Glass and glassware,Western Europe,Europe,3182,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2003,2003,Export,Azerbaijan,70,Glass and glassware,World,World,102835,40.3936294,47.7872508,,

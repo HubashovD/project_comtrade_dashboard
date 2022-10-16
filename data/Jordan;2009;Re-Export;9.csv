@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Australia and New Zealand,Oceania,18524
-2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Eastern Asia,Asia,19517
-2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Latin America and the Caribbean,Americas,197222
-2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Northern Africa,Africa,76113
-2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Northern America,Americas,65886
-2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Southern Asia,Asia,4921
-2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Southern Europe,Europe,2052
-2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Western Asia,Asia,88287
-2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",World,World,6480366
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Australia and New Zealand,Oceania,18524,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Eastern Asia,Asia,19517,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Latin America and the Caribbean,Americas,197222,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Northern Africa,Africa,76113,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Northern America,Americas,65886,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Southern Asia,Asia,4921,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Southern Europe,Europe,2052,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",Western Asia,Asia,88287,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2009,2009,Re-Export,Jordan,9,"Coffee, tea, maté and spices",World,World,6480366,31.1667049,36.941628,,

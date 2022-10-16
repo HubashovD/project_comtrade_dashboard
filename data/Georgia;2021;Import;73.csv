@@ -1,17 +1,17 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Georgia,73,Iron or steel articles,Australia and New Zealand,Oceania,19448
-2021,2021,Import,Georgia,73,Iron or steel articles,Central Asia,Asia,1873869
-2021,2021,Import,Georgia,73,Iron or steel articles,Eastern Asia,Asia,31776287
-2021,2021,Import,Georgia,73,Iron or steel articles,Eastern Europe,Europe,41351792
-2021,2021,Import,Georgia,73,Iron or steel articles,Latin America and the Caribbean,Americas,4724
-2021,2021,Import,Georgia,73,Iron or steel articles,Northern Africa,Africa,218804
-2021,2021,Import,Georgia,73,Iron or steel articles,Northern America,Americas,363120
-2021,2021,Import,Georgia,73,Iron or steel articles,Northern Europe,Europe,2262598
-2021,2021,Import,Georgia,73,Iron or steel articles,Polynesia,Oceania,714
-2021,2021,Import,Georgia,73,Iron or steel articles,South-eastern Asia,Asia,108147
-2021,2021,Import,Georgia,73,Iron or steel articles,Southern Asia,Asia,9729872
-2021,2021,Import,Georgia,73,Iron or steel articles,Southern Europe,Europe,14501498
-2021,2021,Import,Georgia,73,Iron or steel articles,Sub-Saharan Africa,Africa,202
-2021,2021,Import,Georgia,73,Iron or steel articles,Western Asia,Asia,142908475
-2021,2021,Import,Georgia,73,Iron or steel articles,Western Europe,Europe,12514216
-2021,2021,Import,Georgia,73,Iron or steel articles,World,World,263948426
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Georgia,73,Iron or steel articles,Australia and New Zealand,Oceania,19448,32.3293809,-83.1137366,-16.85099460447687,133.4130365630627
+2021,2021,Import,Georgia,73,Iron or steel articles,Central Asia,Asia,1873869,32.3293809,-83.1137366,39.89317229901691,61.060280637304274
+2021,2021,Import,Georgia,73,Iron or steel articles,Eastern Asia,Asia,31776287,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
+2021,2021,Import,Georgia,73,Iron or steel articles,Eastern Europe,Europe,41351792,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
+2021,2021,Import,Georgia,73,Iron or steel articles,Latin America and the Caribbean,Americas,4724,32.3293809,-83.1137366,17.925141963241547,-78.01492950057497
+2021,2021,Import,Georgia,73,Iron or steel articles,Northern Africa,Africa,218804,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2021,2021,Import,Georgia,73,Iron or steel articles,Northern America,Americas,363120,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
+2021,2021,Import,Georgia,73,Iron or steel articles,Northern Europe,Europe,2262598,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
+2021,2021,Import,Georgia,73,Iron or steel articles,Polynesia,Oceania,714,32.3293809,-83.1137366,-5.109184731250752,167.40343615892436
+2021,2021,Import,Georgia,73,Iron or steel articles,South-eastern Asia,Asia,108147,32.3293809,-83.1137366,10.528384761701911,103.08333472012376
+2021,2021,Import,Georgia,73,Iron or steel articles,Southern Asia,Asia,9729872,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
+2021,2021,Import,Georgia,73,Iron or steel articles,Southern Europe,Europe,14501498,32.3293809,-83.1137366,40.12399607988535,20.742583178432696
+2021,2021,Import,Georgia,73,Iron or steel articles,Sub-Saharan Africa,Africa,202,32.3293809,-83.1137366,6.06272746187266,22.727528470146083
+2021,2021,Import,Georgia,73,Iron or steel articles,Western Asia,Asia,142908475,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
+2021,2021,Import,Georgia,73,Iron or steel articles,Western Europe,Europe,12514216,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
+2021,2021,Import,Georgia,73,Iron or steel articles,World,World,263948426,32.3293809,-83.1137366,,

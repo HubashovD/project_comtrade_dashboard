@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Australia and New Zealand,Oceania,163
-2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,159456
-2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Northern Africa,Africa,961
-2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,162343
-2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,176
-2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,12363
-2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,4824
-2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,4364
-2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,154762
-2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",World,World,961629
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Australia and New Zealand,Oceania,163,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,159456,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Northern Africa,Africa,961,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,162343,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,176,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,12363,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,4824,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Western Asia,Asia,4364,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,154762,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Re-Export,Kuwait,71,"Pearls, precious stones, metals, coins, etc",World,World,961629,29.2733964,47.4979476,,

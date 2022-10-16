@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Export,Lebanon,30,Pharmaceutical products,Central Asia,Asia,67154
-2018,2018,Export,Lebanon,30,Pharmaceutical products,Northern Africa,Africa,173622
-2018,2018,Export,Lebanon,30,Pharmaceutical products,Northern America,Americas,165
-2018,2018,Export,Lebanon,30,Pharmaceutical products,Northern Europe,Europe,118969
-2018,2018,Export,Lebanon,30,Pharmaceutical products,Southern Europe,Europe,328011
-2018,2018,Export,Lebanon,30,Pharmaceutical products,Sub-Saharan Africa,Africa,199401
-2018,2018,Export,Lebanon,30,Pharmaceutical products,Western Asia,Asia,2228130
-2018,2018,Export,Lebanon,30,Pharmaceutical products,Western Europe,Europe,2443069
-2018,2018,Export,Lebanon,30,Pharmaceutical products,World,World,56921840
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Export,Lebanon,30,Pharmaceutical products,Central Asia,Asia,67154,33.8750629,35.843409,39.89317229901691,61.060280637304274
+2018,2018,Export,Lebanon,30,Pharmaceutical products,Northern Africa,Africa,173622,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2018,2018,Export,Lebanon,30,Pharmaceutical products,Northern America,Americas,165,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2018,2018,Export,Lebanon,30,Pharmaceutical products,Northern Europe,Europe,118969,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2018,2018,Export,Lebanon,30,Pharmaceutical products,Southern Europe,Europe,328011,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2018,2018,Export,Lebanon,30,Pharmaceutical products,Sub-Saharan Africa,Africa,199401,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2018,2018,Export,Lebanon,30,Pharmaceutical products,Western Asia,Asia,2228130,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2018,2018,Export,Lebanon,30,Pharmaceutical products,Western Europe,Europe,2443069,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2018,2018,Export,Lebanon,30,Pharmaceutical products,World,World,56921840,33.8750629,35.843409,,

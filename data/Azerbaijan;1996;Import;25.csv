@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1996,1996,Import,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Central Asia,Asia,11997031
-1996,1996,Import,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,2399237
-1996,1996,Import,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,9750
-1996,1996,Import,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Asia,Asia,1308982
-1996,1996,Import,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,1653210
-1996,1996,Import,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,18077130
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1996,1996,Import,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Central Asia,Asia,11997031,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+1996,1996,Import,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,2399237,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1996,1996,Import,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,9750,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1996,1996,Import,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Asia,Asia,1308982,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1996,1996,Import,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,1653210,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1996,1996,Import,Azerbaijan,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,18077130,40.3936294,47.7872508,,

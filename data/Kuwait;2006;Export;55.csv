@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Kuwait,55,Man-made staple fibers,Central Asia,Asia,3174
-2006,2006,Export,Kuwait,55,Man-made staple fibers,Northern America,Americas,2326
-2006,2006,Export,Kuwait,55,Man-made staple fibers,South-eastern Asia,Asia,2385
-2006,2006,Export,Kuwait,55,Man-made staple fibers,Southern Asia,Asia,38756
-2006,2006,Export,Kuwait,55,Man-made staple fibers,Western Asia,Asia,102775
-2006,2006,Export,Kuwait,55,Man-made staple fibers,Western Europe,Europe,396
-2006,2006,Export,Kuwait,55,Man-made staple fibers,World,World,563717
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Kuwait,55,Man-made staple fibers,Central Asia,Asia,3174,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2006,2006,Export,Kuwait,55,Man-made staple fibers,Northern America,Americas,2326,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2006,2006,Export,Kuwait,55,Man-made staple fibers,South-eastern Asia,Asia,2385,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2006,2006,Export,Kuwait,55,Man-made staple fibers,Southern Asia,Asia,38756,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2006,2006,Export,Kuwait,55,Man-made staple fibers,Western Asia,Asia,102775,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2006,2006,Export,Kuwait,55,Man-made staple fibers,Western Europe,Europe,396,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2006,2006,Export,Kuwait,55,Man-made staple fibers,World,World,563717,29.2733964,47.4979476,,

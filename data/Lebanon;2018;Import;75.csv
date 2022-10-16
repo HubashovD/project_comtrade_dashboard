@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2018,2018,Import,Lebanon,75,Nickel and articles thereof,Australia and New Zealand,Oceania,33767
-2018,2018,Import,Lebanon,75,Nickel and articles thereof,Eastern Asia,Asia,14032
-2018,2018,Import,Lebanon,75,Nickel and articles thereof,Eastern Europe,Europe,4043
-2018,2018,Import,Lebanon,75,Nickel and articles thereof,Northern America,Americas,43417
-2018,2018,Import,Lebanon,75,Nickel and articles thereof,Northern Europe,Europe,6544
-2018,2018,Import,Lebanon,75,Nickel and articles thereof,Southern Europe,Europe,46784
-2018,2018,Import,Lebanon,75,Nickel and articles thereof,Western Asia,Asia,1116
-2018,2018,Import,Lebanon,75,Nickel and articles thereof,Western Europe,Europe,28793
-2018,2018,Import,Lebanon,75,Nickel and articles thereof,World,World,180300
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2018,2018,Import,Lebanon,75,Nickel and articles thereof,Australia and New Zealand,Oceania,33767,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2018,2018,Import,Lebanon,75,Nickel and articles thereof,Eastern Asia,Asia,14032,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2018,2018,Import,Lebanon,75,Nickel and articles thereof,Eastern Europe,Europe,4043,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2018,2018,Import,Lebanon,75,Nickel and articles thereof,Northern America,Americas,43417,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2018,2018,Import,Lebanon,75,Nickel and articles thereof,Northern Europe,Europe,6544,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2018,2018,Import,Lebanon,75,Nickel and articles thereof,Southern Europe,Europe,46784,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2018,2018,Import,Lebanon,75,Nickel and articles thereof,Western Asia,Asia,1116,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2018,2018,Import,Lebanon,75,Nickel and articles thereof,Western Europe,Europe,28793,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2018,2018,Import,Lebanon,75,Nickel and articles thereof,World,World,180300,33.8750629,35.843409,,

@@ -1,15 +1,15 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Central Asia,Asia,11000
-2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Asia,Asia,1994420
-2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Europe,Europe,1454975
-2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Latin America and the Caribbean,Americas,1689
-2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Africa,Africa,949
-2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Northern America,Americas,269866
-2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Europe,Europe,703411
-2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,South-eastern Asia,Asia,92225
-2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Asia,Asia,392402
-2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Europe,Europe,825763
-2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Sub-Saharan Africa,Africa,320
-2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Western Asia,Asia,5963284
-2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Western Europe,Europe,2731276
-2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,World,World,14657349
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Central Asia,Asia,11000,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Asia,Asia,1994420,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Eastern Europe,Europe,1454975,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Latin America and the Caribbean,Americas,1689,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Africa,Africa,949,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Northern America,Americas,269866,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Northern Europe,Europe,703411,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,South-eastern Asia,Asia,92225,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Asia,Asia,392402,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Southern Europe,Europe,825763,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Sub-Saharan Africa,Africa,320,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Western Asia,Asia,5963284,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,Western Europe,Europe,2731276,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2019,2019,Import,Azerbaijan,35,Albuminoidal substances; modified starches; glues; enzymes,World,World,14657349,40.3936294,47.7872508,,

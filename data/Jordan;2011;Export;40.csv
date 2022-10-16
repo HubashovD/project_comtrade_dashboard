@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,Jordan,40,Rubber and articles thereof,Eastern Asia,Asia,13892
-2011,2011,Export,Jordan,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,45121
-2011,2011,Export,Jordan,40,Rubber and articles thereof,Northern Africa,Africa,83523
-2011,2011,Export,Jordan,40,Rubber and articles thereof,Northern America,Americas,162130
-2011,2011,Export,Jordan,40,Rubber and articles thereof,South-eastern Asia,Asia,3848
-2011,2011,Export,Jordan,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,500
-2011,2011,Export,Jordan,40,Rubber and articles thereof,Western Asia,Asia,86101
-2011,2011,Export,Jordan,40,Rubber and articles thereof,Western Europe,Europe,19166
-2011,2011,Export,Jordan,40,Rubber and articles thereof,World,World,8387281
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,Jordan,40,Rubber and articles thereof,Eastern Asia,Asia,13892,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2011,2011,Export,Jordan,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,45121,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2011,2011,Export,Jordan,40,Rubber and articles thereof,Northern Africa,Africa,83523,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2011,2011,Export,Jordan,40,Rubber and articles thereof,Northern America,Americas,162130,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2011,2011,Export,Jordan,40,Rubber and articles thereof,South-eastern Asia,Asia,3848,31.1667049,36.941628,10.528384761701911,103.08333472012376
+2011,2011,Export,Jordan,40,Rubber and articles thereof,Sub-Saharan Africa,Africa,500,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2011,2011,Export,Jordan,40,Rubber and articles thereof,Western Asia,Asia,86101,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2011,2011,Export,Jordan,40,Rubber and articles thereof,Western Europe,Europe,19166,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2011,2011,Export,Jordan,40,Rubber and articles thereof,World,World,8387281,31.1667049,36.941628,,

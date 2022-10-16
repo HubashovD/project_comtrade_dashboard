@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Australia and New Zealand,Oceania,42021
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Eastern Asia,Asia,3870714
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Eastern Europe,Europe,128919
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Latin America and the Caribbean,Americas,11848897
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Melanesia,Oceania,989
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Northern Africa,Africa,768969
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Northern America,Americas,1099761
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Northern Europe,Europe,426243
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",South-eastern Asia,Asia,1723983
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Southern Asia,Asia,16195335
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Southern Europe,Europe,1911875
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Sub-Saharan Africa,Africa,958597
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Western Asia,Asia,1366870
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Western Europe,Europe,707571
-2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",World,World,111440003
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Australia and New Zealand,Oceania,42021,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Eastern Asia,Asia,3870714,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Eastern Europe,Europe,128919,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Latin America and the Caribbean,Americas,11848897,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Melanesia,Oceania,989,29.2733964,47.4979476,1.0108650891006263,147.3257485906919
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Northern Africa,Africa,768969,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Northern America,Americas,1099761,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Northern Europe,Europe,426243,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",South-eastern Asia,Asia,1723983,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Southern Asia,Asia,16195335,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Southern Europe,Europe,1911875,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Sub-Saharan Africa,Africa,958597,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Western Asia,Asia,1366870,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",Western Europe,Europe,707571,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2011,2011,Import,Kuwait,9,"Coffee, tea, maté and spices",World,World,111440003,29.2733964,47.4979476,,

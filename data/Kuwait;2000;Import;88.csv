@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Australia and New Zealand,Oceania,955
-2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,270914
-2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Northern Africa,Africa,1229
-2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,68439671
-2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,3384489
-2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,175179
-2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,299971
-2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,8496828
-2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",World,World,81102326
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Australia and New Zealand,Oceania,955,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,270914,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Northern Africa,Africa,1229,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,68439671,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,3384489,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,175179,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Southern Europe,Europe,299971,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,8496828,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Import,Kuwait,88,"Aircraft, spacecraft, and parts thereof",World,World,81102326,29.2733964,47.4979476,,

@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2015,2015,Import,Azerbaijan,31,Fertilizers,Central Asia,Asia,87839
-2015,2015,Import,Azerbaijan,31,Fertilizers,Eastern Asia,Asia,227806
-2015,2015,Import,Azerbaijan,31,Fertilizers,Eastern Europe,Europe,58490050
-2015,2015,Import,Azerbaijan,31,Fertilizers,Latin America and the Caribbean,Americas,322143
-2015,2015,Import,Azerbaijan,31,Fertilizers,Northern America,Americas,48
-2015,2015,Import,Azerbaijan,31,Fertilizers,Northern Europe,Europe,80027
-2015,2015,Import,Azerbaijan,31,Fertilizers,Southern Asia,Asia,5217033
-2015,2015,Import,Azerbaijan,31,Fertilizers,Southern Europe,Europe,370376
-2015,2015,Import,Azerbaijan,31,Fertilizers,Sub-Saharan Africa,Africa,143
-2015,2015,Import,Azerbaijan,31,Fertilizers,Western Asia,Asia,941951
-2015,2015,Import,Azerbaijan,31,Fertilizers,Western Europe,Europe,1404561
-2015,2015,Import,Azerbaijan,31,Fertilizers,World,World,69339281
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2015,2015,Import,Azerbaijan,31,Fertilizers,Central Asia,Asia,87839,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2015,2015,Import,Azerbaijan,31,Fertilizers,Eastern Asia,Asia,227806,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2015,2015,Import,Azerbaijan,31,Fertilizers,Eastern Europe,Europe,58490050,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2015,2015,Import,Azerbaijan,31,Fertilizers,Latin America and the Caribbean,Americas,322143,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2015,2015,Import,Azerbaijan,31,Fertilizers,Northern America,Americas,48,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2015,2015,Import,Azerbaijan,31,Fertilizers,Northern Europe,Europe,80027,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2015,2015,Import,Azerbaijan,31,Fertilizers,Southern Asia,Asia,5217033,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2015,2015,Import,Azerbaijan,31,Fertilizers,Southern Europe,Europe,370376,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2015,2015,Import,Azerbaijan,31,Fertilizers,Sub-Saharan Africa,Africa,143,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2015,2015,Import,Azerbaijan,31,Fertilizers,Western Asia,Asia,941951,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2015,2015,Import,Azerbaijan,31,Fertilizers,Western Europe,Europe,1404561,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2015,2015,Import,Azerbaijan,31,Fertilizers,World,World,69339281,40.3936294,47.7872508,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Kuwait,78,Lead and articles thereof,Eastern Asia,Asia,77035
-2010,2010,Import,Kuwait,78,Lead and articles thereof,Eastern Europe,Europe,478
-2010,2010,Import,Kuwait,78,Lead and articles thereof,Latin America and the Caribbean,Americas,670
-2010,2010,Import,Kuwait,78,Lead and articles thereof,Northern Africa,Africa,133
-2010,2010,Import,Kuwait,78,Lead and articles thereof,Northern America,Americas,53958
-2010,2010,Import,Kuwait,78,Lead and articles thereof,Northern Europe,Europe,85136
-2010,2010,Import,Kuwait,78,Lead and articles thereof,South-eastern Asia,Asia,230109
-2010,2010,Import,Kuwait,78,Lead and articles thereof,Southern Europe,Europe,26195
-2010,2010,Import,Kuwait,78,Lead and articles thereof,Western Asia,Asia,4277
-2010,2010,Import,Kuwait,78,Lead and articles thereof,Western Europe,Europe,38873
-2010,2010,Import,Kuwait,78,Lead and articles thereof,World,World,557033
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Kuwait,78,Lead and articles thereof,Eastern Asia,Asia,77035,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2010,2010,Import,Kuwait,78,Lead and articles thereof,Eastern Europe,Europe,478,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2010,2010,Import,Kuwait,78,Lead and articles thereof,Latin America and the Caribbean,Americas,670,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2010,2010,Import,Kuwait,78,Lead and articles thereof,Northern Africa,Africa,133,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2010,2010,Import,Kuwait,78,Lead and articles thereof,Northern America,Americas,53958,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2010,2010,Import,Kuwait,78,Lead and articles thereof,Northern Europe,Europe,85136,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2010,2010,Import,Kuwait,78,Lead and articles thereof,South-eastern Asia,Asia,230109,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2010,2010,Import,Kuwait,78,Lead and articles thereof,Southern Europe,Europe,26195,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2010,2010,Import,Kuwait,78,Lead and articles thereof,Western Asia,Asia,4277,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2010,2010,Import,Kuwait,78,Lead and articles thereof,Western Europe,Europe,38873,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2010,2010,Import,Kuwait,78,Lead and articles thereof,World,World,557033,29.2733964,47.4979476,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Eastern Asia,Asia,1331
-1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Latin America and the Caribbean,Americas,4168711
-1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern Africa,Africa,302239
-1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern Europe,Europe,60376
-1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",South-eastern Asia,Asia,137212
-1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Asia,Asia,95009
-1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Europe,Europe,484320
-1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",World,World,10027174
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Eastern Asia,Asia,1331,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Latin America and the Caribbean,Americas,4168711,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern Africa,Africa,302239,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Northern Europe,Europe,60376,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",South-eastern Asia,Asia,137212,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Asia,Asia,95009,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",Western Europe,Europe,484320,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1994,1994,Import,Jordan,3,"Fish, crustaceans, molluscs, aquatic invertebrates ne",World,World,10027174,31.1667049,36.941628,,

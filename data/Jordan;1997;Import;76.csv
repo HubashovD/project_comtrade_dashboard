@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Jordan,76,Aluminium and articles thereof,Eastern Asia,Asia,2113982
-1997,1997,Import,Jordan,76,Aluminium and articles thereof,Eastern Europe,Europe,738744
-1997,1997,Import,Jordan,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,763229
-1997,1997,Import,Jordan,76,Aluminium and articles thereof,Northern Africa,Africa,6252059
-1997,1997,Import,Jordan,76,Aluminium and articles thereof,Northern America,Americas,4289231
-1997,1997,Import,Jordan,76,Aluminium and articles thereof,Northern Europe,Europe,215043
-1997,1997,Import,Jordan,76,Aluminium and articles thereof,Southern Europe,Europe,2971433
-1997,1997,Import,Jordan,76,Aluminium and articles thereof,Western Asia,Asia,1573322
-1997,1997,Import,Jordan,76,Aluminium and articles thereof,Western Europe,Europe,4113347
-1997,1997,Import,Jordan,76,Aluminium and articles thereof,World,World,33087752
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Jordan,76,Aluminium and articles thereof,Eastern Asia,Asia,2113982,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1997,1997,Import,Jordan,76,Aluminium and articles thereof,Eastern Europe,Europe,738744,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1997,1997,Import,Jordan,76,Aluminium and articles thereof,Latin America and the Caribbean,Americas,763229,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1997,1997,Import,Jordan,76,Aluminium and articles thereof,Northern Africa,Africa,6252059,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1997,1997,Import,Jordan,76,Aluminium and articles thereof,Northern America,Americas,4289231,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1997,1997,Import,Jordan,76,Aluminium and articles thereof,Northern Europe,Europe,215043,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1997,1997,Import,Jordan,76,Aluminium and articles thereof,Southern Europe,Europe,2971433,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1997,1997,Import,Jordan,76,Aluminium and articles thereof,Western Asia,Asia,1573322,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1997,1997,Import,Jordan,76,Aluminium and articles thereof,Western Europe,Europe,4113347,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1997,1997,Import,Jordan,76,Aluminium and articles thereof,World,World,33087752,31.1667049,36.941628,,

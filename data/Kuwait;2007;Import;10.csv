@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,Kuwait,10,Cereals,Australia and New Zealand,Oceania,76676271
-2007,2007,Import,Kuwait,10,Cereals,Central Asia,Asia,4122597
-2007,2007,Import,Kuwait,10,Cereals,Eastern Asia,Asia,540475
-2007,2007,Import,Kuwait,10,Cereals,Eastern Europe,Europe,25332187
-2007,2007,Import,Kuwait,10,Cereals,Latin America and the Caribbean,Americas,28303996
-2007,2007,Import,Kuwait,10,Cereals,Northern Africa,Africa,2509723
-2007,2007,Import,Kuwait,10,Cereals,Northern America,Americas,18637645
-2007,2007,Import,Kuwait,10,Cereals,Northern Europe,Europe,6114253
-2007,2007,Import,Kuwait,10,Cereals,South-eastern Asia,Asia,4209171
-2007,2007,Import,Kuwait,10,Cereals,Southern Asia,Asia,280756
-2007,2007,Import,Kuwait,10,Cereals,Southern Europe,Europe,3092302
-2007,2007,Import,Kuwait,10,Cereals,Sub-Saharan Africa,Africa,13103
-2007,2007,Import,Kuwait,10,Cereals,Western Asia,Asia,247
-2007,2007,Import,Kuwait,10,Cereals,Western Europe,Europe,26119636
-2007,2007,Import,Kuwait,10,Cereals,World,World,327452667
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,Kuwait,10,Cereals,Australia and New Zealand,Oceania,76676271,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2007,2007,Import,Kuwait,10,Cereals,Central Asia,Asia,4122597,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2007,2007,Import,Kuwait,10,Cereals,Eastern Asia,Asia,540475,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2007,2007,Import,Kuwait,10,Cereals,Eastern Europe,Europe,25332187,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2007,2007,Import,Kuwait,10,Cereals,Latin America and the Caribbean,Americas,28303996,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2007,2007,Import,Kuwait,10,Cereals,Northern Africa,Africa,2509723,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2007,2007,Import,Kuwait,10,Cereals,Northern America,Americas,18637645,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2007,2007,Import,Kuwait,10,Cereals,Northern Europe,Europe,6114253,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2007,2007,Import,Kuwait,10,Cereals,South-eastern Asia,Asia,4209171,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2007,2007,Import,Kuwait,10,Cereals,Southern Asia,Asia,280756,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2007,2007,Import,Kuwait,10,Cereals,Southern Europe,Europe,3092302,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2007,2007,Import,Kuwait,10,Cereals,Sub-Saharan Africa,Africa,13103,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2007,2007,Import,Kuwait,10,Cereals,Western Asia,Asia,247,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2007,2007,Import,Kuwait,10,Cereals,Western Europe,Europe,26119636,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2007,2007,Import,Kuwait,10,Cereals,World,World,327452667,29.2733964,47.4979476,,

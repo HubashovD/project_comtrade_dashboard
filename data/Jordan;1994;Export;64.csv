@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",Australia and New Zealand,Oceania,502
-1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",Eastern Europe,Europe,81030
-1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",Northern America,Americas,5724
-1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",Northern Europe,Europe,1216
-1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",Southern Europe,Europe,31715
-1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",Sub-Saharan Africa,Africa,43231
-1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",Western Europe,Europe,3148
-1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",World,World,5051273
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",Australia and New Zealand,Oceania,502,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",Eastern Europe,Europe,81030,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",Northern America,Americas,5724,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",Northern Europe,Europe,1216,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",Southern Europe,Europe,31715,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",Sub-Saharan Africa,Africa,43231,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",Western Europe,Europe,3148,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1994,1994,Export,Jordan,64,"Footwear, gaiters and the like, parts thereof",World,World,5051273,31.1667049,36.941628,,

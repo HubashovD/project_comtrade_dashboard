@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,2172628
-2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Eastern Asia,Asia,559174
-2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Eastern Europe,Europe,2340136
-2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,1497794
-2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Northern America,Americas,4264542
-2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Northern Europe,Europe,16431063
-2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,1807767
-2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Southern Asia,Asia,102461
-2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Southern Europe,Europe,13738404
-2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,115750
-2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Western Asia,Asia,6464009
-2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Western Europe,Europe,24276879
-2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,World,World,90365073
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,2172628,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Eastern Asia,Asia,559174,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Eastern Europe,Europe,2340136,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Latin America and the Caribbean,Americas,1497794,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Northern America,Americas,4264542,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Northern Europe,Europe,16431063,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,1807767,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Southern Asia,Asia,102461,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Southern Europe,Europe,13738404,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Sub-Saharan Africa,Africa,115750,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Western Asia,Asia,6464009,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,Western Europe,Europe,24276879,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2008,2008,Import,Kuwait,18,Cocoa and cocoa preparations,World,World,90365073,29.2733964,47.4979476,,

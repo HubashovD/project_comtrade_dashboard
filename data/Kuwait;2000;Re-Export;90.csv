@@ -1,13 +1,13 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Eastern Asia,Asia,175073
-2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Eastern Europe,Europe,929
-2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Northern Africa,Africa,24377
-2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Northern America,Americas,180282
-2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Northern Europe,Europe,259286
-2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",South-eastern Asia,Asia,714
-2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Southern Asia,Asia,503551
-2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Southern Europe,Europe,8836
-2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Sub-Saharan Africa,Africa,10661
-2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Western Asia,Asia,5280
-2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Western Europe,Europe,272368
-2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",World,World,2171498
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Eastern Asia,Asia,175073,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Eastern Europe,Europe,929,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Northern Africa,Africa,24377,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Northern America,Americas,180282,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Northern Europe,Europe,259286,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",South-eastern Asia,Asia,714,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Southern Asia,Asia,503551,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Southern Europe,Europe,8836,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Sub-Saharan Africa,Africa,10661,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Western Asia,Asia,5280,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",Western Europe,Europe,272368,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Re-Export,Kuwait,90,"Optical, photo, technical, medical, etc apparatus",World,World,2171498,29.2733964,47.4979476,,

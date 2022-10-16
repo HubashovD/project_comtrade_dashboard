@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",Eastern Europe,Europe,224224
-1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,7219
-1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",Northern Europe,Europe,51728
-1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",Southern Asia,Asia,3648076
-1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",Southern Europe,Europe,66738
-1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,2888744
-1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,421589
-1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",World,World,7468508
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",Eastern Europe,Europe,224224,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,7219,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",Northern Europe,Europe,51728,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",Southern Asia,Asia,3648076,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",Southern Europe,Europe,66738,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,2888744,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,421589,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+1997,1997,Import,Azerbaijan,19,"Cereal, flour, starch, milk preparations and products",World,World,7468508,40.3936294,47.7872508,,

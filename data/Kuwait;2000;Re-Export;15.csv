@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Re-Export,Kuwait,15,"Animal,vegetable fats and oils, cleavage products, et",Australia and New Zealand,Oceania,3839
-2000,2000,Re-Export,Kuwait,15,"Animal,vegetable fats and oils, cleavage products, et",Central Asia,Asia,463
-2000,2000,Re-Export,Kuwait,15,"Animal,vegetable fats and oils, cleavage products, et",South-eastern Asia,Asia,16297
-2000,2000,Re-Export,Kuwait,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Asia,Asia,52557
-2000,2000,Re-Export,Kuwait,15,"Animal,vegetable fats and oils, cleavage products, et",Western Asia,Asia,14194
-2000,2000,Re-Export,Kuwait,15,"Animal,vegetable fats and oils, cleavage products, et",Western Europe,Europe,19220
-2000,2000,Re-Export,Kuwait,15,"Animal,vegetable fats and oils, cleavage products, et",World,World,207798
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Re-Export,Kuwait,15,"Animal,vegetable fats and oils, cleavage products, et",Australia and New Zealand,Oceania,3839,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2000,2000,Re-Export,Kuwait,15,"Animal,vegetable fats and oils, cleavage products, et",Central Asia,Asia,463,29.2733964,47.4979476,39.89317229901691,61.060280637304274
+2000,2000,Re-Export,Kuwait,15,"Animal,vegetable fats and oils, cleavage products, et",South-eastern Asia,Asia,16297,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2000,2000,Re-Export,Kuwait,15,"Animal,vegetable fats and oils, cleavage products, et",Southern Asia,Asia,52557,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Re-Export,Kuwait,15,"Animal,vegetable fats and oils, cleavage products, et",Western Asia,Asia,14194,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2000,2000,Re-Export,Kuwait,15,"Animal,vegetable fats and oils, cleavage products, et",Western Europe,Europe,19220,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Re-Export,Kuwait,15,"Animal,vegetable fats and oils, cleavage products, et",World,World,207798,29.2733964,47.4979476,,

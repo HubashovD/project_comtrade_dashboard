@@ -1,6 +1,6 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Re-Export,Jordan,2,Meat and edible meat offal,Australia and New Zealand,Oceania,61157
-2001,2001,Re-Export,Jordan,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,28209
-2001,2001,Re-Export,Jordan,2,Meat and edible meat offal,Northern America,Americas,31209
-2001,2001,Re-Export,Jordan,2,Meat and edible meat offal,Western Europe,Europe,162203
-2001,2001,Re-Export,Jordan,2,Meat and edible meat offal,World,World,359384
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Re-Export,Jordan,2,Meat and edible meat offal,Australia and New Zealand,Oceania,61157,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2001,2001,Re-Export,Jordan,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,28209,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+2001,2001,Re-Export,Jordan,2,Meat and edible meat offal,Northern America,Americas,31209,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2001,2001,Re-Export,Jordan,2,Meat and edible meat offal,Western Europe,Europe,162203,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2001,2001,Re-Export,Jordan,2,Meat and edible meat offal,World,World,359384,31.1667049,36.941628,,

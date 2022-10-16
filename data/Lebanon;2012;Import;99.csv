@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,431788
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Eastern Asia,Asia,273240
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Eastern Europe,Europe,17017
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,733642
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Melanesia,Oceania,1911
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Northern Africa,Africa,117075
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Northern America,Americas,2496513
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Northern Europe,Europe,506960
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,South-eastern Asia,Asia,79809
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Southern Asia,Asia,3937
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Southern Europe,Europe,331809
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,193515
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Western Asia,Asia,122576
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Western Europe,Europe,1728426
-2012,2012,Import,Lebanon,99,Commodities not specified according to kind,World,World,10493644
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,431788,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Eastern Asia,Asia,273240,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Eastern Europe,Europe,17017,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Latin America and the Caribbean,Americas,733642,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Melanesia,Oceania,1911,33.8750629,35.843409,1.0108650891006263,147.3257485906919
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Northern Africa,Africa,117075,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Northern America,Americas,2496513,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Northern Europe,Europe,506960,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,South-eastern Asia,Asia,79809,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Southern Asia,Asia,3937,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Southern Europe,Europe,331809,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Sub-Saharan Africa,Africa,193515,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Western Asia,Asia,122576,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,Western Europe,Europe,1728426,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2012,2012,Import,Lebanon,99,Commodities not specified according to kind,World,World,10493644,33.8750629,35.843409,,

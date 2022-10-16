@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2021,2021,Import,Azerbaijan,72,Iron and steel,Australia and New Zealand,Oceania,25187
-2021,2021,Import,Azerbaijan,72,Iron and steel,Central Asia,Asia,20888203
-2021,2021,Import,Azerbaijan,72,Iron and steel,Eastern Asia,Asia,84106278
-2021,2021,Import,Azerbaijan,72,Iron and steel,Eastern Europe,Europe,156922606
-2021,2021,Import,Azerbaijan,72,Iron and steel,Latin America and the Caribbean,Americas,96923
-2021,2021,Import,Azerbaijan,72,Iron and steel,Northern Africa,Africa,20497
-2021,2021,Import,Azerbaijan,72,Iron and steel,Northern America,Americas,76749
-2021,2021,Import,Azerbaijan,72,Iron and steel,Northern Europe,Europe,2556428
-2021,2021,Import,Azerbaijan,72,Iron and steel,South-eastern Asia,Asia,171411
-2021,2021,Import,Azerbaijan,72,Iron and steel,Southern Asia,Asia,12778274
-2021,2021,Import,Azerbaijan,72,Iron and steel,Southern Europe,Europe,1766076
-2021,2021,Import,Azerbaijan,72,Iron and steel,Sub-Saharan Africa,Africa,184251
-2021,2021,Import,Azerbaijan,72,Iron and steel,Western Asia,Asia,42060334
-2021,2021,Import,Azerbaijan,72,Iron and steel,Western Europe,Europe,6390103
-2021,2021,Import,Azerbaijan,72,Iron and steel,World,World,344060713
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2021,2021,Import,Azerbaijan,72,Iron and steel,Australia and New Zealand,Oceania,25187,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2021,2021,Import,Azerbaijan,72,Iron and steel,Central Asia,Asia,20888203,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2021,2021,Import,Azerbaijan,72,Iron and steel,Eastern Asia,Asia,84106278,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2021,2021,Import,Azerbaijan,72,Iron and steel,Eastern Europe,Europe,156922606,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2021,2021,Import,Azerbaijan,72,Iron and steel,Latin America and the Caribbean,Americas,96923,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2021,2021,Import,Azerbaijan,72,Iron and steel,Northern Africa,Africa,20497,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2021,2021,Import,Azerbaijan,72,Iron and steel,Northern America,Americas,76749,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2021,2021,Import,Azerbaijan,72,Iron and steel,Northern Europe,Europe,2556428,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2021,2021,Import,Azerbaijan,72,Iron and steel,South-eastern Asia,Asia,171411,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2021,2021,Import,Azerbaijan,72,Iron and steel,Southern Asia,Asia,12778274,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2021,2021,Import,Azerbaijan,72,Iron and steel,Southern Europe,Europe,1766076,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2021,2021,Import,Azerbaijan,72,Iron and steel,Sub-Saharan Africa,Africa,184251,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2021,2021,Import,Azerbaijan,72,Iron and steel,Western Asia,Asia,42060334,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2021,2021,Import,Azerbaijan,72,Iron and steel,Western Europe,Europe,6390103,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2021,2021,Import,Azerbaijan,72,Iron and steel,World,World,344060713,40.3936294,47.7872508,,

@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,State of Palestine,2,Meat and edible meat offal,Australia and New Zealand,Oceania,3678763
-2020,2020,Import,State of Palestine,2,Meat and edible meat offal,Eastern Europe,Europe,549399
-2020,2020,Import,State of Palestine,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,22253090
-2020,2020,Import,State of Palestine,2,Meat and edible meat offal,Northern America,Americas,86328
-2020,2020,Import,State of Palestine,2,Meat and edible meat offal,Southern Europe,Europe,1108032
-2020,2020,Import,State of Palestine,2,Meat and edible meat offal,Western Europe,Europe,244097
-2020,2020,Import,State of Palestine,2,Meat and edible meat offal,World,World,92765321
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,State of Palestine,2,Meat and edible meat offal,Australia and New Zealand,Oceania,3678763,31.46242095,34.262716572130714,-16.85099460447687,133.4130365630627
+2020,2020,Import,State of Palestine,2,Meat and edible meat offal,Eastern Europe,Europe,549399,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2020,2020,Import,State of Palestine,2,Meat and edible meat offal,Latin America and the Caribbean,Americas,22253090,31.46242095,34.262716572130714,17.925141963241547,-78.01492950057497
+2020,2020,Import,State of Palestine,2,Meat and edible meat offal,Northern America,Americas,86328,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2020,2020,Import,State of Palestine,2,Meat and edible meat offal,Southern Europe,Europe,1108032,31.46242095,34.262716572130714,40.12399607988535,20.742583178432696
+2020,2020,Import,State of Palestine,2,Meat and edible meat offal,Western Europe,Europe,244097,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2020,2020,Import,State of Palestine,2,Meat and edible meat offal,World,World,92765321,31.46242095,34.262716572130714,,

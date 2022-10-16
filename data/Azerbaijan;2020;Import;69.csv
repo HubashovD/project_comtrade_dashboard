@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Azerbaijan,69,Ceramic products,Australia and New Zealand,Oceania,3806
-2020,2020,Import,Azerbaijan,69,Ceramic products,Central Asia,Asia,1052318
-2020,2020,Import,Azerbaijan,69,Ceramic products,Eastern Asia,Asia,17893733
-2020,2020,Import,Azerbaijan,69,Ceramic products,Eastern Europe,Europe,14486395
-2020,2020,Import,Azerbaijan,69,Ceramic products,Latin America and the Caribbean,Americas,1928
-2020,2020,Import,Azerbaijan,69,Ceramic products,Northern Africa,Africa,29373
-2020,2020,Import,Azerbaijan,69,Ceramic products,Northern America,Americas,726143
-2020,2020,Import,Azerbaijan,69,Ceramic products,Northern Europe,Europe,191371
-2020,2020,Import,Azerbaijan,69,Ceramic products,South-eastern Asia,Asia,223521
-2020,2020,Import,Azerbaijan,69,Ceramic products,Southern Asia,Asia,26521903
-2020,2020,Import,Azerbaijan,69,Ceramic products,Southern Europe,Europe,6028446
-2020,2020,Import,Azerbaijan,69,Ceramic products,Sub-Saharan Africa,Africa,405
-2020,2020,Import,Azerbaijan,69,Ceramic products,Western Asia,Asia,14530430
-2020,2020,Import,Azerbaijan,69,Ceramic products,Western Europe,Europe,3069131
-2020,2020,Import,Azerbaijan,69,Ceramic products,World,World,86233270
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Azerbaijan,69,Ceramic products,Australia and New Zealand,Oceania,3806,40.3936294,47.7872508,-16.85099460447687,133.4130365630627
+2020,2020,Import,Azerbaijan,69,Ceramic products,Central Asia,Asia,1052318,40.3936294,47.7872508,39.89317229901691,61.060280637304274
+2020,2020,Import,Azerbaijan,69,Ceramic products,Eastern Asia,Asia,17893733,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2020,2020,Import,Azerbaijan,69,Ceramic products,Eastern Europe,Europe,14486395,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2020,2020,Import,Azerbaijan,69,Ceramic products,Latin America and the Caribbean,Americas,1928,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2020,2020,Import,Azerbaijan,69,Ceramic products,Northern Africa,Africa,29373,40.3936294,47.7872508,19.569604022535763,12.47761721199581
+2020,2020,Import,Azerbaijan,69,Ceramic products,Northern America,Americas,726143,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2020,2020,Import,Azerbaijan,69,Ceramic products,Northern Europe,Europe,191371,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2020,2020,Import,Azerbaijan,69,Ceramic products,South-eastern Asia,Asia,223521,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2020,2020,Import,Azerbaijan,69,Ceramic products,Southern Asia,Asia,26521903,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2020,2020,Import,Azerbaijan,69,Ceramic products,Southern Europe,Europe,6028446,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2020,2020,Import,Azerbaijan,69,Ceramic products,Sub-Saharan Africa,Africa,405,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2020,2020,Import,Azerbaijan,69,Ceramic products,Western Asia,Asia,14530430,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2020,2020,Import,Azerbaijan,69,Ceramic products,Western Europe,Europe,3069131,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2020,2020,Import,Azerbaijan,69,Ceramic products,World,World,86233270,40.3936294,47.7872508,,

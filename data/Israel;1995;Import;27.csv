@@ -1,10 +1,10 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Eastern Asia,Asia,293000
-1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,227000
-1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Northern Africa,Africa,15496000
-1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,14492000
-1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,7366000
-1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,9362000
-1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,175000
-1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,10937000
-1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",World,World,1672973952
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Eastern Asia,Asia,293000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Eastern Europe,Europe,227000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Northern Africa,Africa,15496000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,14492000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,7366000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Southern Europe,Europe,9362000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,175000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,10937000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+1995,1995,Import,Israel,27,"Mineral fuels, oils, distillation products, etc",World,World,1672973952,30.8124247,34.8594762,,

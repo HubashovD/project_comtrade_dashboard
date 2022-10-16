@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Eastern Asia,Asia,3747000
-2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Eastern Europe,Europe,1394000
-2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Latin America and the Caribbean,Americas,14130000
-2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Northern Africa,Africa,155000
-2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Northern America,Americas,2253000
-2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Northern Europe,Europe,1406000
-2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",South-eastern Asia,Asia,20707000
-2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Southern Asia,Asia,1816000
-2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Southern Europe,Europe,18401000
-2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Sub-Saharan Africa,Africa,9928000
-2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Western Asia,Asia,542000
-2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Western Europe,Europe,24338000
-2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",World,World,109812000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Eastern Asia,Asia,3747000,30.8124247,34.8594762,37.977378106878206,73.97804075806764
+2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Eastern Europe,Europe,1394000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Latin America and the Caribbean,Americas,14130000,30.8124247,34.8594762,17.925141963241547,-78.01492950057497
+2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Northern Africa,Africa,155000,30.8124247,34.8594762,19.569604022535763,12.47761721199581
+2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Northern America,Americas,2253000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Northern Europe,Europe,1406000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",South-eastern Asia,Asia,20707000,30.8124247,34.8594762,10.528384761701911,103.08333472012376
+2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Southern Asia,Asia,1816000,30.8124247,34.8594762,25.499703063807168,75.5024015339642
+2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Southern Europe,Europe,18401000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Sub-Saharan Africa,Africa,9928000,30.8124247,34.8594762,6.06272746187266,22.727528470146083
+2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Western Asia,Asia,542000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",Western Europe,Europe,24338000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2010,2010,Import,Israel,9,"Coffee, tea, maté and spices",World,World,109812000,30.8124247,34.8594762,,

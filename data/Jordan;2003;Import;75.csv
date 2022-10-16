@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2003,2003,Import,Jordan,75,Nickel and articles thereof,Eastern Asia,Asia,1561
-2003,2003,Import,Jordan,75,Nickel and articles thereof,Northern America,Americas,2172
-2003,2003,Import,Jordan,75,Nickel and articles thereof,Northern Europe,Europe,4969
-2003,2003,Import,Jordan,75,Nickel and articles thereof,Southern Europe,Europe,4819
-2003,2003,Import,Jordan,75,Nickel and articles thereof,Sub-Saharan Africa,Africa,2391
-2003,2003,Import,Jordan,75,Nickel and articles thereof,Western Europe,Europe,242562
-2003,2003,Import,Jordan,75,Nickel and articles thereof,World,World,267222
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2003,2003,Import,Jordan,75,Nickel and articles thereof,Eastern Asia,Asia,1561,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2003,2003,Import,Jordan,75,Nickel and articles thereof,Northern America,Americas,2172,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2003,2003,Import,Jordan,75,Nickel and articles thereof,Northern Europe,Europe,4969,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2003,2003,Import,Jordan,75,Nickel and articles thereof,Southern Europe,Europe,4819,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2003,2003,Import,Jordan,75,Nickel and articles thereof,Sub-Saharan Africa,Africa,2391,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2003,2003,Import,Jordan,75,Nickel and articles thereof,Western Europe,Europe,242562,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2003,2003,Import,Jordan,75,Nickel and articles thereof,World,World,267222,31.1667049,36.941628,,

@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Eastern Asia,Asia,2090020
-1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Eastern Europe,Europe,19977
-1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Latin America and the Caribbean,Americas,31044
-1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Northern Africa,Africa,14640
-1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Northern America,Americas,418061
-1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Northern Europe,Europe,1366058
-1995,1995,Import,Jordan,37,Photographic or cinematographic goods,South-eastern Asia,Asia,13798
-1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Southern Europe,Europe,545917
-1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Western Asia,Asia,827
-1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Western Europe,Europe,2029835
-1995,1995,Import,Jordan,37,Photographic or cinematographic goods,World,World,8147725
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Eastern Asia,Asia,2090020,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Eastern Europe,Europe,19977,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Latin America and the Caribbean,Americas,31044,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Northern Africa,Africa,14640,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Northern America,Americas,418061,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Northern Europe,Europe,1366058,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1995,1995,Import,Jordan,37,Photographic or cinematographic goods,South-eastern Asia,Asia,13798,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Southern Europe,Europe,545917,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Western Asia,Asia,827,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1995,1995,Import,Jordan,37,Photographic or cinematographic goods,Western Europe,Europe,2029835,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1995,1995,Import,Jordan,37,Photographic or cinematographic goods,World,World,8147725,31.1667049,36.941628,,

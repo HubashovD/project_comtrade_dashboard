@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2006,2006,Export,Israel,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,70000
-2006,2006,Export,Israel,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,301000
-2006,2006,Export,Israel,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,14000
-2006,2006,Export,Israel,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,217000
-2006,2006,Export,Israel,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,63000
-2006,2006,Export,Israel,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,83000
-2006,2006,Export,Israel,24,Tobacco and manufactured tobacco substitutes,World,World,776000
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2006,2006,Export,Israel,24,Tobacco and manufactured tobacco substitutes,Eastern Europe,Europe,70000,30.8124247,34.8594762,51.67568633314729,27.673469819741847
+2006,2006,Export,Israel,24,Tobacco and manufactured tobacco substitutes,Northern America,Americas,301000,30.8124247,34.8594762,43.897683433510366,-100.08947125585888
+2006,2006,Export,Israel,24,Tobacco and manufactured tobacco substitutes,Northern Europe,Europe,14000,30.8124247,34.8594762,59.36075159783851,25.01346951967388
+2006,2006,Export,Israel,24,Tobacco and manufactured tobacco substitutes,Southern Europe,Europe,217000,30.8124247,34.8594762,40.12399607988535,20.742583178432696
+2006,2006,Export,Israel,24,Tobacco and manufactured tobacco substitutes,Western Asia,Asia,63000,30.8124247,34.8594762,26.42921218083572,52.86847103284948
+2006,2006,Export,Israel,24,Tobacco and manufactured tobacco substitutes,Western Europe,Europe,83000,30.8124247,34.8594762,47.92172048214207,7.866753258497997
+2006,2006,Export,Israel,24,Tobacco and manufactured tobacco substitutes,World,World,776000,30.8124247,34.8594762,,

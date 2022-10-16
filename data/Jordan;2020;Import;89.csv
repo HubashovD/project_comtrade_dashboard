@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2020,2020,Import,Jordan,89,"Ships, boats and floating structures",Australia and New Zealand,Oceania,109295
-2020,2020,Import,Jordan,89,"Ships, boats and floating structures",Eastern Europe,Europe,24750
-2020,2020,Import,Jordan,89,"Ships, boats and floating structures",Northern America,Americas,965647
-2020,2020,Import,Jordan,89,"Ships, boats and floating structures",Southern Europe,Europe,1355629
-2020,2020,Import,Jordan,89,"Ships, boats and floating structures",Western Europe,Europe,7254
-2020,2020,Import,Jordan,89,"Ships, boats and floating structures",World,World,2495396
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2020,2020,Import,Jordan,89,"Ships, boats and floating structures",Australia and New Zealand,Oceania,109295,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+2020,2020,Import,Jordan,89,"Ships, boats and floating structures",Eastern Europe,Europe,24750,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2020,2020,Import,Jordan,89,"Ships, boats and floating structures",Northern America,Americas,965647,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2020,2020,Import,Jordan,89,"Ships, boats and floating structures",Southern Europe,Europe,1355629,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2020,2020,Import,Jordan,89,"Ships, boats and floating structures",Western Europe,Europe,7254,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2020,2020,Import,Jordan,89,"Ships, boats and floating structures",World,World,2495396,31.1667049,36.941628,,

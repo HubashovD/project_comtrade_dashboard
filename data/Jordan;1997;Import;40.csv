@@ -1,14 +1,14 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1997,1997,Import,Jordan,40,Rubber and articles thereof,Australia and New Zealand,Oceania,719
-1997,1997,Import,Jordan,40,Rubber and articles thereof,Eastern Asia,Asia,23289507
-1997,1997,Import,Jordan,40,Rubber and articles thereof,Eastern Europe,Europe,240686
-1997,1997,Import,Jordan,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,190820
-1997,1997,Import,Jordan,40,Rubber and articles thereof,Northern Africa,Africa,340702
-1997,1997,Import,Jordan,40,Rubber and articles thereof,Northern America,Americas,2180351
-1997,1997,Import,Jordan,40,Rubber and articles thereof,Northern Europe,Europe,2262606
-1997,1997,Import,Jordan,40,Rubber and articles thereof,South-eastern Asia,Asia,4241107
-1997,1997,Import,Jordan,40,Rubber and articles thereof,Southern Asia,Asia,282165
-1997,1997,Import,Jordan,40,Rubber and articles thereof,Southern Europe,Europe,1664068
-1997,1997,Import,Jordan,40,Rubber and articles thereof,Western Asia,Asia,3834535
-1997,1997,Import,Jordan,40,Rubber and articles thereof,Western Europe,Europe,5441755
-1997,1997,Import,Jordan,40,Rubber and articles thereof,World,World,49039832
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1997,1997,Import,Jordan,40,Rubber and articles thereof,Australia and New Zealand,Oceania,719,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1997,1997,Import,Jordan,40,Rubber and articles thereof,Eastern Asia,Asia,23289507,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1997,1997,Import,Jordan,40,Rubber and articles thereof,Eastern Europe,Europe,240686,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1997,1997,Import,Jordan,40,Rubber and articles thereof,Latin America and the Caribbean,Americas,190820,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1997,1997,Import,Jordan,40,Rubber and articles thereof,Northern Africa,Africa,340702,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1997,1997,Import,Jordan,40,Rubber and articles thereof,Northern America,Americas,2180351,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1997,1997,Import,Jordan,40,Rubber and articles thereof,Northern Europe,Europe,2262606,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1997,1997,Import,Jordan,40,Rubber and articles thereof,South-eastern Asia,Asia,4241107,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1997,1997,Import,Jordan,40,Rubber and articles thereof,Southern Asia,Asia,282165,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1997,1997,Import,Jordan,40,Rubber and articles thereof,Southern Europe,Europe,1664068,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1997,1997,Import,Jordan,40,Rubber and articles thereof,Western Asia,Asia,3834535,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1997,1997,Import,Jordan,40,Rubber and articles thereof,Western Europe,Europe,5441755,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1997,1997,Import,Jordan,40,Rubber and articles thereof,World,World,49039832,31.1667049,36.941628,,

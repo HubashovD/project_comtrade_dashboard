@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,203981
-2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,Northern Africa,Africa,133093
-2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,Northern America,Americas,61150
-2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,3106
-2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,Southern Asia,Asia,28620
-2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,Western Asia,Asia,49441
-2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,Western Europe,Europe,115411
-2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,World,World,3166769
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,203981,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,Northern Africa,Africa,133093,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,Northern America,Americas,61150,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,3106,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,Southern Asia,Asia,28620,31.1667049,36.941628,25.499703063807168,75.5024015339642
+2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,Western Asia,Asia,49441,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,Western Europe,Europe,115411,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2004,2004,Export,Jordan,12,Oil seeds and oleaginous fruits,World,World,3166769,31.1667049,36.941628,,

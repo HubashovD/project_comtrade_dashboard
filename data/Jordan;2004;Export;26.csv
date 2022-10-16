@@ -1,5 +1,5 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2004,2004,Export,Jordan,26,"Ores, slag and ash",Eastern Asia,Asia,21812
-2004,2004,Export,Jordan,26,"Ores, slag and ash",Western Asia,Asia,16930
-2004,2004,Export,Jordan,26,"Ores, slag and ash",Western Europe,Europe,226377
-2004,2004,Export,Jordan,26,"Ores, slag and ash",World,World,294426
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2004,2004,Export,Jordan,26,"Ores, slag and ash",Eastern Asia,Asia,21812,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2004,2004,Export,Jordan,26,"Ores, slag and ash",Western Asia,Asia,16930,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2004,2004,Export,Jordan,26,"Ores, slag and ash",Western Europe,Europe,226377,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2004,2004,Export,Jordan,26,"Ores, slag and ash",World,World,294426,31.1667049,36.941628,,

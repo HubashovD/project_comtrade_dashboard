@@ -1,8 +1,8 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Import,Jordan,75,Nickel and articles thereof,Eastern Asia,Asia,5049
-2002,2002,Import,Jordan,75,Nickel and articles thereof,Eastern Europe,Europe,2095
-2002,2002,Import,Jordan,75,Nickel and articles thereof,Northern America,Americas,50573
-2002,2002,Import,Jordan,75,Nickel and articles thereof,Northern Europe,Europe,61242
-2002,2002,Import,Jordan,75,Nickel and articles thereof,Southern Europe,Europe,976
-2002,2002,Import,Jordan,75,Nickel and articles thereof,Western Europe,Europe,57987
-2002,2002,Import,Jordan,75,Nickel and articles thereof,World,World,177923
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Import,Jordan,75,Nickel and articles thereof,Eastern Asia,Asia,5049,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2002,2002,Import,Jordan,75,Nickel and articles thereof,Eastern Europe,Europe,2095,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2002,2002,Import,Jordan,75,Nickel and articles thereof,Northern America,Americas,50573,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2002,2002,Import,Jordan,75,Nickel and articles thereof,Northern Europe,Europe,61242,31.1667049,36.941628,59.36075159783851,25.01346951967388
+2002,2002,Import,Jordan,75,Nickel and articles thereof,Southern Europe,Europe,976,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2002,2002,Import,Jordan,75,Nickel and articles thereof,Western Europe,Europe,57987,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2002,2002,Import,Jordan,75,Nickel and articles thereof,World,World,177923,31.1667049,36.941628,,

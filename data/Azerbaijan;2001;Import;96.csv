@@ -1,12 +1,12 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Eastern Asia,Asia,472417
-2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Eastern Europe,Europe,18302
-2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,1852
-2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Northern America,Americas,560669
-2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Northern Europe,Europe,38555
-2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,1609
-2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Southern Asia,Asia,11543
-2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Southern Europe,Europe,25277
-2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Western Asia,Asia,379743
-2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Western Europe,Europe,184837
-2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,World,World,1781971
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Eastern Asia,Asia,472417,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Eastern Europe,Europe,18302,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Latin America and the Caribbean,Americas,1852,40.3936294,47.7872508,17.925141963241547,-78.01492950057497
+2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Northern America,Americas,560669,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Northern Europe,Europe,38555,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,South-eastern Asia,Asia,1609,40.3936294,47.7872508,10.528384761701911,103.08333472012376
+2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Southern Asia,Asia,11543,40.3936294,47.7872508,25.499703063807168,75.5024015339642
+2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Southern Europe,Europe,25277,40.3936294,47.7872508,40.12399607988535,20.742583178432696
+2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Western Asia,Asia,379743,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,Western Europe,Europe,184837,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2001,2001,Import,Azerbaijan,96,Miscellaneous manufactured articles,World,World,1781971,40.3936294,47.7872508,,

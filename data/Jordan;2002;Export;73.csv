@@ -1,11 +1,11 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2002,2002,Export,Jordan,73,Articles of iron or steel,Central Asia,Asia,160382
-2002,2002,Export,Jordan,73,Articles of iron or steel,Eastern Asia,Asia,51072
-2002,2002,Export,Jordan,73,Articles of iron or steel,Eastern Europe,Europe,47910
-2002,2002,Export,Jordan,73,Articles of iron or steel,Northern Africa,Africa,235882
-2002,2002,Export,Jordan,73,Articles of iron or steel,Northern America,Americas,53256
-2002,2002,Export,Jordan,73,Articles of iron or steel,Southern Europe,Europe,330733
-2002,2002,Export,Jordan,73,Articles of iron or steel,Sub-Saharan Africa,Africa,33683
-2002,2002,Export,Jordan,73,Articles of iron or steel,Western Asia,Asia,1293589
-2002,2002,Export,Jordan,73,Articles of iron or steel,Western Europe,Europe,55385
-2002,2002,Export,Jordan,73,Articles of iron or steel,World,World,32040304
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2002,2002,Export,Jordan,73,Articles of iron or steel,Central Asia,Asia,160382,31.1667049,36.941628,39.89317229901691,61.060280637304274
+2002,2002,Export,Jordan,73,Articles of iron or steel,Eastern Asia,Asia,51072,31.1667049,36.941628,37.977378106878206,73.97804075806764
+2002,2002,Export,Jordan,73,Articles of iron or steel,Eastern Europe,Europe,47910,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2002,2002,Export,Jordan,73,Articles of iron or steel,Northern Africa,Africa,235882,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2002,2002,Export,Jordan,73,Articles of iron or steel,Northern America,Americas,53256,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+2002,2002,Export,Jordan,73,Articles of iron or steel,Southern Europe,Europe,330733,31.1667049,36.941628,40.12399607988535,20.742583178432696
+2002,2002,Export,Jordan,73,Articles of iron or steel,Sub-Saharan Africa,Africa,33683,31.1667049,36.941628,6.06272746187266,22.727528470146083
+2002,2002,Export,Jordan,73,Articles of iron or steel,Western Asia,Asia,1293589,31.1667049,36.941628,26.42921218083572,52.86847103284948
+2002,2002,Export,Jordan,73,Articles of iron or steel,Western Europe,Europe,55385,31.1667049,36.941628,47.92172048214207,7.866753258497997
+2002,2002,Export,Jordan,73,Articles of iron or steel,World,World,32040304,31.1667049,36.941628,,

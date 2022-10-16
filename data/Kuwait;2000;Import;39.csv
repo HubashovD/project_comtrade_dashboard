@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,Australia and New Zealand,Oceania,446781
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,Eastern Asia,Asia,16110650
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,Eastern Europe,Europe,400737
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,272975
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,Melanesia,Oceania,424
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,Northern Africa,Africa,449189
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,Northern America,Americas,16002371
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,Northern Europe,Europe,15430088
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,South-eastern Asia,Asia,6451636
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,Southern Asia,Asia,1860565
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,Southern Europe,Europe,14547046
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,1246794
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,Western Asia,Asia,1754949
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,Western Europe,Europe,25541646
-2000,2000,Import,Kuwait,39,Plastics and articles thereof,World,World,166929947
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,Australia and New Zealand,Oceania,446781,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,Eastern Asia,Asia,16110650,29.2733964,47.4979476,37.977378106878206,73.97804075806764
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,Eastern Europe,Europe,400737,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,272975,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,Melanesia,Oceania,424,29.2733964,47.4979476,1.0108650891006263,147.3257485906919
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,Northern Africa,Africa,449189,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,Northern America,Americas,16002371,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,Northern Europe,Europe,15430088,29.2733964,47.4979476,59.36075159783851,25.01346951967388
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,South-eastern Asia,Asia,6451636,29.2733964,47.4979476,10.528384761701911,103.08333472012376
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,Southern Asia,Asia,1860565,29.2733964,47.4979476,25.499703063807168,75.5024015339642
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,Southern Europe,Europe,14547046,29.2733964,47.4979476,40.12399607988535,20.742583178432696
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,1246794,29.2733964,47.4979476,6.06272746187266,22.727528470146083
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,Western Asia,Asia,1754949,29.2733964,47.4979476,26.42921218083572,52.86847103284948
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,Western Europe,Europe,25541646,29.2733964,47.4979476,47.92172048214207,7.866753258497997
+2000,2000,Import,Kuwait,39,Plastics and articles thereof,World,World,166929947,29.2733964,47.4979476,,

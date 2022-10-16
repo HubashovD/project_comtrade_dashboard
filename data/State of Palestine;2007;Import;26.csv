@@ -1,4 +1,4 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2007,2007,Import,State of Palestine,26,"Ores, slag and ash",Eastern Asia,Asia,1890
-2007,2007,Import,State of Palestine,26,"Ores, slag and ash",Northern Europe,Europe,6750
-2007,2007,Import,State of Palestine,26,"Ores, slag and ash",World,World,910030
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2007,2007,Import,State of Palestine,26,"Ores, slag and ash",Eastern Asia,Asia,1890,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
+2007,2007,Import,State of Palestine,26,"Ores, slag and ash",Northern Europe,Europe,6750,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
+2007,2007,Import,State of Palestine,26,"Ores, slag and ash",World,World,910030,31.46242095,34.262716572130714,,

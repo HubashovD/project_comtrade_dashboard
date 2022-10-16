@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Australia and New Zealand,Oceania,8054
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Central Asia,Asia,3884
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Eastern Asia,Asia,1360002
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Eastern Europe,Europe,198005
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,108693
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Northern Africa,Africa,553340
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Northern America,Americas,1048023
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Northern Europe,Europe,424077
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,South-eastern Asia,Asia,104215
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Southern Asia,Asia,4799591
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Southern Europe,Europe,426043
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Sub-Saharan Africa,Africa,10197
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Western Asia,Asia,1009973
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Western Europe,Europe,2942235
-2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,World,World,16144884
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Australia and New Zealand,Oceania,8054,33.8750629,35.843409,-16.85099460447687,133.4130365630627
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Central Asia,Asia,3884,33.8750629,35.843409,39.89317229901691,61.060280637304274
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Eastern Asia,Asia,1360002,33.8750629,35.843409,37.977378106878206,73.97804075806764
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Eastern Europe,Europe,198005,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Latin America and the Caribbean,Americas,108693,33.8750629,35.843409,17.925141963241547,-78.01492950057497
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Northern Africa,Africa,553340,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Northern America,Americas,1048023,33.8750629,35.843409,43.897683433510366,-100.08947125585888
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Northern Europe,Europe,424077,33.8750629,35.843409,59.36075159783851,25.01346951967388
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,South-eastern Asia,Asia,104215,33.8750629,35.843409,10.528384761701911,103.08333472012376
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Southern Asia,Asia,4799591,33.8750629,35.843409,25.499703063807168,75.5024015339642
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Southern Europe,Europe,426043,33.8750629,35.843409,40.12399607988535,20.742583178432696
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Sub-Saharan Africa,Africa,10197,33.8750629,35.843409,6.06272746187266,22.727528470146083
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Western Asia,Asia,1009973,33.8750629,35.843409,26.42921218083572,52.86847103284948
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,Western Europe,Europe,2942235,33.8750629,35.843409,47.92172048214207,7.866753258497997
+2000,2000,Import,Lebanon,57,Carpets and other textile floor coverings,World,World,16144884,33.8750629,35.843409,,

@@ -1,16 +1,16 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-1999,1999,Import,Jordan,39,Plastics and articles thereof,Australia and New Zealand,Oceania,793127
-1999,1999,Import,Jordan,39,Plastics and articles thereof,Central Asia,Asia,4643
-1999,1999,Import,Jordan,39,Plastics and articles thereof,Eastern Asia,Asia,8682290
-1999,1999,Import,Jordan,39,Plastics and articles thereof,Eastern Europe,Europe,239405
-1999,1999,Import,Jordan,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,252870
-1999,1999,Import,Jordan,39,Plastics and articles thereof,Northern Africa,Africa,429790
-1999,1999,Import,Jordan,39,Plastics and articles thereof,Northern America,Americas,3129981
-1999,1999,Import,Jordan,39,Plastics and articles thereof,Northern Europe,Europe,6588452
-1999,1999,Import,Jordan,39,Plastics and articles thereof,South-eastern Asia,Asia,2304331
-1999,1999,Import,Jordan,39,Plastics and articles thereof,Southern Asia,Asia,234212
-1999,1999,Import,Jordan,39,Plastics and articles thereof,Southern Europe,Europe,12118590
-1999,1999,Import,Jordan,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,104083
-1999,1999,Import,Jordan,39,Plastics and articles thereof,Western Asia,Asia,3375226
-1999,1999,Import,Jordan,39,Plastics and articles thereof,Western Europe,Europe,19641751
-1999,1999,Import,Jordan,39,Plastics and articles thereof,World,World,114470672
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+1999,1999,Import,Jordan,39,Plastics and articles thereof,Australia and New Zealand,Oceania,793127,31.1667049,36.941628,-16.85099460447687,133.4130365630627
+1999,1999,Import,Jordan,39,Plastics and articles thereof,Central Asia,Asia,4643,31.1667049,36.941628,39.89317229901691,61.060280637304274
+1999,1999,Import,Jordan,39,Plastics and articles thereof,Eastern Asia,Asia,8682290,31.1667049,36.941628,37.977378106878206,73.97804075806764
+1999,1999,Import,Jordan,39,Plastics and articles thereof,Eastern Europe,Europe,239405,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1999,1999,Import,Jordan,39,Plastics and articles thereof,Latin America and the Caribbean,Americas,252870,31.1667049,36.941628,17.925141963241547,-78.01492950057497
+1999,1999,Import,Jordan,39,Plastics and articles thereof,Northern Africa,Africa,429790,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1999,1999,Import,Jordan,39,Plastics and articles thereof,Northern America,Americas,3129981,31.1667049,36.941628,43.897683433510366,-100.08947125585888
+1999,1999,Import,Jordan,39,Plastics and articles thereof,Northern Europe,Europe,6588452,31.1667049,36.941628,59.36075159783851,25.01346951967388
+1999,1999,Import,Jordan,39,Plastics and articles thereof,South-eastern Asia,Asia,2304331,31.1667049,36.941628,10.528384761701911,103.08333472012376
+1999,1999,Import,Jordan,39,Plastics and articles thereof,Southern Asia,Asia,234212,31.1667049,36.941628,25.499703063807168,75.5024015339642
+1999,1999,Import,Jordan,39,Plastics and articles thereof,Southern Europe,Europe,12118590,31.1667049,36.941628,40.12399607988535,20.742583178432696
+1999,1999,Import,Jordan,39,Plastics and articles thereof,Sub-Saharan Africa,Africa,104083,31.1667049,36.941628,6.06272746187266,22.727528470146083
+1999,1999,Import,Jordan,39,Plastics and articles thereof,Western Asia,Asia,3375226,31.1667049,36.941628,26.42921218083572,52.86847103284948
+1999,1999,Import,Jordan,39,Plastics and articles thereof,Western Europe,Europe,19641751,31.1667049,36.941628,47.92172048214207,7.866753258497997
+1999,1999,Import,Jordan,39,Plastics and articles thereof,World,World,114470672,31.1667049,36.941628,,

@@ -1,9 +1,9 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2008,2008,Import,Azerbaijan,78,Lead and articles thereof,Eastern Asia,Asia,8758
-2008,2008,Import,Azerbaijan,78,Lead and articles thereof,Eastern Europe,Europe,695227
-2008,2008,Import,Azerbaijan,78,Lead and articles thereof,Northern America,Americas,27
-2008,2008,Import,Azerbaijan,78,Lead and articles thereof,Northern Europe,Europe,1218
-2008,2008,Import,Azerbaijan,78,Lead and articles thereof,Sub-Saharan Africa,Africa,3565
-2008,2008,Import,Azerbaijan,78,Lead and articles thereof,Western Asia,Asia,4296
-2008,2008,Import,Azerbaijan,78,Lead and articles thereof,Western Europe,Europe,5765
-2008,2008,Import,Azerbaijan,78,Lead and articles thereof,World,World,718857
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2008,2008,Import,Azerbaijan,78,Lead and articles thereof,Eastern Asia,Asia,8758,40.3936294,47.7872508,37.977378106878206,73.97804075806764
+2008,2008,Import,Azerbaijan,78,Lead and articles thereof,Eastern Europe,Europe,695227,40.3936294,47.7872508,51.67568633314729,27.673469819741847
+2008,2008,Import,Azerbaijan,78,Lead and articles thereof,Northern America,Americas,27,40.3936294,47.7872508,43.897683433510366,-100.08947125585888
+2008,2008,Import,Azerbaijan,78,Lead and articles thereof,Northern Europe,Europe,1218,40.3936294,47.7872508,59.36075159783851,25.01346951967388
+2008,2008,Import,Azerbaijan,78,Lead and articles thereof,Sub-Saharan Africa,Africa,3565,40.3936294,47.7872508,6.06272746187266,22.727528470146083
+2008,2008,Import,Azerbaijan,78,Lead and articles thereof,Western Asia,Asia,4296,40.3936294,47.7872508,26.42921218083572,52.86847103284948
+2008,2008,Import,Azerbaijan,78,Lead and articles thereof,Western Europe,Europe,5765,40.3936294,47.7872508,47.92172048214207,7.866753258497997
+2008,2008,Import,Azerbaijan,78,Lead and articles thereof,World,World,718857,40.3936294,47.7872508,,

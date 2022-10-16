@@ -1,7 +1,7 @@
-yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue
-2011,2011,Export,State of Palestine,9,"Coffee, tea, maté and spices",Eastern Europe,Europe,25239
-2011,2011,Export,State of Palestine,9,"Coffee, tea, maté and spices",Northern America,Americas,626366
-2011,2011,Export,State of Palestine,9,"Coffee, tea, maté and spices",Northern Europe,Europe,4596
-2011,2011,Export,State of Palestine,9,"Coffee, tea, maté and spices",South-eastern Asia,Asia,1056
-2011,2011,Export,State of Palestine,9,"Coffee, tea, maté and spices",Western Europe,Europe,31114
-2011,2011,Export,State of Palestine,9,"Coffee, tea, maté and spices",World,World,12498919
+yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
+2011,2011,Export,State of Palestine,9,"Coffee, tea, maté and spices",Eastern Europe,Europe,25239,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2011,2011,Export,State of Palestine,9,"Coffee, tea, maté and spices",Northern America,Americas,626366,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
+2011,2011,Export,State of Palestine,9,"Coffee, tea, maté and spices",Northern Europe,Europe,4596,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
+2011,2011,Export,State of Palestine,9,"Coffee, tea, maté and spices",South-eastern Asia,Asia,1056,31.46242095,34.262716572130714,10.528384761701911,103.08333472012376
+2011,2011,Export,State of Palestine,9,"Coffee, tea, maté and spices",Western Europe,Europe,31114,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
+2011,2011,Export,State of Palestine,9,"Coffee, tea, maté and spices",World,World,12498919,31.46242095,34.262716572130714,,
