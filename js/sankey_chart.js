@@ -48,10 +48,10 @@ function sankey_chart() {
 
         country = document.querySelector('#countrySelector').querySelector('.select__toggle').value
         year = document.querySelector('#yearSelector').querySelector('.select__toggle').value
-        console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/mena' + country + ';' + year + '.0.csv')
+        console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/mena' + country + ';' + year + '.csv')
 
         // load the data
-        d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/mena' + country + ';' + year + '.0.csv', function(error, data) {
+        d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/mena' + country + ';' + year + '.csv', function(error, data) {
             // d3.csv("/data/total_data.csv", function(error, data) {
 
 
