@@ -39,8 +39,8 @@ function hierarchy() {
         country = document.querySelector('#countrySelector').querySelector('.select__toggle').value
         year = document.querySelector('#yearSelector').querySelector('.select__toggle').value
 
-        d3.json("https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/hierarchy;" + year + ".0;" + country + ".json", function(classes) {
-            console.log("https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/hierarchy;" + year + ".0;" + country + ".json")
+        d3.json("https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/hierarchy;" + year + country + ".json", function(classes) {
+            console.log("https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/hierarchy;" + year + country + ".json")
 
             // classes.forEach(d => console.log(d))
 
