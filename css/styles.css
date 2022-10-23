@@ -22,6 +22,14 @@
 /* map */
 
 
+/* pie */
+
+#pie_chart {
+    width: 350px;
+    height: 350px;
+}
+
+
 /* Sankey */
 
 .node rect {
