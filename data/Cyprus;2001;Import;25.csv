@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Asia,Asia,6742,34.9823018,33.1451285,37.977378106878206,73.97804075806764
 2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Europe,Europe,7047,34.9823018,33.1451285,51.67568633314729,27.673469819741847
-2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,470184,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Egypt,Egypt,470184,34.9823018,33.1451285,,
 2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,37938,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
 2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,334678,34.9823018,33.1451285,59.36075159783851,25.01346951967388
 2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",South-eastern Asia,Asia,81,34.9823018,33.1451285,10.528384761701911,103.08333472012376
@@ -10,3 +10,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Asia,Asia,6843,34.9823018,33.1451285,26.42921218083572,52.86847103284948
 2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,422391,34.9823018,33.1451285,47.92172048214207,7.866753258497997
 2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,4416601,34.9823018,33.1451285,,
+2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement", Djibouti, Djibouti,238,34.9823018,33.1451285,,
+2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement", Israel, Israel,319551,34.9823018,33.1451285,,
+2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement", Jordan, Jordan,6088,34.9823018,33.1451285,,
+2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement", Lebanon, Lebanon,54165,34.9823018,33.1451285,,
+2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement", Malta, Malta,997,34.9823018,33.1451285,,
+2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement", Oman, Oman,62223,34.9823018,33.1451285,,
+2001,2001,Import,Cyprus,25,"Salt, sulphur, earth, stone, plaster, lime and cement", Saudi Arabia, Saudi Arabia,3769,34.9823018,33.1451285,,

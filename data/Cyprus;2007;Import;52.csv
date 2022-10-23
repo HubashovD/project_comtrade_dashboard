@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2007,2007,Import,Cyprus,52,Cotton,Eastern Asia,Asia,406961,34.9823018,33.1451285,37.977378106878206,73.97804075806764
 2007,2007,Import,Cyprus,52,Cotton,Eastern Europe,Europe,26968,34.9823018,33.1451285,51.67568633314729,27.673469819741847
-2007,2007,Import,Cyprus,52,Cotton,Northern Africa,Africa,223804,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2007,2007,Import,Cyprus,52,Cotton,Egypt,Egypt,223804,34.9823018,33.1451285,,
 2007,2007,Import,Cyprus,52,Cotton,Northern America,Americas,99545,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
 2007,2007,Import,Cyprus,52,Cotton,Northern Europe,Europe,283140,34.9823018,33.1451285,59.36075159783851,25.01346951967388
 2007,2007,Import,Cyprus,52,Cotton,South-eastern Asia,Asia,98677,34.9823018,33.1451285,10.528384761701911,103.08333472012376
@@ -11,3 +11,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2007,2007,Import,Cyprus,52,Cotton,Western Asia,Asia,149088,34.9823018,33.1451285,26.42921218083572,52.86847103284948
 2007,2007,Import,Cyprus,52,Cotton,Western Europe,Europe,1535835,34.9823018,33.1451285,47.92172048214207,7.866753258497997
 2007,2007,Import,Cyprus,52,Cotton,World,World,6009742,34.9823018,33.1451285,,
+2007,2007,Import,Cyprus,52,Cotton, Israel, Israel,27587,34.9823018,33.1451285,,
+2007,2007,Import,Cyprus,52,Cotton, Jordan, Jordan,3997,34.9823018,33.1451285,,
+2007,2007,Import,Cyprus,52,Cotton, Lebanon, Lebanon,259,34.9823018,33.1451285,,
+2007,2007,Import,Cyprus,52,Cotton, Pakistan, Pakistan,550294,34.9823018,33.1451285,,
+2007,2007,Import,Cyprus,52,Cotton, United Arab Emirates, United Arab Emirates,9329,34.9823018,33.1451285,,

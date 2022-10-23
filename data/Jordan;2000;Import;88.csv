@@ -2,7 +2,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Australia and New Zealand,Oceania,382679,31.1667049,36.941628,-16.85099460447687,133.4130365630627
 2000,2000,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Eastern Asia,Asia,30464,31.1667049,36.941628,37.977378106878206,73.97804075806764
 2000,2000,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Eastern Europe,Europe,17512,31.1667049,36.941628,51.67568633314729,27.673469819741847
-2000,2000,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern Africa,Africa,26410,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Egypt,Egypt,26410,31.1667049,36.941628,,
 2000,2000,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern America,Americas,71245921,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 2000,2000,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Northern Europe,Europe,20322045,31.1667049,36.941628,59.36075159783851,25.01346951967388
 2000,2000,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",South-eastern Asia,Asia,734287,31.1667049,36.941628,10.528384761701911,103.08333472012376
@@ -10,3 +10,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Western Asia,Asia,57395,31.1667049,36.941628,26.42921218083572,52.86847103284948
 2000,2000,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",Western Europe,Europe,40416161,31.1667049,36.941628,47.92172048214207,7.866753258497997
 2000,2000,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof",World,World,134437331,31.1667049,36.941628,,
+2000,2000,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof", Israel, Israel,20359,31.1667049,36.941628,,
+2000,2000,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof", Pakistan, Pakistan,6711,31.1667049,36.941628,,
+2000,2000,Import,Jordan,88,"Aircraft, spacecraft, and parts thereof", United Arab Emirates, United Arab Emirates,26260,31.1667049,36.941628,,

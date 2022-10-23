@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2019,2019,Export,Cyprus,38,Chemical products n.e.c.,Eastern Asia,Asia,2942115,34.9823018,33.1451285,37.977378106878206,73.97804075806764
 2019,2019,Export,Cyprus,38,Chemical products n.e.c.,Eastern Europe,Europe,61910,34.9823018,33.1451285,51.67568633314729,27.673469819741847
-2019,2019,Export,Cyprus,38,Chemical products n.e.c.,Northern Africa,Africa,283198,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2019,2019,Export,Cyprus,38,Chemical products n.e.c.,Egypt,Egypt,283198,34.9823018,33.1451285,,
 2019,2019,Export,Cyprus,38,Chemical products n.e.c.,Northern America,Americas,885,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
 2019,2019,Export,Cyprus,38,Chemical products n.e.c.,Northern Europe,Europe,1590576,34.9823018,33.1451285,59.36075159783851,25.01346951967388
 2019,2019,Export,Cyprus,38,Chemical products n.e.c.,South-eastern Asia,Asia,112974,34.9823018,33.1451285,10.528384761701911,103.08333472012376
@@ -11,3 +11,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2019,2019,Export,Cyprus,38,Chemical products n.e.c.,Western Asia,Asia,494,34.9823018,33.1451285,26.42921218083572,52.86847103284948
 2019,2019,Export,Cyprus,38,Chemical products n.e.c.,Western Europe,Europe,1069657,34.9823018,33.1451285,47.92172048214207,7.866753258497997
 2019,2019,Export,Cyprus,38,Chemical products n.e.c.,World,World,9724972,34.9823018,33.1451285,,
+2019,2019,Export,Cyprus,38,Chemical products n.e.c., Iraq, Iraq,28952,34.9823018,33.1451285,,
+2019,2019,Export,Cyprus,38,Chemical products n.e.c., Israel, Israel,50011,34.9823018,33.1451285,,
+2019,2019,Export,Cyprus,38,Chemical products n.e.c., Lebanon, Lebanon,76868,34.9823018,33.1451285,,
+2019,2019,Export,Cyprus,38,Chemical products n.e.c., Qatar, Qatar,103165,34.9823018,33.1451285,,
+2019,2019,Export,Cyprus,38,Chemical products n.e.c., United Arab Emirates, United Arab Emirates,24057,34.9823018,33.1451285,,

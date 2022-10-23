@@ -1,8 +1,8 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices",Eastern Asia,Asia,1222378,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
 2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices",Eastern Europe,Europe,5066,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
+2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices",Egypt,Egypt,546679,31.46242095,34.262716572130714,,
 2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices",Latin America and the Caribbean,Americas,11282495,31.46242095,34.262716572130714,17.925141963241547,-78.01492950057497
-2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices",Northern Africa,Africa,546679,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
 2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices",Northern America,Americas,205709,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
 2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices",Northern Europe,Europe,85647,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
 2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices",South-eastern Asia,Asia,1944304,31.46242095,34.262716572130714,10.528384761701911,103.08333472012376
@@ -12,3 +12,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices",Western Asia,Asia,653594,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
 2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices",Western Europe,Europe,579644,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
 2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices",World,World,36621415,31.46242095,34.262716572130714,,
+2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices", Israel, Israel,9459104,31.46242095,34.262716572130714,,
+2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices", Jordan, Jordan,487665,31.46242095,34.262716572130714,,
+2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices", Qatar, Qatar,55455,31.46242095,34.262716572130714,,
+2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices", Saudi Arabia, Saudi Arabia,177050,31.46242095,34.262716572130714,,
+2012,2012,Import,State of Palestine,9,"Coffee, tea, maté and spices", United Arab Emirates, United Arab Emirates,88463,31.46242095,34.262716572130714,,

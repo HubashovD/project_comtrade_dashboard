@@ -355,8 +355,8 @@ function bar_chart() {
 
                 // console.log(data)
 
-                dataForDownload = []
-                head = []
+                var dataForDownload = []
+                var head = []
                     // console.log(data)
 
                 ignorelist = ["rtLat", "rtLon", "ptLon", "ptLat"]
@@ -383,26 +383,7 @@ function bar_chart() {
 
                 console.log(dataForDownload)
 
-
-                // var downloadButtonDiv = document.getElementById("downloadButtonDiv");
-
-                // try {
-                //     while (downloadButtonDiv.firstChild) {
-                //         downloadButtonDiv.removeChild(downloadButtonDiv.lastChild);
-                //     }
-                // } catch {}
-
                 downloadButton = document.getElementById('saveButtonBarData')
-                    // downloadButton.type = "button"
-                    // downloadButton.value = "Download data"
-                    // downloadButton.id = "downloadButton"
-                    // downloadButtonDiv.appendChild(downloadButton)
-
-
-                // parentIndicator = document.querySelector('#indicatorsSelector')
-                // const btn9 = parentIndicator.querySelector('.select__toggle');
-                // // console.log(`Выбранное значение: ${btn9.innerHTML}`);
-                // csvName = btn9.innerHTML
 
 
                 var listener = function() {

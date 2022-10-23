@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1993,1993,Re-Export,Cyprus,52,Cotton,Eastern Europe,Europe,195244,34.9823018,33.1451285,51.67568633314729,27.673469819741847
-1993,1993,Re-Export,Cyprus,52,Cotton,Northern Africa,Africa,5886,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1993,1993,Re-Export,Cyprus,52,Cotton,Egypt,Egypt,5886,34.9823018,33.1451285,,
 1993,1993,Re-Export,Cyprus,52,Cotton,Northern America,Americas,30941,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
 1993,1993,Re-Export,Cyprus,52,Cotton,Northern Europe,Europe,116290,34.9823018,33.1451285,59.36075159783851,25.01346951967388
 1993,1993,Re-Export,Cyprus,52,Cotton,Southern Asia,Asia,31797,34.9823018,33.1451285,25.499703063807168,75.5024015339642
@@ -9,3 +9,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1993,1993,Re-Export,Cyprus,52,Cotton,Western Asia,Asia,1662477,34.9823018,33.1451285,26.42921218083572,52.86847103284948
 1993,1993,Re-Export,Cyprus,52,Cotton,Western Europe,Europe,158620,34.9823018,33.1451285,47.92172048214207,7.866753258497997
 1993,1993,Re-Export,Cyprus,52,Cotton,World,World,7823083,34.9823018,33.1451285,,
+1993,1993,Re-Export,Cyprus,52,Cotton, Israel, Israel,1172672,34.9823018,33.1451285,,
+1993,1993,Re-Export,Cyprus,52,Cotton, Jordan, Jordan,321669,34.9823018,33.1451285,,
+1993,1993,Re-Export,Cyprus,52,Cotton, Lebanon, Lebanon,1360675,34.9823018,33.1451285,,
+1993,1993,Re-Export,Cyprus,52,Cotton, Libya, Libya,33406,34.9823018,33.1451285,,
+1993,1993,Re-Export,Cyprus,52,Cotton, Oman, Oman,3377,34.9823018,33.1451285,,

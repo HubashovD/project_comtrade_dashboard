@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2020,2020,Import,State of Palestine,74,Copper and articles thereof,Eastern Asia,Asia,1367457,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
 2020,2020,Import,State of Palestine,74,Copper and articles thereof,Eastern Europe,Europe,241,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
-2020,2020,Import,State of Palestine,74,Copper and articles thereof,Northern Africa,Africa,82815,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2020,2020,Import,State of Palestine,74,Copper and articles thereof,Egypt,Egypt,82815,31.46242095,34.262716572130714,,
 2020,2020,Import,State of Palestine,74,Copper and articles thereof,Northern America,Americas,35,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
 2020,2020,Import,State of Palestine,74,Copper and articles thereof,Northern Europe,Europe,71257,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
 2020,2020,Import,State of Palestine,74,Copper and articles thereof,South-eastern Asia,Asia,365,31.46242095,34.262716572130714,10.528384761701911,103.08333472012376
@@ -9,3 +9,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2020,2020,Import,State of Palestine,74,Copper and articles thereof,Western Asia,Asia,191166,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
 2020,2020,Import,State of Palestine,74,Copper and articles thereof,Western Europe,Europe,173733,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
 2020,2020,Import,State of Palestine,74,Copper and articles thereof,World,World,4631984,31.46242095,34.262716572130714,,
+2020,2020,Import,State of Palestine,74,Copper and articles thereof, Israel, Israel,1019995,31.46242095,34.262716572130714,,
+2020,2020,Import,State of Palestine,74,Copper and articles thereof, Jordan, Jordan,13298,31.46242095,34.262716572130714,,
+2020,2020,Import,State of Palestine,74,Copper and articles thereof, Saudi Arabia, Saudi Arabia,43984,31.46242095,34.262716572130714,,

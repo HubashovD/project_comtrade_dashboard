@@ -1,8 +1,8 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2008,2008,Import,Cyprus,52,Cotton,Eastern Asia,Asia,235145,34.9823018,33.1451285,37.977378106878206,73.97804075806764
 2008,2008,Import,Cyprus,52,Cotton,Eastern Europe,Europe,14353,34.9823018,33.1451285,51.67568633314729,27.673469819741847
+2008,2008,Import,Cyprus,52,Cotton,Egypt,Egypt,30840,34.9823018,33.1451285,,
 2008,2008,Import,Cyprus,52,Cotton,Latin America and the Caribbean,Americas,1311,34.9823018,33.1451285,17.925141963241547,-78.01492950057497
-2008,2008,Import,Cyprus,52,Cotton,Northern Africa,Africa,30840,34.9823018,33.1451285,19.569604022535763,12.47761721199581
 2008,2008,Import,Cyprus,52,Cotton,Northern America,Americas,33812,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
 2008,2008,Import,Cyprus,52,Cotton,Northern Europe,Europe,251164,34.9823018,33.1451285,59.36075159783851,25.01346951967388
 2008,2008,Import,Cyprus,52,Cotton,South-eastern Asia,Asia,72876,34.9823018,33.1451285,10.528384761701911,103.08333472012376
@@ -11,3 +11,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2008,2008,Import,Cyprus,52,Cotton,Western Asia,Asia,295945,34.9823018,33.1451285,26.42921218083572,52.86847103284948
 2008,2008,Import,Cyprus,52,Cotton,Western Europe,Europe,1272337,34.9823018,33.1451285,47.92172048214207,7.866753258497997
 2008,2008,Import,Cyprus,52,Cotton,World,World,5592797,34.9823018,33.1451285,,
+2008,2008,Import,Cyprus,52,Cotton, Israel, Israel,1320,34.9823018,33.1451285,,
+2008,2008,Import,Cyprus,52,Cotton, Lebanon, Lebanon,230,34.9823018,33.1451285,,
+2008,2008,Import,Cyprus,52,Cotton, Pakistan, Pakistan,511225,34.9823018,33.1451285,,
+2008,2008,Import,Cyprus,52,Cotton, United Arab Emirates, United Arab Emirates,4799,34.9823018,33.1451285,,

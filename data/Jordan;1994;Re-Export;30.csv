@@ -1,5 +1,5 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
-1994,1994,Re-Export,Jordan,30,Pharmaceutical products,Northern Africa,Africa,86689,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1994,1994,Re-Export,Jordan,30,Pharmaceutical products,Egypt,Egypt,86689,31.1667049,36.941628,,
 1994,1994,Re-Export,Jordan,30,Pharmaceutical products,Northern America,Americas,18891,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 1994,1994,Re-Export,Jordan,30,Pharmaceutical products,Northern Europe,Europe,7299,31.1667049,36.941628,59.36075159783851,25.01346951967388
 1994,1994,Re-Export,Jordan,30,Pharmaceutical products,Southern Europe,Europe,56533,31.1667049,36.941628,40.12399607988535,20.742583178432696
@@ -7,3 +7,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1994,1994,Re-Export,Jordan,30,Pharmaceutical products,Western Asia,Asia,452775,31.1667049,36.941628,26.42921218083572,52.86847103284948
 1994,1994,Re-Export,Jordan,30,Pharmaceutical products,Western Europe,Europe,416141,31.1667049,36.941628,47.92172048214207,7.866753258497997
 1994,1994,Re-Export,Jordan,30,Pharmaceutical products,World,World,7716028,31.1667049,36.941628,,
+1994,1994,Re-Export,Jordan,30,Pharmaceutical products, Cyprus, Cyprus,225703,31.1667049,36.941628,,
+1994,1994,Re-Export,Jordan,30,Pharmaceutical products, Iraq, Iraq,5572359,31.1667049,36.941628,,
+1994,1994,Re-Export,Jordan,30,Pharmaceutical products, Lebanon, Lebanon,37303,31.1667049,36.941628,,
+1994,1994,Re-Export,Jordan,30,Pharmaceutical products, Qatar, Qatar,65641,31.1667049,36.941628,,
+1994,1994,Re-Export,Jordan,30,Pharmaceutical products, United Arab Emirates, United Arab Emirates,12938,31.1667049,36.941628,,
+1994,1994,Re-Export,Jordan,30,Pharmaceutical products, Yemen, Yemen,34920,31.1667049,36.941628,,

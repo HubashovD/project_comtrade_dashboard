@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products",Australia and New Zealand,Oceania,11009,31.1667049,36.941628,-16.85099460447687,133.4130365630627
 1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products",Eastern Asia,Asia,1224,31.1667049,36.941628,37.977378106878206,73.97804075806764
-1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products",Northern Africa,Africa,69776,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products",Egypt,Egypt,69776,31.1667049,36.941628,,
 1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products",Northern America,Americas,186326,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products",Northern Europe,Europe,279846,31.1667049,36.941628,59.36075159783851,25.01346951967388
 1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products",South-eastern Asia,Asia,112529,31.1667049,36.941628,10.528384761701911,103.08333472012376
@@ -10,3 +10,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products",Western Asia,Asia,607936,31.1667049,36.941628,26.42921218083572,52.86847103284948
 1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products",Western Europe,Europe,491817,31.1667049,36.941628,47.92172048214207,7.866753258497997
 1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products",World,World,3296615,31.1667049,36.941628,,
+1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products", Cyprus, Cyprus,3281,31.1667049,36.941628,,
+1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products", Malta, Malta,39508,31.1667049,36.941628,,
+1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products", Saudi Arabia, Saudi Arabia,185855,31.1667049,36.941628,,
+1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products", United Arab Emirates, United Arab Emirates,8253,31.1667049,36.941628,,
+1994,1994,Import,Jordan,19,"Cereal, flour, starch, milk preparations and products", Yemen, Yemen,27264,31.1667049,36.941628,,

@@ -1,8 +1,8 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,420469,31.1667049,36.941628,37.977378106878206,73.97804075806764
 1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,84618,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices",Egypt,Egypt,54085,31.1667049,36.941628,,
 1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,4997120,31.1667049,36.941628,17.925141963241547,-78.01492950057497
-1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices",Northern Africa,Africa,54085,31.1667049,36.941628,19.569604022535763,12.47761721199581
 1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices",Northern America,Americas,115480,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices",Northern Europe,Europe,801671,31.1667049,36.941628,59.36075159783851,25.01346951967388
 1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,1095152,31.1667049,36.941628,10.528384761701911,103.08333472012376
@@ -12,3 +12,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices",Western Asia,Asia,902101,31.1667049,36.941628,26.42921218083572,52.86847103284948
 1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices",Western Europe,Europe,167441,31.1667049,36.941628,47.92172048214207,7.866753258497997
 1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices",World,World,29129264,31.1667049,36.941628,,
+1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices", Israel, Israel,865,31.1667049,36.941628,,
+1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices", Lebanon, Lebanon,79394,31.1667049,36.941628,,
+1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices", Pakistan, Pakistan,73984,31.1667049,36.941628,,
+1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices", Saudi Arabia, Saudi Arabia,162055,31.1667049,36.941628,,
+1999,1999,Import,Jordan,9,"Coffee, tea, mate and spices", United Arab Emirates, United Arab Emirates,5575,31.1667049,36.941628,,

@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2000,2000,Re-Export,Cyprus,52,Cotton,Eastern Asia,Asia,4896,34.9823018,33.1451285,37.977378106878206,73.97804075806764
 2000,2000,Re-Export,Cyprus,52,Cotton,Eastern Europe,Europe,103386,34.9823018,33.1451285,51.67568633314729,27.673469819741847
-2000,2000,Re-Export,Cyprus,52,Cotton,Northern Africa,Africa,37087,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2000,2000,Re-Export,Cyprus,52,Cotton,Egypt,Egypt,37087,34.9823018,33.1451285,,
 2000,2000,Re-Export,Cyprus,52,Cotton,Northern America,Americas,5456,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
 2000,2000,Re-Export,Cyprus,52,Cotton,Northern Europe,Europe,25952,34.9823018,33.1451285,59.36075159783851,25.01346951967388
 2000,2000,Re-Export,Cyprus,52,Cotton,South-eastern Asia,Asia,1801,34.9823018,33.1451285,10.528384761701911,103.08333472012376
@@ -10,3 +10,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Re-Export,Cyprus,52,Cotton,Western Asia,Asia,155388,34.9823018,33.1451285,26.42921218083572,52.86847103284948
 2000,2000,Re-Export,Cyprus,52,Cotton,Western Europe,Europe,25339,34.9823018,33.1451285,47.92172048214207,7.866753258497997
 2000,2000,Re-Export,Cyprus,52,Cotton,World,World,1673563,34.9823018,33.1451285,,
+2000,2000,Re-Export,Cyprus,52,Cotton, Algeria, Algeria,69869,34.9823018,33.1451285,,
+2000,2000,Re-Export,Cyprus,52,Cotton, Jordan, Jordan,43829,34.9823018,33.1451285,,
+2000,2000,Re-Export,Cyprus,52,Cotton, Lebanon, Lebanon,320041,34.9823018,33.1451285,,
+2000,2000,Re-Export,Cyprus,52,Cotton, Libya, Libya,1066,34.9823018,33.1451285,,
+2000,2000,Re-Export,Cyprus,52,Cotton, Malta, Malta,1622,34.9823018,33.1451285,,
+2000,2000,Re-Export,Cyprus,52,Cotton, Saudi Arabia, Saudi Arabia,11992,34.9823018,33.1451285,,
+2000,2000,Re-Export,Cyprus,52,Cotton, United Arab Emirates, United Arab Emirates,19232,34.9823018,33.1451285,,

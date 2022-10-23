@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1995,1995,Export,Jordan,76,Aluminium and articles thereof,Central Asia,Asia,44113,31.1667049,36.941628,39.89317229901691,61.060280637304274
 1995,1995,Export,Jordan,76,Aluminium and articles thereof,Eastern Asia,Asia,6153725,31.1667049,36.941628,37.977378106878206,73.97804075806764
-1995,1995,Export,Jordan,76,Aluminium and articles thereof,Northern Africa,Africa,181420,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1995,1995,Export,Jordan,76,Aluminium and articles thereof,Egypt,Egypt,181420,31.1667049,36.941628,,
 1995,1995,Export,Jordan,76,Aluminium and articles thereof,Northern America,Americas,209930,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 1995,1995,Export,Jordan,76,Aluminium and articles thereof,Northern Europe,Europe,248751,31.1667049,36.941628,59.36075159783851,25.01346951967388
 1995,1995,Export,Jordan,76,Aluminium and articles thereof,Southern Asia,Asia,32827,31.1667049,36.941628,25.499703063807168,75.5024015339642
@@ -9,3 +9,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1995,1995,Export,Jordan,76,Aluminium and articles thereof,Western Asia,Asia,1710,31.1667049,36.941628,26.42921218083572,52.86847103284948
 1995,1995,Export,Jordan,76,Aluminium and articles thereof,Western Europe,Europe,145328,31.1667049,36.941628,47.92172048214207,7.866753258497997
 1995,1995,Export,Jordan,76,Aluminium and articles thereof,World,World,14769121,31.1667049,36.941628,,
+1995,1995,Export,Jordan,76,Aluminium and articles thereof, Lebanon, Lebanon,1318769,31.1667049,36.941628,,
+1995,1995,Export,Jordan,76,Aluminium and articles thereof, Libya, Libya,582375,31.1667049,36.941628,,
+1995,1995,Export,Jordan,76,Aluminium and articles thereof, Saudi Arabia, Saudi Arabia,528505,31.1667049,36.941628,,
+1995,1995,Export,Jordan,76,Aluminium and articles thereof, United Arab Emirates, United Arab Emirates,619302,31.1667049,36.941628,,
+1995,1995,Export,Jordan,76,Aluminium and articles thereof, Yemen, Yemen,66648,31.1667049,36.941628,,

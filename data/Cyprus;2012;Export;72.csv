@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2012,2012,Export,Cyprus,72,Iron and steel,Eastern Asia,Asia,1024720,34.9823018,33.1451285,37.977378106878206,73.97804075806764
-2012,2012,Export,Cyprus,72,Iron and steel,Northern Africa,Africa,96662,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+2012,2012,Export,Cyprus,72,Iron and steel,Egypt,Egypt,96662,34.9823018,33.1451285,,
 2012,2012,Export,Cyprus,72,Iron and steel,Northern America,Americas,257,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
 2012,2012,Export,Cyprus,72,Iron and steel,Northern Europe,Europe,321786,34.9823018,33.1451285,59.36075159783851,25.01346951967388
 2012,2012,Export,Cyprus,72,Iron and steel,South-eastern Asia,Asia,464376,34.9823018,33.1451285,10.528384761701911,103.08333472012376
@@ -8,3 +8,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2012,2012,Export,Cyprus,72,Iron and steel,Sub-Saharan Africa,Africa,8356,34.9823018,33.1451285,6.06272746187266,22.727528470146083
 2012,2012,Export,Cyprus,72,Iron and steel,Western Europe,Europe,2574013,34.9823018,33.1451285,47.92172048214207,7.866753258497997
 2012,2012,Export,Cyprus,72,Iron and steel,World,World,53232746,34.9823018,33.1451285,,
+2012,2012,Export,Cyprus,72,Iron and steel, Israel, Israel,168,34.9823018,33.1451285,,
+2012,2012,Export,Cyprus,72,Iron and steel, Pakistan, Pakistan,345792,34.9823018,33.1451285,,
+2012,2012,Export,Cyprus,72,Iron and steel, United Arab Emirates, United Arab Emirates,313614,34.9823018,33.1451285,,

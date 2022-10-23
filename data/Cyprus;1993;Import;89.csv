@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1993,1993,Import,Cyprus,89,"Ships, boats and other floating structures",Eastern Asia,Asia,320060,34.9823018,33.1451285,37.977378106878206,73.97804075806764
 1993,1993,Import,Cyprus,89,"Ships, boats and other floating structures",Eastern Europe,Europe,983574,34.9823018,33.1451285,51.67568633314729,27.673469819741847
-1993,1993,Import,Cyprus,89,"Ships, boats and other floating structures",Northern Africa,Africa,8592,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1993,1993,Import,Cyprus,89,"Ships, boats and other floating structures",Egypt,Egypt,8592,34.9823018,33.1451285,,
 1993,1993,Import,Cyprus,89,"Ships, boats and other floating structures",Northern America,Americas,546891,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
 1993,1993,Import,Cyprus,89,"Ships, boats and other floating structures",Northern Europe,Europe,590041,34.9823018,33.1451285,59.36075159783851,25.01346951967388
 1993,1993,Import,Cyprus,89,"Ships, boats and other floating structures",South-eastern Asia,Asia,2428020,34.9823018,33.1451285,10.528384761701911,103.08333472012376
@@ -9,3 +9,5 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1993,1993,Import,Cyprus,89,"Ships, boats and other floating structures",Western Asia,Asia,37634,34.9823018,33.1451285,26.42921218083572,52.86847103284948
 1993,1993,Import,Cyprus,89,"Ships, boats and other floating structures",Western Europe,Europe,99066,34.9823018,33.1451285,47.92172048214207,7.866753258497997
 1993,1993,Import,Cyprus,89,"Ships, boats and other floating structures",World,World,8308100,34.9823018,33.1451285,,
+1993,1993,Import,Cyprus,89,"Ships, boats and other floating structures", Israel, Israel,10030,34.9823018,33.1451285,,
+1993,1993,Import,Cyprus,89,"Ships, boats and other floating structures", Lebanon, Lebanon,33042,34.9823018,33.1451285,,

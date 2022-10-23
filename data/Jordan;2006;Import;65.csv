@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2006,2006,Import,Jordan,65,Headgear and parts thereof,Australia and New Zealand,Oceania,1711,31.1667049,36.941628,-16.85099460447687,133.4130365630627
 2006,2006,Import,Jordan,65,Headgear and parts thereof,Eastern Asia,Asia,567985,31.1667049,36.941628,37.977378106878206,73.97804075806764
-2006,2006,Import,Jordan,65,Headgear and parts thereof,Northern Africa,Africa,776,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2006,2006,Import,Jordan,65,Headgear and parts thereof,Egypt,Egypt,776,31.1667049,36.941628,,
 2006,2006,Import,Jordan,65,Headgear and parts thereof,Northern America,Americas,35257,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 2006,2006,Import,Jordan,65,Headgear and parts thereof,Northern Europe,Europe,31203,31.1667049,36.941628,59.36075159783851,25.01346951967388
 2006,2006,Import,Jordan,65,Headgear and parts thereof,South-eastern Asia,Asia,22065,31.1667049,36.941628,10.528384761701911,103.08333472012376
@@ -10,3 +10,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2006,2006,Import,Jordan,65,Headgear and parts thereof,Western Asia,Asia,3115,31.1667049,36.941628,26.42921218083572,52.86847103284948
 2006,2006,Import,Jordan,65,Headgear and parts thereof,Western Europe,Europe,21035,31.1667049,36.941628,47.92172048214207,7.866753258497997
 2006,2006,Import,Jordan,65,Headgear and parts thereof,World,World,801828,31.1667049,36.941628,,
+2006,2006,Import,Jordan,65,Headgear and parts thereof, Kuwait, Kuwait,212,31.1667049,36.941628,,
+2006,2006,Import,Jordan,65,Headgear and parts thereof, Lebanon, Lebanon,2039,31.1667049,36.941628,,
+2006,2006,Import,Jordan,65,Headgear and parts thereof, United Arab Emirates, United Arab Emirates,509,31.1667049,36.941628,,

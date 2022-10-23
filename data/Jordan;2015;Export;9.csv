@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices",Australia and New Zealand,Oceania,554550,31.1667049,36.941628,-16.85099460447687,133.4130365630627
 2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,8639,31.1667049,36.941628,37.977378106878206,73.97804075806764
-2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices",Northern Africa,Africa,277442,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices",Egypt,Egypt,277442,31.1667049,36.941628,,
 2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices",Northern America,Americas,2074232,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,89203,31.1667049,36.941628,10.528384761701911,103.08333472012376
 2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices",Southern Asia,Asia,23724,31.1667049,36.941628,25.499703063807168,75.5024015339642
@@ -10,3 +10,15 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices",Western Asia,Asia,79635,31.1667049,36.941628,26.42921218083572,52.86847103284948
 2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices",Western Europe,Europe,261674,31.1667049,36.941628,47.92172048214207,7.866753258497997
 2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices",World,World,29447243,31.1667049,36.941628,,
+2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices", Algeria, Algeria,32294,31.1667049,36.941628,,
+2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices", Bahrain, Bahrain,235100,31.1667049,36.941628,,
+2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices", Iraq, Iraq,3096447,31.1667049,36.941628,,
+2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices", Kuwait, Kuwait,716276,31.1667049,36.941628,,
+2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices", Lebanon, Lebanon,29107,31.1667049,36.941628,,
+2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices", Libya, Libya,1135724,31.1667049,36.941628,,
+2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices", Oman, Oman,44589,31.1667049,36.941628,,
+2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices", Qatar, Qatar,482514,31.1667049,36.941628,,
+2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices", Saudi Arabia, Saudi Arabia,12785694,31.1667049,36.941628,,
+2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices", State of Palestine, State of Palestine,236921,31.1667049,36.941628,,
+2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices", United Arab Emirates, United Arab Emirates,1878224,31.1667049,36.941628,,
+2015,2015,Export,Jordan,9,"Coffee, tea, mate and spices", Yemen, Yemen,23407,31.1667049,36.941628,,

@@ -1,8 +1,8 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2000,2000,Import,Jordan,31,Fertilizers,Eastern Asia,Asia,1035188,31.1667049,36.941628,37.977378106878206,73.97804075806764
 2000,2000,Import,Jordan,31,Fertilizers,Eastern Europe,Europe,798610,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2000,2000,Import,Jordan,31,Fertilizers,Egypt,Egypt,3375077,31.1667049,36.941628,,
 2000,2000,Import,Jordan,31,Fertilizers,Latin America and the Caribbean,Americas,18096,31.1667049,36.941628,17.925141963241547,-78.01492950057497
-2000,2000,Import,Jordan,31,Fertilizers,Northern Africa,Africa,3375077,31.1667049,36.941628,19.569604022535763,12.47761721199581
 2000,2000,Import,Jordan,31,Fertilizers,Northern America,Americas,579546,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 2000,2000,Import,Jordan,31,Fertilizers,Northern Europe,Europe,458115,31.1667049,36.941628,59.36075159783851,25.01346951967388
 2000,2000,Import,Jordan,31,Fertilizers,Southern Asia,Asia,187855,31.1667049,36.941628,25.499703063807168,75.5024015339642
@@ -11,3 +11,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Import,Jordan,31,Fertilizers,Western Asia,Asia,33140,31.1667049,36.941628,26.42921218083572,52.86847103284948
 2000,2000,Import,Jordan,31,Fertilizers,Western Europe,Europe,2601785,31.1667049,36.941628,47.92172048214207,7.866753258497997
 2000,2000,Import,Jordan,31,Fertilizers,World,World,12852830,31.1667049,36.941628,,
+2000,2000,Import,Jordan,31,Fertilizers, Israel, Israel,420919,31.1667049,36.941628,,
+2000,2000,Import,Jordan,31,Fertilizers, Kuwait, Kuwait,563501,31.1667049,36.941628,,
+2000,2000,Import,Jordan,31,Fertilizers, Lebanon, Lebanon,31394,31.1667049,36.941628,,
+2000,2000,Import,Jordan,31,Fertilizers, Saudi Arabia, Saudi Arabia,621811,31.1667049,36.941628,,
+2000,2000,Import,Jordan,31,Fertilizers, United Arab Emirates, United Arab Emirates,700684,31.1667049,36.941628,,

@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2016,2016,Import,State of Palestine,72,Iron and steel,Eastern Asia,Asia,10184897,31.46242095,34.262716572130714,37.977378106878206,73.97804075806764
 2016,2016,Import,State of Palestine,72,Iron and steel,Eastern Europe,Europe,25564621,31.46242095,34.262716572130714,51.67568633314729,27.673469819741847
-2016,2016,Import,State of Palestine,72,Iron and steel,Northern Africa,Africa,112914,31.46242095,34.262716572130714,19.569604022535763,12.47761721199581
+2016,2016,Import,State of Palestine,72,Iron and steel,Egypt,Egypt,112914,31.46242095,34.262716572130714,,
 2016,2016,Import,State of Palestine,72,Iron and steel,Northern America,Americas,16281,31.46242095,34.262716572130714,43.897683433510366,-100.08947125585888
 2016,2016,Import,State of Palestine,72,Iron and steel,Northern Europe,Europe,553887,31.46242095,34.262716572130714,59.36075159783851,25.01346951967388
 2016,2016,Import,State of Palestine,72,Iron and steel,South-eastern Asia,Asia,558,31.46242095,34.262716572130714,10.528384761701911,103.08333472012376
@@ -10,3 +10,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2016,2016,Import,State of Palestine,72,Iron and steel,Western Asia,Asia,102695749,31.46242095,34.262716572130714,26.42921218083572,52.86847103284948
 2016,2016,Import,State of Palestine,72,Iron and steel,Western Europe,Europe,423131,31.46242095,34.262716572130714,47.92172048214207,7.866753258497997
 2016,2016,Import,State of Palestine,72,Iron and steel,World,World,192284862,31.46242095,34.262716572130714,,
+2016,2016,Import,State of Palestine,72,Iron and steel, Israel, Israel,45464642,31.46242095,34.262716572130714,,
+2016,2016,Import,State of Palestine,72,Iron and steel, Jordan, Jordan,49263,31.46242095,34.262716572130714,,
+2016,2016,Import,State of Palestine,72,Iron and steel, Saudi Arabia, Saudi Arabia,68586,31.46242095,34.262716572130714,,

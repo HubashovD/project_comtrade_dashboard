@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Eastern Asia,Asia,817835,31.1667049,36.941628,37.977378106878206,73.97804075806764
 2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Eastern Europe,Europe,16860,31.1667049,36.941628,51.67568633314729,27.673469819741847
-2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Northern Africa,Africa,2735,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Egypt,Egypt,2735,31.1667049,36.941628,,
 2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Northern America,Americas,185245,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Northern Europe,Europe,349019,31.1667049,36.941628,59.36075159783851,25.01346951967388
 2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",South-eastern Asia,Asia,57081,31.1667049,36.941628,10.528384761701911,103.08333472012376
@@ -10,3 +10,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Western Asia,Asia,249191,31.1667049,36.941628,26.42921218083572,52.86847103284948
 2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",Western Europe,Europe,557002,31.1667049,36.941628,47.92172048214207,7.866753258497997
 2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric",World,World,3517120,31.1667049,36.941628,,
+2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric", Cyprus, Cyprus,2426,31.1667049,36.941628,,
+2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric", Israel, Israel,56526,31.1667049,36.941628,,
+2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric", Lebanon, Lebanon,10788,31.1667049,36.941628,,
+2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric", Pakistan, Pakistan,7224,31.1667049,36.941628,,
+2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric", Saudi Arabia, Saudi Arabia,248889,31.1667049,36.941628,,
+2000,2000,Import,Jordan,59,"Impregnated, coated or laminated textile fabric", United Arab Emirates, United Arab Emirates,10460,31.1667049,36.941628,,

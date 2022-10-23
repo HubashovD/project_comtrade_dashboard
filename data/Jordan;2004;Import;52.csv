@@ -1,8 +1,8 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2004,2004,Import,Jordan,52,Cotton,Eastern Asia,Asia,42292603,31.1667049,36.941628,37.977378106878206,73.97804075806764
 2004,2004,Import,Jordan,52,Cotton,Eastern Europe,Europe,93178,31.1667049,36.941628,51.67568633314729,27.673469819741847
+2004,2004,Import,Jordan,52,Cotton,Egypt,Egypt,374314,31.1667049,36.941628,,
 2004,2004,Import,Jordan,52,Cotton,Latin America and the Caribbean,Americas,115656,31.1667049,36.941628,17.925141963241547,-78.01492950057497
-2004,2004,Import,Jordan,52,Cotton,Northern Africa,Africa,374314,31.1667049,36.941628,19.569604022535763,12.47761721199581
 2004,2004,Import,Jordan,52,Cotton,Northern America,Americas,70656,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 2004,2004,Import,Jordan,52,Cotton,Northern Europe,Europe,38264,31.1667049,36.941628,59.36075159783851,25.01346951967388
 2004,2004,Import,Jordan,52,Cotton,South-eastern Asia,Asia,523723,31.1667049,36.941628,10.528384761701911,103.08333472012376
@@ -11,3 +11,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2004,2004,Import,Jordan,52,Cotton,Western Asia,Asia,6176723,31.1667049,36.941628,26.42921218083572,52.86847103284948
 2004,2004,Import,Jordan,52,Cotton,Western Europe,Europe,447662,31.1667049,36.941628,47.92172048214207,7.866753258497997
 2004,2004,Import,Jordan,52,Cotton,World,World,77878222,31.1667049,36.941628,,
+2004,2004,Import,Jordan,52,Cotton, Israel, Israel,3542210,31.1667049,36.941628,,
+2004,2004,Import,Jordan,52,Cotton, Lebanon, Lebanon,436,31.1667049,36.941628,,
+2004,2004,Import,Jordan,52,Cotton, Morocco, Morocco,678,31.1667049,36.941628,,
+2004,2004,Import,Jordan,52,Cotton, Pakistan, Pakistan,8644835,31.1667049,36.941628,,
+2004,2004,Import,Jordan,52,Cotton, Saudi Arabia, Saudi Arabia,79574,31.1667049,36.941628,,
+2004,2004,Import,Jordan,52,Cotton, United Arab Emirates, United Arab Emirates,257329,31.1667049,36.941628,,

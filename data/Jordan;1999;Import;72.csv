@@ -3,8 +3,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1999,1999,Import,Jordan,72,Iron and steel,Central Asia,Asia,949800,31.1667049,36.941628,39.89317229901691,61.060280637304274
 1999,1999,Import,Jordan,72,Iron and steel,Eastern Asia,Asia,5102247,31.1667049,36.941628,37.977378106878206,73.97804075806764
 1999,1999,Import,Jordan,72,Iron and steel,Eastern Europe,Europe,79179824,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1999,1999,Import,Jordan,72,Iron and steel,Egypt,Egypt,344948,31.1667049,36.941628,,
 1999,1999,Import,Jordan,72,Iron and steel,Latin America and the Caribbean,Americas,406031,31.1667049,36.941628,17.925141963241547,-78.01492950057497
-1999,1999,Import,Jordan,72,Iron and steel,Northern Africa,Africa,344948,31.1667049,36.941628,19.569604022535763,12.47761721199581
 1999,1999,Import,Jordan,72,Iron and steel,Northern America,Americas,485623,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 1999,1999,Import,Jordan,72,Iron and steel,Northern Europe,Europe,739557,31.1667049,36.941628,59.36075159783851,25.01346951967388
 1999,1999,Import,Jordan,72,Iron and steel,South-eastern Asia,Asia,48681,31.1667049,36.941628,10.528384761701911,103.08333472012376
@@ -12,3 +12,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1999,1999,Import,Jordan,72,Iron and steel,Western Asia,Asia,2775776,31.1667049,36.941628,26.42921218083572,52.86847103284948
 1999,1999,Import,Jordan,72,Iron and steel,Western Europe,Europe,8867527,31.1667049,36.941628,47.92172048214207,7.866753258497997
 1999,1999,Import,Jordan,72,Iron and steel,World,World,108245104,31.1667049,36.941628,,
+1999,1999,Import,Jordan,72,Iron and steel, Algeria, Algeria,1568476,31.1667049,36.941628,,
+1999,1999,Import,Jordan,72,Iron and steel, Israel, Israel,268615,31.1667049,36.941628,,
+1999,1999,Import,Jordan,72,Iron and steel, Lebanon, Lebanon,544439,31.1667049,36.941628,,
+1999,1999,Import,Jordan,72,Iron and steel, Morocco, Morocco,64844,31.1667049,36.941628,,
+1999,1999,Import,Jordan,72,Iron and steel, Saudi Arabia, Saudi Arabia,1620141,31.1667049,36.941628,,
+1999,1999,Import,Jordan,72,Iron and steel, United Arab Emirates, United Arab Emirates,237713,31.1667049,36.941628,,

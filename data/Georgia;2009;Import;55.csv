@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2009,2009,Import,Georgia,55,Man-made staple fibres,Eastern Asia,Asia,630491,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
 2009,2009,Import,Georgia,55,Man-made staple fibres,Eastern Europe,Europe,126017,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
-2009,2009,Import,Georgia,55,Man-made staple fibres,Northern Africa,Africa,6487,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2009,2009,Import,Georgia,55,Man-made staple fibres,Egypt,Egypt,6487,32.3293809,-83.1137366,,
 2009,2009,Import,Georgia,55,Man-made staple fibres,Northern America,Americas,843,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
 2009,2009,Import,Georgia,55,Man-made staple fibres,Northern Europe,Europe,190240,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
 2009,2009,Import,Georgia,55,Man-made staple fibres,Southern Asia,Asia,117990,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
@@ -9,3 +9,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2009,2009,Import,Georgia,55,Man-made staple fibres,Western Asia,Asia,3749021,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
 2009,2009,Import,Georgia,55,Man-made staple fibres,Western Europe,Europe,1175400,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
 2009,2009,Import,Georgia,55,Man-made staple fibres,World,World,6884385,32.3293809,-83.1137366,,
+2009,2009,Import,Georgia,55,Man-made staple fibres, Armenia, Armenia,34,32.3293809,-83.1137366,,
+2009,2009,Import,Georgia,55,Man-made staple fibres, Azerbaijan, Azerbaijan,15,32.3293809,-83.1137366,,
+2009,2009,Import,Georgia,55,Man-made staple fibres, Israel, Israel,39,32.3293809,-83.1137366,,
+2009,2009,Import,Georgia,55,Man-made staple fibres, Jordan, Jordan,27,32.3293809,-83.1137366,,
+2009,2009,Import,Georgia,55,Man-made staple fibres, Kuwait, Kuwait,66,32.3293809,-83.1137366,,
+2009,2009,Import,Georgia,55,Man-made staple fibres, Lebanon, Lebanon,151,32.3293809,-83.1137366,,
+2009,2009,Import,Georgia,55,Man-made staple fibres, United Arab Emirates, United Arab Emirates,813116,32.3293809,-83.1137366,,

@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2000,2000,Import,Jordan,92,"Musical instruments, parts and accessories",Eastern Asia,Asia,163370,31.1667049,36.941628,37.977378106878206,73.97804075806764
 2000,2000,Import,Jordan,92,"Musical instruments, parts and accessories",Eastern Europe,Europe,10324,31.1667049,36.941628,51.67568633314729,27.673469819741847
-2000,2000,Import,Jordan,92,"Musical instruments, parts and accessories",Northern Africa,Africa,110,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Import,Jordan,92,"Musical instruments, parts and accessories",Egypt,Egypt,110,31.1667049,36.941628,,
 2000,2000,Import,Jordan,92,"Musical instruments, parts and accessories",Northern America,Americas,12330,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 2000,2000,Import,Jordan,92,"Musical instruments, parts and accessories",Northern Europe,Europe,13068,31.1667049,36.941628,59.36075159783851,25.01346951967388
 2000,2000,Import,Jordan,92,"Musical instruments, parts and accessories",South-eastern Asia,Asia,11930,31.1667049,36.941628,10.528384761701911,103.08333472012376
@@ -9,3 +9,5 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Import,Jordan,92,"Musical instruments, parts and accessories",Western Asia,Asia,13222,31.1667049,36.941628,26.42921218083572,52.86847103284948
 2000,2000,Import,Jordan,92,"Musical instruments, parts and accessories",Western Europe,Europe,38816,31.1667049,36.941628,47.92172048214207,7.866753258497997
 2000,2000,Import,Jordan,92,"Musical instruments, parts and accessories",World,World,339557,31.1667049,36.941628,,
+2000,2000,Import,Jordan,92,"Musical instruments, parts and accessories", Pakistan, Pakistan,5948,31.1667049,36.941628,,
+2000,2000,Import,Jordan,92,"Musical instruments, parts and accessories", United Arab Emirates, United Arab Emirates,226,31.1667049,36.941628,,

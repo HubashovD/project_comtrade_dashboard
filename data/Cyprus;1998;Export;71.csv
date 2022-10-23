@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,107097,34.9823018,33.1451285,37.977378106878206,73.97804075806764
 1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,355753,34.9823018,33.1451285,51.67568633314729,27.673469819741847
-1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Northern Africa,Africa,27832,34.9823018,33.1451285,19.569604022535763,12.47761721199581
+1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Egypt,Egypt,27832,34.9823018,33.1451285,,
 1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,528213,34.9823018,33.1451285,43.897683433510366,-100.08947125585888
 1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,565388,34.9823018,33.1451285,59.36075159783851,25.01346951967388
 1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,133854,34.9823018,33.1451285,10.528384761701911,103.08333472012376
@@ -9,3 +9,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Sub-Saharan Africa,Africa,18178,34.9823018,33.1451285,6.06272746187266,22.727528470146083
 1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,215250,34.9823018,33.1451285,47.92172048214207,7.866753258497997
 1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc",World,World,8391611,34.9823018,33.1451285,,
+1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc", Israel, Israel,641322,34.9823018,33.1451285,,
+1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc", Jordan, Jordan,21025,34.9823018,33.1451285,,
+1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc", Lebanon, Lebanon,504762,34.9823018,33.1451285,,
+1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc", Saudi Arabia, Saudi Arabia,24925,34.9823018,33.1451285,,
+1998,1998,Export,Cyprus,71,"Pearls, precious stones, metals, coins, etc", United Arab Emirates, United Arab Emirates,637735,34.9823018,33.1451285,,

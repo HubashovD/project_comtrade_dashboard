@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1999,1999,Import,Jordan,54,Manmade filaments,Eastern Asia,Asia,16053825,31.1667049,36.941628,37.977378106878206,73.97804075806764
 1999,1999,Import,Jordan,54,Manmade filaments,Eastern Europe,Europe,238226,31.1667049,36.941628,51.67568633314729,27.673469819741847
-1999,1999,Import,Jordan,54,Manmade filaments,Northern Africa,Africa,227991,31.1667049,36.941628,19.569604022535763,12.47761721199581
+1999,1999,Import,Jordan,54,Manmade filaments,Egypt,Egypt,227991,31.1667049,36.941628,,
 1999,1999,Import,Jordan,54,Manmade filaments,Northern America,Americas,851489,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 1999,1999,Import,Jordan,54,Manmade filaments,Northern Europe,Europe,865518,31.1667049,36.941628,59.36075159783851,25.01346951967388
 1999,1999,Import,Jordan,54,Manmade filaments,South-eastern Asia,Asia,3938066,31.1667049,36.941628,10.528384761701911,103.08333472012376
@@ -10,3 +10,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1999,1999,Import,Jordan,54,Manmade filaments,Western Asia,Asia,10286183,31.1667049,36.941628,26.42921218083572,52.86847103284948
 1999,1999,Import,Jordan,54,Manmade filaments,Western Europe,Europe,1309137,31.1667049,36.941628,47.92172048214207,7.866753258497997
 1999,1999,Import,Jordan,54,Manmade filaments,World,World,42935276,31.1667049,36.941628,,
+1999,1999,Import,Jordan,54,Manmade filaments, Cyprus, Cyprus,28315,31.1667049,36.941628,,
+1999,1999,Import,Jordan,54,Manmade filaments, Israel, Israel,40077,31.1667049,36.941628,,
+1999,1999,Import,Jordan,54,Manmade filaments, Lebanon, Lebanon,11255,31.1667049,36.941628,,
+1999,1999,Import,Jordan,54,Manmade filaments, Morocco, Morocco,12947,31.1667049,36.941628,,
+1999,1999,Import,Jordan,54,Manmade filaments, Pakistan, Pakistan,499243,31.1667049,36.941628,,
+1999,1999,Import,Jordan,54,Manmade filaments, Saudi Arabia, Saudi Arabia,514383,31.1667049,36.941628,,
+1999,1999,Import,Jordan,54,Manmade filaments, United Arab Emirates, United Arab Emirates,52257,31.1667049,36.941628,,

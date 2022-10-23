@@ -360,8 +360,8 @@ function map_chart() {
 
             // console.log(data)
 
-            dataForDownload = []
-            head = []
+            var dataForDownload = []
+            var head = []
                 // console.log(data)
 
             ignorelist = ["rtLat", "rtLon", "ptLon", "ptLat"]

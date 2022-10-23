@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2007,2007,Import,Georgia,54,Man-made filaments,Eastern Asia,Asia,59854,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
 2007,2007,Import,Georgia,54,Man-made filaments,Eastern Europe,Europe,156939,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
-2007,2007,Import,Georgia,54,Man-made filaments,Northern Africa,Africa,97,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2007,2007,Import,Georgia,54,Man-made filaments,Egypt,Egypt,97,32.3293809,-83.1137366,,
 2007,2007,Import,Georgia,54,Man-made filaments,Northern America,Americas,454,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
 2007,2007,Import,Georgia,54,Man-made filaments,Northern Europe,Europe,5061,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
 2007,2007,Import,Georgia,54,Man-made filaments,Southern Asia,Asia,672458,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
@@ -9,3 +9,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2007,2007,Import,Georgia,54,Man-made filaments,Western Asia,Asia,2686281,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
 2007,2007,Import,Georgia,54,Man-made filaments,Western Europe,Europe,532261,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
 2007,2007,Import,Georgia,54,Man-made filaments,World,World,5843856,32.3293809,-83.1137366,,
+2007,2007,Import,Georgia,54,Man-made filaments, Azerbaijan, Azerbaijan,689479,32.3293809,-83.1137366,,
+2007,2007,Import,Georgia,54,Man-made filaments, Israel, Israel,13,32.3293809,-83.1137366,,
+2007,2007,Import,Georgia,54,Man-made filaments, United Arab Emirates, United Arab Emirates,1004039,32.3293809,-83.1137366,,

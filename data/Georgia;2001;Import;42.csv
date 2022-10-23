@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2001,2001,Import,Georgia,42,"Articles of leather, animal gut, harness, travel goods",Eastern Asia,Asia,76813,32.3293809,-83.1137366,37.977378106878206,73.97804075806764
 2001,2001,Import,Georgia,42,"Articles of leather, animal gut, harness, travel goods",Eastern Europe,Europe,4453,32.3293809,-83.1137366,51.67568633314729,27.673469819741847
-2001,2001,Import,Georgia,42,"Articles of leather, animal gut, harness, travel goods",Northern Africa,Africa,577,32.3293809,-83.1137366,19.569604022535763,12.47761721199581
+2001,2001,Import,Georgia,42,"Articles of leather, animal gut, harness, travel goods",Egypt,Egypt,577,32.3293809,-83.1137366,,
 2001,2001,Import,Georgia,42,"Articles of leather, animal gut, harness, travel goods",Northern America,Americas,32968,32.3293809,-83.1137366,43.897683433510366,-100.08947125585888
 2001,2001,Import,Georgia,42,"Articles of leather, animal gut, harness, travel goods",Northern Europe,Europe,5290,32.3293809,-83.1137366,59.36075159783851,25.01346951967388
 2001,2001,Import,Georgia,42,"Articles of leather, animal gut, harness, travel goods",Southern Asia,Asia,10804,32.3293809,-83.1137366,25.499703063807168,75.5024015339642
@@ -9,3 +9,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2001,2001,Import,Georgia,42,"Articles of leather, animal gut, harness, travel goods",Western Asia,Asia,55909,32.3293809,-83.1137366,26.42921218083572,52.86847103284948
 2001,2001,Import,Georgia,42,"Articles of leather, animal gut, harness, travel goods",Western Europe,Europe,110726,32.3293809,-83.1137366,47.92172048214207,7.866753258497997
 2001,2001,Import,Georgia,42,"Articles of leather, animal gut, harness, travel goods",World,World,394425,32.3293809,-83.1137366,,
+2001,2001,Import,Georgia,42,"Articles of leather, animal gut, harness, travel goods", Azerbaijan, Azerbaijan,2047,32.3293809,-83.1137366,,
+2001,2001,Import,Georgia,42,"Articles of leather, animal gut, harness, travel goods", Israel, Israel,354,32.3293809,-83.1137366,,
+2001,2001,Import,Georgia,42,"Articles of leather, animal gut, harness, travel goods", United Arab Emirates, United Arab Emirates,3478,32.3293809,-83.1137366,,

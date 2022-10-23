@@ -1,8 +1,8 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1995,1995,Import,Jordan,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,587232,31.1667049,36.941628,37.977378106878206,73.97804075806764
 1995,1995,Import,Jordan,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,18580,31.1667049,36.941628,51.67568633314729,27.673469819741847
+1995,1995,Import,Jordan,9,"Coffee, tea, mate and spices",Egypt,Egypt,31610,31.1667049,36.941628,,
 1995,1995,Import,Jordan,9,"Coffee, tea, mate and spices",Latin America and the Caribbean,Americas,9044896,31.1667049,36.941628,17.925141963241547,-78.01492950057497
-1995,1995,Import,Jordan,9,"Coffee, tea, mate and spices",Northern Africa,Africa,31610,31.1667049,36.941628,19.569604022535763,12.47761721199581
 1995,1995,Import,Jordan,9,"Coffee, tea, mate and spices",Northern America,Americas,53094,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 1995,1995,Import,Jordan,9,"Coffee, tea, mate and spices",Northern Europe,Europe,519976,31.1667049,36.941628,59.36075159783851,25.01346951967388
 1995,1995,Import,Jordan,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,540471,31.1667049,36.941628,10.528384761701911,103.08333472012376
@@ -11,3 +11,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1995,1995,Import,Jordan,9,"Coffee, tea, mate and spices",Western Asia,Asia,159538,31.1667049,36.941628,26.42921218083572,52.86847103284948
 1995,1995,Import,Jordan,9,"Coffee, tea, mate and spices",Western Europe,Europe,4845,31.1667049,36.941628,47.92172048214207,7.866753258497997
 1995,1995,Import,Jordan,9,"Coffee, tea, mate and spices",World,World,29898108,31.1667049,36.941628,,
+1995,1995,Import,Jordan,9,"Coffee, tea, mate and spices", Lebanon, Lebanon,562828,31.1667049,36.941628,,
+1995,1995,Import,Jordan,9,"Coffee, tea, mate and spices", United Arab Emirates, United Arab Emirates,5451,31.1667049,36.941628,,
+1995,1995,Import,Jordan,9,"Coffee, tea, mate and spices", Yemen, Yemen,1855,31.1667049,36.941628,,

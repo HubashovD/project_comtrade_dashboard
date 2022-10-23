@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2000,2000,Export,Jordan,95,"Toys, games, sports requisites",Eastern Asia,Asia,14104,31.1667049,36.941628,37.977378106878206,73.97804075806764
 2000,2000,Export,Jordan,95,"Toys, games, sports requisites",Eastern Europe,Europe,21157,31.1667049,36.941628,51.67568633314729,27.673469819741847
-2000,2000,Export,Jordan,95,"Toys, games, sports requisites",Northern Africa,Africa,24852,31.1667049,36.941628,19.569604022535763,12.47761721199581
+2000,2000,Export,Jordan,95,"Toys, games, sports requisites",Egypt,Egypt,24852,31.1667049,36.941628,,
 2000,2000,Export,Jordan,95,"Toys, games, sports requisites",Northern America,Americas,3568,31.1667049,36.941628,43.897683433510366,-100.08947125585888
 2000,2000,Export,Jordan,95,"Toys, games, sports requisites",Southern Asia,Asia,11284,31.1667049,36.941628,25.499703063807168,75.5024015339642
 2000,2000,Export,Jordan,95,"Toys, games, sports requisites",Southern Europe,Europe,14104,31.1667049,36.941628,40.12399607988535,20.742583178432696
@@ -9,3 +9,11 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Export,Jordan,95,"Toys, games, sports requisites",Western Asia,Asia,3285,31.1667049,36.941628,26.42921218083572,52.86847103284948
 2000,2000,Export,Jordan,95,"Toys, games, sports requisites",Western Europe,Europe,3516,31.1667049,36.941628,47.92172048214207,7.866753258497997
 2000,2000,Export,Jordan,95,"Toys, games, sports requisites",World,World,1186163,31.1667049,36.941628,,
+2000,2000,Export,Jordan,95,"Toys, games, sports requisites", Algeria, Algeria,5642,31.1667049,36.941628,,
+2000,2000,Export,Jordan,95,"Toys, games, sports requisites", Israel, Israel,2116,31.1667049,36.941628,,
+2000,2000,Export,Jordan,95,"Toys, games, sports requisites", Kuwait, Kuwait,282,31.1667049,36.941628,,
+2000,2000,Export,Jordan,95,"Toys, games, sports requisites", Morocco, Morocco,5588,31.1667049,36.941628,,
+2000,2000,Export,Jordan,95,"Toys, games, sports requisites", Qatar, Qatar,11000,31.1667049,36.941628,,
+2000,2000,Export,Jordan,95,"Toys, games, sports requisites", Saudi Arabia, Saudi Arabia,72303,31.1667049,36.941628,,
+2000,2000,Export,Jordan,95,"Toys, games, sports requisites", State of Palestine, State of Palestine,4475,31.1667049,36.941628,,
+2000,2000,Export,Jordan,95,"Toys, games, sports requisites", United Arab Emirates, United Arab Emirates,102802,31.1667049,36.941628,,
