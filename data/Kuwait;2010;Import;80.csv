@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2010,2010,Import,Kuwait,80,Tin and articles thereof,Eastern Asia,Asia,283745,29.2733964,47.4979476,37.977378106878206,73.97804075806764
 2010,2010,Import,Kuwait,80,Tin and articles thereof,Eastern Europe,Europe,168,29.2733964,47.4979476,51.67568633314729,27.673469819741847
-2010,2010,Import,Kuwait,80,Tin and articles thereof,Northern Africa,Africa,7162,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2010,2010,Import,Kuwait,80,Tin and articles thereof,Egypt,Egypt,7162,29.2733964,47.4979476,,
 2010,2010,Import,Kuwait,80,Tin and articles thereof,Northern America,Americas,77789,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
 2010,2010,Import,Kuwait,80,Tin and articles thereof,Northern Europe,Europe,21020,29.2733964,47.4979476,59.36075159783851,25.01346951967388
 2010,2010,Import,Kuwait,80,Tin and articles thereof,South-eastern Asia,Asia,66737,29.2733964,47.4979476,10.528384761701911,103.08333472012376
@@ -11,3 +11,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2010,2010,Import,Kuwait,80,Tin and articles thereof,Western Asia,Asia,14477,29.2733964,47.4979476,26.42921218083572,52.86847103284948
 2010,2010,Import,Kuwait,80,Tin and articles thereof,Western Europe,Europe,108164,29.2733964,47.4979476,47.92172048214207,7.866753258497997
 2010,2010,Import,Kuwait,80,Tin and articles thereof,World,World,880566,29.2733964,47.4979476,,
+2010,2010,Import,Kuwait,80,Tin and articles thereof, Bahrain, Bahrain,478,29.2733964,47.4979476,,
+2010,2010,Import,Kuwait,80,Tin and articles thereof, Lebanon, Lebanon,4043,29.2733964,47.4979476,,
+2010,2010,Import,Kuwait,80,Tin and articles thereof, Pakistan, Pakistan,328,29.2733964,47.4979476,,
+2010,2010,Import,Kuwait,80,Tin and articles thereof, Saudi Arabia, Saudi Arabia,8213,29.2733964,47.4979476,,
+2010,2010,Import,Kuwait,80,Tin and articles thereof, United Arab Emirates, United Arab Emirates,126778,29.2733964,47.4979476,,

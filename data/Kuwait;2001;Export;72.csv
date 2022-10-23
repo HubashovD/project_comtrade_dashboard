@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2001,2001,Export,Kuwait,72,Iron and steel,Australia and New Zealand,Oceania,16302,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
-2001,2001,Export,Kuwait,72,Iron and steel,Northern Africa,Africa,132217,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2001,2001,Export,Kuwait,72,Iron and steel,Egypt,Egypt,132217,29.2733964,47.4979476,,
 2001,2001,Export,Kuwait,72,Iron and steel,Northern Europe,Europe,16302,29.2733964,47.4979476,59.36075159783851,25.01346951967388
 2001,2001,Export,Kuwait,72,Iron and steel,South-eastern Asia,Asia,79541,29.2733964,47.4979476,10.528384761701911,103.08333472012376
 2001,2001,Export,Kuwait,72,Iron and steel,Southern Asia,Asia,90663,29.2733964,47.4979476,25.499703063807168,75.5024015339642
@@ -9,3 +9,11 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2001,2001,Export,Kuwait,72,Iron and steel,Western Asia,Asia,47025,29.2733964,47.4979476,26.42921218083572,52.86847103284948
 2001,2001,Export,Kuwait,72,Iron and steel,Western Europe,Europe,14238,29.2733964,47.4979476,47.92172048214207,7.866753258497997
 2001,2001,Export,Kuwait,72,Iron and steel,World,World,24676772,29.2733964,47.4979476,,
+2001,2001,Export,Kuwait,72,Iron and steel, Bahrain, Bahrain,37899,29.2733964,47.4979476,,
+2001,2001,Export,Kuwait,72,Iron and steel, Jordan, Jordan,75410,29.2733964,47.4979476,,
+2001,2001,Export,Kuwait,72,Iron and steel, Lebanon, Lebanon,33631,29.2733964,47.4979476,,
+2001,2001,Export,Kuwait,72,Iron and steel, Oman, Oman,11542,29.2733964,47.4979476,,
+2001,2001,Export,Kuwait,72,Iron and steel, Pakistan, Pakistan,24192,29.2733964,47.4979476,,
+2001,2001,Export,Kuwait,72,Iron and steel, Qatar, Qatar,23420,29.2733964,47.4979476,,
+2001,2001,Export,Kuwait,72,Iron and steel, Saudi Arabia, Saudi Arabia,7826936,29.2733964,47.4979476,,
+2001,2001,Export,Kuwait,72,Iron and steel, United Arab Emirates, United Arab Emirates,71964,29.2733964,47.4979476,,

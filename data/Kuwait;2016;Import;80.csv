@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2016,2016,Import,Kuwait,80,Tin; articles thereof,Eastern Asia,Asia,145952,29.2733964,47.4979476,37.977378106878206,73.97804075806764
-2016,2016,Import,Kuwait,80,Tin; articles thereof,Northern Africa,Africa,3812,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2016,2016,Import,Kuwait,80,Tin; articles thereof,Egypt,Egypt,3812,29.2733964,47.4979476,,
 2016,2016,Import,Kuwait,80,Tin; articles thereof,Northern America,Americas,37010,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
 2016,2016,Import,Kuwait,80,Tin; articles thereof,Northern Europe,Europe,30395,29.2733964,47.4979476,59.36075159783851,25.01346951967388
 2016,2016,Import,Kuwait,80,Tin; articles thereof,South-eastern Asia,Asia,10923,29.2733964,47.4979476,10.528384761701911,103.08333472012376
@@ -8,3 +8,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2016,2016,Import,Kuwait,80,Tin; articles thereof,Western Asia,Asia,14685,29.2733964,47.4979476,26.42921218083572,52.86847103284948
 2016,2016,Import,Kuwait,80,Tin; articles thereof,Western Europe,Europe,11406,29.2733964,47.4979476,47.92172048214207,7.866753258497997
 2016,2016,Import,Kuwait,80,Tin; articles thereof,World,World,433685,29.2733964,47.4979476,,
+2016,2016,Import,Kuwait,80,Tin; articles thereof, Lebanon, Lebanon,3712,29.2733964,47.4979476,,
+2016,2016,Import,Kuwait,80,Tin; articles thereof, Saudi Arabia, Saudi Arabia,704,29.2733964,47.4979476,,
+2016,2016,Import,Kuwait,80,Tin; articles thereof, United Arab Emirates, United Arab Emirates,31503,29.2733964,47.4979476,,

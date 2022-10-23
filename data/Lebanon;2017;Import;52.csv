@@ -1,8 +1,8 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2017,2017,Import,Lebanon,52,Cotton,Eastern Asia,Asia,5684855,33.8750629,35.843409,37.977378106878206,73.97804075806764
 2017,2017,Import,Lebanon,52,Cotton,Eastern Europe,Europe,63839,33.8750629,35.843409,51.67568633314729,27.673469819741847
+2017,2017,Import,Lebanon,52,Cotton,Egypt,Egypt,26536,33.8750629,35.843409,,
 2017,2017,Import,Lebanon,52,Cotton,Latin America and the Caribbean,Americas,465,33.8750629,35.843409,17.925141963241547,-78.01492950057497
-2017,2017,Import,Lebanon,52,Cotton,Northern Africa,Africa,26536,33.8750629,35.843409,19.569604022535763,12.47761721199581
 2017,2017,Import,Lebanon,52,Cotton,Northern America,Americas,172110,33.8750629,35.843409,43.897683433510366,-100.08947125585888
 2017,2017,Import,Lebanon,52,Cotton,Northern Europe,Europe,33625,33.8750629,35.843409,59.36075159783851,25.01346951967388
 2017,2017,Import,Lebanon,52,Cotton,South-eastern Asia,Asia,400598,33.8750629,35.843409,10.528384761701911,103.08333472012376
@@ -12,3 +12,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2017,2017,Import,Lebanon,52,Cotton,Western Asia,Asia,1121943,33.8750629,35.843409,26.42921218083572,52.86847103284948
 2017,2017,Import,Lebanon,52,Cotton,Western Europe,Europe,455535,33.8750629,35.843409,47.92172048214207,7.866753258497997
 2017,2017,Import,Lebanon,52,Cotton,World,World,13264027,33.8750629,35.843409,,
+2017,2017,Import,Lebanon,52,Cotton, Jordan, Jordan,1333,33.8750629,35.843409,,
+2017,2017,Import,Lebanon,52,Cotton, Pakistan, Pakistan,977558,33.8750629,35.843409,,
+2017,2017,Import,Lebanon,52,Cotton, United Arab Emirates, United Arab Emirates,9976,33.8750629,35.843409,,

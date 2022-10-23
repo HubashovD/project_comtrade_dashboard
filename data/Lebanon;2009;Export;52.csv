@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2009,2009,Export,Lebanon,52,Cotton,Eastern Asia,Asia,2949,33.8750629,35.843409,37.977378106878206,73.97804075806764
-2009,2009,Export,Lebanon,52,Cotton,Northern Africa,Africa,1100981,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2009,2009,Export,Lebanon,52,Cotton,Egypt,Egypt,1100981,33.8750629,35.843409,,
 2009,2009,Export,Lebanon,52,Cotton,Northern America,Americas,9584,33.8750629,35.843409,43.897683433510366,-100.08947125585888
 2009,2009,Export,Lebanon,52,Cotton,Northern Europe,Europe,100467,33.8750629,35.843409,59.36075159783851,25.01346951967388
 2009,2009,Export,Lebanon,52,Cotton,Southern Europe,Europe,8057,33.8750629,35.843409,40.12399607988535,20.742583178432696
@@ -8,3 +8,11 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2009,2009,Export,Lebanon,52,Cotton,Western Asia,Asia,1987113,33.8750629,35.843409,26.42921218083572,52.86847103284948
 2009,2009,Export,Lebanon,52,Cotton,Western Europe,Europe,42569,33.8750629,35.843409,47.92172048214207,7.866753258497997
 2009,2009,Export,Lebanon,52,Cotton,World,World,6397216,33.8750629,35.843409,,
+2009,2009,Export,Lebanon,52,Cotton, Bahrain, Bahrain,96200,33.8750629,35.843409,,
+2009,2009,Export,Lebanon,52,Cotton, Cyprus, Cyprus,151,33.8750629,35.843409,,
+2009,2009,Export,Lebanon,52,Cotton, Jordan, Jordan,158602,33.8750629,35.843409,,
+2009,2009,Export,Lebanon,52,Cotton, Kuwait, Kuwait,10873,33.8750629,35.843409,,
+2009,2009,Export,Lebanon,52,Cotton, Oman, Oman,150,33.8750629,35.843409,,
+2009,2009,Export,Lebanon,52,Cotton, Qatar, Qatar,1148556,33.8750629,35.843409,,
+2009,2009,Export,Lebanon,52,Cotton, Saudi Arabia, Saudi Arabia,844831,33.8750629,35.843409,,
+2009,2009,Export,Lebanon,52,Cotton, United Arab Emirates, United Arab Emirates,844568,33.8750629,35.843409,,

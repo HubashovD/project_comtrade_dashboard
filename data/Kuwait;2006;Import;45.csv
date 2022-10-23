@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2006,2006,Import,Kuwait,45,Cork and articles of cork,Eastern Asia,Asia,311010,29.2733964,47.4979476,37.977378106878206,73.97804075806764
 2006,2006,Import,Kuwait,45,Cork and articles of cork,Eastern Europe,Europe,19163,29.2733964,47.4979476,51.67568633314729,27.673469819741847
-2006,2006,Import,Kuwait,45,Cork and articles of cork,Northern Africa,Africa,83,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2006,2006,Import,Kuwait,45,Cork and articles of cork,Egypt,Egypt,83,29.2733964,47.4979476,,
 2006,2006,Import,Kuwait,45,Cork and articles of cork,Northern America,Americas,36204,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
 2006,2006,Import,Kuwait,45,Cork and articles of cork,Northern Europe,Europe,68823,29.2733964,47.4979476,59.36075159783851,25.01346951967388
 2006,2006,Import,Kuwait,45,Cork and articles of cork,South-eastern Asia,Asia,76273,29.2733964,47.4979476,10.528384761701911,103.08333472012376
@@ -10,3 +10,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2006,2006,Import,Kuwait,45,Cork and articles of cork,Western Asia,Asia,4444,29.2733964,47.4979476,26.42921218083572,52.86847103284948
 2006,2006,Import,Kuwait,45,Cork and articles of cork,Western Europe,Europe,53815,29.2733964,47.4979476,47.92172048214207,7.866753258497997
 2006,2006,Import,Kuwait,45,Cork and articles of cork,World,World,1084145,29.2733964,47.4979476,,
+2006,2006,Import,Kuwait,45,Cork and articles of cork, Jordan, Jordan,7540,29.2733964,47.4979476,,
+2006,2006,Import,Kuwait,45,Cork and articles of cork, Saudi Arabia, Saudi Arabia,47633,29.2733964,47.4979476,,
+2006,2006,Import,Kuwait,45,Cork and articles of cork, United Arab Emirates, United Arab Emirates,47144,29.2733964,47.4979476,,

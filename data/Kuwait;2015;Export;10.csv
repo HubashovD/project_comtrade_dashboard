@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2015,2015,Export,Kuwait,10,Cereals,Eastern Asia,Asia,332,29.2733964,47.4979476,37.977378106878206,73.97804075806764
-2015,2015,Export,Kuwait,10,Cereals,Northern Africa,Africa,199,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2015,2015,Export,Kuwait,10,Cereals,Egypt,Egypt,199,29.2733964,47.4979476,,
 2015,2015,Export,Kuwait,10,Cereals,Northern Europe,Europe,249,29.2733964,47.4979476,59.36075159783851,25.01346951967388
 2015,2015,Export,Kuwait,10,Cereals,South-eastern Asia,Asia,116,29.2733964,47.4979476,10.528384761701911,103.08333472012376
 2015,2015,Export,Kuwait,10,Cereals,Southern Asia,Asia,622925,29.2733964,47.4979476,25.499703063807168,75.5024015339642
@@ -9,3 +9,11 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2015,2015,Export,Kuwait,10,Cereals,Western Asia,Asia,199839,29.2733964,47.4979476,26.42921218083572,52.86847103284948
 2015,2015,Export,Kuwait,10,Cereals,Western Europe,Europe,664,29.2733964,47.4979476,47.92172048214207,7.866753258497997
 2015,2015,Export,Kuwait,10,Cereals,World,World,2610306,29.2733964,47.4979476,,
+2015,2015,Export,Kuwait,10,Cereals, Bahrain, Bahrain,26166,29.2733964,47.4979476,,
+2015,2015,Export,Kuwait,10,Cereals, Iraq, Iraq,48321,29.2733964,47.4979476,,
+2015,2015,Export,Kuwait,10,Cereals, Jordan, Jordan,448927,29.2733964,47.4979476,,
+2015,2015,Export,Kuwait,10,Cereals, Morocco, Morocco,4986,29.2733964,47.4979476,,
+2015,2015,Export,Kuwait,10,Cereals, Qatar, Qatar,904,29.2733964,47.4979476,,
+2015,2015,Export,Kuwait,10,Cereals, Saudi Arabia, Saudi Arabia,391962,29.2733964,47.4979476,,
+2015,2015,Export,Kuwait,10,Cereals, United Arab Emirates, United Arab Emirates,638614,29.2733964,47.4979476,,
+2015,2015,Export,Kuwait,10,Cereals, Yemen, Yemen,49860,29.2733964,47.4979476,,

@@ -1,5 +1,5 @@
 function map_chart() {
-
+    var f = d3.format(".2s")
 
     function update() {
         var list = document.getElementById('mapchartBlock')
@@ -153,11 +153,11 @@ function map_chart() {
                 .attr('class', 'texts')
                 .text(function(d) {
                     console.log(d)
-                    text = d.Partner + ': ' + d.TradeValue
+                    text = d.Partner + ': ' + f(d.TradeValue)
                     return text
                 })
                 .style('color', "black")
-                .style('font-size', '14')
+                .style('font-size', '12')
 
             var zoom = d3.zoom()
                 .scaleExtent([1, 8])
@@ -171,7 +171,7 @@ function map_chart() {
                         // .attr("cx", d3.event.transform.k)
                     texts = map_g.selectAll('.texts')
                     texts.attr('transform', d3.event.transform)
-                    texts.style('font-size', 15 - d3.event.transform.k)
+                    texts.style('font-size', 12 - d3.event.transform.k)
                 });
 
             mapsvg.call(zoom);

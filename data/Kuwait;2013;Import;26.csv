@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2013,2013,Import,Kuwait,26,"Ores, slag and ash",Eastern Asia,Asia,4671340,29.2733964,47.4979476,37.977378106878206,73.97804075806764
 2013,2013,Import,Kuwait,26,"Ores, slag and ash",Eastern Europe,Europe,497,29.2733964,47.4979476,51.67568633314729,27.673469819741847
-2013,2013,Import,Kuwait,26,"Ores, slag and ash",Northern Africa,Africa,7392,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2013,2013,Import,Kuwait,26,"Ores, slag and ash",Egypt,Egypt,7392,29.2733964,47.4979476,,
 2013,2013,Import,Kuwait,26,"Ores, slag and ash",Northern America,Americas,31213,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
 2013,2013,Import,Kuwait,26,"Ores, slag and ash",Northern Europe,Europe,379565,29.2733964,47.4979476,59.36075159783851,25.01346951967388
 2013,2013,Import,Kuwait,26,"Ores, slag and ash",Southern Asia,Asia,3703,29.2733964,47.4979476,25.499703063807168,75.5024015339642
@@ -10,3 +10,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2013,2013,Import,Kuwait,26,"Ores, slag and ash",Western Asia,Asia,130,29.2733964,47.4979476,26.42921218083572,52.86847103284948
 2013,2013,Import,Kuwait,26,"Ores, slag and ash",Western Europe,Europe,82206,29.2733964,47.4979476,47.92172048214207,7.866753258497997
 2013,2013,Import,Kuwait,26,"Ores, slag and ash",World,World,7416097,29.2733964,47.4979476,,
+2013,2013,Import,Kuwait,26,"Ores, slag and ash", Bahrain, Bahrain,494,29.2733964,47.4979476,,
+2013,2013,Import,Kuwait,26,"Ores, slag and ash", Lebanon, Lebanon,56,29.2733964,47.4979476,,
+2013,2013,Import,Kuwait,26,"Ores, slag and ash", Saudi Arabia, Saudi Arabia,21,29.2733964,47.4979476,,
+2013,2013,Import,Kuwait,26,"Ores, slag and ash", United Arab Emirates, United Arab Emirates,11324,29.2733964,47.4979476,,

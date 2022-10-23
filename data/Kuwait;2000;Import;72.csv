@@ -3,8 +3,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Import,Kuwait,72,Iron and steel,Central Asia,Asia,9085,29.2733964,47.4979476,39.89317229901691,61.060280637304274
 2000,2000,Import,Kuwait,72,Iron and steel,Eastern Asia,Asia,29180242,29.2733964,47.4979476,37.977378106878206,73.97804075806764
 2000,2000,Import,Kuwait,72,Iron and steel,Eastern Europe,Europe,11023395,29.2733964,47.4979476,51.67568633314729,27.673469819741847
+2000,2000,Import,Kuwait,72,Iron and steel,Egypt,Egypt,79427,29.2733964,47.4979476,,
 2000,2000,Import,Kuwait,72,Iron and steel,Latin America and the Caribbean,Americas,69567,29.2733964,47.4979476,17.925141963241547,-78.01492950057497
-2000,2000,Import,Kuwait,72,Iron and steel,Northern Africa,Africa,79427,29.2733964,47.4979476,19.569604022535763,12.47761721199581
 2000,2000,Import,Kuwait,72,Iron and steel,Northern America,Americas,558851,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
 2000,2000,Import,Kuwait,72,Iron and steel,Northern Europe,Europe,2717421,29.2733964,47.4979476,59.36075159783851,25.01346951967388
 2000,2000,Import,Kuwait,72,Iron and steel,South-eastern Asia,Asia,3063534,29.2733964,47.4979476,10.528384761701911,103.08333472012376
@@ -14,3 +14,11 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Import,Kuwait,72,Iron and steel,Western Asia,Asia,34338183,29.2733964,47.4979476,26.42921218083572,52.86847103284948
 2000,2000,Import,Kuwait,72,Iron and steel,Western Europe,Europe,2791683,29.2733964,47.4979476,47.92172048214207,7.866753258497997
 2000,2000,Import,Kuwait,72,Iron and steel,World,World,168824220,29.2733964,47.4979476,,
+2000,2000,Import,Kuwait,72,Iron and steel, Bahrain, Bahrain,9408,29.2733964,47.4979476,,
+2000,2000,Import,Kuwait,72,Iron and steel, Cyprus, Cyprus,6761,29.2733964,47.4979476,,
+2000,2000,Import,Kuwait,72,Iron and steel, Jordan, Jordan,1956,29.2733964,47.4979476,,
+2000,2000,Import,Kuwait,72,Iron and steel, Lebanon, Lebanon,5773,29.2733964,47.4979476,,
+2000,2000,Import,Kuwait,72,Iron and steel, Pakistan, Pakistan,3521,29.2733964,47.4979476,,
+2000,2000,Import,Kuwait,72,Iron and steel, Qatar, Qatar,11642570,29.2733964,47.4979476,,
+2000,2000,Import,Kuwait,72,Iron and steel, Saudi Arabia, Saudi Arabia,48346431,29.2733964,47.4979476,,
+2000,2000,Import,Kuwait,72,Iron and steel, United Arab Emirates, United Arab Emirates,1366058,29.2733964,47.4979476,,

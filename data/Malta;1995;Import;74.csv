@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1995,1995,Import,Malta,74,Copper and articles thereof,Eastern Asia,Asia,89909,35.8885993,14.4476911,37.977378106878206,73.97804075806764
 1995,1995,Import,Malta,74,Copper and articles thereof,Eastern Europe,Europe,1239,35.8885993,14.4476911,51.67568633314729,27.673469819741847
-1995,1995,Import,Malta,74,Copper and articles thereof,Northern Africa,Africa,432809,35.8885993,14.4476911,19.569604022535763,12.47761721199581
+1995,1995,Import,Malta,74,Copper and articles thereof,Egypt,Egypt,432809,35.8885993,14.4476911,,
 1995,1995,Import,Malta,74,Copper and articles thereof,Northern America,Americas,144190,35.8885993,14.4476911,43.897683433510366,-100.08947125585888
 1995,1995,Import,Malta,74,Copper and articles thereof,Northern Europe,Europe,1953053,35.8885993,14.4476911,59.36075159783851,25.01346951967388
 1995,1995,Import,Malta,74,Copper and articles thereof,South-eastern Asia,Asia,1941,35.8885993,14.4476911,10.528384761701911,103.08333472012376
@@ -10,3 +10,5 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1995,1995,Import,Malta,74,Copper and articles thereof,Western Asia,Asia,463309,35.8885993,14.4476911,26.42921218083572,52.86847103284948
 1995,1995,Import,Malta,74,Copper and articles thereof,Western Europe,Europe,2395416,35.8885993,14.4476911,47.92172048214207,7.866753258497997
 1995,1995,Import,Malta,74,Copper and articles thereof,World,World,7228507,35.8885993,14.4476911,,
+1995,1995,Import,Malta,74,Copper and articles thereof, Pakistan, Pakistan,1003,35.8885993,14.4476911,,
+1995,1995,Import,Malta,74,Copper and articles thereof, United Arab Emirates, United Arab Emirates,1034,35.8885993,14.4476911,,

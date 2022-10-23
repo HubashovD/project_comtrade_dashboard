@@ -25,6 +25,7 @@ function line_chart() {
             .append("svg")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
+            .attr("style", "background-color:white")
             .append("g")
             .attr("transform",
                 "translate(" + margin.left + "," + margin.top + ")");
@@ -311,7 +312,7 @@ function line_chart() {
                                     }
                                 })
                                 .style("fill", function(d) {
-                                    return color(d.key)
+                                    return "black" //color(d.key)
                                 })
                             return "translate(" + mouse[0] + "," + (pos.y) + ")";
                         })

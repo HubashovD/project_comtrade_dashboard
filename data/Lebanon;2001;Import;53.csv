@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2001,2001,Import,Lebanon,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Eastern Asia,Asia,1533532,33.8750629,35.843409,37.977378106878206,73.97804075806764
 2001,2001,Import,Lebanon,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Eastern Europe,Europe,41726,33.8750629,35.843409,51.67568633314729,27.673469819741847
-2001,2001,Import,Lebanon,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Northern Africa,Africa,18518,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2001,2001,Import,Lebanon,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Egypt,Egypt,18518,33.8750629,35.843409,,
 2001,2001,Import,Lebanon,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Northern America,Americas,65717,33.8750629,35.843409,43.897683433510366,-100.08947125585888
 2001,2001,Import,Lebanon,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Northern Europe,Europe,35350,33.8750629,35.843409,59.36075159783851,25.01346951967388
 2001,2001,Import,Lebanon,53,"Vegetable textile fibres nes, paper yarn, woven fabric",South-eastern Asia,Asia,57419,33.8750629,35.843409,10.528384761701911,103.08333472012376
@@ -10,3 +10,5 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2001,2001,Import,Lebanon,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Western Asia,Asia,34640,33.8750629,35.843409,26.42921218083572,52.86847103284948
 2001,2001,Import,Lebanon,53,"Vegetable textile fibres nes, paper yarn, woven fabric",Western Europe,Europe,273760,33.8750629,35.843409,47.92172048214207,7.866753258497997
 2001,2001,Import,Lebanon,53,"Vegetable textile fibres nes, paper yarn, woven fabric",World,World,5003158,33.8750629,35.843409,,
+2001,2001,Import,Lebanon,53,"Vegetable textile fibres nes, paper yarn, woven fabric", Cyprus, Cyprus,6499,33.8750629,35.843409,,
+2001,2001,Import,Lebanon,53,"Vegetable textile fibres nes, paper yarn, woven fabric", Pakistan, Pakistan,42208,33.8750629,35.843409,,

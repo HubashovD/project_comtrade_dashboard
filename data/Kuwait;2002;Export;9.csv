@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices",Central Asia,Asia,5706,29.2733964,47.4979476,39.89317229901691,61.060280637304274
 2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,43,29.2733964,47.4979476,51.67568633314729,27.673469819741847
-2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices",Northern Africa,Africa,15069,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices",Egypt,Egypt,15069,29.2733964,47.4979476,,
 2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices",Northern America,Americas,9215,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
 2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices",Northern Europe,Europe,142,29.2733964,47.4979476,59.36075159783851,25.01346951967388
 2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,13,29.2733964,47.4979476,10.528384761701911,103.08333472012376
@@ -10,3 +10,11 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices",Western Asia,Asia,8231,29.2733964,47.4979476,26.42921218083572,52.86847103284948
 2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices",Western Europe,Europe,86,29.2733964,47.4979476,47.92172048214207,7.866753258497997
 2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices",World,World,4789836,29.2733964,47.4979476,,
+2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices", Bahrain, Bahrain,21707,29.2733964,47.4979476,,
+2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices", Jordan, Jordan,20574,29.2733964,47.4979476,,
+2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices", Lebanon, Lebanon,8959,29.2733964,47.4979476,,
+2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices", Oman, Oman,46620,29.2733964,47.4979476,,
+2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices", Pakistan, Pakistan,1057,29.2733964,47.4979476,,
+2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices", Qatar, Qatar,161153,29.2733964,47.4979476,,
+2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices", Saudi Arabia, Saudi Arabia,2554021,29.2733964,47.4979476,,
+2002,2002,Export,Kuwait,9,"Coffee, tea, mate and spices", United Arab Emirates, United Arab Emirates,176930,29.2733964,47.4979476,,

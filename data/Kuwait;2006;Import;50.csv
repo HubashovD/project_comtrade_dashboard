@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2006,2006,Import,Kuwait,50,Silk,Eastern Asia,Asia,968082,29.2733964,47.4979476,37.977378106878206,73.97804075806764
-2006,2006,Import,Kuwait,50,Silk,Northern Africa,Africa,462,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2006,2006,Import,Kuwait,50,Silk,Egypt,Egypt,462,29.2733964,47.4979476,,
 2006,2006,Import,Kuwait,50,Silk,Northern America,Americas,38169,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
 2006,2006,Import,Kuwait,50,Silk,Northern Europe,Europe,1272,29.2733964,47.4979476,59.36075159783851,25.01346951967388
 2006,2006,Import,Kuwait,50,Silk,South-eastern Asia,Asia,29247,29.2733964,47.4979476,10.528384761701911,103.08333472012376
@@ -9,3 +9,4 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2006,2006,Import,Kuwait,50,Silk,Western Asia,Asia,1479,29.2733964,47.4979476,26.42921218083572,52.86847103284948
 2006,2006,Import,Kuwait,50,Silk,Western Europe,Europe,170006,29.2733964,47.4979476,47.92172048214207,7.866753258497997
 2006,2006,Import,Kuwait,50,Silk,World,World,1754929,29.2733964,47.4979476,,
+2006,2006,Import,Kuwait,50,Silk, United Arab Emirates, United Arab Emirates,86,29.2733964,47.4979476,,

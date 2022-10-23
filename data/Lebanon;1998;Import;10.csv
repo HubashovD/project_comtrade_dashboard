@@ -3,8 +3,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1998,1998,Import,Lebanon,10,Cereals,Central Asia,Asia,3874853,33.8750629,35.843409,39.89317229901691,61.060280637304274
 1998,1998,Import,Lebanon,10,Cereals,Eastern Asia,Asia,5909,33.8750629,35.843409,37.977378106878206,73.97804075806764
 1998,1998,Import,Lebanon,10,Cereals,Eastern Europe,Europe,19489187,33.8750629,35.843409,51.67568633314729,27.673469819741847
+1998,1998,Import,Lebanon,10,Cereals,Egypt,Egypt,4931573,33.8750629,35.843409,,
 1998,1998,Import,Lebanon,10,Cereals,Latin America and the Caribbean,Americas,14335978,33.8750629,35.843409,17.925141963241547,-78.01492950057497
-1998,1998,Import,Lebanon,10,Cereals,Northern Africa,Africa,4931573,33.8750629,35.843409,19.569604022535763,12.47761721199581
 1998,1998,Import,Lebanon,10,Cereals,Northern America,Americas,37312242,33.8750629,35.843409,43.897683433510366,-100.08947125585888
 1998,1998,Import,Lebanon,10,Cereals,Northern Europe,Europe,8520,33.8750629,35.843409,59.36075159783851,25.01346951967388
 1998,1998,Import,Lebanon,10,Cereals,South-eastern Asia,Asia,1672529,33.8750629,35.843409,10.528384761701911,103.08333472012376
@@ -13,3 +13,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1998,1998,Import,Lebanon,10,Cereals,Western Asia,Asia,7114295,33.8750629,35.843409,26.42921218083572,52.86847103284948
 1998,1998,Import,Lebanon,10,Cereals,Western Europe,Europe,7511770,33.8750629,35.843409,47.92172048214207,7.866753258497997
 1998,1998,Import,Lebanon,10,Cereals,World,World,120093384,33.8750629,35.843409,,
+1998,1998,Import,Lebanon,10,Cereals, Kuwait, Kuwait,1680,33.8750629,35.843409,,
+1998,1998,Import,Lebanon,10,Cereals, Pakistan, Pakistan,654202,33.8750629,35.843409,,
+1998,1998,Import,Lebanon,10,Cereals, Saudi Arabia, Saudi Arabia,27594,33.8750629,35.843409,,
+1998,1998,Import,Lebanon,10,Cereals, United Arab Emirates, United Arab Emirates,519,33.8750629,35.843409,,

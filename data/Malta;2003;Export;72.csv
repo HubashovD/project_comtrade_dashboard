@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2003,2003,Export,Malta,72,Iron and steel,Eastern Asia,Asia,42813,35.8885993,14.4476911,37.977378106878206,73.97804075806764
-2003,2003,Export,Malta,72,Iron and steel,Northern Africa,Africa,55806,35.8885993,14.4476911,19.569604022535763,12.47761721199581
+2003,2003,Export,Malta,72,Iron and steel,Egypt,Egypt,55806,35.8885993,14.4476911,,
 2003,2003,Export,Malta,72,Iron and steel,Northern America,Americas,465,35.8885993,14.4476911,43.897683433510366,-100.08947125585888
 2003,2003,Export,Malta,72,Iron and steel,Northern Europe,Europe,1736197,35.8885993,14.4476911,59.36075159783851,25.01346951967388
 2003,2003,Export,Malta,72,Iron and steel,South-eastern Asia,Asia,277351,35.8885993,14.4476911,10.528384761701911,103.08333472012376
@@ -8,3 +8,4 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2003,2003,Export,Malta,72,Iron and steel,Western Asia,Asia,415953,35.8885993,14.4476911,26.42921218083572,52.86847103284948
 2003,2003,Export,Malta,72,Iron and steel,Western Europe,Europe,52335,35.8885993,14.4476911,47.92172048214207,7.866753258497997
 2003,2003,Export,Malta,72,Iron and steel,World,World,3823958,35.8885993,14.4476911,,
+2003,2003,Export,Malta,72,Iron and steel, Libya, Libya,21499,35.8885993,14.4476911,,

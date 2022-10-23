@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2011,2011,Export,Kuwait,72,Iron and steel,Australia and New Zealand,Oceania,76,29.2733964,47.4979476,-16.85099460447687,133.4130365630627
-2011,2011,Export,Kuwait,72,Iron and steel,Northern Africa,Africa,412347,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2011,2011,Export,Kuwait,72,Iron and steel,Egypt,Egypt,412347,29.2733964,47.4979476,,
 2011,2011,Export,Kuwait,72,Iron and steel,Northern America,Americas,272,29.2733964,47.4979476,43.897683433510366,-100.08947125585888
 2011,2011,Export,Kuwait,72,Iron and steel,South-eastern Asia,Asia,158901,29.2733964,47.4979476,10.528384761701911,103.08333472012376
 2011,2011,Export,Kuwait,72,Iron and steel,Southern Asia,Asia,42006,29.2733964,47.4979476,25.499703063807168,75.5024015339642
@@ -8,3 +8,13 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2011,2011,Export,Kuwait,72,Iron and steel,Western Asia,Asia,52160,29.2733964,47.4979476,26.42921218083572,52.86847103284948
 2011,2011,Export,Kuwait,72,Iron and steel,Western Europe,Europe,355,29.2733964,47.4979476,47.92172048214207,7.866753258497997
 2011,2011,Export,Kuwait,72,Iron and steel,World,World,142654563,29.2733964,47.4979476,,
+2011,2011,Export,Kuwait,72,Iron and steel, Afghanistan, Afghanistan,29251,29.2733964,47.4979476,,
+2011,2011,Export,Kuwait,72,Iron and steel, Bahrain, Bahrain,496577,29.2733964,47.4979476,,
+2011,2011,Export,Kuwait,72,Iron and steel, Jordan, Jordan,971078,29.2733964,47.4979476,,
+2011,2011,Export,Kuwait,72,Iron and steel, Lebanon, Lebanon,5381,29.2733964,47.4979476,,
+2011,2011,Export,Kuwait,72,Iron and steel, Oman, Oman,70289,29.2733964,47.4979476,,
+2011,2011,Export,Kuwait,72,Iron and steel, Pakistan, Pakistan,16502936,29.2733964,47.4979476,,
+2011,2011,Export,Kuwait,72,Iron and steel, Qatar, Qatar,1419589,29.2733964,47.4979476,,
+2011,2011,Export,Kuwait,72,Iron and steel, Saudi Arabia, Saudi Arabia,83230066,29.2733964,47.4979476,,
+2011,2011,Export,Kuwait,72,Iron and steel, United Arab Emirates, United Arab Emirates,4508982,29.2733964,47.4979476,,
+2011,2011,Export,Kuwait,72,Iron and steel, Yemen, Yemen,1993,29.2733964,47.4979476,,

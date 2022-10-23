@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2001,2001,Import,Kuwait,5,"Products of animal origin, nes",Eastern Asia,Asia,7314,29.2733964,47.4979476,37.977378106878206,73.97804075806764
-2001,2001,Import,Kuwait,5,"Products of animal origin, nes",Northern Africa,Africa,6799,29.2733964,47.4979476,19.569604022535763,12.47761721199581
+2001,2001,Import,Kuwait,5,"Products of animal origin, nes",Egypt,Egypt,6799,29.2733964,47.4979476,,
 2001,2001,Import,Kuwait,5,"Products of animal origin, nes",Northern Europe,Europe,88593,29.2733964,47.4979476,59.36075159783851,25.01346951967388
 2001,2001,Import,Kuwait,5,"Products of animal origin, nes",South-eastern Asia,Asia,49,29.2733964,47.4979476,10.528384761701911,103.08333472012376
 2001,2001,Import,Kuwait,5,"Products of animal origin, nes",Southern Asia,Asia,170,29.2733964,47.4979476,25.499703063807168,75.5024015339642
@@ -8,3 +8,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2001,2001,Import,Kuwait,5,"Products of animal origin, nes",Western Asia,Asia,368,29.2733964,47.4979476,26.42921218083572,52.86847103284948
 2001,2001,Import,Kuwait,5,"Products of animal origin, nes",Western Europe,Europe,23390,29.2733964,47.4979476,47.92172048214207,7.866753258497997
 2001,2001,Import,Kuwait,5,"Products of animal origin, nes",World,World,187549,29.2733964,47.4979476,,
+2001,2001,Import,Kuwait,5,"Products of animal origin, nes", Lebanon, Lebanon,6020,29.2733964,47.4979476,,
+2001,2001,Import,Kuwait,5,"Products of animal origin, nes", Pakistan, Pakistan,183,29.2733964,47.4979476,,
+2001,2001,Import,Kuwait,5,"Products of animal origin, nes", Saudi Arabia, Saudi Arabia,2025,29.2733964,47.4979476,,
+2001,2001,Import,Kuwait,5,"Products of animal origin, nes", United Arab Emirates, United Arab Emirates,62,29.2733964,47.4979476,,

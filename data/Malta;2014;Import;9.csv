@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2014,2014,Import,Malta,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,10168,35.8885993,14.4476911,37.977378106878206,73.97804075806764
 2014,2014,Import,Malta,9,"Coffee, tea, mate and spices",Eastern Europe,Europe,216962,35.8885993,14.4476911,51.67568633314729,27.673469819741847
-2014,2014,Import,Malta,9,"Coffee, tea, mate and spices",Northern Africa,Africa,772,35.8885993,14.4476911,19.569604022535763,12.47761721199581
+2014,2014,Import,Malta,9,"Coffee, tea, mate and spices",Egypt,Egypt,772,35.8885993,14.4476911,,
 2014,2014,Import,Malta,9,"Coffee, tea, mate and spices",Northern America,Americas,6050,35.8885993,14.4476911,43.897683433510366,-100.08947125585888
 2014,2014,Import,Malta,9,"Coffee, tea, mate and spices",Northern Europe,Europe,2316645,35.8885993,14.4476911,59.36075159783851,25.01346951967388
 2014,2014,Import,Malta,9,"Coffee, tea, mate and spices",Polynesia,Oceania,41477,35.8885993,14.4476911,-5.109184731250752,167.40343615892436
@@ -12,3 +12,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2014,2014,Import,Malta,9,"Coffee, tea, mate and spices",Western Asia,Asia,46146,35.8885993,14.4476911,26.42921218083572,52.86847103284948
 2014,2014,Import,Malta,9,"Coffee, tea, mate and spices",Western Europe,Europe,962217,35.8885993,14.4476911,47.92172048214207,7.866753258497997
 2014,2014,Import,Malta,9,"Coffee, tea, mate and spices",World,World,7838119,35.8885993,14.4476911,,
+2014,2014,Import,Malta,9,"Coffee, tea, mate and spices", Cyprus, Cyprus,627,35.8885993,14.4476911,,
+2014,2014,Import,Malta,9,"Coffee, tea, mate and spices", Jordan, Jordan,339,35.8885993,14.4476911,,
+2014,2014,Import,Malta,9,"Coffee, tea, mate and spices", Morocco, Morocco,1654,35.8885993,14.4476911,,
+2014,2014,Import,Malta,9,"Coffee, tea, mate and spices", United Arab Emirates, United Arab Emirates,116227,35.8885993,14.4476911,,

@@ -64,6 +64,16 @@
     position: absolute;
 }
 
+.grid .tick line {
+    stroke: gray;
+    opacity: 0.5;
+    width: 1px;
+}
+
+.grid path {
+    opacity: 0;
+}
+
 
 /* hierarchy */
 

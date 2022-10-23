@@ -3,7 +3,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Central Asia,Asia,425810,33.8750629,35.843409,39.89317229901691,61.060280637304274
 2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Eastern Asia,Asia,1075147,33.8750629,35.843409,37.977378106878206,73.97804075806764
 2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Eastern Europe,Europe,17507,33.8750629,35.843409,51.67568633314729,27.673469819741847
-2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Northern Africa,Africa,1724,33.8750629,35.843409,19.569604022535763,12.47761721199581
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Egypt,Egypt,1724,33.8750629,35.843409,,
 2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Northern America,Americas,13440,33.8750629,35.843409,43.897683433510366,-100.08947125585888
 2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Northern Europe,Europe,110015,33.8750629,35.843409,59.36075159783851,25.01346951967388
 2001,2001,Import,Lebanon,5,"Products of animal origin, nes",South-eastern Asia,Asia,200,33.8750629,35.843409,10.528384761701911,103.08333472012376
@@ -13,3 +13,15 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Western Asia,Asia,1258555,33.8750629,35.843409,26.42921218083572,52.86847103284948
 2001,2001,Import,Lebanon,5,"Products of animal origin, nes",Western Europe,Europe,174900,33.8750629,35.843409,47.92172048214207,7.866753258497997
 2001,2001,Import,Lebanon,5,"Products of animal origin, nes",World,World,5576686,33.8750629,35.843409,,
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes", Armenia, Armenia,2387,33.8750629,35.843409,,
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes", Azerbaijan, Azerbaijan,40959,33.8750629,35.843409,,
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes", Bahrain, Bahrain,41777,33.8750629,35.843409,,
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes", Cyprus, Cyprus,33157,33.8750629,35.843409,,
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes", Iraq, Iraq,33988,33.8750629,35.843409,,
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes", Jordan, Jordan,29004,33.8750629,35.843409,,
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes", Kuwait, Kuwait,1228022,33.8750629,35.843409,,
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes", Morocco, Morocco,338,33.8750629,35.843409,,
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes", Pakistan, Pakistan,597,33.8750629,35.843409,,
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes", Qatar, Qatar,156698,33.8750629,35.843409,,
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes", Saudi Arabia, Saudi Arabia,272977,33.8750629,35.843409,,
+2001,2001,Import,Lebanon,5,"Products of animal origin, nes", United Arab Emirates, United Arab Emirates,83289,33.8750629,35.843409,,
