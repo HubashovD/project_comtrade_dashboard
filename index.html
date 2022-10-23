@@ -24,6 +24,11 @@
     <script src="js/sankey.js"></script>
     <script src="js/custom-select.js"></script>
 
+
+    <!-- <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v1.min.js"></script> -->
+
 </head>
 
 <body>
@@ -46,11 +51,20 @@
         <div id="mapchartBlock">
             <div id='map_chart' width="700" height="700"> </div>
         </div>
+        <button id='saveButtonMap'> 
+            Save map image
+        </button>
+        <button id='saveButtonMapData'> 
+            Save map Data
+        </button>
 
         <p> Describe correlation between total imports and export of country in selected year</p>
         <div id='pieChartBlock'>
             <div id='pie_chart'></div>
         </div>
+        <button id='saveButtonPieData'> 
+            Save barchart Data
+        </button>
 
         <div id='sankeyChartBlock'>
             <div id='sankey_chart'></div>
@@ -139,7 +153,7 @@
     </script>
     <script>
         /* When the user clicks on the button, 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    toggle between hiding and showing the dropdown content */
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    toggle between hiding and showing the dropdown content */
         function myFunction() {
             document.getElementById("myDropdown").classList.toggle("show");
         }
