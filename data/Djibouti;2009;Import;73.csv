@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2009,2009,Import,Djibouti,73,Articles of iron or steel,Eastern Asia,Asia,402565,,,37.977378106878206,73.97804075806764
 2009,2009,Import,Djibouti,73,Articles of iron or steel,Eastern Europe,Europe,342344,,,51.67568633314729,27.673469819741847
-2009,2009,Import,Djibouti,73,Articles of iron or steel,Northern Africa,Africa,160751,,,19.569604022535763,12.47761721199581
+2009,2009,Import,Djibouti,73,Articles of iron or steel,Egypt,Egypt,160751,,,,
 2009,2009,Import,Djibouti,73,Articles of iron or steel,Northern America,Americas,1462314,,,43.897683433510366,-100.08947125585888
 2009,2009,Import,Djibouti,73,Articles of iron or steel,Northern Europe,Europe,124965,,,59.36075159783851,25.01346951967388
 2009,2009,Import,Djibouti,73,Articles of iron or steel,South-eastern Asia,Asia,43525,,,10.528384761701911,103.08333472012376
@@ -10,3 +10,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2009,2009,Import,Djibouti,73,Articles of iron or steel,Western Asia,Asia,229817,,,26.42921218083572,52.86847103284948
 2009,2009,Import,Djibouti,73,Articles of iron or steel,Western Europe,Europe,1711147,,,47.92172048214207,7.866753258497997
 2009,2009,Import,Djibouti,73,Articles of iron or steel,World,World,7514737,,,,
+2009,2009,Import,Djibouti,73,Articles of iron or steel, Kuwait, Kuwait,47534,,,,
+2009,2009,Import,Djibouti,73,Articles of iron or steel, Pakistan, Pakistan,10506,,,,
+2009,2009,Import,Djibouti,73,Articles of iron or steel, Saudi Arabia, Saudi Arabia,478458,,,,
+2009,2009,Import,Djibouti,73,Articles of iron or steel, United Arab Emirates, United Arab Emirates,1483494,,,,
+2009,2009,Import,Djibouti,73,Articles of iron or steel, Yemen, Yemen,492184,,,,

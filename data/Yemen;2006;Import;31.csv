@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2006,2006,Import,Yemen,31,Fertilizers,Eastern Asia,Asia,267268,16.3471243,47.8915271,37.977378106878206,73.97804075806764
 2006,2006,Import,Yemen,31,Fertilizers,Eastern Europe,Europe,99,16.3471243,47.8915271,51.67568633314729,27.673469819741847
-2006,2006,Import,Yemen,31,Fertilizers,Northern Africa,Africa,822831,16.3471243,47.8915271,19.569604022535763,12.47761721199581
+2006,2006,Import,Yemen,31,Fertilizers,Egypt,Egypt,822831,16.3471243,47.8915271,,
 2006,2006,Import,Yemen,31,Fertilizers,Northern America,Americas,49693,16.3471243,47.8915271,43.897683433510366,-100.08947125585888
 2006,2006,Import,Yemen,31,Fertilizers,Northern Europe,Europe,256219,16.3471243,47.8915271,59.36075159783851,25.01346951967388
 2006,2006,Import,Yemen,31,Fertilizers,South-eastern Asia,Asia,19412,16.3471243,47.8915271,10.528384761701911,103.08333472012376
@@ -9,3 +9,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2006,2006,Import,Yemen,31,Fertilizers,Western Asia,Asia,170,16.3471243,47.8915271,26.42921218083572,52.86847103284948
 2006,2006,Import,Yemen,31,Fertilizers,Western Europe,Europe,407709,16.3471243,47.8915271,47.92172048214207,7.866753258497997
 2006,2006,Import,Yemen,31,Fertilizers,World,World,9942281,16.3471243,47.8915271,,
+2006,2006,Import,Yemen,31,Fertilizers, Jordan, Jordan,429017,16.3471243,47.8915271,,
+2006,2006,Import,Yemen,31,Fertilizers, Libya, Libya,166157,16.3471243,47.8915271,,
+2006,2006,Import,Yemen,31,Fertilizers, Qatar, Qatar,893511,16.3471243,47.8915271,,
+2006,2006,Import,Yemen,31,Fertilizers, Saudi Arabia, Saudi Arabia,4974033,16.3471243,47.8915271,,
+2006,2006,Import,Yemen,31,Fertilizers, United Arab Emirates, United Arab Emirates,374061,16.3471243,47.8915271,,

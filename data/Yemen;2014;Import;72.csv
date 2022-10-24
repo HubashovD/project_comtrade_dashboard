@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2014,2014,Import,Yemen,72,Iron and steel,Eastern Asia,Asia,104521856,16.3471243,47.8915271,37.977378106878206,73.97804075806764
 2014,2014,Import,Yemen,72,Iron and steel,Eastern Europe,Europe,8053610,16.3471243,47.8915271,51.67568633314729,27.673469819741847
-2014,2014,Import,Yemen,72,Iron and steel,Northern Africa,Africa,10442308,16.3471243,47.8915271,19.569604022535763,12.47761721199581
+2014,2014,Import,Yemen,72,Iron and steel,Egypt,Egypt,10442308,16.3471243,47.8915271,,
 2014,2014,Import,Yemen,72,Iron and steel,Northern America,Americas,22920,16.3471243,47.8915271,43.897683433510366,-100.08947125585888
 2014,2014,Import,Yemen,72,Iron and steel,Northern Europe,Europe,200912,16.3471243,47.8915271,59.36075159783851,25.01346951967388
 2014,2014,Import,Yemen,72,Iron and steel,Polynesia,Oceania,14193,16.3471243,47.8915271,-5.109184731250752,167.40343615892436
@@ -12,3 +12,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2014,2014,Import,Yemen,72,Iron and steel,Western Asia,Asia,631706142,16.3471243,47.8915271,26.42921218083572,52.86847103284948
 2014,2014,Import,Yemen,72,Iron and steel,Western Europe,Europe,28243,16.3471243,47.8915271,47.92172048214207,7.866753258497997
 2014,2014,Import,Yemen,72,Iron and steel,World,World,813608447,16.3471243,47.8915271,,
+2014,2014,Import,Yemen,72,Iron and steel, Jordan, Jordan,294350,16.3471243,47.8915271,,
+2014,2014,Import,Yemen,72,Iron and steel, Saudi Arabia, Saudi Arabia,8420971,16.3471243,47.8915271,,
+2014,2014,Import,Yemen,72,Iron and steel, United Arab Emirates, United Arab Emirates,8085078,16.3471243,47.8915271,,

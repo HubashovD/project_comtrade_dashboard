@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2019,2019,Import,Yemen,31,Fertilizers,Central Asia,Asia,3603,16.3471243,47.8915271,39.89317229901691,61.060280637304274
 2019,2019,Import,Yemen,31,Fertilizers,Eastern Asia,Asia,9930128,16.3471243,47.8915271,37.977378106878206,73.97804075806764
-2019,2019,Import,Yemen,31,Fertilizers,Northern Africa,Africa,720325,16.3471243,47.8915271,19.569604022535763,12.47761721199581
+2019,2019,Import,Yemen,31,Fertilizers,Egypt,Egypt,720325,16.3471243,47.8915271,,
 2019,2019,Import,Yemen,31,Fertilizers,Northern America,Americas,54053,16.3471243,47.8915271,43.897683433510366,-100.08947125585888
 2019,2019,Import,Yemen,31,Fertilizers,Northern Europe,Europe,44876,16.3471243,47.8915271,59.36075159783851,25.01346951967388
 2019,2019,Import,Yemen,31,Fertilizers,South-eastern Asia,Asia,85723,16.3471243,47.8915271,10.528384761701911,103.08333472012376
@@ -11,3 +11,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2019,2019,Import,Yemen,31,Fertilizers,Western Asia,Asia,856487,16.3471243,47.8915271,26.42921218083572,52.86847103284948
 2019,2019,Import,Yemen,31,Fertilizers,Western Europe,Europe,251785,16.3471243,47.8915271,47.92172048214207,7.866753258497997
 2019,2019,Import,Yemen,31,Fertilizers,World,World,21983819,16.3471243,47.8915271,,
+2019,2019,Import,Yemen,31,Fertilizers, Jordan, Jordan,1044634,16.3471243,47.8915271,,
+2019,2019,Import,Yemen,31,Fertilizers, Oman, Oman,32415,16.3471243,47.8915271,,
+2019,2019,Import,Yemen,31,Fertilizers, Saudi Arabia, Saudi Arabia,3086166,16.3471243,47.8915271,,
+2019,2019,Import,Yemen,31,Fertilizers, United Arab Emirates, United Arab Emirates,654357,16.3471243,47.8915271,,

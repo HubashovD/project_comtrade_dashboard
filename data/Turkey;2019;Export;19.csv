@@ -3,10 +3,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Central Asia,Asia,9939871,38.9597594,34.9249653,39.89317229901691,61.060280637304274
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Eastern Asia,Asia,66169344,38.9597594,34.9249653,37.977378106878206,73.97804075806764
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Eastern Europe,Europe,63424810,38.9597594,34.9249653,51.67568633314729,27.673469819741847
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Egypt,Egypt,5855390,38.9597594,34.9249653,,
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Latin America and the Caribbean,Americas,112321670,38.9597594,34.9249653,17.925141963241547,-78.01492950057497
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Melanesia,Oceania,153690,38.9597594,34.9249653,1.0108650891006263,147.3257485906919
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Micronesia,Oceania,7951,38.9597594,34.9249653,6.418559504495792,157.6364476938912
-2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern Africa,Africa,10119702,38.9597594,34.9249653,19.569604022535763,12.47761721199581
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern America,Americas,54429163,38.9597594,34.9249653,43.897683433510366,-100.08947125585888
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Northern Europe,Europe,34231732,38.9597594,34.9249653,59.36075159783851,25.01346951967388
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Polynesia,Oceania,36243,38.9597594,34.9249653,-5.109184731250752,167.40343615892436
@@ -14,6 +14,32 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Southern Asia,Asia,10391516,38.9597594,34.9249653,25.499703063807168,75.5024015339642
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Southern Europe,Europe,53238170,38.9597594,34.9249653,40.12399607988535,20.742583178432696
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Sub-Saharan Africa,Africa,380995677,38.9597594,34.9249653,6.06272746187266,22.727528470146083
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Sudan,Sudan,3725347,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Tunisia,Tunisia,538965,38.9597594,34.9249653,,
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Western Asia,Asia,68422832,38.9597594,34.9249653,26.42921218083572,52.86847103284948
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Western Europe,Europe,106886746,38.9597594,34.9249653,47.92172048214207,7.866753258497997
 2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",World,World,1912227380,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Afghanistan, Afghanistan,2489023,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Algeria, Algeria,7650070,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Azerbaijan, Azerbaijan,34486965,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Bahrain, Bahrain,2102069,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Comoros, Comoros,275888,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Cyprus, Cyprus,18213792,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Djibouti, Djibouti,12224312,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Georgia, Georgia,7291765,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Iraq, Iraq,412496352,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Israel, Israel,45504536,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Jordan, Jordan,17147043,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Kuwait, Kuwait,7864745,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Lebanon, Lebanon,31811978,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Libya, Libya,46687950,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Malta, Malta,263325,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Mauritania, Mauritania,6498379,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Morocco, Morocco,11273559,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Oman, Oman,15031251,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Pakistan, Pakistan,885336,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Qatar, Qatar,13405316,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Saudi Arabia, Saudi Arabia,97025543,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", State of Palestine, State of Palestine,24782027,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", United Arab Emirates, United Arab Emirates,21034021,38.9597594,34.9249653,,
+2019,2019,Export,Turkey,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products", Yemen, Yemen,72494783,38.9597594,34.9249653,,

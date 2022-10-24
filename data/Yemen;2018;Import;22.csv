@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,138084,16.3471243,47.8915271,37.977378106878206,73.97804075806764
 2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar",Eastern Europe,Europe,5811,16.3471243,47.8915271,51.67568633314729,27.673469819741847
-2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar",Northern Africa,Africa,144236,16.3471243,47.8915271,19.569604022535763,12.47761721199581
+2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar",Egypt,Egypt,144236,16.3471243,47.8915271,,
 2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar",Northern America,Americas,1949,16.3471243,47.8915271,43.897683433510366,-100.08947125585888
 2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar",Northern Europe,Europe,451486,16.3471243,47.8915271,59.36075159783851,25.01346951967388
 2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,1030703,16.3471243,47.8915271,10.528384761701911,103.08333472012376
@@ -10,3 +10,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar",Western Asia,Asia,75151,16.3471243,47.8915271,26.42921218083572,52.86847103284948
 2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar",Western Europe,Europe,159908,16.3471243,47.8915271,47.92172048214207,7.866753258497997
 2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar",World,World,7956454,16.3471243,47.8915271,,
+2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar", Jordan, Jordan,8222,16.3471243,47.8915271,,
+2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar", Kuwait, Kuwait,8621,16.3471243,47.8915271,,
+2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar", Lebanon, Lebanon,7585,16.3471243,47.8915271,,
+2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar", Oman, Oman,144392,16.3471243,47.8915271,,
+2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar", Saudi Arabia, Saudi Arabia,3666776,16.3471243,47.8915271,,
+2018,2018,Import,Yemen,22,"Beverages, spirits and vinegar", United Arab Emirates, United Arab Emirates,51030,16.3471243,47.8915271,,

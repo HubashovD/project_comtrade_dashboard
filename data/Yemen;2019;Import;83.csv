@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2019,2019,Import,Yemen,83,Metal; miscellaneous products of base metal,Eastern Asia,Asia,3012791,16.3471243,47.8915271,37.977378106878206,73.97804075806764
 2019,2019,Import,Yemen,83,Metal; miscellaneous products of base metal,Eastern Europe,Europe,5531,16.3471243,47.8915271,51.67568633314729,27.673469819741847
-2019,2019,Import,Yemen,83,Metal; miscellaneous products of base metal,Northern Africa,Africa,191586,16.3471243,47.8915271,19.569604022535763,12.47761721199581
+2019,2019,Import,Yemen,83,Metal; miscellaneous products of base metal,Egypt,Egypt,191586,16.3471243,47.8915271,,
 2019,2019,Import,Yemen,83,Metal; miscellaneous products of base metal,Northern America,Americas,2102,16.3471243,47.8915271,43.897683433510366,-100.08947125585888
 2019,2019,Import,Yemen,83,Metal; miscellaneous products of base metal,Northern Europe,Europe,8338,16.3471243,47.8915271,59.36075159783851,25.01346951967388
 2019,2019,Import,Yemen,83,Metal; miscellaneous products of base metal,South-eastern Asia,Asia,276198,16.3471243,47.8915271,10.528384761701911,103.08333472012376
@@ -9,3 +9,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2019,2019,Import,Yemen,83,Metal; miscellaneous products of base metal,Western Asia,Asia,29184,16.3471243,47.8915271,26.42921218083572,52.86847103284948
 2019,2019,Import,Yemen,83,Metal; miscellaneous products of base metal,Western Europe,Europe,5390,16.3471243,47.8915271,47.92172048214207,7.866753258497997
 2019,2019,Import,Yemen,83,Metal; miscellaneous products of base metal,World,World,4914430,16.3471243,47.8915271,,
+2019,2019,Import,Yemen,83,Metal; miscellaneous products of base metal, Oman, Oman,640,16.3471243,47.8915271,,
+2019,2019,Import,Yemen,83,Metal; miscellaneous products of base metal, Saudi Arabia, Saudi Arabia,124587,16.3471243,47.8915271,,
+2019,2019,Import,Yemen,83,Metal; miscellaneous products of base metal, United Arab Emirates, United Arab Emirates,10677,16.3471243,47.8915271,,
