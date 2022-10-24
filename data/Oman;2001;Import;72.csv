@@ -3,8 +3,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2001,2001,Import,Oman,72,Iron and steel,Central Asia,Asia,56525,21.0000287,57.0036901,39.89317229901691,61.060280637304274
 2001,2001,Import,Oman,72,Iron and steel,Eastern Asia,Asia,4744462,21.0000287,57.0036901,37.977378106878206,73.97804075806764
 2001,2001,Import,Oman,72,Iron and steel,Eastern Europe,Europe,8714634,21.0000287,57.0036901,51.67568633314729,27.673469819741847
+2001,2001,Import,Oman,72,Iron and steel,Egypt,Egypt,278570,21.0000287,57.0036901,,
 2001,2001,Import,Oman,72,Iron and steel,Latin America and the Caribbean,Americas,1396465,21.0000287,57.0036901,17.925141963241547,-78.01492950057497
-2001,2001,Import,Oman,72,Iron and steel,Northern Africa,Africa,278570,21.0000287,57.0036901,19.569604022535763,12.47761721199581
 2001,2001,Import,Oman,72,Iron and steel,Northern America,Americas,894359,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 2001,2001,Import,Oman,72,Iron and steel,Northern Europe,Europe,3068777,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 2001,2001,Import,Oman,72,Iron and steel,South-eastern Asia,Asia,1289638,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -14,3 +14,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2001,2001,Import,Oman,72,Iron and steel,Western Asia,Asia,9476415,21.0000287,57.0036901,26.42921218083572,52.86847103284948
 2001,2001,Import,Oman,72,Iron and steel,Western Europe,Europe,946121,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 2001,2001,Import,Oman,72,Iron and steel,World,World,73983460,21.0000287,57.0036901,,
+2001,2001,Import,Oman,72,Iron and steel, Bahrain, Bahrain,2302,21.0000287,57.0036901,,
+2001,2001,Import,Oman,72,Iron and steel, Kuwait, Kuwait,70832,21.0000287,57.0036901,,
+2001,2001,Import,Oman,72,Iron and steel, Pakistan, Pakistan,3142,21.0000287,57.0036901,,
+2001,2001,Import,Oman,72,Iron and steel, Qatar, Qatar,5652644,21.0000287,57.0036901,,
+2001,2001,Import,Oman,72,Iron and steel, Saudi Arabia, Saudi Arabia,2448086,21.0000287,57.0036901,,
+2001,2001,Import,Oman,72,Iron and steel, United Arab Emirates, United Arab Emirates,32173526,21.0000287,57.0036901,,
+2001,2001,Import,Oman,72,Iron and steel, Yemen, Yemen,364,21.0000287,57.0036901,,

@@ -1,8 +1,8 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2014,2014,Import,Bahrain,52,Cotton,Eastern Asia,Asia,40418221,26.1551249,50.5344606,37.977378106878206,73.97804075806764
 2014,2014,Import,Bahrain,52,Cotton,Eastern Europe,Europe,333089,26.1551249,50.5344606,51.67568633314729,27.673469819741847
+2014,2014,Import,Bahrain,52,Cotton,Egypt,Egypt,1864331,26.1551249,50.5344606,,
 2014,2014,Import,Bahrain,52,Cotton,Latin America and the Caribbean,Americas,433306,26.1551249,50.5344606,17.925141963241547,-78.01492950057497
-2014,2014,Import,Bahrain,52,Cotton,Northern Africa,Africa,1864331,26.1551249,50.5344606,19.569604022535763,12.47761721199581
 2014,2014,Import,Bahrain,52,Cotton,Northern America,Americas,551777,26.1551249,50.5344606,43.897683433510366,-100.08947125585888
 2014,2014,Import,Bahrain,52,Cotton,Northern Europe,Europe,23862,26.1551249,50.5344606,59.36075159783851,25.01346951967388
 2014,2014,Import,Bahrain,52,Cotton,South-eastern Asia,Asia,151066,26.1551249,50.5344606,10.528384761701911,103.08333472012376
@@ -12,3 +12,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2014,2014,Import,Bahrain,52,Cotton,Western Asia,Asia,2888226,26.1551249,50.5344606,26.42921218083572,52.86847103284948
 2014,2014,Import,Bahrain,52,Cotton,Western Europe,Europe,89260,26.1551249,50.5344606,47.92172048214207,7.866753258497997
 2014,2014,Import,Bahrain,52,Cotton,World,World,190435388,26.1551249,50.5344606,,
+2014,2014,Import,Bahrain,52,Cotton, Lebanon, Lebanon,3536,26.1551249,50.5344606,,
+2014,2014,Import,Bahrain,52,Cotton, Morocco, Morocco,4400,26.1551249,50.5344606,,
+2014,2014,Import,Bahrain,52,Cotton, Oman, Oman,128792,26.1551249,50.5344606,,
+2014,2014,Import,Bahrain,52,Cotton, Pakistan, Pakistan,19776977,26.1551249,50.5344606,,
+2014,2014,Import,Bahrain,52,Cotton, Saudi Arabia, Saudi Arabia,19968,26.1551249,50.5344606,,
+2014,2014,Import,Bahrain,52,Cotton, United Arab Emirates, United Arab Emirates,385613,26.1551249,50.5344606,,

@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2005,2005,Import,Pakistan,89,"Ships, boats and floating structures",Australia and New Zealand,Oceania,2074,30.3308401,71.247499,-16.85099460447687,133.4130365630627
 2005,2005,Import,Pakistan,89,"Ships, boats and floating structures",Eastern Asia,Asia,5994441,30.3308401,71.247499,37.977378106878206,73.97804075806764
-2005,2005,Import,Pakistan,89,"Ships, boats and floating structures",Northern Africa,Africa,1216786,30.3308401,71.247499,19.569604022535763,12.47761721199581
+2005,2005,Import,Pakistan,89,"Ships, boats and floating structures",Egypt,Egypt,1216786,30.3308401,71.247499,,
 2005,2005,Import,Pakistan,89,"Ships, boats and floating structures",Northern America,Americas,496525,30.3308401,71.247499,43.897683433510366,-100.08947125585888
 2005,2005,Import,Pakistan,89,"Ships, boats and floating structures",Northern Europe,Europe,59319,30.3308401,71.247499,59.36075159783851,25.01346951967388
 2005,2005,Import,Pakistan,89,"Ships, boats and floating structures",South-eastern Asia,Asia,1193454,30.3308401,71.247499,10.528384761701911,103.08333472012376
@@ -11,3 +11,5 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2005,2005,Import,Pakistan,89,"Ships, boats and floating structures",Western Asia,Asia,7761,30.3308401,71.247499,26.42921218083572,52.86847103284948
 2005,2005,Import,Pakistan,89,"Ships, boats and floating structures",Western Europe,Europe,45638,30.3308401,71.247499,47.92172048214207,7.866753258497997
 2005,2005,Import,Pakistan,89,"Ships, boats and floating structures",World,World,113501715,30.3308401,71.247499,,
+2005,2005,Import,Pakistan,89,"Ships, boats and floating structures", Saudi Arabia, Saudi Arabia,1871097,30.3308401,71.247499,,
+2005,2005,Import,Pakistan,89,"Ships, boats and floating structures", United Arab Emirates, United Arab Emirates,91776600,30.3308401,71.247499,,

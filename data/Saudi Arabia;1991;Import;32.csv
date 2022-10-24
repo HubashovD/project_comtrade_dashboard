@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Eastern Asia,Asia,8964655,25.6242618,42.3528328,37.977378106878206,73.97804075806764
 1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Eastern Europe,Europe,61341,25.6242618,42.3528328,51.67568633314729,27.673469819741847
-1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Northern Africa,Africa,278927,25.6242618,42.3528328,19.569604022535763,12.47761721199581
+1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Egypt,Egypt,278927,25.6242618,42.3528328,,
 1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Northern America,Americas,13829122,25.6242618,42.3528328,43.897683433510366,-100.08947125585888
 1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Northern Europe,Europe,21014646,25.6242618,42.3528328,59.36075159783851,25.01346951967388
 1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",South-eastern Asia,Asia,687435,25.6242618,42.3528328,10.528384761701911,103.08333472012376
@@ -9,3 +9,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Western Asia,Asia,652149,25.6242618,42.3528328,26.42921218083572,52.86847103284948
 1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",Western Europe,Europe,24624405,25.6242618,42.3528328,47.92172048214207,7.866753258497997
 1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et",World,World,93429840,25.6242618,42.3528328,,
+1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et", Bahrain, Bahrain,53229,25.6242618,42.3528328,,
+1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et", Jordan, Jordan,94275,25.6242618,42.3528328,,
+1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et", Kuwait, Kuwait,186663,25.6242618,42.3528328,,
+1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et", Lebanon, Lebanon,263418,25.6242618,42.3528328,,
+1991,1991,Import,Saudi Arabia,32,"Tanning, dyeing extracts, tannins, derivs,pigments et", United Arab Emirates, United Arab Emirates,7265605,25.6242618,42.3528328,,

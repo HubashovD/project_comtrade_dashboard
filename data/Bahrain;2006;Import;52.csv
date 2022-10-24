@@ -2,7 +2,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2006,2006,Import,Bahrain,52,Cotton,Australia and New Zealand,Oceania,163316,26.1551249,50.5344606,-16.85099460447687,133.4130365630627
 2006,2006,Import,Bahrain,52,Cotton,Eastern Asia,Asia,18596927,26.1551249,50.5344606,37.977378106878206,73.97804075806764
 2006,2006,Import,Bahrain,52,Cotton,Eastern Europe,Europe,75064,26.1551249,50.5344606,51.67568633314729,27.673469819741847
-2006,2006,Import,Bahrain,52,Cotton,Northern Africa,Africa,2769514,26.1551249,50.5344606,19.569604022535763,12.47761721199581
+2006,2006,Import,Bahrain,52,Cotton,Egypt,Egypt,2769514,26.1551249,50.5344606,,
 2006,2006,Import,Bahrain,52,Cotton,Northern America,Americas,1048847,26.1551249,50.5344606,43.897683433510366,-100.08947125585888
 2006,2006,Import,Bahrain,52,Cotton,Northern Europe,Europe,1060136,26.1551249,50.5344606,59.36075159783851,25.01346951967388
 2006,2006,Import,Bahrain,52,Cotton,South-eastern Asia,Asia,2064941,26.1551249,50.5344606,10.528384761701911,103.08333472012376
@@ -12,3 +12,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2006,2006,Import,Bahrain,52,Cotton,Western Asia,Asia,1436761,26.1551249,50.5344606,26.42921218083572,52.86847103284948
 2006,2006,Import,Bahrain,52,Cotton,Western Europe,Europe,4410799,26.1551249,50.5344606,47.92172048214207,7.866753258497997
 2006,2006,Import,Bahrain,52,Cotton,World,World,63224096,26.1551249,50.5344606,,
+2006,2006,Import,Bahrain,52,Cotton, Jordan, Jordan,1617,26.1551249,50.5344606,,
+2006,2006,Import,Bahrain,52,Cotton, Kuwait, Kuwait,838,26.1551249,50.5344606,,
+2006,2006,Import,Bahrain,52,Cotton, Lebanon, Lebanon,488707,26.1551249,50.5344606,,
+2006,2006,Import,Bahrain,52,Cotton, Oman, Oman,428039,26.1551249,50.5344606,,
+2006,2006,Import,Bahrain,52,Cotton, Pakistan, Pakistan,11242111,26.1551249,50.5344606,,
+2006,2006,Import,Bahrain,52,Cotton, Saudi Arabia, Saudi Arabia,173202,26.1551249,50.5344606,,
+2006,2006,Import,Bahrain,52,Cotton, United Arab Emirates, United Arab Emirates,1066349,26.1551249,50.5344606,,

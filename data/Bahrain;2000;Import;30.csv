@@ -2,7 +2,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Import,Bahrain,30,Pharmaceutical products,Australia and New Zealand,Oceania,485316,26.1551249,50.5344606,-16.85099460447687,133.4130365630627
 2000,2000,Import,Bahrain,30,Pharmaceutical products,Eastern Asia,Asia,364468,26.1551249,50.5344606,37.977378106878206,73.97804075806764
 2000,2000,Import,Bahrain,30,Pharmaceutical products,Eastern Europe,Europe,3037,26.1551249,50.5344606,51.67568633314729,27.673469819741847
-2000,2000,Import,Bahrain,30,Pharmaceutical products,Northern Africa,Africa,648656,26.1551249,50.5344606,19.569604022535763,12.47761721199581
+2000,2000,Import,Bahrain,30,Pharmaceutical products,Egypt,Egypt,648656,26.1551249,50.5344606,,
 2000,2000,Import,Bahrain,30,Pharmaceutical products,Northern America,Americas,3825116,26.1551249,50.5344606,43.897683433510366,-100.08947125585888
 2000,2000,Import,Bahrain,30,Pharmaceutical products,Northern Europe,Europe,12223187,26.1551249,50.5344606,59.36075159783851,25.01346951967388
 2000,2000,Import,Bahrain,30,Pharmaceutical products,South-eastern Asia,Asia,376177,26.1551249,50.5344606,10.528384761701911,103.08333472012376
@@ -12,3 +12,11 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Import,Bahrain,30,Pharmaceutical products,Western Asia,Asia,67577,26.1551249,50.5344606,26.42921218083572,52.86847103284948
 2000,2000,Import,Bahrain,30,Pharmaceutical products,Western Europe,Europe,15975687,26.1551249,50.5344606,47.92172048214207,7.866753258497997
 2000,2000,Import,Bahrain,30,Pharmaceutical products,World,World,42094278,26.1551249,50.5344606,,
+2000,2000,Import,Bahrain,30,Pharmaceutical products, Cyprus, Cyprus,427100,26.1551249,50.5344606,,
+2000,2000,Import,Bahrain,30,Pharmaceutical products, Jordan, Jordan,1179158,26.1551249,50.5344606,,
+2000,2000,Import,Bahrain,30,Pharmaceutical products, Kuwait, Kuwait,343412,26.1551249,50.5344606,,
+2000,2000,Import,Bahrain,30,Pharmaceutical products, Lebanon, Lebanon,12479,26.1551249,50.5344606,,
+2000,2000,Import,Bahrain,30,Pharmaceutical products, Oman, Oman,43298,26.1551249,50.5344606,,
+2000,2000,Import,Bahrain,30,Pharmaceutical products, Pakistan, Pakistan,1402,26.1551249,50.5344606,,
+2000,2000,Import,Bahrain,30,Pharmaceutical products, Saudi Arabia, Saudi Arabia,1458011,26.1551249,50.5344606,,
+2000,2000,Import,Bahrain,30,Pharmaceutical products, United Arab Emirates, United Arab Emirates,1754638,26.1551249,50.5344606,,

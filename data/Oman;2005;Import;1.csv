@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2005,2005,Import,Oman,1,Live animals,Australia and New Zealand,Oceania,24184638,21.0000287,57.0036901,-16.85099460447687,133.4130365630627
 2005,2005,Import,Oman,1,Live animals,Eastern Europe,Europe,74926,21.0000287,57.0036901,51.67568633314729,27.673469819741847
-2005,2005,Import,Oman,1,Live animals,Northern Africa,Africa,1152,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+2005,2005,Import,Oman,1,Live animals,Egypt,Egypt,1152,21.0000287,57.0036901,,
 2005,2005,Import,Oman,1,Live animals,Northern America,Americas,13938,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 2005,2005,Import,Oman,1,Live animals,Northern Europe,Europe,101714,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 2005,2005,Import,Oman,1,Live animals,South-eastern Asia,Asia,926,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -11,3 +11,12 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2005,2005,Import,Oman,1,Live animals,Western Asia,Asia,208,21.0000287,57.0036901,26.42921218083572,52.86847103284948
 2005,2005,Import,Oman,1,Live animals,Western Europe,Europe,1170523,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 2005,2005,Import,Oman,1,Live animals,World,World,44242168,21.0000287,57.0036901,,
+2005,2005,Import,Oman,1,Live animals, Bahrain, Bahrain,3277,21.0000287,57.0036901,,
+2005,2005,Import,Oman,1,Live animals, Cyprus, Cyprus,780,21.0000287,57.0036901,,
+2005,2005,Import,Oman,1,Live animals, Djibouti, Djibouti,37451,21.0000287,57.0036901,,
+2005,2005,Import,Oman,1,Live animals, Kuwait, Kuwait,520,21.0000287,57.0036901,,
+2005,2005,Import,Oman,1,Live animals, Morocco, Morocco,3901,21.0000287,57.0036901,,
+2005,2005,Import,Oman,1,Live animals, Pakistan, Pakistan,23238,21.0000287,57.0036901,,
+2005,2005,Import,Oman,1,Live animals, Qatar, Qatar,1035,21.0000287,57.0036901,,
+2005,2005,Import,Oman,1,Live animals, Saudi Arabia, Saudi Arabia,156,21.0000287,57.0036901,,
+2005,2005,Import,Oman,1,Live animals, United Arab Emirates, United Arab Emirates,5263427,21.0000287,57.0036901,,

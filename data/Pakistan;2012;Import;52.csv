@@ -3,8 +3,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2012,2012,Import,Pakistan,52,Cotton,Central Asia,Asia,7950985,30.3308401,71.247499,39.89317229901691,61.060280637304274
 2012,2012,Import,Pakistan,52,Cotton,Eastern Asia,Asia,84256446,30.3308401,71.247499,37.977378106878206,73.97804075806764
 2012,2012,Import,Pakistan,52,Cotton,Eastern Europe,Europe,465,30.3308401,71.247499,51.67568633314729,27.673469819741847
+2012,2012,Import,Pakistan,52,Cotton,Egypt,Egypt,39791905,30.3308401,71.247499,,
 2012,2012,Import,Pakistan,52,Cotton,Latin America and the Caribbean,Americas,108825620,30.3308401,71.247499,17.925141963241547,-78.01492950057497
-2012,2012,Import,Pakistan,52,Cotton,Northern Africa,Africa,39791905,30.3308401,71.247499,19.569604022535763,12.47761721199581
 2012,2012,Import,Pakistan,52,Cotton,Northern America,Americas,119319100,30.3308401,71.247499,43.897683433510366,-100.08947125585888
 2012,2012,Import,Pakistan,52,Cotton,Northern Europe,Europe,1489596,30.3308401,71.247499,59.36075159783851,25.01346951967388
 2012,2012,Import,Pakistan,52,Cotton,South-eastern Asia,Asia,2858915,30.3308401,71.247499,10.528384761701911,103.08333472012376
@@ -14,3 +14,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2012,2012,Import,Pakistan,52,Cotton,Western Asia,Asia,1917693,30.3308401,71.247499,26.42921218083572,52.86847103284948
 2012,2012,Import,Pakistan,52,Cotton,Western Europe,Europe,2030000,30.3308401,71.247499,47.92172048214207,7.866753258497997
 2012,2012,Import,Pakistan,52,Cotton,World,World,683983365,30.3308401,71.247499,,
+2012,2012,Import,Pakistan,52,Cotton, Afghanistan, Afghanistan,68472430,30.3308401,71.247499,,
+2012,2012,Import,Pakistan,52,Cotton, Bahrain, Bahrain,1369198,30.3308401,71.247499,,
+2012,2012,Import,Pakistan,52,Cotton, Kuwait, Kuwait,1867,30.3308401,71.247499,,
+2012,2012,Import,Pakistan,52,Cotton, Saudi Arabia, Saudi Arabia,90660,30.3308401,71.247499,,
+2012,2012,Import,Pakistan,52,Cotton, United Arab Emirates, United Arab Emirates,1055833,30.3308401,71.247499,,
+2012,2012,Import,Pakistan,52,Cotton, Yemen, Yemen,503616,30.3308401,71.247499,,

@@ -3,7 +3,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2004,2004,Import,United Arab Emirates,52,Cotton,Central Asia,Asia,7182238,24.0002488,53.9994829,39.89317229901691,61.060280637304274
 2004,2004,Import,United Arab Emirates,52,Cotton,Eastern Asia,Asia,77227029,24.0002488,53.9994829,37.977378106878206,73.97804075806764
 2004,2004,Import,United Arab Emirates,52,Cotton,Eastern Europe,Europe,28024,24.0002488,53.9994829,51.67568633314729,27.673469819741847
-2004,2004,Import,United Arab Emirates,52,Cotton,Northern Africa,Africa,1378126,24.0002488,53.9994829,19.569604022535763,12.47761721199581
+2004,2004,Import,United Arab Emirates,52,Cotton,Egypt,Egypt,1378126,24.0002488,53.9994829,,
 2004,2004,Import,United Arab Emirates,52,Cotton,Northern America,Americas,1687969,24.0002488,53.9994829,43.897683433510366,-100.08947125585888
 2004,2004,Import,United Arab Emirates,52,Cotton,Northern Europe,Europe,2901451,24.0002488,53.9994829,59.36075159783851,25.01346951967388
 2004,2004,Import,United Arab Emirates,52,Cotton,South-eastern Asia,Asia,10401456,24.0002488,53.9994829,10.528384761701911,103.08333472012376
@@ -13,3 +13,14 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2004,2004,Import,United Arab Emirates,52,Cotton,Western Asia,Asia,2583160,24.0002488,53.9994829,26.42921218083572,52.86847103284948
 2004,2004,Import,United Arab Emirates,52,Cotton,Western Europe,Europe,6940827,24.0002488,53.9994829,47.92172048214207,7.866753258497997
 2004,2004,Import,United Arab Emirates,52,Cotton,World,World,205895621,24.0002488,53.9994829,,
+2004,2004,Import,United Arab Emirates,52,Cotton, Bahrain, Bahrain,110542,24.0002488,53.9994829,,
+2004,2004,Import,United Arab Emirates,52,Cotton, Comoros, Comoros,125,24.0002488,53.9994829,,
+2004,2004,Import,United Arab Emirates,52,Cotton, Iraq, Iraq,32058,24.0002488,53.9994829,,
+2004,2004,Import,United Arab Emirates,52,Cotton, Jordan, Jordan,56617,24.0002488,53.9994829,,
+2004,2004,Import,United Arab Emirates,52,Cotton, Kuwait, Kuwait,2558,24.0002488,53.9994829,,
+2004,2004,Import,United Arab Emirates,52,Cotton, Lebanon, Lebanon,25828,24.0002488,53.9994829,,
+2004,2004,Import,United Arab Emirates,52,Cotton, Morocco, Morocco,223461,24.0002488,53.9994829,,
+2004,2004,Import,United Arab Emirates,52,Cotton, Oman, Oman,1179,24.0002488,53.9994829,,
+2004,2004,Import,United Arab Emirates,52,Cotton, Pakistan, Pakistan,34493617,24.0002488,53.9994829,,
+2004,2004,Import,United Arab Emirates,52,Cotton, Qatar, Qatar,4969,24.0002488,53.9994829,,
+2004,2004,Import,United Arab Emirates,52,Cotton, Saudi Arabia, Saudi Arabia,32182,24.0002488,53.9994829,,

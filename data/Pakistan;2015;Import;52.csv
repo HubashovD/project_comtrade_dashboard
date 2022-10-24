@@ -3,8 +3,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2015,2015,Import,Pakistan,52,Cotton,Central Asia,Asia,12257349,30.3308401,71.247499,39.89317229901691,61.060280637304274
 2015,2015,Import,Pakistan,52,Cotton,Eastern Asia,Asia,30405692,30.3308401,71.247499,37.977378106878206,73.97804075806764
 2015,2015,Import,Pakistan,52,Cotton,Eastern Europe,Europe,4917,30.3308401,71.247499,51.67568633314729,27.673469819741847
+2015,2015,Import,Pakistan,52,Cotton,Egypt,Egypt,17960308,30.3308401,71.247499,,
 2015,2015,Import,Pakistan,52,Cotton,Latin America and the Caribbean,Americas,26132565,30.3308401,71.247499,17.925141963241547,-78.01492950057497
-2015,2015,Import,Pakistan,52,Cotton,Northern Africa,Africa,17960308,30.3308401,71.247499,19.569604022535763,12.47761721199581
 2015,2015,Import,Pakistan,52,Cotton,Northern America,Americas,78281387,30.3308401,71.247499,43.897683433510366,-100.08947125585888
 2015,2015,Import,Pakistan,52,Cotton,Northern Europe,Europe,131468,30.3308401,71.247499,59.36075159783851,25.01346951967388
 2015,2015,Import,Pakistan,52,Cotton,South-eastern Asia,Asia,4770172,30.3308401,71.247499,10.528384761701911,103.08333472012376
@@ -14,3 +14,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2015,2015,Import,Pakistan,52,Cotton,Western Asia,Asia,4425569,30.3308401,71.247499,26.42921218083572,52.86847103284948
 2015,2015,Import,Pakistan,52,Cotton,Western Europe,Europe,369302,30.3308401,71.247499,47.92172048214207,7.866753258497997
 2015,2015,Import,Pakistan,52,Cotton,World,World,662978144,30.3308401,71.247499,,
+2015,2015,Import,Pakistan,52,Cotton, Afghanistan, Afghanistan,83357751,30.3308401,71.247499,,
+2015,2015,Import,Pakistan,52,Cotton, Azerbaijan, Azerbaijan,5029,30.3308401,71.247499,,
+2015,2015,Import,Pakistan,52,Cotton, Bahrain, Bahrain,808729,30.3308401,71.247499,,
+2015,2015,Import,Pakistan,52,Cotton, Iraq, Iraq,291,30.3308401,71.247499,,
+2015,2015,Import,Pakistan,52,Cotton, Oman, Oman,8925,30.3308401,71.247499,,
+2015,2015,Import,Pakistan,52,Cotton, Saudi Arabia, Saudi Arabia,1025,30.3308401,71.247499,,
+2015,2015,Import,Pakistan,52,Cotton, United Arab Emirates, United Arab Emirates,1962856,30.3308401,71.247499,,

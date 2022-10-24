@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1991,1991,Import,Oman,7,Edible vegetables and certain roots and tubers,Australia and New Zealand,Oceania,524549,21.0000287,57.0036901,-16.85099460447687,133.4130365630627
 1991,1991,Import,Oman,7,Edible vegetables and certain roots and tubers,Eastern Asia,Asia,854749,21.0000287,57.0036901,37.977378106878206,73.97804075806764
-1991,1991,Import,Oman,7,Edible vegetables and certain roots and tubers,Northern Africa,Africa,25282,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+1991,1991,Import,Oman,7,Edible vegetables and certain roots and tubers,Egypt,Egypt,25282,21.0000287,57.0036901,,
 1991,1991,Import,Oman,7,Edible vegetables and certain roots and tubers,Northern America,Americas,962420,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 1991,1991,Import,Oman,7,Edible vegetables and certain roots and tubers,Northern Europe,Europe,816547,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 1991,1991,Import,Oman,7,Edible vegetables and certain roots and tubers,South-eastern Asia,Asia,147505,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -11,3 +11,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1991,1991,Import,Oman,7,Edible vegetables and certain roots and tubers,Western Asia,Asia,480589,21.0000287,57.0036901,26.42921218083572,52.86847103284948
 1991,1991,Import,Oman,7,Edible vegetables and certain roots and tubers,Western Europe,Europe,863450,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 1991,1991,Import,Oman,7,Edible vegetables and certain roots and tubers,World,World,35368664,21.0000287,57.0036901,,
+1991,1991,Import,Oman,7,Edible vegetables and certain roots and tubers, Lebanon, Lebanon,530,21.0000287,57.0036901,,
+1991,1991,Import,Oman,7,Edible vegetables and certain roots and tubers, Pakistan, Pakistan,113365,21.0000287,57.0036901,,
+1991,1991,Import,Oman,7,Edible vegetables and certain roots and tubers, Saudi Arabia, Saudi Arabia,2465,21.0000287,57.0036901,,
+1991,1991,Import,Oman,7,Edible vegetables and certain roots and tubers, United Arab Emirates, United Arab Emirates,27978430,21.0000287,57.0036901,,

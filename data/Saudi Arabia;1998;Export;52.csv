@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1998,1998,Export,Saudi Arabia,52,Cotton,Eastern Asia,Asia,125588,25.6242618,42.3528328,37.977378106878206,73.97804075806764
-1998,1998,Export,Saudi Arabia,52,Cotton,Northern Africa,Africa,534,25.6242618,42.3528328,19.569604022535763,12.47761721199581
+1998,1998,Export,Saudi Arabia,52,Cotton,Egypt,Egypt,534,25.6242618,42.3528328,,
 1998,1998,Export,Saudi Arabia,52,Cotton,Northern America,Americas,558,25.6242618,42.3528328,43.897683433510366,-100.08947125585888
 1998,1998,Export,Saudi Arabia,52,Cotton,Northern Europe,Europe,108144,25.6242618,42.3528328,59.36075159783851,25.01346951967388
 1998,1998,Export,Saudi Arabia,52,Cotton,Southern Europe,Europe,104602,25.6242618,42.3528328,40.12399607988535,20.742583178432696
@@ -8,3 +8,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1998,1998,Export,Saudi Arabia,52,Cotton,Western Asia,Asia,12516,25.6242618,42.3528328,26.42921218083572,52.86847103284948
 1998,1998,Export,Saudi Arabia,52,Cotton,Western Europe,Europe,155736,25.6242618,42.3528328,47.92172048214207,7.866753258497997
 1998,1998,Export,Saudi Arabia,52,Cotton,World,World,1309410,25.6242618,42.3528328,,
+1998,1998,Export,Saudi Arabia,52,Cotton, Bahrain, Bahrain,102931,25.6242618,42.3528328,,
+1998,1998,Export,Saudi Arabia,52,Cotton, Jordan, Jordan,146422,25.6242618,42.3528328,,
+1998,1998,Export,Saudi Arabia,52,Cotton, Kuwait, Kuwait,107016,25.6242618,42.3528328,,
+1998,1998,Export,Saudi Arabia,52,Cotton, Pakistan, Pakistan,42056,25.6242618,42.3528328,,
+1998,1998,Export,Saudi Arabia,52,Cotton, Qatar, Qatar,9672,25.6242618,42.3528328,,
+1998,1998,Export,Saudi Arabia,52,Cotton, United Arab Emirates, United Arab Emirates,159588,25.6242618,42.3528328,,
+1998,1998,Export,Saudi Arabia,52,Cotton, Yemen, Yemen,4679,25.6242618,42.3528328,,

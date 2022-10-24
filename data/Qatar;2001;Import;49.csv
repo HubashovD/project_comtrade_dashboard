@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc",Australia and New Zealand,Oceania,9582,25.3336984,51.2295295,-16.85099460447687,133.4130365630627
 2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc",Eastern Asia,Asia,497444,25.3336984,51.2295295,37.977378106878206,73.97804075806764
-2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc",Northern Africa,Africa,192884,25.3336984,51.2295295,19.569604022535763,12.47761721199581
+2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc",Egypt,Egypt,192884,25.3336984,51.2295295,,
 2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc",Northern America,Americas,979848,25.3336984,51.2295295,43.897683433510366,-100.08947125585888
 2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc",Northern Europe,Europe,1746724,25.3336984,51.2295295,59.36075159783851,25.01346951967388
 2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc",South-eastern Asia,Asia,78999,25.3336984,51.2295295,10.528384761701911,103.08333472012376
@@ -11,3 +11,13 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc",Western Asia,Asia,150794,25.3336984,51.2295295,26.42921218083572,52.86847103284948
 2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc",Western Europe,Europe,672899,25.3336984,51.2295295,47.92172048214207,7.866753258497997
 2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc",World,World,8712384,25.3336984,51.2295295,,
+2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc", Bahrain, Bahrain,454256,25.3336984,51.2295295,,
+2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc", Cyprus, Cyprus,23334,25.3336984,51.2295295,,
+2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc", Jordan, Jordan,58716,25.3336984,51.2295295,,
+2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc", Kuwait, Kuwait,170060,25.3336984,51.2295295,,
+2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc", Lebanon, Lebanon,529117,25.3336984,51.2295295,,
+2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc", Oman, Oman,58779,25.3336984,51.2295295,,
+2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc", Pakistan, Pakistan,68753,25.3336984,51.2295295,,
+2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc", Saudi Arabia, Saudi Arabia,1212975,25.3336984,51.2295295,,
+2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc", United Arab Emirates, United Arab Emirates,905776,25.3336984,51.2295295,,
+2001,2001,Import,Qatar,49,"Printed books, newspapers, pictures etc", Yemen, Yemen,549,25.3336984,51.2295295,,

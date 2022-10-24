@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2007,2007,Import,Oman,54,Man-made filaments,Australia and New Zealand,Oceania,243095,21.0000287,57.0036901,-16.85099460447687,133.4130365630627
 2007,2007,Import,Oman,54,Man-made filaments,Eastern Asia,Asia,2798951,21.0000287,57.0036901,37.977378106878206,73.97804075806764
-2007,2007,Import,Oman,54,Man-made filaments,Northern Africa,Africa,208882,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+2007,2007,Import,Oman,54,Man-made filaments,Egypt,Egypt,208882,21.0000287,57.0036901,,
 2007,2007,Import,Oman,54,Man-made filaments,Northern America,Americas,153462,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 2007,2007,Import,Oman,54,Man-made filaments,Northern Europe,Europe,294484,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 2007,2007,Import,Oman,54,Man-made filaments,South-eastern Asia,Asia,4304990,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -10,3 +10,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2007,2007,Import,Oman,54,Man-made filaments,Western Asia,Asia,107207,21.0000287,57.0036901,26.42921218083572,52.86847103284948
 2007,2007,Import,Oman,54,Man-made filaments,Western Europe,Europe,784354,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 2007,2007,Import,Oman,54,Man-made filaments,World,World,20553187,21.0000287,57.0036901,,
+2007,2007,Import,Oman,54,Man-made filaments, Kuwait, Kuwait,5818,21.0000287,57.0036901,,
+2007,2007,Import,Oman,54,Man-made filaments, Pakistan, Pakistan,382343,21.0000287,57.0036901,,
+2007,2007,Import,Oman,54,Man-made filaments, Saudi Arabia, Saudi Arabia,333761,21.0000287,57.0036901,,
+2007,2007,Import,Oman,54,Man-made filaments, United Arab Emirates, United Arab Emirates,9232283,21.0000287,57.0036901,,

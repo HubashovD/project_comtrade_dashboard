@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices",Eastern Asia,Asia,1234,25.6242618,42.3528328,37.977378106878206,73.97804075806764
-1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices",Northern Africa,Africa,66988,25.6242618,42.3528328,19.569604022535763,12.47761721199581
+1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices",Egypt,Egypt,66988,25.6242618,42.3528328,,
 1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices",Northern Europe,Europe,61415,25.6242618,42.3528328,59.36075159783851,25.01346951967388
 1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices",South-eastern Asia,Asia,18024,25.6242618,42.3528328,10.528384761701911,103.08333472012376
 1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices",Southern Europe,Europe,533,25.6242618,42.3528328,40.12399607988535,20.742583178432696
@@ -8,3 +8,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices",Western Asia,Asia,4449,25.6242618,42.3528328,26.42921218083572,52.86847103284948
 1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices",Western Europe,Europe,20724,25.6242618,42.3528328,47.92172048214207,7.866753258497997
 1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices",World,World,2008354,25.6242618,42.3528328,,
+1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices", Bahrain, Bahrain,36313,25.6242618,42.3528328,,
+1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices", Kuwait, Kuwait,1463952,25.6242618,42.3528328,,
+1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices", Lebanon, Lebanon,9752,25.6242618,42.3528328,,
+1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices", Qatar, Qatar,27135,25.6242618,42.3528328,,
+1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices", United Arab Emirates, United Arab Emirates,194044,25.6242618,42.3528328,,
+1991,1991,Export,Saudi Arabia,9,"Coffee, tea, mate and spices", Yemen, Yemen,3830,25.6242618,42.3528328,,

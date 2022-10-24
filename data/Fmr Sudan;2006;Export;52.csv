@@ -1,8 +1,8 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2006,2006,Export,Fmr Sudan,52,Cotton,Eastern Asia,Asia,6209758,,,37.977378106878206,73.97804075806764
 2006,2006,Export,Fmr Sudan,52,Cotton,Eastern Europe,Europe,83755,,,51.67568633314729,27.673469819741847
+2006,2006,Export,Fmr Sudan,52,Cotton,Egypt,Egypt,32559714,,,,
 2006,2006,Export,Fmr Sudan,52,Cotton,Latin America and the Caribbean,Americas,600302,,,17.925141963241547,-78.01492950057497
-2006,2006,Export,Fmr Sudan,52,Cotton,Northern Africa,Africa,32559714,,,19.569604022535763,12.47761721199581
 2006,2006,Export,Fmr Sudan,52,Cotton,Northern Europe,Europe,412132,,,59.36075159783851,25.01346951967388
 2006,2006,Export,Fmr Sudan,52,Cotton,South-eastern Asia,Asia,1705164,,,10.528384761701911,103.08333472012376
 2006,2006,Export,Fmr Sudan,52,Cotton,Southern Asia,Asia,10066173,,,25.499703063807168,75.5024015339642
@@ -10,3 +10,5 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2006,2006,Export,Fmr Sudan,52,Cotton,Sub-Saharan Africa,Africa,184859,,,6.06272746187266,22.727528470146083
 2006,2006,Export,Fmr Sudan,52,Cotton,Western Europe,Europe,3372061,,,47.92172048214207,7.866753258497997
 2006,2006,Export,Fmr Sudan,52,Cotton,World,World,70230286,,,,
+2006,2006,Export,Fmr Sudan,52,Cotton, Morocco, Morocco,91179,,,,
+2006,2006,Export,Fmr Sudan,52,Cotton, Pakistan, Pakistan,5758933,,,,

@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar",Australia and New Zealand,Oceania,31492,25.6242618,42.3528328,-16.85099460447687,133.4130365630627
 2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar",Eastern Asia,Asia,900987,25.6242618,42.3528328,37.977378106878206,73.97804075806764
-2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar",Northern Africa,Africa,2622897,25.6242618,42.3528328,19.569604022535763,12.47761721199581
+2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar",Egypt,Egypt,2622897,25.6242618,42.3528328,,
 2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar",Northern America,Americas,3358686,25.6242618,42.3528328,43.897683433510366,-100.08947125585888
 2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar",Northern Europe,Europe,289831,25.6242618,42.3528328,59.36075159783851,25.01346951967388
 2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar",South-eastern Asia,Asia,361355,25.6242618,42.3528328,10.528384761701911,103.08333472012376
@@ -10,3 +10,11 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar",Western Asia,Asia,545503,25.6242618,42.3528328,26.42921218083572,52.86847103284948
 2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar",Western Europe,Europe,80928715,25.6242618,42.3528328,47.92172048214207,7.866753258497997
 2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar",World,World,94674374,25.6242618,42.3528328,,
+2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar", Bahrain, Bahrain,1550306,25.6242618,42.3528328,,
+2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar", Jordan, Jordan,111289,25.6242618,42.3528328,,
+2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar", Kuwait, Kuwait,217240,25.6242618,42.3528328,,
+2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar", Lebanon, Lebanon,248732,25.6242618,42.3528328,,
+2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar", Oman, Oman,793434,25.6242618,42.3528328,,
+2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar", Pakistan, Pakistan,212437,25.6242618,42.3528328,,
+2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar", United Arab Emirates, United Arab Emirates,86202,25.6242618,42.3528328,,
+2005,2005,Import,Saudi Arabia,22,"Beverages, spirits and vinegar", Yemen, Yemen,796103,25.6242618,42.3528328,,

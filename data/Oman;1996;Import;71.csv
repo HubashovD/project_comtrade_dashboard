@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc",Eastern Asia,Asia,1189818,21.0000287,57.0036901,37.977378106878206,73.97804075806764
 1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc",Eastern Europe,Europe,27375,21.0000287,57.0036901,51.67568633314729,27.673469819741847
-1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc",Northern Africa,Africa,37589,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc",Egypt,Egypt,37589,21.0000287,57.0036901,,
 1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc",Northern America,Americas,34801,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc",Northern Europe,Europe,88280,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc",South-eastern Asia,Asia,3534561,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -9,3 +9,11 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc",Southern Europe,Europe,138228,21.0000287,57.0036901,40.12399607988535,20.742583178432696
 1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc",Western Europe,Europe,1876274,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc",World,World,161620672,21.0000287,57.0036901,,
+1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc", Bahrain, Bahrain,1488058,21.0000287,57.0036901,,
+1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc", Jordan, Jordan,5464,21.0000287,57.0036901,,
+1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc", Kuwait, Kuwait,9641,21.0000287,57.0036901,,
+1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc", Lebanon, Lebanon,95171,21.0000287,57.0036901,,
+1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc", Pakistan, Pakistan,72534,21.0000287,57.0036901,,
+1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc", Qatar, Qatar,154936,21.0000287,57.0036901,,
+1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc", Saudi Arabia, Saudi Arabia,666112,21.0000287,57.0036901,,
+1996,1996,Import,Oman,71,"Pearls, precious stones, metals, coins, etc", United Arab Emirates, United Arab Emirates,148510144,21.0000287,57.0036901,,

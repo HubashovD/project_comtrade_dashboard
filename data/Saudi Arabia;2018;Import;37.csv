@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2018,2018,Import,Saudi Arabia,37,Photographic or cinematographic goods,Eastern Asia,Asia,25389124,25.6242618,42.3528328,37.977378106878206,73.97804075806764
 2018,2018,Import,Saudi Arabia,37,Photographic or cinematographic goods,Eastern Europe,Europe,81311,25.6242618,42.3528328,51.67568633314729,27.673469819741847
-2018,2018,Import,Saudi Arabia,37,Photographic or cinematographic goods,Northern Africa,Africa,69309,25.6242618,42.3528328,19.569604022535763,12.47761721199581
+2018,2018,Import,Saudi Arabia,37,Photographic or cinematographic goods,Egypt,Egypt,69309,25.6242618,42.3528328,,
 2018,2018,Import,Saudi Arabia,37,Photographic or cinematographic goods,Northern America,Americas,3619184,25.6242618,42.3528328,43.897683433510366,-100.08947125585888
 2018,2018,Import,Saudi Arabia,37,Photographic or cinematographic goods,Northern Europe,Europe,766203,25.6242618,42.3528328,59.36075159783851,25.01346951967388
 2018,2018,Import,Saudi Arabia,37,Photographic or cinematographic goods,South-eastern Asia,Asia,543827,25.6242618,42.3528328,10.528384761701911,103.08333472012376
@@ -9,3 +9,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2018,2018,Import,Saudi Arabia,37,Photographic or cinematographic goods,Western Asia,Asia,6020,25.6242618,42.3528328,26.42921218083572,52.86847103284948
 2018,2018,Import,Saudi Arabia,37,Photographic or cinematographic goods,Western Europe,Europe,13099444,25.6242618,42.3528328,47.92172048214207,7.866753258497997
 2018,2018,Import,Saudi Arabia,37,Photographic or cinematographic goods,World,World,44772050,25.6242618,42.3528328,,
+2018,2018,Import,Saudi Arabia,37,Photographic or cinematographic goods, Bahrain, Bahrain,10504,25.6242618,42.3528328,,
+2018,2018,Import,Saudi Arabia,37,Photographic or cinematographic goods, Georgia, Georgia,10345,25.6242618,42.3528328,,
+2018,2018,Import,Saudi Arabia,37,Photographic or cinematographic goods, United Arab Emirates, United Arab Emirates,131209,25.6242618,42.3528328,,

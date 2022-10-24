@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2010,2010,Export,Oman,30,Pharmaceutical products,Australia and New Zealand,Oceania,21313,21.0000287,57.0036901,-16.85099460447687,133.4130365630627
 2010,2010,Export,Oman,30,Pharmaceutical products,Eastern Asia,Asia,39,21.0000287,57.0036901,37.977378106878206,73.97804075806764
-2010,2010,Export,Oman,30,Pharmaceutical products,Northern Africa,Africa,847802,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+2010,2010,Export,Oman,30,Pharmaceutical products,Egypt,Egypt,847802,21.0000287,57.0036901,,
 2010,2010,Export,Oman,30,Pharmaceutical products,Northern America,Americas,88,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 2010,2010,Export,Oman,30,Pharmaceutical products,Northern Europe,Europe,945469,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 2010,2010,Export,Oman,30,Pharmaceutical products,Southern Asia,Asia,200266,21.0000287,57.0036901,25.499703063807168,75.5024015339642
@@ -10,3 +10,16 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2010,2010,Export,Oman,30,Pharmaceutical products,Western Asia,Asia,1459397,21.0000287,57.0036901,26.42921218083572,52.86847103284948
 2010,2010,Export,Oman,30,Pharmaceutical products,Western Europe,Europe,2083521,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 2010,2010,Export,Oman,30,Pharmaceutical products,World,World,21195145,21.0000287,57.0036901,,
+2010,2010,Export,Oman,30,Pharmaceutical products, Bahrain, Bahrain,361150,21.0000287,57.0036901,,
+2010,2010,Export,Oman,30,Pharmaceutical products, Cyprus, Cyprus,53288,21.0000287,57.0036901,,
+2010,2010,Export,Oman,30,Pharmaceutical products, Iraq, Iraq,930109,21.0000287,57.0036901,,
+2010,2010,Export,Oman,30,Pharmaceutical products, Jordan, Jordan,965435,21.0000287,57.0036901,,
+2010,2010,Export,Oman,30,Pharmaceutical products, Kuwait, Kuwait,871823,21.0000287,57.0036901,,
+2010,2010,Export,Oman,30,Pharmaceutical products, Lebanon, Lebanon,79129,21.0000287,57.0036901,,
+2010,2010,Export,Oman,30,Pharmaceutical products, Libya, Libya,38629,21.0000287,57.0036901,,
+2010,2010,Export,Oman,30,Pharmaceutical products, Malta, Malta,272266,21.0000287,57.0036901,,
+2010,2010,Export,Oman,30,Pharmaceutical products, Morocco, Morocco,253098,21.0000287,57.0036901,,
+2010,2010,Export,Oman,30,Pharmaceutical products, Qatar, Qatar,814233,21.0000287,57.0036901,,
+2010,2010,Export,Oman,30,Pharmaceutical products, Saudi Arabia, Saudi Arabia,6411383,21.0000287,57.0036901,,
+2010,2010,Export,Oman,30,Pharmaceutical products, United Arab Emirates, United Arab Emirates,2227129,21.0000287,57.0036901,,
+2010,2010,Export,Oman,30,Pharmaceutical products, Yemen, Yemen,638745,21.0000287,57.0036901,,

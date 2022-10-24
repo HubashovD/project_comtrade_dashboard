@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2007,2007,Import,Fmr Sudan,52,Cotton,Eastern Asia,Asia,235683,,,37.977378106878206,73.97804075806764
 2007,2007,Import,Fmr Sudan,52,Cotton,Eastern Europe,Europe,13377,,,51.67568633314729,27.673469819741847
-2007,2007,Import,Fmr Sudan,52,Cotton,Northern Africa,Africa,227304,,,19.569604022535763,12.47761721199581
+2007,2007,Import,Fmr Sudan,52,Cotton,Egypt,Egypt,227304,,,,
 2007,2007,Import,Fmr Sudan,52,Cotton,Northern Europe,Europe,2966,,,59.36075159783851,25.01346951967388
 2007,2007,Import,Fmr Sudan,52,Cotton,South-eastern Asia,Asia,4629,,,10.528384761701911,103.08333472012376
 2007,2007,Import,Fmr Sudan,52,Cotton,Southern Europe,Europe,68,,,40.12399607988535,20.742583178432696
@@ -9,3 +9,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2007,2007,Import,Fmr Sudan,52,Cotton,Western Asia,Asia,103439,,,26.42921218083572,52.86847103284948
 2007,2007,Import,Fmr Sudan,52,Cotton,Western Europe,Europe,8883,,,47.92172048214207,7.866753258497997
 2007,2007,Import,Fmr Sudan,52,Cotton,World,World,918074,,,,
+2007,2007,Import,Fmr Sudan,52,Cotton, Pakistan, Pakistan,18772,,,,
+2007,2007,Import,Fmr Sudan,52,Cotton, Saudi Arabia, Saudi Arabia,39382,,,,
+2007,2007,Import,Fmr Sudan,52,Cotton, United Arab Emirates, United Arab Emirates,172806,,,,

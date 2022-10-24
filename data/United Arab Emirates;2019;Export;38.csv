@@ -3,9 +3,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Central Asia,Asia,4637053,24.0002488,53.9994829,39.89317229901691,61.060280637304274
 2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Eastern Asia,Asia,10617117,24.0002488,53.9994829,37.977378106878206,73.97804075806764
 2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Eastern Europe,Europe,1585248,24.0002488,53.9994829,51.67568633314729,27.673469819741847
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Egypt,Egypt,23335446,24.0002488,53.9994829,,
 2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Latin America and the Caribbean,Americas,1479840,24.0002488,53.9994829,17.925141963241547,-78.01492950057497
 2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Melanesia,Oceania,1317,24.0002488,53.9994829,1.0108650891006263,147.3257485906919
-2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Northern Africa,Africa,43975787,24.0002488,53.9994829,19.569604022535763,12.47761721199581
 2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Northern America,Americas,19815991,24.0002488,53.9994829,43.897683433510366,-100.08947125585888
 2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Northern Europe,Europe,9566819,24.0002488,53.9994829,59.36075159783851,25.01346951967388
 2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Polynesia,Oceania,2765,24.0002488,53.9994829,-5.109184731250752,167.40343615892436
@@ -13,6 +13,30 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Southern Asia,Asia,73258779,24.0002488,53.9994829,25.499703063807168,75.5024015339642
 2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Southern Europe,Europe,3637868,24.0002488,53.9994829,40.12399607988535,20.742583178432696
 2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Sub-Saharan Africa,Africa,54116781,24.0002488,53.9994829,6.06272746187266,22.727528470146083
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Sudan,Sudan,18922943,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Tunisia,Tunisia,1717398,24.0002488,53.9994829,,
 2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Western Asia,Asia,10848697,24.0002488,53.9994829,26.42921218083572,52.86847103284948
 2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,Western Europe,Europe,22156250,24.0002488,53.9994829,47.92172048214207,7.866753258497997
 2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c.,World,World,790647598,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Afghanistan, Afghanistan,2415819,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Algeria, Algeria,39567663,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Armenia, Armenia,34788,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Azerbaijan, Azerbaijan,20117963,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Bahrain, Bahrain,17874857,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Comoros, Comoros,101838,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Cyprus, Cyprus,24628,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Djibouti, Djibouti,2276979,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Georgia, Georgia,1122283,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Iraq, Iraq,48950359,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Jordan, Jordan,10045368,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Kuwait, Kuwait,64014109,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Lebanon, Lebanon,6750509,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Libya, Libya,1410607,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Malta, Malta,56176,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Mauritania, Mauritania,1194676,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Morocco, Morocco,439634,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Oman, Oman,78838753,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Pakistan, Pakistan,31736141,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Saudi Arabia, Saudi Arabia,157456336,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., State of Palestine, State of Palestine,600,24.0002488,53.9994829,,
+2019,2019,Export,United Arab Emirates,38,Chemical products n.e.c., Yemen, Yemen,3554912,24.0002488,53.9994829,,

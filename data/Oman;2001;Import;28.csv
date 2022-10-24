@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Asia,Asia,3770635,21.0000287,57.0036901,37.977378106878206,73.97804075806764
 2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes",Eastern Europe,Europe,754,21.0000287,57.0036901,51.67568633314729,27.673469819741847
-2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Africa,Africa,131724,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes",Egypt,Egypt,131724,21.0000287,57.0036901,,
 2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes",Northern America,Americas,2362450,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes",Northern Europe,Europe,555504,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes",South-eastern Asia,Asia,163339,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -11,3 +11,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes",Western Asia,Asia,46421,21.0000287,57.0036901,26.42921218083572,52.86847103284948
 2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes",Western Europe,Europe,509785,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes",World,World,16495008,21.0000287,57.0036901,,
+2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes", Bahrain, Bahrain,5254,21.0000287,57.0036901,,
+2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes", Jordan, Jordan,268429,21.0000287,57.0036901,,
+2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes", Kuwait, Kuwait,23113,21.0000287,57.0036901,,
+2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes", Pakistan, Pakistan,4544,21.0000287,57.0036901,,
+2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes", Qatar, Qatar,50393,21.0000287,57.0036901,,
+2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes", Saudi Arabia, Saudi Arabia,2466590,21.0000287,57.0036901,,
+2001,2001,Import,Oman,28,"Inorganic chemicals, precious metal compound, isotopes", United Arab Emirates, United Arab Emirates,1859989,21.0000287,57.0036901,,

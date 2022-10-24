@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1995,1995,Import,Oman,30,Pharmaceutical products,Australia and New Zealand,Oceania,459691,21.0000287,57.0036901,-16.85099460447687,133.4130365630627
 1995,1995,Import,Oman,30,Pharmaceutical products,Eastern Asia,Asia,342922,21.0000287,57.0036901,37.977378106878206,73.97804075806764
-1995,1995,Import,Oman,30,Pharmaceutical products,Northern Africa,Africa,867195,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+1995,1995,Import,Oman,30,Pharmaceutical products,Egypt,Egypt,867195,21.0000287,57.0036901,,
 1995,1995,Import,Oman,30,Pharmaceutical products,Northern America,Americas,2956748,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 1995,1995,Import,Oman,30,Pharmaceutical products,Northern Europe,Europe,16904771,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 1995,1995,Import,Oman,30,Pharmaceutical products,South-eastern Asia,Asia,294867,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -11,3 +11,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1995,1995,Import,Oman,30,Pharmaceutical products,Western Asia,Asia,7533,21.0000287,57.0036901,26.42921218083572,52.86847103284948
 1995,1995,Import,Oman,30,Pharmaceutical products,Western Europe,Europe,17089423,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 1995,1995,Import,Oman,30,Pharmaceutical products,World,World,51724688,21.0000287,57.0036901,,
+1995,1995,Import,Oman,30,Pharmaceutical products, Bahrain, Bahrain,119430,21.0000287,57.0036901,,
+1995,1995,Import,Oman,30,Pharmaceutical products, Cyprus, Cyprus,509301,21.0000287,57.0036901,,
+1995,1995,Import,Oman,30,Pharmaceutical products, Jordan, Jordan,1154768,21.0000287,57.0036901,,
+1995,1995,Import,Oman,30,Pharmaceutical products, Lebanon, Lebanon,143592,21.0000287,57.0036901,,
+1995,1995,Import,Oman,30,Pharmaceutical products, Pakistan, Pakistan,40652,21.0000287,57.0036901,,
+1995,1995,Import,Oman,30,Pharmaceutical products, Saudi Arabia, Saudi Arabia,373459,21.0000287,57.0036901,,
+1995,1995,Import,Oman,30,Pharmaceutical products, United Arab Emirates, United Arab Emirates,2922196,21.0000287,57.0036901,,

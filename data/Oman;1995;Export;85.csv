@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1995,1995,Export,Oman,85,"Electrical, electronic equipment",Eastern Asia,Asia,11219,21.0000287,57.0036901,37.977378106878206,73.97804075806764
 1995,1995,Export,Oman,85,"Electrical, electronic equipment",Eastern Europe,Europe,85553,21.0000287,57.0036901,51.67568633314729,27.673469819741847
-1995,1995,Export,Oman,85,"Electrical, electronic equipment",Northern Africa,Africa,1274,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+1995,1995,Export,Oman,85,"Electrical, electronic equipment",Egypt,Egypt,1274,21.0000287,57.0036901,,
 1995,1995,Export,Oman,85,"Electrical, electronic equipment",Northern America,Americas,163778,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 1995,1995,Export,Oman,85,"Electrical, electronic equipment",Northern Europe,Europe,809030,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 1995,1995,Export,Oman,85,"Electrical, electronic equipment",South-eastern Asia,Asia,91189,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -11,3 +11,14 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1995,1995,Export,Oman,85,"Electrical, electronic equipment",Western Asia,Asia,972,21.0000287,57.0036901,26.42921218083572,52.86847103284948
 1995,1995,Export,Oman,85,"Electrical, electronic equipment",Western Europe,Europe,618289,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 1995,1995,Export,Oman,85,"Electrical, electronic equipment",World,World,49842040,21.0000287,57.0036901,,
+1995,1995,Export,Oman,85,"Electrical, electronic equipment", Bahrain, Bahrain,1666693,21.0000287,57.0036901,,
+1995,1995,Export,Oman,85,"Electrical, electronic equipment", Cyprus, Cyprus,520,21.0000287,57.0036901,,
+1995,1995,Export,Oman,85,"Electrical, electronic equipment", Jordan, Jordan,34754,21.0000287,57.0036901,,
+1995,1995,Export,Oman,85,"Electrical, electronic equipment", Kuwait, Kuwait,1168125,21.0000287,57.0036901,,
+1995,1995,Export,Oman,85,"Electrical, electronic equipment", Lebanon, Lebanon,131346,21.0000287,57.0036901,,
+1995,1995,Export,Oman,85,"Electrical, electronic equipment", Libya, Libya,137807,21.0000287,57.0036901,,
+1995,1995,Export,Oman,85,"Electrical, electronic equipment", Pakistan, Pakistan,48685,21.0000287,57.0036901,,
+1995,1995,Export,Oman,85,"Electrical, electronic equipment", Qatar, Qatar,1261208,21.0000287,57.0036901,,
+1995,1995,Export,Oman,85,"Electrical, electronic equipment", Saudi Arabia, Saudi Arabia,3116427,21.0000287,57.0036901,,
+1995,1995,Export,Oman,85,"Electrical, electronic equipment", United Arab Emirates, United Arab Emirates,34152508,21.0000287,57.0036901,,
+1995,1995,Export,Oman,85,"Electrical, electronic equipment", Yemen, Yemen,55438,21.0000287,57.0036901,,

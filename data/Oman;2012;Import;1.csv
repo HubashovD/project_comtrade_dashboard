@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2012,2012,Import,Oman,1,Animals; live,Australia and New Zealand,Oceania,4262977,21.0000287,57.0036901,-16.85099460447687,133.4130365630627
 2012,2012,Import,Oman,1,Animals; live,Eastern Europe,Europe,98005,21.0000287,57.0036901,51.67568633314729,27.673469819741847
-2012,2012,Import,Oman,1,Animals; live,Northern Africa,Africa,10757,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+2012,2012,Import,Oman,1,Animals; live,Egypt,Egypt,10757,21.0000287,57.0036901,,
 2012,2012,Import,Oman,1,Animals; live,Northern America,Americas,1994042,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 2012,2012,Import,Oman,1,Animals; live,Northern Europe,Europe,94702,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 2012,2012,Import,Oman,1,Animals; live,South-eastern Asia,Asia,100488,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -11,3 +11,12 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2012,2012,Import,Oman,1,Animals; live,Western Asia,Asia,200,21.0000287,57.0036901,26.42921218083572,52.86847103284948
 2012,2012,Import,Oman,1,Animals; live,Western Europe,Europe,2747386,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 2012,2012,Import,Oman,1,Animals; live,World,World,135563187,21.0000287,57.0036901,,
+2012,2012,Import,Oman,1,Animals; live, Bahrain, Bahrain,68021,21.0000287,57.0036901,,
+2012,2012,Import,Oman,1,Animals; live, Djibouti, Djibouti,2891108,21.0000287,57.0036901,,
+2012,2012,Import,Oman,1,Animals; live, Jordan, Jordan,1662,21.0000287,57.0036901,,
+2012,2012,Import,Oman,1,Animals; live, Kuwait, Kuwait,38078,21.0000287,57.0036901,,
+2012,2012,Import,Oman,1,Animals; live, Morocco, Morocco,780,21.0000287,57.0036901,,
+2012,2012,Import,Oman,1,Animals; live, Pakistan, Pakistan,1922889,21.0000287,57.0036901,,
+2012,2012,Import,Oman,1,Animals; live, Qatar, Qatar,71553,21.0000287,57.0036901,,
+2012,2012,Import,Oman,1,Animals; live, Saudi Arabia, Saudi Arabia,66882,21.0000287,57.0036901,,
+2012,2012,Import,Oman,1,Animals; live, United Arab Emirates, United Arab Emirates,21215582,21.0000287,57.0036901,,

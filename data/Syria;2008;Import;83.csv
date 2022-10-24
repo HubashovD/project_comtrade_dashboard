@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2008,2008,Import,Syria,83,Miscellaneous articles of base metal,Eastern Asia,Asia,38161792,,,37.977378106878206,73.97804075806764
 2008,2008,Import,Syria,83,Miscellaneous articles of base metal,Eastern Europe,Europe,219982,,,51.67568633314729,27.673469819741847
-2008,2008,Import,Syria,83,Miscellaneous articles of base metal,Northern Africa,Africa,149499,,,19.569604022535763,12.47761721199581
+2008,2008,Import,Syria,83,Miscellaneous articles of base metal,Egypt,Egypt,149499,,,,
 2008,2008,Import,Syria,83,Miscellaneous articles of base metal,Northern America,Americas,171960,,,43.897683433510366,-100.08947125585888
 2008,2008,Import,Syria,83,Miscellaneous articles of base metal,Northern Europe,Europe,162526,,,59.36075159783851,25.01346951967388
 2008,2008,Import,Syria,83,Miscellaneous articles of base metal,South-eastern Asia,Asia,251211,,,10.528384761701911,103.08333472012376
@@ -9,3 +9,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2008,2008,Import,Syria,83,Miscellaneous articles of base metal,Western Asia,Asia,1713431,,,26.42921218083572,52.86847103284948
 2008,2008,Import,Syria,83,Miscellaneous articles of base metal,Western Europe,Europe,499347,,,47.92172048214207,7.866753258497997
 2008,2008,Import,Syria,83,Miscellaneous articles of base metal,World,World,49150803,,,,
+2008,2008,Import,Syria,83,Miscellaneous articles of base metal, Lebanon, Lebanon,261802,,,,
+2008,2008,Import,Syria,83,Miscellaneous articles of base metal, Saudi Arabia, Saudi Arabia,364660,,,,
+2008,2008,Import,Syria,83,Miscellaneous articles of base metal, United Arab Emirates, United Arab Emirates,479683,,,,

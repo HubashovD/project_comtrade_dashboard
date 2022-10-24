@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2010,2010,Export,Saudi Arabia,30,Pharmaceutical products,Central Asia,Asia,447467,25.6242618,42.3528328,39.89317229901691,61.060280637304274
 2010,2010,Export,Saudi Arabia,30,Pharmaceutical products,Eastern Europe,Europe,965335,25.6242618,42.3528328,51.67568633314729,27.673469819741847
-2010,2010,Export,Saudi Arabia,30,Pharmaceutical products,Northern Africa,Africa,26308300,25.6242618,42.3528328,19.569604022535763,12.47761721199581
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products,Egypt,Egypt,26308300,25.6242618,42.3528328,,
 2010,2010,Export,Saudi Arabia,30,Pharmaceutical products,Northern America,Americas,6212274,25.6242618,42.3528328,43.897683433510366,-100.08947125585888
 2010,2010,Export,Saudi Arabia,30,Pharmaceutical products,Northern Europe,Europe,1408269,25.6242618,42.3528328,59.36075159783851,25.01346951967388
 2010,2010,Export,Saudi Arabia,30,Pharmaceutical products,South-eastern Asia,Asia,437601,25.6242618,42.3528328,10.528384761701911,103.08333472012376
@@ -11,3 +11,18 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2010,2010,Export,Saudi Arabia,30,Pharmaceutical products,Western Asia,Asia,463467,25.6242618,42.3528328,26.42921218083572,52.86847103284948
 2010,2010,Export,Saudi Arabia,30,Pharmaceutical products,Western Europe,Europe,10127478,25.6242618,42.3528328,47.92172048214207,7.866753258497997
 2010,2010,Export,Saudi Arabia,30,Pharmaceutical products,World,World,232414424,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, Afghanistan, Afghanistan,42400,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, Algeria, Algeria,21355760,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, Bahrain, Bahrain,6143208,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, Iraq, Iraq,5114140,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, Jordan, Jordan,32434707,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, Kuwait, Kuwait,15356019,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, Lebanon, Lebanon,9116811,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, Libya, Libya,9900546,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, Mauritania, Mauritania,35733,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, Morocco, Morocco,464801,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, Oman, Oman,10953614,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, Pakistan, Pakistan,78133,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, Qatar, Qatar,11340281,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, United Arab Emirates, United Arab Emirates,34130443,25.6242618,42.3528328,,
+2010,2010,Export,Saudi Arabia,30,Pharmaceutical products, Yemen, Yemen,8474677,25.6242618,42.3528328,,

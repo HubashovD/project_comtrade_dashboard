@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2004,2004,Import,Qatar,54,Manmade filaments,Eastern Asia,Asia,1089611,25.3336984,51.2295295,37.977378106878206,73.97804075806764
 2004,2004,Import,Qatar,54,Manmade filaments,Eastern Europe,Europe,364,25.3336984,51.2295295,51.67568633314729,27.673469819741847
-2004,2004,Import,Qatar,54,Manmade filaments,Northern Africa,Africa,110085,25.3336984,51.2295295,19.569604022535763,12.47761721199581
+2004,2004,Import,Qatar,54,Manmade filaments,Egypt,Egypt,110085,25.3336984,51.2295295,,
 2004,2004,Import,Qatar,54,Manmade filaments,Northern America,Americas,43642,25.3336984,51.2295295,43.897683433510366,-100.08947125585888
 2004,2004,Import,Qatar,54,Manmade filaments,Northern Europe,Europe,10721,25.3336984,51.2295295,59.36075159783851,25.01346951967388
 2004,2004,Import,Qatar,54,Manmade filaments,South-eastern Asia,Asia,107593,25.3336984,51.2295295,10.528384761701911,103.08333472012376
@@ -11,3 +11,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2004,2004,Import,Qatar,54,Manmade filaments,Western Asia,Asia,78729,25.3336984,51.2295295,26.42921218083572,52.86847103284948
 2004,2004,Import,Qatar,54,Manmade filaments,Western Europe,Europe,136364,25.3336984,51.2295295,47.92172048214207,7.866753258497997
 2004,2004,Import,Qatar,54,Manmade filaments,World,World,2642025,25.3336984,51.2295295,,
+2004,2004,Import,Qatar,54,Manmade filaments, Bahrain, Bahrain,2457,25.3336984,51.2295295,,
+2004,2004,Import,Qatar,54,Manmade filaments, Cyprus, Cyprus,368,25.3336984,51.2295295,,
+2004,2004,Import,Qatar,54,Manmade filaments, Lebanon, Lebanon,3013,25.3336984,51.2295295,,
+2004,2004,Import,Qatar,54,Manmade filaments, Pakistan, Pakistan,43266,25.3336984,51.2295295,,
+2004,2004,Import,Qatar,54,Manmade filaments, Saudi Arabia, Saudi Arabia,24012,25.3336984,51.2295295,,
+2004,2004,Import,Qatar,54,Manmade filaments, United Arab Emirates, United Arab Emirates,171764,25.3336984,51.2295295,,

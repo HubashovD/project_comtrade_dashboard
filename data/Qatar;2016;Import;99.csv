@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2016,2016,Import,Qatar,99,Commodities not specified according to kind,Australia and New Zealand,Oceania,87516,25.3336984,51.2295295,-16.85099460447687,133.4130365630627
 2016,2016,Import,Qatar,99,Commodities not specified according to kind,Eastern Asia,Asia,438985,25.3336984,51.2295295,37.977378106878206,73.97804075806764
-2016,2016,Import,Qatar,99,Commodities not specified according to kind,Northern Africa,Africa,18794,25.3336984,51.2295295,19.569604022535763,12.47761721199581
+2016,2016,Import,Qatar,99,Commodities not specified according to kind,Egypt,Egypt,18794,25.3336984,51.2295295,,
 2016,2016,Import,Qatar,99,Commodities not specified according to kind,Northern America,Americas,748547,25.3336984,51.2295295,43.897683433510366,-100.08947125585888
 2016,2016,Import,Qatar,99,Commodities not specified according to kind,Northern Europe,Europe,413730,25.3336984,51.2295295,59.36075159783851,25.01346951967388
 2016,2016,Import,Qatar,99,Commodities not specified according to kind,South-eastern Asia,Asia,189769,25.3336984,51.2295295,10.528384761701911,103.08333472012376
@@ -10,3 +10,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2016,2016,Import,Qatar,99,Commodities not specified according to kind,Western Asia,Asia,176094,25.3336984,51.2295295,26.42921218083572,52.86847103284948
 2016,2016,Import,Qatar,99,Commodities not specified according to kind,Western Europe,Europe,313232,25.3336984,51.2295295,47.92172048214207,7.866753258497997
 2016,2016,Import,Qatar,99,Commodities not specified according to kind,World,World,180790238,25.3336984,51.2295295,,
+2016,2016,Import,Qatar,99,Commodities not specified according to kind, Bahrain, Bahrain,25806,25.3336984,51.2295295,,
+2016,2016,Import,Qatar,99,Commodities not specified according to kind, Kuwait, Kuwait,67457,25.3336984,51.2295295,,
+2016,2016,Import,Qatar,99,Commodities not specified according to kind, Oman, Oman,43043,25.3336984,51.2295295,,
+2016,2016,Import,Qatar,99,Commodities not specified according to kind, Pakistan, Pakistan,16123,25.3336984,51.2295295,,
+2016,2016,Import,Qatar,99,Commodities not specified according to kind, Saudi Arabia, Saudi Arabia,53616,25.3336984,51.2295295,,
+2016,2016,Import,Qatar,99,Commodities not specified according to kind, United Arab Emirates, United Arab Emirates,868757,25.3336984,51.2295295,,

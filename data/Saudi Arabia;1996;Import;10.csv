@@ -2,7 +2,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1996,1996,Import,Saudi Arabia,10,Cereals,Australia and New Zealand,Oceania,97058728,25.6242618,42.3528328,-16.85099460447687,133.4130365630627
 1996,1996,Import,Saudi Arabia,10,Cereals,Eastern Asia,Asia,178398,25.6242618,42.3528328,37.977378106878206,73.97804075806764
 1996,1996,Import,Saudi Arabia,10,Cereals,Eastern Europe,Europe,141213180,25.6242618,42.3528328,51.67568633314729,27.673469819741847
-1996,1996,Import,Saudi Arabia,10,Cereals,Northern Africa,Africa,2075608,25.6242618,42.3528328,19.569604022535763,12.47761721199581
+1996,1996,Import,Saudi Arabia,10,Cereals,Egypt,Egypt,2075608,25.6242618,42.3528328,,
 1996,1996,Import,Saudi Arabia,10,Cereals,Northern America,Americas,380995896,25.6242618,42.3528328,43.897683433510366,-100.08947125585888
 1996,1996,Import,Saudi Arabia,10,Cereals,Northern Europe,Europe,44024156,25.6242618,42.3528328,59.36075159783851,25.01346951967388
 1996,1996,Import,Saudi Arabia,10,Cereals,South-eastern Asia,Asia,33602856,25.6242618,42.3528328,10.528384761701911,103.08333472012376
@@ -12,3 +12,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1996,1996,Import,Saudi Arabia,10,Cereals,Western Asia,Asia,2228272,25.6242618,42.3528328,26.42921218083572,52.86847103284948
 1996,1996,Import,Saudi Arabia,10,Cereals,Western Europe,Europe,305269790,25.6242618,42.3528328,47.92172048214207,7.866753258497997
 1996,1996,Import,Saudi Arabia,10,Cereals,World,World,1256654208,25.6242618,42.3528328,,
+1996,1996,Import,Saudi Arabia,10,Cereals, Lebanon, Lebanon,1726,25.6242618,42.3528328,,
+1996,1996,Import,Saudi Arabia,10,Cereals, Pakistan, Pakistan,42376444,25.6242618,42.3528328,,
+1996,1996,Import,Saudi Arabia,10,Cereals, United Arab Emirates, United Arab Emirates,125894,25.6242618,42.3528328,,
+1996,1996,Import,Saudi Arabia,10,Cereals, Yemen, Yemen,178465,25.6242618,42.3528328,,

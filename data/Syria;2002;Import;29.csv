@@ -1,8 +1,8 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2002,2002,Import,Syria,29,Organic chemicals,Eastern Asia,Asia,32674439,,,37.977378106878206,73.97804075806764
 2002,2002,Import,Syria,29,Organic chemicals,Eastern Europe,Europe,7197428,,,51.67568633314729,27.673469819741847
+2002,2002,Import,Syria,29,Organic chemicals,Egypt,Egypt,579244,,,,
 2002,2002,Import,Syria,29,Organic chemicals,Latin America and the Caribbean,Americas,1664769,,,17.925141963241547,-78.01492950057497
-2002,2002,Import,Syria,29,Organic chemicals,Northern Africa,Africa,579244,,,19.569604022535763,12.47761721199581
 2002,2002,Import,Syria,29,Organic chemicals,Northern America,Americas,14730535,,,43.897683433510366,-100.08947125585888
 2002,2002,Import,Syria,29,Organic chemicals,Northern Europe,Europe,10209102,,,59.36075159783851,25.01346951967388
 2002,2002,Import,Syria,29,Organic chemicals,South-eastern Asia,Asia,1999291,,,10.528384761701911,103.08333472012376
@@ -10,3 +10,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2002,2002,Import,Syria,29,Organic chemicals,Western Asia,Asia,3474482,,,26.42921218083572,52.86847103284948
 2002,2002,Import,Syria,29,Organic chemicals,Western Europe,Europe,82908550,,,47.92172048214207,7.866753258497997
 2002,2002,Import,Syria,29,Organic chemicals,World,World,296067192,,,,
+2002,2002,Import,Syria,29,Organic chemicals, Kuwait, Kuwait,250602,,,,
+2002,2002,Import,Syria,29,Organic chemicals, Lebanon, Lebanon,199555,,,,
+2002,2002,Import,Syria,29,Organic chemicals, Oman, Oman,8936228,,,,
+2002,2002,Import,Syria,29,Organic chemicals, Saudi Arabia, Saudi Arabia,25909350,,,,

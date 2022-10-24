@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2000,2000,Import,Oman,76,Aluminium and articles thereof,Australia and New Zealand,Oceania,1243,21.0000287,57.0036901,-16.85099460447687,133.4130365630627
 2000,2000,Import,Oman,76,Aluminium and articles thereof,Eastern Asia,Asia,626723,21.0000287,57.0036901,37.977378106878206,73.97804075806764
-2000,2000,Import,Oman,76,Aluminium and articles thereof,Northern Africa,Africa,33371,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+2000,2000,Import,Oman,76,Aluminium and articles thereof,Egypt,Egypt,33371,21.0000287,57.0036901,,
 2000,2000,Import,Oman,76,Aluminium and articles thereof,Northern America,Americas,250653,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 2000,2000,Import,Oman,76,Aluminium and articles thereof,Northern Europe,Europe,4213443,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 2000,2000,Import,Oman,76,Aluminium and articles thereof,South-eastern Asia,Asia,1756003,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -10,3 +10,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Import,Oman,76,Aluminium and articles thereof,Sub-Saharan Africa,Africa,260,21.0000287,57.0036901,6.06272746187266,22.727528470146083
 2000,2000,Import,Oman,76,Aluminium and articles thereof,Western Europe,Europe,1603562,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 2000,2000,Import,Oman,76,Aluminium and articles thereof,World,World,56620289,21.0000287,57.0036901,,
+2000,2000,Import,Oman,76,Aluminium and articles thereof, Bahrain, Bahrain,9223448,21.0000287,57.0036901,,
+2000,2000,Import,Oman,76,Aluminium and articles thereof, Cyprus, Cyprus,23155,21.0000287,57.0036901,,
+2000,2000,Import,Oman,76,Aluminium and articles thereof, Jordan, Jordan,6502,21.0000287,57.0036901,,
+2000,2000,Import,Oman,76,Aluminium and articles thereof, Kuwait, Kuwait,26468,21.0000287,57.0036901,,
+2000,2000,Import,Oman,76,Aluminium and articles thereof, Pakistan, Pakistan,6242,21.0000287,57.0036901,,
+2000,2000,Import,Oman,76,Aluminium and articles thereof, Saudi Arabia, Saudi Arabia,4135045,21.0000287,57.0036901,,
+2000,2000,Import,Oman,76,Aluminium and articles thereof, United Arab Emirates, United Arab Emirates,28726666,21.0000287,57.0036901,,

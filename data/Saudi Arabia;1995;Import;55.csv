@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1995,1995,Import,Saudi Arabia,55,manmade staple fibres,Eastern Asia,Asia,259212130,25.6242618,42.3528328,37.977378106878206,73.97804075806764
 1995,1995,Import,Saudi Arabia,55,manmade staple fibres,Eastern Europe,Europe,720314,25.6242618,42.3528328,51.67568633314729,27.673469819741847
-1995,1995,Import,Saudi Arabia,55,manmade staple fibres,Northern Africa,Africa,2013687,25.6242618,42.3528328,19.569604022535763,12.47761721199581
+1995,1995,Import,Saudi Arabia,55,manmade staple fibres,Egypt,Egypt,2013687,25.6242618,42.3528328,,
 1995,1995,Import,Saudi Arabia,55,manmade staple fibres,Northern America,Americas,25100805,25.6242618,42.3528328,43.897683433510366,-100.08947125585888
 1995,1995,Import,Saudi Arabia,55,manmade staple fibres,Northern Europe,Europe,4300530,25.6242618,42.3528328,59.36075159783851,25.01346951967388
 1995,1995,Import,Saudi Arabia,55,manmade staple fibres,South-eastern Asia,Asia,54623600,25.6242618,42.3528328,10.528384761701911,103.08333472012376
@@ -11,3 +11,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1995,1995,Import,Saudi Arabia,55,manmade staple fibres,Western Asia,Asia,4421897,25.6242618,42.3528328,26.42921218083572,52.86847103284948
 1995,1995,Import,Saudi Arabia,55,manmade staple fibres,Western Europe,Europe,7014819,25.6242618,42.3528328,47.92172048214207,7.866753258497997
 1995,1995,Import,Saudi Arabia,55,manmade staple fibres,World,World,459483968,25.6242618,42.3528328,,
+1995,1995,Import,Saudi Arabia,55,manmade staple fibres, Jordan, Jordan,84210,25.6242618,42.3528328,,
+1995,1995,Import,Saudi Arabia,55,manmade staple fibres, Kuwait, Kuwait,1396,25.6242618,42.3528328,,
+1995,1995,Import,Saudi Arabia,55,manmade staple fibres, Lebanon, Lebanon,54347,25.6242618,42.3528328,,
+1995,1995,Import,Saudi Arabia,55,manmade staple fibres, Malta, Malta,91622,25.6242618,42.3528328,,
+1995,1995,Import,Saudi Arabia,55,manmade staple fibres, Morocco, Morocco,237795,25.6242618,42.3528328,,
+1995,1995,Import,Saudi Arabia,55,manmade staple fibres, Pakistan, Pakistan,8062453,25.6242618,42.3528328,,
+1995,1995,Import,Saudi Arabia,55,manmade staple fibres, United Arab Emirates, United Arab Emirates,1261775,25.6242618,42.3528328,,

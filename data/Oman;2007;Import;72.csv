@@ -3,7 +3,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2007,2007,Import,Oman,72,Iron and steel,Central Asia,Asia,3470182,21.0000287,57.0036901,39.89317229901691,61.060280637304274
 2007,2007,Import,Oman,72,Iron and steel,Eastern Asia,Asia,27135447,21.0000287,57.0036901,37.977378106878206,73.97804075806764
 2007,2007,Import,Oman,72,Iron and steel,Eastern Europe,Europe,50177314,21.0000287,57.0036901,51.67568633314729,27.673469819741847
-2007,2007,Import,Oman,72,Iron and steel,Northern Africa,Africa,49,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+2007,2007,Import,Oman,72,Iron and steel,Egypt,Egypt,49,21.0000287,57.0036901,,
 2007,2007,Import,Oman,72,Iron and steel,Northern America,Americas,2251550,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 2007,2007,Import,Oman,72,Iron and steel,Northern Europe,Europe,3302536,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 2007,2007,Import,Oman,72,Iron and steel,South-eastern Asia,Asia,12926618,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -13,3 +13,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2007,2007,Import,Oman,72,Iron and steel,Western Asia,Asia,32962861,21.0000287,57.0036901,26.42921218083572,52.86847103284948
 2007,2007,Import,Oman,72,Iron and steel,Western Europe,Europe,8806180,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 2007,2007,Import,Oman,72,Iron and steel,World,World,476198841,21.0000287,57.0036901,,
+2007,2007,Import,Oman,72,Iron and steel, Bahrain, Bahrain,721852,21.0000287,57.0036901,,
+2007,2007,Import,Oman,72,Iron and steel, Kuwait, Kuwait,49566,21.0000287,57.0036901,,
+2007,2007,Import,Oman,72,Iron and steel, Lebanon, Lebanon,1040,21.0000287,57.0036901,,
+2007,2007,Import,Oman,72,Iron and steel, Pakistan, Pakistan,2541,21.0000287,57.0036901,,
+2007,2007,Import,Oman,72,Iron and steel, Qatar, Qatar,5134455,21.0000287,57.0036901,,
+2007,2007,Import,Oman,72,Iron and steel, Saudi Arabia, Saudi Arabia,13480259,21.0000287,57.0036901,,
+2007,2007,Import,Oman,72,Iron and steel, United Arab Emirates, United Arab Emirates,233076720,21.0000287,57.0036901,,

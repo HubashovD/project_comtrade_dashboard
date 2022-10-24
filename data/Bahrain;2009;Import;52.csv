@@ -1,8 +1,8 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2009,2009,Import,Bahrain,52,Cotton,Eastern Asia,Asia,15846343,26.1551249,50.5344606,37.977378106878206,73.97804075806764
 2009,2009,Import,Bahrain,52,Cotton,Eastern Europe,Europe,292885,26.1551249,50.5344606,51.67568633314729,27.673469819741847
+2009,2009,Import,Bahrain,52,Cotton,Egypt,Egypt,5024468,26.1551249,50.5344606,,
 2009,2009,Import,Bahrain,52,Cotton,Latin America and the Caribbean,Americas,184071,26.1551249,50.5344606,17.925141963241547,-78.01492950057497
-2009,2009,Import,Bahrain,52,Cotton,Northern Africa,Africa,5024468,26.1551249,50.5344606,19.569604022535763,12.47761721199581
 2009,2009,Import,Bahrain,52,Cotton,Northern America,Americas,261252,26.1551249,50.5344606,43.897683433510366,-100.08947125585888
 2009,2009,Import,Bahrain,52,Cotton,Northern Europe,Europe,835007,26.1551249,50.5344606,59.36075159783851,25.01346951967388
 2009,2009,Import,Bahrain,52,Cotton,South-eastern Asia,Asia,156359,26.1551249,50.5344606,10.528384761701911,103.08333472012376
@@ -12,3 +12,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2009,2009,Import,Bahrain,52,Cotton,Western Asia,Asia,488087,26.1551249,50.5344606,26.42921218083572,52.86847103284948
 2009,2009,Import,Bahrain,52,Cotton,Western Europe,Europe,2874545,26.1551249,50.5344606,47.92172048214207,7.866753258497997
 2009,2009,Import,Bahrain,52,Cotton,World,World,47594893,26.1551249,50.5344606,,
+2009,2009,Import,Bahrain,52,Cotton, Morocco, Morocco,1412,26.1551249,50.5344606,,
+2009,2009,Import,Bahrain,52,Cotton, Oman, Oman,15000,26.1551249,50.5344606,,
+2009,2009,Import,Bahrain,52,Cotton, Pakistan, Pakistan,13965458,26.1551249,50.5344606,,
+2009,2009,Import,Bahrain,52,Cotton, Saudi Arabia, Saudi Arabia,21191,26.1551249,50.5344606,,
+2009,2009,Import,Bahrain,52,Cotton, United Arab Emirates, United Arab Emirates,2664437,26.1551249,50.5344606,,

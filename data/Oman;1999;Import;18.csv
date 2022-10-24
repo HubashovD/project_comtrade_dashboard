@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1999,1999,Import,Oman,18,Cocoa and cocoa preparations,Australia and New Zealand,Oceania,94340,21.0000287,57.0036901,-16.85099460447687,133.4130365630627
 1999,1999,Import,Oman,18,Cocoa and cocoa preparations,Eastern Asia,Asia,105619,21.0000287,57.0036901,37.977378106878206,73.97804075806764
-1999,1999,Import,Oman,18,Cocoa and cocoa preparations,Northern Africa,Africa,3512,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+1999,1999,Import,Oman,18,Cocoa and cocoa preparations,Egypt,Egypt,3512,21.0000287,57.0036901,,
 1999,1999,Import,Oman,18,Cocoa and cocoa preparations,Northern America,Americas,136790,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 1999,1999,Import,Oman,18,Cocoa and cocoa preparations,Northern Europe,Europe,347611,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 1999,1999,Import,Oman,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,315133,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -10,3 +10,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1999,1999,Import,Oman,18,Cocoa and cocoa preparations,Western Asia,Asia,82930,21.0000287,57.0036901,26.42921218083572,52.86847103284948
 1999,1999,Import,Oman,18,Cocoa and cocoa preparations,Western Europe,Europe,1613084,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 1999,1999,Import,Oman,18,Cocoa and cocoa preparations,World,World,15345789,21.0000287,57.0036901,,
+1999,1999,Import,Oman,18,Cocoa and cocoa preparations, Bahrain, Bahrain,22137,21.0000287,57.0036901,,
+1999,1999,Import,Oman,18,Cocoa and cocoa preparations, Jordan, Jordan,25302,21.0000287,57.0036901,,
+1999,1999,Import,Oman,18,Cocoa and cocoa preparations, Kuwait, Kuwait,40589,21.0000287,57.0036901,,
+1999,1999,Import,Oman,18,Cocoa and cocoa preparations, Lebanon, Lebanon,75990,21.0000287,57.0036901,,
+1999,1999,Import,Oman,18,Cocoa and cocoa preparations, Saudi Arabia, Saudi Arabia,556681,21.0000287,57.0036901,,
+1999,1999,Import,Oman,18,Cocoa and cocoa preparations, United Arab Emirates, United Arab Emirates,11372256,21.0000287,57.0036901,,

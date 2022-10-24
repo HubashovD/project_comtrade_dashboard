@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2000,2000,Import,Oman,95,"Toys, games, sports requisites",Australia and New Zealand,Oceania,7139,21.0000287,57.0036901,-16.85099460447687,133.4130365630627
 2000,2000,Import,Oman,95,"Toys, games, sports requisites",Eastern Asia,Asia,737261,21.0000287,57.0036901,37.977378106878206,73.97804075806764
-2000,2000,Import,Oman,95,"Toys, games, sports requisites",Northern Africa,Africa,3241,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+2000,2000,Import,Oman,95,"Toys, games, sports requisites",Egypt,Egypt,3241,21.0000287,57.0036901,,
 2000,2000,Import,Oman,95,"Toys, games, sports requisites",Northern America,Americas,608070,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 2000,2000,Import,Oman,95,"Toys, games, sports requisites",Northern Europe,Europe,557435,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 2000,2000,Import,Oman,95,"Toys, games, sports requisites",South-eastern Asia,Asia,260957,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -9,3 +9,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Import,Oman,95,"Toys, games, sports requisites",Western Asia,Asia,1756,21.0000287,57.0036901,26.42921218083572,52.86847103284948
 2000,2000,Import,Oman,95,"Toys, games, sports requisites",Western Europe,Europe,186131,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 2000,2000,Import,Oman,95,"Toys, games, sports requisites",World,World,16874792,21.0000287,57.0036901,,
+2000,2000,Import,Oman,95,"Toys, games, sports requisites", Bahrain, Bahrain,20086,21.0000287,57.0036901,,
+2000,2000,Import,Oman,95,"Toys, games, sports requisites", Jordan, Jordan,38694,21.0000287,57.0036901,,
+2000,2000,Import,Oman,95,"Toys, games, sports requisites", Kuwait, Kuwait,28333,21.0000287,57.0036901,,
+2000,2000,Import,Oman,95,"Toys, games, sports requisites", Lebanon, Lebanon,140,21.0000287,57.0036901,,
+2000,2000,Import,Oman,95,"Toys, games, sports requisites", Pakistan, Pakistan,74200,21.0000287,57.0036901,,
+2000,2000,Import,Oman,95,"Toys, games, sports requisites", Saudi Arabia, Saudi Arabia,35828,21.0000287,57.0036901,,
+2000,2000,Import,Oman,95,"Toys, games, sports requisites", United Arab Emirates, United Arab Emirates,12902496,21.0000287,57.0036901,,

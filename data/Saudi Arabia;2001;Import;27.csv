@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2001,2001,Import,Saudi Arabia,27,"Mineral fuels, oils, distillation products, etc",Australia and New Zealand,Oceania,625334,25.6242618,42.3528328,-16.85099460447687,133.4130365630627
 2001,2001,Import,Saudi Arabia,27,"Mineral fuels, oils, distillation products, etc",Eastern Asia,Asia,3109871,25.6242618,42.3528328,37.977378106878206,73.97804075806764
-2001,2001,Import,Saudi Arabia,27,"Mineral fuels, oils, distillation products, etc",Northern Africa,Africa,410401,25.6242618,42.3528328,19.569604022535763,12.47761721199581
+2001,2001,Import,Saudi Arabia,27,"Mineral fuels, oils, distillation products, etc",Egypt,Egypt,410401,25.6242618,42.3528328,,
 2001,2001,Import,Saudi Arabia,27,"Mineral fuels, oils, distillation products, etc",Northern America,Americas,17225354,25.6242618,42.3528328,43.897683433510366,-100.08947125585888
 2001,2001,Import,Saudi Arabia,27,"Mineral fuels, oils, distillation products, etc",Northern Europe,Europe,3675472,25.6242618,42.3528328,59.36075159783851,25.01346951967388
 2001,2001,Import,Saudi Arabia,27,"Mineral fuels, oils, distillation products, etc",South-eastern Asia,Asia,1727202,25.6242618,42.3528328,10.528384761701911,103.08333472012376
@@ -10,3 +10,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2001,2001,Import,Saudi Arabia,27,"Mineral fuels, oils, distillation products, etc",Western Asia,Asia,856268,25.6242618,42.3528328,26.42921218083572,52.86847103284948
 2001,2001,Import,Saudi Arabia,27,"Mineral fuels, oils, distillation products, etc",Western Europe,Europe,8508811,25.6242618,42.3528328,47.92172048214207,7.866753258497997
 2001,2001,Import,Saudi Arabia,27,"Mineral fuels, oils, distillation products, etc",World,World,59100607,25.6242618,42.3528328,,
+2001,2001,Import,Saudi Arabia,27,"Mineral fuels, oils, distillation products, etc", Jordan, Jordan,161334,25.6242618,42.3528328,,
+2001,2001,Import,Saudi Arabia,27,"Mineral fuels, oils, distillation products, etc", Kuwait, Kuwait,6250141,25.6242618,42.3528328,,
+2001,2001,Import,Saudi Arabia,27,"Mineral fuels, oils, distillation products, etc", Qatar, Qatar,3451204,25.6242618,42.3528328,,
+2001,2001,Import,Saudi Arabia,27,"Mineral fuels, oils, distillation products, etc", United Arab Emirates, United Arab Emirates,8653344,25.6242618,42.3528328,,

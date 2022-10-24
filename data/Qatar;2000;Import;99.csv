@@ -2,7 +2,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Import,Qatar,99,Commodities not elsewhere specified,Australia and New Zealand,Oceania,33241,25.3336984,51.2295295,-16.85099460447687,133.4130365630627
 2000,2000,Import,Qatar,99,Commodities not elsewhere specified,Eastern Asia,Asia,302769,25.3336984,51.2295295,37.977378106878206,73.97804075806764
 2000,2000,Import,Qatar,99,Commodities not elsewhere specified,Eastern Europe,Europe,501,25.3336984,51.2295295,51.67568633314729,27.673469819741847
-2000,2000,Import,Qatar,99,Commodities not elsewhere specified,Northern Africa,Africa,13980,25.3336984,51.2295295,19.569604022535763,12.47761721199581
+2000,2000,Import,Qatar,99,Commodities not elsewhere specified,Egypt,Egypt,13980,25.3336984,51.2295295,,
 2000,2000,Import,Qatar,99,Commodities not elsewhere specified,Northern America,Americas,531299,25.3336984,51.2295295,43.897683433510366,-100.08947125585888
 2000,2000,Import,Qatar,99,Commodities not elsewhere specified,Northern Europe,Europe,731813,25.3336984,51.2295295,59.36075159783851,25.01346951967388
 2000,2000,Import,Qatar,99,Commodities not elsewhere specified,South-eastern Asia,Asia,171847,25.3336984,51.2295295,10.528384761701911,103.08333472012376
@@ -12,3 +12,13 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2000,2000,Import,Qatar,99,Commodities not elsewhere specified,Western Asia,Asia,7241,25.3336984,51.2295295,26.42921218083572,52.86847103284948
 2000,2000,Import,Qatar,99,Commodities not elsewhere specified,Western Europe,Europe,1755268,25.3336984,51.2295295,47.92172048214207,7.866753258497997
 2000,2000,Import,Qatar,99,Commodities not elsewhere specified,World,World,4417417,25.3336984,51.2295295,,
+2000,2000,Import,Qatar,99,Commodities not elsewhere specified, Bahrain, Bahrain,44994,25.3336984,51.2295295,,
+2000,2000,Import,Qatar,99,Commodities not elsewhere specified, Cyprus, Cyprus,600,25.3336984,51.2295295,,
+2000,2000,Import,Qatar,99,Commodities not elsewhere specified, Jordan, Jordan,11467,25.3336984,51.2295295,,
+2000,2000,Import,Qatar,99,Commodities not elsewhere specified, Kuwait, Kuwait,14132,25.3336984,51.2295295,,
+2000,2000,Import,Qatar,99,Commodities not elsewhere specified, Lebanon, Lebanon,1554,25.3336984,51.2295295,,
+2000,2000,Import,Qatar,99,Commodities not elsewhere specified, Oman, Oman,3211,25.3336984,51.2295295,,
+2000,2000,Import,Qatar,99,Commodities not elsewhere specified, Pakistan, Pakistan,47759,25.3336984,51.2295295,,
+2000,2000,Import,Qatar,99,Commodities not elsewhere specified, Saudi Arabia, Saudi Arabia,41962,25.3336984,51.2295295,,
+2000,2000,Import,Qatar,99,Commodities not elsewhere specified, United Arab Emirates, United Arab Emirates,503255,25.3336984,51.2295295,,
+2000,2000,Import,Qatar,99,Commodities not elsewhere specified, Yemen, Yemen,2005,25.3336984,51.2295295,,

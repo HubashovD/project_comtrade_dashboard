@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2017,2017,Export,Oman,26,"Ores, slag and ash",Eastern Asia,Asia,62914918,21.0000287,57.0036901,37.977378106878206,73.97804075806764
 2017,2017,Export,Oman,26,"Ores, slag and ash",Eastern Europe,Europe,46431,21.0000287,57.0036901,51.67568633314729,27.673469819741847
-2017,2017,Export,Oman,26,"Ores, slag and ash",Northern Africa,Africa,42899387,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+2017,2017,Export,Oman,26,"Ores, slag and ash",Egypt,Egypt,42899387,21.0000287,57.0036901,,
 2017,2017,Export,Oman,26,"Ores, slag and ash",Northern America,Americas,803,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 2017,2017,Export,Oman,26,"Ores, slag and ash",Northern Europe,Europe,57154,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 2017,2017,Export,Oman,26,"Ores, slag and ash",South-eastern Asia,Asia,57733145,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -9,3 +9,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2017,2017,Export,Oman,26,"Ores, slag and ash",Sub-Saharan Africa,Africa,125235,21.0000287,57.0036901,6.06272746187266,22.727528470146083
 2017,2017,Export,Oman,26,"Ores, slag and ash",Western Europe,Europe,151368,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 2017,2017,Export,Oman,26,"Ores, slag and ash",World,World,977661904,21.0000287,57.0036901,,
+2017,2017,Export,Oman,26,"Ores, slag and ash", Bahrain, Bahrain,87375,21.0000287,57.0036901,,
+2017,2017,Export,Oman,26,"Ores, slag and ash", Kuwait, Kuwait,39370,21.0000287,57.0036901,,
+2017,2017,Export,Oman,26,"Ores, slag and ash", Pakistan, Pakistan,125110,21.0000287,57.0036901,,
+2017,2017,Export,Oman,26,"Ores, slag and ash", Qatar, Qatar,130231603,21.0000287,57.0036901,,
+2017,2017,Export,Oman,26,"Ores, slag and ash", Saudi Arabia, Saudi Arabia,495583458,21.0000287,57.0036901,,
+2017,2017,Export,Oman,26,"Ores, slag and ash", United Arab Emirates, United Arab Emirates,178438883,21.0000287,57.0036901,,
+2017,2017,Export,Oman,26,"Ores, slag and ash", Yemen, Yemen,1302899,21.0000287,57.0036901,,

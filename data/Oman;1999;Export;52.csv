@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1999,1999,Export,Oman,52,Cotton,Eastern Asia,Asia,125702,21.0000287,57.0036901,37.977378106878206,73.97804075806764
-1999,1999,Export,Oman,52,Cotton,Northern Africa,Africa,11791,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+1999,1999,Export,Oman,52,Cotton,Egypt,Egypt,11791,21.0000287,57.0036901,,
 1999,1999,Export,Oman,52,Cotton,Northern America,Americas,276874,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 1999,1999,Export,Oman,52,Cotton,Northern Europe,Europe,47122,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 1999,1999,Export,Oman,52,Cotton,Southern Asia,Asia,95799,21.0000287,57.0036901,25.499703063807168,75.5024015339642
@@ -8,3 +8,11 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1999,1999,Export,Oman,52,Cotton,Sub-Saharan Africa,Africa,7542,21.0000287,57.0036901,6.06272746187266,22.727528470146083
 1999,1999,Export,Oman,52,Cotton,Western Europe,Europe,23523,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 1999,1999,Export,Oman,52,Cotton,World,World,2023392,21.0000287,57.0036901,,
+1999,1999,Export,Oman,52,Cotton, Bahrain, Bahrain,79086,21.0000287,57.0036901,,
+1999,1999,Export,Oman,52,Cotton, Jordan, Jordan,25398,21.0000287,57.0036901,,
+1999,1999,Export,Oman,52,Cotton, Kuwait, Kuwait,241132,21.0000287,57.0036901,,
+1999,1999,Export,Oman,52,Cotton, Pakistan, Pakistan,152688,21.0000287,57.0036901,,
+1999,1999,Export,Oman,52,Cotton, Qatar, Qatar,54405,21.0000287,57.0036901,,
+1999,1999,Export,Oman,52,Cotton, Saudi Arabia, Saudi Arabia,51884,21.0000287,57.0036901,,
+1999,1999,Export,Oman,52,Cotton, United Arab Emirates, United Arab Emirates,676858,21.0000287,57.0036901,,
+1999,1999,Export,Oman,52,Cotton, Yemen, Yemen,21414,21.0000287,57.0036901,,

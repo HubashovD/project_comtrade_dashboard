@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1996,1996,Import,Morocco,18,Cocoa and cocoa preparations,Eastern Asia,Asia,2520,31.1728205,-7.3362482,37.977378106878206,73.97804075806764
-1996,1996,Import,Morocco,18,Cocoa and cocoa preparations,Northern Africa,Africa,39876,31.1728205,-7.3362482,19.569604022535763,12.47761721199581
+1996,1996,Import,Morocco,18,Cocoa and cocoa preparations,Egypt,Egypt,39876,31.1728205,-7.3362482,,
 1996,1996,Import,Morocco,18,Cocoa and cocoa preparations,Northern America,Americas,4601,31.1728205,-7.3362482,43.897683433510366,-100.08947125585888
 1996,1996,Import,Morocco,18,Cocoa and cocoa preparations,Northern Europe,Europe,395443,31.1728205,-7.3362482,59.36075159783851,25.01346951967388
 1996,1996,Import,Morocco,18,Cocoa and cocoa preparations,South-eastern Asia,Asia,12795,31.1728205,-7.3362482,10.528384761701911,103.08333472012376
@@ -9,3 +9,4 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1996,1996,Import,Morocco,18,Cocoa and cocoa preparations,Western Asia,Asia,62259,31.1728205,-7.3362482,26.42921218083572,52.86847103284948
 1996,1996,Import,Morocco,18,Cocoa and cocoa preparations,Western Europe,Europe,3204104,31.1728205,-7.3362482,47.92172048214207,7.866753258497997
 1996,1996,Import,Morocco,18,Cocoa and cocoa preparations,World,World,6339856,31.1728205,-7.3362482,,
+1996,1996,Import,Morocco,18,Cocoa and cocoa preparations, Saudi Arabia, Saudi Arabia,75213,31.1728205,-7.3362482,,

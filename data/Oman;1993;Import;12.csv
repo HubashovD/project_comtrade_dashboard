@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1993,1993,Import,Oman,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Australia and New Zealand,Oceania,164240,21.0000287,57.0036901,-16.85099460447687,133.4130365630627
 1993,1993,Import,Oman,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Eastern Asia,Asia,178301,21.0000287,57.0036901,37.977378106878206,73.97804075806764
-1993,1993,Import,Oman,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern Africa,Africa,2624,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+1993,1993,Import,Oman,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Egypt,Egypt,2624,21.0000287,57.0036901,,
 1993,1993,Import,Oman,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern America,Americas,94821,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 1993,1993,Import,Oman,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Northern Europe,Europe,27798,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 1993,1993,Import,Oman,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",South-eastern Asia,Asia,19162,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -9,3 +9,5 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1993,1993,Import,Oman,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Sub-Saharan Africa,Africa,96956,21.0000287,57.0036901,6.06272746187266,22.727528470146083
 1993,1993,Import,Oman,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",Western Europe,Europe,402595,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 1993,1993,Import,Oman,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",World,World,4032582,21.0000287,57.0036901,,
+1993,1993,Import,Oman,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne", Saudi Arabia, Saudi Arabia,24566,21.0000287,57.0036901,,
+1993,1993,Import,Oman,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, ne", United Arab Emirates, United Arab Emirates,634328,21.0000287,57.0036901,,

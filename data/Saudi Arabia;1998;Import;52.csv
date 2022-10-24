@@ -3,8 +3,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1998,1998,Import,Saudi Arabia,52,Cotton,Central Asia,Asia,333568,25.6242618,42.3528328,39.89317229901691,61.060280637304274
 1998,1998,Import,Saudi Arabia,52,Cotton,Eastern Asia,Asia,4872992,25.6242618,42.3528328,37.977378106878206,73.97804075806764
 1998,1998,Import,Saudi Arabia,52,Cotton,Eastern Europe,Europe,52495,25.6242618,42.3528328,51.67568633314729,27.673469819741847
+1998,1998,Import,Saudi Arabia,52,Cotton,Egypt,Egypt,776908,25.6242618,42.3528328,,
 1998,1998,Import,Saudi Arabia,52,Cotton,Latin America and the Caribbean,Americas,82941,25.6242618,42.3528328,17.925141963241547,-78.01492950057497
-1998,1998,Import,Saudi Arabia,52,Cotton,Northern Africa,Africa,776908,25.6242618,42.3528328,19.569604022535763,12.47761721199581
 1998,1998,Import,Saudi Arabia,52,Cotton,Northern America,Americas,2681221,25.6242618,42.3528328,43.897683433510366,-100.08947125585888
 1998,1998,Import,Saudi Arabia,52,Cotton,Northern Europe,Europe,2176099,25.6242618,42.3528328,59.36075159783851,25.01346951967388
 1998,1998,Import,Saudi Arabia,52,Cotton,South-eastern Asia,Asia,2484183,25.6242618,42.3528328,10.528384761701911,103.08333472012376
@@ -14,3 +14,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1998,1998,Import,Saudi Arabia,52,Cotton,Western Asia,Asia,765396,25.6242618,42.3528328,26.42921218083572,52.86847103284948
 1998,1998,Import,Saudi Arabia,52,Cotton,Western Europe,Europe,4219613,25.6242618,42.3528328,47.92172048214207,7.866753258497997
 1998,1998,Import,Saudi Arabia,52,Cotton,World,World,41614952,25.6242618,42.3528328,,
+1998,1998,Import,Saudi Arabia,52,Cotton, Bahrain, Bahrain,166904,25.6242618,42.3528328,,
+1998,1998,Import,Saudi Arabia,52,Cotton, Jordan, Jordan,5409,25.6242618,42.3528328,,
+1998,1998,Import,Saudi Arabia,52,Cotton, Lebanon, Lebanon,8986,25.6242618,42.3528328,,
+1998,1998,Import,Saudi Arabia,52,Cotton, Morocco, Morocco,302796,25.6242618,42.3528328,,
+1998,1998,Import,Saudi Arabia,52,Cotton, Oman, Oman,209627,25.6242618,42.3528328,,
+1998,1998,Import,Saudi Arabia,52,Cotton, Pakistan, Pakistan,5829082,25.6242618,42.3528328,,
+1998,1998,Import,Saudi Arabia,52,Cotton, United Arab Emirates, United Arab Emirates,57197,25.6242618,42.3528328,,

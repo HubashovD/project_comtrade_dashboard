@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits,Australia and New Zealand,Oceania,226783,21.0000287,57.0036901,-16.85099460447687,133.4130365630627
 2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits,Eastern Asia,Asia,112717,21.0000287,57.0036901,37.977378106878206,73.97804075806764
-2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits,Northern Africa,Africa,143586,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits,Egypt,Egypt,143586,21.0000287,57.0036901,,
 2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits,Northern America,Americas,479043,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits,Northern Europe,Europe,282081,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits,South-eastern Asia,Asia,21698,21.0000287,57.0036901,10.528384761701911,103.08333472012376
@@ -10,3 +10,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits,Western Asia,Asia,130,21.0000287,57.0036901,26.42921218083572,52.86847103284948
 2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits,Western Europe,Europe,334986,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits,World,World,15851666,21.0000287,57.0036901,,
+2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits, Jordan, Jordan,2086,21.0000287,57.0036901,,
+2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits, Pakistan, Pakistan,66767,21.0000287,57.0036901,,
+2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits, Saudi Arabia, Saudi Arabia,1672,21.0000287,57.0036901,,
+2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits, United Arab Emirates, United Arab Emirates,7634062,21.0000287,57.0036901,,
+2005,2005,Import,Oman,12,Oil seeds and oleaginous fruits, Yemen, Yemen,986,21.0000287,57.0036901,,

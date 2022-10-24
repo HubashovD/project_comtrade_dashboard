@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2001,2001,Import,Turkey,17,Sugars and sugar confectionery,Eastern Asia,Asia,2468,38.9597594,34.9249653,37.977378106878206,73.97804075806764
 2001,2001,Import,Turkey,17,Sugars and sugar confectionery,Eastern Europe,Europe,2807369,38.9597594,34.9249653,51.67568633314729,27.673469819741847
-2001,2001,Import,Turkey,17,Sugars and sugar confectionery,Northern Africa,Africa,584175,38.9597594,34.9249653,19.569604022535763,12.47761721199581
+2001,2001,Import,Turkey,17,Sugars and sugar confectionery,Egypt,Egypt,584175,38.9597594,34.9249653,,
 2001,2001,Import,Turkey,17,Sugars and sugar confectionery,Northern America,Americas,395045,38.9597594,34.9249653,43.897683433510366,-100.08947125585888
 2001,2001,Import,Turkey,17,Sugars and sugar confectionery,Northern Europe,Europe,517053,38.9597594,34.9249653,59.36075159783851,25.01346951967388
 2001,2001,Import,Turkey,17,Sugars and sugar confectionery,South-eastern Asia,Asia,290850,38.9597594,34.9249653,10.528384761701911,103.08333472012376
@@ -9,3 +9,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2001,2001,Import,Turkey,17,Sugars and sugar confectionery,Southern Europe,Europe,1028999,38.9597594,34.9249653,40.12399607988535,20.742583178432696
 2001,2001,Import,Turkey,17,Sugars and sugar confectionery,Western Europe,Europe,5245727,38.9597594,34.9249653,47.92172048214207,7.866753258497997
 2001,2001,Import,Turkey,17,Sugars and sugar confectionery,World,World,11671905,38.9597594,34.9249653,,
+2001,2001,Import,Turkey,17,Sugars and sugar confectionery, Cyprus, Cyprus,14416,38.9597594,34.9249653,,
+2001,2001,Import,Turkey,17,Sugars and sugar confectionery, Israel, Israel,1962,38.9597594,34.9249653,,
+2001,2001,Import,Turkey,17,Sugars and sugar confectionery, Jordan, Jordan,14809,38.9597594,34.9249653,,
+2001,2001,Import,Turkey,17,Sugars and sugar confectionery, Lebanon, Lebanon,150095,38.9597594,34.9249653,,
+2001,2001,Import,Turkey,17,Sugars and sugar confectionery, Pakistan, Pakistan,105,38.9597594,34.9249653,,
+2001,2001,Import,Turkey,17,Sugars and sugar confectionery, Saudi Arabia, Saudi Arabia,10442,38.9597594,34.9249653,,

@@ -1,6 +1,6 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Eastern Asia,Asia,105304,21.0000287,57.0036901,37.977378106878206,73.97804075806764
-1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Africa,Africa,59003,21.0000287,57.0036901,19.569604022535763,12.47761721199581
+1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Egypt,Egypt,59003,21.0000287,57.0036901,,
 1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern America,Americas,21283,21.0000287,57.0036901,43.897683433510366,-100.08947125585888
 1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Northern Europe,Europe,180638,21.0000287,57.0036901,59.36075159783851,25.01346951967388
 1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Southern Asia,Asia,572,21.0000287,57.0036901,25.499703063807168,75.5024015339642
@@ -8,3 +8,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Sub-Saharan Africa,Africa,654126,21.0000287,57.0036901,6.06272746187266,22.727528470146083
 1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement",Western Europe,Europe,1196275,21.0000287,57.0036901,47.92172048214207,7.866753258497997
 1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement",World,World,42265956,21.0000287,57.0036901,,
+1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement", Algeria, Algeria,468886,21.0000287,57.0036901,,
+1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement", Jordan, Jordan,5139,21.0000287,57.0036901,,
+1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement", Pakistan, Pakistan,2494,21.0000287,57.0036901,,
+1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement", Qatar, Qatar,29585,21.0000287,57.0036901,,
+1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement", Saudi Arabia, Saudi Arabia,121234,21.0000287,57.0036901,,
+1993,1993,Import,Oman,25,"Salt, sulphur, earth, stone, plaster, lime and cement", United Arab Emirates, United Arab Emirates,35856272,21.0000287,57.0036901,,

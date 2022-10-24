@@ -1,7 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,rtLon,ptLon,ptLat
 2020,2020,Export,Malta,74,Copper and articles thereof,Eastern Asia,Asia,13169,35.8885993,14.4476911,37.977378106878206,73.97804075806764
 2020,2020,Export,Malta,74,Copper and articles thereof,Eastern Europe,Europe,459,35.8885993,14.4476911,51.67568633314729,27.673469819741847
-2020,2020,Export,Malta,74,Copper and articles thereof,Northern Africa,Africa,22429,35.8885993,14.4476911,19.569604022535763,12.47761721199581
+2020,2020,Export,Malta,74,Copper and articles thereof,Egypt,Egypt,22429,35.8885993,14.4476911,,
 2020,2020,Export,Malta,74,Copper and articles thereof,Northern America,Americas,6992,35.8885993,14.4476911,43.897683433510366,-100.08947125585888
 2020,2020,Export,Malta,74,Copper and articles thereof,Northern Europe,Europe,45,35.8885993,14.4476911,59.36075159783851,25.01346951967388
 2020,2020,Export,Malta,74,Copper and articles thereof,South-eastern Asia,Asia,134,35.8885993,14.4476911,10.528384761701911,103.08333472012376
@@ -9,3 +9,6 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2020,2020,Export,Malta,74,Copper and articles thereof,Western Asia,Asia,50979,35.8885993,14.4476911,26.42921218083572,52.86847103284948
 2020,2020,Export,Malta,74,Copper and articles thereof,Western Europe,Europe,19633,35.8885993,14.4476911,47.92172048214207,7.866753258497997
 2020,2020,Export,Malta,74,Copper and articles thereof,World,World,1124450,35.8885993,14.4476911,,
+2020,2020,Export,Malta,74,Copper and articles thereof, Libya, Libya,56564,35.8885993,14.4476911,,
+2020,2020,Export,Malta,74,Copper and articles thereof, Morocco, Morocco,63,35.8885993,14.4476911,,
+2020,2020,Export,Malta,74,Copper and articles thereof, United Arab Emirates, United Arab Emirates,4,35.8885993,14.4476911,,

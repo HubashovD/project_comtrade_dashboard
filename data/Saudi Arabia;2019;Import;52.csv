@@ -2,7 +2,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2019,2019,Import,Saudi Arabia,52,Cotton,Australia and New Zealand,Oceania,26830,25.6242618,42.3528328,-16.85099460447687,133.4130365630627
 2019,2019,Import,Saudi Arabia,52,Cotton,Eastern Asia,Asia,4897882,25.6242618,42.3528328,37.977378106878206,73.97804075806764
 2019,2019,Import,Saudi Arabia,52,Cotton,Eastern Europe,Europe,116024,25.6242618,42.3528328,51.67568633314729,27.673469819741847
-2019,2019,Import,Saudi Arabia,52,Cotton,Northern Africa,Africa,1797888,25.6242618,42.3528328,19.569604022535763,12.47761721199581
+2019,2019,Import,Saudi Arabia,52,Cotton,Egypt,Egypt,1797888,25.6242618,42.3528328,,
 2019,2019,Import,Saudi Arabia,52,Cotton,Northern America,Americas,498746,25.6242618,42.3528328,43.897683433510366,-100.08947125585888
 2019,2019,Import,Saudi Arabia,52,Cotton,Northern Europe,Europe,411311,25.6242618,42.3528328,59.36075159783851,25.01346951967388
 2019,2019,Import,Saudi Arabia,52,Cotton,South-eastern Asia,Asia,1643607,25.6242618,42.3528328,10.528384761701911,103.08333472012376
@@ -12,3 +12,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2019,2019,Import,Saudi Arabia,52,Cotton,Western Asia,Asia,4306521,25.6242618,42.3528328,26.42921218083572,52.86847103284948
 2019,2019,Import,Saudi Arabia,52,Cotton,Western Europe,Europe,2866053,25.6242618,42.3528328,47.92172048214207,7.866753258497997
 2019,2019,Import,Saudi Arabia,52,Cotton,World,World,32733812,25.6242618,42.3528328,,
+2019,2019,Import,Saudi Arabia,52,Cotton, Kuwait, Kuwait,10300,25.6242618,42.3528328,,
+2019,2019,Import,Saudi Arabia,52,Cotton, Lebanon, Lebanon,21685,25.6242618,42.3528328,,
+2019,2019,Import,Saudi Arabia,52,Cotton, Pakistan, Pakistan,3224259,25.6242618,42.3528328,,
+2019,2019,Import,Saudi Arabia,52,Cotton, United Arab Emirates, United Arab Emirates,246431,25.6242618,42.3528328,,

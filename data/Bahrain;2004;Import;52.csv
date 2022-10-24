@@ -2,7 +2,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2004,2004,Import,Bahrain,52,Cotton,Australia and New Zealand,Oceania,7481,26.1551249,50.5344606,-16.85099460447687,133.4130365630627
 2004,2004,Import,Bahrain,52,Cotton,Eastern Asia,Asia,43900498,26.1551249,50.5344606,37.977378106878206,73.97804075806764
 2004,2004,Import,Bahrain,52,Cotton,Eastern Europe,Europe,162926,26.1551249,50.5344606,51.67568633314729,27.673469819741847
-2004,2004,Import,Bahrain,52,Cotton,Northern Africa,Africa,26439,26.1551249,50.5344606,19.569604022535763,12.47761721199581
+2004,2004,Import,Bahrain,52,Cotton,Egypt,Egypt,26439,26.1551249,50.5344606,,
 2004,2004,Import,Bahrain,52,Cotton,Northern America,Americas,3978539,26.1551249,50.5344606,43.897683433510366,-100.08947125585888
 2004,2004,Import,Bahrain,52,Cotton,Northern Europe,Europe,282039,26.1551249,50.5344606,59.36075159783851,25.01346951967388
 2004,2004,Import,Bahrain,52,Cotton,South-eastern Asia,Asia,5418230,26.1551249,50.5344606,10.528384761701911,103.08333472012376
@@ -12,3 +12,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion,Region,TradeValue,rtLat,
 2004,2004,Import,Bahrain,52,Cotton,Western Asia,Asia,6002075,26.1551249,50.5344606,26.42921218083572,52.86847103284948
 2004,2004,Import,Bahrain,52,Cotton,Western Europe,Europe,7173695,26.1551249,50.5344606,47.92172048214207,7.866753258497997
 2004,2004,Import,Bahrain,52,Cotton,World,World,128969095,26.1551249,50.5344606,,
+2004,2004,Import,Bahrain,52,Cotton, Afghanistan, Afghanistan,43556,26.1551249,50.5344606,,
+2004,2004,Import,Bahrain,52,Cotton, Kuwait, Kuwait,4992,26.1551249,50.5344606,,
+2004,2004,Import,Bahrain,52,Cotton, Lebanon, Lebanon,358231,26.1551249,50.5344606,,
+2004,2004,Import,Bahrain,52,Cotton, Oman, Oman,351287,26.1551249,50.5344606,,
+2004,2004,Import,Bahrain,52,Cotton, Pakistan, Pakistan,14954137,26.1551249,50.5344606,,
+2004,2004,Import,Bahrain,52,Cotton, Saudi Arabia, Saudi Arabia,1413867,26.1551249,50.5344606,,
+2004,2004,Import,Bahrain,52,Cotton, United Arab Emirates, United Arab Emirates,1039602,26.1551249,50.5344606,,
