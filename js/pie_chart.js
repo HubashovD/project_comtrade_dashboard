@@ -21,7 +21,7 @@ function PieChart() {
 
 
             // set the dimensions and margins of the graph
-            var width = 350
+            var width = 690
             height = 350
             margin = 40
 

@@ -8,8 +8,8 @@ function sankey_chart() {
 
     // set the dimensions and margins of the graph
     var margin = { top: 30, right: 10, bottom: 10, left: 10 },
-        width = 700 - margin.left - margin.right,
-        height = 700 - margin.top - margin.bottom;
+        width = 690 - margin.left - margin.right,
+        height = 1000 - margin.top - margin.bottom;
 
     // format variables
     var formatNumber = d3.format(",.0f"), // zero decimal places

@@ -14,7 +14,7 @@ function map_chart() {
             // The svg
 
         var margin = { top: 10, right: 10, bottom: 10, left: 10 },
-            width = 700 - margin.left - margin.right,
+            width = 690 - margin.left - margin.right,
             height = 700 - margin.top - margin.bottom;
 
 

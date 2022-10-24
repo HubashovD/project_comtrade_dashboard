@@ -16,8 +16,8 @@ function line_chart() {
             // The svg
 
         // set the dimensions and margins of the graph
-        var margin = { top: 10, right: 30, bottom: 30, left: 60 },
-            width = 700 - margin.left - margin.right,
+        var margin = { top: 10, right: 50, bottom: 30, left: 60 },
+            width = 690 - margin.left - margin.right,
             height = 700 - margin.top - margin.bottom;
 
         // append the svg object to the body of the page
@@ -76,7 +76,7 @@ function line_chart() {
 
             // Add Y axis
             var y = d3.scaleLinear()
-                .domain([0, d3.max(data, function(d) { return +d.TradeValue; })])
+                .domain([0, d3.max(data, function(d) { return +d.TradeValue; }) + d3.max(data, function(d) { return +d.TradeValue; }) / 20])
                 .range([height, 0]);
 
             yAxis = svg.append("g")
@@ -97,22 +97,25 @@ function line_chart() {
 
             var color = d3.scaleOrdinal()
                 .domain(res)
-                .range([
-                    "#ccece6",
-                    "#99d8c9",
-                    "#66c2a4",
-                    "#41ae76",
-                    "#238b45",
-                    "#006d2c",
-                    "#00441b",
-                    "#e0f3db",
-                    "#ccebc5",
-                    "#a8ddb5",
-                    "#7bccc4",
-                    "#4eb3d3",
-                    "#2b8cbe",
-                    "#0868ac",
-                    "#084081",
+                .range(['#e41a1c', "#BE6E61", '#377eb8', "#BEB461", "#6179BE", '#4daf4a', '#984ea3', "#B861BE", '#ff7f00', '#ffff33', '#a65628', '#f781bf', '#999999', "#a6cee3",
+                    "#1f78b4",
+                    "#b2df8a",
+                    "#33a02c",
+                    "#7361BE",
+                    "#fb9a99",
+                    '#2CA568',
+                    '#30A868',
+                    '#34AA67',
+                    '#38AD67',
+                    "#e31a1c",
+                    "#fdbf6f",
+                    "#ff7f00",
+                    "#cab2d6",
+                    "#6a3d9a",
+                    "#BE619A",
+                    "#ffff99",
+                    "#b15928",
+                    '#094F68'
                 ])
 
             // gridlines in x axis function
@@ -308,7 +311,8 @@ function line_chart() {
 
                                     if (textValue.length > 0) {
                                         // console.log(textValue[0])
-                                        return textValue[0].rtTitle + ": " + f(textValue[0].TradeValue)
+                                        // return textValue[0].rtTitle + ": " + f(textValue[0].TradeValue)
+                                        return f(textValue[0].TradeValue)
                                     }
                                 })
                                 .style("fill", function(d) {

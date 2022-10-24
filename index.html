@@ -33,7 +33,7 @@
 
 <body>
     <div id='main-div'>
-        <div id="selectorsBlock">
+        <div id="selectorsBlock" class='bord-shad-style'>
             <p>Select Reporting country:</p>
             <div id='countrySelector'> </div>
             <div id='yearSelectorBlock'>
@@ -47,75 +47,91 @@
                 <div id='categorySelector'> </div>
             </div>
         </div>
-        <p> One country, one category, one year, all patners</p>
-        <div id="mapchartBlock">
-            <div id='map_chart' width="700" height="700"> </div>
-        </div>
-        <button id='saveButtonMap'> 
+        <div class="bord-shad-style">
+            <p> One country, one category, one year, all patners</p>
+            <div id="mapchartBlock">
+                <div id='map_chart' width="700" height="700"> </div>
+            </div>
+            <button id='saveButtonMap' class='download-button'> 
             Save map image
         </button>
-        <button id='saveButtonMapData'> 
+            <button id='saveButtonMapData' class='download-button'> 
             Save map Data
         </button>
+        </div>
 
-        <p> Describe correlation between total imports and export of country in selected year</p>
-        <div id='pieChartBlock'>
-            <div id='pie_chart'></div>
-        </div>
-        <button id='saveButtonPieData'> 
+        <div class="bord-shad-style">
+            <p> Describe correlation between total imports and export of country in selected year</p>
+            <div id='pieChartBlock'>
+                <div id='pie_chart'></div>
+            </div>
+            <button id='saveButtonPieData' class='download-button'> 
             Save barchart Data
-        </button> Total import - export trade flows within MENA countries and the outher world for selected year (total categories)
-        <div id='sankeyChartBlock'>
-            <div id='sankey_chart'></div>
+        </button>
         </div>
-        <button id='saveButtonSankey'> 
+
+        <div class="bord-shad-style">
+            <p>Total import - export trade flows within MENA countries and the outher world for selected year (total categories) </p>
+            <div id='sankeyChartBlock'>
+                <div id='sankey_chart'></div>
+            </div>
+            <button id='saveButtonSankey' class='download-button'> 
             Save Sankey
         </button>
-        <button id='saveButtonSankeyData'> 
+            <button id='saveButtonSankeyData' class='download-button'> 
             Save Sankey Sata
         </button>
-
-        <p> One country, one category, one year, all patners</p>
-        <div id='barchartBlock'>
-            <div id="bar_chart"></div>
         </div>
-        <button id='saveButtonBar'> 
+
+        <div class="bord-shad-style">
+            <p> One country, one category, one year, all patners</p>
+            <div id='barchartBlock'>
+                <div id="bar_chart"></div>
+            </div>
+            <button id='saveButtonBar' class='download-button'> 
             Save barchart
         </button>
-        <button id='saveButtonBarData'> 
+            <button id='saveButtonBarData' class='download-button'> 
             Save barchart Data
         </button>
-
-        <p>Mena countries, one category, all years, total</p>
-        <div id='linechartBlock'>
-            <div id="line_chart" width="700" height="700"></div>
         </div>
-        <div id='legend_block'></div>
-        <button id='saveButtonLine'> 
+
+        <div class="bord-shad-style">
+            <p>Mena countries, one category, all years, total</p>
+            <div id='linechartBlock'>
+                <div id="line_chart" width="700" height="700"></div>
+            </div>
+            <div id='legend_block'></div>
+            <button id='saveButtonLine' class='download-button'> 
             Save linechart
         </button>
-        <button id='saveButtonLineData'> 
+            <button id='saveButtonLineData' class='download-button'> 
             Save linechart Data
         </button>
-
-        <p> One country, all categories, one year, total</p>
-        <div id='scatterchartBlock'>
-            <div id="scatter_chart" width="700" height="700"></div>
         </div>
-        <button id='saveButtonScatter'> 
-            Save scatterplot
-        </button>
-        <button id='saveButtonScatterData'> 
-            Save scatterplot
-        </button>
 
-        <p> One country, total, one year, total</p>
-        <div id='hierarchyBlock'>
-            <div id='hierarchy'></div>
-        </div>
-        <button id='saveButtonhierarchy'> 
+        <div class="bord-shad-style">
+            <p> One country, all categories, one year, total</p>
+            <div id='scatterchartBlock'>
+                <div id="scatter_chart" width="700" height="700"></div>
+            </div>
+            <button id='saveButtonScatter' class='download-button'> 
             Save scatterplot
         </button>
+            <button id='saveButtonScatterData' class='download-button'> 
+            Save scatterplot
+        </button>
+        </div>
+
+        <div class="bord-shad-style">
+            <p> One country, total, one year, total</p>
+            <div id='hierarchyBlock'>
+                <div id='hierarchy'></div>
+            </div>
+            <button id='saveButtonhierarchy' class='download-button'> 
+            Save scatterplot
+        </button>
+        </div>
 
 
 
@@ -166,7 +182,7 @@
     </script>
     <script>
         /* When the user clicks on the button, 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            toggle between hiding and showing the dropdown content */
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            toggle between hiding and showing the dropdown content */
         function myFunction() {
             document.getElementById("myDropdown").classList.toggle("show");
         }

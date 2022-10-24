@@ -4,7 +4,7 @@ function bar_chart() {
     var f = d3.format(".2s")
         // set the dimensions and margins of the graph
     var margin = { top: 20, right: 50, bottom: 40, left: 90 },
-        width = 700 - margin.left - margin.right,
+        width = 690 - margin.left - margin.right,
         height = 500 - margin.top - margin.bottom;
 
     // append the svg object to the body of the page
@@ -122,7 +122,7 @@ function bar_chart() {
 
 
                 // Update the Y axis
-                x.domain([0, d3.max(TradeValue)])
+                x.domain([0, d3.max(TradeValue) + d3.max(TradeValue) / 20])
                     // console.log(d3.max(TradeValue))
 
                 // xAxis
