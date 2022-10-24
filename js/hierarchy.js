@@ -15,7 +15,7 @@ function hierarchy() {
         list.appendChild(il)
 
 
-        var diameter = 700,
+        var diameter = 690,
             radius = diameter / 2,
             innerRadius = radius - 120;
 

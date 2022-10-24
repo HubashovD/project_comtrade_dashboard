@@ -101,6 +101,8 @@ function flowsSelector(country, year) {
                 targetValue: flowsList[0][0],
                 options: flowsList,
             })
+
+
             categorySelector(country, year, flowsList[0][0])
         })
 
@@ -148,11 +150,13 @@ function yearSelector(country) {
 
             yearselector = new CustomSelect('#yearSelector', {
                 name: yearsList[0][1],
-                targetValue: yearsList[0][0],
+                targetValue: d3.max(yearsList, function(d) { return d[0] }),
                 options: yearsList,
             })
 
-            flowsSelector(country, yearsList[0][0])
+            console.log(yearsList)
+                // console.log(d3.max(yearsList, function(d) { return d[0] }))
+            flowsSelector(country, d3.max(yearsList, function(d) { return d[0] }))
         })
 
 

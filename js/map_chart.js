@@ -28,7 +28,7 @@ function map_chart() {
 
         // Map and projection
         var projection = d3.geoMercator()
-            .scale(85)
+            .scale(130)
             .translate([width / 2, height / 2 * 1.3])
 
         // A path generator
@@ -63,7 +63,7 @@ function map_chart() {
                     // console.log(row)
                     valuesList.push(+row.TradeValue)
                     source = [+row.rtLon, +row.rtLat]
-                    target = [+row.ptLon, +row.ptLat]
+                    target = [+row.ptLat, +row.ptLon]
                     topush = { type: "LineString", coordinates: [source, target], rgDesc: row.rgDesc, TradeValue: row.TradeValue, Partner: row.Subregion }
                     link.push(topush)
                 }
@@ -77,7 +77,7 @@ function map_chart() {
             valuesList.forEach(function(d) { console.log(+d) })
 
 
-            const interpolator = d3.interpolateRound(0.1, 3)
+            const interpolator = d3.interpolateRound(1, 3)
 
             // Draw the map
             map_g = mapsvg.append("g")
@@ -365,6 +365,7 @@ function map_chart() {
                 // console.log(data)
 
             ignorelist = ["rtLat", "rtLon", "ptLon", "ptLat"]
+                // ignorelist = []
 
             for (const [key, value] of Object.entries(data[0])) {
                 console.log(key)

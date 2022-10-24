@@ -4,7 +4,7 @@ function scatterChart() {
 
     // set the dimensions and margins of the graph
     var margin = { top: 10, right: 30, bottom: 30, left: 60 },
-        width = 700 - margin.left - margin.right,
+        width = 690 - margin.left - margin.right,
         height = 700 - margin.top - margin.bottom;
 
 
