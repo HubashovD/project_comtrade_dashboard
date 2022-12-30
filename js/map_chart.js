@@ -71,8 +71,8 @@ function map_chart() {
 
             // console.log(link)
 
-            console.log('valeus list ', valuesList)
-            console.log('max value: ', d3.max(valuesList))
+            // console.log('valeus list ', valuesList)
+            // console.log('max value: ', d3.max(valuesList))
 
             valuesList.forEach(function(d) { console.log(+d) })
 
@@ -113,8 +113,8 @@ function map_chart() {
                     }
                 })
                 .style('stroke-width', function(d) {
-                    console.log('value: ', d.TradeValue, 'max value: ', d3.max(valuesList), 'rate: ', d.TradeValue / d3.max(valuesList), 'interpolate: ', interpolator(d.TradeValue / d3.max(valuesList)))
-                        // console.log(interpolator(d.TradeValue / d3.max(valuesList)))
+                    // console.log('value: ', d.TradeValue, 'max value: ', d3.max(valuesList), 'rate: ', d.TradeValue / d3.max(valuesList), 'interpolate: ', interpolator(d.TradeValue / d3.max(valuesList)))
+                    // console.log(interpolator(d.TradeValue / d3.max(valuesList)))
                     return interpolator(d.TradeValue / d3.max(valuesList))
                 })
 
@@ -152,7 +152,7 @@ function map_chart() {
                 })
                 .attr('class', 'texts')
                 .text(function(d) {
-                    console.log(d)
+                    // console.log(d)
                     text = d.Partner + ': ' + f(d.TradeValue)
                     return text
                 })
@@ -386,7 +386,7 @@ function map_chart() {
                 }
             }
 
-            console.log(head)
+            // console.log(head)
 
 
             dataForDownload.push(head)
@@ -400,7 +400,7 @@ function map_chart() {
                 dataForDownload.push(row)
             })
 
-            console.log(dataForDownload)
+            // console.log(dataForDownload)
 
 
             // var downloadButtonDiv = document.getElementById("downloadButtonDiv");

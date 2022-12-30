@@ -548,7 +548,7 @@ function line_chart() {
 
             // Set-up the export button
             d3.select('#saveButtonLine').on('click', function() {
-                console.log(d3.select('#line_chart').select('svg'))
+                // console.log(d3.select('#line_chart').select('svg'))
                 var svgString = getSVGString(d3.select('#line_chart').select('svg').node());
 
                 svgString2Image(svgString, 2 * width, 2 * height, 'png', save); // passes Blob and filesize String to the callback

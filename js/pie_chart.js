@@ -7,7 +7,7 @@ function PieChart() {
     d3.json('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/piechart.json', function(data) {
 
         function update() {
-            console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/piechart.json')
+            // console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/piechart.json')
 
             var list = document.getElementById('pieChartBlock')
             try {
@@ -284,7 +284,7 @@ function PieChart() {
                 }
             }
 
-            console.log(head)
+            // console.log(head)
 
 
             dataForDownload.push(head)
@@ -298,7 +298,7 @@ function PieChart() {
                 dataForDownload.push(row)
             })
 
-            console.log(dataForDownload)
+            // console.log(dataForDownload)
 
 
             // var downloadButtonDiv = document.getElementById("downloadButtonDiv");

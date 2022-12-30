@@ -308,13 +308,13 @@ function scatterChart() {
             ignorelist = ["rtLat", "rtLon", "ptLon", "ptLat"]
 
             for (const [key, value] of Object.entries(data[0])) {
-                console.log(key)
+                // console.log(key)
                 if (ignorelist.includes(key)) {} else {
                     head.push(key)
                 }
             }
 
-            console.log(head)
+            // console.log(head)
 
 
             dataForDownload.push(head)
@@ -328,7 +328,7 @@ function scatterChart() {
                 dataForDownload.push(row)
             })
 
-            console.log(dataForDownload)
+            // console.log(dataForDownload)
 
             downloadButton = document.getElementById('saveButtonScatterData')
 

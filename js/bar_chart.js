@@ -389,7 +389,7 @@ function bar_chart() {
                     }
                 }
 
-                console.log(head)
+                // console.log(head)
 
 
                 dataForDownload.push(head)
@@ -403,7 +403,7 @@ function bar_chart() {
                     dataForDownload.push(row)
                 })
 
-                console.log(dataForDownload)
+                // console.log(dataForDownload)
 
                 downloadButton = document.getElementById('saveButtonBarData')
 
