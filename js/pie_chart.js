@@ -100,6 +100,18 @@ function PieChart() {
                 .style("text-anchor", "middle")
                 .style("font-size", 17)
 
+
+            explainer = svg.append('text')
+
+            explainer
+                .text("Country: " + country + ' Year: ' + year)
+                .attr("y", -150)
+                .attr("x", -330)
+                .style('font', '12px')
+                .style('color', '#444444')
+                .style('margin-bottom', '5px')
+                .style("font-family", "'Montserrat', sans-serif")
+
             // Below are the functions that handle actual exporting:
             // getSVGString ( svgNode ) and svgString2Image( svgString, width, height, format, callback )
             function getSVGString(svgNode) {

@@ -43,7 +43,7 @@ function bar_chart() {
 
     // Initialize the Y axis
     var y = d3.scaleBand()
-        .range([15, height])
+        .range([30, height])
 
     var yAxis = svg.append("g")
         .attr("class", "myYaxis")
@@ -70,6 +70,7 @@ function bar_chart() {
         year = document.querySelector('#yearSelector').querySelector('.select__toggle').value
         flow = document.querySelector('#flowsSelector').querySelector('.select__toggle').value
         category = document.querySelector('#categorySelector').querySelector('.select__toggle').value
+        сatName = document.querySelector('#categorySelector').querySelector('.select__toggle').name
 
         console.log('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv')
 
@@ -78,17 +79,38 @@ function bar_chart() {
             // d3.csv('/data/' + country + ';' + year + ';' + flow + ';' + category + '.csv',
             function(data) {
 
+                try { document.getElementById('explainerBar').remove() } catch {}
+
 
                 explainer = svg.append('text')
 
                 explainer
-                    .text("Country: " + country + ' Year: ' + year + ' Flow: ' + flow + ' Category num: ' + category)
+                    .text("Country: " + country + ' Year: ' + year + ' Flow: ' + flow)
+                    .transition()
+                    .duration(1000)
                     .attr("x", 0)
                     .attr("y", 0)
+                    .attr('id', 'explainerBar')
                     .style('font', '12px')
                     .style('color', '#444444')
                     .style('margin-bottom', '5px')
                     .style("font-family", "'Montserrat', sans-serif")
+
+                explainerCatName = svg.append('text')
+
+                explainerCatName
+                    .text('Category: ' + сatName)
+                    .transition()
+                    .duration(1000)
+                    .attr("x", 0)
+                    .attr("y", 15)
+                    .attr('id', 'explainerBar')
+                    .style('font', '12px')
+                    .style('color', '#444444')
+                    .style('margin-bottom', '5px')
+                    .style("font-family", "'Montserrat', sans-serif")
+
+
 
                 var f = d3.format(".2s")
 

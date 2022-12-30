@@ -33,6 +33,7 @@ function line_chart() {
 
         flow = document.querySelector('#flowsSelector').querySelector('.select__toggle').value
         category = document.querySelector('#categorySelector').querySelector('.select__toggle').value
+        сatName = document.querySelector('#categorySelector').querySelector('.select__toggle').name
             //Read the data
         d3.csv('https://raw.githubusercontent.com/HubashovD/project_comtrade_dashboard/main/data/line;' + flow + ';' + category + '.csv', function(data) {
 
@@ -77,7 +78,7 @@ function line_chart() {
             // Add Y axis
             var y = d3.scaleLinear()
                 .domain([0, d3.max(data, function(d) { return +d.TradeValue; }) + d3.max(data, function(d) { return +d.TradeValue; }) / 20])
-                .range([height, 0]);
+                .range([height, 30]);
 
             yAxis = svg.append("g")
                 .call(d3.axisLeft(y));
@@ -184,6 +185,18 @@ function line_chart() {
                         .y(function(d) { return y(+d.TradeValue); })
                         (d.values)
                 })
+
+
+            explainer = svg.append('text')
+
+            explainer
+                .text('Category: ' + сatName + ' Flow: ' + flow)
+                .attr("y", 10)
+                .attr("x", 0)
+                .style('font', '12px')
+                .style('color', '#444444')
+                .style('margin-bottom', '5px')
+                .style("font-family", "'Montserrat', sans-serif")
 
 
             // svg
@@ -341,7 +354,7 @@ function line_chart() {
                 legendText = document.createElement('p');
                 legendText.innerHTML = country
                 colorSquare.style.cssText = "height: 10px; width: 10px; background-color:" + color(country) + "; height: 12px;"
-                legendElement.style.cssText = "display: grid; grid-template-columns: 1fr 95%; align-items: center; height: fit-content; min-height: 12px;"
+                legendElement.style.cssText = "display: grid; grid-template-columns: 1fr 95%; align-items: center; height: fit-content; min-height: 12px; margin-bottom: 20px;"
                 legend_block.appendChild(legendElement)
                 legendElement.appendChild(colorSquare)
                 legendElement.appendChild(legendText)

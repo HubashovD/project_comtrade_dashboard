@@ -190,9 +190,21 @@ function map_chart() {
             explainer = mapsvg.append('text')
 
             explainer
-                .text("Country: " + country + ' Year: ' + year + ' Flow: ' + flow + ' Category num: ' + category)
-                .attr("y", 20)
+                .text("Country: " + country + ' Year: ' + year + ' Flow: ' + flow)
+                .attr("y", 10)
                 .attr("x", 0)
+                .style('font', '12px')
+                .style('color', '#444444')
+                .style('margin-bottom', '5px')
+                .style("font-family", "'Montserrat', sans-serif")
+
+            explainerCatName = mapsvg.append('text')
+
+            explainerCatName
+                .text('Category: ' + сatName)
+                .attr("x", 0)
+                .attr("y", 30)
+                // .attr('id', 'explainerBar')
                 .style('font', '12px')
                 .style('color', '#444444')
                 .style('margin-bottom', '5px')
