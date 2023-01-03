@@ -1,12 +1,12 @@
 /* total styles */
 
 #main-div {
-    width: 650px;
+    width: 600px;
     margin: auto;
 }
 
 #selectorsBlock {
-    width: 650px;
+    width: 600px;
     position: sticky;
     top: 0;
     background-color: white;
