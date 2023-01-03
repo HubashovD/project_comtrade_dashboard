@@ -17,7 +17,7 @@ function line_chart() {
 
         // set the dimensions and margins of the graph
         var margin = { top: 10, right: 50, bottom: 30, left: 60 },
-            width = 690 - margin.left - margin.right,
+            width = 590 - margin.left - margin.right,
             height = 700 - margin.top - margin.bottom;
 
         // append the svg object to the body of the page
@@ -346,7 +346,7 @@ function line_chart() {
                 }
             } catch {}
 
-            legend_block.style.cssText = "display: grid; grid-template-columns: repeat(9, 1fr);  grid-auto-flow: row; margin-bottom 1vh; grid-template-rows: auto 1fr;" //grid-gap: 5px;
+            legend_block.style.cssText = "display: grid; grid-template-columns: repeat(5, 1fr);  grid-auto-flow: row; margin-bottom 1vh; grid-template-rows: auto 1fr;" //grid-gap: 5px;
 
             res.forEach(country => {
                 legendElement = document.createElement('div');
