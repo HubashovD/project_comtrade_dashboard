@@ -23,6 +23,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2021.0,2021.0,Export,Cyprus,22.0,"Beverages, spirits and vinegar",World,World,26989408.0,34.9823018,33.1451285,,,222021Cyprus,World,World,187646945.0
 2021.0,2021.0,Export,Cyprus,23.0,"Food industries, residues and wastes thereof; prepared animal fodder",World,World,6790664.0,34.9823018,33.1451285,,,232021Cyprus,World,World,183222338.0
 2021.0,2021.0,Export,Cyprus,24.0,Tobacco and manufactured tobacco substitutes,World,World,41755500.0,34.9823018,33.1451285,,,242021Cyprus,World,World,115001988.0
+2021.0,2021.0,Export,Cyprus,25.0,"Salt; sulphur; earths, stone; plastering materials, lime and cement",World,World,21549190.0,34.9823018,33.1451285,,,252021Cyprus,World,World,10270056.0
 2021.0,2021.0,Export,Cyprus,26.0,"Ores, slag and ash",World,World,1637835.0,34.9823018,33.1451285,,,262021Cyprus,World,World,24752067.0
 2021.0,2021.0,Export,Cyprus,27.0,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",World,World,758691101.0,34.9823018,33.1451285,,,272021Cyprus,World,World,1858249127.0
 2021.0,2021.0,Export,Cyprus,28.0,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",World,World,676597.0,34.9823018,33.1451285,,,282021Cyprus,World,World,18319066.0
@@ -39,6 +40,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2021.0,2021.0,Export,Cyprus,40.0,Rubber and articles thereof,World,World,587949.0,34.9823018,33.1451285,,,402021Cyprus,World,World,79416839.0
 2021.0,2021.0,Export,Cyprus,41.0,Raw hides and skins (other than furskins) and leather,World,World,4115193.0,34.9823018,33.1451285,,,412021Cyprus,World,World,55582.0
 2021.0,2021.0,Export,Cyprus,42.0,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",World,World,2032321.0,34.9823018,33.1451285,,,422021Cyprus,World,World,31047778.0
+2021.0,2021.0,Export,Cyprus,43.0,Furskins and artificial fur; manufactures thereof,World,World,164173.0,34.9823018,33.1451285,,,432021Cyprus,World,World,393555.0
 2021.0,2021.0,Export,Cyprus,44.0,Wood and articles of wood; wood charcoal,World,World,3417574.0,34.9823018,33.1451285,,,442021Cyprus,World,World,90017144.0
 2021.0,2021.0,Export,Cyprus,46.0,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",World,World,3327.0,34.9823018,33.1451285,,,462021Cyprus,World,World,934683.0
 2021.0,2021.0,Export,Cyprus,47.0,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,World,World,7328100.0,34.9823018,33.1451285,,,472021Cyprus,World,World,296819.0
@@ -51,6 +53,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2021.0,2021.0,Export,Cyprus,55.0,Man-made staple fibres,World,World,88951.0,34.9823018,33.1451285,,,552021Cyprus,World,World,2974776.0
 2021.0,2021.0,Export,Cyprus,56.0,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",World,World,27605.0,34.9823018,33.1451285,,,562021Cyprus,World,World,7219846.0
 2021.0,2021.0,Export,Cyprus,57.0,Carpets and other textile floor coverings,World,World,19109.0,34.9823018,33.1451285,,,572021Cyprus,World,World,8387309.0
+2021.0,2021.0,Export,Cyprus,59.0,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",World,World,9581.0,34.9823018,33.1451285,,,592021Cyprus,World,World,4778709.0
+2021.0,2021.0,Export,Cyprus,60.0,Fabrics; knitted or crocheted,World,World,44217.0,34.9823018,33.1451285,,,602021Cyprus,World,World,1676387.0
+2021.0,2021.0,Export,Cyprus,61.0,Apparel and clothing accessories; knitted or crocheted,World,World,7978429.0,34.9823018,33.1451285,,,612021Cyprus,World,World,146193389.0
+2021.0,2021.0,Export,Cyprus,62.0,Apparel and clothing accessories; not knitted or crocheted,World,World,8025882.0,34.9823018,33.1451285,,,622021Cyprus,World,World,170327068.0
 2021.0,2021.0,Export,Cyprus,63.0,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",World,World,1975013.0,34.9823018,33.1451285,,,632021Cyprus,World,World,33005970.0
 2021.0,2021.0,Export,Cyprus,64.0,Footwear; gaiters and the like; parts of such articles,World,World,8594261.0,34.9823018,33.1451285,,,642021Cyprus,World,World,82615360.0
 2021.0,2021.0,Export,Cyprus,65.0,Headgear and parts thereof,World,World,829940.0,34.9823018,33.1451285,,,652021Cyprus,World,World,4445681.0
@@ -64,7 +70,9 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2021.0,2021.0,Export,Cyprus,73.0,Iron or steel articles,World,World,6432238.0,34.9823018,33.1451285,,,732021Cyprus,World,World,133350046.0
 2021.0,2021.0,Export,Cyprus,74.0,Copper and articles thereof,World,World,23689047.0,34.9823018,33.1451285,,,742021Cyprus,World,World,19201101.0
 2021.0,2021.0,Export,Cyprus,75.0,Nickel and articles thereof,World,World,91.0,34.9823018,33.1451285,,,752021Cyprus,World,World,131174.0
+2021.0,2021.0,Export,Cyprus,76.0,Aluminium and articles thereof,World,World,33668666.0,34.9823018,33.1451285,,,762021Cyprus,World,World,85602362.0
 2021.0,2021.0,Export,Cyprus,80.0,Tin; articles thereof,World,World,14.0,34.9823018,33.1451285,,,802021Cyprus,World,World,25498.0
+2021.0,2021.0,Export,Cyprus,82.0,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",World,World,1950442.0,34.9823018,33.1451285,,,822021Cyprus,World,World,24764637.0
 2021.0,2021.0,Export,Cyprus,83.0,Metal; miscellaneous products of base metal,World,World,1602436.0,34.9823018,33.1451285,,,832021Cyprus,World,World,33024142.0
 2021.0,2021.0,Export,Cyprus,84.0,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",World,World,86884686.0,34.9823018,33.1451285,,,842021Cyprus,World,World,580852127.0
 2021.0,2021.0,Export,Cyprus,85.0,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",World,World,166051089.0,34.9823018,33.1451285,,,852021Cyprus,World,World,597385183.0

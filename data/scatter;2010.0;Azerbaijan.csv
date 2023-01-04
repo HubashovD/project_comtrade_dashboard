@@ -18,6 +18,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2010.0,2010.0,Export,Azerbaijan,18.0,Cocoa and cocoa preparations,World,World,3156875.0,40.3936294,47.7872508,,,182010Azerbaijan,World,World,29210541.0
 2010.0,2010.0,Export,Azerbaijan,19.0,"Preparations of cereals, flour, starch or milk; pastrycooks' products",World,World,3951334.0,40.3936294,47.7872508,,,192010Azerbaijan,World,World,31191134.0
 2010.0,2010.0,Export,Azerbaijan,20.0,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,21518198.0,40.3936294,47.7872508,,,202010Azerbaijan,World,World,18284086.0
+2010.0,2010.0,Export,Azerbaijan,21.0,Miscellaneous edible preparations,World,World,992664.0,40.3936294,47.7872508,,,212010Azerbaijan,World,World,31555443.0
 2010.0,2010.0,Export,Azerbaijan,22.0,"Beverages, spirits and vinegar",World,World,15142236.0,40.3936294,47.7872508,,,222010Azerbaijan,World,World,38044348.0
 2010.0,2010.0,Export,Azerbaijan,23.0,Residues and waste from the food industries; prepared animal fodder,World,World,8644370.0,40.3936294,47.7872508,,,232010Azerbaijan,World,World,17515777.0
 2010.0,2010.0,Export,Azerbaijan,24.0,Tobacco and manufactured tobacco substitutes,World,World,6829992.0,40.3936294,47.7872508,,,242010Azerbaijan,World,World,228136904.0
@@ -40,10 +41,12 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2010.0,2010.0,Export,Azerbaijan,47.0,Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) of paper or paperboard,World,World,9150.0,40.3936294,47.7872508,,,472010Azerbaijan,World,World,532653.0
 2010.0,2010.0,Export,Azerbaijan,48.0,"Paper and paperboard; articles of paper pulp, of paper or of paperboard",World,World,3081703.0,40.3936294,47.7872508,,,482010Azerbaijan,World,World,82808685.0
 2010.0,2010.0,Export,Azerbaijan,49.0,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",World,World,983020.0,40.3936294,47.7872508,,,492010Azerbaijan,World,World,43751995.0
+2010.0,2010.0,Export,Azerbaijan,50.0,Silk,World,World,1847341.0,40.3936294,47.7872508,,,502010Azerbaijan,World,World,32498.0
 2010.0,2010.0,Export,Azerbaijan,52.0,Cotton,World,World,15892086.0,40.3936294,47.7872508,,,522010Azerbaijan,World,World,2163164.0
 2010.0,2010.0,Export,Azerbaijan,54.0,Man-made filaments; strip and the like of man-made textile materials,World,World,5734082.0,40.3936294,47.7872508,,,542010Azerbaijan,World,World,4452890.0
 2010.0,2010.0,Export,Azerbaijan,55.0,Man-made staple fibres,World,World,614.0,40.3936294,47.7872508,,,552010Azerbaijan,World,World,2341210.0
 2010.0,2010.0,Export,Azerbaijan,56.0,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",World,World,1560.0,40.3936294,47.7872508,,,562010Azerbaijan,World,World,4510921.0
+2010.0,2010.0,Export,Azerbaijan,57.0,Carpets and other textile floor coverings,World,World,261857.0,40.3936294,47.7872508,,,572010Azerbaijan,World,World,4521183.0
 2010.0,2010.0,Export,Azerbaijan,58.0,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,World,World,85835.0,40.3936294,47.7872508,,,582010Azerbaijan,World,World,269397.0
 2010.0,2010.0,Export,Azerbaijan,59.0,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",World,World,117777.0,40.3936294,47.7872508,,,592010Azerbaijan,World,World,6264511.0
 2010.0,2010.0,Export,Azerbaijan,61.0,"Articles of apparel and clothing accessories, knitted or crocheted",World,World,5150411.0,40.3936294,47.7872508,,,612010Azerbaijan,World,World,2779798.0
@@ -56,6 +59,8 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2010.0,2010.0,Export,Azerbaijan,70.0,Glass and glassware,World,World,451946.0,40.3936294,47.7872508,,,702010Azerbaijan,World,World,111934422.0
 2010.0,2010.0,Export,Azerbaijan,71.0,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals cladwith precious metal, and articles thereof; imitation jewellery; coin",World,World,923108.0,40.3936294,47.7872508,,,712010Azerbaijan,World,World,9856619.0
 2010.0,2010.0,Export,Azerbaijan,72.0,Iron and steel,World,World,76989769.0,40.3936294,47.7872508,,,722010Azerbaijan,World,World,226996235.0
+2010.0,2010.0,Export,Azerbaijan,73.0,Articles of iron or steel,World,World,35193020.0,40.3936294,47.7872508,,,732010Azerbaijan,World,World,560202772.0
+2010.0,2010.0,Export,Azerbaijan,74.0,Copper and articles thereof,World,World,8764819.0,40.3936294,47.7872508,,,742010Azerbaijan,World,World,21511876.0
 2010.0,2010.0,Export,Azerbaijan,76.0,Aluminum and articles thereof,World,World,2683928.0,40.3936294,47.7872508,,,762010Azerbaijan,World,World,46297862.0
 2010.0,2010.0,Export,Azerbaijan,78.0,Lead and articles thereof,World,World,2032905.0,40.3936294,47.7872508,,,782010Azerbaijan,World,World,676807.0
 2010.0,2010.0,Export,Azerbaijan,79.0,Zinc and articles thereof,World,World,273710.0,40.3936294,47.7872508,,,792010Azerbaijan,World,World,9630535.0
@@ -66,7 +71,11 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2010.0,2010.0,Export,Azerbaijan,86.0,"Railway or tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",World,World,425661.0,40.3936294,47.7872508,,,862010Azerbaijan,World,World,6332020.0
 2010.0,2010.0,Export,Azerbaijan,87.0,"Vehicles other than railway or tramway rolling-stock, and parts and accessories thereof",World,World,2671651.0,40.3936294,47.7872508,,,872010Azerbaijan,World,World,612441132.0
 2010.0,2010.0,Export,Azerbaijan,88.0,"Aircraft, spacecraft, and parts thereof",World,World,2228206.0,40.3936294,47.7872508,,,882010Azerbaijan,World,World,71900503.0
+2010.0,2010.0,Export,Azerbaijan,90.0,"Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",World,World,6865922.0,40.3936294,47.7872508,,,902010Azerbaijan,World,World,169948179.0
+2010.0,2010.0,Export,Azerbaijan,91.0,Clocks and watches and parts thereof,World,World,120867.0,40.3936294,47.7872508,,,912010Azerbaijan,World,World,4347658.0
+2010.0,2010.0,Export,Azerbaijan,92.0,Musical instruments; parts and accessories of such articles,World,World,32251.0,40.3936294,47.7872508,,,922010Azerbaijan,World,World,311188.0
 2010.0,2010.0,Export,Azerbaijan,94.0,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like; prefabricated buildings",World,World,4506787.0,40.3936294,47.7872508,,,942010Azerbaijan,World,World,87319185.0
 2010.0,2010.0,Export,Azerbaijan,95.0,"Toys, games and sports requisites; parts and accessories thereof",World,World,37288.0,40.3936294,47.7872508,,,952010Azerbaijan,World,World,3749299.0
+2010.0,2010.0,Export,Azerbaijan,96.0,Miscellaneous manufactured articles,World,World,67623.0,40.3936294,47.7872508,,,962010Azerbaijan,World,World,3181317.0
 2010.0,2010.0,Export,Azerbaijan,97.0,"Works of art, collectors' pieces and antiques",World,World,335484.0,40.3936294,47.7872508,,,972010Azerbaijan,World,World,9668.0
 2010.0,2010.0,Export,Azerbaijan,99.0,Commodities not specified according to kind,World,World,12655551.0,40.3936294,47.7872508,,,992010Azerbaijan,World,World,38438717.0

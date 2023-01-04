@@ -13,9 +13,10 @@
     z-index: 999;
 }
 
-#legend_block {
+
+/* #legend_block {
     margin-bottom: 5vh;
-}
+} */
 
 .bord-shad-style {
     border: solid 1px #ccc;

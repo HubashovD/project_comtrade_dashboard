@@ -6,6 +6,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2014.0,2014.0,Export,Israel,5.0,Animal originated products; not elsewhere specified or included,World,World,755000.0,30.8124247,34.8594762,,,52014Israel,World,World,5300000.0
 2014.0,2014.0,Export,Israel,6.0,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",World,World,170401000.0,30.8124247,34.8594762,,,62014Israel,World,World,13965000.0
 2014.0,2014.0,Export,Israel,7.0,Vegetables and certain roots and tubers; edible,World,World,541928000.0,30.8124247,34.8594762,,,72014Israel,World,World,103362000.0
+2014.0,2014.0,Export,Israel,8.0,"Fruit and nuts, edible; peel of citrus fruit or melons",World,World,573473000.0,30.8124247,34.8594762,,,82014Israel,World,World,271297000.0
 2014.0,2014.0,Export,Israel,9.0,"Coffee, tea, mate and spices",World,World,19062000.0,30.8124247,34.8594762,,,92014Israel,World,World,133087000.0
 2014.0,2014.0,Export,Israel,10.0,Cereals,World,World,17756000.0,30.8124247,34.8594762,,,102014Israel,World,World,1067539000.0
 2014.0,2014.0,Export,Israel,11.0,"Products of the milling industry; malt, starches, inulin, wheat gluten",World,World,2219000.0,30.8124247,34.8594762,,,112014Israel,World,World,73028000.0
@@ -21,6 +22,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2014.0,2014.0,Export,Israel,22.0,"Beverages, spirits and vinegar",World,World,45744000.0,30.8124247,34.8594762,,,222014Israel,World,World,252252000.0
 2014.0,2014.0,Export,Israel,23.0,"Food industries, residues and wastes thereof; prepared animal fodder",World,World,26458000.0,30.8124247,34.8594762,,,232014Israel,World,World,441182000.0
 2014.0,2014.0,Export,Israel,24.0,Tobacco and manufactured tobacco substitutes,World,World,2691000.0,30.8124247,34.8594762,,,242014Israel,World,World,227493000.0
+2014.0,2014.0,Export,Israel,25.0,"Salt; sulphur; earths, stone; plastering materials, lime and cement",World,World,208948000.0,30.8124247,34.8594762,,,252014Israel,World,World,365472000.0
 2014.0,2014.0,Export,Israel,26.0,"Ores, slag and ash",World,World,2946000.0,30.8124247,34.8594762,,,262014Israel,World,World,7851000.0
 2014.0,2014.0,Export,Israel,27.0,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",World,World,788596000.0,30.8124247,34.8594762,,,272014Israel,World,World,12758144000.0
 2014.0,2014.0,Export,Israel,28.0,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",World,World,1096864000.0,30.8124247,34.8594762,,,282014Israel,World,World,386260000.0
@@ -56,14 +58,34 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2014.0,2014.0,Export,Israel,60.0,Fabrics; knitted or crocheted,World,World,127837000.0,30.8124247,34.8594762,,,602014Israel,World,World,88763000.0
 2014.0,2014.0,Export,Israel,61.0,Apparel and clothing accessories; knitted or crocheted,World,World,85923000.0,30.8124247,34.8594762,,,612014Israel,World,World,817584000.0
 2014.0,2014.0,Export,Israel,62.0,Apparel and clothing accessories; not knitted or crocheted,World,World,61078000.0,30.8124247,34.8594762,,,622014Israel,World,World,778642000.0
+2014.0,2014.0,Export,Israel,63.0,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",World,World,63316000.0,30.8124247,34.8594762,,,632014Israel,World,World,219624000.0
 2014.0,2014.0,Export,Israel,64.0,Footwear; gaiters and the like; parts of such articles,World,World,44966000.0,30.8124247,34.8594762,,,642014Israel,World,World,530403000.0
 2014.0,2014.0,Export,Israel,65.0,Headgear and parts thereof,World,World,9226000.0,30.8124247,34.8594762,,,652014Israel,World,World,32074000.0
 2014.0,2014.0,Export,Israel,66.0,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",World,World,162000.0,30.8124247,34.8594762,,,662014Israel,World,World,8845000.0
+2014.0,2014.0,Export,Israel,67.0,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",World,World,4578000.0,30.8124247,34.8594762,,,672014Israel,World,World,23275000.0
+2014.0,2014.0,Export,Israel,68.0,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",World,World,316193000.0,30.8124247,34.8594762,,,682014Israel,World,World,272294000.0
 2014.0,2014.0,Export,Israel,69.0,Ceramic products,World,World,20286000.0,30.8124247,34.8594762,,,692014Israel,World,World,382901000.0
 2014.0,2014.0,Export,Israel,70.0,Glass and glassware,World,World,63875000.0,30.8124247,34.8594762,,,702014Israel,World,World,263815000.0
+2014.0,2014.0,Export,Israel,72.0,Iron and steel,World,World,148893000.0,30.8124247,34.8594762,,,722014Israel,World,World,1366492000.0
 2014.0,2014.0,Export,Israel,73.0,Iron or steel articles,World,World,349885000.0,30.8124247,34.8594762,,,732014Israel,World,World,954152000.0
 2014.0,2014.0,Export,Israel,74.0,Copper and articles thereof,World,World,132773000.0,30.8124247,34.8594762,,,742014Israel,World,World,223612000.0
 2014.0,2014.0,Export,Israel,75.0,Nickel and articles thereof,World,World,2827000.0,30.8124247,34.8594762,,,752014Israel,World,World,33894000.0
 2014.0,2014.0,Export,Israel,76.0,Aluminium and articles thereof,World,World,216132000.0,30.8124247,34.8594762,,,762014Israel,World,World,561304000.0
 2014.0,2014.0,Export,Israel,78.0,Lead and articles thereof,World,World,26879000.0,30.8124247,34.8594762,,,782014Israel,World,World,15991000.0
 2014.0,2014.0,Export,Israel,79.0,Zinc and articles thereof,World,World,2617000.0,30.8124247,34.8594762,,,792014Israel,World,World,24841000.0
+2014.0,2014.0,Export,Israel,80.0,Tin; articles thereof,World,World,12000.0,30.8124247,34.8594762,,,802014Israel,World,World,5478000.0
+2014.0,2014.0,Export,Israel,81.0,"Metals; n.e.c., cermets and articles thereof",World,World,129714000.0,30.8124247,34.8594762,,,812014Israel,World,World,159279000.0
+2014.0,2014.0,Export,Israel,83.0,Metal; miscellaneous products of base metal,World,World,62932000.0,30.8124247,34.8594762,,,832014Israel,World,World,259995000.0
+2014.0,2014.0,Export,Israel,84.0,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",World,World,4595560000.0,30.8124247,34.8594762,,,842014Israel,World,World,6769740000.0
+2014.0,2014.0,Export,Israel,85.0,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",World,World,8951462000.0,30.8124247,34.8594762,,,852014Israel,World,World,7547759000.0
+2014.0,2014.0,Export,Israel,87.0,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",World,World,161044000.0,30.8124247,34.8594762,,,872014Israel,World,World,5500388000.0
+2014.0,2014.0,Export,Israel,88.0,"Aircraft, spacecraft and parts thereof",World,World,1795786000.0,30.8124247,34.8594762,,,882014Israel,World,World,838205000.0
+2014.0,2014.0,Export,Israel,89.0,"Ships, boats and floating structures",World,World,277990000.0,30.8124247,34.8594762,,,892014Israel,World,World,55972000.0
+2014.0,2014.0,Export,Israel,90.0,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",World,World,4082812000.0,30.8124247,34.8594762,,,902014Israel,World,World,2011047000.0
+2014.0,2014.0,Export,Israel,91.0,Clocks and watches and parts thereof,World,World,81924000.0,30.8124247,34.8594762,,,912014Israel,World,World,120361000.0
+2014.0,2014.0,Export,Israel,92.0,Musical instruments; parts and accessories of such articles,World,World,2141000.0,30.8124247,34.8594762,,,922014Israel,World,World,21644000.0
+2014.0,2014.0,Export,Israel,93.0,Arms and ammunition; parts and accessories thereof,World,World,867983000.0,30.8124247,34.8594762,,,932014Israel,,,
+2014.0,2014.0,Export,Israel,94.0,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",World,World,282158000.0,30.8124247,34.8594762,,,942014Israel,World,World,830519000.0
+2014.0,2014.0,Export,Israel,95.0,"Toys, games and sports requisites; parts and accessories thereof",World,World,55572000.0,30.8124247,34.8594762,,,952014Israel,World,World,270775000.0
+2014.0,2014.0,Export,Israel,96.0,Miscellaneous manufactured articles,World,World,66388000.0,30.8124247,34.8594762,,,962014Israel,World,World,266345000.0
+2014.0,2014.0,Export,Israel,97.0,Works of art; collectors' pieces and antiques,World,World,91680000.0,30.8124247,34.8594762,,,972014Israel,World,World,42643000.0

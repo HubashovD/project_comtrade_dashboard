@@ -1,10 +1,16 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,TradeValue_export,rtLat,rtLon,ptLon,ptLat,mid,Subregion_import,Region_import,TradeValue_import
 2019.0,2019.0,Export,Malta,1.0,Animals; live,World,World,128272.0,35.8885993,14.4476911,,,12019Malta,World,World,344416.0
+2019.0,2019.0,Export,Malta,2.0,Meat and edible meat offal,World,World,261719.0,35.8885993,14.4476911,,,22019Malta,World,World,70442654.0
+2019.0,2019.0,Export,Malta,3.0,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,207047567.0,35.8885993,14.4476911,,,32019Malta,World,World,127216495.0
 2019.0,2019.0,Export,Malta,4.0,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,83188.0,35.8885993,14.4476911,,,42019Malta,World,World,59656132.0
 2019.0,2019.0,Export,Malta,6.0,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",World,World,2337.0,35.8885993,14.4476911,,,62019Malta,World,World,5231425.0
 2019.0,2019.0,Export,Malta,7.0,Vegetables and certain roots and tubers; edible,World,World,879289.0,35.8885993,14.4476911,,,72019Malta,World,World,27698249.0
 2019.0,2019.0,Export,Malta,8.0,"Fruit and nuts, edible; peel of citrus fruit or melons",World,World,21471.0,35.8885993,14.4476911,,,82019Malta,World,World,43436994.0
+2019.0,2019.0,Export,Malta,9.0,"Coffee, tea, mate and spices",World,World,20021.0,35.8885993,14.4476911,,,92019Malta,World,World,9782095.0
+2019.0,2019.0,Export,Malta,10.0,Cereals,World,World,849304.0,35.8885993,14.4476911,,,102019Malta,World,World,21751442.0
 2019.0,2019.0,Export,Malta,11.0,"Products of the milling industry; malt, starches, inulin, wheat gluten",World,World,2749181.0,35.8885993,14.4476911,,,112019Malta,World,World,11363643.0
+2019.0,2019.0,Export,Malta,12.0,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",World,World,738479.0,35.8885993,14.4476911,,,122019Malta,World,World,6841234.0
+2019.0,2019.0,Export,Malta,13.0,"Lac; gums, resins and other vegetable saps and extracts",World,World,1084.0,35.8885993,14.4476911,,,132019Malta,World,World,1518045.0
 2019.0,2019.0,Export,Malta,15.0,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,World,World,29398.0,35.8885993,14.4476911,,,152019Malta,World,World,17019297.0
 2019.0,2019.0,Export,Malta,16.0,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",World,World,39113.0,35.8885993,14.4476911,,,162019Malta,World,World,59167133.0
 2019.0,2019.0,Export,Malta,17.0,Sugars and sugar confectionery,World,World,230679.0,35.8885993,14.4476911,,,172019Malta,World,World,19782939.0
@@ -12,6 +18,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2019.0,2019.0,Export,Malta,19.0,"Preparations of cereals, flour, starch or milk; pastrycooks' products",World,World,25152953.0,35.8885993,14.4476911,,,192019Malta,World,World,73730646.0
 2019.0,2019.0,Export,Malta,20.0,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,233767.0,35.8885993,14.4476911,,,202019Malta,World,World,35556820.0
 2019.0,2019.0,Export,Malta,21.0,Miscellaneous edible preparations,World,World,80400343.0,35.8885993,14.4476911,,,212019Malta,World,World,46774109.0
+2019.0,2019.0,Export,Malta,22.0,"Beverages, spirits and vinegar",World,World,8244421.0,35.8885993,14.4476911,,,222019Malta,World,World,93058932.0
 2019.0,2019.0,Export,Malta,23.0,"Food industries, residues and wastes thereof; prepared animal fodder",World,World,282044.0,35.8885993,14.4476911,,,232019Malta,World,World,33791270.0
 2019.0,2019.0,Export,Malta,24.0,Tobacco and manufactured tobacco substitutes,World,World,20721135.0,35.8885993,14.4476911,,,242019Malta,World,World,53340127.0
 2019.0,2019.0,Export,Malta,25.0,"Salt; sulphur; earths, stone; plastering materials, lime and cement",World,World,63800.0,35.8885993,14.4476911,,,252019Malta,World,World,44771230.0
@@ -77,8 +84,10 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2019.0,2019.0,Export,Malta,89.0,"Ships, boats and floating structures",World,World,5639179.0,35.8885993,14.4476911,,,892019Malta,World,World,1567493044.0
 2019.0,2019.0,Export,Malta,90.0,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",World,World,90518559.0,35.8885993,14.4476911,,,902019Malta,World,World,90563066.0
 2019.0,2019.0,Export,Malta,91.0,Clocks and watches and parts thereof,World,World,7056561.0,35.8885993,14.4476911,,,912019Malta,World,World,11155604.0
+2019.0,2019.0,Export,Malta,92.0,Musical instruments; parts and accessories of such articles,World,World,148633.0,35.8885993,14.4476911,,,922019Malta,World,World,2092009.0
 2019.0,2019.0,Export,Malta,93.0,Arms and ammunition; parts and accessories thereof,World,World,149037.0,35.8885993,14.4476911,,,932019Malta,World,World,2515079.0
 2019.0,2019.0,Export,Malta,94.0,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",World,World,5043608.0,35.8885993,14.4476911,,,942019Malta,World,World,83693733.0
 2019.0,2019.0,Export,Malta,95.0,"Toys, games and sports requisites; parts and accessories thereof",World,World,174018878.0,35.8885993,14.4476911,,,952019Malta,World,World,31096216.0
 2019.0,2019.0,Export,Malta,96.0,Miscellaneous manufactured articles,World,World,807812.0,35.8885993,14.4476911,,,962019Malta,World,World,15729848.0
+2019.0,2019.0,Export,Malta,97.0,Works of art; collectors' pieces and antiques,World,World,364587.0,35.8885993,14.4476911,,,972019Malta,World,World,3724313.0
 2019.0,2019.0,Export,Malta,99.0,Commodities not specified according to kind,World,World,39241650.0,35.8885993,14.4476911,,,992019Malta,World,World,1732662.0

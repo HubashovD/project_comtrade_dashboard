@@ -1,9 +1,11 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,TradeValue_export,rtLat,rtLon,ptLon,ptLat,mid,Subregion_import,Region_import,TradeValue_import
+2010.0,2010.0,Export,Bahrain,1.0,Live animals; animal products,World,World,697101.0,26.1551249,50.5344606,,,12010Bahrain,World,World,89217776.0
 2010.0,2010.0,Export,Bahrain,2.0,Meat and edible meat offal,World,World,2821920.0,26.1551249,50.5344606,,,22010Bahrain,World,World,158694360.0
 2010.0,2010.0,Export,Bahrain,3.0,"Fish and crustaceans, molluscs and other acquatic invertebrates",World,World,14579139.0,26.1551249,50.5344606,,,32010Bahrain,World,World,12085968.0
 2010.0,2010.0,Export,Bahrain,4.0,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,123468949.0,26.1551249,50.5344606,,,42010Bahrain,World,World,174638091.0
 2010.0,2010.0,Export,Bahrain,5.0,"Products of animal origin, not elsewhere specified or included",World,World,479.0,26.1551249,50.5344606,,,52010Bahrain,World,World,126551.0
 2010.0,2010.0,Export,Bahrain,6.0,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",World,World,37816.0,26.1551249,50.5344606,,,62010Bahrain,World,World,8266902.0
+2010.0,2010.0,Export,Bahrain,7.0,Edible vegetables and certain roots and tubers,World,World,1895798.0,26.1551249,50.5344606,,,72010Bahrain,World,World,81482777.0
 2010.0,2010.0,Export,Bahrain,8.0,Edible fruit and nuts; peel of citrus fruit or melons,World,World,2520630.0,26.1551249,50.5344606,,,82010Bahrain,World,World,53627124.0
 2010.0,2010.0,Export,Bahrain,9.0,"Coffee, tea, maté and spices",World,World,1585543.0,26.1551249,50.5344606,,,92010Bahrain,World,World,23365064.0
 2010.0,2010.0,Export,Bahrain,10.0,Cereals,World,World,263604.0,26.1551249,50.5344606,,,102010Bahrain,World,World,103148549.0
@@ -26,6 +28,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2010.0,2010.0,Export,Bahrain,27.0,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",World,World,11524501120.0,26.1551249,50.5344606,,,272010Bahrain,World,World,6082526378.0
 2010.0,2010.0,Export,Bahrain,28.0,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes",World,World,20124718.0,26.1551249,50.5344606,,,282010Bahrain,World,World,524282658.0
 2010.0,2010.0,Export,Bahrain,29.0,Organic chemicals,World,World,154242.0,26.1551249,50.5344606,,,292010Bahrain,World,World,19233203.0
+2010.0,2010.0,Export,Bahrain,30.0,Pharmaceutical products,World,World,368487.0,26.1551249,50.5344606,,,302010Bahrain,World,World,189669341.0
 2010.0,2010.0,Export,Bahrain,31.0,Fertilisers,World,World,6406915.0,26.1551249,50.5344606,,,312010Bahrain,World,World,4172441.0
 2010.0,2010.0,Export,Bahrain,32.0,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks",World,World,1082372.0,26.1551249,50.5344606,,,322010Bahrain,World,World,48028542.0
 2010.0,2010.0,Export,Bahrain,33.0,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",World,World,25227854.0,26.1551249,50.5344606,,,332010Bahrain,World,World,78013772.0
@@ -42,30 +45,44 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2010.0,2010.0,Export,Bahrain,47.0,Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) of paper or paperboard,World,World,1924077.0,26.1551249,50.5344606,,,472010Bahrain,World,World,11282756.0
 2010.0,2010.0,Export,Bahrain,48.0,"Paper and paperboard; articles of paper pulp, of paper or of paperboard",World,World,35468179.0,26.1551249,50.5344606,,,482010Bahrain,World,World,107159251.0
 2010.0,2010.0,Export,Bahrain,49.0,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",World,World,1248463.0,26.1551249,50.5344606,,,492010Bahrain,World,World,25485275.0
+2010.0,2010.0,Export,Bahrain,50.0,Silk,World,World,4968.0,26.1551249,50.5344606,,,502010Bahrain,World,World,1133880.0
 2010.0,2010.0,Export,Bahrain,52.0,Cotton,World,World,27858117.0,26.1551249,50.5344606,,,522010Bahrain,World,World,81170724.0
 2010.0,2010.0,Export,Bahrain,53.0,Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn,World,World,6928.0,26.1551249,50.5344606,,,532010Bahrain,World,World,252407.0
 2010.0,2010.0,Export,Bahrain,54.0,Man-made filaments; strip and the like of man-made textile materials,World,World,987851.0,26.1551249,50.5344606,,,542010Bahrain,World,World,11833194.0
 2010.0,2010.0,Export,Bahrain,55.0,Man-made staple fibres,World,World,139654.0,26.1551249,50.5344606,,,552010Bahrain,World,World,24305194.0
+2010.0,2010.0,Export,Bahrain,56.0,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",World,World,535423.0,26.1551249,50.5344606,,,562010Bahrain,World,World,7756680.0
 2010.0,2010.0,Export,Bahrain,57.0,Carpets and other textile floor coverings,World,World,823989.0,26.1551249,50.5344606,,,572010Bahrain,World,World,13108035.0
 2010.0,2010.0,Export,Bahrain,58.0,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,World,World,38965.0,26.1551249,50.5344606,,,582010Bahrain,World,World,1867336.0
+2010.0,2010.0,Export,Bahrain,59.0,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",World,World,177811.0,26.1551249,50.5344606,,,592010Bahrain,World,World,4803595.0
+2010.0,2010.0,Export,Bahrain,61.0,"Articles of apparel and clothing accessories, knitted or crocheted",World,World,1988593.0,26.1551249,50.5344606,,,612010Bahrain,World,World,56628598.0
 2010.0,2010.0,Export,Bahrain,62.0,"Articles of apparel and clothing accessories, not knitted or crocheted",World,World,94411111.0,26.1551249,50.5344606,,,622010Bahrain,World,World,56833130.0
 2010.0,2010.0,Export,Bahrain,63.0,Other made up textile articles; sets; worn clothing and worn textile articles; rags,World,World,51983977.0,26.1551249,50.5344606,,,632010Bahrain,World,World,14182295.0
 2010.0,2010.0,Export,Bahrain,64.0,"Footwear, gaiters and the like; parts of such articles",World,World,350412.0,26.1551249,50.5344606,,,642010Bahrain,World,World,20070792.0
 2010.0,2010.0,Export,Bahrain,65.0,Headgear and parts thereof,World,World,52420.0,26.1551249,50.5344606,,,652010Bahrain,World,World,1929136.0
 2010.0,2010.0,Export,Bahrain,67.0,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair,World,World,9351.0,26.1551249,50.5344606,,,672010Bahrain,World,World,973334.0
+2010.0,2010.0,Export,Bahrain,68.0,"Articles of stone, plaster, cement, asbestos, mica or similar materials",World,World,15353601.0,26.1551249,50.5344606,,,682010Bahrain,World,World,42892284.0
 2010.0,2010.0,Export,Bahrain,69.0,Ceramic products,World,World,1537186.0,26.1551249,50.5344606,,,692010Bahrain,World,World,78544747.0
 2010.0,2010.0,Export,Bahrain,71.0,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals cladwith precious metal, and articles thereof; imitation jewellery; coin",World,World,17088732.0,26.1551249,50.5344606,,,712010Bahrain,World,World,68233964.0
 2010.0,2010.0,Export,Bahrain,72.0,Iron and steel,World,World,122181542.0,26.1551249,50.5344606,,,722010Bahrain,World,World,277648295.0
+2010.0,2010.0,Export,Bahrain,73.0,Articles of iron or steel,World,World,61747214.0,26.1551249,50.5344606,,,732010Bahrain,World,World,243610214.0
 2010.0,2010.0,Export,Bahrain,74.0,Copper and articles thereof,World,World,4163404.0,26.1551249,50.5344606,,,742010Bahrain,World,World,36731804.0
 2010.0,2010.0,Export,Bahrain,75.0,Nickel and articles thereof,World,World,37258.0,26.1551249,50.5344606,,,752010Bahrain,World,World,2041057.0
 2010.0,2010.0,Export,Bahrain,76.0,Aluminum and articles thereof,World,World,1768170408.0,26.1551249,50.5344606,,,762010Bahrain,World,World,102444586.0
 2010.0,2010.0,Export,Bahrain,78.0,Lead and articles thereof,World,World,1436606.0,26.1551249,50.5344606,,,782010Bahrain,World,World,504996.0
+2010.0,2010.0,Export,Bahrain,79.0,Zinc and articles thereof,World,World,117766.0,26.1551249,50.5344606,,,792010Bahrain,World,World,3318418.0
 2010.0,2010.0,Export,Bahrain,81.0,Other base metals; cermets; articles thereof,World,World,1689.0,26.1551249,50.5344606,,,812010Bahrain,World,World,14425457.0
+2010.0,2010.0,Export,Bahrain,82.0,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",World,World,1384343.0,26.1551249,50.5344606,,,822010Bahrain,World,World,16203294.0
 2010.0,2010.0,Export,Bahrain,83.0,Miscellaneous articles of base metal,World,World,28542689.0,26.1551249,50.5344606,,,832010Bahrain,World,World,50668159.0
+2010.0,2010.0,Export,Bahrain,85.0,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",World,World,31670652.0,26.1551249,50.5344606,,,852010Bahrain,World,World,1043872478.0
 2010.0,2010.0,Export,Bahrain,86.0,"Railway or tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",World,World,583827.0,26.1551249,50.5344606,,,862010Bahrain,World,World,1842206.0
+2010.0,2010.0,Export,Bahrain,87.0,"Vehicles other than railway or tramway rolling-stock, and parts and accessories thereof",World,World,227964216.0,26.1551249,50.5344606,,,872010Bahrain,World,World,1161868360.0
 2010.0,2010.0,Export,Bahrain,88.0,"Aircraft, spacecraft, and parts thereof",World,World,1747242.0,26.1551249,50.5344606,,,882010Bahrain,World,World,46195788.0
 2010.0,2010.0,Export,Bahrain,89.0,"Ships, boats and floating structures",World,World,20427447.0,26.1551249,50.5344606,,,892010Bahrain,World,World,21483471.0
+2010.0,2010.0,Export,Bahrain,90.0,"Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",World,World,8691208.0,26.1551249,50.5344606,,,902010Bahrain,World,World,100106419.0
+2010.0,2010.0,Export,Bahrain,91.0,Clocks and watches and parts thereof,World,World,1537367.0,26.1551249,50.5344606,,,912010Bahrain,World,World,45758256.0
 2010.0,2010.0,Export,Bahrain,92.0,Musical instruments; parts and accessories of such articles,World,World,70194.0,26.1551249,50.5344606,,,922010Bahrain,World,World,1259543.0
 2010.0,2010.0,Export,Bahrain,94.0,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like; prefabricated buildings",World,World,46386104.0,26.1551249,50.5344606,,,942010Bahrain,World,World,177687414.0
 2010.0,2010.0,Export,Bahrain,95.0,"Toys, games and sports requisites; parts and accessories thereof",World,World,1094689.0,26.1551249,50.5344606,,,952010Bahrain,World,World,19794182.0
+2010.0,2010.0,Export,Bahrain,96.0,Miscellaneous manufactured articles,World,World,269878.0,26.1551249,50.5344606,,,962010Bahrain,World,World,15202725.0
+2010.0,2010.0,Export,Bahrain,97.0,"Works of art, collectors' pieces and antiques",World,World,55013.0,26.1551249,50.5344606,,,972010Bahrain,World,World,1827782.0
 2010.0,2010.0,Export,Bahrain,99.0,Commodities not specified according to kind,World,World,8493763.0,26.1551249,50.5344606,,,992010Bahrain,World,World,467331.0

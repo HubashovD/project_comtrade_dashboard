@@ -1,7 +1,9 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,TradeValue_export,rtLat,rtLon,ptLon,ptLat,mid,Subregion_import,Region_import,TradeValue_import
+2014.0,2014.0,Export,Bahrain,1.0,Animals; live,World,World,4802689.0,26.1551249,50.5344606,,,12014Bahrain,World,World,57306925.0
 2014.0,2014.0,Export,Bahrain,2.0,Meat and edible meat offal,World,World,1569709.0,26.1551249,50.5344606,,,22014Bahrain,World,World,298568167.0
 2014.0,2014.0,Export,Bahrain,3.0,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,24114383.0,26.1551249,50.5344606,,,32014Bahrain,World,World,30890180.0
 2014.0,2014.0,Export,Bahrain,4.0,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,205953019.0,26.1551249,50.5344606,,,42014Bahrain,World,World,282797653.0
+2014.0,2014.0,Export,Bahrain,5.0,Animal originated products; not elsewhere specified or included,World,World,422732.0,26.1551249,50.5344606,,,52014Bahrain,World,World,398358.0
 2014.0,2014.0,Export,Bahrain,6.0,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",World,World,91474.0,26.1551249,50.5344606,,,62014Bahrain,World,World,8665179.0
 2014.0,2014.0,Export,Bahrain,7.0,Vegetables and certain roots and tubers; edible,World,World,1426408.0,26.1551249,50.5344606,,,72014Bahrain,World,World,108157001.0
 2014.0,2014.0,Export,Bahrain,9.0,"Coffee, tea, mate and spices",World,World,4244138.0,26.1551249,50.5344606,,,92014Bahrain,World,World,33595915.0
@@ -41,6 +43,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2014.0,2014.0,Export,Bahrain,46.0,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",World,World,679397.0,26.1551249,50.5344606,,,462014Bahrain,World,World,2618167.0
 2014.0,2014.0,Export,Bahrain,47.0,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,World,World,4368682.0,26.1551249,50.5344606,,,472014Bahrain,World,World,26760699.0
 2014.0,2014.0,Export,Bahrain,48.0,"Paper and paperboard; articles of paper pulp, of paper or paperboard",World,World,120910306.0,26.1551249,50.5344606,,,482014Bahrain,World,World,117804045.0
+2014.0,2014.0,Export,Bahrain,49.0,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",World,World,3846303.0,26.1551249,50.5344606,,,492014Bahrain,World,World,40242583.0
 2014.0,2014.0,Export,Bahrain,52.0,Cotton,World,World,54236908.0,26.1551249,50.5344606,,,522014Bahrain,World,World,190435388.0
 2014.0,2014.0,Export,Bahrain,53.0,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,World,World,107428.0,26.1551249,50.5344606,,,532014Bahrain,World,World,452260.0
 2014.0,2014.0,Export,Bahrain,54.0,Man-made filaments; strip and the like of man-made textile materials,World,World,2508459.0,26.1551249,50.5344606,,,542014Bahrain,World,World,21324087.0
@@ -51,11 +54,13 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2014.0,2014.0,Export,Bahrain,59.0,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",World,World,485516.0,26.1551249,50.5344606,,,592014Bahrain,World,World,4928988.0
 2014.0,2014.0,Export,Bahrain,61.0,Apparel and clothing accessories; knitted or crocheted,World,World,53234182.0,26.1551249,50.5344606,,,612014Bahrain,World,World,136416673.0
 2014.0,2014.0,Export,Bahrain,62.0,Apparel and clothing accessories; not knitted or crocheted,World,World,121708055.0,26.1551249,50.5344606,,,622014Bahrain,World,World,123391730.0
+2014.0,2014.0,Export,Bahrain,64.0,Footwear; gaiters and the like; parts of such articles,World,World,8764711.0,26.1551249,50.5344606,,,642014Bahrain,World,World,58934840.0
 2014.0,2014.0,Export,Bahrain,65.0,Headgear and parts thereof,World,World,764776.0,26.1551249,50.5344606,,,652014Bahrain,World,World,4845041.0
 2014.0,2014.0,Export,Bahrain,66.0,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",World,World,10962.0,26.1551249,50.5344606,,,662014Bahrain,World,World,741497.0
 2014.0,2014.0,Export,Bahrain,67.0,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",World,World,28321.0,26.1551249,50.5344606,,,672014Bahrain,World,World,1719423.0
 2014.0,2014.0,Export,Bahrain,69.0,Ceramic products,World,World,5324863.0,26.1551249,50.5344606,,,692014Bahrain,World,World,93264816.0
 2014.0,2014.0,Export,Bahrain,71.0,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",World,World,474331676.0,26.1551249,50.5344606,,,712014Bahrain,World,World,468153113.0
+2014.0,2014.0,Export,Bahrain,72.0,Iron and steel,World,World,631480814.0,26.1551249,50.5344606,,,722014Bahrain,World,World,226526853.0
 2014.0,2014.0,Export,Bahrain,73.0,Iron or steel articles,World,World,82361479.0,26.1551249,50.5344606,,,732014Bahrain,World,World,288715388.0
 2014.0,2014.0,Export,Bahrain,74.0,Copper and articles thereof,World,World,6517169.0,26.1551249,50.5344606,,,742014Bahrain,World,World,32912252.0
 2014.0,2014.0,Export,Bahrain,75.0,Nickel and articles thereof,World,World,545822.0,26.1551249,50.5344606,,,752014Bahrain,World,World,1500956.0
@@ -74,6 +79,7 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2014.0,2014.0,Export,Bahrain,89.0,"Ships, boats and floating structures",World,World,90495648.0,26.1551249,50.5344606,,,892014Bahrain,World,World,176621287.0
 2014.0,2014.0,Export,Bahrain,90.0,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",World,World,58114765.0,26.1551249,50.5344606,,,902014Bahrain,World,World,133671934.0
 2014.0,2014.0,Export,Bahrain,91.0,Clocks and watches and parts thereof,World,World,8893165.0,26.1551249,50.5344606,,,912014Bahrain,World,World,65331693.0
+2014.0,2014.0,Export,Bahrain,92.0,Musical instruments; parts and accessories of such articles,World,World,963839.0,26.1551249,50.5344606,,,922014Bahrain,World,World,1189730.0
 2014.0,2014.0,Export,Bahrain,94.0,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",World,World,67115211.0,26.1551249,50.5344606,,,942014Bahrain,World,World,193817444.0
 2014.0,2014.0,Export,Bahrain,95.0,"Toys, games and sports requisites; parts and accessories thereof",World,World,2340562.0,26.1551249,50.5344606,,,952014Bahrain,World,World,31740919.0
 2014.0,2014.0,Export,Bahrain,97.0,Works of art; collectors' pieces and antiques,World,World,186121.0,26.1551249,50.5344606,,,972014Bahrain,World,World,2619205.0

@@ -1,8 +1,10 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,TradeValue_export,rtLat,rtLon,ptLon,ptLat,mid,Subregion_import,Region_import,TradeValue_import
 2018.0,2018.0,Export,Bahrain,1.0,Animals; live,World,World,1277076.0,26.1551249,50.5344606,,,12018Bahrain,World,World,19643787.0
+2018.0,2018.0,Export,Bahrain,2.0,Meat and edible meat offal,World,World,3870675.0,26.1551249,50.5344606,,,22018Bahrain,World,World,237200820.0
 2018.0,2018.0,Export,Bahrain,3.0,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,67900339.0,26.1551249,50.5344606,,,32018Bahrain,World,World,64818867.0
 2018.0,2018.0,Export,Bahrain,4.0,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,142067715.0,26.1551249,50.5344606,,,42018Bahrain,World,World,288103997.0
 2018.0,2018.0,Export,Bahrain,6.0,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",World,World,785343.0,26.1551249,50.5344606,,,62018Bahrain,World,World,12179798.0
+2018.0,2018.0,Export,Bahrain,7.0,Vegetables and certain roots and tubers; edible,World,World,8267360.0,26.1551249,50.5344606,,,72018Bahrain,World,World,121424378.0
 2018.0,2018.0,Export,Bahrain,8.0,"Fruit and nuts, edible; peel of citrus fruit or melons",World,World,6902763.0,26.1551249,50.5344606,,,82018Bahrain,World,World,179867160.0
 2018.0,2018.0,Export,Bahrain,9.0,"Coffee, tea, mate and spices",World,World,4372183.0,26.1551249,50.5344606,,,92018Bahrain,World,World,42536865.0
 2018.0,2018.0,Export,Bahrain,10.0,Cereals,World,World,754006.0,26.1551249,50.5344606,,,102018Bahrain,World,World,119960177.0
@@ -47,3 +49,37 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2018.0,2018.0,Export,Bahrain,50.0,Silk,World,World,14390.0,26.1551249,50.5344606,,,502018Bahrain,World,World,701659.0
 2018.0,2018.0,Export,Bahrain,51.0,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",World,World,7069.0,26.1551249,50.5344606,,,512018Bahrain,World,World,512298.0
 2018.0,2018.0,Export,Bahrain,52.0,Cotton,World,World,59114234.0,26.1551249,50.5344606,,,522018Bahrain,World,World,57184942.0
+2018.0,2018.0,Export,Bahrain,53.0,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,World,World,33690.0,26.1551249,50.5344606,,,532018Bahrain,World,World,726301.0
+2018.0,2018.0,Export,Bahrain,54.0,Man-made filaments; strip and the like of man-made textile materials,World,World,228620.0,26.1551249,50.5344606,,,542018Bahrain,World,World,12935549.0
+2018.0,2018.0,Export,Bahrain,56.0,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",World,World,433614.0,26.1551249,50.5344606,,,562018Bahrain,World,World,15537414.0
+2018.0,2018.0,Export,Bahrain,57.0,Carpets and other textile floor coverings,World,World,537260.0,26.1551249,50.5344606,,,572018Bahrain,World,World,18099762.0
+2018.0,2018.0,Export,Bahrain,59.0,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",World,World,374596.0,26.1551249,50.5344606,,,592018Bahrain,World,World,7949104.0
+2018.0,2018.0,Export,Bahrain,60.0,Fabrics; knitted or crocheted,World,World,188134.0,26.1551249,50.5344606,,,602018Bahrain,World,World,1044914.0
+2018.0,2018.0,Export,Bahrain,61.0,Apparel and clothing accessories; knitted or crocheted,World,World,31245951.0,26.1551249,50.5344606,,,612018Bahrain,World,World,146715294.0
+2018.0,2018.0,Export,Bahrain,64.0,Footwear; gaiters and the like; parts of such articles,World,World,23318644.0,26.1551249,50.5344606,,,642018Bahrain,World,World,79975348.0
+2018.0,2018.0,Export,Bahrain,65.0,Headgear and parts thereof,World,World,2253646.0,26.1551249,50.5344606,,,652018Bahrain,World,World,4775075.0
+2018.0,2018.0,Export,Bahrain,66.0,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",World,World,5232.0,26.1551249,50.5344606,,,662018Bahrain,World,World,799297.0
+2018.0,2018.0,Export,Bahrain,67.0,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",World,World,43007.0,26.1551249,50.5344606,,,672018Bahrain,World,World,2444644.0
+2018.0,2018.0,Export,Bahrain,68.0,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",World,World,4873101.0,26.1551249,50.5344606,,,682018Bahrain,World,World,80155971.0
+2018.0,2018.0,Export,Bahrain,69.0,Ceramic products,World,World,11538997.0,26.1551249,50.5344606,,,692018Bahrain,World,World,103275471.0
+2018.0,2018.0,Export,Bahrain,70.0,Glass and glassware,World,World,101173762.0,26.1551249,50.5344606,,,702018Bahrain,World,World,79525266.0
+2018.0,2018.0,Export,Bahrain,72.0,Iron and steel,World,World,695603142.0,26.1551249,50.5344606,,,722018Bahrain,World,World,347683045.0
+2018.0,2018.0,Export,Bahrain,73.0,Iron or steel articles,World,World,341917428.0,26.1551249,50.5344606,,,732018Bahrain,World,World,383474605.0
+2018.0,2018.0,Export,Bahrain,74.0,Copper and articles thereof,World,World,9719727.0,26.1551249,50.5344606,,,742018Bahrain,World,World,48701243.0
+2018.0,2018.0,Export,Bahrain,75.0,Nickel and articles thereof,World,World,10961399.0,26.1551249,50.5344606,,,752018Bahrain,World,World,2346214.0
+2018.0,2018.0,Export,Bahrain,78.0,Lead and articles thereof,World,World,29041.0,26.1551249,50.5344606,,,782018Bahrain,World,World,321775.0
+2018.0,2018.0,Export,Bahrain,79.0,Zinc and articles thereof,World,World,471499.0,26.1551249,50.5344606,,,792018Bahrain,World,World,6047578.0
+2018.0,2018.0,Export,Bahrain,81.0,"Metals; n.e.c., cermets and articles thereof",World,World,767833.0,26.1551249,50.5344606,,,812018Bahrain,World,World,17712673.0
+2018.0,2018.0,Export,Bahrain,82.0,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",World,World,7757358.0,26.1551249,50.5344606,,,822018Bahrain,World,World,32271415.0
+2018.0,2018.0,Export,Bahrain,83.0,Metal; miscellaneous products of base metal,World,World,42465748.0,26.1551249,50.5344606,,,832018Bahrain,World,World,60534102.0
+2018.0,2018.0,Export,Bahrain,84.0,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",World,World,295118672.0,26.1551249,50.5344606,,,842018Bahrain,World,World,1977772579.0
+2018.0,2018.0,Export,Bahrain,86.0,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",World,World,18542548.0,26.1551249,50.5344606,,,862018Bahrain,World,World,10723694.0
+2018.0,2018.0,Export,Bahrain,87.0,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",World,World,403330549.0,26.1551249,50.5344606,,,872018Bahrain,World,World,1352983853.0
+2018.0,2018.0,Export,Bahrain,88.0,"Aircraft, spacecraft and parts thereof",World,World,25666373.0,26.1551249,50.5344606,,,882018Bahrain,World,World,107329377.0
+2018.0,2018.0,Export,Bahrain,89.0,"Ships, boats and floating structures",World,World,26852680.0,26.1551249,50.5344606,,,892018Bahrain,World,World,484289053.0
+2018.0,2018.0,Export,Bahrain,92.0,Musical instruments; parts and accessories of such articles,World,World,69554.0,26.1551249,50.5344606,,,922018Bahrain,World,World,1595982.0
+2018.0,2018.0,Export,Bahrain,93.0,Arms and ammunition; parts and accessories thereof,World,World,45385.0,26.1551249,50.5344606,,,932018Bahrain,World,World,373559.0
+2018.0,2018.0,Export,Bahrain,94.0,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",World,World,76749281.0,26.1551249,50.5344606,,,942018Bahrain,World,World,221243081.0
+2018.0,2018.0,Export,Bahrain,95.0,"Toys, games and sports requisites; parts and accessories thereof",World,World,3037219.0,26.1551249,50.5344606,,,952018Bahrain,World,World,42185577.0
+2018.0,2018.0,Export,Bahrain,96.0,Miscellaneous manufactured articles,World,World,41389058.0,26.1551249,50.5344606,,,962018Bahrain,World,World,53049025.0
+2018.0,2018.0,Export,Bahrain,99.0,Commodities not specified according to kind,World,World,9674025.0,26.1551249,50.5344606,,,992018Bahrain,World,World,3179557.0

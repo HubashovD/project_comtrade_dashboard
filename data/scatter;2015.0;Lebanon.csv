@@ -1,16 +1,80 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,TradeValue_export,rtLat,rtLon,ptLon,ptLat,mid,Subregion_import,Region_import,TradeValue_import
-2015.0,2015.0,Export,Lebanon,84.0,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",World,World,207363267.0,33.8750629,35.843409,,,842015Lebanon,World,World,1172125973.0
-2015.0,2015.0,Export,Lebanon,85.0,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",World,World,206588069.0,33.8750629,35.843409,,,852015Lebanon,World,World,821545071.0
-2015.0,2015.0,Export,Lebanon,86.0,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",World,World,144398.0,33.8750629,35.843409,,,862015Lebanon,World,World,1818319.0
-2015.0,2015.0,Export,Lebanon,87.0,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",World,World,18676383.0,33.8750629,35.843409,,,872015Lebanon,World,World,1646341690.0
-2015.0,2015.0,Export,Lebanon,88.0,"Aircraft, spacecraft and parts thereof",World,World,4088404.0,33.8750629,35.843409,,,882015Lebanon,World,World,100193018.0
-2015.0,2015.0,Export,Lebanon,89.0,"Ships, boats and floating structures",World,World,261826.0,33.8750629,35.843409,,,892015Lebanon,World,World,10002592.0
-2015.0,2015.0,Export,Lebanon,90.0,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",World,World,6702911.0,33.8750629,35.843409,,,902015Lebanon,World,World,274723445.0
-2015.0,2015.0,Export,Lebanon,91.0,Clocks and watches and parts thereof,World,World,10645781.0,33.8750629,35.843409,,,912015Lebanon,World,World,52474882.0
-2015.0,2015.0,Export,Lebanon,92.0,Musical instruments; parts and accessories of such articles,World,World,146414.0,33.8750629,35.843409,,,922015Lebanon,World,World,4381721.0
-2015.0,2015.0,Export,Lebanon,93.0,Arms and ammunition; parts and accessories thereof,World,World,317798.0,33.8750629,35.843409,,,932015Lebanon,World,World,23882904.0
-2015.0,2015.0,Export,Lebanon,94.0,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",World,World,79205986.0,33.8750629,35.843409,,,942015Lebanon,World,World,239648831.0
-2015.0,2015.0,Export,Lebanon,95.0,"Toys, games and sports requisites; parts and accessories thereof",World,World,3654395.0,33.8750629,35.843409,,,952015Lebanon,World,World,86712546.0
-2015.0,2015.0,Export,Lebanon,96.0,Miscellaneous manufactured articles,World,World,21580321.0,33.8750629,35.843409,,,962015Lebanon,World,World,103393794.0
-2015.0,2015.0,Export,Lebanon,97.0,Works of art; collectors' pieces and antiques,World,World,3387588.0,33.8750629,35.843409,,,972015Lebanon,World,World,16358375.0
-2015.0,2015.0,Export,Lebanon,99.0,Commodities not specified according to kind,World,World,3507806.0,33.8750629,35.843409,,,992015Lebanon,World,World,11440474.0
+2015.0,2015.0,Export,Lebanon,1.0,Animals; live,World,World,18034501.0,33.87,35.84,,,12015Lebanon,World,World,357897149.0
+2015.0,2015.0,Export,Lebanon,2.0,Meat and edible meat offal,World,World,2109430.0,33.87,35.84,,,22015Lebanon,World,World,154278937.0
+2015.0,2015.0,Export,Lebanon,3.0,"Fish and crustaceans, molluscs and other aquatic invertebrates",World,World,873817.0,33.87,35.84,,,32015Lebanon,World,World,84463751.0
+2015.0,2015.0,Export,Lebanon,4.0,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,7423236.0,33.87,35.84,,,42015Lebanon,World,World,307315554.0
+2015.0,2015.0,Export,Lebanon,5.0,Animal originated products; not elsewhere specified or included,World,World,3774803.0,33.87,35.84,,,52015Lebanon,World,World,4622963.0
+2015.0,2015.0,Export,Lebanon,6.0,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",World,World,467253.0,33.87,35.84,,,62015Lebanon,World,World,22642089.0
+2015.0,2015.0,Export,Lebanon,7.0,Vegetables and certain roots and tubers; edible,World,World,57605404.0,33.87,35.84,,,72015Lebanon,World,World,128776727.0
+2015.0,2015.0,Export,Lebanon,9.0,"Coffee, tea, mate and spices",World,World,33359816.0,33.87,35.84,,,92015Lebanon,World,World,107884385.0
+2015.0,2015.0,Export,Lebanon,10.0,Cereals,World,World,12571289.0,33.87,35.84,,,102015Lebanon,World,World,315486786.0
+2015.0,2015.0,Export,Lebanon,11.0,"Products of the milling industry; malt, starches, inulin, wheat gluten",World,World,15885926.0,33.87,35.84,,,112015Lebanon,World,World,29973864.0
+2015.0,2015.0,Export,Lebanon,12.0,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",World,World,3248700.0,33.87,35.84,,,122015Lebanon,World,World,121954507.0
+2015.0,2015.0,Export,Lebanon,13.0,"Lac; gums, resins and other vegetable saps and extracts",World,World,413247.0,33.87,35.84,,,132015Lebanon,World,World,1776942.0
+2015.0,2015.0,Export,Lebanon,14.0,Vegetable plaiting materials; vegetable products not elsewhere specified or included,World,World,66569.0,33.87,35.84,,,142015Lebanon,World,World,395025.0
+2015.0,2015.0,Export,Lebanon,15.0,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,World,World,33679970.0,33.87,35.84,,,152015Lebanon,World,World,164072420.0
+2015.0,2015.0,Export,Lebanon,16.0,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",World,World,16743445.0,33.87,35.84,,,162015Lebanon,World,World,99910044.0
+2015.0,2015.0,Export,Lebanon,17.0,Sugars and sugar confectionery,World,World,77959050.0,33.87,35.84,,,172015Lebanon,World,World,176481063.0
+2015.0,2015.0,Export,Lebanon,19.0,"Preparations of cereals, flour, starch or milk; pastrycooks' products",World,World,49530021.0,33.87,35.84,,,192015Lebanon,World,World,278788398.0
+2015.0,2015.0,Export,Lebanon,21.0,Miscellaneous edible preparations,World,World,72257920.0,33.87,35.84,,,212015Lebanon,World,World,196968038.0
+2015.0,2015.0,Export,Lebanon,22.0,"Beverages, spirits and vinegar",World,World,82068943.0,33.87,35.84,,,222015Lebanon,World,World,124933351.0
+2015.0,2015.0,Export,Lebanon,24.0,Tobacco and manufactured tobacco substitutes,World,World,17651917.0,33.87,35.84,,,242015Lebanon,World,World,176940647.0
+2015.0,2015.0,Export,Lebanon,25.0,"Salt; sulphur; earths, stone; plastering materials, lime and cement",World,World,6351787.0,33.87,35.84,,,252015Lebanon,World,World,115959154.0
+2015.0,2015.0,Export,Lebanon,26.0,"Ores, slag and ash",World,World,290828.0,33.87,35.84,,,262015Lebanon,World,World,3129759.0
+2015.0,2015.0,Export,Lebanon,28.0,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",World,World,49557334.0,33.87,35.84,,,282015Lebanon,World,World,32220585.0
+2015.0,2015.0,Export,Lebanon,29.0,Organic chemicals,World,World,4293994.0,33.87,35.84,,,292015Lebanon,World,World,82096569.0
+2015.0,2015.0,Export,Lebanon,31.0,Fertilizers,World,World,80235118.0,33.87,35.84,,,312015Lebanon,World,World,56922999.0
+2015.0,2015.0,Export,Lebanon,35.0,Albuminoidal substances; modified starches; glues; enzymes,World,World,692452.0,33.87,35.84,,,352015Lebanon,World,World,21029442.0
+2015.0,2015.0,Export,Lebanon,36.0,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,World,World,31860.0,33.87,35.84,,,362015Lebanon,World,World,9358060.0
+2015.0,2015.0,Export,Lebanon,39.0,Plastics and articles thereof,World,World,124566647.0,33.87,35.84,,,392015Lebanon,World,World,624214768.0
+2015.0,2015.0,Export,Lebanon,40.0,Rubber and articles thereof,World,World,4136842.0,33.87,35.84,,,402015Lebanon,World,World,133608554.0
+2015.0,2015.0,Export,Lebanon,41.0,Raw hides and skins (other than furskins) and leather,World,World,6275992.0,33.87,35.84,,,412015Lebanon,World,World,4415310.0
+2015.0,2015.0,Export,Lebanon,42.0,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",World,World,9591156.0,33.87,35.84,,,422015Lebanon,World,World,72944221.0
+2015.0,2015.0,Export,Lebanon,43.0,Furskins and artificial fur; manufactures thereof,World,World,11070.0,33.87,35.84,,,432015Lebanon,World,World,3214622.0
+2015.0,2015.0,Export,Lebanon,44.0,Wood and articles of wood; wood charcoal,World,World,12152974.0,33.87,35.84,,,442015Lebanon,World,World,234727047.0
+2015.0,2015.0,Export,Lebanon,45.0,Cork and articles of cork,World,World,111852.0,33.87,35.84,,,452015Lebanon,World,World,1644071.0
+2015.0,2015.0,Export,Lebanon,47.0,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,World,World,387064.0,33.87,35.84,,,472015Lebanon,World,World,20015267.0
+2015.0,2015.0,Export,Lebanon,49.0,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",World,World,78148175.0,33.87,35.84,,,492015Lebanon,World,World,57145516.0
+2015.0,2015.0,Export,Lebanon,50.0,Silk,World,World,800343.0,33.87,35.84,,,502015Lebanon,World,World,4265522.0
+2015.0,2015.0,Export,Lebanon,51.0,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",World,World,6010082.0,33.87,35.84,,,512015Lebanon,World,World,3555369.0
+2015.0,2015.0,Export,Lebanon,52.0,Cotton,World,World,6390857.0,33.87,35.84,,,522015Lebanon,World,World,20385179.0
+2015.0,2015.0,Export,Lebanon,53.0,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,World,World,34685.0,33.87,35.84,,,532015Lebanon,World,World,3063175.0
+2015.0,2015.0,Export,Lebanon,54.0,Man-made filaments; strip and the like of man-made textile materials,World,World,1268126.0,33.87,35.84,,,542015Lebanon,World,World,29570207.0
+2015.0,2015.0,Export,Lebanon,55.0,Man-made staple fibres,World,World,5601269.0,33.87,35.84,,,552015Lebanon,World,World,47553399.0
+2015.0,2015.0,Export,Lebanon,56.0,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",World,World,4546134.0,33.87,35.84,,,562015Lebanon,World,World,21149417.0
+2015.0,2015.0,Export,Lebanon,57.0,Carpets and other textile floor coverings,World,World,2201349.0,33.87,35.84,,,572015Lebanon,World,World,30019929.0
+2015.0,2015.0,Export,Lebanon,59.0,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",World,World,314190.0,33.87,35.84,,,592015Lebanon,World,World,14702222.0
+2015.0,2015.0,Export,Lebanon,61.0,Apparel and clothing accessories; knitted or crocheted,World,World,18349863.0,33.87,35.84,,,612015Lebanon,World,World,212155200.0
+2015.0,2015.0,Export,Lebanon,62.0,Apparel and clothing accessories; not knitted or crocheted,World,World,46304796.0,33.87,35.84,,,622015Lebanon,World,World,319778073.0
+2015.0,2015.0,Export,Lebanon,63.0,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",World,World,8308357.0,33.87,35.84,,,632015Lebanon,World,World,49515537.0
+2015.0,2015.0,Export,Lebanon,64.0,Footwear; gaiters and the like; parts of such articles,World,World,15145347.0,33.87,35.84,,,642015Lebanon,World,World,146160940.0
+2015.0,2015.0,Export,Lebanon,65.0,Headgear and parts thereof,World,World,199259.0,33.87,35.84,,,652015Lebanon,World,World,6957631.0
+2015.0,2015.0,Export,Lebanon,66.0,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",World,World,67300.0,33.87,35.84,,,662015Lebanon,World,World,2568384.0
+2015.0,2015.0,Export,Lebanon,67.0,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",World,World,1211068.0,33.87,35.84,,,672015Lebanon,World,World,3995729.0
+2015.0,2015.0,Export,Lebanon,68.0,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",World,World,14382598.0,33.87,35.84,,,682015Lebanon,World,World,110730915.0
+2015.0,2015.0,Export,Lebanon,69.0,Ceramic products,World,World,4753929.0,33.87,35.84,,,692015Lebanon,World,World,205969239.0
+2015.0,2015.0,Export,Lebanon,70.0,Glass and glassware,World,World,7382121.0,33.87,35.84,,,702015Lebanon,World,World,110734757.0
+2015.0,2015.0,Export,Lebanon,71.0,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",World,World,434202851.0,33.87,35.84,,,712015Lebanon,World,World,821344024.0
+2015.0,2015.0,Export,Lebanon,73.0,Iron or steel articles,World,World,51391793.0,33.87,35.84,,,732015Lebanon,World,World,208407474.0
+2015.0,2015.0,Export,Lebanon,76.0,Aluminium and articles thereof,World,World,68913877.0,33.87,35.84,,,762015Lebanon,World,World,201783693.0
+2015.0,2015.0,Export,Lebanon,78.0,Lead and articles thereof,World,World,23341180.0,33.87,35.84,,,782015Lebanon,World,World,415085.0
+2015.0,2015.0,Export,Lebanon,79.0,Zinc and articles thereof,World,World,345753.0,33.87,35.84,,,792015Lebanon,World,World,1646711.0
+2015.0,2015.0,Export,Lebanon,80.0,Tin; articles thereof,World,World,241.0,33.87,35.84,,,802015Lebanon,World,World,369271.0
+2015.0,2015.0,Export,Lebanon,81.0,"Metals; n.e.c., cermets and articles thereof",World,World,11993.0,33.87,35.84,,,812015Lebanon,World,World,1301644.0
+2015.0,2015.0,Export,Lebanon,82.0,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",World,World,8521012.0,33.87,35.84,,,822015Lebanon,World,World,47211332.0
+2015.0,2015.0,Export,Lebanon,83.0,Metal; miscellaneous products of base metal,World,World,10002097.0,33.87,35.84,,,832015Lebanon,World,World,74108170.0
+2015.0,2015.0,Export,Lebanon,84.0,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",World,World,207363267.0,33.87,35.84,,,842015Lebanon,World,World,1172125973.0
+2015.0,2015.0,Export,Lebanon,85.0,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",World,World,206588069.0,33.87,35.84,,,852015Lebanon,World,World,821545071.0
+2015.0,2015.0,Export,Lebanon,86.0,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",World,World,144398.0,33.87,35.84,,,862015Lebanon,World,World,1818319.0
+2015.0,2015.0,Export,Lebanon,87.0,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",World,World,18676383.0,33.87,35.84,,,872015Lebanon,World,World,1646341690.0
+2015.0,2015.0,Export,Lebanon,88.0,"Aircraft, spacecraft and parts thereof",World,World,4088404.0,33.87,35.84,,,882015Lebanon,World,World,100193018.0
+2015.0,2015.0,Export,Lebanon,89.0,"Ships, boats and floating structures",World,World,261826.0,33.87,35.84,,,892015Lebanon,World,World,10002592.0
+2015.0,2015.0,Export,Lebanon,90.0,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",World,World,6702911.0,33.87,35.84,,,902015Lebanon,World,World,274723445.0
+2015.0,2015.0,Export,Lebanon,91.0,Clocks and watches and parts thereof,World,World,10645781.0,33.87,35.84,,,912015Lebanon,World,World,52474882.0
+2015.0,2015.0,Export,Lebanon,92.0,Musical instruments; parts and accessories of such articles,World,World,146414.0,33.87,35.84,,,922015Lebanon,World,World,4381721.0
+2015.0,2015.0,Export,Lebanon,93.0,Arms and ammunition; parts and accessories thereof,World,World,317798.0,33.87,35.84,,,932015Lebanon,World,World,23882904.0
+2015.0,2015.0,Export,Lebanon,94.0,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",World,World,79205986.0,33.87,35.84,,,942015Lebanon,World,World,239648831.0
+2015.0,2015.0,Export,Lebanon,95.0,"Toys, games and sports requisites; parts and accessories thereof",World,World,3654395.0,33.87,35.84,,,952015Lebanon,World,World,86712546.0
+2015.0,2015.0,Export,Lebanon,96.0,Miscellaneous manufactured articles,World,World,21580321.0,33.87,35.84,,,962015Lebanon,World,World,103393794.0
+2015.0,2015.0,Export,Lebanon,97.0,Works of art; collectors' pieces and antiques,World,World,3387588.0,33.87,35.84,,,972015Lebanon,World,World,16358375.0
+2015.0,2015.0,Export,Lebanon,99.0,Commodities not specified according to kind,World,World,3507806.0,33.87,35.84,,,992015Lebanon,World,World,11440474.0

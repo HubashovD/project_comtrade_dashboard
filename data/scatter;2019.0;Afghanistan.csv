@@ -1,6 +1,7 @@
 yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,TradeValue_export,rtLat,rtLon,ptLon,ptLat,mid,Subregion_import,Region_import,TradeValue_import
 2019.0,2019.0,Export,Afghanistan,1.0,Animals; live,World,World,39466.0,33.7680065,66.2385139,,,12019Afghanistan,World,World,16791952.0
 2019.0,2019.0,Export,Afghanistan,2.0,Meat and edible meat offal,World,World,317255.0,33.7680065,66.2385139,,,22019Afghanistan,World,World,91535838.0
+2019.0,2019.0,Export,Afghanistan,4.0,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",World,World,57477.0,33.7680065,66.2385139,,,42019Afghanistan,World,World,81848564.0
 2019.0,2019.0,Export,Afghanistan,5.0,Animal originated products; not elsewhere specified or included,World,World,4329554.0,33.7680065,66.2385139,,,52019Afghanistan,World,World,39071.0
 2019.0,2019.0,Export,Afghanistan,6.0,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",World,World,645585.0,33.7680065,66.2385139,,,62019Afghanistan,World,World,390615.0
 2019.0,2019.0,Export,Afghanistan,7.0,Vegetables and certain roots and tubers; edible,World,World,80752700.0,33.7680065,66.2385139,,,72019Afghanistan,World,World,109072042.0
@@ -12,22 +13,29 @@ yr,periodDesc,rgDesc,rtTitle,cmdCode,cmdDescE,Subregion_export,Region_export,Tra
 2019.0,2019.0,Export,Afghanistan,14.0,Vegetable plaiting materials; vegetable products not elsewhere specified or included,World,World,70328.0,33.7680065,66.2385139,,,142019Afghanistan,World,World,6458066.0
 2019.0,2019.0,Export,Afghanistan,17.0,Sugars and sugar confectionery,World,World,215701.0,33.7680065,66.2385139,,,172019Afghanistan,World,World,227404927.0
 2019.0,2019.0,Export,Afghanistan,18.0,Cocoa and cocoa preparations,World,World,423825.0,33.7680065,66.2385139,,,182019Afghanistan,World,World,84882621.0
+2019.0,2019.0,Export,Afghanistan,20.0,"Preparations of vegetables, fruit, nuts or other parts of plants",World,World,1842518.0,33.7680065,66.2385139,,,202019Afghanistan,World,World,27613289.0
 2019.0,2019.0,Export,Afghanistan,22.0,"Beverages, spirits and vinegar",World,World,660496.0,33.7680065,66.2385139,,,222019Afghanistan,World,World,21426479.0
 2019.0,2019.0,Export,Afghanistan,23.0,"Food industries, residues and wastes thereof; prepared animal fodder",World,World,423012.0,33.7680065,66.2385139,,,232019Afghanistan,World,World,15819418.0
 2019.0,2019.0,Export,Afghanistan,24.0,Tobacco and manufactured tobacco substitutes,World,World,1222440.0,33.7680065,66.2385139,,,242019Afghanistan,World,World,78680180.0
 2019.0,2019.0,Export,Afghanistan,25.0,"Salt; sulphur; earths, stone; plastering materials, lime and cement",World,World,19003214.0,33.7680065,66.2385139,,,252019Afghanistan,World,World,6868308.0
+2019.0,2019.0,Export,Afghanistan,27.0,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",World,World,69573174.0,33.7680065,66.2385139,,,272019Afghanistan,World,World,1944548257.0
 2019.0,2019.0,Export,Afghanistan,32.0,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",World,World,20468.0,33.7680065,66.2385139,,,322019Afghanistan,World,World,17583167.0
 2019.0,2019.0,Export,Afghanistan,33.0,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",World,World,54104.0,33.7680065,66.2385139,,,332019Afghanistan,World,World,18016545.0
+2019.0,2019.0,Export,Afghanistan,35.0,Albuminoidal substances; modified starches; glues; enzymes,World,World,328122.0,33.7680065,66.2385139,,,352019Afghanistan,World,World,4091452.0
 2019.0,2019.0,Export,Afghanistan,38.0,Chemical products n.e.c.,World,World,27253.0,33.7680065,66.2385139,,,382019Afghanistan,World,World,9144091.0
 2019.0,2019.0,Export,Afghanistan,39.0,Plastics and articles thereof,World,World,174794.0,33.7680065,66.2385139,,,392019Afghanistan,World,World,120126493.0
 2019.0,2019.0,Export,Afghanistan,40.0,Rubber and articles thereof,World,World,59522.0,33.7680065,66.2385139,,,402019Afghanistan,World,World,186200119.0
 2019.0,2019.0,Export,Afghanistan,41.0,Raw hides and skins (other than furskins) and leather,World,World,7971772.0,33.7680065,66.2385139,,,412019Afghanistan,World,World,3312800.0
 2019.0,2019.0,Export,Afghanistan,42.0,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",World,World,25631.0,33.7680065,66.2385139,,,422019Afghanistan,World,World,6739170.0
+2019.0,2019.0,Export,Afghanistan,43.0,Furskins and artificial fur; manufactures thereof,World,World,86320.0,33.7680065,66.2385139,,,432019Afghanistan,,,
 2019.0,2019.0,Export,Afghanistan,44.0,Wood and articles of wood; wood charcoal,World,World,3891.0,33.7680065,66.2385139,,,442019Afghanistan,World,World,108515754.0
+2019.0,2019.0,Export,Afghanistan,48.0,"Paper and paperboard; articles of paper pulp, of paper or paperboard",World,World,52159.0,33.7680065,66.2385139,,,482019Afghanistan,World,World,140573478.0
 2019.0,2019.0,Export,Afghanistan,49.0,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",World,World,1575.0,33.7680065,66.2385139,,,492019Afghanistan,World,World,1267186.0
+2019.0,2019.0,Export,Afghanistan,50.0,Silk,World,World,486382.0,33.7680065,66.2385139,,,502019Afghanistan,World,World,100945.0
 2019.0,2019.0,Export,Afghanistan,51.0,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",World,World,5634559.0,33.7680065,66.2385139,,,512019Afghanistan,World,World,2625155.0
 2019.0,2019.0,Export,Afghanistan,52.0,Cotton,World,World,27526506.0,33.7680065,66.2385139,,,522019Afghanistan,World,World,19035822.0
 2019.0,2019.0,Export,Afghanistan,53.0,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,World,World,338741.0,33.7680065,66.2385139,,,532019Afghanistan,World,World,358940198.0
+2019.0,2019.0,Export,Afghanistan,56.0,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",World,World,688.0,33.7680065,66.2385139,,,562019Afghanistan,World,World,5454207.0
 2019.0,2019.0,Export,Afghanistan,57.0,Carpets and other textile floor coverings,World,World,24890649.0,33.7680065,66.2385139,,,572019Afghanistan,World,World,6612064.0
 2019.0,2019.0,Export,Afghanistan,58.0,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",World,World,673388.0,33.7680065,66.2385139,,,582019Afghanistan,World,World,81545928.0
 2019.0,2019.0,Export,Afghanistan,61.0,Apparel and clothing accessories; knitted or crocheted,World,World,3860.0,33.7680065,66.2385139,,,612019Afghanistan,World,World,14290985.0
