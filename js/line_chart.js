@@ -346,15 +346,15 @@ function line_chart() {
                 }
             } catch {}
 
-            legend_block.style.cssText = "display: grid; grid-template-columns: repeat(5, 1fr);  grid-auto-flow: row; margin-bottom 1vh; grid-template-rows: auto 1fr;" //grid-gap: 5px;
+            legend_block.style.cssText = "display: grid; grid-template-columns: repeat(5, 1fr);  grid-auto-flow: row; grid-template-rows: auto 1fr; gap:10px; margin:auto; width: center; align-self: center; align-items: center;"
 
             res.forEach(country => {
                 legendElement = document.createElement('div');
                 colorSquare = document.createElement('div');
                 legendText = document.createElement('p');
                 legendText.innerHTML = country
-                colorSquare.style.cssText = "height: 10px; width: 10px; background-color:" + color(country) + "; height: 12px;"
-                legendElement.style.cssText = "display: grid; grid-template-columns: 1fr 95%; align-items: center; height: fit-content; min-height: 12px; margin-bottom: 20px;"
+                colorSquare.style.cssText = "height: 10px; width: 10px; background-color:" + color(country) + "; height: 10px;"
+                legendElement.style.cssText = "display: grid; grid-template-columns: 1fr 95%; align-items: center; height: 12px;"
                 legend_block.appendChild(legendElement)
                 legendElement.appendChild(colorSquare)
                 legendElement.appendChild(legendText)
